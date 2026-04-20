@@ -4,7 +4,6 @@
 - **Definition**: A chronic inflammatory disorder of the airways characterised by airway hyper-responsiveness and variable, reversible airflow obstruction.
 - **Local Epidemiology**: Extremely common in HK (~10% of children). Exacerbations peak during seasonal changes (Spring/Autumn) and periods of poor air quality (high API).
 
-![image](http://medbase-media.3b5449ee7840ae524df2061752bbca1b.r2.cloudflarestorage.com/paediatrics/d918683960a40294d48464c6fd511fb8.png)
 ## 2. Pathophysiology & Genetics
 - **Mechanism**: Chronic eosinophilic (Type 2) inflammation of the bronchial mucosa.
 - **Triggers**: Viral URTI (most common trigger for acute exacerbations), aeroallergens (house dust mite is the most common in HK, cockroach, pet dander), exercise, cold air, pollution, passive smoking.

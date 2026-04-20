@@ -16,7 +16,7 @@
   "uploadVideo": false,
   "uploadAudio": false,
   "uploadPdf": false,
-  "bypassCors": false,
+  "bypassCors": true,
   "queryStringValue": "",
   "queryStringKey": "",
   "enableImageCompression": false,
