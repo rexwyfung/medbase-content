@@ -1,0 +1,15 @@
+{
+  "clients": [
+    {
+      "accessKey": "30d9c39e37185974991ab68c8b3e1cb3",
+      "secretKey": "357b9ae70f59e0906f1bc910c5951b4e1800d691cdbee84b2e799902a668fa2e",
+      "endPoint": "http://3b5449ee7840ae524df2061752bbca1b.r2.cloudflarestorage.com",
+      "folderName": "obsidian",
+      "bucketName": "medbase-media",
+      "id": "default"
+    }
+  ],
+  "port": "4998",
+  "activeClient": "default",
+  "rawMIME": "\n\timg, ico, image/x-icon\n\timg, png, image/png\n\timg, jpg, image/jpeg\n\timg, jpeg, image/jpeg\n\timg, gif, image/gif\n\timg, svg, image/svg+xml\n\tiframe, wav, audio/wav\n\tiframe, mp3, audio/mp3\n\tiframe, mp4, video/mp4\n\tiframe, webm, video/webm\n\tlink, pdf, application/pdf\n\tlink, zip, application/zip\n\tlink, doc, application/doc \n\n\t"
+}
