@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FMCC/Asthma.md",
+                "file": "FMCC/asthma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Asthma"
+              "title": "asthma"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FMCC/Asthma.md",
+                "file": "FMCC/asthma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Asthma"
+              "title": "Backlinks for asthma"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FMCC/Asthma.md",
+                "file": "FMCC/asthma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Asthma"
+              "title": "Outgoing links from asthma"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FMCC/Asthma.md",
+                "file": "FMCC/asthma.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Asthma"
+              "title": "Outline of asthma"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "c4fff6e78014f143",
   "lastOpenFiles": [
-    "FMCC/Asthma.md",
+    "FMCC/asthma.md",
     "FMCC",
-    "Paediatrics"
+    "paediatrics"
   ]
 }
