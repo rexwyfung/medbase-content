@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paediatrics/acute_epiglottitis.md",
+                "file": "paediatrics/achondroplasia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "acute_epiglottitis"
+              "title": "achondroplasia"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "97b5d4bbac2cc1e1",
@@ -187,8 +186,8 @@
   },
   "active": "0b23954923791f55",
   "lastOpenFiles": [
-    "paediatrics/achondroplasia.md",
     "paediatrics/acute_epiglottitis.md",
+    "paediatrics/achondroplasia.md",
     "paediatrics/vsd.md",
     "paediatrics/asthma.md",
     "paediatrics/autism.md",
