@@ -9,7 +9,7 @@
   "localUpload": false,
   "localUploadFolder": "",
   "useCustomEndpoint": true,
-  "customEndpoint": "http://3b5449ee7840ae524df2061752bbca1b.r2.cloudflarestorage.com/",
+  "customEndpoint": "https://3b5449ee7840ae524df2061752bbca1b.r2.cloudflarestorage.com/",
   "forcePathStyle": false,
   "useCustomImageUrl": true,
   "customImageUrl": "https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/",

@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c4fff6e78014f143",
+            "id": "0b23954923791f55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paediatrics/vsd.md",
+                "file": "paediatrics/achondroplasia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vsd"
+              "title": "achondroplasia"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "97b5d4bbac2cc1e1",
@@ -185,8 +184,11 @@
       "custom-image-auto-uploader:Custom Image Auto Uploader": false
     }
   },
-  "active": "c4fff6e78014f143",
+  "active": "0b23954923791f55",
   "lastOpenFiles": [
+    "paediatrics/acute_epiglottitis.md",
+    "paediatrics/achondroplasia.md",
+    "paediatrics/vsd.md",
     "paediatrics/asthma.md",
     "paediatrics/autism.md",
     "paediatrics/sma.md",
@@ -201,7 +203,6 @@
     "paediatrics/poisoning.md",
     "paediatrics/septicaemia.md",
     "paediatrics/osa.md",
-    "paediatrics/acute_epiglottitis.md",
     "paediatrics/tuberculosis.md",
     "paediatrics/lupus_nephritis.md",
     "paediatrics/iga_nephropathy.md",
@@ -211,8 +212,6 @@
     "paediatrics/brain_tumour.md",
     "paediatrics/infectious_mononucleosis.md",
     "paediatrics/haemophilia.md",
-    "paediatrics/itp.md",
-    "paediatrics/recurrent_abdominal_pain.md",
     "extract_notes.sh",
     "FMCC",
     "paediatrics"
