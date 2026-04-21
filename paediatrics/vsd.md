@@ -73,6 +73,7 @@ Presentation depends entirely on the size of the defect and the pulmonary vascul
 - **Eisenmenger Syndrome**: The most feared complication. If a large VSD is left untreated, chronic pulmonary overcirculation leads to irreversible pulmonary vascular remodeling and severe Pulmonary Hypertension. The pressure in the RV eventually exceeds the LV, causing the shunt to reverse (Right-to-Left). The patient becomes cyanotic. This is inoperable and eventually fatal.
 - **Aortic Regurgitation**: Especially common with supracristal/outlet VSDs due to the Venturi effect pulling the aortic valve cusp into the defect.
 - **Infective Endocarditis**: Rare in childhood, but a lifelong risk.
+- hallo
 
 ## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
 - *Viva*: "Why does a baby with a large VSD not present with heart failure on day 1 of life, but rather at 4-6 weeks?" (At birth, Pulmonary Vascular Resistance (PVR) is high, equal to Systemic Vascular Resistance (SVR), so there is minimal pressure gradient and minimal shunting. As PVR naturally falls over the first few weeks of life, the Left-to-Right shunt increases massively, leading to volume overload and heart failure).
