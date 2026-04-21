@@ -7,11 +7,15 @@
 ## 2. Pathophysiology & Genetics
 * **Pathogen**: 
   * Historically: **Haemophilus influenzae type b (Hib)** (>90%).
-  * Currently (in vaccinated pop.): *Streptococcus pneumoniae*, *Group A Streptococcus* (GAS), *Staphylococcus aureus* (including MRSA).
+  * Currently (in vaccinated pop.):
+	  * *Streptococcus pneumoniae*
+	  * *Group A Streptococcus* (GAS)
+	  * *Staphylococcus aureus* (including MRSA)
 * **Mechanism**: 
   * Bacterial invasion of supraglottic tissues → rapid & intense inflammatory oedema.
   * Epiglottis becomes **"cherry red" (櫻桃紅)** & swollen like a thumb.
   * Mechanical supraglottic airway obstruction just above vocal cords → ↑ risk of sudden asphyxia & death.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/92dd5e27dbbdd7a32d37ad5a6238b7d3.png)
 
 ## 3. Clinical Presentation
 * **Onset**: Abrupt & rapid progression over hours (not days).
@@ -28,17 +32,18 @@
   * **Tripod position (三腳架姿勢)**: Sitting upright, leaning forward, neck hyperextended, chin thrust forward (to maximize airway patency).
 * **Stridor (喘鳴)**: Soft, whispering, inspiratory stridor (late, ominous sign).
 * **Cough**: Absent or slight (NO barking cough).
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/27afc1332973c07fba72b2f1cd408e57.png)
 
 ## 5. Discriminatory Features (How to distinguish from similar conditions)
-| Feature | Acute Epiglottitis (急性會厭炎) | Croup (哮吼) |
-| :--- | :--- | :--- |
-| **Onset** | Hours (Rapid) | Days (Gradual) |
-| **Appearance** | Toxic, extremely ill | Unwell but not toxic |
-| **Fever** | High (>38.5°C) | Low grade (<38.5°C) |
+| Feature                 | Acute Epiglottitis (急性會厭炎)       | Croup (哮吼)                 |
+| :---------------------- | :------------------------------- | :------------------------- |
+| **Onset**               | Hours (Rapid)                    | Days (Gradual)             |
+| **Appearance**          | Toxic, extremely ill             | Unwell but not toxic       |
+| **Fever**               | High (>38.5°C)                   | Low grade (<38.5°C)        |
 | **Drooling/Swallowing** | Severe drooling, unable to drink | Able to drink, no drooling |
-| **Cough** | Absent or slight | Severe, barking (狗吠聲咳嗽) |
-| **Stridor** | Soft, whispering | Harsh, rasping |
-| **Voice** | Muffled ("hot potato") | Hoarse (沙啞) |
+| **Cough**               | Absent or slight                 | Severe, barking (狗吠聲咳嗽)    |
+| **Stridor**             | Soft, whispering                 | Harsh, rasping             |
+| **Voice**               | Muffled ("hot potato")           | Hoarse (沙啞)                |
 
 ## 6. Differential Diagnosis
 | Diagnosis | Differentiating Factors |
@@ -60,6 +65,7 @@
   * **Lateral Neck X-ray**: DO NOT DELAY AIRWAY MANAGEMENT for X-ray. If done, shows classic **"Thumbprint Sign" (拇指印徵)**.
 * **Bloods (Post-Intubation)**: 
   * Blood cultures, Epiglottic swab (for culture & sensitivities), CBC, CRP.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/449209dc8060f5bb20e82048e5d5b122.png)
 
 ## 8. Management (Acute, Chronic, HA Protocols)
 * **Acute (HA Emergency Protocol)**:
@@ -92,4 +98,4 @@
 ## 12. Examiner's Pearls
 * **Killer OSCE Trap**: "I will look in the throat to confirm..." → **Immediate Fail**. You must state: "I will **NOT** examine the throat, keep child calm, & summon senior Anaesthetic/ENT help to OT."
 * **Spot Diagnosis**: Toxic child + Drooling + Tripod posture = Epiglottitis until proven otherwise.
-* **Viva Question**: "Why is Epiglottitis virtually unseen in HK wards today?" → "Success of the routine HK Childhood Immunisation Programme containing the **Hib conjugate vaccine**."
+* **Viva Question**: "Why is Epiglottitis virtually unseen in HK wards today?" → "Low incidence rate of **Haemophilus influenzae type b (Hib)**."
