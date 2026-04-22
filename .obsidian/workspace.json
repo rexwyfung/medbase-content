@@ -187,8 +187,9 @@
   },
   "active": "e375fd5946be4a0f",
   "lastOpenFiles": [
-    "paediatrics/obesity.md",
+    "paediatrics/vsd.md",
     "paediatrics/perinatal_asphyxia.md",
+    "paediatrics/obesity.md",
     "paediatrics/faltering_growth.md",
     "paediatrics/torsion.md",
     "paediatrics/colic.md",
@@ -212,7 +213,6 @@
     "paediatrics/apsgn.md",
     "paediatrics/enteroviral_sepsis.md",
     "paediatrics/nas.md",
-    "paediatrics/bpd.md",
     "extract_notes.sh",
     "FMCC",
     "paediatrics"
