@@ -1,70 +1,165 @@
-
 # Small for Gestational Age (SGA) & Large for Gestational Age (LGA) (小於/大於胎齡兒)
+
 ## 1. Clinical Definition & Local Epidemiology
-- **SGA**: Birth weight < 10th percentile for gestational age and sex. (Note: Intrauterine Growth Restriction [IUGR] is a pathological restriction of fetal growth; not all SGA babies are IUGR, some are just constitutionally small).
-- **LGA**: Birth weight > 90th percentile for gestational age and sex (or > 4000g, macrosomia).
-- **Local Epidemiology**: Common issues in postnatal wards. Managed via specific HA protocols for blood glucose monitoring.
+
+### Clinical Definition of SGA
+* **SGA (小於胎齡兒)**: **Birth weight (出生體重)** < 10th percentile for gestational age & sex.
+* **IUGR (子宮內生長遲滯)**: Pathological ↓ in fetal growth rate. 
+* Note: Not all SGA = IUGR (some are constitutionally small with normal growth velocity).
+
+### Clinical Definition of LGA
+* **LGA (大於胎齡兒)**: **Birth weight** > 90th percentile for gestational age & sex OR **> 4000g** (**Macrosomia (巨嬰)**).
+
+### Local Epidemiology in Hong Kong
+* Highly common in HA postnatal wards.
+* Managed via strict **HA Capillary Blood Glucose (CBG)** monitoring protocols to prevent neurodevelopmental damage.
 
 ## 2. Pathophysiology & Genetics
-- **SGA / IUGR**:
-  - *Maternal*: Pre-eclampsia, chronic hypertension, smoking, severe malnutrition.
-  - *Placental*: Placental insufficiency, multiple gestation.
-  - *Fetal*: Chromosomal anomalies (e.g., Trisomy 18), congenital infections (TORCH, especially CMV).
-  - *Symmetrical SGA* (head and body small): Early insult (e.g., genetic, TORCH).
-  - *Asymmetrical SGA* (head sparing, skinny body): Late insult (e.g., placental insufficiency).
-- **LGA**:
-  - *Maternal*: **Gestational Diabetes Mellitus (GDM)** (most common pathological cause), maternal obesity, excessive weight gain.
-  - *Fetal*: Beckwith-Wiedemann Syndrome (macrosomia, macroglossia, omphalocele, hypoglycaemia).
 
-## 3. Clinical Presentation
-- See below.
+### Symmetrical SGA Pathophysiology
+* **Timing**: Early pregnancy insult (1st trimester) → ↓ total cell number.
+* **Morphology**: Head & body proportionately small.
+* **Maternal/Fetal Causes**:
+  * **Chromosomal anomalies**: Trisomy 13, 18, 21.
+  * **Congenital infections (TORCH)**: **CMV (巨細胞病毒)**, Rubella, Toxoplasmosis.
 
-## 4. Key Symptoms & Signs
-- **SGA**:
-  - Wasted appearance, loose skin, decreased subcutaneous fat, relatively large head (if asymmetrical).
-  - Prone to hypothermia (large surface area to volume ratio, lack of brown fat).
-- **LGA**:
-  - Plump, plethoric (red) appearance.
-  - Signs of birth trauma (due to cephalopelvic disproportion/shoulder dystocia): Clavicle fracture (crepitus), Erb's palsy (waiter's tip posture), cephalhaematoma.
-## 5. Discriminatory Features (How to distinguish from similar conditions)
-- **Prematurity vs. SGA**: A 34-week baby might weigh the same as a severely growth-restricted 40-week baby. Gestational age assessment (e.g., Ballard score) and antenatal dating are crucial.
+### Asymmetrical SGA Pathophysiology
+* **Timing**: Late pregnancy insult (3rd trimester) → ↓ cell size.
+* **Morphology**: Head-sparing (brain growth prioritized via redistributed blood flow), skinny body/limbs.
+* **Maternal/Placental Causes**:
+  * **Placental insufficiency (胎盤功能不全)**.
+  * Maternal **Pre-eclampsia (先兆子癇)** / chronic hypertension.
+  * Maternal smoking / severe malnutrition.
 
-## 6. Differential Diagnosis
-- **Most Likely**:
-  - SGA: Placental insufficiency, constitutional.
-  - LGA: Maternal GDM, constitutional.
-- **Must-Not-Miss**:
-  - **Neonatal Hypoglycaemia**: The most critical immediate risk for BOTH SGA and LGA infants.
-  - *SGA*: Due to depleted glycogen stores and reduced gluconeogenesis.
-  - *LGA (Infant of Diabetic Mother)*: Due to fetal hyperinsulinism (fetal pancreas hypertrophies in response to high maternal glucose; when the cord is cut, the high insulin levels cause profound hypoglycaemia).
+### LGA Pathophysiology
+* Maternal **Gestational Diabetes Mellitus (GDM) (妊娠糖尿病)** → ↑ maternal glucose crosses placenta → fetal pancreatic β-cell hyperplasia → ↑ fetal insulin → excessive somatic growth & fat deposition.
+* Maternal obesity / excessive weight gain.
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Bedside**:
-  - **Bedside Capillary Blood Glucose (CBG)**: **MANDATORY** protocol for all SGA and LGA infants. Usually checked pre-feed, starting shortly after birth, until stable > 2.6 mmol/L (or higher depending on specific HA hospital protocol).
-- **Gold Standard**:
-  - **SGA Workup (if severe or symmetrical)**: TORCH screen (urine CMV PCR), Karyotype/Microarray, Cranial Ultrasound.
-  - **LGA Workup**: Check maternal HbA1c/OGTT results.
-- **Monitoring**:
-  - **Polycythaemia Screen (CBC)**: Both SGA (chronic hypoxia drives EPO) and LGA (fetal hyperinsulinism drives EPO) are at risk of polycythaemia (Venous Haematocrit > 65%), which can cause hyperviscosity syndrome.
+### LGA Genetics (Beckwith-Wiedemann Syndrome)
+* **Beckwith-Wiedemann Syndrome**: Imprinting disorder (Chromosome 11p15.5).
+* Triad: Macrosomia, macroglossia, omphalocele.
+* Critical risk: Profound hyperinsulinemic hypoglycaemia.
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Acute**:
-  - **Hypoglycaemia Management**:
-    - *Asymptomatic & CBG 2.0-2.5*: Early, frequent feeding (breast milk or formula). Recheck in 1 hour.
-    - *Symptomatic (jittery, lethargic, seizures) OR CBG < 2.0*: **IV 10% Dextrose bolus** (2 ml/kg) followed by continuous IV Dextrose infusion.
-- **Chronic/Definitive**:
-  - **Temperature Control**: Incubator or radiant warmer for SGA infants to prevent cold stress (which worsens hypoglycaemia).
-  - **Polycythaemia**: If symptomatic (plethoric, jittery, respiratory distress) and Hct > 65%, may require partial exchange transfusion (replacing some blood with normal saline to reduce viscosity).
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- **SGA Follow-up**: Monitor for "catch-up growth". If no catch-up by age 4, may be eligible for Growth Hormone therapy.
-## 10. Safeguarding & NAI Red Flags
-- Reassure parents that frequent heel pricks are necessary for safety.
 
-## 11. Complications & Prognosis
-- **SGA**: Increased risk of perinatal asphyxia, meconium aspiration syndrome, hypothermia, hypoglycaemia. Long-term risk of metabolic syndrome (Barker hypothesis).
-- **LGA**: Birth trauma, hypoglycaemia, RDS (insulin antagonises surfactant production), childhood obesity.
+## 3. Key Symptoms & Signs
 
-## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- **Trap**: Assuming an LGA baby is healthy because they are "big and strong". *Pearl*: Infants of diabetic mothers are fragile. They are at high risk of profound hypoglycaemia, respiratory distress syndrome (despite being term), and polycythaemia.
-- **Viva Question**: "Why does an infant of a diabetic mother develop hypoglycaemia after birth?" *Answer*: Maternal hyperglycaemia crosses the placenta, causing fetal pancreatic beta-cell hyperplasia and hyperinsulinism. After birth, the maternal glucose supply is abruptly cut off, but the infant's insulin levels remain high, driving glucose into cells and causing hypoglycaemia.
+### SGA Clinical Signs
+* Wasted appearance, loose/peeling skin.
+* ↓ Subcutaneous fat, scaphoid abdomen.
+* Relatively large head (if asymmetrical).
+* Prone to hypothermia (↑ surface area to volume ratio, ↓ brown fat).
 
+
+### LGA Clinical Signs
+* Plump, plethoric (red) appearance.
+* Poor feeding, lethargy, jitteriness (if hypoglycaemic).
+
+### LGA Birth Trauma Signs
+* **Clavicle fracture (鎖骨骨折)**: Crepitus over clavicle, asymmetrical Moro reflex.
+* **Erb's palsy (厄爾氏麻痺)**: C5-C6 root injury (shoulder dystocia) → Waiter's tip posture (adducted, internally rotated shoulder, extended elbow, pronated forearm).
+* **Cephalhaematoma (頭顱血腫)**: Subperiosteal bleeding strictly limited by cranial suture lines.
+
+
+## 4. Discriminatory Features (How to distinguish from similar conditions)
+
+### Differentiating SGA from Prematurity
+* **Premature**: Appropriate weight for early gestation.
+* **SGA**: Underweight for advanced/actual gestation.
+* Use **Ballard Score** for objective gestational age assessment if antenatal dating is unreliable.
+
+### Differentiating Symmetrical vs Asymmetrical SGA
+| Feature | Symmetrical SGA | Asymmetrical SGA |
+| :--- | :--- | :--- |
+| **Timing of Insult** | Early (1st trimester) | Late (3rd trimester) |
+| **Head Circumference** | Small (< 10th centile) | Normal (Head-sparing) |
+| **Cellular Defect** | ↓ Cell Number | ↓ Cell Size |
+| **Aetiologies** | TORCH, Genetics | Placental insufficiency, PET |
+
+## 5. Differential Diagnosis
+
+### SGA Aetiological Differentials
+* Constitutional (normal genetic variation).
+* Placental insufficiency.
+* Congenital viral infection.
+* Chromosomal abnormality.
+
+### LGA Aetiological Differentials
+* Maternal GDM / Pre-existing DM.
+* Constitutional / Familial large size.
+* Genetic overgrowth syndromes (Beckwith-Wiedemann, Sotos syndrome).
+
+### Must-Not-Miss Immediate Danger (Hypoglycaemia)
+* **Neonatal Hypoglycaemia (新生兒低血糖)** is the most critical immediate risk for BOTH:
+  * **SGA**: Due to ↓ glycogen stores & ↓ gluconeogenesis.
+  * **LGA (Infant of Diabetic Mother)**: Due to fetal hyperinsulinism driving rapid glucose uptake post-cord clamping.
+
+## 6. Tiered Investigations
+
+### Bedside Investigations
+* **Capillary Blood Glucose (CBG) (微血管血糖)**: MANDATORY protocol. Check pre-feed, starting shortly after birth, until stable > 2.6 mmol/L (per HA guidelines).
+
+### Blood Investigations
+* **Complete Blood Count (CBC)**: Screen for **Polycythaemia (紅血球增多症)** (Venous Haematocrit > 65%).
+  * SGA: Chronic intrauterine hypoxia → ↑ EPO.
+  * LGA: Hyperinsulinism → ↑ EPO.
+* Blood culture & CRP (if sepsis suspected).
+
+### Special Investigations for SGA
+* **TORCH screen**: Urine CMV PCR (Gold standard for congenital CMV).
+* Karyotype / Microarray (if dysmorphic or symmetrical SGA).
+* **Cranial Ultrasound (CUS)**: Check for intracranial calcifications (TORCH).
+
+### Special Investigations for LGA
+* Maternal HbA1c / OGTT review.
+* Abdominal ultrasound (if Beckwith-Wiedemann suspected, check for organomegaly & Wilms tumor screening).
+
+## 7. Management (Acute, Chronic, HA Protocols)
+
+### Acute Hypoglycaemia Management Protocol
+| CBG Level & Clinical State | Management Protocol (HA Guidelines) |
+| :--- | :--- |
+| **Asymptomatic & CBG 2.0-2.5 mmol/L** | Early frequent feed (breast/formula) → Recheck CBG in 1 hr. |
+| **Symptomatic (seizures, lethargy) OR CBG < 2.0 mmol/L** | **IV 10% Dextrose** bolus (2 ml/kg) → Continuous IV Dextrose infusion (6-8 mg/kg/min). |
+
+### Acute Polycythaemia Management
+* **Indication**: Venous Hct > 65% + Symptomatic (plethoric, RDS, jittery).
+* **Intervention**: **Partial Exchange Transfusion (部分換血)** (Replace small volume of blood with Normal Saline → ↓ blood viscosity → prevents hyperviscosity syndrome/stroke).
+
+### Preventative & Supportive Management
+* **Temperature Control**: Incubator or radiant warmer for SGA to prevent cold stress (cold stress ↑ glucose consumption → worsens hypoglycaemia).
+* **Feeding**: Early, frequent feeding (3-hourly) established within 1st hour of life.
+
+## 8. MDT & Psychosocial Care
+
+### Outpatient MDT Follow-up
+* **Maternal & Child Health Centre (MCHC) (母嬰健康院)**: Serial monitoring of growth parameters on HK growth charts.
+* Paediatric Endocrine referral: Monitor SGA for "catch-up growth". If absent by age 4 → assess eligibility for **Growth Hormone (GH)** therapy.
+
+### Psychosocial Care
+* Reassure parents regarding the physical appearance (wasted/plethoric) and explain it is usually transient.
+
+## 9. Safeguarding & NAI Red Flags
+
+### Safeguarding Considerations in SGA/LGA
+* Explain the necessity of frequent painful interventions (heel pricks for CBG) to anxious parents to prevent misunderstandings or hospital complaints.
+* Severe SGA in the presence of unbooked pregnancies or maternal substance abuse (smoking, illicit drugs) → Mandatory referral to **Medical Social Worker (MSW) (醫務社工)**.
+
+## 10. Complications & Prognosis
+
+### SGA Complications & Prognosis
+* **Acute**: Perinatal asphyxia (poor placental reserve), **Meconium Aspiration Syndrome (MAS) (胎糞吸入綜合症)**, hypothermia, hypoglycaemia.
+* **Chronic (Barker Hypothesis)**: Intrauterine epigenetic programming → Long-term adult risk of metabolic syndrome, Type 2 DM, coronary artery disease, hypertension.
+
+### LGA Complications & Prognosis
+* **Acute**: Birth trauma, hypoglycaemia, polycythaemia.
+* **Acute Respiratory**: **Respiratory Distress Syndrome (RDS)** (↑ Insulin antagonises cortisol-induced fetal lung surfactant production, even in term LGA).
+* **Chronic**: ↑ Risk of childhood and adult obesity.
+
+## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
+
+* Trap: Assuming an LGA baby is inherently healthy and robust because they are "big and strong".
+* Pearl: Infants of diabetic mothers (IDM) are extremely fragile. They are at high risk of profound hypoglycaemia, RDS (despite being term), polycythaemia, and electrolyte imbalances (hypocalcaemia, hypomagnesaemia).
+* Viva Question: Why does an infant of a diabetic mother develop profound hypoglycaemia immediately after birth?
+* Answer: Maternal hyperglycaemia crosses the placenta → fetal pancreatic β-cell hyperplasia & hyperinsulinism. Post-delivery cord clamping abruptly cuts off maternal glucose, but infant insulin remains excessively high → rapid cellular glucose uptake → hypoglycaemia.
+* Pitfall: Relying solely on capillary haematocrit to diagnose neonatal polycythaemia.
+* Pearl: Capillary samples overestimate haematocrit due to sluggish peripheral circulation. Polycythaemia must always be confirmed with a free-flowing venous blood sample (Venous Hct > 65%).

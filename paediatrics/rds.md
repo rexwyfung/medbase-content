@@ -137,8 +137,7 @@
 ## 9. Safeguarding & NAI Red Flags
 
 ### Safeguarding Considerations in Prematurity
-* RDS itself is not an NAI indicator.
-* However, extreme prematurity & prolonged NICU stay ↑ risk of impaired parental bonding.
+- Extreme prematurity & prolonged NICU stay ↑ risk of impaired parental bonding.
 * Monitor for parental disengagement, failure to visit NICU, or lack of preparation for discharge → involve MSW/SWD early to ensure safe home environment.
 
 ## 10. Complications & Prognosis
