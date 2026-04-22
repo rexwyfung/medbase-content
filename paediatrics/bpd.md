@@ -1,52 +1,110 @@
 # Bronchopulmonary Dysplasia (BPD) (支氣管肺發育不全)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: Chronic lung disease (CLD) of prematurity, officially defined as the need for supplemental oxygen at 36 weeks postmenstrual age (PMA) or 28 days of life.
-- **Local Epidemiology**: Common in extreme preterms (<28 weeks) in HA NICUs.
+### Clinical Definition
+- **Chronic lung disease (CLD) of prematurity**
+- Defined as need for **supplemental oxygen** at **36 weeks postmenstrual age (PMA)** or 28 days of life
+
+### Local Epidemiology
+- Common in **extreme preterms** (<28 weeks) in **HA NICUs**
 
 ## 2. Pathophysiology & Genetics
-- "New BPD" is characterized by arrested alveolarization and disrupted pulmonary vascular development.
-- Caused by a combination of prematurity, oxygen toxicity (free radicals), mechanical trauma (volutrauma/barotrauma), and infection/inflammation (e.g., Ureaplasma).
+### Arrested Lung Development
+- **"New BPD"**: Arrested **alveolarization (肺泡化)** → ↓ alveoli
+- Disrupted **pulmonary vascular development**
 
-## 3. Clinical Presentation
-- Prolonged oxygen dependence or failure to wean from respiratory support (CPAP/ventilation).
-- Recurrent wheezing, tachypnoea, subcostal retractions.
+### Multifactorial Aetiology
+- **Prematurity** (immature lung)
+- **Oxygen toxicity** → free radical damage
+- **Mechanical trauma** (barotrauma/volutrauma) from artificial ventilation
+- **Infection/inflammation** (e.g., Ureaplasma, neonatal sepsis)
 
-## 4. Key Symptoms & Signs
-- Tachypnoea, increased work of breathing, crackles, wheeze.
-- Poor growth / faltering growth due to increased metabolic demand of breathing.
+## 3. Key Symptoms & Signs
+### Clinical Presentation
+- Prolonged **oxygen dependence**
+- Failure to wean from respiratory support (CPAP/ventilation)
+- Recurrent **wheezing (喘鳴)**, **tachypnoea (氣促)**, **subcostal retractions (肋下凹陷)**
 
-## 5. Discriminatory Features (How to distinguish from similar conditions)
-- Distinct from acute RDS by timeline (occurs after initial RDS phase, lasting beyond 28 days of life).
+### Physical Examination
+- ↑ Work of breathing
+- **Crackles (喀啦音)** & **wheeze** on auscultation
+- **Faltering growth / poor weight gain** (due to ↑ metabolic demand of breathing)
 
-## 6. Differential Diagnosis
-- Congenital heart disease (left-to-right shunts like PDA or VSD)
-- Pulmonary interstitial glycogenosis
-- Surfactant protein deficiencies
-- Airway abnormalities (tracheomalacia)
+## 4. Discriminatory Features (How to distinguish from similar conditions)
+### Timeline vs RDS
+- Distinct from acute **Respiratory Distress Syndrome (RDS) (呼吸窘迫綜合症)** by timeline
+- BPD occurs *after* initial RDS phase, lasting >28 days of life or persisting at 36 weeks PMA
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Bedside**: Continuous SpO2 monitoring, Capillary blood gas (compensatory metabolic alkalosis/chronic pCO2 retention).
-- **Imaging**: CXR showing hazy opacities, hyperinflation, and cystic/bubbly appearance.
-- **Special**: Echocardiogram to monitor for pulmonary hypertension (Cor Pulmonale).
+## 5. Differential Diagnosis
+### Common Differentials
+| Condition | Differentiating Features |
+| :--- | :--- |
+| **Congenital Heart Disease** (e.g., PDA, VSD) | Left-to-right shunt → heart failure, murmurs, cardiomegaly |
+| **Pulmonary Interstitial Glycogenosis** | Rare interstitial lung disease, lung biopsy needed |
+| **Surfactant Protein Deficiencies** | Term infants, severe familial RDS, genetics |
+| **Airway Abnormalities** (Tracheomalacia) | Expiratory stridor/wheeze, bronchoscopy confirms |
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Prevention**: Antenatal steroids, early surfactant, volume-targeted ventilation, early caffeine, treating PDAs.
-- **Chronic**: Optimizing nutrition (calorically dense feeds), fluid restriction, long-term non-invasive support.
-- **Pharmacology**: Diuretics (Furosemide/Chlorothiazide), inhaled or short-course systemic corticosteroids (Dexamethasone) for weaning.
+## 6. Tiered Investigations
+### Bedside & Bloods
+- **Continuous SpO2 monitoring**
+- **Capillary blood gas (CBG)** → compensatory metabolic alkalosis + chronic pCO2 retention
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- **MDT**: Neonatologist, Respiratory pediatrician, Dietitian, Physiotherapist.
-- **MCHC**: High risk of recurrent admissions; requires careful developmental and nutritional follow-up in the community.
-- RSV prophylaxis (Palivizumab) during winter strictly indicated under HA guidelines.
+### Imaging
+- **CXR**: Widespread hazy opacities, hyperinflation, cystic/bubbly appearance (fibrosis)
 
-## 10. Safeguarding & NAI Red Flags
-- High caregiver burden can increase stress. Medical Social Worker (MSW) assessment for family support and safe housing environment prior to home oxygen discharge.
+### Special Tests
+- **Echocardiogram (心臟超聲波)**: Monitor for **pulmonary hypertension (肺高壓)** & **Cor Pulmonale (肺源性心臟病)**
 
-## 11. Complications & Prognosis
-- Pulmonary hypertension, cor pulmonale, neurodevelopmental delay.
-- Gradual improvement in lung function as new lung tissue grows, but airflow obstruction can persist into adulthood.
+## 7. Management (Acute, Chronic, HA Protocols)
+### Preventive Strategies
+- Antenatal **corticosteroids** (Betamethasone/Dexamethasone)
+- Early **surfactant (表面張力素)** administration
+- **Volume-targeted ventilation**
+- Early **caffeine citrate**
+- Management of symptomatic **PDA**
 
-## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- **Viva Q**: "Why do BPD babies fail to thrive?" Answer: Increased work of breathing burns extreme calories, compounded by fluid restriction limiting intake.
-- **Trap**: Using routine high-dose dexamethasone continuously (risk of severe cerebral palsy) – steroids must be used sparingly and only to facilitate extubation.
+### Chronic Respiratory Support
+- **Long-term non-invasive support**: CPAP, High-flow nasal cannula (HFNC), home O2
+- **Fluid restriction** (↓ pulmonary oedema)
+
+### Nutritional Optimization
+- **Calorically dense feeds (高卡路里奶方)** to meet ↑ metabolic demands
+
+### Pharmacological Therapy
+- **Diuretics** (Furosemide / Chlorothiazide)
+- **Corticosteroids** (Dexamethasone): Short, low-dose courses strictly to facilitate extubation
+
+## 8. MDT & Psychosocial Care
+### MDT Involvement
+- Neonatologist, Respiratory Paediatrician, Dietitian, Physiotherapist
+
+### Community Follow-up
+- **MCHC (母嬰健康院)** & Paediatric SOPD: Strict neurodevelopmental & nutritional monitoring
+- High risk of recurrent admissions (esp. viral URTIs/LRTIs)
+
+### RSV Prophylaxis
+- **Palivizumab (帕利珠單抗)**: Strict HA criteria for monthly IM injections during winter
+
+## 9. Safeguarding & NAI Red Flags
+### Psychosocial Support
+- **MSW (醫務社工)** assessment: High caregiver burden → ↑ stress
+- Ensure safe housing environment & family support prior to **home O2** discharge
+
+## 10. Complications & Prognosis
+### Pulmonary & Cardiac Complications
+- **Pulmonary hypertension (肺高壓)**
+- **Cor Pulmonale (肺源性心臟病)**
+- ↑ Susceptibility to respiratory viruses (RSV, rhinovirus, pertussis) → respiratory failure
+
+### Neurodevelopmental Complications
+- **Neurodevelopmental delay**
+- **Cerebral Palsy (腦性麻痺)**
+
+### Prognosis
+- Gradual ↑ lung function as new lung tissue grows
+- Airflow obstruction / asthma-like symptoms can persist into adulthood
+
+## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
+* Viva Question: Why do BPD babies fail to thrive? Answer: Increased work of breathing burns extreme calories, compounded by fluid restriction limiting intake.
+* Trap: Using routine high-dose dexamethasone continuously. Pearl: Steroids must be used sparingly and only to facilitate extubation due to the high risk of severe cerebral palsy.
+* Pitfall: Discharging BPD infants without adequate RSV protection. Administer Palivizumab prophylaxis according to HA guidelines to prevent life-threatening RSV bronchiolitis admissions.
