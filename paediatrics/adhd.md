@@ -1,79 +1,115 @@
+
 # Attention Deficit Hyperactivity Disorder (ADHD) (專注力不足/過度活躍症)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: A neurodevelopmental disorder characterized by a persistent pattern of inattention and/or hyperactivity-impulsivity that interferes with functioning or development.
-- **Local Epidemiology**: The most common neurobehavioral disorder of childhood in Hong Kong. Estimated prevalence is 5-8% among school-aged children. Boys are diagnosed significantly more often than girls (who often present with the inattentive subtype and are underdiagnosed).
+- **Definition**: Neurodevelopmental d/o (神經發展障礙) characterized by persistent, impairing levels of **inattention (專注力不足)** and/or **hyperactivity-impulsivity (過度活躍/衝動)**.
+- **Local Epidemiology**: Most common neurobehavioral d/o in HK children.
+- **Prevalence**: 5-8% in HK school-aged children.
+- **Gender**: ♂:♀ = 3-4:1. ♀ often present w/ inattentive subtype → frequently underdiagnosed or diagnosed later.
 
 ## 2. Pathophysiology & Genetics
-- **Pathophysiology**: Not fully understood, but involves dysregulation of neurotransmitters, primarily **Dopamine and Noradrenaline (Norepinephrine)**, in the prefrontal cortex and basal ganglia (areas responsible for executive function, impulse control, and attention).
-- **Genetics**: Highly heritable. Concordance rate in monozygotic twins is >70%. Multiple genes are likely involved.
-- **Environmental Risk Factors**: Prematurity, low birth weight, maternal smoking/alcohol use during pregnancy, severe early childhood neglect.
+- **Pathophysiology**: Dysregulation of cortico-striato-thalamo-cortical (CSTC) loops.
+  - ↓ **Dopamine (多巴胺)** & ↓ **Noradrenaline (去甲腎上腺素)** in **Prefrontal Cortex (前額葉皮層)** (impairs executive fxn, sustained attention) & **Basal Ganglia (基底神經節)** (impairs motor control/impulsivity).
+- **Genetics**: Polygenic, ↑↑ heritability (70-80%). Associated w/ DRD4, DAT1 gene polymorphisms.
+- **Environmental Risk Factors**: 
+  - Prematurity, ↓ birth weight.
+  - Maternal smoking/EtOH during pregnancy.
+  - Lead exposure.
+  - Severe early childhood psychosocial deprivation.
 
 ## 3. Clinical Presentation
-- Usually presents when the child enters formal schooling (Primary 1 in HK), as the structured environment highlights their inability to sit still, follow instructions, or focus on tasks.
-- Parents often complain of constant fidgeting, disruptive behavior, poor academic performance despite normal intelligence, and frequent careless mistakes.
+- **Onset**: Early childhood, but typically presents clinically at formal school entry (HK Primary 1) when structured academic demands overwhelm the child's compensatory capacities.
+- **Parent/Teacher Reports**:
+  - Constant fidgeting, inability to remain seated.
+  - Disruptive classroom behavior, interrupting others.
+  - Poor academic performance despite normal IQ.
+  - Frequent careless mistakes, forgetfulness.
 
 ## 4. Key Symptoms & Signs (DSM-5 Criteria)
-Symptoms must be present for > 6 months, onset before age 12, and occur in **two or more settings** (e.g., home and school).
-- **Inattention**:
-  - Fails to give close attention to details, makes careless mistakes.
-  - Difficulty sustaining attention in tasks or play.
-  - Does not seem to listen when spoken to directly.
-  - Fails to finish schoolwork or chores (easily sidetracked).
-  - Loses things necessary for tasks (pencils, books).
+Symptoms MUST be present for >6 mos, onset <12 yrs, occur in **≥2 settings** (e.g., home & school), & cause functional impairment.
+- **Inattention (專注力不足)** (≥6 required if <17 yrs):
+  - Fails close attention to details / careless mistakes.
+  - Difficulty sustaining attention in tasks/play.
+  - Seems not to listen when spoken to directly.
+  - Fails to follow through on instructions/chores.
+  - Difficulty organizing tasks/activities.
+  - Avoids tasks requiring sustained mental effort.
+  - Loses items necessary for tasks.
   - Easily distracted by extraneous stimuli.
-- **Hyperactivity and Impulsivity**:
-  - Fidgets with hands/feet, squirms in seat.
-  - Leaves seat in situations where remaining seated is expected.
-  - Runs about or climbs in inappropriate situations.
+  - Forgetful in daily activities.
+- **Hyperactivity & Impulsivity (過度活躍及衝動)** (≥6 required if <17 yrs):
+  - Fidgets w/ hands/feet or squirms.
+  - Leaves seat when remaining seated is expected.
+  - Runs/climbs excessively in inappropriate situations.
   - Unable to play quietly.
-  - "On the go," acting as if "driven by a motor."
-  - Talks excessively, blurts out answers before questions are completed.
-  - Difficulty waiting their turn, interrupts or intrudes on others.
+  - "On the go" / "driven by a motor".
+  - Talks excessively.
+  - Blurts out answers before question completed.
+  - Difficulty waiting turn.
+  - Interrupts/intrudes on others.
 
-## 5. Discriminatory Features (How to distinguish from similar conditions)
-- **Autism Spectrum Disorder (ASD)**: Children with ASD may be hyperactive or inattentive, but their core deficits are in social communication and restricted/repetitive behaviors. ADHD children usually have normal social intent but may be rejected by peers due to impulsivity.
-- **Specific Learning Disorder (e.g., Dyslexia)**: The child may appear inattentive in class because they cannot read the material, but they can focus perfectly well on non-academic tasks (e.g., building Lego).
+## 5. Discriminatory Features
+| Condition | Discriminatory Features vs ADHD |
+| :--- | :--- |
+| **Autism Spectrum Disorder (ASD) (自閉症譜系障礙)** | Core deficits in social reciprocity/communication + restricted/repetitive behaviors. ADHD lacks primary social intent deficits. |
+| **Specific Learning Disorder (SLD) (讀寫障礙)** | Inattention restricted strictly to academic tasks (e.g., reading). Normal sustained focus in non-academic activities. |
+| **Oppositional Defiant Disorder (ODD) (對立反抗症)** | Intentional, hostile defiance towards authority. ADHD rule-breaking is impulsive/accidental, not malicious. |
 
 ## 6. Differential Diagnosis
-- Normal age-appropriate high energy (especially in preschool boys).
-- Specific Learning Disorders (Dyslexia).
-- Autism Spectrum Disorder (ASD).
-- Oppositional Defiant Disorder (ODD) / Conduct Disorder.
-- Hearing or vision impairment.
-- Sleep disorders (e.g., Obstructive Sleep Apnoea - chronic sleep deprivation mimics ADHD).
-- Absence seizures (brief staring spells mimicking inattention).
+- Normal age-appropriate high energy (esp. preschool ♂).
+- **Specific Learning Disorders (SLD)**.
+- **Autism Spectrum Disorder (ASD)**.
+- **Oppositional Defiant Disorder (ODD)** / Conduct Disorder.
+- Sensory deficits (Hearing/Vision impairment).
+- Sleep d/o (e.g., **Obstructive Sleep Apnoea (OSA)** → chronic sleep deprivation mimics hyperactivity).
+- **Absence Seizures (失神發作)** (brief staring spells mimicking inattention).
+- Thyroid dysfunction (Hyperthyroidism).
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Diagnosis is entirely clinical**. There are no blood tests or brain scans for ADHD.
-- **Standardized Questionnaires**: Essential for gathering information from multiple settings.
-  - *Conners Rating Scales* or *Vanderbilt Assessment Scales* completed by both parents and teachers.
-- **Psychoeducational Assessment**: By a Clinical/Educational Psychologist to rule out specific learning disorders and assess IQ.
-- **Audiology and Optometry**: To rule out hearing and vision problems.
+## 7. Tiered Investigations
+- **Clinical Diagnosis**: Entirely clinical based on history & observation. No routine bloods/imaging.
+- **Bedside / Standardized Tools**:
+  - *Conners Rating Scales* or *Vanderbilt Assessment Scales* (MUST be completed by both parents & teachers).
+- **Special Assessments**:
+  - **Psychoeducational Assessment (臨床/教育心理學家評估)**: To r/o SLD & assess IQ profile.
+  - **Audiology & Optometry**: Essential to r/o sensory impairments.
+- **Bloods/Other** (Only if clinically indicated):
+  - TFTs (if ↑ HR, weight loss, goiter).
+  - Sleep study (Polysomnography) if snoring/tonsillar hypertrophy present (r/o OSA).
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Multimodal Approach**: The most effective strategy combines behavioral interventions, educational support, and medication.
-- **Behavioral Therapy (First-line for preschool children, adjunct for older children)**:
-  - Parent Management Training (PMT): Teaching parents strategies to manage behavior (positive reinforcement, clear rules, consistent consequences, token economies).
-- **Educational Support**:
-  - Individualized Education Program (IEP) in school. Accommodations like sitting near the teacher, extra time for exams, breaking tasks into smaller chunks.
-- **Pharmacological Therapy (First-line for school-aged children with moderate-severe ADHD)**:
-  - **Stimulants (First-line)**: **Methylphenidate** (e.g., Ritalin, Concerta). Blocks the reuptake of dopamine and noradrenaline. Highly effective (70-80% response rate).
-    - *Side effects*: Appetite suppression, weight loss, insomnia, tics, mild increase in heart rate/BP.
-  - **Non-Stimulants (Second-line)**: **Atomoxetine** (Strattera - a selective noradrenaline reuptake inhibitor). Used if stimulants are ineffective, cause severe side effects (like worsening tics), or if there is a risk of substance diversion.
+## 8. Management (HA Protocols)
+- **Multimodal Approach**: Behavioral + Educational + Pharmacological.
+- **Non-Pharmacological** (1st-line for <6 yrs, adjunct for >6 yrs):
+  - **Parent Management Training (PMT)**: Structured routines, positive reinforcement, token economies, clear boundaries.
+  - **Educational Support**: Individualized Education Program (IEP). Classroom accommodations (front-row seating, chunking tasks, extra time for exams).
+- **Pharmacological** (1st-line for >6 yrs w/ moderate-severe impairment):
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- **Child Assessment Centre (CAC) / Child and Adolescent Psychiatry (CAP)**: The main diagnostic and management hubs in the HA system.
-- **Comorbidities**: ADHD is highly comorbid with Oppositional Defiant Disorder (ODD), anxiety, depression, and learning disorders. These must be actively screened for and managed.
+| Drug Class | Medication | Mechanism | HA Prescribing Notes & Side Effects |
+| :--- | :--- | :--- | :--- |
+| **Stimulants (第一線)** | **Methylphenidate (喀他林 Ritalin / 專注達 Concerta)** | Blocks reuptake of Dopamine & Noradrenaline | **1st-line in HA**. Highly effective (70-80%). <br> *SEs*: ↓ Appetite, weight loss, insomnia, tics, ↑ HR/BP. MUST monitor growth chart. |
+| **Non-Stimulants (第二線)** | **Atomoxetine (托莫西汀 Strattera)** | Selective Noradrenaline reuptake inhibitor | **2nd-line in HA**. Used if stimulants ineffective, cause severe tics, or risk of substance diversion. <br> *SEs*: GI upset, sedation, rare hepatotoxicity, suicidality. |
+
+## 9. MDT & Psychosocial Care
+- **HA Hubs**: **Child Assessment Centre (CAC) (兒童體能智力測驗中心)** for initial Dx/triage; **Child & Adolescent Psychiatry (CAP) (兒童及青少年精神科)** for long-term pharmacological Mx.
+- **School Integration**: Coordination w/ Educational Psychologist (EP) & Special Educational Needs Coordinator (SENCO).
+- **Comorbidity Screening**: High rates of comorbid ODD, anxiety, depression, & SLD. Require active identification & parallel Mx.
+- **Social Support**: Medical Social Worker (MSW) referral for caregiver burnout & community resources.
 
 ## 10. Safeguarding & NAI Red Flags
-- Children with ADHD are at higher risk of physical abuse due to parental frustration and exhaustion. They are also at higher risk of accidental injuries due to impulsivity.
+- **Accidental Trauma**: ↑↑ Risk of fractures/ingestions due to impulsivity & poor risk assessment.
+- **Non-Accidental Injury (NAI) (非意外損傷)**: ↑ Risk of physical abuse secondary to extreme parental frustration/exhaustion.
+- **Red Flags**: Unexplained bruising (esp. non-bony prominences), inconsistent mechanism of injury, extreme parental hostility, or delayed presentation to A&E.
 
 ## 11. Complications & Prognosis
-- **Complications**: Poor academic achievement, school exclusion, peer rejection, low self-esteem. In adolescence/adulthood: higher risk of substance abuse, traffic accidents, and criminality if untreated.
-- **Prognosis**: Symptoms of hyperactivity often decrease in adolescence, but inattention and impulsivity frequently persist into adulthood. Medication and coping strategies significantly improve long-term outcomes.
+- **Complications (Untreated)**:
+  - *Short-term*: Academic failure, school exclusion, peer rejection, ↓ self-esteem.
+  - *Long-term (Adolescence/Adulthood)*: ↑ Risk of Substance Use Disorder (SUD), criminality, traffic accidents, unemployment, antisocial personality traits.
+- **Prognosis**:
+  - Hyperactivity/motor symptoms typically ↓ during adolescence.
+  - Inattention/impulsivity persist into adulthood in ~60% of cases.
+  - Multimodal intervention significantly ↑ long-term educational & functional trajectories.
 
-## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- *Viva*: "What are the two core symptom domains required for a diagnosis of ADHD according to the DSM-5?" (Inattention, and Hyperactivity/Impulsivity).
-- *Viva*: "A 7-year-old boy is diagnosed with ADHD and started on Methylphenidate. What are the two most common side effects you must warn the parents about and monitor at follow-up?" (Appetite suppression leading to weight loss, and insomnia).
-- *Pitfall*: Diagnosing ADHD based solely on a parent's report of bad behavior at home. The DSM-5 strictly requires symptoms to be present and causing impairment in *two or more settings* (e.g., home AND school) to rule out purely environmental/parenting issues.
+## 12. Examiner's Pearls
+- **Viva**: "What are the core symptom domains required for DSM-5 ADHD?" → 1. Inattention, 2. Hyperactivity/Impulsivity.
+- **Viva**: "A 7yo boy on Methylphenidate presents for follow-up. What MUST you measure?" → **Height, Weight, HR, & BP**. (Appetite suppression → faltering growth).
+- **Pitfall**: Diagnosing ADHD based solely on disruptive home behavior. DSM-5 strictly requires impairment in **≥2 settings** (e.g., home AND school) to differentiate from purely environmental/parenting dysfunctions.
+- **Pitfall**: Failing to ask about sleep. Chronic sleep deprivation (e.g., secondary to OSA from adenotonsillar hypertrophy) frequently masquerades as ADHD in pediatrics.
