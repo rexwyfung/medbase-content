@@ -78,6 +78,7 @@
     * Bilateral, diffuse **"ground-glass"** appearance (reticulogranular pattern) → due to microatelectasis.
     * Prominent **air bronchograms** → air-filled bronchi standing out against opaque, collapsed alveoli.
     * ↓ Lung volumes (bell-shaped thorax).
+    ![image|326](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/80d49b17330c7484fc04f582ce7ea784.png)
 
 ### Bedside & Blood Investigations
 * **Arterial Blood Gas (ABG) / CBG:**
