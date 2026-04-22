@@ -33,11 +33,12 @@
 ## 3. Clinical Presentation
 ### Antenatal & Intrapartum History
 * Sentinel event (e.g., placental abruption, cord prolapse, uterine rupture)
-* Pathological CTG (e.g., prolonged decelerations, persistent fetal bradycardia)
+* Pathological cardiotocography (CTG) (e.g., prolonged decelerations, persistent fetal bradycardia)
 * Thick meconium-stained liquor
 
 ### Immediate Neonatal Presentation
 * Poor Apgar scores (e.g., < 5 at 5 & 10 mins)
+	![image|361](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ff78b2967c97b0b18ca3ddbf16fb7658.png)
 * Requirement for prolonged **Neonatal Resuscitation (新生兒復甦)**
 * Profound cord blood acidemia
 

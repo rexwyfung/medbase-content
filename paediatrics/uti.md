@@ -1,71 +1,164 @@
-# Urinary Tract Infection (UTI) (尿道炎)
+# Urinary Tract Infection & Vesicoureteral Reflux (兒童尿道炎及膀胱輸尿管反流)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: Infection of the urinary tract. It can be classified as lower UTI (cystitis - bladder) or upper UTI (pyelonephritis - kidneys).
-- **Local Epidemiology**: One of the most common serious bacterial infections in febrile infants. 
-  - *Age < 1 year*: More common in boys (due to a higher incidence of congenital urological anomalies like posterior urethral valves).
-  - *Age > 1 year*: Significantly more common in girls (due to a shorter urethra and proximity to the anus).
+
+### Definition of UTI & VUR
+* **Urinary Tract Infection (UTI) (尿道炎)**: Bacterial invasion of urinary tract.
+    * **Lower UTI / Cystitis (膀胱炎)**: Confined to bladder/urethra.
+    * **Upper UTI / Pyelonephritis (腎盂腎炎)**: Ascending infection involving renal parenchyma.
+* **Vesicoureteral Reflux (VUR) (膀胱輸尿管反流)**: Abnormal retrograde flow of urine from bladder → ureter → renal pelvis due to incompetent vesicoureteric junction (VUJ).
+* **Reflux Nephropathy (反流性腎病)**: Renal cortical scarring caused by recurrent pyelonephritis + VUR.
+
+### Local Epidemiology in Hong Kong
+* **UTI**: Commonest serious bacterial infection (SBI) in febrile infants.
+* **VUR Prevalence**: Present in ~30% of children presenting with their 1st UTI.
+* **Age/Sex Distribution**:
+    * **< 1 year**: ♂ > ♀ (Associated with congenital anomalies e.g., **Posterior Urethral Valves (後尿道瓣膜)**).
+    * **> 1 year**: ♀ >>> ♂ (Due to short urethra).
 
 ## 2. Pathophysiology & Genetics
-- **Pathogenesis**: Most UTIs are ascending infections from the periurethral and perianal flora.
-- **Pathogens**: *Escherichia coli* is the most common culprit (>80%). Other organisms include *Klebsiella*, *Proteus* (associated with alkaline urine and struvite stones), *Enterococcus*, and *Pseudomonas* (often associated with structural anomalies or catheterization).
-- **Risk Factors**: Vesicoureteral reflux (VUR), Posterior Urethral Valves (PUV), dysfunctional voiding, poor hygiene, and **constipation** (a distended rectum compresses the bladder, preventing complete emptying and causing urinary stasis).
 
-## 3. Clinical Presentation
-The presentation is highly dependent on age:
-- **Infants (< 1 year)**: Symptoms are non-specific. **Unexplained fever is often the ONLY sign.** May also present with poor feeding, vomiting, irritability, lethargy, failure to thrive, or prolonged neonatal jaundice.
-- **Older Children**: Classic lower urinary tract symptoms: Dysuria (painful urination), frequency, urgency, suprapubic pain, secondary enuresis (new-onset bedwetting in a previously trained child), foul-smelling or cloudy urine.
-- **Pyelonephritis**: High fever (>39°C), rigors, loin/flank pain, vomiting, and systemic toxicity.
+### Pathogenesis of Ascending Infection
+* Periurethral/perianal colonisation → ascent into bladder → VUR facilitates retrograde spread → bacteria reach renal pelvis → **Pyelonephritis (腎盂腎炎)** → local inflammation & ischaemia → **Renal Scarring (腎疤痕)**.
 
-## 4. Key Symptoms & Signs
-- **Fever without a focus** in an infant is a UTI until proven otherwise.
-- **Costovertebral Angle (CVA) Tenderness**: Pain on percussion over the kidneys in the back (indicates pyelonephritis).
-- **Palpable Bladder**: Suggests bladder outlet obstruction (e.g., PUV) or neurogenic bladder.
-- **Poor Urinary Stream**: Dribbling or poor stream in a male infant is a classic sign of Posterior Urethral Valves.
-- **External Genitalia Exam**: Look for labial adhesions, vulvovaginitis, phimosis, or signs of sexual abuse.
+### Pathophysiology of Vesicoureteral Reflux (VUR)
+* **Primary VUR**: Congenital developmental defect. Submucosal ureteric tunnel is too short → valve mechanism fails during micturition (bladder contraction).
+* **Secondary VUR**: High intravesical pressure overcomes a normal VUJ.
+    * Anatomical: **Posterior Urethral Valves (PUV)**, urethral stricture.
+    * Functional: Neurogenic bladder (e.g., spina bifida), dysfunctional voiding, severe **Constipation (便秘)**.
 
-## 5. Discriminatory Features (How to distinguish from similar conditions)
-- **Vulvovaginitis**: Presents with external dysuria (pain when urine touches inflamed skin), redness, and vaginal discharge, but the urine culture is negative.
-- **Viral URTI**: Fever is accompanied by clear respiratory symptoms (coryza, cough), whereas UTI in infants often has no localizing signs.
+### Genetics & Aetiology
+* **Primary VUR**: Highly familial. Autosomal dominant trait with incomplete penetrance.
+* ~30% of asymptomatic siblings of index cases will have VUR.
 
-## 6. Differential Diagnosis
-- Vulvovaginitis / Balanitis.
-- Acute Appendicitis (can cause sterile pyuria if the appendix irritates the bladder).
-- Pelvic Inflammatory Disease (PID) in sexually active adolescents.
-- Kawasaki Disease (causes sterile pyuria due to urethritis).
-- Viral cystitis (e.g., Adenovirus, which can cause haemorrhagic cystitis).
+### Common Causative Pathogens
+* **Escherichia coli (大腸桿菌)**: >80% of infections.
+* **Klebsiella / Proteus / Enterococcus / Pseudomonas**: Associated with VUR, structural anomalies, or breakthrough infections on prophylactic Abx.
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Urine Collection (Crucial Step)**:
-  - *Toilet-trained*: Clean-catch midstream urine (MSU).
-  - *Non-toilet trained*: **Catheterization** or **Suprapubic Aspirate (SPA)** are the gold standards for culture. *Urine bags have a high false-positive rate due to perineal contamination and should only be used to rule OUT a UTI (if the dipstick is completely negative).*
-- **Urine Dipstick**:
-  - **Leukocyte Esterase**: Indicates the presence of WBCs (pyuria).
-  - **Nitrites**: Indicates the presence of Gram-negative bacteria (which convert dietary nitrates to nitrites). *Note: Infants empty their bladders frequently, so nitrites may be falsely negative as the bacteria need ~4 hours to convert the nitrates.*
-- **Urine Microscopy & Culture**: The definitive diagnosis. >10^5 CFU/mL of a single pathogen from a clean catch, or *any* growth from an SPA.
-- **Imaging (HA/NICE Guidelines)**: Aimed at detecting structural anomalies and preventing renal scarring.
-  - **Ultrasound (USG) KUB**: First-line. Done acutely for atypical/severe UTI, or routinely within a few weeks for infants < 6 months or recurrent UTIs.
-  - **DMSA Scan (Dimercaptosuccinic Acid)**: A radionucleotide scan done 4-6 months *after* the acute infection to detect permanent renal cortical scarring.
-  - **Micturating Cystourethrogram (MCUG)**: The gold standard to detect Vesicoureteral Reflux (VUR) and PUV. Indicated if USG is abnormal, infection is caused by an atypical pathogen (non-*E. coli*), or recurrent UTIs in infants.
+## 3. Key Symptoms & Signs
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Lower UTI (Cystitis) in older children**: Oral antibiotics for 3-5 days. First-line options in HK include Amoxicillin-Clavulanate (Augmentin), Cefuroxime, or Trimethoprim (guided by local resistance patterns).
-- **Upper UTI (Pyelonephritis) OR Infants < 3 months**: Admission for **IV antibiotics** for 7-10 days. Common regimens include IV Cefuroxime + Gentamicin, or IV Ceftriaxone.
-- **Prophylactic Antibiotics**: Routine use is no longer recommended due to antimicrobial resistance. May be considered in high-grade VUR (Grade IV-V) or recurrent pyelonephritis.
-- **Conservative Measures**: Treat underlying constipation aggressively. Encourage high fluid intake, regular voiding (double voiding), and good perineal hygiene (wipe front to back).
+### Infant (<1 Year) Presentation
+* VUR itself is asymptomatic until a UTI occurs.
+* **Fever Without Focus (不明原因發燒)**: Often the ONLY sign.
+* **Poor Feeding (餵哺困難)** & **Vomiting (嘔吐)**.
+* **Lethargy / Irritability (嗜睡/煩躁)**.
+* **Prolonged Neonatal Jaundice (延長的新生兒黃疸)**.
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- **Paediatric Nephrology / Urology**: Referral required for structural anomalies (e.g., PUV requires surgical ablation; high-grade VUR may require ureteric reimplantation or Deflux injection).
-- **MCHC**: Monitor blood pressure and growth in children with known renal scarring.
+### Older Child (>1 Year) Presentation
+* **Dysuria (尿痛)**, **Frequency (尿頻)**, **Urgency (尿急)**.
+* **Suprapubic Pain (恥骨上疼痛)**.
+* **Secondary Enuresis (繼發性遺尿)**: New-onset bedwetting.
 
-## 10. Safeguarding & NAI Red Flags
-- Recurrent UTIs, or infections with sexually transmitted pathogens (e.g., *Neisseria gonorrhoeae*, *Chlamydia trachomatis*), in a child must raise a very high index of suspicion for **Child Sexual Abuse**.
+### Signs of Pyelonephritis & VUR Complications
+* **High Fever >39°C (高燒)** + **Rigors (寒戰)**.
+* **Loin/Flank Pain (腰痛)**.
+* **Costovertebral Angle (CVA) Tenderness (肋脊角壓痛)**.
+* **Palpable Kidneys**: Suggests hydronephrosis (腎積水) secondary to high-grade VUR or obstruction.
+* **Poor Urinary Stream**: Dribbling in males → implies PUV causing secondary VUR.
 
-## 11. Complications & Prognosis
-**Acute**: Sepsis (especially in neonates), renal abscess.
-- **Chronic**: **Renal Parenchymal Scarring**. This is the most significant long-term complication, which can lead to hypertension, proteinuria, and Chronic Kidney Disease (CKD) or End-Stage Renal Failure (ESRF) in adulthood.
+## 4. Discriminatory Features (How to distinguish from similar conditions)
 
-## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- *Viva*: "Why is a urine bag sample not acceptable for diagnosing a UTI?" (Because of the unacceptably high rate of contamination from perineal and faecal flora. It is only useful if the dipstick is completely negative to rule out a UTI).
-- *Viva*: "What is the difference in purpose between a DMSA scan and an MCUG?" (DMSA is a static scan looking for permanent renal cortical scarring. MCUG is a dynamic scan looking for vesicoureteral reflux and anatomical abnormalities of the urethra like PUV).
-- *Pitfall*: Forgetting to ask about and treat constipation in a child with recurrent UTIs.
+### Primary VUR vs Secondary VUR
+* **Primary VUR**: Normal bladder function, normal bowel habits, no neurological signs. Often resolves spontaneously with age as ureteric tunnel lengthens.
+* **Secondary VUR**: Associated with poor urine stream, palpable bladder, lower limb neurological deficits (sacral dimple), or chronic constipation. Rarely resolves without treating underlying cause.
+
+### UTI vs Vulvovaginitis
+* **UTI**: Internal dysuria, +ve pyuria, +ve urine culture.
+* **Vulvovaginitis**: External dysuria (stinging when urine hits inflamed skin), visible erythema, -ve sterile urine culture.
+
+## 5. Differential Diagnosis
+
+### Differentials for Dysuria & Hydronephrosis
+| Condition | Differentiating Clinical & Imaging Features |
+| :--- | :--- |
+| **Pelviureteric Junction (PUJ) Obstruction** | Hydronephrosis on USG but *without* ureteric dilation. Negative MCUG (no reflux). |
+| **Posterior Urethral Valves (PUV) (後尿道瓣膜)** | Male infants. Bilateral hydroureteronephrosis, thickened bladder wall, dilated posterior urethra on MCUG. |
+| **Acute Appendicitis (急性盲腸炎)** | RLQ pain. Can cause sterile pyuria if inflamed appendix touches bladder. -ve urine culture. |
+| **Kawasaki Disease (川崎病)** | Prolonged fever >5 days, rash, mucosal changes. Causes sterile pyuria (urethritis). |
+
+## 6. Tiered Investigations
+
+### Bedside Urine Collection
+* **Clean-Catch Midstream Urine (MSU)**: Gold standard for toilet-trained.
+* **Suprapubic Aspirate (SPA) / Catheter**: Gold standard for infants.
+* **Urine Bag (尿袋)**: High false +ve rate. Use ONLY to rule OUT UTI if dipstick is completely -ve.
+
+### Laboratory Investigations
+* **Urine Microscopy & Culture**: Definitive diagnosis. >10⁵ CFU/mL of single pathogen.
+* **Renal Function Test (RFT)**: Check creatinine for baseline renal function.
+
+### International Reflux Study Grading of VUR
+| VUR Grade | Radiological Appearance on MCUG | Prognosis |
+| :--- | :--- | :--- |
+| **Grade I** | Reflux into non-dilated ureter only. | >80% spontaneous resolution. |
+| **Grade II** | Reflux into renal pelvis/calyces without dilation. | >80% spontaneous resolution. |
+| **Grade III** | Mild/moderate dilation of ureter, pelvis & calyces. | ~50% spontaneous resolution. |
+| **Grade IV** | Moderate dilation/tortuosity, obliteration of sharp fornices. | High risk of renal scarring. Requires monitoring. |
+| **Grade V** | Gross dilation & tortuosity of ureter, severe calyceal clubbing. | Very low resolution rate. High risk of ESRF. Surgical intervention likely. |
+
+### Tiered Radiological Imaging Pathways (HA/NICE Guidelines)
+| Imaging Modality | Indication & Purpose | Timing |
+| :--- | :--- | :--- |
+| **Ultrasound (USG) KUB** | 1st-line structural check (detects hydronephrosis, duplex kidney). | Acute (<48h) if atypical/severe. Routine (<6 wks) for age <6mo or recurrent UTI. |
+| **Micturating Cystourethrogram (MCUG)** | Dynamic contrast study. **Gold standard for VUR grading & PUV**. | Done post-infection. Indicated if USG abnormal, age <6mo with atypical/recurrent UTI. |
+| **DMSA Scan** | Radionuclide scan. **Gold standard for Renal Cortical Scarring (腎疤痕)**. | 4-6 months *after* acute infection to assess permanent damage. |
+
+## 7. Management (Acute, Chronic, HA Protocols)
+
+### Acute UTI Management (HA Protocols)
+* **Lower UTI**: Outpatient PO Abx for 3-5 days.
+    * 1st Line: **Amoxicillin-Clavulanate (Augmentin)** OR **Cefuroxime (Zinnat)**.
+* **Upper UTI (Pyelonephritis) / Infants <3 months**: Inpatient admission.
+    * 1st Line: **IV Cefuroxime + IV Gentamicin** OR **IV Ceftriaxone** (7-10 days total).
+    * *Note*: Avoid Ceftriaxone in neonates <1mo → use IV Cefotaxime.
+
+### Chronic VUR Management & Prophylaxis
+* **Continuous Antibiotic Prophylaxis (CAP)**: Indicated for VUR Grades III-V, recurrent pyelonephritis, or pending surgical intervention.
+    * Drugs: Low-dose **Trimethoprim** or **Nitrofurantoin** (at night).
+* **Conservative Bladder/Bowel Management**:
+    * Aggressive treatment of **Constipation** (Macrogol/Lactulose).
+    * Timed voiding (every 2-3h), double-voiding, ↑ fluid intake.
+
+### Surgical Management of VUR
+* **Indications**: Breakthrough febrile UTIs despite CAP, deteriorating renal function, non-resolving high-grade VUR (Grade IV-V) in older children.
+* **Endoscopic Injection (Deflux)**: Submucosal injection of copolymer at VUJ to prevent backflow. Less invasive, 1st-line surgical option.
+* **Ureteric Reimplantation (輸尿管重植術)**: Open or robotic surgery to create a longer submucosal tunnel. High success rate (>95%) for complex/Grade V cases.
+
+## 8. MDT & Psychosocial Care
+
+### Multidisciplinary Team Involvement
+* **Paediatric Nephrology**: Management of chronic kidney disease (CKD), proteinuria, and hypertension secondary to reflux nephropathy.
+* **Paediatric Urology**: Surgical intervention (Deflux, reimplantation, PUV ablation).
+* **Maternal and Child Health Centre (MCHC)**: Long-term community monitoring of blood pressure (BP) and growth parameters (height/weight) to detect early signs of secondary hypertension.
+
+## 9. Safeguarding & NAI Red Flags
+
+### Non-Accidental Injury (NAI) & Sexual Abuse Indicators
+* **Recurrent UTIs** in an older child with normal anatomy and no dysfunctional voiding.
+* **STI Pathogens**: Isolation of *Neisseria gonorrhoeae* or *Chlamydia trachomatis* in a pre-pubertal child is an absolute red flag for **Child Sexual Abuse (C.S.A.)**.
+* Action: Immediate Medical Social Worker (MSW) referral + police notification.
+
+## 10. Complications & Prognosis
+
+### Complications of UTI & VUR
+* **Acute**: Urosepsis, Renal Abscess (suspect if fever >48h on IV Abx).
+* **Chronic (Reflux Nephropathy)**:
+    * **Renal Scarring**: Irreversible parenchymal damage.
+    * **Secondary Hypertension (高血壓)**: Scarred tissue overproduces renin.
+    * **Chronic Kidney Disease (CKD)** → **End-Stage Renal Failure (ESRF)**. VUR is a leading cause of childhood ESRF.
+
+### Prognosis of VUR
+* **Low Grade (I-II)**: Excellent. >80% resolve spontaneously within 1-5 years.
+* **High Grade (IV-V)**: Poor spontaneous resolution. High risk of progressive scarring requiring lifelong nephrology follow-up.
+
+## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
+
+* Viva Question: How does primary VUR spontaneously resolve as the child grows?
+Answer: As the child grows, the intravesical portion of the ureter naturally lengthens, improving the flap-valve mechanism and preventing retrograde flow.
+* Viva Question: What is the defining radiological difference between Grade III and Grade IV VUR on an MCUG?
+Answer: Both have dilated ureters, but Grade IV features obliteration of the sharp calyceal fornices (clubbing), whereas Grade III maintains sharp fornices.
+* Viva Question: Why is nitrofurantoin contraindicated in the acute treatment of pyelonephritis?
+Answer: Nitrofurantoin is rapidly excreted in the urine and does not achieve adequate tissue concentrations in the renal parenchyma to treat an upper tract infection.
+* Trap: Ordering an MCUG for every child after their first simple lower UTI.
+Pearl: MCUG is invasive and carries a radiation dose. It is only indicated for atypical UTIs, recurrent UTIs, or abnormal USG findings (e.g., hydronephrosis) suggesting underlying VUR or PUV.
+* Pitfall: Discharging an infant with recurrent UTIs without treating their underlying severe constipation. Treatment of secondary VUR requires resolving the rectal distension that compresses the bladder and causes urinary stasis.

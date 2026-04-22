@@ -1,53 +1,95 @@
 # Hypospadias & Buried Penis (尿道下裂及隱匿型陰莖)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Hypospadias**: A common congenital defect (1 in 300 boys) where the urethral meatus opens on the *ventral* (underside) aspect of the penis rather than at the tip.
-- **Buried Penis**: A normal-sized penile shaft that is entirely hidden completely beneath a prominent suprapubic fat pad, falsely making the penis look micro-sized or absent.
+### Clinical Definition of Hypospadias
+* **Hypospadias (尿道下裂)**: Congenital defect where urethral meatus (尿道口) opens on ventral (underside) aspect of penis instead of tip.
+* **Local Epidemiology**: 1 in ~300 boys.
+
+### Clinical Definition of Buried Penis
+* **Buried Penis (隱匿型陰莖)**: Normal-sized penile shaft entirely hidden beneath prominent suprapubic fat pad (恥骨上脂肪墊).
+* Falsely appears as micro-sized/absent.
 
 ## 2. Pathophysiology & Genetics
-- **Hypospadias**: Results from the failure of the urethral folds to completely fuse in the midline during gestational weeks 8-14. Driven by inadequate androgen signaling or genetics.
-- **Buried Penis**: Not an anomaly of the penis itself. Extremely common in chubby infants and obese children. The attachments of the penile skin are loose, allowing the shaft to slide inward under the thick fat pad.
+### Pathophysiology of Hypospadias
+* Failure of urethral folds (尿道褶) to completely fuse in midline during gestational weeks 8-14.
+* Driven by ↓ androgen (雄激素) signaling or genetic factors.
+
+### Pathophysiology of Buried Penis
+* Not a true anomaly of penis.
+* Extremely common in chubby infants/obese children.
+* Loose penile skin attachments allow shaft to slide inward under thick fat pad.
 
 ## 3. Clinical Presentation
-- **Hypospadias**: Diagnosed immediately at the newborn exam. When examining the penis, the examiner notes the hole is halfway down the underside of the shaft.
-- **Buried Penis**: Parents in clinic highly distressed that their 6-month-old "has no penis," but pressing deep into the suprapubic fat reveals a completely normal 3cm shaft.
+### Presentation of Hypospadias
+* Diagnosed immediately at newborn physical examination (新生兒體格檢查).
+* Visualized hole halfway down underside of shaft.
+
+### Presentation of Buried Penis
+* High parental distress in clinic (e.g., 6-month-old "has no penis").
+* Pressing deep into suprapubic fat reveals completely normal 3cm shaft.
 
 ## 4. Key Symptoms & Signs
-- **HYPOSPADIAS (The Classic Triad)**:
-  1.  **Ventral Meatus**: The hole can be anywhere from the glans (glandular), down the shaft (coronal/penile), or back at the scrotum (penoscrotal).
-  2.  **Hooded Foreskin**: The foreskin fails to form on the ventral side, piling up exclusively on the dorsal side looking like a monk's hood.
-  3.  **Chordee**: A sharp, distinct ventral curvature (bending downward) of the penis, most obvious during an erection.
-- **BIFID SCROTUM**: Severe penoscrotal hypospadias is often accompanied by a cleft/bifid scrotum.
+### Classic Triad of Hypospadias
+* **Ventral Meatus (腹側尿道口)**: Ranges from glans (glandular), down shaft (coronal/penile), to scrotum (penoscrotal).
+* **Hooded Foreskin (包皮呈頭巾狀)**: Foreskin fails to form ventrally → piles exclusively dorsally.
+* **Chordee (陰莖下彎)**: Sharp ventral curvature of penis → most obvious during erection.
+
+### Associated Signs in Severe Hypospadias
+* **Bifid Scrotum (陰囊分裂)**: Often accompanies severe proximal/penoscrotal hypospadias.
 
 ## 5. Discriminatory Features (How to distinguish from similar conditions)
-- Distinct from True Micropenis: A buried penis has normal stretched penile length (>2.5cm in a term neonate) once you push the fat back to the pubic bone. A true micropenis is <2.5cm even when fully stretched from the bone.
+### Buried Penis vs True Micropenis
+
+| Feature | Buried Penis (隱匿型陰莖) | True Micropenis (小陰莖) |
+| :--- | :--- | :--- |
+| **Stretched Penile Length (SPL)** | >2.5cm in term neonate (when pushing fat back to pubic bone) | <2.5cm even when fully stretched from bone |
+| **Aetiology** | Excess suprapubic fat | Endocrine/genetic anomaly |
 
 ## 6. Differential Diagnosis
-- Epispadias (a rare condition where the urethra opens on the dorsal/TOP side of the penis, highly associated with bladder exstrophy).
-- Ambiguous Genitalia / Disorder of Sex Development (DSD).
+### Differential Diagnoses for Penile Anomalies
+* **Epispadias (尿道上裂)**: Rare; urethra opens on dorsal/TOP side → highly associated with bladder exstrophy (膀胱外翻).
+* **Disorder of Sex Development (DSD, 性發育障礙) / Ambiguous Genitalia (性器官模糊)**.
+* **Micropenis (小陰莖)**.
 
 ## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Hypospadias**: Generally a purely clinical diagnosis. 
-- **CRITICAL INVESTIGATION**: If a neonate has **SEVERE (proximal/penoscrotal) hypospadias AND undescended testicles (cryptorchidism)**, this is considered a Disorder of Sex Development (DSD) until proven otherwise. You MUST urgently order a **Karyotype**, pelvic ultrasound, and 17-OH Progesterone (to rule out fatal Congenital Adrenal Hyperplasia).
+### Clinical Investigations for Hypospadias
+* Purely clinical diagnosis in isolated mild cases.
+
+### Critical Investigations for Severe Hypospadias + Cryptorchidism
+* **Indication**: Proximal/penoscrotal hypospadias + undescended testicles (cryptorchidism, 隱睪症) = **DSD until proven otherwise!**
+* **Karyotype (染色體核型分析)**: Determine chromosomal sex.
+* **Pelvic Ultrasound (盆腔超聲波)**: Check for internal female structures (uterus).
+* **17-OH Progesterone (17-羥孕酮)**: Urgent bloods to rule out fatal Congenital Adrenal Hyperplasia (CAH, 先天性腎上腺增生症).
 
 ## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **HYPOSPADIAS**:
-  - **ABSOLUTE CONTRAINDICATION**: Do NOT perform a standard neonatal circumcision. The surgeon absolutely requires the dorsal hooded foreskin to use as a skin graft flap to rebuild the missing urethra tube.
-  - Surgery (Urethroplasty, chordee repair, and glans reconstruction) is usually performed electively between **6 to 18 months of age** (before psychosexual awareness).
-- **BURIED PENIS**:
-  - Reassurance! Advise parents to gently push the fat back when cleaning. 
-  - It naturally resolves as the child grows, loses baby fat, and hits puberty. 
-  - Weight management is the primary "treatment."
+### Absolute Contraindication in Hypospadias
+* **NO neonatal circumcision (割包皮)!!!** * Surgeon requires dorsal hooded foreskin as skin graft flap (植皮瓣) to rebuild missing urethra.
+
+### Surgical Management of Hypospadias
+* **Procedures**: Urethroplasty (尿道成形術), chordee repair, glans reconstruction.
+* **Timing**: Electively at 6-18 months of age (before psychosexual awareness).
+
+### Management of Buried Penis
+* **Reassurance**: Primary HA clinic approach.
+* **Hygiene**: Advise parents to gently push fat back when cleaning.
+* **Resolution**: Naturally resolves with growth, fat loss, and puberty.
+* **Treatment**: Weight management.
 
 ## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- N/A.
+### Psychosocial Care
+* Parental counseling regarding future fertility and psychosexual function (generally normal after successful repair).
 
 ## 10. Safeguarding & NAI Red Flags
-- N/A.
+### Safeguarding Considerations
+* Recurrent UTI or severe balanitis secondary to buried penis poor hygiene may require education, rarely indicates neglect unless non-compliant with advice.
 
 ## 11. Complications & Prognosis
-- Surgical complications of hypospadias repair: Urethrocutaneous fistula (a secondary hole leaking urine), meatal stenosis, or stricture.
+### Surgical Complications of Hypospadias Repair
+* **Urethrocutaneous fistula (尿道皮膚瘻管)**: Secondary hole leaking urine (most common).
+* **Meatal stenosis (尿道口狹窄)**.
+* **Urethral stricture (尿道狹窄)**.
 
 ## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- **Trap**: Approving a parental request for a cultural circumcision in the newborn nursery on a baby with a hooded foreskin. If you circumcise a baby with hypospadias, you have destroyed the exact tissue the plastic surgeon needs to fix the urethra, severely complicating future surgery.
-- **Viva Q**: "A neonate is born with proximal hypospadias and bilateral non-palpable testicles. What life-threatening endocrine condition must you rule out immediately?" Answer: Salt-wasting Congenital Adrenal Hyperplasia (CAH). The child might be a severely virilized genetic female (46,XX), and without immediate cortisol/fludrocortisone, they will die of an adrenal crisis.
+* Trap: Approving a parental request for a cultural circumcision in the newborn nursery on a baby with a hooded foreskin. Pearl: The dorsal hooded foreskin is required for surgical urethroplasty; circumcision is an absolute contraindication in hypospadias.
+* Viva Question: A neonate is born with proximal hypospadias and bilateral non-palpable testicles. What life-threatening endocrine condition must you rule out immediately? Answer: Salt-wasting Congenital Adrenal Hyperplasia (CAH) in a severely virilized genetic female (46,XX).
+* Pitfall: Diagnosing a true micropenis without pushing back the suprapubic fat pad. Always measure the stretched penile length directly from the pubic symphysis to confidently differentiate it from a buried penis.

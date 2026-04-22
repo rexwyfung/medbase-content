@@ -30,15 +30,16 @@
 * Defined as conjugated fraction >20% of TSB
 * ALWAYS pathological
 * Causes: **Biliary Atresia (膽道閉鎖)**, Neonatal Hepatitis (TORCH), Choledochal cyst
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/77d8c6a803a2613195f6c922834adeb2.png)
 
 ## 3. Clinical Presentation
 ### Onset Timing as a Diagnostic Clue
-| Onset Time | Clinical Significance | Common Causes |
-| :--- | :--- | :--- |
-| **< 24 hours** | ALWAYS pathological | Haemolysis (ABO/Rh, G6PD), Sepsis (TORCH) |
-| **24-72 hours** | Usually physiological | Physiological, Early onset breast milk/pathological |
-| **> 72 hours to 2 weeks** | Late onset | Breast milk jaundice, Sepsis, Cephalhaematoma |
-| **> 2 weeks (Prolonged)** | Needs investigation | Biliary atresia, Hypothyroidism, UTI, Breast milk |
+| Onset Time                | Clinical Significance | Common Causes                                       |
+| :------------------------ | :-------------------- | :-------------------------------------------------- |
+| **< 24 hours**            | ALWAYS pathological   | Haemolysis (ABO/Rh, G6PD), Sepsis (TORCH)           |
+| **24-72 hours**           | Usually physiological | Physiological, Early onset breast milk/pathological |
+| **> 72 hours to 2 weeks** | Late onset            | Breast milk jaundice, Sepsis, Cephalhaematoma       |
+| **> 2 weeks (Prolonged)** | Needs investigation   | Biliary atresia, Hypothyroidism, UTI, Breast milk   |
 
 ## 4. Key Symptoms & Signs
 ### Physical Signs of Jaundice
@@ -46,6 +47,7 @@
 * **Kramer's Rule**: 
   * Zone 1 (head/neck) ~100 µmol/L
   * Zone 5 (palms/soles) >250 µmol/L
+  ![image|457](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/712323dd707bad122ae608de4756c082.png)
 
 ### Signs of Dehydration (Breastfeeding Jaundice)
 * Sunken fontanelle
@@ -60,11 +62,11 @@
 
 ## 5. Discriminatory Features (How to distinguish from similar conditions)
 ### Breastfeeding Jaundice vs Breast Milk Jaundice
-| Feature | Breastfeeding Jaundice | Breast Milk Jaundice |
-| :--- | :--- | :--- |
-| **Onset** | Early (1st week) | Late (peaks @ 2 weeks) |
+| Feature             | Breastfeeding Jaundice                                                           | Breast Milk Jaundice                                                           |
+| :------------------ | :------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- |
+| **Onset**           | Early (1st week)                                                                 | Late (peaks @ 2 weeks)                                                         |
 | **Pathophysiology** | Suboptimal intake → dehydration → delayed meconium → ↑ enterohepatic circulation | Breast milk components (e.g. beta-glucuronidase) → ↑ enterohepatic circulation |
-| **Clinical Status** | Dehydrated, weight loss >10%, poor output | Thriving, normal weight gain, normal output |
+| **Clinical Status** | Dehydrated, weight loss >10%, poor output                                        | Thriving, normal weight gain, normal output                                    |
 
 ### Unconjugated vs Conjugated Jaundice
 | Feature | Unconjugated Jaundice | Conjugated Jaundice |
@@ -114,6 +116,7 @@
 ### HA Protocol for Jaundice Monitoring
 * Plot TSB on **NICE / AAP Bilirubin Nomogram**
 * Adjust threshold based on: Gestational age, hours of life, presence of risk factors (e.g., sepsis, haemolysis)
+	![image|475](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/8c868aa7db327252739cba0264db6fca.png)
 
 ### 1st Line Management: Phototherapy (光照治療)
 * **Indication**: TSB crosses phototherapy threshold
@@ -129,6 +132,8 @@
 
 ### Pharmacological Therapy
 * **IVIG**: Consider in isoimmune haemolytic disease (ABO/Rh) if TSB rising rapidly to avoid exchange transfusion
+
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/09758121145eb069081cb5ea8aeb5345.png)
 
 ## 9. MDT & Psychosocial Care
 ### Maternal and Child Health Centre (MCHC) Follow-up
@@ -153,6 +158,7 @@
   * Sensorineural hearing loss
   * Upward gaze palsy
   * Dental enamel dysplasia
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/719f07f2dd64de13904763302d8733c3.png)
 
 ### Prognosis
 * Excellent if treated promptly
