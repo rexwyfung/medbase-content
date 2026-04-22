@@ -7,7 +7,6 @@
   * Triggers: Highly correlated with local Air Quality Health Index (AQHI ↑), high humidity, & household dust mites (**塵蟎**).
 
 ## 2. Pathophysiology & Genetics
-[attachment_0](attachment)
 * **Pathophysiology**:
   * Allergen/Trigger → IgE cross-linking on mast cells → Histamine/Leukotriene release (Type I Hypersensitivity / **I型過敏反應**).
   * Eosinophilic/lymphocytic infiltration → Mucosal oedema (**黏膜水腫**).
