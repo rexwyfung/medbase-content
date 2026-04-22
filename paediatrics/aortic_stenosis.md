@@ -1,65 +1,124 @@
-
 # Aortic Stenosis (主動脈瓣狹窄)
+
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: Narrowing of the left ventricular outflow tract, most commonly at the valvar level, but can be subvalvar or supravalvar.
-- **Local Epidemiology**: Less common than PS in children. The most common cause in childhood is a congenital Bicuspid Aortic Valve (BAV), which occurs in 1-2% of the population.
+### Clinical Definition of Aortic Stenosis
+* **Definition**: Narrowing of the **Left Ventricular Outflow Tract (LVOT)** (左心室流出道) → obstruction of blood flow from LV to aorta.
+* **Levels of Obstruction**:
+  * **Valvar** (most common)
+  * **Subvalvar**
+  * **Supravalvar**
+
+### Local Epidemiology of Aortic Stenosis
+* **Prevalence**: Less common than Pulmonary Stenosis (PS) in childhood. 
+* **Most Common Cause**: Congenital **Bicuspid Aortic Valve (BAV)** (二葉主動脈瓣) → occurs in 1-2% of the general population.
 
 ## 2. Pathophysiology & Genetics
-- **Bicuspid Aortic Valve**: The valve has two leaflets instead of three. It may function normally in childhood but is prone to early calcification and stenosis in adulthood.
-- Obstruction leads to Left Ventricular Hypertrophy (LVH) to maintain cardiac output.
-- Increased LV pressure and muscle mass increase myocardial oxygen demand, while decreased diastolic filling time (due to tachycardia) reduces coronary perfusion, leading to subendocardial ischaemia.
-- Associated with Coarctation of the Aorta and Turner Syndrome.
+### Pathophysiology of Left Ventricular Outflow Tract Obstruction
+* **BAV** → 2 leaflets instead of 3 → functions normally in childhood but prone to early calcification/stenosis in adulthood.
+* **Obstruction** → **Left Ventricular Hypertrophy (LVH)** (左心室肥厚) to maintain cardiac output.
+* ↑ LV pressure & ↑ muscle mass → ↑ myocardial O2 demand.
+* Tachycardia → ↓ diastolic filling time → ↓ coronary perfusion → **Subendocardial ischaemia** (心內膜下缺血).
 
-## 3. Clinical Presentation
-- See below.
+### Genetics and Associated Syndromes
+* **Turner Syndrome** (特納氏綜合症) (45,X) → strongly assx with BAV and Coarctation of the Aorta.
+* **Williams Syndrome** → classically assx with Supravalvar AS.
+* Often assx with **Mitral Valve Stenosis** and **Coarctation of the Aorta (CoA)**.
 
-## 4. Key Symptoms & Signs
-- **Mild/Moderate**: Often asymptomatic.
-- **Severe**: The classic triad of **Syncope** (especially exertional), **Angina** (chest pain), and **Heart Failure** (dyspnoea).
-- **Auscultation**:
-  - **Ejection systolic murmur** at the Right Upper Sternal Border (RUSB), radiating to the carotids.
-  - **Ejection click**: Often present (if valvar), does *not* vary with respiration.
-  - Narrow pulse pressure.
-  - Slow-rising pulse (pulsus parvus et tardus) - often difficult to appreciate in children.
-  - Apical heave (LVH).
-## 5. Discriminatory Features (How to distinguish from similar conditions)
-- **Hypertrophic Cardiomyopathy (HCM)**: Also has an ejection systolic murmur, but it is louder at the left sternal edge, does *not* radiate to the carotids, and *increases* with Valsalva manoeuvre (AS murmur decreases).
+## 3. Key Symptoms & Signs
+### Clinical Symptoms of Aortic Stenosis
+* **Mild/Moderate AS**: Often asymptomatic.
+* **Severe AS**: Classic triad:
+  * **Syncope** (暈厥) (esp. exertional)
+  * **Angina** (心絞痛) (chest pain)
+  * **Heart Failure** (心臟衰竭) (dyspnoea)
+* **Critical Neonatal AS**: Presents with cardiogenic shock (duct-dependent systemic circulation).
 
-## 6. Differential Diagnosis
-- **Most Likely**:
-  - Congenital Bicuspid Aortic Valve.
-- **Must-Not-Miss**:
-  - Critical Aortic Stenosis in a neonate (duct-dependent systemic circulation, presents with cardiogenic shock).
-  - Hypertrophic Cardiomyopathy (risk of sudden cardiac death).
+### Physical Signs of Aortic Stenosis
+* **Pulse**: Narrow pulse pressure, **slow-rising pulse** (pulsus parvus et tardus) → small volume, delayed (difficult to appreciate in young children).
+* **Palpation**: **Apical heave** (+ve LVH), **Carotid thrill** (always present in severe AS).
+* **Auscultation**:
+  * **Ejection systolic murmur (ESM)** (收縮期噴射性雜音) maximal at **Right Upper Sternal Border (RUSB)**.
+  * **Radiation**: To the **carotids/neck**.
+  * **Ejection click**: Present if valvar (does *not* vary with respiration).
+  * **S2**: Delayed and soft aortic second sound (A2).
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Bedside**:
-  - **ECG**: Left axis deviation, Left Ventricular Hypertrophy (tall R waves in V5/V6, deep S waves in V1/V2). ST-T wave changes (strain pattern) indicate severe disease/ischaemia.
-  - **CXR**: Usually normal heart size (hypertrophy, not dilatation). Prominent ascending aorta (post-stenotic dilatation).
-- **Gold Standard**:
-  - **Echocardiogram**: Diagnostic. Determines valve morphology (bicuspid vs. tricuspid), measures the pressure gradient, and assesses LV function and hypertrophy.
-- **Monitoring**:
-  - Exercise testing (in older, asymptomatic children) to assess for exercise-induced symptoms or arrhythmias.
+## 4. Discriminatory Features (How to distinguish from similar conditions)
+### Discriminatory Features vs Hypertrophic Cardiomyopathy (HCM)
+* **HCM (肥厚型心肌病)**: 
+  * Murmur ↑ with **Valsalva manoeuvre** (AS murmur ↓).
+  * Murmur louder at **Left Sternal Edge (LSE)**.
+  * Does *not* radiate to carotids.
+  * Jerky pulse (vs slow-rising in AS).
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Acute**:
-  - **Neonatal Critical AS**: Prostaglandin E1 to maintain ductal patency, followed by urgent intervention.
-- **Chronic/Definitive**:
-  - **Mild**: Observation. Avoid competitive sports if moderate/severe.
-  - **Intervention Indications**: Symptoms (syncope, angina), high resting gradient (>50 mmHg), or ECG strain pattern.
-  - **Transcatheter Balloon Valvuloplasty**: Often the first-line palliative procedure in children to delay surgery.
-  - **Surgical Valvotomy or Valve Replacement**: Required eventually. Options include mechanical valves (requires lifelong anticoagulation) or the **Ross Procedure** (the patient's own pulmonary valve is moved to the aortic position, and a homograft replaces the pulmonary valve - allows for growth, often preferred in children).
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- Lifelong cardiology follow-up is mandatory.
-## 10. Safeguarding & NAI Red Flags
-- **Safety Netting**: Educate parents and older children about the red flag symptoms: chest pain or fainting during exercise requires immediate medical attention.
+## 5. Differential Diagnosis
+### Differential Diagnosis of Ejection Systolic Murmur
+| Condition | Key Differentiating Features |
+| :--- | :--- |
+| **Bicuspid Aortic Valve (BAV)** | Most likely cause; isolated ESM with click. |
+| **Critical Neonatal AS** | Must-not-miss; duct-dependent systemic circulation → rapid collapse when duct closes. |
+| **Hypertrophic Cardiomyopathy** | Risk of sudden cardiac death; murmur ↑ on standing/Valsalva. |
+| **Pulmonary Stenosis (PS)** | Murmur at LUSB, radiates to back; normal pulse. |
+| **Coarctation of the Aorta (CoA)** | Radio-femoral delay; weak/absent femoral pulses. |
 
-## 11. Complications & Prognosis
-- Sudden cardiac death (rare but catastrophic, usually associated with severe, unrecognised AS and exertion).
-- Infective endocarditis (BAV is a high-risk lesion).
-- Progressive stenosis or regurgitation requiring multiple interventions over a lifetime.
+## 6. Tiered Investigations
+### Bedside Investigations
+* **ECG**: 
+  * Left axis deviation.
+  * **LVH** (左心室肥厚) → tall R waves in V5/V6, deep S waves in V1/V2. 
+  * ST-T wave changes (**strain pattern** → inverted T wave in V6) indicates severe disease/ischaemia.
 
-## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- **Trap**: Recommending competitive sports for a child with a loud AS murmur. *Pearl*: Severe AS is an absolute contraindication to competitive sports due to the risk of sudden cardiac death.
-- **Viva Question**: "What is the Ross procedure?" *Answer*: An autograft procedure where the patient's own pulmonary valve replaces the diseased aortic valve, ideal for growing children as the autograft grows with them.
+### Gold Standard Imaging
+* **Echocardiogram (ECHO)** (心臟超聲波):
+  * **Diagnostic**. 
+  * Determines valve morphology (bicuspid vs tricuspid).
+  * Measures transvalvular pressure gradient.
+  * Assesses LV function & hypertrophy.
+* **CXR**: Usually normal heart size (concentric hypertrophy, not dilatation). **Prominent ascending aorta** (post-stenotic dilatation/aortopathy).
 
+### Specialized Monitoring
+* **Exercise Testing**: For older, asymptomatic children to assess exercise-induced symptoms/arrhythmias.
+
+## 7. Management (Acute, Chronic, HA Protocols)
+### Acute HA Management for Critical Neonatal AS
+* **Resuscitation**: ABCDE approach.
+* **Prostaglandin E1 (PGE1) Infusion**: **Crucial** to maintain ductal patency (maintains systemic circulation right-to-left via the duct).
+* Urgent transfer to **Hong Kong Children's Hospital (HKCH)** for paediatric cardiology/cardiothoracic surgery.
+
+### Chronic HA Management & Intervention Indications
+* **Mild AS**: Observation + regular ECHO follow-up. 
+* **Activity Restriction**: Avoid competitive sports if moderate/severe.
+* **Intervention Indications**: 
+  * Symptoms (+ve syncope, angina).
+  * High resting gradient (**>64 mmHg** or >50 mmHg with symptoms).
+  * ECG strain pattern.
+
+### Definitive Surgical Interventions
+| Intervention Type | Clinical Context & Outcome |
+| :--- | :--- |
+| **Transcatheter Balloon Valvuloplasty** | 1st-line palliative procedure in children. Delays need for open surgery. |
+| **Mechanical Valve Replacement** | Highly durable but requires **lifelong anticoagulation** (warfarin). |
+| **Ross Procedure (羅斯手術)** | Patient's own pulmonary valve (autograft) moved to aortic position; homograft replaces pulmonary valve. Ideal for children as the autograft **grows with the child**. Avoids anticoagulation. |
+
+## 8. MDT & Psychosocial Care
+### MDT Follow-up & Psychosocial Support
+* **Cardiology**: Lifelong follow-up mandatory due to risk of re-stenosis or regurgitation requiring multiple interventions.
+* **School/PE Teachers**: Provide clear HA medical letters detailing sports restrictions.
+* **Dental**: Emphasize optimal dental hygiene to prevent Infective Endocarditis.
+
+## 9. Safeguarding & NAI Red Flags
+### Clinical Safeguarding & Safety Netting
+* **Red Flags**: Educate parents/older children → **Chest pain** or **syncope** during exercise demands immediate Emergency Department (AED) attendance.
+* **Precaution**: Strict avoidance of rigorous/competitive physical exertion in uncorrected severe AS.
+
+## 10. Complications & Prognosis
+### Long-term Complications & Prognosis
+* **Sudden Cardiac Death (猝死)**: Rare but catastrophic, usually assx with severe, unrecognised AS + exertion.
+* **Infective Endocarditis (感染性心內膜炎)**: BAV is a high-risk lesion.
+* **Progressive Disease**: Stenosis or regurgitation often requires multiple interventions over a lifetime.
+
+## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
+* Viva Question: What is the Ross procedure? Answer: An autograft procedure where the patient's own pulmonary valve replaces the diseased aortic valve, ideal for growing children as the autograft grows with them.
+* Trap: Recommending competitive sports for a child with a loud AS murmur. Pearl: Severe AS is an absolute contraindication to competitive sports due to the risk of sudden cardiac death.
+* Pitfall: Assuming a normal CXR rules out severe AS. In AS, the left ventricle undergoes concentric hypertrophy rather than dilatation, so the cardiothoracic ratio on CXR may appear completely normal until late-stage heart failure ensues.
+* Viva Question: What syndrome is characteristically associated with supravalvar aortic stenosis? Answer: Williams syndrome.
+* Pitfall: Forgetting to check femoral pulses in a child with an ejection systolic murmur. Aortic stenosis is frequently associated with coarctation of the aorta, so assessing for radio-femoral delay and checking lower limb pulses is mandatory.
