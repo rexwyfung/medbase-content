@@ -1,71 +1,131 @@
 # Infantile Colic (嬰兒腸絞痛)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: A benign, self-limiting condition characterized by recurrent, prolonged, and unexplained periods of crying, fussing, or irritability in an otherwise healthy and well-fed infant.
-- **The "Rule of Threes" (Wessel's Criteria)**: Crying for more than **3 hours a day**, for more than **3 days a week**, for more than **3 weeks**, in an infant under 3 months of age.
-- **Local Epidemiology**: Extremely common, affecting up to 20-25% of infants globally and in Hong Kong. It is a major cause of parental anxiety and visits to the MCHC or AED.
+
+### Definition of Infantile Colic
+* Benign, self-limiting condition → recurrent, prolonged, unexplained crying/fussing in otherwise healthy/well-fed infant.
+* **Wessel's Criteria ("Rule of Threes")**: Crying **>3 hours/day**, **>3 days/week**, for **>3 weeks**, in infant **<3 months old**.
+
+### Local Epidemiology in Hong Kong
+* Extremely common → affects **~20-25%** of infants globally & in HK.
+* Major cause of parental anxiety & acute visits to **MCHC (母嬰健康院)** or **AED (急症室)**.
 
 ## 2. Pathophysiology & Genetics
-- **Pathophysiology**: The exact cause is unknown. It is likely multifactorial.
-  - *Gastrointestinal*: Altered gut motility, excessive gas, transient lactose intolerance, or an immature gut microbiome.
-  - *Neurological*: An immature nervous system struggling to regulate crying and process environmental stimuli.
-  - *Psychosocial*: Parental anxiety, altered parent-infant interaction, or faulty feeding techniques (e.g., swallowing too much air).
-- **Crucial Concept**: Colic is a diagnosis of exclusion. It is a description of a symptom pattern, not a specific disease.
 
-## 3. Clinical Presentation
-- The classic presentation is a 2-to-6-week-old infant who has severe, inconsolable crying spells, typically occurring in the **late afternoon or evening**.
-- The infant is completely well, happy, and feeding normally between these episodes.
+### Pathophysiology of Infantile Colic
+* Exact cause unknown; likely multifactorial.
+* **Gastrointestinal**: Altered gut motility, ↑ gas, transient lactose intolerance, immature gut microbiome.
+* **Neurological**: Immature nervous system → struggles to regulate crying/process environmental stimuli.
+* **Psychosocial**: Parental anxiety, altered parent-infant interaction, faulty feeding technique (swallowing ↑ air).
 
-## 4. Key Symptoms & Signs
-- **The Crying**: High-pitched, intense, and sounds like a cry of pain. It is very difficult to soothe the infant.
-- **Physical Signs during an episode**:
-  - The infant may draw their knees up to their abdomen.
-  - Clenched fists, arched back.
-  - The face becomes flushed/red.
-  - The abdomen may appear distended or tense (due to swallowed air from crying).
-- **Normal Examination**: A thorough physical examination is completely normal. The infant is growing well along their centiles.
+### Diagnostic Concept of Infantile Colic
+* Strictly a **diagnosis of exclusion**.
+* Represents a description of a symptom pattern, NOT a specific disease.
 
-## 5. Discriminatory Features (How to distinguish from similar conditions)
-- **Intussusception**: Crying is episodic and severe, but the infant is often pale, lethargic, and may have bilious vomiting or "redcurrant jelly" stools. Colic babies are well between episodes.
-- **Cow's Milk Protein Allergy (CMPA)**: May present with crying, but usually accompanied by other signs: severe eczema, vomiting, diarrhoea, or blood/mucus in the stool.
-- **Gastro-oesophageal Reflux Disease (GORD)**: Frequent regurgitation, arching of the back *during* feeds, and poor weight gain.
+## 3. Key Symptoms & Signs
 
-## 6. Differential Diagnosis (The "Red Flags" to exclude)
-- **Infection**: UTI, meningitis, otitis media, viral illness.
-- **Surgical abdomen**: Intussusception, volvulus, incarcerated hernia.
-- **Trauma/NAI**: Hair tourniquet (check fingers, toes, penis), corneal abrasion, fractures.
-- **Feeding issues**: Underfeeding, overfeeding, CMPA, GORD.
+### Classic Clinical Presentation of Infantile Colic
+* **2-to-6-week-old** infant.
+* Severe, inconsolable crying spells → typically in late afternoon/evening.
+* Completely well, happy, & feeding normally between episodes.
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **NO investigations are routinely required** if the history is classic and the physical examination (including growth parameters) is completely normal.
-- Investigations (e.g., urinalysis, ultrasound) are only indicated if there are "red flag" symptoms (e.g., fever, poor weight gain, vomiting, abnormal examination).
+### Physical Signs During a Colic Episode
+* **Crying**: High-pitched, intense, sounds like a cry of pain.
+* Draws knees ↑ to abdomen.
+* Clenched fists, arched back.
+* Flushed/red face.
+* Distended/tense abdomen (due to swallowed air from crying).
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Reassurance & Education (The Mainstay)**:
-  - Acknowledge the parents' distress and validate their feelings.
-  - Reassure them that the infant is healthy, growing well, and that the crying is not their fault.
-  - Explain the natural history: Colic peaks at 6 weeks and usually resolves completely by 3-4 months of age.
-- **Soothing Techniques**:
-  - Gentle rocking, white noise, swaddling, pacifiers, warm baths, or a car ride.
-  - Ensure proper feeding techniques (frequent burping, correct latch/bottle angle to minimize swallowed air).
-- **Medical/Dietary Interventions (Limited Evidence)**:
-  - *Simethicone drops (Infacol)*: Often used by parents to break up gas bubbles, though evidence of efficacy is poor.
-  - *Probiotics (Lactobacillus reuteri)*: Some evidence suggests it may reduce crying time in breastfed infants.
-  - *Dietary changes*: A trial of a hypoallergenic formula (for suspected CMPA) or maternal dietary restriction (dairy-free) should only be considered if there are other signs of allergy, and under medical guidance.
+### Examination Findings Between Episodes
+* Thorough physical exam → **completely normal**.
+* Growth parameters → normal (strictly following centiles).
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- **MCHC Nurses**: Provide crucial ongoing support, feeding advice, and reassurance.
-- **Parental Mental Health**: Assess the parents for postnatal depression, exhaustion, and burnout.
+## 4. Discriminatory Features (How to distinguish from similar conditions)
 
-## 10. Safeguarding & NAI Red Flags
-- **CRITICAL**: Inconsolable crying is the primary trigger for **Abusive Head Trauma (Shaken Baby Syndrome)**.
-- You MUST explicitly warn parents about the dangers of shaking a baby. Advise them that if they feel overwhelmed, it is safe to put the crying baby down in their cot, close the door, and walk away for 10 minutes to calm down.
+### Distinguishing Colic from Intussusception (腸套疊)
+* **Intussusception**: Crying episodic/severe, BUT infant often pale, lethargic, +ve bilious vomiting, +ve "redcurrant jelly" stools.
+* **Colic**: Infant is completely well between episodes.
 
-## 11. Complications & Prognosis
-- **Prognosis**: Excellent. Resolves spontaneously by 3-4 months of age with no long-term medical consequences for the child.
-- **Complications**: The main complications are psychosocial: severe parental stress, marital discord, early cessation of breastfeeding, and the risk of NAI.
+### Distinguishing Colic from Cow's Milk Protein Allergy (CMPA)
+* **CMPA (牛奶蛋白敏感)**: Accompanied by severe eczema, vomiting, diarrhoea, blood/mucus in stool, strong atopic family history.
+* **Colic**: Isolated crying without GI/skin manifestations.
 
-## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- *Viva*: "What are the 'Rule of Threes' used to define infantile colic?" (Crying >3 hours a day, >3 days a week, for >3 weeks, in an infant <3 months old).
-- *Viva*: "A mother brings her 6-week-old baby to the AED because he has been crying inconsolably for 2 hours. He is afebrile and the examination is normal. What specific physical check must you not forget before diagnosing colic?" (Check for a hair tourniquet on the toes, fingers, and penis, and check the eyes for a corneal abrasion).
-- *Pitfall*: Diagnosing colic without plotting the infant's growth chart. A baby who is crying constantly and *not* gaining weight does not have colic; they have a medical or feeding problem.
+### Distinguishing Colic from Gastro-oesophageal Reflux Disease (GORD)
+* **GORD (胃食管反流病)**: Frequent regurgitation, arching of back *during* feeds, ↓ weight gain.
+* **Colic**: Normal feeding, normal weight gain.
+
+## 5. Differential Diagnosis
+
+### Differential Diagnoses (Red Flags to Exclude)
+| Category | Specific Conditions to Exclude |
+| :--- | :--- |
+| **Infection** | UTI, meningitis, otitis media, viral illness, sepsis. |
+| **Surgical Abdomen** | Intussusception, volvulus, strangulated hernia, torsion of testis. |
+| **Trauma / NAI** | Hair tourniquet (check fingers, toes, penis), corneal abrasion, unrecognized fractures. |
+| **Feeding / GI Issues** | Underfeeding, overfeeding, CMPA, GORD. |
+
+## 6. Tiered Investigations
+
+### Routine Investigations for Colic
+* **NO investigations** are routinely required if history is classic + physical exam normal + normal growth parameters.
+
+### Indications for Investigations
+* Only indicated if **"red flag"** symptoms present (+ve fever, ↓ weight gain, vomiting, abnormal exam).
+* **Urinalysis/Urine Culture**: To exclude UTI.
+* **Abdominal Ultrasound (USG)**: To exclude intussusception/volvulus.
+
+## 7. Management (Acute, Chronic, HA Protocols)
+
+### First-Line Management (Reassurance & Education)
+* **The Mainstay of Therapy**.
+* Acknowledge parental distress & validate feelings.
+* Reassure parents infant is healthy, growing well, & crying is NOT their fault.
+* Explain natural history: Peaks at **6 weeks** → resolves completely by **3-4 months** of age.
+
+### Soothing & Feeding Techniques
+* Gentle rocking, white noise, swaddling, pacifiers, car/stroller ride, **Kangaroo mother care** (skin-to-skin).
+* Ensure proper feeding technique: Frequent burping, correct latch/bottle angle to ↓ swallowed air.
+
+### Medical & Dietary Interventions (Limited Evidence)
+* **Simethicone (西甲硅油) drops (Infacol)**: Breaks up gas bubbles (poor evidence, but safe/often used by parents).
+* **Probiotics (*Limosilactobacillus reuteri*)**: May ↓ crying time in breastfed infants.
+* **Dietary changes**: Trial of hypoallergenic formula or maternal dietary restriction (dairy-free) ONLY if +ve signs of CMPA & under medical guidance (avoids unnecessary medicalization). 
+
+## 8. MDT & Psychosocial Care
+
+### Role of MCHC Nurses & MSW
+* **MCHC (母嬰健康院) Nurses**: Provide crucial ongoing support, feeding advice, weight monitoring, & reassurance.
+* **Medical Social Worker (MSW)**: Indicated if severe psychosocial distress, housing, or financial issues are exacerbating family stress.
+
+### Parental Mental Health Assessment
+* Actively assess mother/parents for **postnatal depression (產後抑鬱)**, exhaustion, and burnout.
+
+## 9. Safeguarding & NAI Red Flags
+
+### Non-Accidental Injury (NAI) Risks in Colic
+* **CRITICAL**: Inconsolable crying is the primary trigger for **Abusive Head Trauma (Shaken Baby Syndrome / 搖晃嬰兒綜合症)**.
+
+### Parental Safety Advice
+* MUST explicitly warn parents about the dangers of shaking a baby.
+* **Action Plan**: Advise parents that if overwhelmed, it is safe to place the crying baby down in their cot, close the door, and walk away for 10 minutes to calm down.
+
+## 10. Complications & Prognosis
+
+### Prognosis of Infantile Colic
+* **Excellent**. Resolves spontaneously by 3-4 months of age.
+* Zero long-term medical consequences for the child.
+
+### Psychosocial Complications
+* Severe parental stress & marital discord.
+* Early cessation of breastfeeding.
+* **↑ Risk of NAI / Shaken Baby Syndrome**.
+
+## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
+
+* Viva Question: What is the "Rule of Threes" used to define infantile colic?
+  Answer: Crying >3 hours a day, >3 days a week, for >3 weeks, in an infant <3 months old.
+* Viva Question: A mother brings her 6-week-old baby to the AED because he has been crying inconsolably for 2 hours. He is afebrile and the examination is normal. What specific physical check must you not forget before diagnosing colic?
+  Answer: Check for a hair tourniquet on the toes, fingers, and penis, and check the eyes for a corneal abrasion.
+* Pitfall: Diagnosing colic without plotting the infant's growth chart. A baby who is crying constantly and not gaining weight does not have colic; they have an underlying medical or feeding problem.
+* Trap: Immediately switching a colicky, formula-fed baby to a hydrolyzed formula without other allergic symptoms.
+  Pearl: A trial of hydrolyzed formula is only indicated if there is a strong atopic family history or specific signs of Cow's Milk Protein Allergy (CMPA), as it unnecessarily medicalizes a benign condition.

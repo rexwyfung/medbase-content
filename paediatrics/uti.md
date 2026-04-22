@@ -95,13 +95,15 @@
 | **Grade III** | Mild/moderate dilation of ureter, pelvis & calyces. | ~50% spontaneous resolution. |
 | **Grade IV** | Moderate dilation/tortuosity, obliteration of sharp fornices. | High risk of renal scarring. Requires monitoring. |
 | **Grade V** | Gross dilation & tortuosity of ureter, severe calyceal clubbing. | Very low resolution rate. High risk of ESRF. Surgical intervention likely. |
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/caf30f6f223106f0f4ada15f9c82bed8.png)
 
 ### Tiered Radiological Imaging Pathways (HA/NICE Guidelines)
-| Imaging Modality | Indication & Purpose | Timing |
-| :--- | :--- | :--- |
-| **Ultrasound (USG) KUB** | 1st-line structural check (detects hydronephrosis, duplex kidney). | Acute (<48h) if atypical/severe. Routine (<6 wks) for age <6mo or recurrent UTI. |
-| **Micturating Cystourethrogram (MCUG)** | Dynamic contrast study. **Gold standard for VUR grading & PUV**. | Done post-infection. Indicated if USG abnormal, age <6mo with atypical/recurrent UTI. |
-| **DMSA Scan** | Radionuclide scan. **Gold standard for Renal Cortical Scarring (腎疤痕)**. | 4-6 months *after* acute infection to assess permanent damage. |
+| Imaging Modality                        | Indication & Purpose                                                    | Timing                                                                                |
+| :-------------------------------------- | :---------------------------------------------------------------------- | :------------------------------------------------------------------------------------ |
+| **Ultrasound (USG) KUB**                | 1st-line structural check (detects hydronephrosis, duplex kidney).      | Acute (<48h) if atypical/severe. Routine (<6 wks) for age <6mo or recurrent UTI.      |
+| **Micturating Cystourethrogram (MCUG)** | Dynamic contrast study. **Gold standard for VUR grading & PUV**.        | Done post-infection. Indicated if USG abnormal, age <6mo with atypical/recurrent UTI. |
+| **DMSA Scan**                           | Radionuclide scan. **Gold standard for Renal Cortical Scarring (腎疤痕)**. | 4-6 months *after* acute infection to assess permanent damage.                        |
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/c693d73dde92387713bbb1168c322404.png)
 
 ## 7. Management (Acute, Chronic, HA Protocols)
 

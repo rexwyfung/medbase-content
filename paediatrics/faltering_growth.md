@@ -1,81 +1,156 @@
 # Faltering Growth (Failure to Thrive) (生長遲緩)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: A descriptive term (not a diagnosis) indicating suboptimal weight gain in an infant or toddler. It is defined objectively using growth charts:
-  - Weight dropping across **two or more major centile lines** (e.g., from the 50th to below the 9th).
-  - Weight consistently below the 2nd or 0.4th centile.
-  - A significant discrepancy between weight and height/head circumference (e.g., height on 50th centile, weight on 2nd centile).
-- **Local Epidemiology**: A very common reason for referral to paediatric outpatient clinics in Hong Kong.
+
+### Clinical Definition of Faltering Growth
+* **Faltering growth (生長遲緩)** is a descriptive term (formerly **Failure to Thrive (FTT)**).
+* Defined objectively via serial plotting on **WHO growth charts**:
+  * ↓ **Weight** crossing ≥2 major centile lines.
+  * **Weight** centile ≥2 centiles below **Length/Height** or **Head Circumference** centile.
+  * **Weight** consistently <2nd or 0.4th centile for age.
+* Note: Normal neonates ↓ up to 10% of birth weight (regained by 2 weeks).
+
+### Local Epidemiology of Faltering Growth
+* Very common reason for referral to **Hospital Authority (HA) (醫院管理局)** paediatric outpatient clinics and community **Maternal and Child Health Centres (MCHC) (母嬰健康院)** in Hong Kong.
 
 ## 2. Pathophysiology & Genetics
-- The fundamental pathophysiology is a mismatch between caloric intake and caloric expenditure.
-- **Three Main Mechanisms**:
-  1. **Inadequate Caloric Intake (Most Common - 80%)**:
-     - *Non-organic/Psychosocial*: Poor feeding technique, incorrect formula preparation (too dilute), poverty/food insecurity, maternal depression, neglect, coercive feeding leading to food aversion.
-     - *Organic*: Cleft palate, severe GORD, neurological impairment (cerebral palsy causing unsafe swallow).
-  2. **Inadequate Caloric Absorption**:
-     - Coeliac disease, Cystic Fibrosis (pancreatic insufficiency), Cow's Milk Protein Allergy, chronic diarrhoea.
-  3. **Increased Caloric Expenditure**:
-     - Congenital heart disease (heart failure), chronic lung disease, hyperthyroidism, chronic infections (UTI, HIV), malignancy.
 
-## 3. Clinical Presentation
-- Usually identified by MCHC nurses during routine weighing and plotting on the growth chart.
-- Parents may or may not be concerned about the child's feeding.
+### Fundamental Pathophysiology of Faltering Growth
+* Primary mismatch between **caloric intake** and **caloric expenditure/loss**.
 
-## 4. Key Symptoms & Signs
-- **The Growth Chart is the most important clinical tool.**
-  - *Weight* is affected first.
-  - *Height* is affected later (stunting).
-  - *Head Circumference* is affected last (brain sparing). If all three are symmetrically small from birth, consider genetic/syndromic causes or IUGR, rather than postnatal faltering growth.
-- **Physical Signs**: Loss of subcutaneous fat (baggy skin folds on buttocks/thighs), muscle wasting, prominent ribs.
-- **Signs of underlying disease**: Murmur (CHD), clubbing (CF), severe eczema (CMPA), pallor (anaemia).
+### Pathophysiological Mechanisms of Faltering Growth
+* **Inadequate Caloric Intake** (Most common, ~80%):
+  * **Environmental/Psychosocial**: Poor feeding technique, ↑ diluted formula, poverty, maternal depression, neglect, coercive feeding → food aversion.
+  * **Organic (Impaired suck/swallow)**: **Cerebral Palsy (腦性麻痺)**, **Cleft Palate (齶裂)**.
+  * **Chronic Illness Anorexia**: **Chronic Kidney Disease (CKD) (慢性腎病)**, **Crohn disease (克隆氏症)**.
+* **Inadequate Caloric Absorption**:
+  * **Coeliac disease (乳糜瀉)**, **Cystic Fibrosis (囊性纖維化)** (pancreatic insufficiency), **Cow's Milk Protein Allergy (CMPA) (牛奶蛋白過敏)**, chronic diarrhoea, short bowel syndrome.
+* **Inadequate Caloric Retention**:
+  * Vomiting: **Gastro-oesophageal Reflux Disease (GORD) (胃食管反流症)**.
+* **Increased Caloric Expenditure / Failure to Utilize**:
+  * **Congenital Heart Disease (CHD) (先天性心臟病)** (heart failure), hyperthyroidism, chronic infections (UTI, HIV), malignancy.
+  * Genetic/Syndromic: **Down syndrome (唐氏綜合症)**.
 
-## 5. Discriminatory Features (How to distinguish from similar conditions)
-- **Constitutional Delay of Growth and Puberty (CDGP)**: The child is small but growing parallel to the centiles (not crossing them downwards). There is usually a family history of "late bloomers," and bone age is delayed.
-- **Familial Short Stature**: The child is small, but the parents are also short. The child's projected height is within the mid-parental target height range.
+## 3. Key Symptoms & Signs
 
-## 6. Differential Diagnosis
-- Non-organic/Psychosocial (neglect, poor feeding practices).
-- Gastrointestinal (Coeliac, CF, CMPA, GORD).
-- Cardiac (Congenital Heart Disease).
-- Renal (Chronic Kidney Disease, Renal Tubular Acidosis).
-- Endocrine (Hypothyroidism).
-- Genetic/Syndromic (Turner syndrome, Down syndrome).
+### Growth Chart Progression Signs
+* **Weight** affected first.
+* **Height** affected later (stunting).
+* **Head Circumference** affected last (brain sparing).
+* Symmetrical ↓ of all 3 from birth → ↑ suspicion of **Intrauterine Growth Restriction (IUGR) (宮內生長遲緩)** or genetic/syndromic causes.
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **The History and Examination are far more important than blood tests.**
-- **Dietary Assessment**: A detailed 3-day food diary is mandatory.
-- **Observation of a feed**: Crucial to identify poor latch, incorrect bottle technique, or stressful parent-child interactions.
-- **First-line Investigations (Only if history/exam suggest an organic cause, or if severe)**:
-  - Urinalysis and Culture (to rule out silent UTI).
-  - FBC, Ferritin (Anaemia).
-  - U&E, Creatinine, Bone profile (Renal disease).
-  - Coeliac screen (Anti-tTG IgA).
-  - Thyroid Function Tests.
+### Clinical Examination Signs of Malnutrition
+* ↓ Subcutaneous fat (baggy skin folds on buttocks/thighs).
+* Muscle wasting.
+* Prominent ribs.
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Multidisciplinary Approach is essential.**
-- **Nutritional Rehabilitation**:
-  - Optimize current diet (e.g., fortifying foods with extra calories - adding butter/cheese).
-  - High-calorie formula supplements (e.g., Pediasure, Infatrini).
-  - Establish a structured mealtime routine (Division of Responsibility - see Anorexia section).
-- **Treat the Underlying Cause**: e.g., Gluten-free diet for Coeliac, surgical repair for CHD.
-- **Admission**: Rarely required, but indicated if the child is severely malnourished, medically unstable, or if severe neglect/abuse is suspected and a place of safety is needed.
+### Signs of Nutritional Deficiency
+* **Koilonychia (匙狀甲)** (iron deficiency).
+* Angular stomatitis.
+* **Pallor (蒼白)** (**Anaemia (貧血)**).
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- **Dietitian**: Central to the management plan.
-- **Medical Social Worker (MSW)**: Essential to assess the home environment, financial constraints, and parental mental health.
-- **Speech Therapist**: For swallowing assessments if aspiration or oral-motor dysfunction is suspected.
+### Signs of Underlying Organic Disease
+* Murmur / tachypnoea (CHD).
+* Clubbing / ↑ respiratory work (Cystic Fibrosis).
+* Distended abdomen / thin buttocks / misery (Malabsorption / Coeliac).
+* Severe eczema (CMPA).
 
-## 10. Safeguarding & NAI Red Flags
-- **CRITICAL**: Faltering growth can be a primary presentation of **Child Neglect**.
-- Red flags: The child rapidly gains weight when admitted to the hospital (proving the issue is lack of food provision at home), parents are unconcerned or hostile, missed clinic appointments, poor hygiene.
+## 4. Discriminatory Features (How to distinguish from similar conditions)
 
-## 11. Complications & Prognosis
-- **Complications**: Severe, prolonged malnutrition in the first 2 years of life can lead to permanent neurodevelopmental impairment, stunted final adult height, and immunodeficiency.
-- **Prognosis**: Excellent if the cause is identified early and nutritional rehabilitation is successful.
+### Constitutional Delay of Growth and Puberty (CDGP)
+* Child is small but growing parallel to centiles (not crossing downwards).
+* +ve family history of "late bloomers".
+* Bone age is delayed relative to chronological age.
 
-## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- *Viva*: "A 9-month-old infant's weight has dropped from the 50th to the 2nd centile. Her length and head circumference remain on the 50th centile. What is the most likely broad category of cause?" (Inadequate caloric intake. The sparing of length and head circumference indicates acute/subacute malnutrition, most commonly due to non-organic feeding issues).
-- *Viva*: "What is the most useful 'investigation' for a child presenting with faltering growth and a normal physical examination?" (A detailed 3-day food diary and direct observation of a feeding session).
-- *Pitfall*: Ordering a massive "fishing expedition" of blood tests for every child with faltering growth. 80% of cases are non-organic. Focus on the dietary history and feeding observation first.
+### Familial Short Stature (家族性矮小)
+* Child grows parallel to centiles.
+* Mid-parental target height is short.
+* Bone age = chronological age.
+
+### Normal Catch-Down Growth
+* Large-for-gestational-age infants may cross centiles downwards in first few months to reach their true genetic centile (normal variant).
+
+## 5. Differential Diagnosis
+
+### Categorized Differential Diagnosis of Faltering Growth
+| Category | Key Differentials |
+| :--- | :--- |
+| **Psychosocial / Non-organic** | Neglect, maternal depression, poor feeding practices, food insecurity |
+| **Gastrointestinal** | **Coeliac disease (乳糜瀉)**, **Cystic Fibrosis (囊性纖維化)**, **CMPA (牛奶蛋白過敏)**, **GORD (胃食管反流症)** |
+| **Cardiac** | **Congenital Heart Disease (CHD) (先天性心臟病)** |
+| **Renal** | **Chronic Kidney Disease (CKD) (慢性腎病)**, **Renal Tubular Acidosis (RTA) (腎小管酸中毒)** |
+| **Endocrine** | **Hypothyroidism (甲狀腺功能低下)** |
+| **Genetic** | **Turner syndrome (特納綜合症)**, **Down syndrome (唐氏綜合症)** |
+
+## 6. Tiered Investigations
+
+### First-Line Bedside & Clinical Assessments
+* **Detailed 3-day food diary** (Mandatory).
+* **Observation of a feed** (Crucial to assess latch, bottle technique, parent-child interaction).
+* (Note: History & exam hold much higher diagnostic yield than blood tests).
+
+### First-Line Blood & Urine Investigations
+* Indicated ONLY if an organic cause is suspected clinically or severe malnutrition is present:
+  * **Urine**: Urinalysis & Culture (Rule out silent UTI).
+  * **Haematology**: FBC, Ferritin (Rule out **Anaemia (貧血)**).
+  * **Biochemistry**: U&E, Creatinine, Bone profile (Rule out renal disease).
+  * **Immunology**: Anti-tTG IgA + Total IgA (Rule out **Coeliac disease (乳糜瀉)**).
+  * **Endocrine**: Thyroid Function Tests (Rule out **Hypothyroidism (甲狀腺功能低下)**).
+
+## 7. Management (Acute, Chronic, HA Protocols)
+
+### Chronic Outpatient Management & Nutritional Rehabilitation
+* Optimize current diet:
+  * ↑ Energy density of foods (fortify with butter, cheese, cream).
+  * Limit excessive milk/fruit juice intake to encourage solid food appetite.
+  * Use high-calorie formula supplements (e.g., **Pediasure**, **Infatrini**) if required.
+* Establish structured mealtime routine (Division of Responsibility):
+  * 3 meals + 2 snacks daily at regular times.
+  * Limit mealtime to 30 mins.
+  * Praise eating; ignore refusal.
+  * NEVER force-feed.
+* Treat underlying organic cause (e.g., Gluten-free diet for Coeliac).
+
+### Acute Inpatient Management
+* Admission rarely required.
+* Indications for admission:
+  * Severely malnourished / medically unstable.
+  * Severe **Child Neglect (疏忽照顧)** / Non-Accidental Injury (NAI) requiring a place of safety.
+* Monitor for **Refeeding Syndrome (重新餵養綜合症)** during rapid nutritional rehabilitation.
+
+## 8. MDT & Psychosocial Care
+
+### Multidisciplinary Team (MDT) Roles
+* **Dietitian (營養師)**: Central to formulating high-calorie diet & monitoring intake.
+* **Speech Therapist (言語治療師)**: Swallow assessment for aspiration or oro-motor dysfunction.
+* **Medical Social Worker (MSW) (醫務社工)**: Assess home environment, financial constraints, and parental mental health.
+* **Maternal & Child Health Centre (MCHC) (母嬰健康院)**: Community monitoring of serial growth centiles.
+
+## 9. Safeguarding & NAI Red Flags
+
+### Child Neglect & Safeguarding Indicators
+* **CRITICAL**: Faltering growth can be a primary presentation of **Child Neglect (疏忽照顧)**.
+* Rapid weight gain upon hospital admission (proves cause is lack of food provision at home).
+* Parents unconcerned, evasive, or hostile.
+* Frequent missed clinic / **MCHC (母嬰健康院)** appointments.
+* Poor hygiene, severe nappy rash.
+* **Factitious Illness**: Deliberate underfeeding by caregiver to generate weight faltering.
+
+## 10. Complications & Prognosis
+
+### Long-Term Complications of Severe Faltering Growth
+* Permanent neurodevelopmental impairment (if severe malnutrition <2 years old).
+* Stunted final adult height.
+* Secondary immunodeficiency (↑ susceptibility to infections).
+
+### Clinical Prognosis
+* Excellent if non-organic cause identified early & nutritional rehabilitation is successful.
+* Catch-up weight gain usually visible 4-8 weeks post-intervention.
+
+## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
+
+* Viva Question: A 9-month-old infant's weight drops from 50th to 2nd centile, length & head circumference remain on 50th centile. Most likely cause? Answer: Inadequate caloric intake (acute malnutrition). Head/length sparing points to non-organic feeding issues.
+* Viva Question: What is the most useful first-line assessment for faltering growth with normal physical examination? Answer: Detailed 3-day food diary and direct observation of a feeding session.
+* Trap: Automatically ordering a massive "fishing expedition" blood test panel for all faltering growth referrals. Pearl: 80% of cases are non-organic; detailed history, feeding observation, and diet diary must precede invasive tests.
+* Pitfall: Ignoring mid-parental height when assessing a short, light child. Calculate the mid-parental centile to rule out Familial Short Stature before investigating for faltering growth.
+* Pitfall: Diagnosing faltering growth in a large-for-gestational-age infant crossing centiles downwards. This is often normal "catch-down" growth in the first few months to find their genetic centile.

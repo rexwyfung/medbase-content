@@ -1,77 +1,110 @@
 # Anorexia Nervosa (厭食症)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: A severe, life-threatening psychiatric eating disorder characterized by an intense fear of gaining weight, a distorted body image, and self-induced starvation leading to significantly low body weight.
-- **Local Epidemiology**: Incidence is rising in Hong Kong, particularly among adolescent females (peak onset 13-18 years). It has one of the highest mortality rates of any psychiatric disorder.
+### Clinical Definition
+- **Definition**: Severe, life-threatening psychiatric eating disorder → abnormal eating behaviours negatively impacting physical health, emotional wellbeing, & functioning.
+- **Mechanism**: Excessive weight loss achieved via extreme food restriction or excessive exercise. 
+
+### Local Epidemiology
+- **Demographics**: Peak onset 13-18 yrs; ♀ > ♂. Rising incidence in HK.
+- **Mortality**: Highest mortality of any psychiatric disorder (~5-10%), often from **malnutrition, infection, or suicide**.
 
 ## 2. Pathophysiology & Genetics
-- **Pathophysiology**: A complex interplay of biological, psychological, and sociocultural factors. The starvation state leads to profound neuroendocrine adaptations (e.g., hypothalamic-pituitary-gonadal axis suppression causing amenorrhoea, increased cortisol, decreased T3).
-- **Psychological**: Often associated with perfectionism, obsessive-compulsive traits, high academic achievers, and a need for control.
-- **Sociocultural**: Exposure to media idealizing thinness.
-- **Genetics**: High heritability; family history of eating disorders or depression is common.
+### Pathophysiology
+- **Neuroendocrine**: Starvation state → profound neuroendocrine adaptations → hypothalamic-pituitary-gonadal axis suppression (causing amenorrhoea [停經]), ↑ cortisol, ↓ T3 (euthyroid sick syndrome).
+- **Metabolic**: Starvation alters cognitive function → propagates abnormal thoughts around food/body image.
 
-## 3. Clinical Presentation
-- Typically an adolescent girl brought in by deeply concerned parents. The patient often denies any problem, wears baggy clothes to hide weight loss, and insists she is "too fat."
+### Psychological & Sociocultural
+- **Psychological**: Anxiety, sadness, loneliness, perfectionism, obsessive-compulsive traits, need for control. 
+- **Sociocultural**: Exposure to media idealizing thinness. High-risk activities: elite sport, dance, modelling.
 
-## 4. Key Symptoms & Signs (DSM-5 Criteria)
-- **Restriction of energy intake** relative to requirements, leading to a significantly low body weight.
-- **Intense fear** of gaining weight or becoming fat, or persistent behavior that interferes with weight gain.
-- **Disturbance in body image** (body dysmorphia).
-- **Physical Signs of Starvation**:
-  - Emaciation, prominent bones.
-  - **Lanugo hair**: Fine, downy hair growth on the face, back, and arms (the body's attempt to conserve heat).
-  - Bradycardia, hypotension, hypothermia (cold intolerance).
-  - Acrocyanosis (blue, cold hands and feet).
-  - Dry skin, brittle hair and nails.
-  - Secondary amenorrhoea (loss of periods for >3 months).
-  - Parotid gland swelling and Russell's sign (calluses on knuckles) if there is concurrent purging (vomiting).
+### Genetics
+- **Heritability**: High familial predisposition to eating disorders & depression.
 
-## 5. Discriminatory Features (How to distinguish from similar conditions)
-- **Bulimia Nervosa**: Characterized by recurrent episodes of binge eating followed by compensatory behaviors (vomiting, laxatives). Patients with bulimia are usually of normal weight or overweight. Anorexia patients are significantly underweight.
-- **Major Depressive Disorder**: May cause severe weight loss due to loss of appetite, but the patient does *not* have a fear of gaining weight or a distorted body image.
+## 3. Key Symptoms & Signs
+### Clinical Presentation
+- Negative/distorted body image (body dysmorphia).
+- Preoccupation with weight/shape & intense fear of fatness/weight gain.
+- **Secrecy/Denial**: Hides food, avoids eating in public, wears baggy clothes. Reluctant attendance at appointments, resists weighing, may "water load" or hide weights in clothing to falsify weight.
 
-## 6. Differential Diagnosis
+### Physical Signs of Starvation
+- **Vitals**: Bradycardia (心動過緩), hypotension, hypothermia.
+- **Appearance**: Emaciation, prominent bones.
+- **Skin/Hair**: **Lanugo hair** (fine, downy hair on face/back to conserve heat), dry skin, brittle hair/nails, poor peripheral circulation (acrocyanosis → cold/blue hands & feet).
+- **GI/Endo**: Constipation, secondary amenorrhoea (>3 months).
+- **Musculoskeletal**: Muscle weakness.
+
+## 4. Discriminatory Features (How to distinguish from similar conditions)
+### Differentiating Eating Disorders
+| Condition | Key Discriminator |
+| :--- | :--- |
+| **Anorexia Nervosa (厭食症)** | Significantly underweight; intense fear of weight gain; extreme restriction/exercise. |
+| **Bulimia Nervosa (暴食症)** | Normal or overweight; recurrent bingeing followed by compensatory purging (vomiting, laxatives). |
+| **Binge-Eating Disorder** | Bingeing without compensatory purging; frequently overweight. |
+| **Avoidant Restrictive Food Intake Disorder (ARFID)** | Food restriction NOT driven by body image (e.g., sensory issues, common in Autism). |
+| **Orthorexia** | Restriction based on rigid beliefs regarding "healthy/pure" eating, not weight loss. |
+
+## 5. Differential Diagnosis
+### Psychiatric Differentials
 - Bulimia Nervosa.
-- Major Depressive Disorder.
-- Inflammatory Bowel Disease (Crohn's).
+- ARFID.
+- Major Depressive Disorder (weight loss due to ↓ appetite, no body dysmorphia).
+
+### Medical Differentials
+- Inflammatory Bowel Disease (e.g., Crohn's).
 - Hyperthyroidism.
 - Malignancy.
 - Coeliac Disease.
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-**Bedside**: ECG is mandatory (bradycardia, prolonged QTc interval, arrhythmias due to electrolyte imbalance).
-- **Bloods**:
-  - Often surprisingly normal in early stages.
-  - *Electrolytes*: Hypokalaemia, hyponatraemia, hypochloraemia (especially if purging/laxative abuse).
-  - *Endocrine*: Low LH, FSH, Oestradiol; Low T3 (euthyroid sick syndrome); High Cortisol.
-  - *FBC*: Mild anaemia, leukopenia, thrombocytopenia (bone marrow suppression).
-- **Imaging**: DEXA scan to assess bone mineral density (high risk of severe, irreversible osteoporosis).
+## 6. Tiered Investigations
+### Bedside Investigations
+- **ECG (Mandatory)**: Assess for bradycardia, prolonged QTc, arrhythmias.
+- **SUSS Test (Sit Up Squat Stand)**: Assesses proximal muscle weakness (scored 0-3 based on ability to rise without using hands).
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **The primary goal is medical stabilization and nutritional rehabilitation.**
-- **Inpatient Admission Criteria (HA Guidelines)**:
-  - Severe malnutrition (e.g., BMI < 75% of median for age/sex, or rapid weight loss).
-  - Severe bradycardia (< 40 bpm), hypotension, or hypothermia.
-  - Electrolyte imbalances (hypokalaemia).
-  - High risk of suicide.
-- **Refeeding Syndrome (The Critical Danger)**:
-  - Reintroducing food too quickly to a starved patient causes a massive insulin surge. This drives potassium, magnesium, and phosphate rapidly into cells, leading to profound **hypophosphataemia, hypokalaemia, and hypomagnesaemia**.
-  - *Consequences*: Fatal cardiac arrhythmias, respiratory failure, seizures, and delirium.
-  - *Prevention*: Refeeding must be started very slowly (e.g., 10-15 kcal/kg/day) with continuous cardiac monitoring and daily electrolyte checks. Prophylactic phosphate and thiamine supplementation are often required.
-- **Psychiatric Treatment**: Family-Based Treatment (FBT / Maudsley approach) is the gold standard for adolescents. Cognitive Behavioral Therapy (CBT).
+### Laboratory Investigations
+- **Bloods**: Often normal early on. 
+- **Electrolytes / U&E**: Hypokalaemia (低鉀血症), hyponatraemia, hypochloraemia (especially if purging/laxatives).
+- **Haematology**: Neutropenia, mild anaemia, thrombocytopenia (marrow suppression).
+- **Endocrine**: ↓ LH/FSH/Oestradiol, ↓ T3, ↑ Cortisol.
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- **MDT**: Paediatrician (for medical stabilization), Child Psychiatrist, Clinical Psychologist, Dietitian, and specialized nursing staff.
-- **Legal**: In severe, life-threatening cases where the patient refuses food, compulsory admission and nasogastric (NG) tube feeding under the Mental Health Ordinance may be necessary to save their life.
+### Imaging
+- **DEXA Scan**: Assess bone mineral density (high risk of irreversible osteoporosis).
 
-## 10. Safeguarding & NAI Red Flags
-- Severe anorexia can be a manifestation of underlying trauma or abuse.
+## 7. Management (Acute, Chronic, HA Protocols)
+### Acute Management & Medical Stabilization
+- **Goal**: Nutritional rehabilitation (refeeding) & correction of metabolic derangements.
+- **Admission Criteria**: Severe malnutrition (BMI <75% median), severe bradycardia (<40 bpm), hypothermia, electrolyte derangement, high suicide risk.
+- **Refeeding Syndrome (CRITICAL)**: Sudden reversal of prolonged starvation → massive insulin surge → rapid intracellular shift of K+, Mg2+, PO4- → profound **hypophosphataemia** (低磷血症), hypokalaemia, hypomagnesaemia.
+  - *Consequences*: Fatal cardiac arrhythmias, seizures, delirium.
+  - *Prevention*: Refeed slowly (10-15 kcal/kg/day), continuous ECG monitoring, daily electrolytes, prophylactic PO4- & thiamine.
+- **Involuntary Treatment**: Compulsory admission & NG tube feeding under Mental Health Ordinance if life-threatening and patient resists.
 
-## 11. Complications & Prognosis
-- **Complications**: Sudden cardiac death (arrhythmias), irreversible osteoporosis, stunted growth, infertility.
-- **Prognosis**: Rule of thirds: 1/3 recover completely, 1/3 have a fluctuating chronic course, 1/3 remain chronically ill. Mortality rate is ~5-10% (from medical complications or suicide).
+### Chronic Management & Psychological Therapy
+- **Timing**: Starvation alters cognition; psychological therapy is ineffective until refeeding has started.
+- **Therapies**: Family-Based Treatment (FBT / Maudsley) is gold standard for adolescents. Cognitive Behavioural Therapy (CBT).
 
-## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- *Viva*: "What is Refeeding Syndrome, and what is the hallmark electrolyte abnormality?" (A potentially fatal shift in fluids and electrolytes that occurs when feeding is reintroduced too rapidly to a starved patient. The hallmark is profound hypophosphataemia, which can cause cardiac arrest).
-- *Viva*: "An emaciated 15-year-old girl is admitted with anorexia. Her heart rate is 38 bpm. What is the most important immediate bedside investigation?" (An ECG, to check for a prolonged QTc interval and arrhythmias, which are common causes of sudden death in these patients).
-- *Pitfall*: Focusing solely on the psychiatric aspect and missing the life-threatening medical complications (bradycardia, hypokalaemia) in the AED.
+## 8. MDT & Psychosocial Care
+### Multidisciplinary Approach
+- **Core Team**: Paediatrician, Child Psychiatrist, Clinical Psychologist, Dietitian, Specialist Nurses.
+- **Family Support**: Psychoeducation regarding energy requirements, growth, and mental health aspects. Empower parents to re-establish eating patterns at home.
+
+## 9. Safeguarding & NAI Red Flags
+### Risk Factors
+- Severe anorexia can be a maladaptive coping mechanism for underlying trauma, bereavement, or physical/sexual abuse.
+
+## 10. Complications & Prognosis
+### Complications
+- **Cardiac**: Arrhythmias, sudden cardiac death.
+- **Endocrine/Growth**: Arrested growth/puberty, secondary amenorrhoea, reduced adult height.
+- **Bone**: Irreversible osteoporosis.
+- **Metabolic**: Refeeding syndrome.
+
+### Prognosis
+- Historically the "Rule of Thirds": 1/3 recover, 1/3 fluctuate, 1/3 remain chronically ill.
+- Early proactive intervention in paediatrics is improving recovery rates.
+
+## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
+* Viva Question: What is Refeeding Syndrome, and what is its hallmark electrolyte abnormality? Answer: A potentially fatal metabolic shift when feeding is reintroduced too rapidly to a starved patient; hallmark is profound hypophosphataemia causing cardiac arrest.
+* Viva Question: An emaciated 15-year-old girl with anorexia has a heart rate of 38 bpm. What is the most important immediate bedside test? Answer: ECG to check for prolonged QTc and arrhythmias.
+* Trap: Assuming normal weight rules out an eating disorder. Pearl: Bulimia nervosa typically presents with normal or high weight; anorexia is defined by significantly low weight.
+* Pitfall: Attempting intensive psychological therapy on admission. Starvation alters cognitive function, rendering therapy ineffective until nutritional rehabilitation has commenced.

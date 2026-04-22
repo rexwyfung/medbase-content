@@ -1,68 +1,133 @@
 # Testicular Torsion (睪丸扭轉)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: A urological emergency caused by the twisting of the spermatic cord, leading to occlusion of the testicular blood supply, ischaemia, and potential infarction of the testicle.
-- **Local Epidemiology**: Can occur at any age, but has a bimodal peak: in the neonatal period (extravaginal torsion) and during early puberty/adolescence (12-18 years, intravaginal torsion).
+### Definition
+* Urological emergency → torsion of spermatic cord (精索) → occlusion of testicular blood flow → ischaemia → infarction.
+* "Time is Testicle" → irreversible damage within 4-6 hrs.
+
+### Local Epidemiology (HK Context)
+* Bimodal age distribution:
+  * Neonatal period: Extravaginal torsion.
+  * Early puberty/Adolescence (12-18 yrs): Intravaginal torsion (most common).
+* HA AED pathway: Triage Category 1/2 → Immediate surgical referral.
 
 ## 2. Pathophysiology & Genetics
-- **Intravaginal Torsion (Adolescents)**: The most common type. 
-  - *The "Bell-Clapper" Deformity*: Normally, the tunica vaginalis attaches securely to the posterior aspect of the testicle and epididymis. In this congenital deformity, the tunica vaginalis attaches abnormally high on the spermatic cord, leaving the testicle hanging freely within the tunica (like a clapper in a bell). This allows the testicle to twist on its vascular pedicle.
-- **Extravaginal Torsion (Neonates)**: Occurs in utero or shortly after birth. The entire testicle, epididymis, and tunica vaginalis twist together within the scrotum before the tunica has fixed to the scrotal wall.
-- **Ischaemia**: Twisting initially occludes venous return (causing swelling and congestion), followed by arterial occlusion (causing ischaemia and infarction). The testicle can die within **4 to 6 hours** of complete occlusion.
+### Intravaginal Torsion (Adolescents)
+* **Underlying Defect**: "Bell-Clapper" Deformity (鐘擺畸形).
+* Normally: Tunica vaginalis (鞘膜) attaches securely to posterior aspect of testicle & epididymis.
+* Deformity: Tunica vaginalis attaches abnormally high on spermatic cord → testicle hangs freely (like a bell clapper) → spins on vascular pedicle.
+* Usually bilateral predisposition.
 
-## 3. Clinical Presentation
-- A classic presentation is a 14-year-old boy who is woken from sleep with sudden, excruciating unilateral scrotal pain.
-- He may also present with lower abdominal pain and vomiting.
+### Extravaginal Torsion (Neonates)
+* Occurs in utero or shortly post-partum.
+* Entire testicle, epididymis & tunica vaginalis twist together *before* tunica fixes to scrotal wall.
 
-## 4. Key Symptoms & Signs
-- **Pain**: Sudden onset, severe, unilateral scrotal pain. May radiate to the groin or lower abdomen.
-- **Systemic**: Nausea and vomiting are very common (due to vagal stimulation).
-- **Examination**:
-  - **High-riding, Transversely oriented testicle**: The twisting of the cord shortens it, pulling the testicle up. The bell-clapper deformity causes it to lie horizontally.
-  - **Swollen, exquisitely tender testicle**.
-  - **Absent Cremasteric Reflex**: Stroking the inner thigh normally causes the ipsilateral testicle to retract upwards. This reflex is almost always ABSENT in torsion. (Its presence strongly argues against torsion, but does not 100% rule it out).
-  - **Negative Prehn's Sign**: Elevating the scrotum does *not* relieve the pain (unlike in epididymo-orchitis, where it may provide relief).
+### Ischaemic Cascade
+* Cord twists → venous return occluded → swelling/congestion → arterial supply compromised → ischaemia → necrosis/infarction (4-6 hr window).
 
-## 5. Discriminatory Features (How to distinguish from similar conditions)
-- **Torsion of the Appendix Testis (Hydatid of Morgagni)**: The most common cause of acute scrotal pain in prepubertal boys (7-10 years). Pain is more gradual and localized to the upper pole. Classic sign is the **"Blue Dot Sign"** (the infarcted appendix visible through the scrotal skin). Cremasteric reflex is usually intact.
-- **Epididymo-orchitis**: Rare in prepubertal boys. Usually gradual onset, associated with dysuria, fever, urethral discharge, or a recent UTI/STI. Cremasteric reflex is intact.
+## 3. Key Symptoms & Signs
+### Symptoms
+* **Pain**: Sudden onset, excruciating, unilateral scrotal pain.
+* **Radiation**: Groin or lower abdomen (can mimic appendicitis).
+* **Systemic**: Nausea & vomiting (vagal stimulation).
+* **Onset**: Often wakes patient from sleep or during sports.
 
-## 6. Differential Diagnosis
-- Torsion of the appendix testis.
-- Epididymo-orchitis.
-- Incarcerated inguinal hernia.
-- Idiopathic scrotal oedema.
-- Trauma.
-- Henoch-Schönlein Purpura (can cause scrotal swelling/pain).
+### Clinical Signs
+* **Inspection**:
+  * Swollen, erythematous, exquisitely tender hemiscrotum.
+  * **Testicular Position**: High-riding (shortened twisted cord).
+  * **Axis**: Transversely/horizontally oriented (bell-clapper effect).
+* **Reflexes & Signs**:
+  * **Absent Cremasteric Reflex (提睪反射)**: Stroking inner thigh normally retracts ipsilateral testicle. Almost always ABSENT in torsion.
+  * **Negative Prehn's Sign**: Elevating scrotum does NOT relieve pain (unlike epididymo-orchitis).
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Diagnosis is CLINICAL and surgery must NOT be delayed for imaging if the suspicion is high.**
-- **Doppler Ultrasound of the Scrotum**:
-  - *Indication*: Only used if the diagnosis is equivocal or there is a low index of suspicion.
-  - *Findings*: Decreased or absent arterial blood flow to the affected testicle compared to the normal side.
-  - *Crucial Rule*: If you suspect torsion, call the surgeon immediately. Do not wait for an ultrasound if it will delay surgery. Time is testicle.
-- **Urinalysis**: Usually normal in torsion (helps rule out epididymo-orchitis).
+## 4. Discriminatory Features (How to distinguish from similar conditions)
+### Torsion vs. Appendix Testis Torsion
+* **Appendix Testis (睪丸附件)**: Vestigial Mullerian remnant on upper pole.
+* **Age**: Pre-pubertal (7-10 yrs).
+* **Pain**: Gradual onset, localized to upper pole.
+* **Pathognomonic Sign**: "Blue Dot Sign" (infarcted appendix visible through taut scrotal skin).
+* **Reflex**: Cremasteric reflex INTACT.
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Surgical Emergency**: Immediate referral to Paediatric Surgery or Urology.
-- **Manual Detorsion**: Can be attempted in the AED while awaiting surgery (the "open book" method - twisting the testicle outward, from medial to lateral). If successful, pain relief is instant, but surgery is still required.
-- **Scrotal Exploration**:
-  - The surgeon untwists the cord.
-  - If the testicle is viable (pink/bleeding), a **Bilateral Orchidopexy** is performed (fixing both testicles to the scrotal wall with sutures to prevent future torsion, as the bell-clapper deformity is usually bilateral).
-  - If the testicle is necrotic/dead, an **Orchidectomy** (removal) is performed, followed by orchidopexy of the remaining healthy testicle.
+### Torsion vs. Epididymo-orchitis
+* **Age**: Rare in pre-pubertal boys, common in sexually active young adults.
+* **Pain**: Gradual onset.
+* **Associated features**: Fever, dysuria, urethral discharge, recent UTI/STI.
+* **Reflex**: Cremasteric reflex INTACT.
+* **Positive Prehn's Sign**: Scrotal elevation may ↓ pain.
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- **Psychological Support**: Losing a testicle can be highly distressing for an adolescent. Reassure them that one healthy testicle is completely sufficient for normal puberty, testosterone production, and fertility. A prosthetic testicle can be inserted later.
+## 5. Differential Diagnosis
+### Acute Scrotum Differentials
+| Condition | Key Features |
+| :--- | :--- |
+| **Testicular Torsion** | Sudden severe pain, high-riding/transverse testis, absent cremasteric reflex, surgical emergency. |
+| **Torsion of Appendix Testis** | Gradual pain, upper pole tenderness, "Blue Dot Sign", intact reflex. |
+| **Epididymo-orchitis (附睪睪丸炎)** | Gradual pain, fever, dysuria, positive Prehn's, intact reflex. |
+| **Incarcerated Inguinal Hernia** | Swelling extends to groin, bowel sounds in scrotum, irreducible. |
+| **Idiopathic Scrotal Oedema** | Bilateral erythema/oedema, minimal pain, extends to perineum. |
+| **Trauma** | Clear history of injury, haematocele/haematoma. |
+| **Henoch-Schönlein Purpura (HSP)** | Systemic vasculitis, purpuric rash, joint pain, abdo pain. |
 
-## 10. Safeguarding & NAI Red Flags
-- N/A for this condition.
+## 6. Tiered Investigations
+### Bedside & Clinical
+* **Primary Rule**: Diagnosis is CLINICAL. If suspicion is high → SURGERY. Do NOT delay for imaging.
+* **Urinalysis**: Usually normal (helps rule out UTI/epididymo-orchitis).
 
-## 11. Complications & Prognosis
-- **Testicular Infarction/Loss**: The main complication. The salvage rate is >90% if surgery is performed within 6 hours of pain onset, but drops to <10% after 24 hours.
-- **Infertility**: Even if salvaged, the affected testicle may atrophy and have reduced spermatogenesis.
-- **Prognosis**: Depends entirely on the time to surgery.
+### Imaging (Only if Equivocal)
+* **Doppler Ultrasound (Scrotum)**:
+  * **Indication**: ONLY if diagnosis is uncertain and will not delay time-critical surgery.
+  * **Findings**: ↓ or absent arterial blood flow + altered parenchymal echogenicity.
+  * **HK HA Reality**: Do not wait for US if after-hours or delays theatre access. "Time is Testicle."
 
-## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- *Viva*: "A 13-year-old boy presents with sudden right scrotal pain. On examination, the right testicle is high-riding and the cremasteric reflex is absent. What is the diagnosis, and what is the underlying anatomical defect?" (Testicular torsion. The underlying defect is the 'bell-clapper' deformity, where the tunica vaginalis attaches abnormally high on the spermatic cord).
-- *Viva*: "You suspect testicular torsion in a patient, but the ultrasound machine is currently in use in another ward. What is your next step?" (Call the surgical team immediately and prepare the patient for theatre. You must never delay surgical exploration for an ultrasound if the clinical suspicion of torsion is high).
-- *Pitfall*: Diagnosing an adolescent with sudden scrotal pain as having epididymo-orchitis without a clear history of UTI/STI, and sending them home with antibiotics. Assume torsion until proven otherwise.
+## 7. Management (Acute, Chronic, HA Protocols)
+### Acute AED Management (HA Pathway)
+* **Triage**: Category 1/2.
+* **Referral**: Immediate Paediatric Surgery or Urology consult. Keep NPO.
+* **Analgesia**: IV opiates/NSAIDs + antiemetics.
+* **Manual Detorsion**:
+  * "Open Book" Method: Twist testicle outward (medial to lateral).
+  * Temporising measure in AED while awaiting theatre.
+  * If successful → immediate pain relief, but MUST still undergo surgery for fixation.
+
+### Definitive Surgical Management
+* **Scrotal Exploration**:
+  * Immediate incision and untwisting of the cord.
+  * Assess viability (return of pink colour/bleeding).
+* **If Viable**:
+  * **Bilateral Orchidopexy (睪丸固定術)**: 3-point suture fixation of BOTH testicles to scrotal wall (Dartos pouch) to prevent future torsion (as bell-clapper is bilateral).
+* **If Necrotic**:
+  * **Orchidectomy (睪丸切除術)**: Removal of dead testicle to prevent auto-immune damage to contralateral testis + infection.
+  * **Contralateral Orchidopexy**: Fixation of the remaining healthy testicle is MANDATORY.
+
+## 8. MDT & Psychosocial Care
+### Psychosocial Support
+* **Loss of Testicle**: Highly distressing for adolescent body image & masculinity.
+* **Reassurance**: Emphasize that ONE healthy testicle is 100% sufficient for normal puberty, testosterone production, and fertility.
+* **Prosthesis**: Discuss option for delayed testicular prosthesis insertion (usually post-puberty) for cosmesis.
+* **Counselling**: Medical Social Worker (MSW) or Clinical Psychologist if severe anxiety/depression ensues.
+
+## 9. Safeguarding & NAI Red Flags
+### Non-Accidental Injury (NAI) Considerations
+* Torsion itself is spontaneous, but delayed presentation (>24 hrs) might reflect medical neglect.
+* Examine for concomitant unexplained bruising or trauma to genital region.
+
+## 10. Complications & Prognosis
+### Complications
+* **Testicular Infarction/Atrophy**: Main complication if ischaemia >6 hrs.
+* **Infertility**: Anti-sperm antibodies can form against necrotic tissue, potentially affecting contralateral testis. Atrophy of salvaged testis can ↓ spermatogenesis.
+* **Psychological trauma**: Altered body image.
+
+### Prognosis
+* Dictated entirely by symptom-to-theatre time.
+* **< 6 hours**: > 90% salvage rate.
+* **12-24 hours**: 20-50% salvage rate.
+* **> 24 hours**: < 10% salvage rate.
+
+## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
+* Viva Question: A 13-year-old boy presents with sudden right scrotal pain. On examination, the right testicle is high-riding and the cremasteric reflex is absent. What is the diagnosis, and what is the underlying anatomical defect?
+* Answer: Testicular torsion. The underlying defect is the 'bell-clapper' deformity, where the tunica vaginalis attaches abnormally high on the spermatic cord.
+* Viva Question: You suspect testicular torsion in a patient, but the ultrasound machine is currently in use in another ward. What is your next step?
+* Answer: Call the surgical team immediately and prepare the patient for theatre. You must never delay surgical exploration for an ultrasound if the clinical suspicion of torsion is high.
+* Trap: Assuming sudden scrotal pain with abdominal pain is appendicitis.
+* Pearl: Always perform a full genitourinary examination (including testes) in any boy presenting with lower abdominal pain to rule out torsion.
+* Pitfall: Diagnosing an adolescent with sudden scrotal pain as having epididymo-orchitis without a clear history of UTI/STI, and sending them home with antibiotics. Assume torsion until proven otherwise.
