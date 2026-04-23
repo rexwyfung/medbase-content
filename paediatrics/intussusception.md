@@ -1,72 +1,152 @@
 # Intussusception (腸套疊)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: The invagination (telescoping) of a proximal segment of the bowel (intussusceptum) into the lumen of the adjacent distal segment (intussuscipiens). The most common type is ileocolic.
-- **Local Epidemiology**: The most common cause of intestinal obstruction in infants and young children. Peak age is 6 to 36 months. More common in males (3:1). In Hong Kong, there are seasonal peaks in Spring and Summer, correlating with viral gastroenteritis outbreaks.
+
+### Clinical Definition
+* **Invagination** (telescoping) of proximal bowel segment (**intussusceptum**) → adjacent distal segment (**intussuscipiens**)
+* Most common type: **Ileocolic**
+
+### Local Epidemiology (Hong Kong)
+* Most common cause of intestinal obstruction in infants/young children
+* Peak age: 3–24 months (mostly 6–36 months)
+* Sex: ♂ > ♀ (3:1)
+* Seasonal peaks (HK): Spring/Summer (correlates with viral gastroenteritis outbreaks)
 
 ## 2. Pathophysiology & Genetics
-- **Idiopathic (90%)**: Most common in infants. Often preceded by a viral illness (Adenovirus, Rotavirus, URTI) which causes hypertrophy of Peyer's patches (lymphoid tissue) in the terminal ileum. This enlarged tissue acts as a "lead point" that gets dragged forward by peristalsis.
-- **Pathological Lead Point (10%)**: More common in older children (>3 years) or neonates. Causes include Meckel's diverticulum, intestinal polyps (Peutz-Jeghers syndrome), duplication cysts, lymphoma, or intramural haematoma (Henoch-Schönlein Purpura - HSP).
-- **Consequence**: The invagination drags the mesentery with it, causing venous compression, bowel wall oedema, and eventual arterial compromise. This leads to bowel ischaemia, necrosis, mucosal sloughing (bleeding), and perforation.
+
+### Idiopathic Pathophysiology (90%)
+* Most common in infants (3–24 months)
+* Preceding viral illness (Adenovirus, Rotavirus, URTI) → hypertrophy of **Peyer's patches** (lymphoid tissue) in terminal ileum
+* Enlarged tissue = **lead point** → dragged forward by peristalsis
+
+### Pathological Lead Point (10%)
+* Suspect if age <3 months or >2 years
+* Causes:
+  * **Meckel's diverticulum** (梅克爾憩室)
+  * Intestinal polyps (e.g., Peutz-Jeghers syndrome)
+  * Duplication cysts
+  * Lymphoma
+  * Intramural haematoma (e.g., **Henoch-Schönlein Purpura - HSP**)
+
+### Pathological Cascade
+* Invagination → drags mesentery → venous compression → bowel wall oedema → arterial compromise
+* Consequence → bowel ischaemia → necrosis → mucosal sloughing (bleeding) → perforation/peritonitis
 
 ## 3. Clinical Presentation
-- A previously healthy, thriving infant suddenly develops severe, intermittent, colicky abdominal pain.
-- During the pain episodes, the child screams, draws their knees up to their chest, and appears pale.
-- Between episodes (which last a few minutes), the child may appear completely normal and playful, or progressively lethargic and exhausted.
+
+### Classic Presentation Pattern
+* Previously healthy, thriving infant
+* Sudden onset severe, intermittent, colicky abdominal pain
+* During episodes (mins): screams, draws knees to chest, severe pallor around mouth
+* Between episodes: initially normal/playful → progressively lethargic/exhausted
 
 ## 4. Key Symptoms & Signs
-- **The Classic Triad (Present in < 20% of cases)**:
-  1. Intermittent colicky abdominal pain.
-  2. Palpable "sausage-shaped" mass in the Right Upper Quadrant (RUQ) or epigastrium.
-  3. "Red currant jelly" stools (a late and ominous sign of mucosal ischaemia and sloughing, mixed with mucus).
-- **Other Signs**:
-  - Vomiting: Initially non-bilious, becoming bilious as obstruction progresses.
-  - **Dance's Sign**: A feeling of emptiness in the Right Lower Quadrant (RLQ) due to the caecum moving upwards into the colon.
-  - Severe lethargy or altered mental status (can mimic sepsis or meningitis).
+
+### The Classic Triad (<20% of cases)
+* **Intermittent colicky abdominal pain**
+* **Palpable mass** (sausage-shaped) in Right Upper Quadrant (RUQ) or epigastrium
+* **"Red currant jelly" stools** (果醬樣大便) (late/ominous sign: mucosal ischaemia + sloughed tissue + mucus)
+
+### Associated Symptoms & Signs
+* **Vomiting**: Initially non-bilious → becomes **bilious** (green) as obstruction progresses
+* **Dance's Sign**: Empty Right Lower Quadrant (RLQ) upon palpation (caecum migrated ↑ into colon)
+* **Neurological**: Severe lethargy / altered mental status (can mimic sepsis/meningitis)
+* **Late Signs**: Abdominal distension, shock (hypovolaemic from fluid pooling)
 
 ## 5. Discriminatory Features (How to distinguish from similar conditions)
-- **Intussusception vs. Gastroenteritis**: Gastroenteritis typically presents with diarrhoea *before* vomiting, and the pain is less severely episodic. Intussusception has vomiting early, and diarrhoea is rare (though a normal stool may be passed early on).
-- **Intussusception vs. Volvulus**: Volvulus presents with *continuous*, agonizing pain and early bilious vomiting in a neonate or infant.
+
+| Feature | Intussusception | Acute Gastroenteritis | Volvulus (腸扭轉) |
+| :--- | :--- | :--- | :--- |
+| **Pain Pattern** | Intermittent, colicky | Mild, continuous cramps | Sudden, continuous, agonizing |
+| **Vomiting** | Early, eventually bilious | Follows diarrhoea, non-bilious | Early, bilious (Surgical Emergency) |
+| **Stool** | Normal initially → Red currant | Watery diarrhoea early | Blood per rectum (late ischaemia) |
+| **Lethargy** | Out of proportion to fluid loss | Correlates with dehydration | Severe, rapid shock |
 
 ## 6. Differential Diagnosis
-- Acute Gastroenteritis.
-- Malrotation with Volvulus (surgical emergency).
-- Incarcerated Inguinal Hernia.
-- Acute Appendicitis (usually older children, continuous RLQ pain).
-- Meckel's Diverticulitis.
-- Henoch-Schönlein Purpura (HSP) - can *cause* intussusception.
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-**Bedside**: VBG to check lactate (elevated in bowel ischaemia).
-- **Bloods**: CBP, LRFT, Group and Screen (preparation for potential surgery).
-- **Imaging**:
-  - **Abdominal Ultrasound**: The investigation of choice (high sensitivity and specificity). Classic findings: **"Target sign"** or "Doughnut sign" in transverse view (concentric rings of bowel), and **"Pseudokidney sign"** in longitudinal view.
-  - **Abdominal X-ray (AXR)**: Not diagnostic, but done to rule out pneumoperitoneum (perforation) before attempting enema reduction. May show a soft tissue mass or paucity of gas in the RLQ.
+### Surgical Differentials
+* **Malrotation with Volvulus** (腸扭轉)
+* **Incarcerated Inguinal Hernia** (嵌頓性腹股溝疝)
+* **Acute Appendicitis** (usually older children, continuous RLQ pain)
+* **Meckel's Diverticulitis**
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Acute Resuscitation**: Keep NPO (nil by mouth). IV fluid resuscitation (normal saline boluses if shocked). Nasogastric (NG) tube insertion for gastric decompression.
-- **Non-Operative Reduction (First-line)**:
-  - **Fluoroscopic or Ultrasound-guided Pneumatic (Air) or Hydrostatic (Saline) Enema**.
-  - Success rate is > 80%.
-  - *Absolute Contraindications*: Peritonitis, pneumoperitoneum (perforation), or profound shock.
-- **Surgical Management**:
-  - Indicated if enema reduction fails, if there are contraindications to enema, or if a pathological lead point is strongly suspected (e.g., older child).
-  - Procedure: Laparoscopic or open manual reduction (milking the bowel backwards). Bowel resection and primary anastomosis if the bowel is necrotic or irreducible.
+### Medical Differentials
+* **Acute Gastroenteritis** (急性腸胃炎)
+* **Henoch-Schönlein Purpura (HSP)** (can *cause* intussusception)
+* Sepsis / Meningitis (due to profound lethargy presentation)
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- Urgent Paediatric Surgery consultation.
-- Clear communication with highly distressed parents regarding the risk of bowel resection and recurrence.
+## 7. Tiered Investigations
+
+### Bedside Investigations
+* **VBG**: Check lactate (↑ in bowel ischaemia) & base excess (-ve in shock)
+* **Stool**: Occult blood (+ve)
+
+### Blood Investigations
+* **CBP**: ↑ WCC (infection/ischaemia), ↓ Hb (if prolonged bleeding)
+* **LRFT**: Assess dehydration (↑ Urea/Cr), electrolyte imbalances
+* **Group & Screen / Crossmatch**: Prep for potential emergency theatre
+
+### Imaging Investigations
+| Modality | Indication | Classic Findings |
+| :--- | :--- | :--- |
+| **Abdominal US** (Gold Standard) | 1st line diagnostic tool | **Transverse**: "Target sign" or "Doughnut sign"<br>**Longitudinal**: "Pseudokidney sign" |
+| **Abdominal X-Ray (AXR)** | Rule out perforation before enema | Distended small bowel loops, absence of gas in distal colon/rectum, soft tissue mass in RUQ |
+
+## 8. Management (Acute, Chronic, HA Protocols)
+
+### Acute Resuscitation
+* **Keep NPO** (Nil by mouth)
+* **IV Access & Fluids**: Immediate normal saline boluses (20ml/kg) if shocked
+* **Gastric Decompression**: NG tube insertion (free drainage)
+* **Analgesia**: IV paracetamol / opioids (avoid oral)
+* **Antibiotics**: IV broad-spectrum if peritonitis/perforation suspected
+
+### Non-Operative Reduction (1st Line HA Protocol)
+* **Procedure**: Fluoroscopic/US-guided **Pneumatic (Air) or Hydrostatic (Saline) Enema**
+* **Success Rate**: 75–80%
+* **Absolute Contraindications**: 
+  * Peritonitis
+  * Pneumoperitoneum (perforation on AXR)
+  * Profound shock (haemodynamic instability)
+
+### Surgical Management
+* **Indications**: Failed enema reduction, contraindications to enema, suspected pathological lead point (>2 yrs old), necrotic bowel
+* **Procedure**: Laparoscopic/open manual reduction (milking bowel backwards). Bowel resection + primary anastomosis if necrotic/irreducible
+
+## 9. MDT & Psychosocial Care
+
+### Multidisciplinary Team
+* **Paediatric Surgery**: Urgent consultation upon suspicion
+* **Radiology**: Urgent US and Enema reduction
+
+### Psychosocial Care
+* **Communication**: Clear, empathetic updates to highly distressed parents regarding risk of surgery, bowel resection, and recurrence. 
 
 ## 10. Safeguarding & NAI Red Flags
-- Unexplained abdominal bruising or trauma that could be the cause of an intramural haematoma acting as a lead point.
-- Delayed presentation leading to severe bowel necrosis without a valid reason.
+
+### Non-Accidental Injury (NAI) Indicators
+* Unexplained abdominal bruising/trauma → can cause intramural haematoma acting as a lead point
+* Delayed presentation → severe bowel necrosis without valid explanation
+* Inconsistent history between caregivers
 
 ## 11. Complications & Prognosis
-- **Complications**: Bowel ischaemia, necrosis, perforation, peritonitis, septic shock, and death if untreated.
-- **Prognosis**: Excellent if diagnosed and treated early.
-- **Recurrence**: Occurs in ~5-10% of cases after successful enema reduction, usually within the first 24-48 hours.
 
-## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- *Viva*: "What is the most common lead point in a 6-month-old vs. a 6-year-old?" (6-month-old: Idiopathic/Hypertrophied Peyer's patches. 6-year-old: Pathological lead point like Meckel's diverticulum or Lymphoma).
-- *Viva*: "What are the contraindications to an air enema?" (Signs of peritonitis, free air on AXR indicating perforation, or haemodynamic instability).
-- *Pitfall*: Discharging an infant with intermittent severe crying and lethargy as "colic" without considering intussusception.
+### Acute Complications
+* Bowel ischaemia → Necrosis → Perforation → Peritonitis
+* Hypovolaemic / Septic Shock
+* Death (if untreated)
+
+### Prognosis & Recurrence
+* **Prognosis**: Excellent if diagnosed/treated early
+* **Recurrence**: ~5-10% post-enema reduction. Most recur within first 24–48 hours (observe in ward post-reduction)
+
+## 12. Examiner's Pearls
+
+* Viva Question: What is the most common lead point in a 6-month-old vs. a 6-year-old?
+* Answer: 6-month-old: Idiopathic (Hypertrophied Peyer's patches). 6-year-old: Pathological lead point (Meckel's diverticulum, Lymphoma, HSP).
+* Viva Question: What are the absolute contraindications to an air/hydrostatic enema?
+* Answer: Signs of peritonitis, free air on AXR (perforation), or profound haemodynamic instability (shock).
+* Trap: Assuming bilious vomiting is required for diagnosis.
+* Pearl: Vomiting is initially non-bilious. Bilious vomiting is a late sign of complete proximal obstruction.
+* Pitfall: Discharging a lethargic infant with intermittent crying episodes as simple "colic".
+* Pearl: Always consider intussusception; severe, unexplained lethargy out of proportion to clinical signs can be the sole neurological presentation.
