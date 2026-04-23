@@ -187,6 +187,8 @@
   },
   "active": "7f2dfa42005b4d16",
   "lastOpenFiles": [
+    "Logo.png",
+    "Logo-white bg.png",
     "paediatrics/bone_tumours.md",
     "paediatrics/rhabdomyosarcoma.md",
     "paediatrics/lymphoma.md",
@@ -212,7 +214,6 @@
     "paediatrics/undescended.md",
     "paediatrics/intussusception.md",
     "paediatrics/rickets.md",
-    "paediatrics/hyperthyroidism.md",
     "extract_notes.sh",
     "FMCC",
     "paediatrics"
