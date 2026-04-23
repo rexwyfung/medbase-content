@@ -1,60 +1,104 @@
-
 # Fragile X Syndrome (X染色體易裂症)
+
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: An X-linked dominant genetic disorder that is the most common *inherited* cause of intellectual disability and the most common known genetic cause of autism.
-- **Local Epidemiology**: Affects ~1 in 4,000 males and 1 in 8,000 females. Diagnosed via Clinical Genetic Services (DH) or paediatric neurology clinics.
+### Clinical Definition
+- Most common inherited cause of severe learning difficulties/intellectual disability (智力障礙).
+- X-linked dominant disorder with reduced penetrance in females.
+
+### Local Epidemiology
+- Prevalence: ~1 in 4,000 males.
+- Affects females less frequently, but 40-50% of female carriers exhibit mild to moderate learning difficulties.
+- Diagnosed via Clinical Genetic Services (DH) or paediatric neurology clinics in Hong Kong.
 
 ## 2. Pathophysiology & Genetics
-- **Genetics**: X-linked dominant with reduced penetrance in females. Caused by a trinucleotide repeat expansion (CGG) in the *FMR1* gene on the X chromosome.
-- **Mechanism**: >200 repeats (Full Mutation) leads to hypermethylation and silencing of the *FMR1* gene. Lack of FMRP (Fragile X Mental Retardation Protein) disrupts normal synaptic plasticity and brain development.
-- **Premutation**: 55-200 repeats. Carriers are at risk of Fragile X-associated Tremor/Ataxia Syndrome (FXTAS) in later life, and females are at risk of Primary Ovarian Insufficiency (FXPOI).
+### Genetic Mutation
+- Caused by trinucleotide repeat expansion (CGG) in the **FMR1** gene on the X chromosome (X染色體).
+- Normal: <45 repeats.
+- Premutation: 55-200 repeats.
+- Full mutation: >200 repeats → hypermethylation & gene silencing → lack of FMRP (Fragile X Mental Retardation Protein) → disrupted synaptic plasticity.
 
-## 3. Clinical Presentation
-- See below.
+### Inheritance Pattern & Anticipation
+- Atypical X-linked inheritance. Triplet repeat exhibits anticipation (expands in successive generations).
+- Males with premutation can be unaffected but transmit to daughters (all become carriers).
+- Full mutations *always* arise from maternal premutations or full mutations (expansion occurs during female meiosis).
+- Associated with cytogenetic appearance of a 'fragile site' (local failure of chromatin condensation) on distal long arm of X chromosome.
 
-## 4. Key Symptoms & Signs
-- **Cognitive/Behavioural**: Moderate to severe intellectual disability (males), ADHD, Autism Spectrum Disorder features (poor eye contact, hand-flapping, social anxiety).
-- **Physical Features (More prominent post-puberty)**:
-  - Long, narrow face.
-  - Prominent forehead and jaw.
-  - **Large, prominent ears**.
-  - **Macroorchidism** (enlarged testicles) - a classic post-pubertal sign.
-  - Connective tissue dysplasia: Joint hypermobility, pes planus (flat feet), mitral valve prolapse.
-## 5. Discriminatory Features (How to distinguish from similar conditions)
-- **Down Syndrome**: Different facial features (flat profile, upslanting palpebral fissures), hypotonia is more prominent.
-- **Idiopathic Autism**: Lacks the specific physical features (large ears, macroorchidism) and family history pattern.
+## 3. Key Symptoms & Signs
+### Cognitive & Behavioural Features
+- Moderate-severe learning difficulty (IQ 20-80, mean 50).
+- **Autism** (自閉症) features: poor eye contact, hand-flapping, social anxiety.
+- **Hyperactivity** / ADHD.
 
-## 6. Differential Diagnosis
-- **Most Likely**:
-  - Fragile X (in a boy with ID, autism features, and large ears).
-- **Must-Not-Miss**:
-  - Undiagnosed premutation carriers in the family (risk of having more affected children, risk of FXTAS/FXPOI).
+### Physical/Craniofacial Features (Classic Facies)
+- **Macrocephaly** (大頭畸形).
+- Long face (長臉), large everted ears (大耳朵), prominent mandible (突出下頜), broad forehead (most evident in affected adults).
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Bedside**:
-  - **Clinical Exam**: Look for characteristic facies, joint hypermobility, and assess testicular volume (using an orchidometer) in older boys.
-- **Gold Standard**:
-  - **DNA Testing (PCR and Southern Blot)**: Specifically tests for the CGG repeat expansion in the *FMR1* gene. *Note: Standard Chromosomal Microarray (CMA) does NOT detect Fragile X; it must be ordered specifically.*
-- **Monitoring**:
-  - Echocardiogram (to screen for mitral valve prolapse).
+### Postpubertal & Connective Tissue Signs
+- **Macroorchidism** (巨睪症) - classic post-pubertal sign.
+- Connective tissue dysplasia: joint hypermobility/laxity, pes planus (flat feet), mitral valve prolapse (二尖瓣脫垂), scoliosis (脊柱側彎).
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Acute**:
-  - Not applicable.
-- **Chronic/Definitive**:
-  - **No cure**. Management is symptomatic and supportive.
-  - **Medications**: Stimulants (Methylphenidate) for ADHD, SSRIs for anxiety, atypical antipsychotics (Risperidone) for severe aggression/irritability.
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- Intensive special education support (EDB), speech therapy, occupational therapy.
-## 10. Safeguarding & NAI Red Flags
-- **Genetic Counselling is PARAMOUNT**: Identify female carriers in the family. Discuss reproductive options (e.g., prenatal diagnosis, PGT-M).
+## 4. Discriminatory Features (How to distinguish from similar conditions)
+### Down Syndrome vs Fragile X
+- Down Syndrome (唐氏綜合症): flat facial profile, upslanting palpebral fissures, prominent hypotonia.
+- Fragile X: long face, large everted ears, macroorchidism.
 
-## 11. Complications & Prognosis
+### Idiopathic Autism vs Fragile X
+- Idiopathic Autism: Lacks specific dysmorphic facies (long face, prominent jaw) & macroorchidism. Family history pattern differs.
+
+## 5. Differential Diagnosis
+### Most Likely Diagnosis
+- Fragile X (in a boy presenting with learning difficulties, autism spectrum features, macrocephaly, and large ears).
+
+### Must-Not-Miss Diagnosis
+- Undiagnosed maternal premutation carriers → ↑ risk to future pregnancies & adult-onset complications (FXTAS/FXPOI).
+
+## 6. Tiered Investigations
+### Bedside & Clinical Assessment
+- Clinical Exam: evaluate for characteristic facies, joint hypermobility.
+- Assess testicular volume (using an orchidometer) in older boys for macroorchidism.
+
+### Gold Standard Genetic Testing
+- **Molecular DNA Testing** (PCR & Southern Blot): strictly tests for CGG repeat expansion in the *FMR1* gene.
+- Standard Chromosomal Microarray (CMA) does NOT detect trinucleotide repeats.
+- Historical test: cytogenetic analysis for fragile site on X chromosome (obsolete but conceptually important).
+
+### Systemic Monitoring
+- Echocardiogram → screen for mitral valve prolapse.
+
+## 7. Management (Acute, Chronic, HA Protocols)
+### Acute Management
+- Not applicable.
+
+### Chronic & Definitive Care
+- No cure. Symptomatic & supportive management.
+- Behavioural/Psychiatric: 
+  - Stimulants (**Methylphenidate**) for ADHD.
+  - SSRIs for anxiety.
+  - Atypical antipsychotics (**Risperidone**) for severe aggression/irritability.
+
+## 8. MDT & Psychosocial Care
+### Multidisciplinary Support
+- Intensive special education support (EDB) for severe learning difficulties.
+- Speech therapy (言語治療) to aid communication.
+- Occupational therapy (職業治療) for motor skills and sensory integration.
+
+## 9. Safeguarding & NAI Red Flags
+### Genetic Counselling
+- PARAMOUNT: Identify female carriers in the family.
+- Discuss reproductive options (e.g., prenatal diagnosis, PGT-M) to prevent recurrence.
+
+## 10. Complications & Prognosis
+### Prognosis & Lifespan
 - Normal lifespan.
-- Lifelong intellectual disability requiring significant support.
-- Family members with premutations may develop FXTAS (neurodegenerative disorder resembling Parkinson's) or premature menopause.
+- Lifelong severe intellectual disability requiring significant parental and societal support.
 
-## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- **Trap**: Ordering a Chromosomal Microarray to rule out Fragile X. *Pearl*: CMA detects microdeletions/duplications, NOT trinucleotide repeat expansions. You must specifically request Fragile X DNA testing.
-- **OSCE Pearl**: If examining a boy with developmental delay, always look at the ears and (if appropriate age/setting) mention you would assess testicular volume to look for macroorchidism.
+### Premutation Carrier Risks (Adult-Onset)
+- Males: Fragile X-associated Tremor/Ataxia Syndrome (**FXTAS**) - neurodegenerative disorder resembling Parkinson's.
+- Females: Primary Ovarian Insufficiency (**FXPOI**) - premature menopause.
 
+## 11. Examiner's Pearls
+* Trap: Ordering a standard Chromosomal Microarray (CMA) to rule out Fragile X.
+* Pearl: CMA detects microdeletions/duplications, NOT trinucleotide repeat expansions. You must specifically request *FMR1* DNA testing.
+* Viva Question: What is the inheritance pattern of Fragile X?
+* Answer: Atypical X-linked dominant with anticipation. Full mutations only expand from maternal premutations. Unaffected males with premutations transmit the carrier state to all daughters.
+* Pitfall: Forgetting to examine the testes in a post-pubertal boy with developmental delay. Always assess for macroorchidism.

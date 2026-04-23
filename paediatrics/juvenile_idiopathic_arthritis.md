@@ -1,88 +1,184 @@
 # Juvenile Idiopathic Arthritis (JIA) (幼年特發性關節炎)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: The most common chronic rheumatological disease in childhood. It is an umbrella term for a heterogeneous group of autoimmune, inflammatory joint diseases that begin before the age of 16 and last for at least 6 weeks, with no other identifiable cause.
-- **Local Epidemiology**: Incidence in Hong Kong is comparable to Western countries. It is a major cause of acquired short-term and long-term disability in children.
+
+### Definition of Juvenile Idiopathic Arthritis
+* Umbrella term for a heterogeneous group of autoimmune, inflammatory joint diseases.
+* Onset <16 years of age.
+* Duration of arthritis >6 weeks.
+* Diagnosis of exclusion (all other identifiable causes ruled out).
+
+### Local Epidemiology in Hong Kong
+* Most common chronic rheumatological disease in childhood globally and in Hong Kong.
+* Incidence in HK is comparable to Western cohorts.
+* Major cause of acquired short-term and long-term disability (殘疾) in children.
 
 ## 2. Pathophysiology & Genetics
-- **Pathophysiology**: An autoimmune process triggered by an unknown environmental factor (possibly an infection) in a genetically susceptible child.
-- The immune system attacks the synovial membrane lining the joints.
-- This causes chronic synovitis (inflammation, thickening, and hypervascularity of the synovium).
-- The inflamed synovium forms a "pannus" that invades and destroys the articular cartilage and underlying bone.
-- **Genetics**: Associated with various HLA types (e.g., HLA-B27 in Enthesitis-Related Arthritis).
 
-## 3. Clinical Presentation
-- Presentation varies widely depending on the subtype. The hallmark is chronic joint swelling, pain, and stiffness, particularly worse in the morning.
+### Autoimmune Pathophysiology
+* Autoimmune process triggered by unknown environmental factors (e.g., viral/bacterial infection) in a genetically susceptible child.
+* Immune system erroneously targets the synovial membrane (滑膜) lining the joints.
+* Results in chronic synovitis (滑膜炎) characterized by inflammation, thickening, and hypervascularity.
 
-## 4. Key Symptoms & Signs (The Major Subtypes)
-1. **Oligoarticular JIA (Most common, ~50%)**:
-   - Affects **1 to 4 joints** in the first 6 months.
-   - Typically affects large joints asymmetrically (e.g., one knee or one ankle).
-   - Often presents in young girls (2-4 years old) with a painless limp or a swollen knee.
-   - **High Risk**: **Chronic Anterior Uveitis**. This is often asymptomatic but can cause blindness if undetected. Regular slit-lamp screening by an ophthalmologist is mandatory. ANA (Antinuclear Antibody) positive patients are at the highest risk.
-2. **Polyarticular JIA (~30%)**:
-   - Affects **5 or more joints** in the first 6 months.
-   - Typically affects small joints symmetrically (fingers, wrists, toes), similar to adult Rheumatoid Arthritis.
-   - Can be Rheumatoid Factor (RF) positive (worse prognosis, severe erosive disease) or RF negative.
-   - Often involves the cervical spine and temporomandibular joint (TMJ - causing micrognathia/receding chin due to growth failure).
-3. **Systemic JIA (Still's Disease) (~10%)**:
-   - The most severe subtype. Presents with profound systemic inflammation.
-   - **Quotidian Fever**: Daily high spiking fevers (often >39°C in the evening) that rapidly return to normal or subnormal.
-   - **Evanescent Rash**: A salmon-pink, macular rash that appears with the fever and fades when the fever drops.
-   - Hepatosplenomegaly, generalized lymphadenopathy, serositis (pericarditis, pleuritis).
-   - Arthritis may not appear until weeks or months after the systemic symptoms.
-4. **Enthesitis-Related Arthritis (ERA)**:
-   - Inflammation at the entheses (where tendons insert into bone, e.g., Achilles tendon insertion, plantar fascia).
-   - Often affects older boys. Associated with HLA-B27. Can progress to ankylosing spondylitis.
+### Joint Destruction Mechanism
+* Inflamed synovium hypertrophies to form a "pannus" (血管翳).
+* Pannus aggressively invades and enzymatically destroys articular cartilage (關節軟骨) and underlying subchondral bone.
 
-## 5. Discriminatory Features (How to distinguish from similar conditions)
-- **Septic Arthritis**: Acute onset, severe pain, high fever, single joint. JIA is chronic (>6 weeks), often insidious, and the joint may be swollen but only mildly painful.
-- **Acute Rheumatic Fever**: Migratory polyarthritis following a strep infection. JIA arthritis is additive and chronic.
+### Genetic Associations
+* Strongly associated with specific HLA genotypes.
+* **HLA-B27**: Linked to Enthesitis-Related Arthritis (ERA).
+* **HLA-DR4**: Linked to Rheumatoid Factor (RF) +ve Polyarticular JIA.
 
-## 6. Differential Diagnosis
-- Septic arthritis / Osteomyelitis.
-- Acute Rheumatic Fever.
-- Transient Synovitis.
-- Malignancy (Leukaemia, Neuroblastoma - can present with bone/joint pain).
-- SLE or other connective tissue diseases.
-- Lyme disease (rare in HK).
+## 3. Key Symptoms & Signs
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Diagnosis is primarily clinical** (arthritis > 6 weeks, age < 16, exclusion of other causes).
-- **Bloods**:
-  - FBC (anaemia of chronic disease, thrombocytosis), ESR and CRP (elevated, especially in Systemic JIA).
-  - **ANA (Antinuclear Antibody)**: Often positive in Oligoarticular JIA. It is NOT diagnostic of JIA, but it is a crucial marker for the risk of developing **Uveitis**.
-  - **Rheumatoid Factor (RF) & Anti-CCP**: Only positive in a small subset of Polyarticular JIA.
-- **Imaging**:
-  - X-rays: Initially show soft tissue swelling and osteopenia. Late changes show joint space narrowing and bone erosions.
-  - Ultrasound/MRI: More sensitive for detecting early synovitis and joint damage.
-- **Ophthalmology Screening**: Mandatory slit-lamp examination for all JIA patients to detect asymptomatic uveitis.
+### Hallmark Clinical Presentation
+* Chronic joint swelling (關節腫脹).
+* Joint pain (疼痛).
+* Joint stiffness (僵硬) → hallmark is **morning stiffness (晨僵)** or stiffness after prolonged rest (gelling phenomenon).
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Goal**: Induce remission, prevent joint damage, and ensure normal growth and development.
-- **Pharmacological Therapy**:
-  - **NSAIDs** (e.g., Ibuprofen, Naproxen): First-line for symptom relief (pain and stiffness), but do not alter the disease course.
-  - **Intra-articular Corticosteroid Injections**: Highly effective for Oligoarticular JIA (e.g., injecting a swollen knee).
-  - **Disease-Modifying Antirheumatic Drugs (DMARDs)**: **Methotrexate** is the gold standard first-line DMARD for Polyarticular and Systemic JIA.
-  - **Biologic Agents**: Used if Methotrexate fails or in severe disease. e.g., Anti-TNF agents (Adalimumab, Etanercept), Anti-IL-6 (Tocilizumab - highly effective for Systemic JIA).
-- **Physical Therapy**: Essential to maintain range of motion, prevent contractures, and strengthen muscles.
+### Oligoarticular JIA (少關節型幼年特發性關節炎) Clinical Features
+* Most common subtype (~50%).
+* Affects 1 to 4 joints in the first 6 months.
+* Asymmetrical involvement of large joints (e.g., one knee or one ankle).
+* Typically presents in young girls (2-4 years old) with a painless limp (跛行) or visibly swollen knee.
+* **High Risk**: Asymptomatic **Chronic Anterior Uveitis (慢性前葡萄膜炎)**.
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- **Paediatric Rheumatology**: The primary managing team.
-- **Ophthalmology**: For regular uveitis screening.
-- **Occupational Therapy**: To provide splints and aids for daily living.
-- **Psychology**: Chronic pain and the side effects of medications (e.g., steroids) can cause significant psychological distress and school absenteeism.
+### Polyarticular JIA (多關節型幼年特發性關節炎) Clinical Features
+* Affects ≥5 joints in the first 6 months (~30% of cases).
+* Symmetrical involvement of small & large joints (fingers, wrists, toes).
+* Frequently involves cervical spine and temporomandibular joint (TMJ).
+* TMJ involvement → causes micrognathia (小頜畸形) / receding chin due to growth failure.
 
-## 10. Safeguarding & NAI Red Flags
-- N/A for this condition.
+### Systemic JIA (全身型幼年特發性關節炎 / Still's Disease) Clinical Features
+* Most severe subtype (~10%), presenting with profound systemic inflammation.
+* **Quotidian Fever (每日雙峰發熱)**: Daily high spiking fevers (>39°C, often evening) returning rapidly to baseline/subnormal.
+* **Evanescent Rash (短暫性皮疹)**: Salmon-pink, macular rash appearing concurrently with fever spikes.
+* Hepatosplenomegaly (肝脾腫大).
+* Generalized lymphadenopathy (淋巴結腫大).
+* Serositis (漿膜炎) (pericarditis, pleuritis).
+* Arthritis may lag behind systemic symptoms by weeks/months.
 
-## 11. Complications & Prognosis
-- **Joint Destruction**: Permanent deformities, contractures, and leg-length discrepancies (the inflamed knee grows faster initially, then the growth plate fuses prematurely).
-- **Blindness**: From undetected and untreated chronic anterior uveitis.
-- **Macrophage Activation Syndrome (MAS)**: A life-threatening complication, primarily seen in Systemic JIA. Characterized by a sudden drop in cell counts (pancytopenia), paradoxical drop in ESR, massive hyperferritinaemia, coagulopathy, and multi-organ failure.
-- **Prognosis**: Highly variable. Oligoarticular JIA often goes into permanent remission. Polyarticular and Systemic JIA often require lifelong immunosuppression.
+### Enthesitis-Related Arthritis (ERA) (附著點炎相關關節炎) Clinical Features
+* Inflammation at entheses (附著點) (tendon/ligament insertion sites into bone).
+* Classic sites: Achilles tendon insertion, plantar fascia.
+* Typically affects older boys; HLA-B27 +ve; can progress to ankylosing spondylitis.
 
-## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- *Viva*: "A 3-year-old girl is diagnosed with Oligoarticular JIA affecting her right knee. Her ANA is positive. What is the most important specialist referral you must make, and why?" (Ophthalmology for a slit-lamp examination. She is at very high risk for chronic anterior uveitis, which is often asymptomatic but can lead to permanent blindness if untreated).
-- *Viva*: "Describe the classic presentation of Systemic JIA (Still's disease)." (Daily high spiking fevers, an evanescent salmon-pink rash that appears with the fever, hepatosplenomegaly, lymphadenopathy, and arthritis).
-- *Pitfall*: Waiting for a positive Rheumatoid Factor (RF) to diagnose JIA. The vast majority of children with JIA are RF negative.
+## 4. Discriminatory Features (How to distinguish from similar conditions)
+
+### Distinguishing JIA from Septic Arthritis (化膿性關節炎)
+* **Septic Arthritis**: Acute/fulminant onset, severe excruciating pain, high continuous fever, single joint, non-weight bearing, ↑↑WCC/CRP.
+* **JIA**: Chronic (>6 weeks), insidious onset, mildly painful/painless swelling, morning stiffness predominates.
+
+### Distinguishing JIA from Acute Rheumatic Fever (急性風濕熱)
+* **Acute Rheumatic Fever**: Migratory polyarthritis, clear history of preceding streptococcal pharyngitis, associated carditis/chorea.
+* **JIA**: Additive and chronic persistent arthritis, absolutely no cardiac valvular involvement.
+
+### Distinguishing JIA from Paediatric Malignancy (惡性腫瘤)
+* **Malignancy (Leukaemia/Neuroblastoma)**: Disproportionate deep bone pain, pain waking child at night, systemic weight loss, cytopenias (↓Hb, ↓Plt).
+* **JIA**: Localized joint pain, morning stiffness, typically associated with thrombocytosis (↑Plt) as an acute phase response.
+
+## 5. Differential Diagnosis
+
+### Summary of Paediatric Joint Differentials
+| Disease Category | Differential Diagnosis | Key Distinguishing Feature |
+| :--- | :--- | :--- |
+| **Infectious** | Septic Arthritis / Osteomyelitis | Acute, severe pain, inability to bear weight, high fever. |
+| **Post-Infectious** | Transient Synovitis (暫時性滑膜炎) | Self-limiting, follows viral URTI, acute but mild/moderate pain. |
+| **Post-Infectious** | Acute Rheumatic Fever | Migratory arthritis, carditis, preceding Strep throat. |
+| **Oncological** | Leukaemia / Neuroblastoma | Bone pain, night pain, cytopenias, hepatosplenomegaly. |
+| **Autoimmune** | SLE / Connective Tissue Disease | Malar rash, multi-organ involvement, renal disease. |
+| **Trauma** | Accidental / Non-Accidental Injury | History of trauma, inconsistent mechanism, focal bruising/fracture. |
+
+## 6. Tiered Investigations
+
+### Clinical Diagnostic Criteria for JIA
+* Diagnosis is strictly clinical.
+* Based on: Arthritis > 6 weeks, Age < 16, +ve exclusion of all other causes.
+
+### Mandatory Bedside Ophthalmology Screening
+* **Slit-Lamp Examination (裂隙燈檢查)**: Mandatory for ALL JIA patients.
+* Goal: Detect asymptomatic **Chronic Anterior Uveitis** to prevent irreversible blindness.
+
+### Specific Blood Biomarkers
+* **FBC**: Anaemia of chronic disease, thrombocytosis (血小板增多) (marker of active inflammation).
+* **ESR & CRP**: ↑ (especially ↑↑ in Systemic JIA).
+* **ANA (Antinuclear Antibody) (抗核抗體)**: Often +ve in Oligoarticular JIA. NOT diagnostic for JIA, but is the most crucial marker predicting ↑ risk of Uveitis.
+* **Rheumatoid Factor (RF) (類風濕因子) & Anti-CCP**: +ve only in a small subset of Polyarticular JIA (indicates severe, erosive disease).
+
+### Radiological Imaging Studies
+* **Plain X-rays (X光)**:
+  * Early: Soft tissue swelling, periarticular osteopenia.
+  * Late: Joint space narrowing, bony erosions, premature growth plate fusion.
+* **Ultrasound (US) & MRI (磁力共振)**:
+  * Gold standard for early detection.
+  * Highly sensitive for identifying early synovitis, joint effusions, and cartilaginous damage before X-ray changes.
+
+## 7. Management (Acute, Chronic, HA Protocols)
+
+### Overall Management Goals
+* Induce complete clinical remission.
+* Prevent permanent joint damage/deformity.
+* Ensure normal systemic growth and pubertal development.
+
+### Pharmacological Therapy Summary
+| Drug Class | Specific Agents | Indication & Clinical Role |
+| :--- | :--- | :--- |
+| **NSAIDs** | Ibuprofen, Naproxen | 1st line for immediate symptom relief (pain/stiffness). Does NOT alter disease progression. |
+| **Intra-articular Corticosteroids** | Triamcinolone hexacetonide | Highly effective targeted therapy for Oligoarticular JIA (e.g., isolated swollen knee). |
+| **Conventional DMARDs** | **Methotrexate (甲氨蝶呤)** | Gold standard 1st line DMARD for Polyarticular & Systemic JIA in HK HA. Requires Folic Acid rescue. |
+| **Biologic DMARDs (Anti-TNF)** | Adalimumab, Etanercept | Step-up therapy for Methotrexate failure or severe erosive disease. Highly effective for Uveitis. |
+| **Biologic DMARDs (Anti-IL-6)** | Tocilizumab | Targeted gold standard therapy specific for Systemic JIA (Still's Disease). |
+
+### Physical and Occupational Therapy
+* **Physiotherapy (PT)**: Essential to maintain Range of Motion (ROM), prevent flexion contractures, and preserve muscle strength around inflamed joints.
+
+## 8. MDT & Psychosocial Care
+
+### Core Multidisciplinary Team (MDT) Roles
+* **Paediatric Rheumatologist**: Primary diagnostic and pharmacological management.
+* **Ophthalmologist**: Routine protocol-driven uveitis screening.
+* **Occupational Therapist (OT)**: Provision of resting splints, joint protection education, and daily living aids.
+
+### Psychosocial and Educational Support
+* **Clinical Psychologist**: Management of chronic pain, needle phobia (from regular blood tests/injections), and mood disturbances (from chronic illness or systemic steroid use).
+* **Medical Social Worker (MSW)**: Addressing school absenteeism, liaising with schools for special examination arrangements (e.g., extra time or scribes for children with severe hand arthritis).
+
+## 9. Safeguarding & NAI Red Flags
+
+### Differentiating JIA from Non-Accidental Injury (NAI)
+* JIA does NOT present with bruising, fractures, or inconsistent histories.
+* Any child presenting with a single swollen/painful joint, associated with unexplained bruising, burns, or delayed presentation must trigger rigorous NAI (非意外傷害) safeguarding protocols.
+* Chronic illness (like JIA) can increase caregiver stress, mandating vigilance for signs of medical neglect (e.g., missing mandatory ophthalmology screening or biologic infusions).
+
+## 10. Complications & Prognosis
+
+### Irreversible Musculoskeletal Complications
+* **Joint Destruction**: Permanent joint deformities, erosions, and disabling contractures.
+* **Leg-Length Discrepancy**: Inflamed knee initially grows faster due to hyperaemia, but eventually suffers premature fusion of the growth plate, causing permanent limb shortening.
+
+### Severe Ophthalmic Complications
+* **Blindness (失明)**: Direct result of undetected, untreated chronic anterior uveitis.
+* Cataracts & Glaucoma (frequently iatrogenic secondary to topical steroid therapy for uveitis).
+
+### Life-Threatening Systemic Complication: MAS
+* **Macrophage Activation Syndrome (MAS) (巨噬細胞活化綜合徵)**:
+  * Fatal complication primarily seen in Systemic JIA.
+  * Massive, uncontrolled immune system hyperactivation.
+  * Key findings: Sudden pancytopenia (全血細胞減少), paradoxical ↓ ESR (due to consumed fibrinogen), massive hyperferritinaemia (高鐵蛋白血症), coagulopathy (DIC), and multi-organ failure.
+
+### Long-Term Prognosis
+* **Oligoarticular JIA**: Best joint prognosis; often achieves permanent remission; highest risk for uveitis.
+* **Polyarticular & Systemic JIA**: Guarded prognosis; high risk of progressive destructive joint damage; often requires lifelong targeted immunosuppression.
+
+## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
+
+* Viva Question: A 3-year-old girl is diagnosed with Oligoarticular JIA affecting her right knee. Her ANA is positive. What is the most important specialist referral you must make, and why?
+Answer: Ophthalmology for a slit-lamp examination. She is at extremely high risk for chronic anterior uveitis, which is characteristically asymptomatic but will lead to permanent blindness if untreated.
+* Viva Question: Describe the classic triad of presentation for Systemic JIA (Still's disease)?
+Answer: Daily quotidian high spiking fevers (>39°C), an evanescent salmon-pink macular rash appearing concurrently with the fever, and hepatosplenomegaly/lymphadenopathy.
+* Trap: Waiting for a positive Rheumatoid Factor (RF) to definitively diagnose JIA.
+Pearl: The vast majority of children with JIA are completely RF negative. RF positivity is only seen in a small subset of Polyarticular JIA and signifies a worse, adult-rheumatoid-like prognosis.
+* Pitfall: Reassuring the parents of a Systemic JIA patient because their previously high ESR has suddenly dropped to normal, even though the child looks more unwell.
+Pearl: A paradoxical, sudden drop in ESR accompanied by dropping cell counts (pancytopenia) is a massive red flag for Macrophage Activation Syndrome (MAS) due to hypofibrinogenaemia. It is a life-threatening medical emergency requiring immediate ICU care.
+* Trap: Assuming the swollen joint in Oligoarticular JIA will be excruciatingly painful and warm, resembling septic arthritis.
+Pearl: The swollen joint in Oligoarticular JIA is often surprisingly painless or only mildly uncomfortable; the child typically presents with morning stiffness and a painless limp rather than acute agony.
