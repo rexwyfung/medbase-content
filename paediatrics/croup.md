@@ -1,73 +1,128 @@
-
 # Croup (Laryngotracheobronchitis) (哮吼)
+
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: An acute viral infection causing inflammation and oedema of the larynx, trachea, and bronchi (subglottic region).
-- **Local Epidemiology**: Very common in children aged 6 months to 3 years. Peak incidence in autumn and winter.
+
+### Clinical Definition
+- An acute viral infection of the upper respiratory tract causing inflammation and oedema of the larynx, trachea, and bronchi (subglottic region).
+
+### Local Epidemiology
+- Very common in children aged 6 months to 6 years.
+- Peak incidence occurs in the second year of life.
+- Peak seasons are autumn and winter.
 
 ## 2. Pathophysiology & Genetics
-- **Pathogen**: **Parainfluenza virus** (types 1, 2, and 3) accounts for the majority of cases. Others include RSV, Adenovirus, Influenza.
-- **Mechanism**: Viral infection leads to inflammation and oedema of the subglottic airway. Because the subglottis is the narrowest part of the paediatric airway and is surrounded by the rigid cricoid cartilage, even a small amount of oedema causes significant narrowing, leading to turbulent airflow (stridor) and increased work of breathing.
 
-## 3. Clinical Presentation
-- See below.
+### Pathophysiology
+- **Pathogen**: **Parainfluenza viruses (副流感病毒)** account for the vast majority (>95%) of cases. Other triggers include RSV, rhinovirus, adenovirus, and influenza.
+- **Mechanism**: 
+  - Viral infection → inflammation and oedema of the subglottic airway.
+  - The subglottis is the narrowest part of the paediatric airway and is surrounded by the rigid, non-expansile cricoid cartilage.
+  - Even mild mucosal oedema causes significant luminal narrowing → turbulent airflow (**Stridor (喘鳴)**) and ↑ work of breathing.
 
-## 4. Key Symptoms & Signs
-- **Prodrome**: 1-2 days of non-specific coryzal symptoms (runny nose, mild fever).
-- **Classic Triad**:
-  1. **Barking Cough**: Sounds like a seal barking.
-  2. **Inspiratory Stridor**: A harsh, high-pitched sound on inspiration.
-  3. **Hoarse Voice**.
-- **Symptoms are characteristically worse at night** and exacerbated by agitation or crying.
-- **Signs of Severity**:
-  - *Mild*: Barking cough, but NO stridor at rest.
-  - *Moderate*: Stridor at rest, chest wall recessions (suprasternal, intercostal).
-  - *Severe*: Stridor at rest, severe recessions, agitation/lethargy, cyanosis (late sign).
-## 5. Discriminatory Features (How to distinguish from similar conditions)
-- **Epiglottitis**: Rare now due to Hib vaccine. Child looks toxic, high fever, drooling, tripod position, NO barking cough.
-- **Foreign Body Aspiration**: Sudden onset of choking/stridor, no viral prodrome, often unilateral decreased air entry.
-- **Bacterial Tracheitis**: Looks like severe croup that doesn't respond to standard treatment, child is toxic with high fever.
+## 3. Key Symptoms & Signs
 
-## 6. Differential Diagnosis
-- **Most Likely**:
-  - Viral Croup.
-- **Must-Not-Miss**:
-  - **Epiglottitis**: A true airway emergency. Do not examine the throat if suspected.
-  - **Foreign Body Aspiration**.
-  - **Anaphylaxis**: Can cause laryngeal oedema and stridor.
+### Prodromal Symptoms
+- 1-2 days of non-specific coryzal symptoms (runny nose, low-grade fever).
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Bedside**:
-  - **Clinical Diagnosis**: Croup is almost entirely a clinical diagnosis based on the characteristic barking cough and stridor.
-  - **Pulse Oximetry**: To assess severity (hypoxia is a late and worrying sign).
-  - **DO NOT examine the throat** with a tongue depressor if epiglottitis is a differential, as it can provoke complete airway obstruction.
-- **Gold Standard**:
-  - **Neck X-ray (AP view)**: NOT routinely recommended. If done, may show the classic **"Steeple Sign"** (subglottic narrowing).
-  - **NPA**: For viral multiplex PCR (useful for cohorting in the ward, but doesn't change acute management).
-- **Monitoring**:
-  - Close clinical observation for signs of increasing respiratory distress or exhaustion.
+### Classic Clinical Triad
+- **Barking Cough (狗吠聲咳嗽)**: Sounds harsh, similar to a seal or sea lion barking.
+- **Inspiratory Stridor (吸氣性喘鳴)**: A harsh, high-pitched, rasping sound heard on inspiration.
+- **Hoarse Voice (聲音沙啞)**: Due to inflammation of the vocal cords.
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Acute**:
-  - **Keep the child calm**: Agitation worsens the stridor. Allow the child to sit comfortably on the parent's lap.
-  - **Oxygen**: If SpO2 < 92%.
-  - **Severe Croup (Impending airway obstruction)**:
-    - **Nebulised Adrenaline (Epinephrine)**: Causes rapid mucosal vasoconstriction, reducing subglottic oedema. Works within 10-30 minutes but wears off after 2 hours (risk of "rebound" stridor). The child MUST be observed in hospital for at least 3-4 hours after receiving nebulised adrenaline.
-- **Chronic/Definitive**:
-  - **Corticosteroids**: The cornerstone of treatment for ALL severities of croup. Reduces inflammation and need for admission.
-  - **Oral Dexamethasone**: (0.15 mg/kg to 0.6 mg/kg as a single dose). Preferred due to long half-life.
-  - *Alternative*: Nebulised Budesonide (if vomiting).
-  - **Mild Croup (No stridor at rest)**: Single dose of oral Dexamethasone and discharge home with safety netting.
-  - **Moderate/Severe Croup**: Dexamethasone + Nebulised Adrenaline. Admit for observation.
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- Not generally required for this acute, self-limiting illness.
-## 10. Safeguarding & NAI Red Flags
-- **Safety Netting**: Advise parents that symptoms often worsen at night. If the child develops stridor at rest, severe difficulty breathing, or becomes pale/lethargic, they must return to A&E immediately.
+### Symptom Pattern
+- Symptoms characteristically start or become significantly worse at night.
+- Exacerbated by agitation, crying, or distress.
 
-## 11. Complications & Prognosis
-- Excellent prognosis. Usually resolves within 3-7 days.
-- **Complications**: Rare. Can progress to complete airway obstruction requiring intubation (very rare since the widespread use of steroids). Secondary bacterial infection (Bacterial Tracheitis).
+### Severity Assessment 
+- **Mild**: Barking cough present, but NO stridor at rest.
+- **Moderate**: Stridor audible at rest, accompanied by chest wall recessions (suprasternal, intercostal).
+- **Severe**: Stridor at rest, marked recessions, agitation/lethargy, central cyanosis, and drooling (late signs of impending airway obstruction).
 
-## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- **Trap**: Sending a child home immediately after they improve with nebulised adrenaline. *Pearl*: Nebulised adrenaline has a short half-life (~2 hours). The oedema can return ("rebound"), leading to sudden airway obstruction at home. They MUST be observed for at least 3-4 hours post-nebulisation.
-- **Viva Question**: "What is the mechanism of action of nebulised adrenaline in croup?" *Answer*: It stimulates alpha-adrenergic receptors in the airway mucosa, causing vasoconstriction, which rapidly decreases subglottic oedema.
+## 4. Discriminatory Features (How to distinguish from similar conditions)
 
+### Distinguishing from Similar Airway Emergencies
+| Feature | Viral Croup (哮吼) | Acute Epiglottitis (急性會厭炎) | Bacterial Tracheitis |
+| :--- | :--- | :--- | :--- |
+| **Onset** | Over days (viral prodrome) | Over hours (rapid) | Over hours |
+| **Appearance** | Unwell but rarely toxic | Toxic, very ill | Toxic, very ill |
+| **Fever** | Low-grade (<38.5°C) | High (>38.5°C) | High (>38.5°C) |
+| **Stridor** | Harsh, rasping | Soft, whispering | Variable |
+| **Cough** | Severe, barking | Absent or slight | Often present, thick secretions |
+| **Drooling** | No | Yes | Yes/No |
+| **Voice** | Hoarse | Muffled, reluctant to speak | Hoarse |
+
+## 5. Differential Diagnosis
+
+### Most Likely Diagnosis
+- **Viral Croup (Laryngotracheobronchitis)**.
+
+### Must-Not-Miss Diagnoses
+- **Acute Epiglottitis (急性會厭炎)**: A true airway emergency. Rare now due to the Hib vaccine.
+- **Foreign Body Aspiration (異物吸入)**: Sudden onset of choking, unilateral absent breath sounds, no viral prodrome.
+- **Bacterial Tracheitis (細菌性氣管炎)**: Often caused by *Staphylococcus aureus*. Fails to respond to standard croup therapy.
+- **Anaphylaxis (過敏性休克)**: Can present with laryngeal oedema and rapid-onset stridor.
+
+## 6. Tiered Investigations
+
+### Bedside Investigations
+- **Clinical Diagnosis**: Croup is almost entirely a clinical diagnosis based on the characteristic barking cough and stridor.
+- **Pulse Oximetry (SpO2)**: Used to assess severity, though hypoxaemia is a late and dangerous sign in upper airway obstruction.
+- *CRITICAL RULE*: DO NOT examine the throat with a tongue depressor if epiglottitis is suspected, as it can provoke complete airway obstruction.
+
+### Laboratory Investigations
+- **Nasopharyngeal Aspirate (NPA)**: For viral multiplex PCR. Useful for ward cohorting and infection control, but does not change acute management.
+
+### Imaging
+- **Neck X-ray (AP view)**: NOT routinely recommended. If performed, may show the classic **"Steeple Sign" (尖塔徵)** representing subglottic narrowing.
+
+## 7. Management (Acute, Chronic, HA Protocols)
+
+### Acute Supportive Management
+- **Minimal Handling**: Keep the child calm. Agitation ↑ oxygen demand and worsens stridor. Allow the child to sit comfortably on the parent's lap.
+- **Oxygen Therapy**: Administer if SpO2 < 92% or if central cyanosis is present.
+- **Avoid Mist/Steam**: Traditional use of warm, moist air has NOT been proven beneficial and is no longer recommended.
+
+### First-Line Pharmacological Management
+- **Corticosteroids (皮質類固醇)**: The cornerstone of treatment for ALL severities of croup. Reduces inflammation and significantly ↓ hospital admissions.
+  - **Oral Dexamethasone (地塞米松)**: 0.15 mg/kg to 0.6 mg/kg as a single dose (0.15 mg/kg is the standard HA protocol). Preferred due to its long half-life.
+  - **Alternative**: Nebulised **Budesonide (布地奈德)** (if the child is actively vomiting).
+
+### Severe Management (Impending Airway Obstruction)
+- **Nebulised Adrenaline (Epinephrine) (腎上腺素)**: 
+  - Causes rapid mucosal vasoconstriction, dramatically reducing subglottic oedema.
+  - Works within 10-30 minutes.
+
+### Disposition & HA Protocols
+- **Mild Croup**: Single dose of PO Dexamethasone → Discharge home with safety netting.
+- **Moderate/Severe Croup**: PO Dexamethasone + Nebulised Adrenaline → Admit for observation.
+
+## 8. MDT & Psychosocial Care
+
+### Supportive Care
+- Usually an acute, self-limiting illness. MDT involvement is generally not required unless there are complex underlying structural airway anomalies (e.g., ENT referral for recurrent croup or suspected subglottic stenosis).
+
+## 9. Safeguarding & NAI Red Flags
+
+### Safety Netting Advice for Parents
+- Advise parents that symptoms typically worsen at night.
+- Instruct them to return to the A&E immediately if the child develops:
+  - Stridor at rest.
+  - Severe difficulty breathing or marked chest retractions.
+  - Pallor, cyanosis, or lethargy.
+  - Drooling or inability to swallow fluids.
+
+## 10. Complications & Prognosis
+
+### Prognosis
+- Excellent. The illness usually resolves entirely within 3-7 days.
+
+### Complications
+- **Complete Airway Obstruction**: Exceedingly rare since the widespread use of corticosteroids.
+- **Secondary Bacterial Infection**: Can progress to Bacterial Tracheitis, which requires intubation and IV antibiotics.
+
+## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
+
+* Trap: Sending a child home immediately after they improve with nebulised adrenaline. Pearl: Nebulised adrenaline has a short half-life (~2 hours). The oedema can return ("rebound"), leading to sudden airway obstruction at home. They MUST be observed for at least 3-4 hours post-nebulisation.
+* Viva Question: What is the mechanism of action of nebulised adrenaline in croup? Answer: It stimulates alpha-adrenergic receptors in the airway mucosa, causing profound vasoconstriction, which rapidly decreases subglottic oedema.
+* Pitfall: Attempting to examine the throat with a tongue depressor in a child with severe stridor. This can provoke intense crying, laryngospasm, and complete airway obstruction if the underlying cause is epiglottitis.
+* Viva Question: What is the classic X-ray finding for croup, and is it necessary? Answer: The "Steeple sign" on an AP neck X-ray, but imaging is NOT routinely indicated as croup is an entirely clinical diagnosis.

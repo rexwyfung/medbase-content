@@ -1,59 +1,176 @@
 # Cystic Fibrosis (CF) (囊性纖維化)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: An autosomal recessive multisystem disorder characterized by abnormal transport of chloride and sodium across epithelium, leading to thick, viscous secretions.
-- **Local Epidemiology**: Most common life-limiting genetic disease in Caucasians (~1 in 2500 live births), but historically *extremely rare* in Chinese/Asian populations (hence high diagnostic suspicion when a local child presents with it). 
+
+### Clinical Definition
+* **Autosomal recessive** multisystem disorder
+* Characterized by abnormal transport of **chloride** and **sodium** across epithelium
+* Leads to **thick, viscous secretions** in multiple organs (respiratory, GI, reproductive)
+
+### Local Epidemiology
+* Most common life-limiting genetic disease in **Caucasians** (~1 in 2500 live births)
+* **Carrier rate**: ~1 in 25 in Caucasian populations
+* Historically **extremely rare** in Chinese/Asian populations 
+* High diagnostic suspicion required when a local Hong Kong child presents with typical features
 
 ## 2. Pathophysiology & Genetics
-- Mutation in the **CFTR** (Cystic Fibrosis Transmembrane conductance Regulator) gene on Chromosome 7. 
-- The most common mutation worldwide is **$\Delta$F508** (deletion of phenylalanine at position 508).
-- Defective chloride channels prevent chloride secretion into the airway lumen $\rightarrow$ increased sodium and water reabsorption $\rightarrow$ dehydrated, thick, sticky mucus.
-- Thick mucus blocks airways (bronchiectasis), pancreatic ducts (exocrine insufficiency), and biliary tree.
+
+### Genetic Mutation
+* Mutation in **CFTR (Cystic Fibrosis Transmembrane conductance Regulator) (囊性纖維化跨膜傳導調節蛋白)** gene on **Chromosome 7**
+* Most common mutation worldwide: **ΔF508** (deletion of phenylalanine at position 508)
+* ΔF508 is a **Class II mutation** (incorrect folding → cannot traffic to membrane)
+* Mutations classified into **6 classes** based on how CFTR protein is affected (e.g., reduced synthesis, defective channel opening, shortened half-life)
+
+### Cellular Pathophysiology
+* Defective **chloride channels** prevent chloride secretion into airway lumen
+* → ↑ **Sodium** and **water reabsorption** from the lumen
+* → Dehydrated, **thick, sticky mucus**
+* Defective CFTR also causes dysregulation of inflammation and defence against infection
+
+### Organ-Specific Pathophysiology
+* **Respiratory**: Thick mucus blocks airways → recurrent infection → inflammation → **Bronchiectasis (支氣管擴張)**
+* **Pancreas**: Blocked pancreatic ducts → **Exocrine insufficiency** → maldigestion and malabsorption
+* **Biliary Tract**: Thick bile → progressive biliary fibrosis → **Hepatic steatosis & Cirrhosis (肝硬化)**
+* **Reproductive**: Thick secretions block vas deferens in utero
 
 ## 3. Clinical Presentation
-- **Neonate**: Meconium ileus (failure to pass meconium, intestinal obstruction), prolonged neonatal jaundice.
-- **Infant/Child**: Failure to thrive (pancreatic insufficiency leading to malabsorption/steatorrhea), recurrent severe chest infections, chronic wet cough.
-- **Older**: Nasal polyps, bronchiectasis, CFRD (CF-related diabetes).
+
+### Neonatal Presentation
+* **Meconium ileus (胎糞性腸梗阻)**: Occurs in 10-20% of infants (failure to pass meconium, intestinal obstruction, vomiting)
+* **Prolonged neonatal jaundice**
+* **Positive Newborn Screening** (elevated immunoreactive trypsinogen - IRT)
+
+### Infant & Childhood Presentation
+* **Faltering growth (生長遲緩)** / Failure to thrive
+* **Recurrent severe chest infections**
+* **Chronic wet cough**
+* **Malabsorption** with greasy, bulky stools
+
+### Adolescent & Adult Presentation
+* **Bronchiectasis**
+* **Nasal polyps (鼻息肉)**
+* **CF-related diabetes (CFRD)**
+* **Rectal prolapse (直腸脫垂)**
 
 ## 4. Key Symptoms & Signs
-- Chronic, productive wet cough.
-- Hyperinflated chest, coarse crepitations/wheeze on auscultation, digital clubbing.
-- Greasy, foul-smelling, bulky, unflushable stools (steatorrhoea).
-- Salty-tasting skin (mothers sometimes report "baby tastes salty when kissed").
+
+### Respiratory Symptoms & Signs
+* **Chronic, productive wet cough** (purulent sputum)
+* **Hyperinflated chest** (due to air trapping)
+* **Coarse inspiratory crepitations** (粗濕囉音)
+* **Expiratory wheeze**
+* **Digital clubbing (杵狀指)**
+
+### Gastrointestinal Symptoms & Signs
+* **Steatorrhoea (脂肪瀉)**: Greasy, foul-smelling, bulky, unflushable stools
+* **Abdominal distension**
+* **Muscle wasting** (e.g., buttocks) due to malabsorption
+
+### Dermatological Signs
+* **Salty-tasting skin** (mothers often report "baby tastes salty when kissed")
 
 ## 5. Discriminatory Features (How to distinguish from similar conditions)
-- Distinct from asthma: CF has a productive/wet cough and clubbing. Pure asthma has a dry cough and *never* causes clubbing.
-- Distinct from Primary Ciliary Dyskinesia (PCD): CF features pancreatic insufficiency and very poor growth. PCD usually has normal growth and does not routinely affect the pancreas.
+
+### Distinguishing from Asthma
+* **CF**: Productive/wet cough, digital clubbing, failure to thrive, persistent crepitations
+* **Asthma**: Dry cough, **never** causes clubbing, normal growth, widespread wheeze without localized crepitations
+
+### Distinguishing from Primary Ciliary Dyskinesia (PCD)
+* **CF**: Pancreatic insufficiency, very poor growth, meconium ileus, sweat chloride >60 mmol/L
+* **PCD**: Normal growth, no pancreatic involvement, dextrocardia/situs inversus in 50% (Kartagener syndrome), normal sweat test
 
 ## 6. Differential Diagnosis
-- Immunodeficiency (e.g., Severe Combined Immunodeficiency, Agammaglobulinemia)
-- Primary Ciliary Dyskinesia (PCD)
-- Asthma / Bronchiolitis obliterans
-- Coeliac disease (for the poor growth/steatorrhea aspect alone)
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Gold Standard**: **Sweat Chloride Test** (Pilocarpine iontophoresis). Sweat chloride > 60 mmol/L on two separate occasions is diagnostic.
-- **Genetics**: CFTR gene mutation panel. 
-- **Stool**: Fecal elastase (low in pancreatic exocrine insufficiency).
-- **Respiratory**: High-Resolution CT thorax (HRCT) to detect and monitor bronchiectasis. Regular sputum cultures (looking for *Staph. aureus*, *Hemophilus influenzae*, and the dreaded *Pseudomonas aeruginosa*).
+### Primary Respiratory Differentials
+* **Primary Ciliary Dyskinesia (PCD)**
+* **Immunodeficiency** (e.g., Severe Combined Immunodeficiency, Agammaglobulinemia)
+* **Asthma** / **Bronchiolitis obliterans**
+* **Post-infectious bronchiectasis** (e.g., post-adenovirus/measles/pertussis)
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Airway Clearance**: Daily rigorous chest physiotherapy. Nebulized therapies (hypertonic saline to hydrate mucus, Dornase alfa (DNase) to break down DNA in thick pus).
-- **Infection**: Prompt, aggressive IV antibiotics for exacerbations (e.g., Ceftazidime + Tobramycin for Pseudomonas). 
-- **GI/Nutrition**: High calorie (150% of normal), high-fat diet. **Pancreatic enzyme replacement therapy (PERT - Creon)** taken with every meal/snack. Fat-soluble vitamin supplements (A, D, E, K).
-- **Revolutionary Therapy**: CFTR Modulator drugs (e.g., Ivacaftor/Trikafta) which directly repair the defective protein folding/gating.
+### Primary Gastrointestinal Differentials
+* **Coeliac disease (乳糜瀉)** (for poor growth/steatorrhea)
+* **Food protein-induced enterocolitis syndrome**
+* **Biliary atresia** (in neonatal prolonged jaundice)
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- True MDT disease: Respiratory physician, gastroenterologist, specialist CF nurse, respiratory physiotherapist, dietician, clinical psychologist. Segregation clinics (CF patients cannot mix with other CF patients to prevent cross-infection of superbugs like *Burkholderia cepacia*).
+## 7. Tiered Investigations
+
+### Bedside & First-Line Investigations
+* **Gold Standard: Sweat Chloride Test** (Pilocarpine iontophoresis). Sweat chloride **> 60 mmol/L** on two separate occasions is diagnostic.
+* **Newborn Screening**: Blood spot for elevated **Immunoreactive Trypsinogen (IRT)**.
+
+### Blood & Genetic Investigations
+* **Genetics**: **CFTR gene mutation panel** to confirm specific alleles.
+* **Nutritional Bloods**: Fat-soluble vitamins (A, D, E, K), clotting screen (Vitamin K deficiency), Liver Function Tests (LFTs).
+
+### Respiratory Investigations
+* **Sputum Cultures / Cough Swabs**: Regular monitoring for *Staphylococcus aureus*, *Haemophilus influenzae*, *Pseudomonas aeruginosa*, and *Burkholderia cepacia* complex.
+* **Imaging**: **High-Resolution CT (HRCT) thorax** to detect/monitor bronchiectasis; Chest X-ray showing hyperinflation and cystic changes.
+* **Lung Function**: Spirometry showing **obstructive pattern** (↓ FEV1).
+
+### Gastrointestinal Investigations
+* **Stool Fecal Elastase**: Low in pancreatic exocrine insufficiency.
+
+## 8. Management (Acute, Chronic, HA Protocols)
+
+### Respiratory Management
+* **Airway Clearance**: Daily rigorous chest physiotherapy.
+* **Nebulized Therapies**: 
+  * **Hypertonic saline** (hydrates airway mucus)
+  * **Dornase alfa (DNase)** (cleaves DNA in thick neutrophil-rich pus to reduce viscosity)
+* **Infection Control**: 
+  * Prompt, aggressive **IV antibiotics** for exacerbations.
+  * **Eradication therapy** at first isolation of *Pseudomonas aeruginosa* (e.g., nebulized Colistin/Tobramycin + oral Ciprofloxacin).
+
+### Nutritional & GI Management
+* **Diet**: High calorie (**150% of normal**), high-fat diet.
+* **PERT (Pancreatic Enzyme Replacement Therapy)**: e.g., **Creon**, taken with every meal and snack containing fat.
+* **Vitamin Supplementation**: Daily fat-soluble vitamins (**A, D, E, K**).
+* **Liver Disease**: **Ursodeoxycholic acid (熊去氧膽酸)** to improve bile flow.
+
+### Revolutionary Disease-Modifying Therapy
+* **CFTR Modulators**: e.g., **Ivacaftor / Lumacaftor / Elexacaftor** (Trikafta/Kaftrio). 
+* Directly target the underlying defect to improve CFTR protein folding, trafficking, or channel gating.
+* Radically improves lung function and life expectancy for specific mutation classes.
+
+## 9. MDT & Psychosocial Care
+
+### Multidisciplinary Team (MDT) Approach
+* **True MDT disease**: Requires Respiratory Physician, Gastroenterologist, Specialist CF Nurse, Respiratory Physiotherapist, Dietician, and Clinical Psychologist.
+
+### Infection Control & Segregation
+* **Strict Segregation Clinics**: CF patients **must not mix** with other CF patients.
+* Prevents cross-infection of highly transmissible superbugs (e.g., *Burkholderia cepacia*, *Pseudomonas aeruginosa*).
 
 ## 10. Safeguarding & NAI Red Flags
-- Severe failure to thrive must not be exclusively blamed on CF without ensuring parents are actually administering the complex, burdensome daily regimen (medical neglect risk).
+
+### Medical Neglect Risks
+* **Severe failure to thrive** or rapid respiratory decline must not be exclusively blamed on the disease process.
+* Clinicians must vigilantly assess if parents/carers are consistently administering the complex, burdensome daily regimen (physiotherapy, PERT, nebulizers).
+* Failure to administer treatment constitutes **medical neglect**.
 
 ## 11. Complications & Prognosis
-- Respiratory failure (ultimate cause of death, may require lung transplant).
-- CF-related diabetes (requires insulin, not responsive to oral agents).
-- Male infertility (Congenital bilateral absence of the vas deferens - CBAVD).
+
+### Respiratory Complications
+* **Respiratory failure** (ultimate cause of death, may require lung transplant)
+* **Allergic Broncho-pulmonary Aspergillosis (ABPA)** (asthma-like symptoms, ↑ IgE to Aspergillus)
+* **Pneumothorax (氣胸)**
+* **Haemoptysis (咯血)**
+
+### GI, Endocrine & Reproductive Complications
+* **CF-Related Diabetes (CFRD)**: Requires insulin, unresponsive to oral hypoglycaemics.
+* **Liver Disease**: Hepatic steatosis, focal biliary fibrosis, portal hypertension.
+* **Male Infertility**: >95% have **Congenital Bilateral Absence of the Vas Deferens (CBAVD)** causing obstructive azoospermia.
+
+### Prognosis
+* Average life expectancy has increased drastically from early childhood to the late thirties.
+* Projected life expectancy for current newborns is into the **fifties**, largely due to CFTR modulators.
 
 ## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- **Trap**: Assuming CF is impossible in a Chinese child. While rare, it exists and must be on the differential for *any* child with bronchiectasis and failure to thrive.
-- **Viva Q**: "Why do CF patients get diabetes but usually don't get diabetic ketoacidosis (DKA)?" Answer: The scarring in the pancreas primarily destroys the islet cells progressively. However, they usually maintain *just enough* background insulin production to prevent lipolysis and DKA, but not enough to control post-prandial blood sugars.
+* Trap: Assuming CF is impossible in a Chinese/Asian child.
+* Pearl: While historically rare, CF exists globally and must remain on the differential for any child with unexplained bronchiectasis, persistent wet cough, and failure to thrive.
+* Viva Question: Why do CF patients get diabetes but usually don't get diabetic ketoacidosis (DKA)?
+* Answer: The scarring in the pancreas progressively destroys islet cells. However, they usually maintain just enough background insulin production to prevent lipolysis and DKA, but not enough to control post-prandial blood sugars.
+* Pitfall: Delaying targeted antibiotics for new Pseudomonas isolation while waiting for clinical deterioration.
+* Pearl: Eradication protocols must be initiated immediately upon first isolation of Pseudomonas to prevent it from establishing chronic biofilm infection, which irrevocably accelerates lung function decline.
+* Viva Question: What is the earliest presentation of CF?
+* Answer: Meconium ileus in the first 24-48 hours of life, presenting with failure to pass meconium and bilious vomiting.
