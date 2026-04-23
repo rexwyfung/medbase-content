@@ -1,75 +1,162 @@
 # Diabetic Ketoacidosis (DKA) (糖尿病酮症酸中毒)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: A life-threatening, acute metabolic complication of Diabetes Mellitus (usually Type 1). It is defined by the biochemical triad of **Hyperglycaemia** (Blood Glucose > 11.1 mmol/L), **Ketonaemia** (Blood ketones > 3.0 mmol/L or heavy ketonuria), and **Acidosis** (Venous pH < 7.3 or Bicarbonate < 15 mmol/L).
-- **Local Epidemiology**: A common paediatric medical emergency in Hong Kong. It can be the initial presentation of newly diagnosed Type 1 Diabetes (in up to 30% of cases) or a complication in known diabetics due to missed insulin or intercurrent illness.
+
+### Biochemical Definition of DKA
+**Life-threatening acute metabolic complication** of **Diabetes Mellitus (糖尿病)** (usually Type 1). Defined by a biochemical triad:
+* **Hyperglycaemia (高血糖)**: Blood Glucose > 11.1 mmol/L
+* **Ketonaemia (血酮過高)**: Blood ketones > 3.0 mmol/L (or heavy ketonuria)
+* **Acidosis (酸中毒)**: Venous pH < 7.3 or Bicarbonate < 15 mmol/L
+
+### Severity Grading of DKA
+| Grade | Venous pH | Bicarbonate (HCO3) | Dehydration Estimate |
+| :--- | :--- | :--- | :--- |
+| **Mild (輕度)** | 7.2 – 7.3 | 10 – 15 mmol/L | 5% |
+| **Moderate (中度)** | 7.1 – 7.2 | 5 – 10 mmol/L | 5% |
+| **Severe (重度)** | < 7.1 | < 5 mmol/L | 10% |
+
+### Local Epidemiology in Hong Kong
+* Common paediatric medical emergency in HA hospitals.
+* Accounts for initial presentation of newly diagnosed Type 1 DM in ~30% of cases.
+* Triggered in known diabetics by **missed insulin**, poor compliance, or **intercurrent illness (e.g., infection)**.
 
 ## 2. Pathophysiology & Genetics
-- **Absolute Insulin Deficiency**: The core problem. Without insulin, glucose cannot enter cells. The body perceives a state of starvation despite profound hyperglycaemia.
-- **Counter-regulatory Hormones**: Glucagon, adrenaline, cortisol, and growth hormone surge. This drives massive hepatic gluconeogenesis and glycogenolysis, worsening the hyperglycaemia.
-- **Lipolysis and Ketogenesis**: To provide alternative energy, the body breaks down fat (lipolysis) into free fatty acids, which the liver converts into ketone bodies (acetoacetate and beta-hydroxybutyrate). These are strong acids, rapidly consuming the body's bicarbonate buffer and causing a severe high-anion-gap metabolic acidosis.
-- **Osmotic Diuresis**: The massive hyperglycaemia exceeds the renal threshold, causing glycosuria. This drags water and electrolytes (sodium, potassium, phosphate) out in the urine, leading to profound systemic dehydration and total body electrolyte depletion.
 
-## 3. Clinical Presentation
-- A child presenting with a history of polyuria and polydipsia who has now become lethargic, is vomiting, and breathing heavily.
-- *Crucial*: In a known diabetic, DKA is often triggered by an infection (e.g., gastroenteritis, pneumonia) or omitting insulin doses.
+### Mechanism of Absolute Insulin Deficiency
+* **Absolute Insulin Deficiency (胰島素絕對缺乏)** → glucose cannot enter cells → perceived starvation state despite profound hyperglycaemia.
 
-## 4. Key Symptoms & Signs
-- **Dehydration**: Sunken eyes, dry mucous membranes, decreased skin turgor, tachycardia, prolonged capillary refill time, hypotension (a late and ominous sign).
-- **Kussmaul Breathing**: Deep, rapid, sighing respirations. This is a respiratory compensation to blow off CO2 and reduce the metabolic acidosis.
-- **Fruity Breath Odour**: Smells like acetone (nail polish remover) or pear drops, due to exhaled ketones.
-- **Gastrointestinal**: Severe abdominal pain (can mimic an acute surgical abdomen) and intractable vomiting.
-- **Neurological**: Progressive altered mental status, confusion, lethargy, leading to coma.
+### Role of Counter-regulatory Hormones
+* Surge in **Glucagon, Adrenaline, Cortisol, GH** → massive hepatic gluconeogenesis & glycogenolysis → exacerbates hyperglycaemia.
 
-## 5. Discriminatory Features (How to distinguish from similar conditions)
-- **Hyperosmolar Hyperglycaemic State (HHS)**: More common in Type 2 DM. Characterized by extreme hyperglycaemia and profound dehydration, but *without* significant ketosis or acidosis (because there is just enough residual insulin to prevent lipolysis).
-- **Acute Abdomen (e.g., Appendicitis)**: DKA can cause severe abdominal pain and vomiting. Always check a blood glucose in any child presenting with an acute abdomen before calling the surgeons.
+### Pathophysiology of Lipolysis and Ketogenesis
+* Alternative energy required → **Lipolysis (脂肪分解)** → Free fatty acids (FFAs) → liver converts to **Ketone bodies (酮體)** (acetoacetate & beta-hydroxybutyrate).
+* Ketones are strong acids → consume bicarbonate buffer → **High-anion-gap metabolic acidosis (高陰離子間隙代謝性酸中毒)**.
 
-## 6. Differential Diagnosis
-- Gastroenteritis (often misdiagnosed due to vomiting and dehydration).
-- Acute appendicitis / surgical abdomen.
-- Sepsis.
-- Salicylate poisoning (causes a mixed respiratory alkalosis and metabolic acidosis).
-- Inborn errors of metabolism.
+### Mechanism of Osmotic Diuresis and Dehydration
+* Hyperglycaemia > renal threshold → **Glycosuria (糖尿)** → **Osmotic Diuresis (滲透性利尿)**.
+* Drags water & electrolytes (Na+, K+, PO4-) out in urine → profound systemic dehydration & **total body K+ depletion**.
+* High glucose draws water from intracellular space by osmosis → dilutional **Hyponatraemia (低血鈉)** (making serum Na+ appear falsely low).
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Bedside (Immediate)**: Capillary Blood Glucose (CBG) and Blood Ketones. Urinalysis (glucose +++, ketones +++).
-- **Bloods**:
-  - **Venous Blood Gas (VBG)**: To confirm and grade the acidosis (pH and Bicarbonate).
-  - **U&E**: To assess renal function and electrolytes. *Crucial: Total body potassium is severely depleted, even if the initial serum potassium appears normal or high (due to the acidosis shifting K+ out of cells).*
-  - Laboratory Glucose.
-  - HbA1c (if newly diagnosed).
-  - Septic screen (FBC, Blood cultures, CRP) if an underlying infection is suspected as the trigger.
-- **ECG**: To monitor for signs of hyperkalaemia (peaked T waves) or hypokalaemia (U waves, flat T waves) before and during treatment.
+## 3. Key Symptoms & Signs
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Management is complex and must follow strict HA/BSPED protocols. The goal is slow, steady correction to prevent cerebral oedema.**
-- **1. Fluid Resuscitation**:
-  - If shocked: 10-20 ml/kg of 0.9% Saline as a rapid bolus.
-  - *Deficit Replacement*: Calculate the fluid deficit (assume 5-10% dehydration) and replace it slowly over **48 hours** using 0.9% Saline. *Do not rehydrate too quickly.*
-- **2. Potassium Replacement**:
-  - Add Potassium Chloride (KCl) to the IV fluids immediately (once the patient has passed urine and serum K+ is < 5.5 mmol/L). Insulin will drive K+ back into cells, causing a precipitous and potentially fatal drop in serum potassium if not replaced.
-- **3. Insulin Therapy**:
-  - Start an **IV Insulin Infusion** (usually 0.05 to 0.1 units/kg/hour) *at least 1 hour AFTER* starting IV fluids.
-  - *Never give an IV insulin bolus in paediatric DKA.*
-- **4. Dextrose Addition**:
-  - Once the blood glucose falls to ~14 mmol/L, add 5% or 10% Dextrose to the IV fluids. The insulin infusion MUST continue to clear the ketones and fix the acidosis; the dextrose prevents hypoglycaemia while the insulin does its job.
+### Classic Early Symptoms of Diabetes
+* **Polyuria (多尿)**
+* **Polydipsia (多飲)**
+* **Weight loss (體重下降)**
+* Secondary enuresis (尿床)
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- **PICU/HDU**: Severe DKA (pH < 7.1) requires admission to an intensive care setting for 1-to-1 nursing and hourly neurological/biochemical monitoring.
-- **Diabetes Specialist Nurse & Dietitian**: Crucial for education on insulin administration, carbohydrate counting, and sick day rules once the child recovers.
+### Late Signs Indicating DKA Progression
+* **Fruity Breath Odour**: Acetone smell.
+* **Gastrointestinal**: Intractable vomiting, severe abdominal pain (can mimic acute surgical abdomen).
+* **Kussmaul Breathing (庫斯莫爾氏呼吸)**: Deep, rapid, sighing respirations (respiratory compensation to blow off CO2).
+* **Neurological**: Drowsiness, confusion, ↓ GCS, leading to coma.
 
-## 10. Safeguarding & NAI Red Flags
-- Recurrent DKA in a known diabetic child is a major red flag for medical neglect, poor supervision, or severe psychosocial distress (e.g., a teenager deliberately omitting insulin to lose weight - "diabulimia").
+### Clinical Signs of Dehydration and Shock
+* Sunken eyes, dry mucous membranes, ↓ skin turgor.
+* **Tachycardia (心跳過速)** (early sign of shock).
+* Weak thready pulses, prolonged capillary refill time (>2s).
+* **Hypotension (低血壓)** (late & ominous sign of decompensated shock).
 
-## 11. Complications & Prognosis
-- **Cerebral Oedema**: The most feared and fatal complication of paediatric DKA.
-  - *Risk factors*: Young age, newly diagnosed, severe acidosis, rapid fluid administration, early insulin administration.
-  - *Signs*: Headache, slowing heart rate (bradycardia), rising blood pressure, decreasing GCS, unequal pupils.
-  - *Treatment*: Immediate IV Mannitol or Hypertonic Saline. Do not wait for a CT scan.
-- **Hypokalaemia**: Can cause fatal cardiac arrhythmias.
+## 4. Discriminatory Features (How to distinguish from similar conditions)
 
-## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- *Viva*: "Why do we wait at least 1 hour after starting IV fluids before starting the IV insulin infusion in paediatric DKA?" (To reduce the risk of cerebral oedema. Rapid shifts in osmolality caused by simultaneous fluid and insulin administration can draw water into the brain cells).
-- *Viva*: "A child in DKA has a serum potassium of 4.5 mmol/L on admission. Why must you add potassium to their IV fluids?" (Because their *total body* potassium is severely depleted due to osmotic diuresis. The serum level appears normal only because the acidosis has shifted potassium out of the cells. Once you give insulin, potassium will be driven back into the cells, causing a sudden, dangerous hypokalaemia).
-- *Pitfall*: Stopping the insulin infusion just because the blood glucose has normalized. The insulin must continue until the *acidosis and ketosis* have resolved. You add dextrose to the fluids to prevent hypoglycaemia while continuing the insulin.
+### DKA vs. Hyperosmolar Hyperglycaemic State (HHS)
+| Feature | DKA | HHS (高滲透壓高血糖狀態) |
+| :--- | :--- | :--- |
+| **Typical Patient** | Type 1 DM (children/young adults) | Type 2 DM (older, obese) |
+| **Blood Glucose** | > 11.1 mmol/L (often 20-30) | Extremely ↑↑ (often > 33 mmol/L) |
+| **Ketosis & Acidosis** | Severe (pH < 7.3, Ketones > 3.0) | Minimal/Absent (residual insulin prevents lipolysis) |
+| **Dehydration** | Profound | Extreme |
+
+### DKA vs. Acute Surgical Abdomen
+* DKA classically causes severe vomiting & abdominal pain mimicking appendicitis. 
+* **Crucial Discriminator**: Always check Capillary Blood Glucose (CBG) & ketones in any child with acute abdomen. In DKA, Kussmaul breathing & polyuria precede the abdominal pain.
+
+## 5. Differential Diagnosis
+
+### Common Misdiagnoses for DKA
+* **Gastroenteritis (腸胃炎)**: Misdiagnosed due to vomiting & dehydration.
+* **Acute Appendicitis (急性盲腸炎)**: Misdiagnosed due to acute abdomen.
+* **Sepsis / Pneumonia (敗血症/肺炎)**: Misdiagnosed due to tachypnoea & tachycardia.
+* **Salicylate Poisoning**: Causes mixed respiratory alkalosis & metabolic acidosis.
+* **Inborn Errors of Metabolism**: Organic acidaemias present with acidosis & vomiting in neonates/infants.
+
+## 6. Tiered Investigations
+
+### Immediate Bedside Investigations
+* **Capillary Blood Glucose (CBG)**: > 11.1 mmol/L.
+* **Blood Ketones (血酮)**: > 3.0 mmol/L (superior to urine ketones).
+* **Urinalysis**: Glucose +++, Ketones +++.
+
+### Essential Urgent Blood Tests
+* **Venous Blood Gas (VBG)**: Check pH & HCO3 to grade severity.
+* **U&E + Creatinine**: Assess renal function, calculate anion gap, and monitor **Potassium (K+)** & Sodium (Na+).
+* **Laboratory Glucose & HbA1c**: For formal diagnosis & baseline control assessment.
+* **Septic Screen**: FBC, Blood cultures, CRP (infection is a primary trigger).
+
+### Essential Cardiac Monitoring
+* **ECG**: Continuous monitoring for **Hyperkalaemia (高血鉀)** (peaked T waves) or **Hypokalaemia (低血鉀)** (U waves, flat T waves, ST depression).
+
+## 7. Management (Acute, Chronic, HA Protocols)
+
+### 1st Line Resuscitation and Initial Fluid Bolus
+* **Assess for Shock**: Tachycardia, poor perfusion, weak pulses.
+* **If Shocked**: **20 ml/kg 0.9% NaCl** rapid IV bolus.
+* **If NOT Shocked**: **10 ml/kg 0.9% NaCl** IV bolus over 1 hour.
+* *Do NOT give bicarbonate to correct acidosis (increases risk of cerebral oedema).*
+
+### Deficit Calculation & Rehydration Phase
+* **Calculate Deficit**: Assume **5% dehydration** if pH > 7.1; assume **10% dehydration** if pH < 7.1.
+* **Rate**: Replace deficit slowly over **48 hours** to avoid rapid osmolality shifts.
+* **Maintenance + Deficit Fluid**: Initially use **0.9% NaCl**. Add **20 mmol KCl per 500ml bag**.
+
+### Intravenous Insulin Therapy Protocol
+* **Timing**: Start IV Insulin Infusion **1 hour AFTER** starting IV fluids. *Never give IV insulin bolus.*
+* **Dose**: **0.05 units/kg/hour** (consider doubling in severe DKA if unresponsive).
+* **Endpoint**: Continue IV insulin until pH > 7.3 and blood ketones < 1.0 mmol/L.
+
+### Potassium Replacement Strategy
+* Add **Potassium Chloride (KCl)** to IV fluids early (once urine output confirmed & serum K+ < 5.5 mmol/L).
+* Insulin drives K+ intracellularly → profound **Hypokalaemia** will occur if not preemptively replaced.
+
+### Dextrose Addition and Hypoglycaemia Prevention
+* When Blood Glucose falls to **< 14 mmol/L**, change IV fluids to include **5% Dextrose** (i.e., 5% Dextrose + 0.9% NaCl + 20 mmol KCl/500ml).
+* **DO NOT STOP INSULIN** when glucose normalizes. Insulin must continue to clear ketones. Dextrose prevents hypoglycaemia.
+
+## 8. MDT & Psychosocial Care
+
+### PICU / HDU Admission Criteria
+* Severe DKA (pH < 7.1), age < 2 years, or altered GCS mandates **PICU/HDU (深切治療部)** admission for 1-to-1 nursing & strict hourly neuro/biochemical obs.
+
+### Specialist Team Involvement
+* **Paediatric Diabetes Specialist Nurse (PDSN) & Dietitian**: Crucial for post-acute education (injection technique, carbohydrate counting, sick-day rules, recognizing "hypos").
+* **Clinical Psychologist**: Addresses disease burden, needle phobia, and teenage burnout.
+
+## 9. Safeguarding & NAI Red Flags
+
+### Medical Neglect and Non-Adherence
+* **Recurrent DKA**: Major red flag for medical neglect, poor parental supervision, or severe psychosocial distress.
+* **Diabulimia**: Teenagers deliberately omitting insulin to induce weight loss via osmotic diuresis. Requires MSW/Clinical Psychology intervention.
+
+## 10. Complications & Prognosis
+
+### Cerebral Oedema (腦水腫) - The Fatal Complication
+* **Risk Factors**: Young age, newly diagnosed, severe acidosis, rapid fluid boluses, early insulin administration (<1 hr).
+* **Signs**: Headache, ↓ heart rate (bradycardia), ↑ BP, decreasing GCS (<15), unequal pupils.
+* **Emergency Treatment**: Immediate **3 ml/kg of 2.7% NaCl (Hypertonic Saline) IV** OR **1 g/kg Mannitol IV**. Do NOT wait for CT head to initiate treatment.
+
+### Electrolyte & Cardiac Complications
+* **Hypokalaemia (低血鉀)**: Fatal cardiac dysrhythmias during insulin therapy.
+* **Hyponatraemia (低血鈉)**: Worsening or failure of Na+ to rise as glucose falls indicates impending cerebral oedema.
+
+## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
+
+* Viva Question: Why must you wait at least 1 hour after starting IV fluids before commencing the IV insulin infusion in paediatric DKA?
+  Answer: To reduce the risk of cerebral oedema. Simultaneous rapid fluid expansion and insulin-driven osmotic shifts draw water directly into brain cells.
+* Viva Question: A child in DKA has a normal serum potassium of 4.5 mmol/L on admission. Why must you still add KCl to their IV fluids?
+  Answer: Total body potassium is severely depleted due to osmotic diuresis. Serum levels appear normal only because extracellular acidosis shifts K+ out of cells. Initiating insulin drives K+ back intracellularly, precipitating sudden fatal hypokalaemia.
+* Trap: Giving IV Bicarbonate to correct severe acidosis in DKA.
+  Pearl: Avoid IV Bicarbonate. It causes paradoxical intracellular CNS acidosis, worsening hypokalaemia, and drastically increases the risk of cerebral oedema. Acidosis corrects spontaneously with fluids and insulin.
+* Pitfall: Stopping the IV insulin infusion because the blood glucose has reached normal levels (e.g., 6.0 mmol/L).
+  Insulin must NOT be stopped until acidosis and ketosis are fully resolved. You must add IV Dextrose to the fluids to maintain blood glucose while continuing the insulin infusion to switch off ketogenesis.
+* Viva Question: What is the immediate medical management for a child in DKA who suddenly develops bradycardia, hypertension, and a drop in GCS?
+  Answer: This is cerebral oedema. Give immediate IV Hypertonic Saline (2.7% NaCl) or IV Mannitol. Do not delay treatment for a CT scan.

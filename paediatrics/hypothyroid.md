@@ -1,73 +1,125 @@
 # Congenital Hypothyroidism (先天性甲狀腺功能低下症)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: Inadequate thyroid hormone production present at birth. It is one of the most common preventable causes of severe intellectual disability.
-- **Local Epidemiology**: Incidence is approximately 1 in 2,000 to 3,000 live births. It is a core component of the universal Neonatal Screening Programme in Hong Kong.
+### Clinical Definition of Congenital Hypothyroidism
+* Inadequate thyroid hormone (**T4/T3**) production present at birth.
+* Major preventable cause of severe intellectual disability (**cretinism**).
+
+### Local Epidemiology in Hong Kong
+* Incidence: ~1 in 2,000–3,000 live births (♀ > ♂).
+* Core component of **HA Universal Neonatal Screening Programme** (heel prick on day 3-5).
 
 ## 2. Pathophysiology & Genetics
-- **Thyroid Hormone Function**: Crucial for normal brain development and somatic growth in the first 2-3 years of life.
-- **Aetiology**:
-  - **Thyroid Dysgenesis (85%)**: The most common cause. The thyroid gland is absent (agenesis), underdeveloped (hypoplasia), or located in an abnormal position (ectopic, usually sublingual). Mostly sporadic.
-  - **Thyroid Dyshormonogenesis (10-15%)**: An inborn error of metabolism affecting the synthesis of thyroid hormones despite a structurally normal gland. Usually autosomal recessive. Often associated with a goitre.
-  - **Central Hypothyroidism (Rare)**: Pituitary or hypothalamic dysfunction (TSH deficiency).
-  - **Transient Hypothyroidism**: Due to maternal antithyroid antibodies, maternal iodine deficiency, or excess iodine exposure (e.g., topical iodine used during delivery).
+### Normal Fetal & Neonatal Thyroid Physiology
+* Fetal thyroid produces mostly inactive reverse T3.
+* Postnatal surge in **TSH** → ↑ T4 and T3 (TSH normalizes within 1 week).
+* Thyroid hormone is critical for somatic growth & central nervous system (**CNS**) myelination in the first 2-3 years.
+
+### Primary Aetiologies
+* **Thyroid Dysgenesis (85%)**: Most common, mostly sporadic. Gland is absent (**agenesis**), underdeveloped (**hypoplasia**), or abnormally migrated from the base of the tongue (**ectopic/sublingual**).
+* **Thyroid Dyshormonogenesis (10-15%)**: Inborn error of T4/T3 synthesis. Structurally normal gland, often **goitre** +ve. Autosomal recessive.
+
+### Secondary & Transient Aetiologies
+* **Central Hypothyroidism (<1%)**: Pituitary/hypothalamic dysfunction (↓ TSH).
+* **Transient Hypothyroidism**: Secondary to maternal anti-thyroid antibodies, maternal iodine deficiency, or excess iodine exposure (e.g., topical iodine during delivery).
 
 ## 3. Clinical Presentation
-- **The vast majority of infants are completely ASYMPTOMATIC at birth.** This is because some maternal thyroxine (T4) crosses the placenta, providing temporary protection.
-- The diagnosis is almost always made via the **Neonatal Heel Prick Test (Guthrie card)** on day 3-5 of life.
-- If screening is missed, clinical signs develop insidiously over the first few weeks/months, by which time irreversible brain damage may have occurred.
+### Immediate Neonatal Presentation
+* Vast majority are completely **ASYMPTOMATIC** at birth.
+* Transplacental maternal **T4** transfer provides temporary protection.
+* Diagnosis almost exclusively via **Neonatal Heel Prick Test (Guthrie card)**.
 
-## 4. Key Symptoms & Signs (If screening is missed)
-- **"The Good Baby"**: Parents may describe the baby as very quiet, sleeping all the time, and rarely crying.
-- **Physical Features**:
-  - Prolonged neonatal jaundice (unconjugated).
-  - Large, protruding tongue (macroglossia).
-  - Hoarse cry.
-  - Coarse facial features, puffy face.
-  - Large anterior and posterior fontanelles.
-  - Umbilical hernia.
-  - Hypotonia ("floppy baby").
-  - Cool, mottled, dry skin.
-  - Bradycardia.
-  - Constipation and poor feeding.
+### Delayed Clinical Presentation
+* Insidious onset over first few weeks/months if screening is missed.
+* By the time symptoms manifest, irreversible brain damage has likely occurred.
+
+## 4. Key Symptoms & Signs
+### Classic Symptoms in the Unscreened Infant
+* "The Good Baby": Quiet, excessive sleep, rarely cries, poor feeding.
+* Constipation.
+* Hoarse cry.
+
+### Classic Physical Signs in the Unscreened Infant
+* Prolonged neonatal jaundice (unconjugated).
+* **Macroglossia** (Large, protruding tongue) (巨舌症).
+* Coarse facial features, puffy face.
+* Large anterior & posterior fontanelles.
+* **Umbilical hernia** (臍疝).
+* **Hypotonia** ("floppy baby") (肌張力低下).
+* Cool, mottled, dry skin.
+* Bradycardia (↓ HR).
+* Faltering growth.
 
 ## 5. Discriminatory Features (How to distinguish from similar conditions)
-- **Down Syndrome (Trisomy 21)**: Shares features like hypotonia, macroglossia, and umbilical hernia. However, Down syndrome has distinct dysmorphic features (upward slanting palpebral fissures, single palmar crease) and is diagnosed clinically at birth. *Note: Children with Down syndrome have a high risk of developing hypothyroidism.*
+### Distinguishing from Down Syndrome (Trisomy 21)
+* Shares hypotonia, macroglossia, and umbilical hernia.
+* **Discriminator**: Down syndrome presents with specific dysmorphic features (upward slanting palpebral fissures, single palmar crease, epicanthic folds) readily clinically diagnosed at birth. Note: Down syndrome patients have ↑ risk of developing hypothyroidism.
+
+### Distinguishing from Beckwith-Wiedemann Syndrome
+* Shares macroglossia and umbilical hernia.
+* **Discriminator**: Beckwith-Wiedemann features macrosomia, hemihypertrophy, and neonatal hypoglycaemia, but NOT global developmental delay or bradycardia.
 
 ## 6. Differential Diagnosis
-- Down Syndrome.
-- Beckwith-Wiedemann Syndrome (macroglossia, umbilical hernia).
-- Sepsis (can present with lethargy, poor feeding, hypothermia).
-- Congenital heart disease.
+### Differential Diagnosis Table
+| Condition | Key Differentiating Features |
+| :--- | :--- |
+| **Down Syndrome** | Dysmorphic facies, single palmar crease, congenital heart defects |
+| **Beckwith-Wiedemann Syndrome** | Macrosomia, hemihypertrophy, neonatal hypoglycaemia, omphalocele |
+| **Sepsis** | Fever/hypothermia, tachycardia/bradycardia, ↑ CRP, +ve blood culture |
+| **Congenital Heart Disease** | Cyanosis, murmurs, signs of heart failure (hepatomegaly, tachypnoea) |
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Neonatal Screening (Heel Prick)**: Measures **TSH** (Thyroid Stimulating Hormone). If TSH is elevated, the lab immediately recalls the infant.
-- **Confirmatory Venous Bloods**:
-  - **Free T4 (Low) and TSH (Markedly Elevated)**: Confirms primary congenital hypothyroidism.
-  - *(Note: If Free T4 is low but TSH is also low/normal, suspect central hypothyroidism).*
-- **Imaging (Optional but helpful for aetiology)**:
-  - **Thyroid Ultrasound**: To check for the presence, size, and location of the thyroid gland in the neck.
-  - **Radionuclide Thyroid Scan (Technetium-99m or Iodine-123)**: To definitively identify an ectopic gland (e.g., sublingual) or confirm agenesis.
+## 7. Tiered Investigations
+### Gold Standard Screening Investigation
+* **Neonatal Screening (Heel Prick)**: Measures **TSH**. If ↑ TSH, urgent lab recall triggered.
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Levothyroxine (L-T4) Replacement**:
-  - **Time-Critical**: Treatment MUST be started as early as possible, ideally within the first **2 weeks of life**, to prevent irreversible intellectual disability.
-  - *Dose*: High initial dose (10-15 mcg/kg/day) to rapidly normalize T4 levels in the brain.
-  - *Administration*: The tablet must be crushed and mixed with a small amount of breast milk or water. *Crucial: Do NOT mix with soy formula or iron/calcium supplements, as these severely inhibit absorption.*
-**Monitoring**: Frequent blood tests (Free T4 and TSH) are required (e.g., every 1-2 months in the first year) to ensure levels are in the upper half of the normal range to optimize brain development.
+### Confirmatory Blood Investigations
+* **Thyroid Function Tests (TFTs)**:
+    * **Primary Hypothyroidism**: ↓ Free T4, ↑↑ TSH.
+    * **Central Hypothyroidism**: ↓ Free T4, ↓/normal TSH.
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- **Paediatric Endocrinology**: Manages the long-term titration of Levothyroxine.
-- **Developmental Assessment**: Regular monitoring of developmental milestones to ensure treatment is effective.
+### Aetiological Imaging Investigations (Optional)
+* **Thyroid Ultrasound (US)**: Assesses presence, size, location (differentiates agenesis vs. hypoplasia).
+* **Radionuclide Thyroid Scan (Technetium-99m/Iodine-123)**: Definitively identifies ectopic tissue (e.g., sublingual).
+
+## 8. Management (Acute, Chronic, HA Protocols)
+### Acute Pharmacological Management
+* **Levothyroxine (L-T4) Replacement** (左甲狀腺素):
+    * **Time-Critical**: MUST initiate < 2 weeks of life to prevent irreversible intellectual disability.
+    * **Dose**: High initial dose (10-15 mcg/kg/day) to rapidly normalize CNS T4 levels.
+
+### Administration Protocols
+* Crush tablet, mix with small volume breast milk/water.
+* **CRITICAL**: Do NOT mix with soy formula, iron, or calcium supplements (severely inhibits absorption).
+
+### Chronic Monitoring & Follow-up
+* Frequent TFT monitoring (every 1-2 months in 1st year).
+* Target: Maintain Free T4 in upper half of normal range, TSH in normal range, to optimize CNS development & somatic growth.
+* Lifelong therapy required.
+
+## 9. MDT & Psychosocial Care
+### Multidisciplinary Team Involvement
+* **Paediatric Endocrinology**: Manages long-term L-T4 titration & growth charting.
+* **Maternal and Child Health Centre (MCHC)** (母嬰健康院): Regular developmental milestone screening.
+* **Medical Social Worker (MSW)**: Support for family adjustment and ensuring treatment compliance.
 
 ## 10. Safeguarding & NAI Red Flags
-- Medical neglect: Failure of parents to administer the daily Levothyroxine or attend follow-up blood tests is a critical safeguarding issue, as it will result in severe, permanent brain damage.
+### Medical Neglect Concerns
+* Failure of parents to administer daily L-T4 or defaulting on follow-up blood tests is a critical safeguarding issue.
+* Untreated hypothyroidism guarantees severe, permanent brain damage.
+* Mandates immediate **MSW** / **Social Welfare Department (SWD)** intervention if compliance is suspected to be poor.
 
 ## 11. Complications & Prognosis
-- **Untreated**: Severe, irreversible intellectual disability (cretinism), stunted growth, and neurological deficits (spasticity, deafness).
-- **Prognosis**: **Excellent** if diagnosed via screening and treated promptly within the first 2 weeks of life. These children have normal intelligence, growth, and development.
+### Untreated Complications
+* Severe, irreversible intellectual disability (**Cretinism**).
+* Stunted growth (short stature).
+* Neurological deficits (spasticity, sensorineural deafness).
+
+### Treated Prognosis
+* **Excellent**: If diagnosed via screening & treated prompt < 2 weeks of life.
+* Results in normal intelligence, growth, and development.
 
 ## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- *Viva*: "Why are most infants with congenital hypothyroidism completely asymptomatic at birth?" (Because maternal thyroxine crosses the placenta during pregnancy, providing sufficient thyroid hormone to prevent symptoms in the immediate neonatal period).
-- *Viva*: "What is the most common cause of congenital hypothyroidism?" (Thyroid dysgenesis - an absent or ectopic thyroid gland).
-- *Pitfall*: Waiting for clinical signs of hypothyroidism to appear before starting treatment. By the time features like macroglossia and an umbilical hernia develop, irreversible brain damage has likely already occurred. Rely on the neonatal screening result.
+* Viva Question: Why are most infants with congenital hypothyroidism completely asymptomatic at birth? Answer: Maternal thyroxine (T4) crosses the placenta during pregnancy, providing sufficient thyroid hormone to prevent symptoms in the immediate neonatal period.
+* Viva Question: What is the most common cause of congenital hypothyroidism? Answer: Thyroid dysgenesis (an absent or ectopic sublingual thyroid gland).
+* Pitfall: Waiting for clinical signs of hypothyroidism to appear before starting treatment. By the time features like macroglossia and an umbilical hernia develop, irreversible brain damage has likely already occurred. Always rely on the neonatal screening result.
+* Trap: Prescribing standard formula feeds without specific counseling. Pearl: Advise parents to strictly avoid soy-based formula, iron, and calcium supplements near the time of levothyroxine administration as these agents severely inhibit drug absorption.

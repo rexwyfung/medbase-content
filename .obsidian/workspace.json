@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "467bc82b710014d5",
+        "id": "f097c1dbd8201f69",
         "type": "tabs",
         "children": [
           {
-            "id": "c27fd9e9f46a76f1",
+            "id": "f88f12453900a8f0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -181,14 +181,23 @@
       "custom-image-auto-uploader:Custom Image Auto Uploader": false
     }
   },
-  "active": "c27fd9e9f46a76f1",
+  "active": "f88f12453900a8f0",
   "lastOpenFiles": [
+    "paediatrics/rickets.md",
+    "paediatrics/hyperthyroidism.md",
+    "paediatrics/precocious_puberty.md",
+    "paediatrics/delayed_puberty.md",
+    "paediatrics/short_stature.md",
+    "paediatrics/rheumatic_fever.md",
+    "paediatrics/turner.md",
+    "paediatrics/t1dm.md",
+    "paediatrics/hypothyroid.md",
+    "paediatrics/dka.md",
     "paediatrics/auto_inflammatory.md",
     "paediatrics/jdms.md",
     "paediatrics/jsle.md",
     "paediatrics/juvenile_idiopathic_arthritis.md",
     "paediatrics/hsp.md",
-    "paediatrics/rheumatic_fever.md",
     "paediatrics/dyslexia_dld.md",
     "paediatrics/deafness.md",
     "paediatrics/angelman.md",
@@ -200,15 +209,6 @@
     "paediatrics/enuresis.md",
     "paediatrics/down_syndrome.md",
     "paediatrics/bacterial_tracheitis.md",
-    "paediatrics/primary_ciliary_dyskinesia.md",
-    "paediatrics/cystic_fibrosis.md",
-    "paediatrics/osa.md",
-    "paediatrics/tuberculosis.md",
-    "paediatrics/croup.md",
-    "paediatrics/pneumonia.md",
-    "paediatrics/bronchiolitis.md",
-    "paediatrics/myasthenia_gravis.md",
-    "paediatrics/bells_palsy.md",
     "extract_notes.sh",
     "FMCC",
     "paediatrics"
