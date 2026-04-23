@@ -1,62 +1,153 @@
-
 # Spinal Muscular Atrophy (SMA) (脊髓性肌肉萎縮症)
+
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: An autosomal recessive neuromuscular disorder characterised by the progressive degeneration of alpha motor neurons in the anterior horn of the spinal cord, leading to progressive proximal muscle weakness and atrophy.
-- **Local Epidemiology**: Carrier frequency is ~1 in 40-50. A major cause of genetic infant mortality. Managed at specialised neuromuscular centres (e.g., HKCH, QMH).
+
+### Clinical Definition of SMA
+* **Autosomal recessive (AR)** neuromuscular disorder.
+* Progressive degeneration of **alpha motor neurons** in anterior horn of spinal cord.
+* → Progressive proximal muscle weakness & atrophy.
+
+### Local Epidemiology & Demographics
+* Carrier frequency ~1 in 40-50 in Hong Kong.
+* Major cause of genetic infant mortality.
+* Managed at HA specialized neuromuscular centres (e.g., **HKCH**, **QMH**).
+* **Newborn screening (NBS)** (新生兒篩查) implemented in select HA clusters to enable pre-symptomatic treatment.
 
 ## 2. Pathophysiology & Genetics
-- **Genetics**: Autosomal Recessive. Homozygous deletion or mutation of the *SMN1* (Survival Motor Neuron 1) gene on Chromosome 5q.
-- **Pathophysiology**: Lack of SMN protein leads to motor neuron death.
-- **The *SMN2* Gene**: A nearly identical backup gene that produces mostly non-functional protein, but ~10% functional SMN protein. The *number of SMN2 copies* determines the phenotypic severity (more copies = milder disease).
 
-## 3. Clinical Presentation
-- See below.
+### SMN1 Gene Mutation Pathophysiology
+* **Genetics**: Autosomal Recessive.
+* Homozygous deletion or mutation of **SMN1** (Survival Motor Neuron 1) gene on **Chromosome 5q**.
+* Lack of SMN protein → anterior horn cell apoptosis → Wallerian degeneration of motor axons → flaccid paralysis.
 
-## 4. Key Symptoms & Signs
-- **Type 1 (Werdnig-Hoffmann disease)**: Most severe and common (60%). Onset < 6 months. Never sit independently. Profound hypotonia, "frog-leg" posture, **tongue fasciculations**, absent reflexes, bell-shaped chest (diaphragmatic breathing due to intercostal weakness), bright and alert appearance.
-- **Type 2**: Onset 6-18 months. Can sit, but never walk independently. Fine tremor of fingers, progressive scoliosis.
-- **Type 3 (Kugelberg-Welander disease)**: Onset > 18 months. Can walk independently, but may lose the ability later. Proximal weakness, frequent falls.
-## 5. Discriminatory Features (How to distinguish from similar conditions)
-- **Congenital Myopathies**: May present similarly, but lack tongue fasciculations and have different genetic/biopsy findings.
-- **Duchenne Muscular Dystrophy**: Presents later (toddlers), primarily in boys, with massively elevated CK and calf pseudohypertrophy.
+### The SMN2 Backup Gene Mechanism
+* **SMN2** is a nearly identical backup gene.
+* Produces ~90% truncated/non-functional protein & ~10% functional SMN protein due to alternate splicing (exon 7 skipping).
+* Phenotypic severity is inversely proportional to **SMN2 copy number** (↑ copies = milder disease).
 
-## 6. Differential Diagnosis
-- **Most Likely**:
-  - SMA (in a floppy infant with absent reflexes and alert expression).
-- **Must-Not-Miss**:
-  - SMA Type 1 (requires urgent diagnosis to initiate life-saving therapy before irreversible motor neuron loss occurs).
+## 3. Key Symptoms & Signs
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Bedside**:
-  - **Clinical Exam**: Profound hypotonia, areflexia, tongue fasciculations.
-  - **Creatine Kinase (CK)**: Normal or only mildly elevated (differentiates from muscular dystrophies).
-- **Gold Standard**:
-  - **Genetic Testing**: Targeted mutation analysis for *SMN1* deletion (diagnostic). *SMN2* copy number analysis (prognostic).
-- **Monitoring**:
-  - Regular monitoring of respiratory function (FVC, sleep studies) and swallowing.
+### SMA Phenotype Classification Table
+| Type | Name | Onset | Highest Motor Milestone | Key Clinical Signs |
+| :--- | :--- | :--- | :--- | :--- |
+| **0** | Neonatal | Prenatal / Birth | None | Arthrogryposis (關節攣縮), severe respiratory failure at birth. |
+| **1** | Werdnig-Hoffmann | < 6 months | Never sit | Profound hypotonia, areflexia, tongue fasciculations, bell-shaped chest. |
+| **2** | Intermediate | 6-18 months | Sit, never walk | Polyminimyoclonus (fine tremor), progressive scoliosis. |
+| **3** | Kugelberg-Welander | > 18 months | Walk independently | Proximal weakness, frequent falls, +ve Gowers' sign. |
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Acute**:
-  - Type 1 infants often present with acute respiratory failure triggered by a mild URTI. Require aggressive airway clearance and non-invasive ventilation (BiPAP).
-- **Chronic/Definitive**:
-  - **Disease-Modifying Therapies (Revolutionised SMA care, available in HK HA system)**:
-1. **Nusinersen (Spinraza)**: Antisense oligonucleotide given via repeated intrathecal injections. Modifies *SMN2* splicing to produce more functional protein.
-2. **Risdiplam (Evrysdi)**: Oral small molecule that also modifies *SMN2* splicing.
-3. **Onasemnogene abeparvovec (Zolgensma)**: AAV9 viral vector gene replacement therapy (delivers a functional *SMN1* gene). Given as a single IV infusion for young infants.
-- **Supportive Care**:
-  - *Respiratory*: Cough assist devices, BiPAP for sleep hypoventilation.
-  - *Nutrition*: Gastrostomy tube (PEG) for unsafe swallow.
-  - *Orthopaedic*: Management of scoliosis and contractures.
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- Highly complex MDT care involving Neurologists, Respiratory physicians, Orthopaedics, PT/OT/ST, and Dietitians.
-## 10. Safeguarding & NAI Red Flags
-- Genetic counselling for parents (25% recurrence risk). Discussing the high cost and eligibility criteria for novel therapies requires careful communication and MSW support.
+### Pathognomonic Clinical Signs of Type 1 SMA
+* **Posture**: Profound hypotonia & "frog-leg" posture (abducted/externally rotated hips).
+* **Neurological**: Absent deep tendon reflexes (areflexia).
+* **Bulbar**: Weak cry, poor suck, pooling of secretions, **tongue fasciculations** (舌頭肌肉跳動).
+* **Respiratory**: **Bell-shaped chest** (鐘形胸) due to severe intercostal weakness with spared diaphragmatic breathing.
+* **Facies**: Bright, alert expression (cognition entirely spared).
 
-## 11. Complications & Prognosis
-- **Untreated Type 1**: Death from respiratory failure usually < 2 years of age.
-- **Treated**: Prognosis is dramatically improving, with Type 1 infants achieving sitting and even walking milestones if treated early (ideally pre-symptomatically).
+## 4. Discriminatory Features (How to distinguish from similar conditions)
 
-## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- **Trap**: Saying the intellect is impaired. *Pearl*: Children with SMA have completely normal (often above average) intelligence. Their eyes are bright and engaging despite profound weakness.
-- **Local Pearl**: Be aware of the recent introduction of newborn screening for SMA in some HK hospitals, allowing for pre-symptomatic treatment with Zolgensma or Nusinersen, which yields the best outcomes.
+### SMA vs Duchenne Muscular Dystrophy (DMD)
+| Feature | SMA Type 1/2 | Duchenne Muscular Dystrophy (DMD) |
+| :--- | :--- | :--- |
+| **Genetics** | Autosomal Recessive | X-linked Recessive (Boys) |
+| **Onset** | Infant / early toddler | Preschool / School-age |
+| **Key Signs** | Tongue fasciculations, bell-shaped chest | Calf pseudohypertrophy |
+| **Reflexes** | Absent early | Preserved initially, lost late |
+| **Creatine Kinase (CK)** | Normal / Mildly ↑ | Massively ↑↑↑ (>10,000s) |
 
+### SMA vs Congenital Myopathies
+* **SMA**: Areflexia occurs very early, fasciculations +ve, *SMN1* deletion +ve.
+* **Myopathies**: Reflexes preserved relative to weakness, fasciculations -ve, distinct muscle biopsy/genetic findings.
+
+## 5. Differential Diagnosis
+
+### Most Likely Diagnoses for Floppy Infant Syndrome
+* **Spinal Muscular Atrophy (SMA)** (脊髓性肌肉萎縮症)
+* **Congenital Muscular Dystrophy**
+* **Prader-Willi Syndrome** (Dysmorphic facies, cryptorchidism, poor feeding).
+* **Hypotonic Cerebral Palsy** (History of HIE/perinatal insult).
+
+### Must-Not-Miss Acute Diagnoses in Floppy Infants
+* **Infant Botulism**: Constipation → descending flaccid paralysis (ptosis, bulbar weakness).
+* **Guillain-Barré Syndrome**: Acute post-infectious ascending paralysis.
+* **Pompe Disease**: Glycogen storage disorder II → profound hypotonia + massive cardiomegaly.
+
+## 6. Tiered Investigations
+
+### Bedside Neurological Investigations
+* **Clinical Exam**: Tone ↓↓, reflexes absent, tongue fasciculations.
+* **Pulse Oximetry**: Monitor for nocturnal hypoventilation/basal hypoxia.
+
+### Blood & Laboratory Investigations
+* **Creatine Kinase (CK)**: Normal or mildly ↑ (<5x upper limit). Helps rule out muscular dystrophies.
+
+### Gold Standard Diagnostic Testing
+* **Genetic Testing**: Targeted mutation analysis for **SMN1 deletion** (Diagnostic).
+* **SMN2 Copy Number Analysis**: Prognostic indicator & mandatory for determining targeted therapy eligibility.
+
+### Baseline & Chronic Monitoring Investigations
+* **Respiratory**: Polysomnography (sleep study) for hypoventilation, FVC (forced vital capacity).
+* **Swallow**: Videofluoroscopy to assess aspiration risk.
+* **Orthopaedic**: Spinal X-Rays for scoliosis monitoring.
+
+## 7. Management (Acute, Chronic, HA Protocols)
+
+### Acute Respiratory Exacerbation Management
+* **Trigger**: Often mild URTI → acute respiratory failure & mucus plugging.
+* **Airway**: Aggressive secretion clearance via mechanical insufflation-exsufflation (**Cough Assist**).
+* **Ventilation**: Early Non-Invasive Ventilation (**BiPAP**); avoid intubation if possible due to high risk of extubation failure.
+
+### Disease-Modifying Therapies (HA Approved)
+| Medication | Mechanism of Action | Route & Frequency | HA Context |
+| :--- | :--- | :--- | :--- |
+| **Nusinersen (Spinraza)** | ASO. *SMN2* splicing modifier → ↑ functional SMN protein | Intrathecal injection (Loading doses then 4-monthly) | High-cost; strict CCF funding criteria. |
+| **Risdiplam (Evrysdi)** | Small molecule *SMN2* splicing modifier | Oral daily liquid | Avoids LP; ideal for severe scoliosis. |
+| **Onasemnogene abeparvovec (Zolgensma)** | AAV9 viral vector gene replacement (functional *SMN1*) | Single IV infusion | Given to young infants; massive upfront cost. |
+
+### Chronic Supportive Management
+* **Respiratory**: Nocturnal BiPAP for sleep-disordered breathing, pneumococcal/influenza vaccines.
+* **Nutrition**: **Gastrostomy (PEG)** feeding for unsafe swallow, aspiration risk, or failure to thrive.
+* **Orthopaedic**: Ankle-foot orthoses (AFOs), spinal bracing, surgical spinal fusion for severe scoliosis.
+
+## 8. MDT & Psychosocial Care
+
+### Core Multidisciplinary Team (MDT)
+* **Paediatric Neurologist**: Coordinates disease-modifying therapies.
+* **Respiratory Physician**: Manages sleep-disordered breathing & ventilation.
+* **PT / OT**: Prevents contractures, provides seating/mobility aids.
+* **Speech Therapist / Dietitian**: Manages bulbar dysfunction, PEG feeding, and safe swallow.
+
+### Psychosocial Support Infrastructure
+* **Medical Social Worker (MSW)**: Essential for navigating HA financial assistance (Samaritan Fund / Community Care Fund) for multi-million dollar therapies.
+* **NGOs**: Connect with patient support groups (e.g., FSMA HK).
+
+## 9. Safeguarding & NAI Red Flags
+
+### Genetic Safeguarding & Family Planning
+* **Genetic Counselling**: Crucial for parents due to **25% recurrence risk** in subsequent pregnancies.
+* **Testing**: Offer carrier testing for extended family.
+* **Options**: Discuss prenatal testing (CVS/amniocentesis) or Preimplantation Genetic Diagnosis (PGD).
+
+### Medical Communication Red Flags
+* Novel therapies (Zolgensma, Spinraza) have extreme costs and strict clinical eligibility criteria. Managing parental expectations demands clear, empathetic communication to avoid breakdown in therapeutic trust if a child does not qualify for funding.
+
+## 10. Complications & Prognosis
+
+### Untreated Natural History Prognosis
+* **Type 0**: Fatal within weeks of birth.
+* **Type 1**: Death from respiratory failure/pneumonia typically **< 2 years of age**.
+
+### Treated Prognosis & Outcomes
+* Dramatically altered by early disease-modifying therapy.
+* Pre-symptomatic treatment (via NBS) allows Type 1 infants to achieve major motor milestones (sitting, walking) previously deemed impossible.
+
+### Long-Term Complications
+* **Skeletal**: Severe kyphoscoliosis → restrictive lung disease; joint contractures.
+* **Bone Health**: Severe osteopenia / pathological fractures due to non-weight bearing.
+* **Cardiopulmonary**: Sleep-disordered breathing → pulmonary hypertension → cor pulmonale.
+
+## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
+
+* Trap: Assuming profound hypotonia in an infant implies global developmental delay and intellectual impairment. Pearl: Children with SMA have completely normal (often above average) intelligence; their eyes are bright and engaging despite profound physical weakness.
+* Viva Question: What is the genetic basis for the varying severity of SMA phenotypes? Answer: The copy number of the SMN2 backup gene. More copies of SMN2 produce more functional SMN protein, resulting in a milder phenotype.
+* Pitfall: Diagnosing a floppy infant with absent reflexes as Duchenne Muscular Dystrophy. DMD presents later (toddler/preschool), predominantly in boys, with massive CK elevation (>10,000) and pseudohypertrophy, while SMA Type 1 presents <6 months with tongue fasciculations and normal/mildly elevated CK.
+* Viva Question: What are the three approved disease-modifying therapies for SMA? Answer: Nusinersen (intrathecal ASO), Risdiplam (oral SMN2 splicing modifier), and Onasemnogene abeparvovec (IV AAV9 gene replacement).
+* Pitfall: Over-oxygenating an SMA patient in respiratory distress without ventilatory support. Supplemental O2 without BiPAP can mask hypercapnia, worsen hypoventilation, and lead to respiratory arrest.

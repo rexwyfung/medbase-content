@@ -1,54 +1,123 @@
 # Myasthenia Gravis (重肌無力症)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: An acquired autoimmune disorder of the neuromuscular junction characterized by fatigable muscle weakness.
-- **Local Epidemiology**: Juvenile MG (JMG) is rare, but higher rates of ocular MG are reported in Asian pediatric cohorts compared to Western populations.
+### Definition of Myasthenia Gravis
+* **Acquired autoimmune disorder** of the neuromuscular junction (NMJ).
+* Characterized by pathognomonic **fatigable muscle weakness**.
+
+### Local Epidemiology in Hong Kong
+* Juvenile MG (JMG) is rare overall.
+* Higher incidence of **Ocular MG (眼肌型重肌無力症)** reported in Asian/Hong Kong pediatric cohorts compared to Western populations.
 
 ## 2. Pathophysiology & Genetics
-- Autoantibodies are produced (by the thymus) that bind to, block, and eventually destroy **Nicotinic Acetylcholine Receptors (AChR)** on the post-synaptic muscle membrane.
-- With fewer receptors, the repeated release of Acetylcholine (ACh) during sustained muscle contraction fails to trigger an action potential. The muscle physically runs out of power.
-- **Transient Neonatal MG**: Occurs in 10-15% of babies born to mothers with active MG. Maternal IgG antibodies cross the placenta. The baby is born "floppy" with feeding difficulties, but completely recovers in a few weeks as maternal antibodies degrade.
+### Autoimmune Mechanism of Myasthenia Gravis
+* **Autoantibodies** (often thymus-driven) bind, block, & destroy **Nicotinic Acetylcholine Receptors (AChR)** on post-synaptic muscle membranes.
+* ↓ ACh receptors → repeated Acetylcholine (ACh) release during sustained contraction fails to trigger action potentials → **muscle power depletion**.
+
+### Transient Neonatal Myasthenia Gravis Pathogenesis
+* Occurs in 10-15% of babies born to mothers with active MG.
+* Maternal IgG antibodies cross placenta.
+* Neonate presents "floppy" with feeding difficulties.
+* Complete spontaneous recovery in weeks as maternal IgG degrades.
 
 ## 3. Clinical Presentation
-- A 12-year-old girl complains that her "eyes get tired" and droop when reading for a long time, and she feels completely exhausted dragging her legs upstairs at the end of the school day.
+### Classic Juvenile Presentation Scenario
+* 12-year-old girl complains of "tired eyes" & drooping eyelids after prolonged reading.
+* Experiences profound exhaustion & inability to climb stairs at the end of the school day.
 
 ## 4. Key Symptoms & Signs
-- **Fatigability**: Weakness that distinctly inherently worsens with exertion and improves with rest. Usually worse in the evenings.
-- **Ocular**: Ptosis (drooping eyelids, often asymmetric) and diplopia (double vision).
-- **Bulbar**: Difficulty chewing tough meats, nasal voice, swallowing difficulties.
-- **General**: Proximal muscle weakness.
-- Sensations and deep tendon reflexes remain PERFECTLY NORMAL.
+### Cardinal Feature: Fatigability
+* Weakness inherently **↑ with exertion** & **↓ with rest**.
+* Symptoms are typically worse in the evening.
+
+### Ocular & Facial Signs
+* **Ptosis (眼瞼下垂)**: Bilateral or asymmetric drooping.
+* **Ophthalmoplegia/Diplopia (複視)**: Impaired eye movements & double vision.
+* **Myopathic Face**: Loss of normal facial expression.
+
+### Bulbar & Generalized Signs
+* Difficulty chewing tough meats.
+* Dysphagia (swallowing difficulties).
+* Nasal voice.
+* Proximal muscle weakness.
+* **Sensation**: PERFECTLY NORMAL.
+* **Deep Tendon Reflexes**: PERFECTLY NORMAL or brisk.
 
 ## 5. Discriminatory Features (How to distinguish from similar conditions)
-- Distinct from Guillain-Barre Syndrome (GBS): GBS causes an ascending, symmetric flaccid paralysis (feet up) with absent reflexes. MG often starts top-down (eyes first) and deep tendon reflexes remain brisk/normal.
+### Myasthenia Gravis vs. Guillain-Barre Syndrome (GBS)
+
+| Feature | Myasthenia Gravis (重肌無力症) | Guillain-Barre Syndrome (GBS) |
+| :--- | :--- | :--- |
+| **Progression** | Top-down (eyes → bulbar → limbs) | Ascending (feet → up) |
+| **Reflexes** | Brisk / Normal | **Absent** / ↓ |
+| **Fatigability** | Prominent fluctuation | Constant flaccid paralysis |
 
 ## 6. Differential Diagnosis
-- Congenital Myasthenic Syndromes (Genetic defects in the NMJ, not autoimmune. Do not respond to immunosuppressants).
-- Botulism (Infant botulism causes ptosis, bulbar weakness, and descending paralysis, but usually has severe constipation and fixed dilated pupils).
-- Mitochondrial myopathies.
+### Key Differentials for Neuromuscular Weakness
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Bedside Test for Fatigability**: Have the child look strictly upward at your finger for 60 seconds without blinking. You will literally watch their eyelids slowly drop (Ptosis).
-- **Bloods**: **Anti-AChR Antibodies** (positive in most systemic cases). If negative, check Anti-MuSK antibodies.
-- **Electrophysiology**: **Repetitive Nerve Stimulation (RNS)**. Zapping the nerve repeatedly shows a classic "decremental response" (the muscle action potential gets smaller with every zap).
-- **Imaging**: CT/MRI of the chest to firmly rule out a Thymoma or thymic hyperplasia, which drives the antibody production.
+| Differential | Distinguishing Features |
+| :--- | :--- |
+| **Congenital Myasthenic Syndromes** | Genetic NMJ defects (non-autoimmune); Presents in neonates (arthrogryposis); Does NOT respond to standard immunosuppressants. |
+| **Infant Botulism** | Descending paralysis, but features **severe constipation** & **fixed dilated pupils**. |
+| **Mitochondrial Myopathies** | Multi-system involvement; progressive, non-fatigable ptosis/weakness. |
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Symptomatic**: **Pyridostigmine** (An acetylcholinesterase inhibitor). It stops the breakdown of Acetylcholine in the synaptic cleft, flooding the remaining few receptors and restoring strength.
-- **Immunosuppression**: Oral steroids (Prednisolone) or Azathioprine to stop the rogue immune system making antibodies.
-- **Thymectomy**: Surgical removal of the thymus gland is strongly considered in adolescents with generalized AChR+ disease, as it can induce permanent remission.
-- **Acute Crisis (Myasthenic Crisis)**: Severe exacerbation causing respiratory failure (requires intubation). Treated immediately with IVIG or Plasmapheresis to wash out the antibodies.
+## 7. Tiered Investigations
+### Bedside Clinical Testing for Myasthenia
+* **Sustained Upward Gaze Test**: Ask child to look strictly upward at finger for 60 secs without blinking → visible progressive **Ptosis (眼瞼下垂)**.
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- Chronic fatiguing illness requiring school accommodations.
+### Pharmacological Testing
+* **Edrophonium (Tensilon) Test**: IV administration → rapid clinical improvement in mins.
+* **Oral Pyridostigmine/Neostigmine Trial**: Clinical improvement over days.
+
+### Serology (Bloods)
+* **Anti-AChR Antibodies**: +ve in 60-80% of juvenile cases.
+* **Anti-MuSK Antibodies**: Check if AChR is -ve.
+
+### Electrophysiology
+* **Repetitive Nerve Stimulation (RNS)**: Shows classic **decremental response** (muscle action potential ↓ with repeated stimuli).
+
+### Imaging Studies
+* **CT/MRI Chest**: Mandatory to rule out **Thymoma** or thymic hyperplasia (drivers of autoantibody production).
+
+## 8. Management (Acute, Chronic, HA Protocols)
+### 1st Line Symptomatic Management
+* **Acetylcholinesterase Inhibitors**: **Pyridostigmine** or **Neostigmine**.
+* Mechanism: Stops ACh breakdown in synaptic cleft → floods remaining receptors → restores strength.
+
+### Chronic Immunosuppression Therapy
+* **Corticosteroids**: Oral **Prednisolone**.
+* **Steroid-Sparing Agents**: **Azathioprine** or **Mycophenolate Mofetil**.
+* **Biological Therapy**: **Rituximab** (Anti-CD20 monoclonal antibody) for refractory/severe cases.
+
+### Surgical Intervention
+* **Thymectomy**: Strongly considered in adolescents with generalized AChR+ disease or if thymoma present → can induce permanent remission.
+
+### Acute Myasthenic Crisis Management
+* Severe exacerbation → bulbar/respiratory failure (requires intubation/ventilation).
+* **Rescue Therapy**: **IVIG** or **Plasma Exchange (Plasmapheresis)** to rapidly clear antibodies.
+
+## 9. MDT & Psychosocial Care
+### Multidisciplinary Support Needs
+* **Medical Social Worker (MSW)**: School accommodations for chronic fatiguing illness.
+* **Physiotherapy (PT) / Occupational Therapy (OT)**: Energy conservation & pacing strategies.
 
 ## 10. Safeguarding & NAI Red Flags
-- N/A.
+### Child Protection Considerations
+* N/A for MG pathology directly.
+* Monitor family coping mechanisms due to chronic illness stress & recurrent hospitalizations.
 
 ## 11. Complications & Prognosis
-- Myasthenic Crisis (often triggered by an infection or starting a contraindicated drug like Aminoglycoside antibiotics or muscle relaxants).
-- Aspiration pneumonia due to bulbar weakness.
+### Major Complications of Myasthenia Gravis
+* **Myasthenic Crisis**: Life-threatening respiratory/bulbar failure triggered by infection, stress, or contraindicated meds (e.g., Aminoglycosides, Macrolides, muscle relaxants).
+* **Aspiration Pneumonia**: 2° to severe bulbar weakness.
+
+### Disease Prognosis
+* **Transient Neonatal MG**: 100% full recovery as maternal IgG degrades.
+* **Juvenile MG**: Favorable long-term prognosis with modern immunomodulation & timely thymectomy.
 
 ## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- **Trap**: Giving a child with MG Macrolide or Aminoglycoside antibiotics. These dramatically worsen neuromuscular blockade and can instantly precipitate a fatal myasthenic respiratory crisis.
-- **Viva Q**: "What non-invasive bedside test can cleanly demonstrate the core physiological deficit of Myasthenia Gravis?" Answer: The sustained upward gaze test. By forcing the levator palpebrae superioris muscle to contract continuously, the exhausted neuromuscular junction will fail, and quantifiable worsening ptosis will appear before your eyes.
+* Trap: Giving a child with Myasthenia Gravis Macrolide or Aminoglycoside antibiotics.
+* Pearl: These dramatically worsen neuromuscular blockade and can instantly precipitate a fatal myasthenic respiratory crisis.
+* Viva Question: What non-invasive bedside test can cleanly demonstrate the core physiological deficit of Myasthenia Gravis?
+* Answer: The sustained upward gaze test. By forcing the levator palpebrae superioris muscle to contract continuously, the exhausted neuromuscular junction will fail, and quantifiable worsening ptosis will appear before your eyes.
+* Pitfall: Confusing Transient Neonatal MG with Congenital Myasthenic Syndromes. Transient Neonatal MG is a self-resolving autoimmune condition caused by transplacental maternal antibodies, whereas Congenital Myasthenic Syndromes are permanent genetic defects of the NMJ requiring lifelong specialist care.
