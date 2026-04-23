@@ -109,10 +109,7 @@ Multifactorial, typically involving 3 mechanisms:
 - Untreated, can lead to severe psychological morbidity, poor self-esteem, and family conflicts
 
 ## 11. Examiner's Pearls
-* Viva Question: A 7-year-old boy who has been dry at night since age 4 suddenly starts wetting the bed every night for the past month. What is the most important initial investigation?
-* Answer: Urinalysis to rule out UTI or Type 1 Diabetes Mellitus (secondary enuresis requires organic workup).
-* Viva Question: What is the most effective long-term treatment for primary nocturnal enuresis, and how does it work?
-* Answer: Enuresis alarm, utilizing classical conditioning to train the child's brain to awaken to the sensation of a full bladder.
-* Trap: Recommending fluid restriction all day for enuresis.
-* Pearl: Fluid restriction should ONLY occur 2 hours prior to bedtime; daytime fluid intake must be adequate to maintain hydration.
+* Viva Question: A 7-year-old boy who has been dry at night since age 4 suddenly starts wetting the bed every night for the past month. What is the most important initial investigation? Answer: Urinalysis to rule out UTI or Type 1 Diabetes Mellitus (secondary enuresis requires organic workup).
+* Viva Question: What is the most effective long-term treatment for primary nocturnal enuresis, and how does it work? Answer: Enuresis alarm, utilizing classical conditioning to train the child's brain to awaken to the sensation of a full bladder.
+* Trap: Recommending fluid restriction all day for enuresis. Pearl: Fluid restriction should ONLY occur 2 hours prior to bedtime; daytime fluid intake must be adequate to maintain hydration.
 * Pitfall: Prescribing Desmopressin without explicitly warning parents to restrict fluid intake overnight. This risks severe hyponatraemia and seizures.
