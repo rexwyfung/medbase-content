@@ -39,6 +39,7 @@
 * **Beckwith-Wiedemann Syndrome**: Imprinting disorder (Chromosome 11p15.5).
 * Triad: Macrosomia, macroglossia, omphalocele.
 * Critical risk: Profound hyperinsulinemic hypoglycaemia.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/952431806ebbaadf20fa6b912ea3a27c.png)
 
 
 ## 3. Key Symptoms & Signs
