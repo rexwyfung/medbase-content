@@ -157,9 +157,6 @@
 
 ## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
 
-* Trap: Assuming an LGA baby is inherently healthy and robust because they are "big and strong".
-* Pearl: Infants of diabetic mothers (IDM) are extremely fragile. They are at high risk of profound hypoglycaemia, RDS (despite being term), polycythaemia, and electrolyte imbalances (hypocalcaemia, hypomagnesaemia).
-* Viva Question: Why does an infant of a diabetic mother develop profound hypoglycaemia immediately after birth?
-* Answer: Maternal hyperglycaemia crosses the placenta → fetal pancreatic β-cell hyperplasia & hyperinsulinism. Post-delivery cord clamping abruptly cuts off maternal glucose, but infant insulin remains excessively high → rapid cellular glucose uptake → hypoglycaemia.
-* Pitfall: Relying solely on capillary haematocrit to diagnose neonatal polycythaemia.
-* Pearl: Capillary samples overestimate haematocrit due to sluggish peripheral circulation. Polycythaemia must always be confirmed with a free-flowing venous blood sample (Venous Hct > 65%).
+* Trap: Assuming an LGA baby is inherently healthy and robust because they are "big and strong". Pearl: Infants of diabetic mothers (IDM) are extremely fragile. They are at high risk of profound hypoglycaemia, RDS (despite being term), polycythaemia, and electrolyte imbalances (hypocalcaemia, hypomagnesaemia).
+* Viva Question: Why does an infant of a diabetic mother develop profound hypoglycaemia immediately after birth? Answer: Maternal hyperglycaemia crosses the placenta → fetal pancreatic β-cell hyperplasia & hyperinsulinism. Post-delivery cord clamping abruptly cuts off maternal glucose, but infant insulin remains excessively high → rapid cellular glucose uptake → hypoglycaemia.
+* Pitfall: Relying solely on capillary haematocrit to diagnose neonatal polycythaemia. Pearl: Capillary samples overestimate haematocrit due to sluggish peripheral circulation. Polycythaemia must always be confirmed with a free-flowing venous blood sample (Venous Hct > 65%).
