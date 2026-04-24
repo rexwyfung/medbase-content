@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "97b5d4bbac2cc1e1",
@@ -204,6 +203,7 @@
   "lastOpenFiles": [
     "Logo-white bg.png",
     "paediatrics/vaccine.md",
+    "paediatrics/sga_lga.md",
     "paediatrics/retinoblastoma.md",
     "Logo.png",
     "paediatrics/bone_tumours.md",
@@ -228,7 +228,6 @@
     "paediatrics/pierre_robin.md",
     "paediatrics/cleft_lip_palate.md",
     "paediatrics/appendicitis.md",
-    "paediatrics/undescended.md",
     "extract_notes.sh",
     "FMCC",
     "paediatrics"
