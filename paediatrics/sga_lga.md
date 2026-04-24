@@ -58,6 +58,7 @@
 * **Clavicle fracture (鎖骨骨折)**: Crepitus over clavicle, asymmetrical Moro reflex.
 * **Erb's palsy (厄爾氏麻痺)**: C5-C6 root injury (shoulder dystocia) → Waiter's tip posture (adducted, internally rotated shoulder, extended elbow, pronated forearm).
 * **Cephalhaematoma (頭顱血腫)**: Subperiosteal bleeding strictly limited by cranial suture lines.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/dddb33120b70554fb34613c5138519df.png)
 
 
 ## 4. Discriminatory Features (How to distinguish from similar conditions)
@@ -66,14 +67,15 @@
 * **Premature**: Appropriate weight for early gestation.
 * **SGA**: Underweight for advanced/actual gestation.
 * Use **Ballard Score** for objective gestational age assessment if antenatal dating is unreliable.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3d15d86342cc8e5dc96a260a0c3fa726.png)
 
 ### Differentiating Symmetrical vs Asymmetrical SGA
-| Feature | Symmetrical SGA | Asymmetrical SGA |
-| :--- | :--- | :--- |
-| **Timing of Insult** | Early (1st trimester) | Late (3rd trimester) |
-| **Head Circumference** | Small (< 10th centile) | Normal (Head-sparing) |
-| **Cellular Defect** | ↓ Cell Number | ↓ Cell Size |
-| **Aetiologies** | TORCH, Genetics | Placental insufficiency, PET |
+| Feature                | Symmetrical SGA        | Asymmetrical SGA             |
+| :--------------------- | :--------------------- | :--------------------------- |
+| **Timing of Insult**   | Early (1st trimester)  | Late (3rd trimester)         |
+| **Head Circumference** | Small (< 10th centile) | Normal (Head-sparing)        |
+| **Cellular Defect**    | ↓ Cell Number          | ↓ Cell Size                  |
+| **Aetiologies**        | TORCH, Genetics        | Placental insufficiency, PET |
 
 ## 5. Differential Diagnosis
 
@@ -116,9 +118,9 @@
 ## 7. Management (Acute, Chronic, HA Protocols)
 
 ### Acute Hypoglycaemia Management Protocol
-| CBG Level & Clinical State | Management Protocol (HA Guidelines) |
-| :--- | :--- |
-| **Asymptomatic & CBG 2.0-2.5 mmol/L** | Early frequent feed (breast/formula) → Recheck CBG in 1 hr. |
+| CBG Level & Clinical State                               | Management Protocol (HA Guidelines)                                                    |
+| :------------------------------------------------------- | :------------------------------------------------------------------------------------- |
+| **Asymptomatic & CBG 2.0-2.5 mmol/L**                    | Early frequent feed (breast/formula) → Recheck CBG in 1 hr.                            |
 | **Symptomatic (seizures, lethargy) OR CBG < 2.0 mmol/L** | **IV 10% Dextrose** bolus (2 ml/kg) → Continuous IV Dextrose infusion (6-8 mg/kg/min). |
 
 ### Acute Polycythaemia Management
