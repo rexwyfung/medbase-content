@@ -21,7 +21,7 @@
 * **Morphology**: Head & body proportionately small.
 * **Maternal/Fetal Causes**:
   * **Chromosomal anomalies**: Trisomy 13, 18, 21.
-  * **Congenital infections (TORCH)**: **CMV (巨細胞病毒)**, Rubella, Toxoplasmosis.
+  * **Congenital infections (TORCH)**: Toxoplasmosis, Other, Rubella, **CMV (巨細胞病毒)**, HSV.
 
 ### Asymmetrical SGA Pathophysiology
 * **Timing**: Late pregnancy insult (3rd trimester) → ↓ cell size.

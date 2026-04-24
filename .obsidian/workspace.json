@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "2ab7969c8d8bac28",
+            "id": "ad69d8ebf21f64d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "97b5d4bbac2cc1e1",
@@ -199,11 +200,12 @@
       "custom-image-auto-uploader:Custom Image Auto Uploader": false
     }
   },
-  "active": "2ab7969c8d8bac28",
+  "active": "ad69d8ebf21f64d0",
   "lastOpenFiles": [
-    "Logo-white bg.png",
     "paediatrics/vaccine.md",
+    "paediatrics/rds.md",
     "paediatrics/sga_lga.md",
+    "Logo-white bg.png",
     "paediatrics/retinoblastoma.md",
     "Logo.png",
     "paediatrics/bone_tumours.md",
