@@ -1,72 +1,107 @@
-# Hong Kong Childhood Immunisation Programme (HKCIP) (香港兒童免疫接種計劃)
+# Hong Kong Childhood Immunisation Programme (香港兒童免疫接種計劃)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: A comprehensive, government-funded schedule of vaccinations provided to all children in Hong Kong to protect against major preventable infectious diseases.
-- **Local Epidemiology**: Administered primarily through the Department of Health's Maternal and Child Health Centres (MCHCs) for pre-schoolers, and via the School Immunisation Teams for primary school students. Coverage rates in HK are exceptionally high (>95% for most primary series).
+### Clinical Definition of HKCIP
+- **HKCIP**: A comprehensive, government-funded schedule of vaccinations (疫苗) provided to all children in Hong Kong to protect against major preventable infectious diseases.
+- **Objective**: Induce active immunity to halt community transmission and protect vulnerable individuals.
+
+### Local Epidemiology of HKCIP
+- **Administration**: Primarily via the Department of Health's Maternal and Child Health Centres (MCHCs) (母嬰健康院) for pre-schoolers, and School Immunisation Teams (學童免疫注射小組) for primary students.
+- **Coverage**: Exceptionally high (>95% for most primary series).
 
 ## 2. Pathophysiology & Genetics
-- **Active Immunity**: Vaccines introduce a harmless form of a pathogen (or its antigens) to stimulate the child's immune system to produce specific antibodies and memory T/B cells.
-- **Types of Vaccines in HKCIP**:
-  - *Live Attenuated*: MMR (Measles, Mumps, Rubella), Varicella, BCG, Rotavirus (oral). (Contraindicated in severe immunosuppression).
-  - *Inactivated/Killed*: Polio (IPV), Hepatitis A.
-  - *Toxoid*: Diphtheria, Tetanus.
-  - *Subunit/Conjugate*: Pertussis (acellular), Hib, Pneumococcal (PCV13/15), Hepatitis B, HPV.
+### Active Immunity Pathophysiology
+- **Mechanism**: Vaccines introduce a harmless pathogen or its antigens → stimulates host immune system → triggers specific antibody (抗體) production + memory T/B cells.
 
-## 3. Clinical Presentation (The Schedule)
-- **The HKCIP Schedule (Crucial to memorize for OSCEs)**:
-  - **Newborn**: BCG Vaccine, Hepatitis B Vaccine (First Dose).
-  - **1 month**: Hepatitis B Vaccine (Second Dose).
-  - **2 months**: DTaP-IPV Vaccine (First Dose), Pneumococcal Vaccine (First Dose).
-  - **4 months**: DTaP-IPV Vaccine (Second Dose), Pneumococcal Vaccine (Second Dose).
-  - **6 months**: DTaP-IPV Vaccine (Third Dose), Hepatitis B Vaccine (Third Dose).
-  - **12 months**: Measles, Mumps & Rubella (MMR) Vaccine (First Dose), Pneumococcal Vaccine (Booster Dose), Varicella Vaccine (First Dose).
-  - **18 months**: DTaP-IPV Vaccine (Booster Dose), Measles, Mumps, Rubella & Varicella (MMRV) Vaccine (Second Dose)*.
-  - **Primary 1**: Measles, Mumps, Rubella & Varicella (MMRV) Vaccine (Second Dose)*, DTaP-IPV Vaccine (Booster Dose).
-  - **Primary 5**: Human papillomavirus vaccine (First Dose)^.
-  - **Primary 6**: dTap-IPV Vaccine (Booster Dose), Human papillomavirus vaccine (Second Dose)^.
+### Types of Vaccines in HKCIP
+- **Live Attenuated (減毒活疫苗)**: MMR, Varicella, BCG, Rotavirus. *Absolute contraindication in severe immunosuppression.*
+- **Inactivated/Killed (滅活疫苗)**: Polio (IPV), Hepatitis A.
+- **Toxoid (類毒素)**: Diphtheria, Tetanus.
+- **Subunit/Conjugate (亞單位/結合疫苗)**: Pertussis (acellular), Hib, Pneumococcal (PCV13/15), Hepatitis B, HPV.
 
-*Notes:*
-- * Children born on or after 1.7.2018 receive MMRV vaccine at 18 months old in Maternal and Child Health Centres. Children born between 1.1.2013 and 30.6.2018 receive MMRV vaccine in Primary 1.
-- ^ Starting from the 2019/20 school year, eligible female students will receive the first dose of 9-valent HPV vaccine at Primary 5. They will receive the second dose when they reach Primary 6 in the next school year.
+## 3. Key Symptoms & Signs
+### The HKCIP Schedule (Crucial for OSCEs)
+- **Newborn**: BCG, Hep B (1st dose).
+- **1 month**: Hep B (2nd dose).
+- **2 months**: DTaP-IPV (1st dose), PCV (1st dose).
+- **4 months**: DTaP-IPV (2nd dose), PCV (2nd dose).
+- **6 months**: DTaP-IPV (3rd dose), Hep B (3rd dose).
+- **12 months**: MMR (1st dose), PCV (Booster), Varicella (1st dose).
+- **18 months**: DTaP-IPV (Booster), MMRV (2nd dose).
+- **Primary 1**: MMRV (2nd dose - if born pre-2018), DTaP-IPV (Booster).
+- **Primary 5**: HPV (1st dose, females only).
+- **Primary 6**: dTap-IPV (Booster), HPV (2nd dose, females only).
 
-## 4. Vaccines NOT in the HKCIP (Available Privately)
-- **Haemophilus influenzae type b (Hib) Vaccine**: Excluded from the universal program due to the very low incidence of Hib infections in Hong Kong.
-- **Rotavirus Vaccine**: Excluded from the universal program because there are virtually no rotavirus-related deaths in Hong Kong.
+### Private / Non-HKCIP Vaccines
+- **Hib Vaccine**: Excluded from universal program due to very low local incidence.
+- **Rotavirus Vaccine**: Excluded due to negligible local rotavirus-related mortality.
 
-## 5. Key Symptoms & Signs (Adverse Events Following Immunization - AEFI)
-- **Common & Mild**: Local pain, erythema, swelling at the injection site. Low-grade fever, irritability (especially after DTaP or PCV).
-- **Specific to Live Vaccines (MMR/Varicella)**: A mild, non-infectious rash or low-grade fever may occur **7-14 days** *after* the injection, as the attenuated virus replicates.
-- **Rare but Severe**: Anaphylaxis (immediate), prolonged inconsolable crying (>3 hours), hypotonic-hyporesponsive episode (HHE), febrile seizures.
+### Adverse Events Following Immunization (AEFI)
+- **Common & Mild**: Local pain, erythema, swelling. Low-grade fever, irritability (especially post-DTaP or PCV).
+- **Live Vaccine Specific**: Mild non-infectious rash or low-grade fever 7-14 days post-injection (viral replication phase).
+- **Rare but Severe**: Anaphylaxis (過敏性休克), prolonged inconsolable crying (>3 hrs), hypotonic-hyporesponsive episode (HHE), febrile seizures.
 
-## 6. Discriminatory Features (How to distinguish from similar conditions)
-- **True Contraindications vs. False Contraindications**:
-  - *True*: Anaphylaxis to a previous dose or vaccine component. Severe immunosuppression (for live vaccines). Evolving neurological condition (delay DTaP until stable).
-  - *False (Vaccinate anyway)*: Mild acute illness (e.g., URTI with low-grade fever), family history of adverse reactions, premature birth (vaccinate according to chronological age), current antibiotic therapy.
+## 4. Discriminatory Features (How to distinguish from similar conditions)
+### True Contraindications
+- **Anaphylaxis**: To previous dose or specific vaccine component (e.g., egg, gelatin, neomycin).
+- **Severe Immunosuppression**: Contraindicates all live vaccines.
+- **Evolving Neurological Condition**: Delay DTaP until stable.
 
-## 7. Differential Diagnosis
-- N/A - This is a preventive health topic.
+### False Contraindications (Vaccinate Anyway)
+- **Mild Acute Illness**: URTI with low-grade fever.
+- **Premature Birth**: Vaccinate according to chronological age, NEVER corrected age.
+- **Other Factors**: Current antibiotic therapy, family history of adverse reactions.
 
-## 8. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Pre-vaccination Screening**: Always ask about:
-  1. Current health status (fever?).
-  2. Severe allergies (anaphylaxis to egg, gelatin, neomycin?).
-  3. Immune status (steroids, chemotherapy, primary immunodeficiency?).
-  4. Previous severe reactions to vaccines.
+## 5. Differential Diagnosis
+### Differential Diagnosis for Post-Vaccination Fever
+| Condition | Differentiating Features |
+| :--- | :--- |
+| **Normal AEFI** | Low-grade fever onset <48 hrs (or 7-14 days for live vaccines); mild irritability. |
+| **Concurrent Viral Illness** | URTI symptoms, ill contacts, prolonged fever >48 hrs. |
+| **Sepsis (敗血症)** | Toxic appearance, lethargy, poor feeding, abnormal vital signs, prolonged capillary refill time. |
+| **Anaphylaxis** | Immediate onset (minutes), airway compromise (stridor/wheeze), hypotension, urticaria. |
 
-## 9. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Catch-up Schedules**: If a child misses a dose, they do NOT need to restart the entire series. They simply resume the schedule with appropriate minimum intervals between doses.
-- **Maternal Hepatitis B Carrier**: If the mother is HBsAg positive, the neonate must receive **Hepatitis B Immunoglobulin (HBIG)** within 24 hours of birth, *in addition* to the standard Hep B vaccine, to prevent vertical transmission. They also require serology testing at 9-12 months to confirm immunity and rule out infection.
+## 6. Tiered Investigations
+### Pre-Vaccination Screening
+- **Bedside History**: Current health status (fever?).
+- **Allergy Check**: Severe allergies (anaphylaxis to egg, gelatin, neomycin?).
+- **Immune Status**: Steroids, chemotherapy, primary immunodeficiency?
+- **Previous Events**: Previous severe reactions to vaccines?
 
-## 10. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- **MCHC Nurses**: The frontline providers of the HKCIP. They play a crucial role in educating parents, addressing vaccine hesitancy, and monitoring growth and development.
+### Neonatal Hepatitis B Screening
+- **Maternal Status**: Check mother's HBsAg status.
+- **Infant Follow-up**: Serology testing at 9-12 months for HBsAg and Anti-HBs to confirm immunity and rule out vertical transmission.
 
-## 11. Safeguarding & NAI Red Flags
-- Failure to immunize a child is generally not considered medical neglect on its own in Hong Kong (as vaccination is not legally mandatory), but it may prompt a broader assessment of the child's welfare and parental engagement with healthcare services.
+## 7. Management (Acute, Chronic, HA Protocols)
+### Catch-up Schedules Protocol
+- **Rule**: If a child misses a dose, DO NOT restart the entire series.
+- **Action**: Resume the schedule with appropriate minimum intervals between doses.
 
-## 12. Complications & Prognosis
-- **Herd Immunity**: The ultimate goal of the HKCIP. High vaccination rates protect those who cannot be vaccinated (e.g., neonates, children with leukaemia) by halting the circulation of the pathogen in the community.
+### Maternal Hepatitis B Carrier Protocol
+- **Acute Action**: Neonate MUST receive **Hepatitis B Immunoglobulin (HBIG)** within 24 hours of birth, in addition to the standard Hep B vaccine (1st dose) at different injection sites.
+- **Chronic Follow-up**: Serology at 9-12 months to confirm +ve Anti-HBs and -ve HBsAg.
 
-## 13. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- *Viva*: "A mother brings her 12-month-old baby to the MCHC. The baby has a mild runny nose and a temperature of 37.5°C. Should you administer the scheduled MMR and Varicella vaccines?" (Yes. A mild acute illness with a low-grade fever is a false contraindication. Delaying vaccination leaves the child vulnerable to serious diseases).
-- *Viva*: "What is the specific management for a neonate born to a mother who is a known Hepatitis B carrier?" (The neonate must receive Hepatitis B Immunoglobulin (HBIG) within 24 hours of birth, in addition to the first dose of the standard Hepatitis B vaccine).
-- *Pitfall*: Giving a live attenuated vaccine (like MMR or Varicella) to a child on high-dose immunosuppressive therapy (e.g., chemotherapy for ALL), which can cause fatal disseminated infection.
+## 8. MDT & Psychosocial Care
+### MDT Roles in Immunisation
+- **MCHC Nurses**: Frontline providers; educate parents, address vaccine hesitancy, administer vaccines, monitor growth/development.
+- **School Immunisation Teams**: Ensure high compliance in the primary school cohort.
+- **Medical Social Worker (MSW)**: Support families with systemic neglect issues leading to missed appointments.
+
+## 9. Safeguarding & NAI Red Flags
+### Vaccine Refusal as a Red Flag
+- **Legal Status**: Vaccination is NOT legally mandatory in Hong Kong.
+- **Safeguarding Approach**: Failure to immunize is generally not considered medical neglect on its own, but it MUST prompt a broader assessment of the child's welfare and parental engagement with healthcare services.
+
+## 10. Complications & Prognosis
+### Population Health Prognosis
+- **Herd Immunity (群體免疫)**: Ultimate goal of HKCIP. High vaccination rates (>95%) protect those who cannot be vaccinated (e.g., neonates, childhood leukaemia patients) by halting pathogen circulation.
+- **Prognosis**: Excellent. Significant ↓ in childhood mortality from preventable diseases.
+
+### Complications of Non-Immunization
+- **Infection Risk**: High susceptibility to severe sequelae (e.g., Pertussis → severe apnoea; Measles → SSPE, encephalitis).
+
+## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
+* Viva Question: Should you administer scheduled vaccines to a 12-month-old with a mild URTI and 37.5°C fever? Answer: Yes, mild acute illness is a false contraindication.
+* Viva Question: What is the specific management for a neonate born to a Hepatitis B carrier mother? Answer: Administer Hepatitis B Immunoglobulin (HBIG) and the first Hepatitis B vaccine dose within 24 hours of birth.
+* Trap: Delaying vaccinations for premature infants and using their corrected gestational age. Pearl: Always vaccinate premature infants according to their chronological age to ensure timely immune protection.
+* Pitfall: Administering a live attenuated vaccine (e.g., MMR, Varicella) to a severely immunosuppressed child. Always verify immune status to avoid fatal disseminated infection.

@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "84868c9f99801d73",
+        "id": "9e548da7d97bcfb4",
         "type": "tabs",
         "children": [
           {
-            "id": "527969766b6fc055",
+            "id": "b62917d7bfaaf4bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "paediatrics/vaccine.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "vaccine"
-            }
-          },
-          {
-            "id": "8629761f9fb0a73b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "paediatrics/kawasaki.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "kawasaki"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,9 +181,23 @@
       "custom-image-auto-uploader:Custom Image Auto Uploader": false
     }
   },
-  "active": "8629761f9fb0a73b",
+  "active": "b62917d7bfaaf4bd",
   "lastOpenFiles": [
+    "paediatrics/lad.md",
+    "paediatrics/cgd.md",
+    "paediatrics/iga_deficiency.md",
+    "paediatrics/cvid.md",
+    "paediatrics/xla.md",
+    "paediatrics/wiskott_aldrich.md",
+    "paediatrics/scid.md",
+    "paediatrics/drug_allergy_sjs.md",
+    "paediatrics/urticaria_angioedema.md",
+    "paediatrics/allergic_rhinitis.md",
+    "paediatrics/food_allergy.md",
+    "paediatrics/nai.md",
+    "paediatrics/gillick.md",
     "paediatrics/vaccine.md",
+    "paediatrics/kawasaki.md",
     "paediatrics/sga_lga.md",
     "paediatrics/rds.md",
     "Logo-white bg.png",
@@ -216,20 +211,6 @@
     "paediatrics/sickle_cell.md",
     "paediatrics/brain_tumour.md",
     "paediatrics/haemophilia.md",
-    "paediatrics/itp.md",
-    "paediatrics/wilms_tumor.md",
-    "paediatrics/neuroblastoma.md",
-    "paediatrics/iron_def.md",
-    "paediatrics/thalassaemia.md",
-    "paediatrics/all.md",
-    "paediatrics/exomphalos_gastroschisis.md",
-    "paediatrics/meconium_ileus.md",
-    "paediatrics/malrotation_volvulus.md",
-    "paediatrics/neonatal_sbo.md",
-    "paediatrics/oa_tof.md",
-    "paediatrics/pierre_robin.md",
-    "paediatrics/cleft_lip_palate.md",
-    "paediatrics/appendicitis.md",
     "extract_notes.sh",
     "FMCC",
     "paediatrics"
