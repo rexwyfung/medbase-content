@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9e548da7d97bcfb4",
+        "id": "7950882780984e09",
         "type": "tabs",
         "children": [
           {
-            "id": "b62917d7bfaaf4bd",
+            "id": "73be506908855946",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -181,8 +181,12 @@
       "custom-image-auto-uploader:Custom Image Auto Uploader": false
     }
   },
-  "active": "b62917d7bfaaf4bd",
+  "active": "73be506908855946",
   "lastOpenFiles": [
+    "paediatrics/poisoning.md",
+    "paediatrics/septicaemia.md",
+    "paediatrics/status_epi.md",
+    "paediatrics/anaphylaxis.md",
     "paediatrics/lad.md",
     "paediatrics/cgd.md",
     "paediatrics/iga_deficiency.md",
@@ -207,10 +211,6 @@
     "paediatrics/rhabdomyosarcoma.md",
     "paediatrics/lymphoma.md",
     "paediatrics/lch.md",
-    "paediatrics/dic.md",
-    "paediatrics/sickle_cell.md",
-    "paediatrics/brain_tumour.md",
-    "paediatrics/haemophilia.md",
     "extract_notes.sh",
     "FMCC",
     "paediatrics"

@@ -1,72 +1,133 @@
 # Status Epilepticus (癲癇持續狀態)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: A neurological emergency defined as a continuous seizure lasting **> 5 minutes**, or two or more discrete seizures between which there is incomplete recovery of consciousness.
-- *(Note: Historically defined as >30 minutes, but the operational definition is now 5 minutes because seizures lasting this long rarely stop spontaneously and require emergency intervention).*
-- **Local Epidemiology**: A common paediatric emergency in Hong Kong. Can occur in children with known epilepsy or as a first presentation (e.g., prolonged febrile convulsion, CNS infection).
+
+### Definition of Status Epilepticus
+- Continuous seizure lasting **> 5 mins** OR ≥2 discrete seizures with incomplete recovery of consciousness between them.
+- Historically defined as >30 mins, but operational definition is 5 mins because endogenous termination mechanisms fail, requiring emergency intervention.
+
+### Local Epidemiology
+- Common paediatric emergency in Hong Kong. 
+- Occurs in children with known epilepsy or as a first presentation (e.g., prolonged **Febrile Convulsion** (熱性驚厥), CNS infection).
 
 ## 2. Pathophysiology & Genetics
-- **Pathophysiology**: Seizures occur due to an imbalance between excitatory (Glutamate) and inhibitory (GABA) neurotransmitters in the brain.
-- In status epilepticus, the normal mechanisms that terminate a seizure fail.
-- **Time is Brain**: 
-  - *Early phase (<30 mins)*: The brain compensates (increased cerebral blood flow, hypertension, tachycardia).
-  - *Late phase (>30 mins)*: Compensation fails. Hypoxia, hypoglycaemia, hyperthermia, and massive glutamate release lead to excitotoxicity and irreversible neuronal death. Systemic complications include rhabdomyolysis, metabolic acidosis, and respiratory failure.
 
-## 3. Clinical Presentation
-- The child is actively seizing (usually generalized tonic-clonic) upon arrival at the AED, or has not regained consciousness between seizures.
+### Pathophysiological Mechanism
+- Seizures arise from imbalance between excitatory (**Glutamate** / 穀氨酸) & inhibitory (**GABA** / γ-氨基丁酸) neurotransmitters.
+- Normal seizure-terminating mechanisms fail after 5 mins.
 
-## 4. Key Symptoms & Signs
-- **Convulsive Status Epilepticus**: Continuous rhythmic jerking of limbs (clonic), stiffening (tonic), loss of consciousness, cyanosis, frothing at the mouth, incontinence.
-- **Non-Convulsive Status Epilepticus**: Subtle signs. The child may be comatose, confused, or have subtle facial twitching or eye deviation. Diagnosed via EEG.
+### Time is Brain: Early Phase (<30 mins)
+- Brain compensates: ↑ cerebral blood flow, hypertension, tachycardia.
 
-## 5. Discriminatory Features (How to distinguish from similar conditions)
-- **Febrile Convulsion**: Usually lasts < 5 minutes and stops spontaneously. If a febrile seizure lasts > 5 minutes, it is treated as status epilepticus.
-- **Syncope / Breath-holding spells**: Brief loss of consciousness, rapid recovery, no prolonged post-ictal state.
-- **Pseudoseizures (Psychogenic Non-Epileptic Seizures)**: Movements are often asynchronous, pelvic thrusting, eyes closed tightly (in true seizures, eyes are usually open/deviated). No post-ictal confusion.
+### Time is Brain: Late Phase (>30 mins)
+- Compensation fails.
+- Hypoxia, hypoglycaemia, hyperthermia, & massive glutamate release → **Excitotoxicity** & irreversible neuronal death. 
+- Systemic complications: **Rhabdomyolysis** (橫紋肌溶解症), metabolic acidosis, respiratory failure.
 
-## 6. Differential Diagnosis (Causes of Status Epilepticus)
-- **Known Epilepsy**: Non-compliance with anti-epileptic drugs (AEDs), intercurrent illness, sleep deprivation.
-- **Infectious**: Meningitis, Encephalitis.
-- **Metabolic**: Hypoglycaemia, Hyponatraemia, Hypocalcaemia.
-- **Structural**: Brain tumour, intracranial haemorrhage, trauma.
-- **Toxic**: Poisoning, drug overdose.
+## 3. Key Symptoms & Signs
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Bedside (Immediate)**: **Capillary Blood Glucose (BM)** is mandatory to rule out hypoglycaemia.
-- **Bloods**: U&E (sodium, calcium, magnesium), FBC, CRP, Blood culture, VBG (lactate, acidosis), Anticonvulsant drug levels (if known epileptic), Toxicology screen.
-- **Imaging**: CT Brain (once stabilized) if there is a history of trauma, focal neurological signs, or suspicion of raised intracranial pressure.
-- **Special**: Lumbar Puncture (if CNS infection suspected, but contraindicated if raised ICP). EEG (essential for non-convulsive status or to confirm cessation of seizure activity in paralyzed/intubated patients).
+### Convulsive Status Epilepticus (驚厥性癲癇持續狀態)
+- Continuous rhythmic jerking of limbs (**Clonic** / 陣攣性)
+- Stiffening (**Tonic** / 強直性)
+- Loss of consciousness
+- **Cyanosis** (發紺)
+- Frothing at mouth
+- Incontinence
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Resuscitation (ABCDE)**:
-  - **A**: Airway adjuncts, suction, place in recovery position (if possible).
-  - **B**: High-flow 100% Oxygen.
-  - **C**: IV/IO access. Check glucose.
-- **Pharmacological Algorithm (Time-critical)**:
-  - **Step 1 (0-10 mins): Benzodiazepines (First-line)**
-    - **IV Lorazepam** (0.1 mg/kg).
-    - *If no IV access*: **Buccal Midazolam** (0.5 mg/kg) or **Rectal Diazepam** (0.5 mg/kg).
-    - Repeat once after 5 minutes if still seizing.
-  - **Step 2 (10-30 mins): Second-line Anti-Epileptic Drugs (AEDs)**
-    - If seizures continue despite 2 doses of benzodiazepines.
-    - **IV Levetiracetam**, **IV Phenytoin**, or **IV Sodium Valproate**. (Administered as a slow IV infusion over 15-20 mins).
-  - **Step 3 (>30 mins): Refractory Status Epilepticus**
-    - Call ICU and Anaesthetics.
-    - **Rapid Sequence Induction (RSI) and Intubation**.
-    - General anaesthesia with **IV Midazolam infusion**, **Propofol**, or **Thiopentone** to induce a burst-suppression coma on EEG.
+### Non-Convulsive Status Epilepticus (非驚厥性癲癇持續狀態)
+- Comatose or confused state.
+- Subtle facial twitching or eye deviation.
+- Diagnosed via **EEG** (腦電圖).
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- **PICU**: Admission is required for refractory status epilepticus.
-- **Paediatric Neurology**: For long-term management and investigation of the underlying cause.
+## 4. Discriminatory Features (How to distinguish from similar conditions)
 
-## 10. Safeguarding & NAI Red Flags
-- Status epilepticus in an infant without a clear cause (e.g., fever, known epilepsy) should raise suspicion of Abusive Head Trauma (Shaken Baby Syndrome). Check for retinal haemorrhages and arrange neuroimaging.
+### Distinguishing from Febrile Convulsion (熱性驚厥)
+- Febrile seizures typically last <5 mins & stop spontaneously.
+- If duration >5 mins → Treat as **Status Epilepticus**.
 
-## 11. Complications & Prognosis
-- **Complications**: Aspiration pneumonia, hypoxic brain injury, respiratory arrest (often secondary to benzodiazepine administration), rhabdomyolysis leading to acute kidney injury.
-- **Prognosis**: Depends on the underlying cause and the duration of the seizure. Prolonged status epilepticus carries a significant risk of permanent neurological deficit or death.
+### Distinguishing from Syncope / Breath-holding Spells
+- Brief loss of consciousness.
+- Rapid recovery.
+- NO prolonged post-ictal state.
 
-## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- *Viva*: "A 4-year-old child is brought to the AED actively seizing. The paramedics gave one dose of rectal diazepam 5 minutes ago, but the seizure continues. You cannot get IV access. What is your next pharmacological step?" (Administer Buccal Midazolam or a second dose of Rectal Diazepam. You can give a maximum of two doses of benzodiazepines before moving to second-line agents).
-- *Viva*: "What is the most important bedside test to perform immediately on any child presenting with a seizure?" (Capillary blood glucose to rule out hypoglycaemia, which is a rapidly reversible cause of seizures and brain damage).
-- *Pitfall*: Giving multiple, repeated doses of benzodiazepines (more than 2) without moving to second-line agents. This leads to respiratory arrest without necessarily stopping the seizure.
+### Distinguishing from Pseudoseizures (Psychogenic Non-Epileptic Seizures)
+- Asynchronous movements, pelvic thrusting.
+- Eyes closed tightly (true seizures usually feature eyes open/deviated).
+- NO post-ictal confusion.
+
+## 5. Differential Diagnosis
+
+### Causes of Status Epilepticus
+
+| Category | Examples |
+| :--- | :--- |
+| **Known Epilepsy** | **AED** non-compliance, intercurrent illness, sleep deprivation |
+| **Infectious** | **Meningitis** (腦膜炎), **Encephalitis** (腦炎) |
+| **Metabolic** | **Hypoglycaemia** (低血糖), Hyponatraemia, Hypocalcaemia |
+| **Structural** | Brain tumour, intracranial haemorrhage, trauma |
+| **Toxic** | Poisoning, drug overdose |
+
+## 6. Tiered Investigations
+
+### Immediate Bedside Investigations
+- **Capillary Blood Glucose (BM)**: MANDATORY immediately to rule out **Hypoglycaemia** (低血糖).
+
+### Blood Investigations
+- **U&E**: Na+, Ca2+, Mg2+
+- **FBC, CRP, Blood Culture**: Rule out sepsis
+- **VBG**: Lactate, acidosis
+- **Anticonvulsant Levels**: If known epileptic
+- **Toxicology Screen**
+
+### Imaging & Special Investigations
+- **CT Brain**: Once stabilized, if history of trauma, focal signs, or ↑ ICP suspicion.
+- **Lumbar Puncture (LP)**: If CNS infection suspected (Contraindicated if ↑ ICP).
+- **EEG**: Essential for non-convulsive status or confirming seizure cessation in paralyzed/intubated patients.
+
+## 7. Management (Acute, Chronic, HA Protocols)
+
+### Acute Resuscitation (ABCDE)
+- **A**: Airway adjuncts, suction, recovery position.
+- **B**: High-flow 100% O2.
+- **C**: IV/IO access. Check glucose.
+
+### Time-Critical Pharmacological Algorithm
+| Timeline | Intervention | Route / Details |
+| :--- | :--- | :--- |
+| **0 mins** | **ABCDE**, 100% O2, **Check BM** | Buccal **Midazolam** (0.5 mg/kg) or PR **Diazepam** (0.5 mg/kg) if no IV access. |
+| **5 mins (Step 1)** | 1st Line: **Benzodiazepine** | IV **Lorazepam** (0.1 mg/kg). Call for senior help. |
+| **15 mins (Step 2)** | 2nd Line: **AEDs** | IV **Phenytoin** (over 20 mins) OR IV **Levetiracetam**. If on Phenytoin → IV **Phenobarbitone** (over 5 mins). Consider PR **Paraldehyde** if no IV. Seek ICU advice. |
+| **25 mins (Step 3)** | 3rd Line: **Refractory** | **RSI** with IV **Thiopentone** (Thiopental) or Propofol. Requires PICU transfer & mechanical ventilation. |
+
+## 8. MDT & Psychosocial Care
+
+### Multidisciplinary Team Involvement
+- **PICU**: Admission mandatory for refractory status epilepticus.
+- **Paediatric Neurology**: Long-term management & investigation of underlying cause.
+- **Medical Social Worker (MSW)**: Support for families coping with severe neurological deficits or chronic epilepsy.
+
+## 9. Safeguarding & NAI Red Flags
+
+### Non-Accidental Injury (NAI) Suspicion
+- Status epilepticus in an infant without clear cause (e.g., no fever, no known epilepsy) MUST raise suspicion of **Abusive Head Trauma** (Shaken Baby Syndrome / 搖晃嬰兒綜合症).
+- Check for retinal haemorrhages.
+- Arrange urgent neuroimaging.
+
+## 10. Complications & Prognosis
+
+### Acute Complications
+- **Aspiration Pneumonia** (吸入性肺炎).
+- **Hypoxic Brain Injury** (缺氧性腦損傷).
+- **Respiratory Arrest**: Often secondary to repeated benzodiazepine administration.
+- **Rhabdomyolysis**: Leading to acute kidney injury.
+
+### Prognosis
+- Depends heavily on underlying cause & seizure duration.
+- Prolonged status carries high risk of permanent neurological deficit or death.
+
+## 11. Examiner's Pearls
+
+* Viva Question: A 4-year-old child is brought to the AED actively seizing. Paramedics gave 1 dose of rectal diazepam 5 mins ago, but seizure continues. No IV access. What is your next step? Answer: Administer buccal midazolam or a 2nd dose of rectal diazepam. (Max 2 doses of benzos before moving to 2nd-line AEDs).
+* Viva Question: What is the most important bedside test to perform immediately on any seizing child? Answer: Capillary blood glucose to rule out hypoglycaemia, a rapidly reversible cause of seizures and brain damage.
+* Trap: Waiting until the 30-minute mark to escalate to second-line agents. Pearl: Endogenous seizure-terminating mechanisms fail after 5 minutes; you must aggressively follow the 5-15-25 minute time-critical algorithm.
+* Pitfall: Giving >2 doses of benzodiazepines without moving to second-line agents. This leads to respiratory arrest without necessarily stopping the seizure.
