@@ -125,11 +125,7 @@
 - **Outcome**: Excellent if treated early (<10 days) and no aneurysms develop. Remains the most common cause of acquired heart disease in children if missed.
 
 ## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
-* Viva Question: Why do we give Aspirin in Kawasaki disease when it is generally contraindicated in children due to Reye's syndrome?
-* Answer: The risk of fatal coronary artery thrombosis far outweighs the rare risk of Reye's syndrome. We mitigate the risk by recommending the annual influenza vaccine.
-* Trap: Waiting for peeling of the fingers (desquamation) to diagnose KD.
-* Pearl: Desquamation is a subacute sign (week 2-3). If you wait for it, you have missed the 10-day window to give IVIG and prevent irreversible coronary aneurysms.
-* Viva Question: What is the criteria for Incomplete Kawasaki Disease?
-* Answer: Fever >= 5 days, 2-3 clinical criteria, plus supportive lab findings like high CRP, low albumin, sterile pyuria, or ECHO abnormalities. 
-* Pitfall: Discharging an extremely irritable infant < 6 months old with prolonged fever as a "simple viral illness".
-* Explanation: Infants < 6 months often present with incomplete KD and have the highest risk of giant coronary aneurysms. Always consider incomplete KD in this age group.
+* Viva Question: Why do we give Aspirin in Kawasaki disease when it is generally contraindicated in children due to Reye's syndrome? Answer: The risk of fatal coronary artery thrombosis far outweighs the rare risk of Reye's syndrome. We mitigate the risk by recommending the annual influenza vaccine.
+* Trap: Waiting for peeling of the fingers (desquamation) to diagnose KD. Pearl: Desquamation is a subacute sign (week 2-3). If you wait for it, you have missed the 10-day window to give IVIG and prevent irreversible coronary aneurysms.
+* Viva Question: What is the criteria for Incomplete Kawasaki Disease? Answer: Fever >= 5 days, 2-3 clinical criteria, plus supportive lab findings like high CRP, low albumin, sterile pyuria, or ECHO abnormalities. 
+* Pitfall: Discharging an extremely irritable infant < 6 months old with prolonged fever as a "simple viral illness". Explanation: Infants < 6 months often present with incomplete KD and have the highest risk of giant coronary aneurysms. Always consider incomplete KD in this age group.
