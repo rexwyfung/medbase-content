@@ -1,78 +1,116 @@
 # Biliary Atresia (膽道閉鎖)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: A rare, progressive, idiopathic fibro-obliterative disease of the extrahepatic biliary tree that presents in the neonatal period. It leads to severe cholestasis, biliary cirrhosis, and eventual liver failure.
-- **Local Epidemiology**: Incidence is higher in Asian populations (including Hong Kong and Taiwan) compared to Western countries, affecting approximately 1 in 5,000 to 10,000 live births.
+
+### Definition of Biliary Atresia
+**Biliary Atresia (膽道閉鎖)**: Rare, progressive, idiopathic fibro-obliterative disease of extra/intra-hepatic biliary tree → severe cholestasis (膽汁淤積), biliary cirrhosis (膽汁性肝硬化), liver failure (肝衰竭) presenting in neonates.
+
+### Local Epidemiology in Hong Kong
+* **Incidence**: ~1 in 15,000 live births globally; ↑ incidence in Asian populations (HK/Taiwan: ~1 in 5,000-10,000).
+* **HK Context**: Active screening via **MCHC (母嬰健康院)** using **Stool Colour Card (大便顏色卡)**.
 
 ## 2. Pathophysiology & Genetics
-- **Pathophysiology**: The exact cause is unknown (theories include viral triggers like Reovirus/CMV, autoimmune mechanisms, or developmental malformations).
-- An inflammatory process causes progressive fibrosis and complete obliteration of the extrahepatic bile ducts.
-- Bile cannot drain from the liver into the intestine, leading to severe intrahepatic accumulation of toxic bile acids (cholestasis).
-- This rapidly causes hepatocellular damage, bridging fibrosis, and biliary cirrhosis within the first few months of life.
 
-## 3. Clinical Presentation
-- A full-term infant who appears healthy at birth but develops persistent jaundice beyond 2 weeks of life (prolonged neonatal jaundice).
-- *Crucial*: Any jaundice persisting beyond 14 days (or 21 days in a premature infant) MUST be investigated to rule out biliary atresia.
+### Pathophysiology of Biliary Atresia
+* **Aetiology**: Unknown (theories: viral Reovirus/CMV triggers, autoimmune, developmental malformation).
+* **Mechanism**: Progressive inflammation → fibrosis & complete obliteration of extra/intra-hepatic bile ducts.
+* **Consequence**: Bile cannot drain → intrahepatic accumulation of toxic bile acids → severe hepatocellular damage, bridging fibrosis, early biliary cirrhosis.
 
-## 4. Key Symptoms & Signs
-- **Prolonged Jaundice**: Often initially dismissed as breast milk jaundice.
-- **Pale/Acholic Stools**: Chalky white or pale yellow stools (due to the absence of stercobilin, as bile cannot reach the gut). *This is the most critical clinical clue.*
-- **Dark Urine**: Due to renal excretion of conjugated bilirubin (which is water-soluble).
-- **Hepatomegaly**: The liver becomes firm and enlarged early in the disease.
-- **Splenomegaly**: Develops later as portal hypertension sets in.
-- **Failure to Thrive**: Due to fat malabsorption (lack of bile salts in the gut).
+### Genetics of Biliary Atresia
+* Sporadic. Not typically inherited.
 
-## 5. Discriminatory Features (How to distinguish from similar conditions)
-- **Breast Milk Jaundice**: Very common, but the jaundice is UNCONJUGATED, the stools are normal (yellow/mustard), and the urine is clear.
-- **Neonatal Hepatitis (e.g., CMV, Idiopathic)**: Can also present with conjugated hyperbilirubinaemia and pale stools, making it clinically indistinguishable from biliary atresia initially. Requires urgent investigation to differentiate.
+## 3. Key Symptoms & Signs
 
-## 6. Differential Diagnosis
-- **Neonatal Cholestasis (Conjugated Hyperbilirubinaemia)**:
-  - Neonatal Hepatitis (Idiopathic, CMV, Rubella, Syphilis).
-  - Alpha-1 Antitrypsin Deficiency.
-  - Alagille Syndrome (paucity of intrahepatic bile ducts).
-  - Choledochal Cyst.
-  - Galactosaemia.
+### Clinical Presentation Timeline of Biliary Atresia
+* **Normal birthweight** → subsequent **faltering growth (生長遲緩)**.
+* **Prolonged Jaundice (延長性黃疸)**: Persisting >14 days (term) or >21 days (preterm).
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Bloods**:
-  - **Split Bilirubin**: The most important initial test. Shows **Conjugated Hyperbilirubinaemia** (Conjugated bilirubin > 20% of total, or > 25 µmol/L).
-  - LFTs: Elevated GGT, ALP, AST, ALT.
-  - Coagulation Profile (PT/APTT): May be prolonged due to Vitamin K malabsorption.
-- **Abdominal Ultrasound**:
-  - To rule out a choledochal cyst.
-  - *Triangular Cord Sign*: A highly specific sign representing the fibrotic remnant of the biliary tree at the porta hepatis.
-  - Absent or small, irregular gallbladder.
-- **HIDA Scan (Hepatobiliary Iminodiacetic Acid Scan)**:
-  - Shows good hepatic uptake of the tracer but **NO excretion into the bowel** after 24 hours. (Note: Severe neonatal hepatitis can also show no excretion).
-- **Liver Biopsy**: The most definitive non-surgical test. Shows bile duct proliferation, bile plugs, and portal tract fibrosis.
-- **Intraoperative Cholangiogram**: The ultimate gold standard. Performed during surgery to definitively confirm the absence of a patent extrahepatic biliary tree before proceeding to a Kasai portoenterostomy.
+### Key Symptoms of Biliary Atresia
+* **Pale/Acholic Stools (灰白大便)**: Fluctuates initially → increasingly pale/chalky white (absence of stercobilin).
+* **Dark Urine (深色尿)**: Renal excretion of water-soluble **conjugated bilirubin (結合膽紅素)**.
+* **Failure to Thrive**: Fat malabsorption (lack of bile salts).
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Surgical Management (Time-Critical)**:
-  - **Kasai Portoenterostomy (Hepatoportoenterostomy)**: The primary treatment. The fibrotic extrahepatic bile ducts are excised, and a loop of jejunum (Roux-en-Y) is anastomosed directly to the porta hepatis to allow bile to drain from the small residual intrahepatic ducts.
-  - *Crucial Timing*: The success rate of the Kasai procedure drops significantly if performed after **60-90 days of life**. Early referral is paramount.
-- **Medical Management (Post-Kasai)**:
-  - **Fat-Soluble Vitamins**: Supplementation of Vitamins A, D, E, and K due to ongoing malabsorption.
-  - **Ursodeoxycholic Acid (UDCA)**: To promote bile flow.
-  - **Prophylactic Antibiotics**: To prevent ascending cholangitis.
-  - **Nutritional Support**: MCT (Medium Chain Triglyceride) formula, as it does not require bile salts for absorption.
-- **Liver Transplantation**: Biliary atresia is the most common indication for paediatric liver transplantation worldwide. Required if the Kasai procedure fails, or eventually in most patients as cirrhosis progresses despite a successful Kasai.
+### Key Signs of Biliary Atresia
+* **Hepatomegaly (肝腫大)**: Firm, enlarged liver (early sign).
+* **Splenomegaly (脾腫大)**: Develops later secondary to **portal hypertension (門脈高壓)**.
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- **Paediatric Gastroenterology/Hepatology & Paediatric Surgery**.
-- **Dietitian**: Crucial for managing severe malnutrition and fat malabsorption.
-- **MCHC Role**: The stool colour card provided in the MCHC booklet is a vital public health tool in HK for early detection of pale stools by parents.
+## 4. Discriminatory Features (How to distinguish from similar conditions)
 
-## 10. Safeguarding & NAI Red Flags
-- N/A for this condition.
+### Biliary Atresia vs. Breast Milk Jaundice
+* **Breast Milk Jaundice**: **Unconjugated** hyperbilirubinaemia, normal yellow/mustard stools, clear urine. Benign, resolves by 12 weeks.
+* **Biliary Atresia**: **Conjugated** hyperbilirubinaemia, pale stools, dark urine. Surgical emergency.
 
-## 11. Complications & Prognosis
-- **Ascending Cholangitis**: Very common post-Kasai. Presents with fever, worsening jaundice, and pale stools. Requires urgent IV antibiotics.
-- **Portal Hypertension**: Leading to variceal bleeding, ascites, and hypersplenism.
-- **Prognosis**: Without surgery, it is uniformly fatal by 2 years of age. With a Kasai procedure, ~30% survive long-term with their native liver, ~30% require a transplant in childhood, and ~30% require a transplant in infancy.
+### Biliary Atresia vs. Neonatal Hepatitis Syndrome
+* **Neonatal Hepatitis**: Clinically indistinguishable initially (both have conjugated jaundice, pale stools). Requires imaging (US/HIDA) and liver biopsy to differentiate.
 
-## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- *Viva*: "A 4-week-old baby presents with prolonged jaundice. The mother says the stools are 'light-coloured'. What is the single most important blood test to order immediately?" (A split bilirubin / fractionated bilirubin to check if the hyperbilirubinaemia is conjugated or unconjugated).
-- *Viva*: "Why is early diagnosis of Biliary Atresia so critical?" (Because the success of the Kasai portoenterostomy in establishing bile flow and delaying the need for a liver transplant decreases dramatically if performed after 60-90 days of life).
-- *Pitfall*: Assuming prolonged jaundice in a breastfed infant is simply "breast milk jaundice" without specifically asking about stool colour and checking a split bilirubin.
+## 5. Differential Diagnosis
+
+### Differential Diagnosis of Prolonged Conjugated Jaundice
+| Aetiology Category | Differential Diagnoses |
+| :--- | :--- |
+| **Bile Duct Obstruction** | **Biliary Atresia**, Choledochal cyst (膽總管囊腫) |
+| **Infections** | UTI, **Neonatal Hepatitis Syndrome (新生兒肝炎綜合症)** (CMV, Rubella, Syphilis) |
+| **Metabolic/Genetic** | **Alpha-1 Antitrypsin Deficiency**, Galactosaemia, Tyrosinaemia type 1 |
+| **Intrahepatic Hypoplasia** | **Alagille Syndrome** (paucity of bile ducts, triangular facies, butterfly vertebrae) |
+| **Other** | Progressive Familial Intrahepatic Cholestasis (PFIC), Cystic Fibrosis |
+
+## 6. Tiered Investigations
+
+### Bedside & Blood Investigations for Biliary Atresia
+* **Split Bilirubin (總/直接膽紅素)**: **Conjugated Hyperbilirubinaemia** (Conjugated >20% of total, or >25 µmol/L). *Crucial 1st test.*
+* **LFTs**: ↑↑ **GGT** (often >400 IU/L), ↑ ALP, ↑ AST/ALT.
+* **Clotting Profile**: Prolonged PT/APTT (↓ Vit K absorption).
+
+### Imaging for Biliary Atresia
+* **Fasting Abdominal US (腹部超聲波)**: Absent or contracted gallbladder, **Triangular Cord Sign** (fibrotic remnant at porta hepatis). Excludes choledochal cyst.
+* **HIDA Scan**: Good hepatic uptake → **NO bowel excretion** at 24 hrs. (Note: Severe hepatitis can mimic this).
+
+### Invasive & Gold Standard Investigations for Biliary Atresia
+* **Liver Biopsy (肝活檢)**: Definitive non-surgical test. Shows extrahepatic obstruction, bile plugs, ductular proliferation, portal tract fibrosis.
+* **Operative Cholangiogram (膽管造影)**: **Gold Standard**. Done during surgery; confirms failure to outline a patent biliary tree.
+
+## 7. Management (Acute, Chronic, HA Protocols)
+
+### Surgical Management of Biliary Atresia
+| Procedure | Details & Timing |
+| :--- | :--- |
+| **Kasai Portoenterostomy (肝門空腸吻合術)** | **1st Line**. Fibrotic ducts excised → Roux-en-Y jejunum loop anastomosed directly to porta hepatis. |
+| **Time-Critical Window** | Must be performed **<60 days of life**. Success (jaundice clearance) drops dramatically if delayed. |
+| **Liver Transplant (肝移植)** | Required if Kasai fails, or for late-stage cirrhosis/portal HTN. Most common indication for paediatric transplant. |
+
+### Medical & Chronic Management of Biliary Atresia
+* **Nutritional Support**: High **MCT (Medium Chain Triglyceride) formula** (absorbable without bile salts).
+* **Vitamin Supplementation**: High-dose **Fat-Soluble Vitamins (脂溶性維他命)** (A, D, E, K).
+* **Ursodeoxycholic Acid (UDCA)**: PO to promote bile flow.
+* **Prophylactic ABX**: PO/IV to prevent ascending cholangitis post-Kasai.
+
+## 8. MDT & Psychosocial Care
+
+### MDT Roles in Biliary Atresia
+* **Specialists**: Paediatric Gastroenterology/Hepatology, Paediatric Surgery.
+* **Dietitian**: Aggressive nutritional optimization pre/post-op.
+* **MCHC (母嬰健康院)**: Universal screening via **Stool Colour Card** in MCHC booklet → drives early parental recognition & early HA referral.
+
+## 9. Safeguarding & NAI Red Flags
+
+### Safeguarding Considerations in Biliary Atresia
+* Condition itself is not NAI.
+* Medical Neglect: Defaulting specialized feeds, UDCA, or missing transplant evaluation appointments constitutes neglect.
+
+## 10. Complications & Prognosis
+
+### Acute & Chronic Complications of Biliary Atresia
+* **Ascending Cholangitis (膽管炎)**: Very common post-Kasai. Presents with fever, ↑ jaundice, pale stools. Needs urgent IV ABX.
+* **Portal Hypertension (門脈高壓)**: → Splenomegaly, Ascites, Oesophageal Varices (bleeding risk).
+* **Fat-Soluble Vit Deficiency**: → Coagulopathy (K), Rickets (D), Neuropathy (E).
+
+### Prognosis of Biliary Atresia
+* Untreated → 100% fatal by age 2.
+* Post-Kasai: ~30% survive long-term with native liver, ~30% need transplant in childhood, ~30% need transplant in infancy.
+
+## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
+
+* Viva Question: A 4-week-old baby presents with prolonged jaundice. The mother says the stools are 'light-coloured'. What is the single most important blood test to order immediately? Answer: A split bilirubin (fractionated bilirubin) to confirm conjugated hyperbilirubinaemia.
+* Viva Question: Why is early diagnosis of Biliary Atresia so critical? Answer: The success rate of the Kasai portoenterostomy (establishing bile flow and delaying transplant) decreases dramatically if performed after 60 days of life.
+* Pitfall: Assuming prolonged jaundice in a breastfed infant is simply "breast milk jaundice". You must specifically ask about stool/urine colour and check a split bilirubin to rule out biliary atresia.
+* Trap: Relying solely on a HIDA scan to diagnose Biliary Atresia. Pearl: HIDA scan can show no excretion in severe neonatal hepatitis as well; liver biopsy and operative cholangiogram are required for definitive diagnosis.

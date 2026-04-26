@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7950882780984e09",
+        "id": "dac92e031bd22b25",
         "type": "tabs",
         "children": [
           {
-            "id": "73be506908855946",
+            "id": "5911163fca49ed7e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "paediatrics/ddh.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ddh"
             }
           }
         ]
@@ -181,36 +185,36 @@
       "custom-image-auto-uploader:Custom Image Auto Uploader": false
     }
   },
-  "active": "73be506908855946",
+  "active": "5911163fca49ed7e",
   "lastOpenFiles": [
+    "paediatrics/hepatorenal_syndrome.md",
+    "paediatrics/sbp.md",
+    "paediatrics/ibd.md",
+    "paediatrics/toddler_diarrhoea.md",
+    "paediatrics/short_bowel_syndrome.md",
+    "paediatrics/lactose_intolerance.md",
+    "paediatrics/eosinophilic_oesophagitis.md",
+    "paediatrics/peptic_ulcer.md",
+    "paediatrics/gord.md",
+    "paediatrics/recurrent_abdominal_pain.md",
+    "paediatrics/duodenal_atresia.md",
+    "paediatrics/nec.md",
+    "paediatrics/pyloric_stenosis.md",
+    "paediatrics/gastroenteritis.md",
+    "paediatrics/hirschsprung.md",
+    "paediatrics/biliary.md",
+    "paediatrics/coeliac.md",
+    "paediatrics/albinism.md",
+    "paediatrics/osteogenesis_imperfecta.md",
+    "paediatrics/cleidocranial_dysostosis.md",
+    "paediatrics/achondroplasia.md",
+    "paediatrics/marfan_syndrome.md",
+    "paediatrics/beckwith_wiedemann.md",
+    "paediatrics/williams_syndrome.md",
+    "paediatrics/gdd.md",
     "paediatrics/poisoning.md",
-    "paediatrics/septicaemia.md",
-    "paediatrics/status_epi.md",
-    "paediatrics/anaphylaxis.md",
-    "paediatrics/lad.md",
-    "paediatrics/cgd.md",
-    "paediatrics/iga_deficiency.md",
-    "paediatrics/cvid.md",
-    "paediatrics/xla.md",
-    "paediatrics/wiskott_aldrich.md",
-    "paediatrics/scid.md",
-    "paediatrics/drug_allergy_sjs.md",
-    "paediatrics/urticaria_angioedema.md",
-    "paediatrics/allergic_rhinitis.md",
-    "paediatrics/food_allergy.md",
-    "paediatrics/nai.md",
-    "paediatrics/gillick.md",
-    "paediatrics/vaccine.md",
-    "paediatrics/kawasaki.md",
-    "paediatrics/sga_lga.md",
-    "paediatrics/rds.md",
     "Logo-white bg.png",
-    "paediatrics/retinoblastoma.md",
     "Logo.png",
-    "paediatrics/bone_tumours.md",
-    "paediatrics/rhabdomyosarcoma.md",
-    "paediatrics/lymphoma.md",
-    "paediatrics/lch.md",
     "extract_notes.sh",
     "FMCC",
     "paediatrics"

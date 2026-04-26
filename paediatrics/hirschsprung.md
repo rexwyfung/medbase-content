@@ -1,64 +1,140 @@
 # Hirschsprung Disease (先天性巨結腸症)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: A congenital motor disorder of the gut caused by the failure of neural crest cells to migrate completely during intestinal development. This results in an aganglionic segment of the colon that fails to relax, causing a functional obstruction.
-- **Local Epidemiology**: Incidence is ~1 in 5,000 live births. More common in males (4:1). Associated with Down syndrome (Trisomy 21).
+
+### Clinical Definition
+- **Congenital motor disorder** of the gut → failure of neural crest cells to migrate completely during intestinal development.
+- Results in an **aganglionic segment** of the colon → fails to relax → causes a **functional obstruction** (功能性腸梗阻).
+
+### Local Epidemiology & Demographics
+- **Incidence**: ~1 in 5,000 live births in HK.
+- **Sex**: ♂ > ♀ (4:1).
+- **Syndromic Association**: Strongly associated with **Down syndrome (Trisomy 21)** (唐氏綜合症) (approx. 10% of HD patients have Down syndrome).
 
 ## 2. Pathophysiology & Genetics
-- **Aganglionosis**: The absence of parasympathetic ganglion cells in the submucosal (Meissner) and myenteric (Auerbach) plexuses of the distal intestine.
-- **Functional Obstruction**: The aganglionic segment is tonically contracted and cannot undergo peristalsis or relax to allow stool to pass.
-- **Dilation**: The normal, ganglionic bowel *proximal* to the obstruction becomes massively dilated (megacolon) as it tries to push stool through the narrow, aganglionic segment.
-- **Genetics**: Associated with mutations in the *RET* proto-oncogene. 10% of cases occur in children with Down syndrome.
+
+### Pathophysiology of Aganglionosis
+- **Aganglionosis**: Absence of parasympathetic ganglion cells in the submucosal (**Meissner**) & myenteric (**Auerbach**) plexuses of the distal intestine.
+- **Functional Obstruction**: The aganglionic segment remains tonically contracted → lacks peristalsis → fails to relax to allow stool passage.
+- **Megacolon (巨結腸)**: Normal, ganglionic bowel proximal to the obstruction becomes massively dilated as it attempts to push stool through the spastic segment.
+
+### Genetic Basis
+- Associated with mutations in the **RET proto-oncogene**.
+- +ve family history serves as a significant clinical red flag.
 
 ## 3. Clinical Presentation
-- **Neonatal (Most common)**: Presents with delayed passage of meconium (>48 hours after birth), progressive abdominal distension, and bilious vomiting (a red flag for neonatal bowel obstruction).
-- **Older Infant/Child**: Presents with severe, chronic, treatment-resistant constipation, failure to thrive, and a distended abdomen. They often require daily enemas to pass stool.
+
+### Neonatal Presentation (Most Common)
+- **Delayed Meconium** (胎糞排出延遲): Failure to pass meconium >48 hours post-birth.
+- Progressive **abdominal distension** (腹部脹大).
+- **Bilious vomiting** (膽汁性嘔吐) → absolute red flag for neonatal bowel obstruction.
+
+### Older Infant/Child Presentation
+- Severe, chronic, **treatment-resistant constipation** (便秘).
+- **Failure to thrive (FTT)** (生長遲緩).
+- Distended abdomen.
+- Often completely dependent on daily enemas to pass stool.
 
 ## 4. Key Symptoms & Signs
-- **Delayed Meconium**: > 90% of normal term infants pass meconium within 24 hours. Failure to do so by 48 hours is Hirschsprung disease until proven otherwise.
-- **Abdominal Distension**: Often massive and tense.
-- **Digital Rectal Examination (DRE)**: 
-  - The rectum is typically **empty of stool** (because stool cannot get past the aganglionic segment).
-  - **"Squirt Sign" or "Blast Sign"**: Withdrawal of the examining finger may be followed by an explosive discharge of foul-smelling gas and liquid stool (as the DRE temporarily overcomes the spasm of the aganglionic segment).
+
+### Essential Diagnostic Signs
+- **Delayed Meconium Rule**: >90% of normal term infants pass meconium <24h. Failure >48h = **HD until proven otherwise**.
+- **Abdominal Distension**: Tense & massively enlarged.
+- **Digital Rectal Examination (DRE)** (直腸指檢) Findings:
+  - Rectum typically **empty of stool** (stool arrested proximal to the aganglionic segment).
+  - **"Squirt Sign" / "Blast Sign"**: Withdrawal of examining finger followed by an explosive discharge of foul-smelling gas and liquid stool (temporarily overcomes the spastic segment).
 
 ## 5. Discriminatory Features (How to distinguish from similar conditions)
-- **Functional Constipation**: Extremely common in toddlers. Presents with hard, large-caliber stools, withholding behavior (dancing, crossing legs), and the rectum is usually *full* of impacted stool on DRE. No delayed meconium history.
-- **Meconium Ileus**: Associated with Cystic Fibrosis. The obstruction is due to thick, sticky meconium in the terminal ileum, not an aganglionic colon.
+
+### Hirschsprung Disease vs. Functional Constipation
+| Feature | Hirschsprung Disease (先天性巨結腸症) | Functional Constipation (功能性便秘) |
+| :--- | :--- | :--- |
+| **Onset** | Neonatal (delayed meconium >48h) | Toddler (often post-weaning / toilet training) |
+| **Stool Caliber** | Small / ribbon-like | Hard, large-caliber |
+| **DRE Findings** | Empty rectum, +ve "Squirt Sign" | Rectum full of impacted stool |
+| **Behavior** | Poor feeding, bilious vomiting | Withholding behavior (dancing, crossing legs) |
+| **Growth/Nutrition** | Faltering growth / FTT | Normal growth |
 
 ## 6. Differential Diagnosis
-- **Neonatal**: Meconium ileus, intestinal atresia (ileal/jejunal), malrotation with volvulus, meconium plug syndrome.
-- **Older Child**: Functional/idiopathic constipation, hypothyroidism, Coeliac disease, spinal cord lesions (e.g., spina bifida).
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Abdominal X-ray (AXR)**: Shows dilated loops of bowel with air-fluid levels (signs of distal bowel obstruction) and an absence of gas in the rectum.
-- **Contrast Enema (Water-soluble)**: 
-  - *Classic finding*: A **"transition zone"** - a narrow, spastic aganglionic distal segment leading into a massively dilated proximal ganglionic segment.
-- **Rectal Suction Biopsy (RSB)**: **The diagnostic gold standard**.
-  - Must be taken at least 2cm above the dentate line.
-  - *Histology shows*: **Absence of ganglion cells** and **hypertrophied nerve trunks** (which stain strongly positive for Acetylcholinesterase - AChE).
+### Neonatal Bowel Obstruction Differentials
+- **Meconium Ileus** (胎糞性腸梗阻): Strongly associated with **Cystic Fibrosis** (囊性纖維化); obstruction due to thick, sticky meconium in terminal ileum.
+- **Intestinal Atresia** (腸閉鎖): Ileal or jejunal.
+- **Malrotation with Volvulus** (腸扭轉): Presents acutely with bilious vomiting & shock.
+- **Meconium Plug Syndrome**: Often resolves rapidly post-enema/DRE.
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Acute Decompression**: 
-  - NBM (Nil By Mouth), IV fluids, NG tube for gastric decompression.
-  - **Rectal Washouts (Irrigations)**: Essential to decompress the dilated bowel and prevent enterocolitis while awaiting surgery. Warm saline is gently instilled and drained via a rectal tube.
-- **Surgical Management**:
-  - The definitive treatment is the surgical resection of the aganglionic segment and a "pull-through" procedure, bringing the normal, ganglionic bowel down to the anus.
-  - *Common procedures*: Duhamel, Soave, or Swenson pull-through.
-  - Often done as a primary single-stage procedure in the neonatal period if the bowel is well-decompressed. If the bowel is massively dilated or enterocolitis is present, a temporary colostomy is formed first, followed by a delayed pull-through.
+### Older Child Constipation Differentials
+- **Functional/Idiopathic Constipation** (most common).
+- **Hypothyroidism** (甲狀腺功能低下).
+- **Coeliac Disease** (乳糜瀉).
+- **Spinal Cord Lesions**: e.g., Spina Bifida (脊柱裂) / tethered cord.
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- **Paediatric Surgery**.
-- **Stoma Nurse**: Crucial for educating parents on stoma care or rectal washouts.
-- **Dietitian**: To optimize growth.
+## 7. Tiered Investigations
+
+### Bedside & Laboratory Tests
+- **NBM & IV Hydration**: Essential initial steps before further workup.
+- **Bloods**: CBC, CRP, Renal function, Blood culture, VBG (if HAEC/sepsis suspected).
+
+### Radiological Imaging
+- **Abdominal X-ray (AXR)** (腹部X光):
+  - Shows dilated bowel loops + air-fluid levels (distal obstruction signs).
+  - Absence of gas in the rectum.
+- **Water-Soluble Contrast Enema** (水溶性灌腸造影):
+  - Classic finding: **"Transition zone"** (過渡區) → narrow, spastic aganglionic distal segment abruptly widening into a massively dilated proximal ganglionic segment.
+
+### Gold Standard Diagnostic Test
+- **Rectal Suction Biopsy (RSB)** (直腸抽吸活檢):
+  - Must be taken ≥2cm above dentate line.
+  - **Histology**: **Absence of ganglion cells** + **Hypertrophied nerve trunks**.
+  - **Staining**: Nerve trunks stain strongly +ve for **Acetylcholinesterase (AChE)** (乙酰膽鹼酯酶).
+
+## 8. Management (Acute, Chronic, HA Protocols)
+
+### Acute Decompression Management
+- **NBM (Nil By Mouth)** (禁食).
+- **IV Fluids** (靜脈輸液): Correct dehydration.
+- **NG Tube** (胃管): Free drainage for gastric decompression.
+- **Rectal Washouts (Irrigations)** (直腸灌洗): Warm saline gently instilled/drained via rectal tube → decompresses bowel & prevents enterocolitis pre-op.
+
+### Definitive Surgical Management
+- **Goal**: Surgical resection of aganglionic segment + **"Pull-Through"** (拖出術) of normal ganglionic bowel down to the anus.
+- **Common Procedures**: Duhamel, Soave, or Swenson pull-through.
+- **Staging**:
+  - **Primary Single-Stage**: Done in neonatal period if bowel is well-decompressed.
+  - **Staged Procedure**: If massively dilated or HAEC present → temporary **colostomy** (結腸造口) formed first → delayed pull-through later.
+
+## 9. MDT & Psychosocial Care
+
+### Multidisciplinary Team Roles
+- **Paediatric Surgeon**: Primary surgical correction and follow-up.
+- **Stoma Nurse**: Crucial for educating parents on colostomy care & home rectal washouts.
+- **Dietitian**: Optimize nutrition for catch-up growth.
+- **Medical Social Worker (MSW)**: Support for long-term chronic care burden.
 
 ## 10. Safeguarding & NAI Red Flags
-- N/A for this condition.
+
+### Child Protection Considerations
+- While HD is congenital, repeated failure to attend surgical follow-ups or parental failure to perform prescribed life-saving rectal washouts may constitute **Medical Neglect** → requires MSW/SWD evaluation.
 
 ## 11. Complications & Prognosis
-- **Hirschsprung-Associated Enterocolitis (HAEC)**: The most feared and potentially fatal complication. Can occur *before or after* surgery. Presents with explosive, foul-smelling bloody diarrhoea, fever, massive abdominal distension, and shock. Requires urgent IV fluids, broad-spectrum IV antibiotics (Metronidazole + Ceftriaxone), and rectal washouts.
-- **Post-operative**: Constipation (retained aganglionic segment or stricture), faecal incontinence, anastomotic leak.
-- **Prognosis**: Generally good after successful surgery, though bowel function may never be entirely "normal," and long-term follow-up is required.
+
+### Hirschsprung-Associated Enterocolitis (HAEC) (巨結腸併發小腸結腸炎)
+- **Most feared & potentially fatal** complication (can occur pre-op or post-op).
+- **Presentation**: Explosive, foul-smelling bloody diarrhoea, fever, massive abdominal distension, shock.
+- **Emergency HAEC Protocol**:
+  - Urgent IV fluid resuscitation.
+  - Broad-spectrum IV Abx (e.g., **Ceftriaxone + Metronidazole**).
+  - Urgent **Rectal washouts**.
+
+### Post-Operative Complications & Prognosis
+- **Surgical Complications**: Anastomotic leak (吻合口瘺), strictures.
+- **Functional Complications**: Chronic constipation (retained aganglionic segment/motility issues) or **faecal incontinence** (大便失禁).
+- **Prognosis**: Good post-surgery, but bowel function may never be entirely "normal" → lifelong follow-up required.
 
 ## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- *Viva*: "A 3-day-old neonate presents with bilious vomiting and has not yet passed meconium. You perform a digital rectal exam and there is an explosive release of gas and stool. What is the diagnosis, and what is the gold standard investigation?" (Hirschsprung disease. Gold standard is a rectal suction biopsy showing absent ganglion cells and hypertrophied nerve trunks).
-- *Viva*: "What is the most dangerous complication of Hirschsprung disease, and how does it present?" (Hirschsprung-Associated Enterocolitis - HAEC. Presents with fever, abdominal distension, and explosive, foul-smelling, bloody diarrhoea).
+
+* Viva Question: A 3-day-old neonate presents with bilious vomiting and has not yet passed meconium. You perform a digital rectal exam and there is an explosive release of gas and stool. What is the diagnosis, and what is the gold standard investigation? Answer: Hirschsprung disease. Gold standard is a rectal suction biopsy showing absent ganglion cells and hypertrophied nerve trunks.
+* Viva Question: What is the most dangerous complication of Hirschsprung disease, and how does it present? Answer: Hirschsprung-Associated Enterocolitis (HAEC). Presents with fever, abdominal distension, and explosive, foul-smelling, bloody diarrhoea.
+* Trap: Assuming a transition zone on contrast enema is always required to diagnose Hirschsprung disease. Pearl: The transition zone may not be visible in neonates or in total colonic aganglionosis; Rectal Suction Biopsy (RSB) remains the definitive diagnostic gold standard.
+* Trap: Treating constipation in an infant presenting with ribbon-like stools and faltering growth with simple oral laxatives. Pearl: These are massive red flags for an organic cause like Hirschsprung disease. You must investigate with DRE, AXR, and refer to paediatric surgery.
+* Pitfall: Diagnosing Functional Constipation in a child who had a history of delayed passage of meconium (>48 hours) as a neonate. Always rule out Hirschsprung disease first, as functional constipation does not present with a history of delayed meconium.

@@ -1,55 +1,91 @@
-# Eosinophilic Oesophagitis (EoE) (嗜酸性食管炎)
+# Eosinophilic Oesophagitis (嗜酸性食管炎)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: A chronic immune-mediated/antigen-mediated esophageal disease characterized clinically by esophageal dysfunction and histologically by eosinophil-predominant inflammation.
-- **Local Epidemiology**: Increasingly recognized in HK. Notably male predominance (3:1).
+### Clinical Definition
+* Chronic **immune/antigen-mediated** esophageal disease.
+* Clinical: **Esophageal dysfunction** (食管功能障礙).
+* Histological: **Eosinophil-predominant inflammation** (嗜酸性粒細胞主導的炎症).
+
+### Local Epidemiology in Hong Kong
+* ↑ Recognized in **HK**.
+* **Male predominance** (3:1).
 
 ## 2. Pathophysiology & Genetics
-- An aberrant Th2 inflammatory response to ingested food allergens or aeroallergens.
-- Chronic inflammation leads to esophageal remodeling, subepithelial fibrosis, ring formation, and eventual strictures, causing severe mechanical dysphagia.
+### Pathophysiology Mechanism
+* Aberrant **Th2 inflammatory response** to ingested food/aeroallergens.
+* Chronic inflammation → Esophageal remodeling → **Subepithelial fibrosis** → **Ring formation** → **Strictures**.
+* Consequence: Severe **mechanical dysphagia** (機械性吞嚥困難).
 
-## 3. Clinical Presentation
-- Heavily age-dependent:
-  - Infants/Toddlers: Feeding refusal, vomiting, failure to thrive.
-  - School-age/Adolescents: **Dysphagia, food impaction** (meat getting "stuck" in the chest requiring ER retrieval), retrosternal chest pain.
+### Genetic & Environmental Risk Factors
+* Strong personal/family history of **atopy** (Asthma, Eczema, Allergic Rhinitis, Food allergies).
 
-## 4. Key Symptoms & Signs
-- A very strong personal or family history of **atopy** (Asthma, Eczema, Allergic Rhinitis, Food allergies).
-- Slow eating, drinking copious amounts of water with meals to "wash food down", avoiding tough meats.
+## 3. Key Symptoms & Signs
+### Age-Dependent Presentation
+| Age Group | Key Symptoms |
+| :--- | :--- |
+| **Infants/Toddlers** | Feeding refusal, vomiting, **failure to thrive** (生長遲緩). |
+| **School-age/Adolescents** | **Dysphagia** (吞嚥困難), **food impaction** (食物嵌塞 - requiring ER retrieval), retrosternal chest pain. |
 
-## 5. Discriminatory Features (How to distinguish from similar conditions)
-- Distinct from GORD: EoE does not typically respond comprehensively to standard PPI therapy alone, and symptoms are more mechanical (dysphagia/impaction) rather than purely burning/acid reflux.
+### Compensatory Feeding Behaviors
+* Slow eating.
+* Drinking copious water with meals to "wash food down".
+* Avoiding tough meats/pills.
 
-## 6. Differential Diagnosis
-- Gastro-oesophageal Reflux Disease (GORD)
-- Achalasia (motility disorder)
-- Esophageal structural anomalies (webs/rings)
-- Cow's Milk Protein Allergy (mainly infants)
+## 4. Discriminatory Features (How to distinguish from similar conditions)
+### Distinguishing EoE from GORD
+* **EoE** does **NOT** fully respond to standard PPI therapy alone.
+* Symptoms are primarily **mechanical** (dysphagia/impaction) rather than purely burning/acid reflux.
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Definitive Diagnosis**: Esophagogastroduodenoscopy (OGD).
-  - Macroscopic appearance: Trachealization of the esophagus (multiple concentric rings), linear furrows, white exudates (eosinophil microabscesses).
-  - **Biopsy (Mandatory)**: $\ge$ 15 Eosinophils per High Power Field (HPF). MUST take biopsies from proximal and distal esophagus, as mucosal appearance can sometimes be falsely normal.
+## 5. Differential Diagnosis
+### Main Differential Diagnoses
+* **Gastro-oesophageal Reflux Disease (GORD)** (胃食管反流病)
+* **Achalasia** (賁門失弛緩症 - motility disorder)
+* **Esophageal structural anomalies** (webs/rings)
+* **Cow's Milk Protein Allergy** (牛奶蛋白過敏 - mainly infants)
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **3 D's framework**: Drugs, Diet, Dilation.
-- **Diet**: 6-Food Elimination Diet (SFED: avoiding milk, egg, soy, wheat, peanuts/tree nuts, seafood) or targeted elimination based on allergy testing.
-- **Drugs**: 
-  - Swallowed topical corticosteroids (e.g., Fluticasone MDI sprayed into mouth and swallowed, or oral viscous Budesonide). Note: Do NOT use a spacer; the goal is to coat the esophagus, not the lungs.
-  - High-dose PPI therapy (some respond well, termed PPI-responsive esophageal eosinophilia).
-- **Dilation**: Endoscopic stricture dilation for severely fibrotic, narrowed esophagi.
+## 6. Tiered Investigations
+### Bedside Allergy Testing
+* Specific IgE or skin prick tests (to identify potential food triggers).
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- Dietetic support is exceptionally crucial to ensure the child isn't malnourished during strict elimination diets.
-- Allergy/Immunology collaboration.
+### Gold Standard Diagnostic Investigation
+* **Esophagogastroduodenoscopy (OGD)** (食管胃十二指腸鏡檢查).
+* **Macroscopic appearance**: **Trachealization** of esophagus (multiple concentric rings), linear furrows, white exudates (eosinophil microabscesses).
+* **Mandatory Biopsy**: $\ge$ **15 Eosinophils / High Power Field (HPF)**.
+* MUST biopsy **proximal AND distal** esophagus (mucosa can appear falsely normal).
 
-## 10. Safeguarding & NAI Red Flags
-- Repeatedly dismissing a child complaining that "food is stuck" as just being a "picky eater" can lead to dangerous acute food impaction and aspiration events.
+## 7. Management (Acute, Chronic, HA Protocols)
+### Overall Management Framework
+* **The 3 D's**: **D**rugs, **D**iet, **D**ilation.
 
-## 11. Complications & Prognosis
-- Acute total food bolus impaction (medical emergency requiring scope).
-- Chronic esophageal strictures (irreversible fibrotic changes if inflammation is untreated).
+### Dietary Management Strategies
+* **6-Food Elimination Diet (SFED)**: Avoid milk, egg, soy, wheat, peanuts/tree nuts, seafood.
+* **Targeted elimination**: Based on allergy testing results.
 
-## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- **Trap**: Instructing the patient to use a spacer for their fluticasone inhaler.
-- **Viva Q**: "Why do we tell them to swallow the steroid inhaler actuation without a spacer, and not to eat or drink for 30 minutes after?" Answer: Because we are using an asthma medication "off-label" to topically coat the esophagus. A spacer sends it to the lungs. Eating/drinking immediately washes it straight into the stomach, rendering it useless.
+### Pharmacological Therapy
+* **Swallowed topical corticosteroids** (e.g., **Fluticasone MDI** or oral viscous **Budesonide**).
+* *Administration rule*: Sprayed into mouth & swallowed. **NO spacer**.
+* **High-dose PPI therapy**: For PPI-responsive esophageal eosinophilia.
+
+### Interventional Management
+* **Endoscopic stricture dilation**: For severely fibrotic, narrowed esophagi.
+
+## 8. MDT & Psychosocial Care
+### Dietetic & Immunology Collaboration
+* **Dietitian (RD)** support is exceptionally crucial to ensure child isn't malnourished during strict elimination diets.
+* **Allergy/Immunology** collaboration for trigger identification/management.
+
+## 9. Safeguarding & NAI Red Flags
+### Parental Dismissal Risks
+* Repeatedly dismissing child complaining "food is stuck" as "picky eater" → dangerous acute food impaction and aspiration events.
+
+## 10. Complications & Prognosis
+### Acute Complications
+* **Total food bolus impaction** (食物嵌塞): Medical emergency requiring urgent endoscopic retrieval.
+
+### Chronic Complications
+* **Esophageal strictures** (食管狹窄): Irreversible fibrotic changes if inflammation untreated.
+
+## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
+* Trap: Instructing the patient to use a spacer for their fluticasone inhaler. Pearl: The medication must be swallowed directly to coat the esophagus, not inhaled into the lungs.
+* Viva Question: Why do we tell them to swallow the steroid inhaler actuation without a spacer, and not to eat or drink for 30 minutes after? Answer: Because we are using an asthma medication "off-label" to topically coat the esophagus. A spacer sends it to the lungs. Eating/drinking immediately washes it straight into the stomach, rendering it useless.
+* Pitfall: Biopsying only visibly abnormal mucosa during OGD. Always biopsy both proximal and distal esophagus, as mucosal appearance can be falsely normal despite microscopic eosinophilic infiltration.

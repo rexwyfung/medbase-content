@@ -1,55 +1,103 @@
-# Hepatorenal Syndrome (HRS) (肝腎綜合症)
+# Hepatorenal Syndrome (肝腎綜合症)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: A severe, purely functional form of acute kidney injury (renal failure) that occurs in patients with advanced liver cirrhosis and severe portal hypertension.
-- **Local Epidemiology**: High mortality complication of end-stage pediatric liver diseases (like severe Biliary Atresia). 
+### Clinical Definition of Hepatorenal Syndrome
+Severe, purely functional **Acute Kidney Injury (急性腎損傷)** occurring in patients with advanced liver cirrhosis & severe **Portal Hypertension (門靜脈高壓)**. 
+
+### Local Epidemiology in Hong Kong
+High mortality complication primarily seen in end-stage pediatric liver diseases (e.g., severe **Biliary Atresia (膽道閉鎖)** awaiting transplant at Queen Mary Hospital).
 
 ## 2. Pathophysiology & Genetics
-- Represents the extreme end of hemodynamic derangement in cirrhosis.
-- Severe portal hypertension causes massive release of splanchnic vasodilators (like nitric oxide). This causes profound pooling of blood in the gut circulation (splanchnic vasodilation), drastically dropping effective arterial blood volume.
-- The kidneys panic and furiously activate the Renin-Angiotensin-Aldosterone System (RAAS) and sympathetic nervous system to clamp down.
-- Result: **Profound, intense intrinsic renal vasoconstriction**. The kidneys essentially strangle their own blood supply despite being completely structurally normal.
+### Systemic Hemodynamic Derangement
+Severe **Portal Hypertension (門靜脈高壓)** → massive release of splanchnic vasodilators (e.g., Nitric Oxide) → profound splanchnic vasodilation & gut blood pooling → drastic ↓ effective arterial blood volume.
+
+### Renal Vasoconstrictive Response
+Kidneys detect ↓ perfusion → extreme hyperactivation of **RAAS (腎素-血管緊張素-醛固酮系統)** & sympathetic nervous system → profound, intense intrinsic renal vasoconstriction. 
+* Kidneys strangle their own blood supply despite being structurally normal.
+
+### Classification of HRS Types
+* **Type 1 HRS**: Rapidly progressive renal failure (Cr doubling to >2.5 mg/dL in <2 weeks).
+* **Type 2 HRS**: Moderate, steady decline in renal function (Cr >1.5 mg/dL); main feature is refractory **Ascites (腹水)**.
 
 ## 3. Clinical Presentation
-- A child with known terrible liver disease (jaundiced, gross ascites) who suddenly stops making urine (oliguria) and whose creatinine begins to rocket upward.
+### Acute Presentation of Hepatorenal Syndrome
+Child with known end-stage liver disease (jaundiced, gross **Ascites (腹水)**) → sudden onset of **Oliguria (少尿)** → rapidly ↑ serum creatinine.
 
 ## 4. Key Symptoms & Signs
-- Signs of end-stage liver disease: Jaundice, spider angiomas, caput medusae, huge ascites, hepatic encephalopathy.
-- Renal signs: Oliguria/anuria.
-- Crucially: **No signs of true intrinsic kidney damage** (no blood in urine, no cellular casts).
+### Hepatic Signs of End-Stage Liver Disease
+* **Jaundice (黃疸)**
+* Spider angiomas & Caput medusae
+* Massive **Ascites (腹水)**
+* **Hepatic Encephalopathy (肝性腦病)**
+
+### Renal Signs in Hepatorenal Syndrome
+* **Oliguria/Anuria (少尿/無尿)**
+* Absence of intrinsic kidney damage signs (-ve hematuria, -ve cellular casts).
 
 ## 5. Discriminatory Features (How to distinguish from similar conditions)
-- Must distinguish from Pre-renal AKI (which responds to IV fluids) and Acute Tubular Necrosis (ATN - which does not respond to fluids but has muddy brown casts in the urine).
+### Differentiating HRS vs Pre-renal AKI vs ATN
+
+| Feature | Pre-renal AKI | Hepatorenal Syndrome (HRS) | Acute Tubular Necrosis (ATN) |
+| :--- | :--- | :--- | :--- |
+| **Response to IV Fluids/Albumin** | +ve (Rapid improvement) | -ve (No improvement) | -ve (No improvement) |
+| **Urine Microscopy** | Normal | Normal | Muddy brown granular casts |
+| **Urine Sodium (Na)** | < 10 mmol/L | < 10 mmol/L | > 20 mmol/L |
+| **Fractional Excretion of Na (FENa)**| < 1% | < 1% | > 2% |
 
 ## 6. Differential Diagnosis
-- Pre-renal Acute Kidney Injury (dehydration, diuretic overuse)
-- Acute Tubular Necrosis (ATN)
-- Glomerulonephritis (e.g., Hepatitis B/C related)
+### Differentials for AKI in Advanced Liver Disease
+* Pre-renal AKI (severe dehydration, aggressive diuretic overuse, GI bleeding)
+* **Acute Tubular Necrosis (ATN) (急性腎小管壞死)** (ischemic or nephrotoxic)
+* Glomerulonephritis (e.g., Hepatitis B/C-related nephropathy)
+* Drug-induced nephrotoxicity (Aminoglycosides, NSAIDs)
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Diagnosis of Exclusion**:
-  1. Have liver cirrhosis + ascites.
-  2. Diagnosis of AKI (Creatinine > 1.5 mg/dL or rapidly rising).
-  3. **No improvement in serum creatinine after 48 hours of diuretic withdrawal and volume expansion with IV Albumin.**
-  4. Absence of shock.
-  5. No current nephrotoxic drugs.
-  6. Absence of parenchymal kidney disease (normal urine microscopy, normal renal ultrasound).
+## 7. Tiered Investigations
+### Diagnostic Criteria for HRS (ICA Criteria)
+Diagnosis of exclusion requiring ALL of the following:
+* Liver cirrhosis + **Ascites (腹水)**.
+* Diagnosis of AKI (Creatinine > 1.5 mg/dL or rapidly ↑).
+* No improvement in serum creatinine after 48h of diuretic withdrawal & volume expansion with **IV Albumin (白蛋白)**.
+* Absence of shock.
+* No current/recent nephrotoxic drugs.
+* Absence of parenchymal kidney disease (normal urine microscopy, normal ultrasound).
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Bridging Therapy (Medical)**: 
-  - **Splanchnic Vasoconstrictors**: Terlipressin (a vasopressin analogue) is given IV to brutally clamp shut the dilated splanchnic vessels, forcing blood back into the central circulation.
-  - **Volume Expansion**: IV Albumin given concurrently.
-- **Definitive Treatment**: Liver transplantation. The moment a new liver is plumbed in, the hemodynamics normalize, and the "failed" kidneys instantly begin working perfectly again.
+### Bedside & Laboratory Investigations
+* **Urine**: Normal microscopy, Urine Na < 10 mmol/L (avid Na retention).
+* **Bloods**: ↑ Cr, ↑ BUN, ↓ Na (dilutional hyponatremia), deranged LFTs/PT/INR.
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- Deep involvement of the ICU team and Liver Transplant coordinators.
+### Imaging Investigations
+* **Renal Ultrasound (腎臟超聲波)**: Structurally normal kidneys (rules out obstructive uropathy or parenchymal disease).
+
+## 8. Management (Acute, Chronic, HA Protocols)
+### Acute Medical Bridging Therapy (Vasoconstrictors)
+* STOP all diuretics & nephrotoxic agents.
+* **Terlipressin (特利加壓素)** IV (1st line splanchnic vasoconstrictor) → brutally clamps shut dilated splanchnic vessels → forces blood back to central circulation.
+* Alternative: Octreotide (SC/IV) + Midodrine (PO).
+
+### Volume Expansion Protocol
+* **IV Albumin (白蛋白)** (1g/kg/day) given concurrently with vasoconstrictors to expand intravascular volume and bind endotoxins.
+
+### Definitive Surgical Management
+* **Liver Transplantation (肝臟移植)**: Gold standard & definitive cure. Restores hemodynamics → "failed" kidneys instantly resume normal function.
+* **Renal Replacement Therapy (RRT/Dialysis)**: Only used as a bridge to transplant if life-threatening hyperkalemia, severe acidosis, or refractory fluid overload occurs.
+
+## 9. MDT & Psychosocial Care
+### Multidisciplinary Team Involvement
+* PICU team for strict hemodynamic monitoring.
+* Liver Transplant coordinators (critical early referral).
+* Medical Social Worker (MSW) for transplant logistics & family financial support.
 
 ## 10. Safeguarding & NAI Red Flags
-- N/A.
+### Safeguarding Considerations in End-Stage Liver Disease
+* Monitor for medication non-compliance or medical neglect.
+* Assess parental burnout given the extreme demands of chronic liver disease care.
 
 ## 11. Complications & Prognosis
-- Untreated Type 1 HRS has a median survival of less than 2 weeks. It is almost uniformly fatal without liver transplant.
+### Prognosis of Untreated Hepatorenal Syndrome
+* **Type 1 HRS**: Extremely poor prognosis. Median survival < 2 weeks. Almost uniformly fatal without urgent liver transplant.
+* **Type 2 HRS**: Median survival ~6 months.
 
 ## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- **Trap**: Giving these patients massive amounts of normal saline. They are already total-body fluid overloaded (ascites) but intravascularly depleted. Saline just worsens the ascites. They strictly need Albumin.
-- **Viva Q**: "What would happen if you took a kidney from a patient who just died of Hepatorenal Syndrome and transplanted it into a normal person?" Answer: The kidney would function perfectly. The pathology is entirely functional (the liver's bad hemodynamics), not structural to the kidney itself.
+* Trap: Giving these patients massive amounts of normal saline. Pearl: They are already total-body fluid overloaded (ascites) but intravascularly depleted. Saline just worsens the ascites. They strictly need Albumin.
+* Viva Question: What would happen if you took a kidney from a patient who just died of Hepatorenal Syndrome and transplanted it into a normal person? Answer: The kidney would function perfectly. The pathology is entirely functional (the liver's bad hemodynamics), not structural to the kidney itself.
+* Pitfall: Misdiagnosing HRS without a volume expansion trial. Always withdraw diuretics and give IV Albumin for 48 hours to rule out simple pre-renal AKI before definitively diagnosing HRS.
