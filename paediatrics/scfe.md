@@ -1,68 +1,132 @@
 # Slipped Capital Femoral Epiphysis (SCFE) (股骨頭骨骺滑脫)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: A displacement of the proximal femoral epiphysis (the head of the femur) postero-inferiorly relative to the femoral neck, occurring through the weakened growth plate (physis).
-- **Local Epidemiology**: The most common hip disorder in adolescents. Peak incidence occurs during the adolescent growth spurt (10-15 years for boys, 8-13 years for girls). It is significantly more common in males and strongly associated with **obesity**.
+### Clinical Definition
+- **Displacement** of **proximal femoral epiphysis** (股骨頭骨骺) **postero-inferiorly** relative to femoral neck.
+- Occurs through weakened **physis** (生長板).
+- **Surgical emergency** requiring prompt stabilization → prevent **Avascular Necrosis (AVN)** (缺血性壞死).
+
+### Local Epidemiology (Hong Kong)
+- Most common hip disorder in adolescents.
+- Peak incidence: **Adolescent growth spurt** (10-15 yrs boys, 8-13 yrs girls).
+- Gender: **♂ > ♀**.
+- Risk factors: Strongly associated with **obesity** (肥胖) (BMI >95th centile).
+- Bilateral involvement: ~**20-40%** (often sequentially).
 
 ## 2. Pathophysiology & Genetics
-- **Mechanical Factors**: During the rapid adolescent growth spurt, the physis widens and is biomechanically weaker. In obese adolescents, the increased mechanical shearing forces across the hip joint exceed the strength of the physis, causing it to "slip."
-- **Endocrine Factors**: Endocrine disorders can weaken the physis. Consider these if SCFE occurs in a child who is unusually young (<10 years), unusually old (>16 years), not obese, or has bilateral simultaneous slips. Associated conditions include Hypothyroidism, Growth Hormone deficiency, and Renal Osteodystrophy.
+### Mechanical Pathophysiology
+- **Rapid growth spurt** → physis widens → biomechanically weak.
+- **Obesity** ↑ mechanical shearing forces across hip joint.
+- Forces exceed physis strength → "slip" (epiphysis stays in acetabulum, femoral neck displaces anteriorly/superiorly).
 
-## 3. Clinical Presentation
-- The classic patient is an **obese adolescent boy** presenting with a limp and poorly localized pain.
-- **The Classic Trap**: The pain is often referred to the **thigh or KNEE** via the obturator nerve. *Many cases are missed initially because the clinician only examines the knee.*
-- **Stable vs. Unstable**:
-  - *Stable*: The patient can still bear weight (with or without crutches).
-  - *Unstable*: The patient cannot bear weight at all. This carries a much higher risk of avascular necrosis.
+### Endocrine & Genetic Factors
+- Endocrine disorders weaken physis → suspect if **atypical presentation** (age <10 or >16, non-obese, bilateral simultaneous slip).
+- Associated endocrinopathies:
+  - **Hypothyroidism** (甲狀腺功能低下).
+  - **Growth Hormone Deficiency** (生長激素缺乏).
+  - **Renal Osteodystrophy** (腎性骨營養不良).
+  - **Hypogonadism** (性腺功能低下).
 
-## 4. Key Symptoms & Signs
-- **Antalgic Gait**: A painful, limping gait.
-- **Posture**: The affected leg is often held in **external rotation** and may appear slightly shortened.
-- **Obligatory External Rotation (Pathognomonic Sign)**: When the examiner passively flexes the patient's hip to 90 degrees, the thigh automatically deviates into external rotation and abduction.
-- **Loss of Range of Motion**: Specifically, loss of internal rotation, abduction, and flexion of the hip.
+## 3. Key Symptoms & Signs
+### Clinical Presentation
+- Classic pt: **Obese adolescent boy**.
+- **Insidious onset** limp or poorly localized pain.
+- **Referred pain**: Thigh or **KNEE** (膝痛) via obturator nerve.
+- May present acutely post-minor trauma.
 
-## 5. Discriminatory Features (How to distinguish from similar conditions)
-- **Legg-Calvé-Perthes Disease**: Occurs in a younger age group (typically 4-8 years), patients are usually not obese, and it is an avascular necrosis of the femoral head, not a slip through the growth plate.
-- **Transient Synovitis**: Also occurs in younger children (3-8 years), usually follows a viral URTI, and resolves rapidly with rest and NSAIDs.
-- **Septic Arthritis**: Presents with high fever, severe pain with *any* micromovement of the joint, and elevated inflammatory markers (CRP/ESR).
+### Pathognomonic & Physical Signs
+- **Antalgic Gait** (痛性步態): Painful, limping.
+- **Posture**: Affected leg held in **external rotation** (外旋); may appear shortened.
+- **Obligatory External Rotation** (Pathognomonic): Passive hip flexion to 90° → thigh automatically deviates into **external rotation & abduction**.
+- **↓ Range of Motion (ROM)**: Loss of **internal rotation, abduction, flexion**.
 
-## 6. Differential Diagnosis
-- Legg-Calvé-Perthes disease.
-- Transient synovitis of the hip.
-- Septic arthritis / Osteomyelitis.
-- Knee pathology (e.g., Osgood-Schlatter disease, meniscal tear) - due to referred pain.
-- Muscle strain (groin pull).
+### Slip Classification (Loder)
+| Classification | Description | AVN Risk |
+| :--- | :--- | :--- |
+| **Stable** | Pt can bear weight (with/without crutches) | Low (<10%) |
+| **Unstable** | Pt **cannot** bear weight | High (up to 50%) |
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Imaging (The Gold Standard)**:
-  - **X-ray Pelvis (AP and Frog-leg lateral views)**: Both hips must be imaged for comparison. The frog-leg lateral view is the most sensitive for detecting early, mild slips.
-  - **Findings**: 
-    - Widening, blurring, or irregularity of the physis.
-    - **Trethowan's Sign**: On the AP view, draw the **Line of Klein** (a line along the superior edge of the femoral neck). In a normal hip, this line should intersect the lateral portion of the femoral epiphysis. In SCFE, the line passes completely outside (superior to) the epiphysis.
-    - The appearance is often described as "ice cream slipping off a cone."
-- **Bloods**: Usually normal. Thyroid Function Tests (TFTs) and Growth Hormone levels are indicated if an underlying endocrinopathy is suspected (atypical age, non-obese).
+## 4. Discriminatory Features (How to distinguish from similar conditions)
+### Discriminatory Clinical Features
+| Feature | SCFE | Legg-Calvé-Perthes (LCP) | Transient Synovitis | Septic Arthritis |
+| :--- | :--- | :--- | :--- | :--- |
+| **Age** | 10-15 yrs | 4-8 yrs | 3-8 yrs | Any (often <5 yrs) |
+| **Body Habitus** | Obese | Normal/small | Normal | Normal |
+| **Pathology** | Physeal slip | AVN of femoral head | Post-viral inflammation | Bacterial joint infection |
+| **Systemic signs**| None | None | Mild/None (post-URTI) | **High fever, toxic** |
+| **Pain** | Dull/aching, referred | Mild, aching | Mild/Moderate | **Severe with micromovement** |
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Immediate Action**: **STRICT NON-WEIGHT BEARING**. The moment SCFE is suspected, the patient must be placed in a wheelchair or given crutches to prevent further slippage.
-- **Surgical Emergency**: Urgent referral to Paediatric Orthopaedics.
-- **Definitive Treatment**: 
-  - **In situ percutaneous pinning**: A single central screw is placed across the growth plate to stabilize the epiphysis and prevent further slipping until the growth plate fuses.
-  - *Prophylactic pinning of the contralateral hip*: Controversial, but often considered because up to 20-40% of patients will eventually develop a slip on the other side.
+## 5. Differential Diagnosis
+### Main Differential Diagnoses
+- **Legg-Calvé-Perthes disease** (股骨頭缺血性壞死).
+- **Transient synovitis of hip** (短暫性髖關節滑膜炎).
+- **Septic arthritis** (化膿性關節炎) / **Osteomyelitis** (骨髓炎).
+- **Knee pathology** (e.g., Osgood-Schlatter, meniscal tear) → due to referred pain.
+- **Muscle strain** (groin pull).
+- **Bone tumour** (e.g., osteoid osteoma, Ewing sarcoma).
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- **Paediatric Orthopaedics**: Surgical management and long-term follow-up.
-- **Dietitian**: Crucial for weight management, as obesity is the primary modifiable risk factor for contralateral slip and future osteoarthritis.
-- **Physiotherapy**: Post-operative rehabilitation to restore range of motion and strength.
+## 6. Tiered Investigations
+### Bedside & Blood Investigations
+- **Bloods**: Usually normal. CBC, CRP/ESR to rule out septic arthritis.
+- **Endocrine Workup**: TFTs (TSH, fT4), GH levels, renal function (Urea/Cr, Ca/PO4).
+  - *Indication*: Suspected endocrinopathy (atypical age, non-obese, bilateral).
 
-## 10. Safeguarding & NAI Red Flags
-- A significant delay in seeking medical care despite a severe, debilitating limp may indicate medical neglect.
+### Gold Standard Imaging
+- **X-ray Pelvis (AP and Frog-leg lateral views)**.
+  - MUST image both hips for comparison.
+  - **Frog-leg lateral view**: Most sensitive for early/mild slips.
+- **Findings**:
+  - Widening, blurring, irregularity of physis.
+  - **"Ice cream slipping off a cone"** appearance.
+  - **Trethowan's Sign**: **Line of Klein** (drawn along superior edge of femoral neck on AP view) passes completely outside/superior to epiphysis (normal: should intersect lateral epiphysis).
 
-## 11. Complications & Prognosis
-- **Avascular Necrosis (AVN) of the Femoral Head**: The most devastating complication. The blood supply to the epiphysis is disrupted by the slip or during surgical reduction. Risk is highest in unstable slips (up to 50%).
-- **Chondrolysis**: Acute destruction of the articular cartilage, leading to a stiff, painful joint.
-- **Early-Onset Osteoarthritis**: Due to altered joint biomechanics and impingement.
+### Advanced Imaging
+- **MRI Hip**:
+  - Detects pre-slip / early SCFE when plain X-rays are normal but high clinical suspicion.
+  - Detects early AVN.
+  - Assesses contralateral hip risk.
 
-## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- *Pitfall*: Examining only the knee in an obese adolescent presenting with knee pain. You MUST examine the hip to rule out SCFE.
-- *Viva*: "What is the pathognomonic physical sign of SCFE?" (Obligatory external rotation of the thigh during passive hip flexion).
-- *Viva*: "What is the Line of Klein?" (A line drawn along the superior border of the femoral neck on an AP X-ray. It should intersect the epiphysis; if it doesn't, it indicates SCFE - Trethowan's sign).
+## 7. Management (Acute, Chronic, HA Protocols)
+### Acute Management Protocol
+- **STRICT NON-WEIGHT BEARING** immediately upon suspicion.
+- Wheelchair / crutches (do NOT let pt walk) → prevents further slippage.
+- **Urgent Paediatric Orthopaedics Referral** (HA Protocol).
+- Analgesia (NSAIDs, paracetamol).
+
+### Definitive Surgical Management
+- **In situ percutaneous pinning**: Gold standard.
+  - Single central screw across physis to stabilize epiphysis until fusion.
+- **Prophylactic contralateral pinning**:
+  - Considered in HA protocols due to high rate of sequential slip (20-40%), especially if underlying endocrinopathy or poor follow-up compliance.
+- **Unstable slips**: Urgent reduction and fixation. ↑ risk of AVN.
+
+## 8. MDT & Psychosocial Care
+### MDT Involvement
+- **Paediatric Orthopaedics**: Surgery & long-term monitoring for AVN/chondrolysis.
+- **Dietitian** (營養師): Crucial for weight management/obesity (primary modifiable risk factor for contralateral slip & OA).
+- **Physiotherapy** (物理治療): Post-op rehab → restore ROM & strength.
+- **Paediatrician/Endocrinologist**: If atypical presentation requires endocrine management.
+
+## 9. Safeguarding & NAI Red Flags
+### Safeguarding Considerations
+- **Medical Neglect**: Significant delay in seeking medical care despite severe, debilitating limp.
+- Ensure appropriate follow-up compliance; involve MSW if recurrent defaulting.
+
+## 10. Complications & Prognosis
+### Major Complications
+- **Avascular Necrosis (AVN) of Femoral Head** (缺血性壞死):
+  - Most devastating complication. Blood supply disrupted by slip or surgical reduction.
+  - Risk highest in **unstable slips** (up to 50%).
+- **Chondrolysis** (軟骨溶解):
+  - Acute destruction of articular cartilage → stiff, painful joint.
+- **Early-Onset Osteoarthritis** (骨關節炎):
+  - Due to altered joint biomechanics and femoroacetabular impingement.
+- **Contralateral Slip**: Occurs in 20-40%.
+
+## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
+* Pitfall: Examining only the knee in an obese adolescent presenting with knee pain. You MUST examine the hip to rule out SCFE.
+* Viva Question: What is the pathognomonic physical sign of SCFE? Answer: Obligatory external rotation of the thigh during passive hip flexion.
+* Viva Question: What is the Line of Klein? Answer: A line drawn along the superior border of the femoral neck on an AP pelvis X-ray; normally intersects the epiphysis.
+* Trap: Discharging an obese limping adolescent with "knee sprain" because knee X-ray is normal. Pearl: Always request AP and frog-leg lateral pelvic X-rays to rule out SCFE in this demographic.
+* Viva Question: Which radiographic view is most sensitive for early SCFE? Answer: Frog-leg lateral view.
+* Pitfall: Allowing a patient with suspected SCFE to walk to the X-ray department. Always enforce strict non-weight bearing immediately.

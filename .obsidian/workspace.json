@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dac92e031bd22b25",
+        "id": "01035d36896331b8",
         "type": "tabs",
         "children": [
           {
-            "id": "5911163fca49ed7e",
+            "id": "f5479a87153b0bd4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "paediatrics/ddh.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ddh"
+              "title": "New tab"
             }
           }
         ]
@@ -185,34 +181,34 @@
       "custom-image-auto-uploader:Custom Image Auto Uploader": false
     }
   },
-  "active": "5911163fca49ed7e",
+  "active": "f5479a87153b0bd4",
   "lastOpenFiles": [
-    "paediatrics/hepatorenal_syndrome.md",
-    "paediatrics/sbp.md",
-    "paediatrics/ibd.md",
-    "paediatrics/toddler_diarrhoea.md",
-    "paediatrics/short_bowel_syndrome.md",
-    "paediatrics/lactose_intolerance.md",
-    "paediatrics/eosinophilic_oesophagitis.md",
-    "paediatrics/peptic_ulcer.md",
-    "paediatrics/gord.md",
-    "paediatrics/recurrent_abdominal_pain.md",
-    "paediatrics/duodenal_atresia.md",
-    "paediatrics/nec.md",
-    "paediatrics/pyloric_stenosis.md",
-    "paediatrics/gastroenteritis.md",
-    "paediatrics/hirschsprung.md",
-    "paediatrics/biliary.md",
-    "paediatrics/coeliac.md",
-    "paediatrics/albinism.md",
-    "paediatrics/osteogenesis_imperfecta.md",
-    "paediatrics/cleidocranial_dysostosis.md",
-    "paediatrics/achondroplasia.md",
-    "paediatrics/marfan_syndrome.md",
-    "paediatrics/beckwith_wiedemann.md",
-    "paediatrics/williams_syndrome.md",
-    "paediatrics/gdd.md",
-    "paediatrics/poisoning.md",
+    "paediatrics/covid19.md",
+    "paediatrics/dengue_fever.md",
+    "paediatrics/herpangina.md",
+    "paediatrics/parvovirus_b19.md",
+    "paediatrics/impetigo.md",
+    "paediatrics/pims_ts.md",
+    "paediatrics/infectious_mononucleosis.md",
+    "paediatrics/scarlet_fever.md",
+    "paediatrics/measles.md",
+    "paediatrics/mumps.md",
+    "paediatrics/pertussis.md",
+    "paediatrics/chickenpox.md",
+    "paediatrics/hfmd.md",
+    "paediatrics/alopecia_areata.md",
+    "paediatrics/psoriasis_pr.md",
+    "paediatrics/scabies_lice.md",
+    "paediatrics/ringworm.md",
+    "paediatrics/warts_molluscum.md",
+    "paediatrics/eczema.md",
+    "paediatrics/tarsal_pes_cavus.md",
+    "paediatrics/talipes.md",
+    "paediatrics/blount_disease.md",
+    "paediatrics/arthrogryposis.md",
+    "paediatrics/septic_arthritis.md",
+    "paediatrics/osteomyelitis.md",
+    "paediatrics/transient_synovitis.md",
     "Logo-white bg.png",
     "Logo.png",
     "extract_notes.sh",

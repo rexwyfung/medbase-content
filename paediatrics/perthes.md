@@ -1,71 +1,113 @@
 # Perthes Disease (Legg-Calvé-Perthes Disease) (柏斯氏病 / 股骨頭缺血性壞死)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: An idiopathic, self-limiting avascular necrosis (AVN) of the capital femoral epiphysis (the head of the femur) in children.
-- **Local Epidemiology**: Peak incidence is between 4 and 8 years of age. It is significantly more common in boys (4:1 ratio). Bilateral in 10-15% of cases (but usually sequential, not simultaneous).
+### Definition of Perthes Disease
+* Idiopathic, self-limiting **avascular necrosis (AVN) (缺血性壞死)** of the **capital femoral epiphysis (股骨頭骨骺)** in children.
+
+### Hong Kong Epidemiology & Demographics
+* Peak age: 4–8 yrs (Range: 2–12 yrs).
+* Gender: ♂ > ♀ (4:1).
+* Laterality: Bilateral in 10-15% (usually sequential, NOT simultaneous).
+* Risk factors: Obesity, delayed skeletal maturity, lower socio-economic status, passive smoking.
 
 ## 2. Pathophysiology & Genetics
-- **Pathophysiology**: The exact cause is unknown, but it involves a temporary disruption of the blood supply (medial circumflex femoral artery) to the femoral head.
-- **The Four Stages (Waldenström Classification)**:
-  1. *Initial/Necrosis*: Blood supply is lost. The bone dies and stops growing, but the surrounding cartilage continues to grow.
-  2. *Fragmentation*: The body attempts to repair the damage. Blood vessels invade the dead bone, resorbing it and causing the femoral head to fragment and collapse. (This is the stage of maximum mechanical weakness and pain).
-  3. *Reossification*: New, living bone is laid down.
-  4. *Healing/Remodelling*: The bone completely heals. However, the *shape* of the healed femoral head depends on how much it deformed during the fragmentation stage. It may heal spherical (good outcome) or flattened/mushroom-shaped (coxa magna - poor outcome, leading to early osteoarthritis).
+### Pathophysiology of Avascular Necrosis
+* Idiopathic temporary disruption of blood supply via **medial circumflex femoral artery (旋股內側動脈)** → ischaemia & necrosis of femoral head.
 
-## 3. Clinical Presentation
-- A classic presentation is a 5-to-7-year-old boy presenting with an insidious onset of a painless or mildly painful limp.
-- The pain is often referred to the **knee or anteromedial thigh** (via the obturator nerve), which is a classic trap.
+### Waldenström Classification (Four Stages of Perthes Disease)
+* **1. Initial/Necrosis Stage (壞死期):** Ischaemia → bone death + cessation of epiphyseal growth. Articular cartilage continues to grow (nourished by synovial fluid) → joint space widening.
+* **2. Fragmentation Stage (碎裂期):** Revascularization → osteoclast resorption of dead bone > osteoblast formation → femoral head fragments/collapses. *Stage of maximum mechanical weakness & pain.*
+* **3. Reossification Stage (骨化期):** New woven, living bone laid down.
+* **4. Healing/Remodelling Stage (癒合期):** Normal bone structure returns. Final shape depends on mechanical containment during fragmentation. May heal spherical (good) or flattened/mushroom-shaped (**coxa magna (大髖)** → poor outcome, early osteoarthritis).
 
-## 4. Key Symptoms & Signs
-- **Limp**: Often worsens with activity and at the end of the day.
-- **Pain**: Mild to moderate, localized to the groin, thigh, or knee.
-- **Examination**:
-  - **Reduced Range of Motion**: Specifically, loss of **internal rotation and abduction** of the hip.
-  - **Trendelenburg Gait**: Due to weakness of the gluteus medius muscle (secondary to pain and altered hip biomechanics).
-  - Muscle atrophy of the thigh/calf from disuse.
-  - Limb length discrepancy (the affected leg may be slightly shorter).
+## 3. Key Symptoms & Signs
+### Classic Clinical Presentation of Perthes Disease
+* 5–7 yr old boy presenting with insidious onset of painless or mildly painful **limp (跛行)**.
 
-## 5. Discriminatory Features (How to distinguish from similar conditions)
-- **Transient Synovitis**: Presents similarly in the same age group, but typically has a sudden onset, often follows a viral illness, and completely resolves within 1-2 weeks. Perthes is chronic and progressive.
-- **Slipped Capital Femoral Epiphysis (SCFE)**: Occurs in older children (obese adolescents, 10-15 years old).
+### Key Symptoms
+* **Limp:** Worsens with activity & at end of day.
+* **Pain:** Mild to moderate, insidious onset. Localized to groin, or referred to anteromedial thigh/knee via **obturator nerve (閉孔神經)**.
 
-## 6. Differential Diagnosis
-- Transient Synovitis of the hip.
-- Septic Arthritis (acute, severe pain, fever, toxic).
-- Slipped Capital Femoral Epiphysis (SCFE).
-- Juvenile Idiopathic Arthritis (JIA).
-- Sickle Cell Disease (can cause AVN, but rare in HK).
+### Key Clinical Signs on Examination
+* **↓ Range of Motion (ROM):** Specifically loss of **internal rotation (內旋)** & **abduction (外展)** of the hip.
+* **Trendelenburg Gait (特倫德倫堡步態):** Pelvic drop on contralateral side due to weakness of ipsilateral gluteus medius (secondary to pain/altered biomechanics).
+* **Muscle atrophy:** Thigh/calf wasting from disuse.
+* **Limb length discrepancy:** Affected leg may be slightly shorter.
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **X-ray of the Pelvis (AP and Frog-leg lateral views)**: The primary diagnostic tool.
-  - *Early stage*: May be normal, or show a slightly smaller ossification centre with increased joint space.
-  - *Later stages*: Increased density (sclerosis) of the femoral head, subchondral fracture (crescent sign), fragmentation, and eventual flattening of the femoral head.
-- **MRI Hip**: Highly sensitive for early avascular necrosis before X-ray changes appear. Used if clinical suspicion is high but X-rays are normal.
-- **Bloods**: FBC, ESR, CRP are typically **NORMAL**. This is crucial to differentiate from septic arthritis or osteomyelitis.
+## 4. Discriminatory Features (How to distinguish from similar conditions)
+### Differentiating Perthes Disease from Transient Synovitis
+* **Transient Synovitis (短暫性滑膜炎):** Sudden onset, often post-viral, fully resolves within 1-2 wks. Normal X-rays. 
+* **Perthes Disease:** Insidious onset, chronic, progressive, abnormal X-rays.
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Goal**: To keep the femoral head contained within the acetabulum ("containment") while it is in the fragile fragmentation stage. The spherical acetabulum acts as a mold to ensure the healing femoral head remains round.
-- **Conservative Management (Age < 6 years, mild involvement)**:
-  - Observation, physiotherapy to maintain range of motion.
-  - Activity restriction (avoid high-impact sports, jumping).
-  - Analgesia (NSAIDs).
-  - Bed rest or traction during acute pain episodes.
-- **Surgical Management (Age > 8 years, severe involvement, loss of containment)**:
-  - Surgical containment is often required for older children because they have less time for remodeling before skeletal maturity.
-  - Procedures: Pelvic osteotomy (Salter) or Femoral varus osteotomy to redirect the femoral head deep into the acetabulum.
+### Differentiating Perthes Disease from SCFE
+* **Slipped Capital Femoral Epiphysis (SCFE) (股骨頭骨骺滑脫):** Occurs in older children (10-15 yrs), typically obese adolescents. Hip held in external rotation.
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- **Paediatric Orthopaedics**: Long-term follow-up is required until skeletal maturity.
-- **Psychological Support**: The disease process takes 2-4 years to heal. Restricting a young boy from sports and active play for years is highly frustrating and requires significant support.
+## 5. Differential Diagnosis
+### Differential Diagnosis of Childhood Hip Pain and Limp
+| Condition | Key Discriminatory Features |
+| :--- | :--- |
+| **Transient Synovitis** | Acute onset, age 3-8, post-viral, self-limiting (1-2 wks), normal X-ray. |
+| **Septic Arthritis** | Acute, severe pain, fever, toxic, non-weight bearing, ↑ WBC/CRP/ESR. |
+| **SCFE** | Obese adolescent (10-15 yrs), externally rotated leg, restricted internal rotation. |
+| **Juvenile Idiopathic Arthritis (JIA)** | Chronic morning stiffness, multiple joints often involved, +ve ANA/RF. |
+| **Sickle Cell Disease AVN** | Rare in HK, known African descent, +ve sickling screen. |
 
-## 10. Safeguarding & NAI Red Flags
-- N/A for this condition.
+## 6. Tiered Investigations
+### Bedside & Blood Investigations for Perthes Disease
+* **Bloods:** FBC, ESR, CRP are typically **NORMAL**. (Crucial to differentiate from septic arthritis/osteomyelitis).
 
-## 11. Complications & Prognosis
-- **Early Osteoarthritis**: The main long-term complication. If the femoral head heals in a flattened, non-spherical shape (coxa magna), it creates a mechanical mismatch with the acetabulum, leading to severe osteoarthritis in the 30s or 40s, requiring a total hip replacement.
-- **Prognosis**: Rule of thumb - "The younger the better." Children diagnosed < 6 years old have a much better prognosis because they have more time for the bone to remodel perfectly before growth stops.
+### Primary Imaging Modalities for Perthes Disease
+* **X-ray Pelvis (AP & Frog-leg lateral):** Primary diagnostic tool.
+  * *Early stage:* May be normal OR small ossification centre + ↑ joint space.
+  * *Later stages:* Sclerosis (↑ density), subchondral fracture (**crescent sign (新月徵)**), fragmentation, eventual flattening of femoral head.
 
-## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- *Viva*: "A 6-year-old boy presents with a 3-week history of a limp and right knee pain. Examination of the knee is completely normal. What is the most likely diagnosis and what must you examine?" (Perthes disease or Transient Synovitis. You must examine the HIP. Hip pathology frequently refers pain to the knee via the obturator nerve).
-- *Viva*: "What is the primary goal of treatment in Perthes disease?" ('Containment'. Keeping the fragile, fragmenting femoral head deep within the spherical acetabulum so that it acts as a mold, ensuring the head heals in a round shape to prevent future osteoarthritis).
-- *Pitfall*: X-raying only the knee in a child presenting with knee pain, completely missing the pathology in the hip.
+### Advanced Imaging Modalities for Perthes Disease
+* **MRI Hip:** Highly sensitive for early AVN before X-ray changes appear. Gold standard if clinical suspicion is high but X-rays are normal.
+
+## 7. Management (Acute, Chronic, HA Protocols)
+### Primary Goal of Management
+* **Containment (包容):** Keep the fragile femoral head contained deep within the spherical acetabulum during the fragmentation stage → acts as a mold to ensure spherical healing.
+
+### Conservative Management Protocol (Age < 6 years, mild involvement)
+* **Observation:** Serial X-rays + Paediatric Orthopaedic monitoring.
+* **Physiotherapy:** Maintain ROM (especially abduction).
+* **Activity restriction:** Avoid high-impact sports, jumping, trampolines.
+* **Analgesia:** NSAIDs for acute pain episodes.
+* **Bed rest/Traction:** During acute pain/spasm episodes.
+
+### Surgical Management Protocol (Age > 8 years, severe involvement)
+* Indicated for older children (less time for remodelling before skeletal maturity) or loss of containment (extrusion/subluxation).
+* **Pelvic Osteotomy (骨盆截骨術):** e.g., Salter osteotomy to redirect acetabulum.
+* **Femoral Varus Osteotomy (股骨內翻截骨術):** Redirects femoral head deep into acetabulum.
+
+## 8. MDT & Psychosocial Care
+### Long-Term MDT Care
+* **Paediatric Orthopaedics:** Long-term HA follow-up required until skeletal maturity.
+* **Physiotherapy:** Ongoing ROM exercises and gait training.
+
+### Psychosocial Support
+* Disease takes 2-4 years to heal.
+* Restricting active boys from sports for years causes significant frustration/psychological burden. 
+* Medical Social Worker (MSW) / Clinical Psychologist support essential for coping strategies.
+
+## 9. Safeguarding & NAI Red Flags
+### NAI Considerations in Limping Child
+* Perthes itself is NOT a feature of Non-Accidental Injury (NAI).
+* However, extreme delays in seeking medical attention for a severe limp (> several weeks) should prompt a careful social history to rule out medical neglect.
+
+## 10. Complications & Prognosis
+### Long-Term Complications of Perthes Disease
+* **Early Osteoarthritis (早發性骨關節炎):** Main long-term complication. If femoral head heals flattened (**coxa magna**), mechanical mismatch leads to severe OA in 30s/40s → requires Total Hip Replacement (THR).
+* Limb length discrepancy.
+* Femoroacetabular Impingement (FAI).
+
+### Prognostic Factors in Perthes Disease
+* **Age:** "The younger the better". Diagnosis < 6 yrs has ↑ remodelling potential before growth stops.
+* **Extent of necrosis:** (Catterall or Herring Lateral Pillar Classification) >50% involvement = poor prognosis.
+* **Loss of containment:** Lateral subluxation out of acetabulum = poor prognosis.
+
+## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
+* Viva Question: A 6-year-old boy presents with a 3-week history of a limp and right knee pain. Examination of the knee is completely normal. What is the most likely diagnosis and what must you examine? Answer: Perthes disease or Transient Synovitis. You must examine the HIP. Hip pathology frequently refers pain to the knee via the obturator nerve.
+* Viva Question: What is the primary goal of treatment in Perthes disease? Answer: 'Containment'. Keeping the fragile, fragmenting femoral head deep within the spherical acetabulum so that it acts as a mold, ensuring the head heals in a round shape to prevent future osteoarthritis.
+* Trap: Assuming knee pain strictly indicates knee pathology. Pearl: Always examine the hip in any child presenting with knee pain or limp to rule out referred pain.
+* Pitfall: X-raying only the knee in a child presenting with knee pain, completely missing the pathology in the hip. Always request a pelvic X-ray (AP and Frog-leg lateral) for pediatric limp.

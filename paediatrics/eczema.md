@@ -1,77 +1,154 @@
-# Eczema (Atopic Dermatitis) (濕疹 / 異位性皮膚炎)
+# Atopic Eczema (異位性皮膚炎 / 濕疹)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: A chronic, highly pruritic, relapsing inflammatory skin disease characterized by a defective epidermal barrier and immune dysregulation.
-- **Local Epidemiology**: Extremely common in Hong Kong, affecting 20-30% of children. The hot, humid summers and widespread use of air-conditioning (drying the air) in HK frequently exacerbate the condition.
+
+### Clinical Definition of Atopic Eczema
+* Chronic, highly pruritic, relapsing-remitting inflammatory skin disease.
+* Characterized by defective epidermal barrier & immune dysregulation.
+
+### Local Epidemiology in Hong Kong
+* Highly prevalent: Affects **20-30%** of HK children.
+* **HK Climate Impact**: Exacerbated by hot/humid summers (sweat irritation) & widespread indoor air-conditioning (↓ humidity → xerosis).
 
 ## 2. Pathophysiology & Genetics
-- **Barrier Dysfunction**: Loss-of-function mutations in the **Filaggrin (*FLG*)** gene are a major risk factor. Filaggrin is essential for structural integrity and hydration of the stratum corneum. Defective barrier leads to increased transepidermal water loss (dry skin) and allows penetration of environmental allergens and microbes.
-- **Immune Dysregulation**: A Th2-skewed immune response. Allergen penetration triggers the release of cytokines (IL-4, IL-13, IL-31), leading to IgE production, eosinophilia, and intense pruritus (itching).
-- **The Atopic March**: Eczema is often the first step in the "Atopic March," followed by the development of Food Allergies, Allergic Rhinitis, and Asthma.
 
-## 3. Clinical Presentation
-- The hallmark is **intense pruritus** (the "itch that rashes"). Scratching leads to excoriations, bleeding, and further skin damage.
-- Skin is universally dry (xerosis).
-- **Acute flares**: Erythematous, weeping, crusting, ill-defined plaques.
-- **Chronic**: Lichenification (thickened, leathery skin with exaggerated skin markings) due to chronic rubbing and scratching.
+### Filaggrin Mutation & Barrier Dysfunction
+* **Loss-of-function mutation** in **Filaggrin (FLG)** gene.
+* ↓ Filaggrin → compromised structural integrity of stratum corneum.
+* Result: ↑ Transepidermal water loss (TEWL) → **Xerosis** (dry skin) & ↑ penetration of environmental aeroallergens/microbes.
 
-## 4. Key Symptoms & Signs (Age-Dependent Distribution)
-- **Infants (< 2 years)**: Affects the face (cheeks), scalp, and **extensor** surfaces of the limbs. *Crucially spares the nappy area* (the moisture in the nappy protects the skin barrier).
-- **Children (2-12 years)**: Shifts to the **flexural** creases (antecubital fossae, popliteal fossae, wrists, ankles, neck).
-- **Adolescents/Adults**: Flexural involvement, prominent lichenification, hand eczema, eyelid eczema.
+### Immune Dysregulation (Th2 Skewing)
+* Allergen penetration triggers **Th2-predominant** immune response.
+* ↑ Cytokines (**IL-4, IL-13, IL-31**).
+* → ↑ IgE production, local eosinophilia, and intense pruritus (itch).
 
-## 5. Discriminatory Features (How to distinguish from similar conditions)
-- **Seborrhoeic Dermatitis**: Presents in early infancy with greasy, yellow scales on the scalp ("cradle cap"), face, and *involves the nappy area*. It is generally NOT itchy, and the baby is unbothered.
-- **Scabies**: Intensely itchy, but features burrows in web spaces of fingers/toes, wrists, and genitalia. Usually, other family members are also itching.
-- **Contact Dermatitis**: Lesions are strictly localized to the area of contact with the allergen/irritant (e.g., nickel from a belt buckle).
+### The Atopic March (過敏進行曲)
+* Eczema is typically step 1 in the classic atopic progression:
+* **Eczema** (Infancy) → **Food Allergies** (食物敏感) → **Allergic Rhinitis** (鼻敏感) → **Asthma** (哮喘).
 
-## 6. Differential Diagnosis
-- Seborrhoeic dermatitis.
-- Scabies / Fungal infections (Tinea).
-- Contact dermatitis (allergic or irritant).
-- Psoriasis (well-demarcated, silvery scales on extensor surfaces).
-- Primary Immunodeficiencies (e.g., Wiskott-Aldrich syndrome, Hyper-IgE / Job syndrome - suspect if severe early-onset eczema with recurrent severe infections).
+## 3. Key Symptoms & Signs
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Diagnosis is Clinical**. Routine blood tests are not required.
-- **Swabs**: Bacterial/viral swabs of weeping or crusted lesions to identify secondary infection (*Staphylococcus aureus* or Herpes Simplex Virus).
-- **Allergy Testing**: Skin prick testing or serum specific IgE (RAST) is *only* indicated if there is a clear history of immediate reactions to specific foods or aeroallergens. Routine broad-panel food allergy testing is discouraged as it leads to unnecessary dietary restrictions.
+### Hallmark Symptoms of Atopic Eczema
+* **Intense Pruritus**: "The itch that rashes" (creates an itch-scratch cycle).
+* **Universal Xerosis**: Extremely dry skin everywhere.
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-### 1. Basic Skin Care (The Foundation)
-- **Emollients (Moisturizers)**: Must be applied liberally and frequently (at least 3-4 times a day), even when the skin is clear. Ointments (greasy) are better than creams/lotions for very dry skin.
-- **Bathing**: Short, lukewarm baths. **Avoid soap** and bubble baths; use soap substitutes (emollient wash). Pat dry, do not rub.
+### Acute vs Chronic Eczema Signs
+* **Acute Flares**: Erythematous, weeping, crusting, ill-defined plaques, excoriations (bleeding from scratching).
+* **Chronic Disease**: **Lichenification** (苔蘚化 - thickened, leathery skin with exaggerated markings), fissuring, scaling.
 
-### 2. Acute Flares (Topical Anti-inflammatory)
-- **Topical Corticosteroids (TCS)**: The mainstay for flares. Use the lowest potency needed to control the flare, applied 1-2 times daily.
-  - *Mild* (e.g., 1% Hydrocortisone): For face, neck, genitals.
-  - *Moderate/Potent* (e.g., Betamethasone valerate 0.1%): For body and limbs.
-  - *Rule*: Apply emollient first, wait 15-30 minutes, then apply TCS only to the active red areas.
-- **Topical Calcineurin Inhibitors (TCI)**: e.g., Tacrolimus ointment. Used as a steroid-sparing agent, especially for sensitive areas (face/eyelids) to avoid skin atrophy.
+### Age-Dependent Distribution of Eczema
+| Age Group | Key Affected Areas | Sparing/Special Notes |
+| :--- | :--- | :--- |
+| **Infants (<2 yrs)** | Face (cheeks), scalp, extensor surfaces of limbs. | **Spares nappy area** (moisture protects barrier). |
+| **Children (2-12 yrs)**| Flexural creases (antecubital/popliteal fossae), wrists, ankles, neck. | Shift from extensors to flexures. |
+| **Adolescents/Adults** | Flexures, hands, eyelids. | Prominent lichenification & hand eczema. |
 
-### 3. Managing Infections
-- **Bacterial**: Oral antibiotics (Cephalexin or Flucloxacillin) for *S. aureus* superinfection (golden crusts, weeping). Dilute bleach baths can reduce colonization.
-- **Viral**: Urgent IV/Oral Acyclovir for Eczema Herpeticum.
+## 4. Discriminatory Features (How to distinguish from similar conditions)
 
-### 4. Severe/Refractory Disease
-- Wet wrap therapy.
-- Phototherapy (Narrowband UVB).
-- Systemic immunosuppressants (Cyclosporine, Methotrexate, Azathioprine).
-- **Biologics**: Dupilumab (monoclonal antibody against IL-4R alpha) is highly effective for severe, uncontrolled eczema in children.
+### Discriminatory Features: Eczema vs Seborrhoeic Dermatitis
+* **Seborrhoeic Dermatitis (脂溢性皮炎)**: Early infancy onset. Greasy, yellow scales ("cradle cap"). **Involves nappy area**. **Non-pruritic** (baby is happy/unbothered).
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- **Psychosocial Impact**: Severe eczema causes profound sleep deprivation for the child and parents, leading to poor school performance, behavioral issues, and depression. Bullying is common.
-- **Dermatology Specialty Nurses**: Crucial for demonstrating proper application of emollients and wet wraps.
-- **MSW**: Financial assistance for expensive emollients or biologic therapies (Dupilumab is costly and often self-financed in HK).
+### Discriminatory Features: Eczema vs Scabies
+* **Scabies (疥瘡)**: Intensely itchy (worse at night). Features visible burrows in web spaces of fingers/toes, wrists, genitalia. **Highly contagious** (+ve family history of recent itch).
 
-## 10. Safeguarding & NAI Red Flags
-- Severe, generalized, weeping eczema that is completely untreated, accompanied by poor hygiene and recurrent severe skin infections, may indicate medical neglect.
+### Discriminatory Features: Eczema vs Contact Dermatitis
+* **Contact Dermatitis (接觸性皮炎)**: Lesions are sharply demarcated and strictly localized to the area of contact (e.g., nickel from belt buckle, watch strap).
 
-## 11. Complications & Prognosis
-- **Eczema Herpeticum**: A life-threatening disseminated Herpes Simplex Virus (HSV) infection on eczematous skin. Presents with rapidly worsening, painful, "punched-out" monomorphic vesicles and systemic illness. Requires immediate admission and IV Acyclovir.
-- **Bacterial Superinfection**: Predominantly *Staphylococcus aureus*.
-- **Growth Restriction**: Can occur due to chronic severe inflammation, sleep deprivation, or excessive use of potent systemic/topical steroids.
+## 5. Differential Diagnosis
 
-## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- *Viva*: "A mother is afraid of 'steroid thinning' and refuses to use the prescribed cream. How do you counsel her?" (Explain 'steroid phobia'. Emphasize that uncontrolled inflammation damages the skin more than short-term, appropriate use of topical steroids. Demonstrate the 'fingertip unit' for safe dosing).
-- *Viva*: "What are the features of Eczema Herpeticum?" (Punched-out erosions, vesicles, fever, lymphadenopathy. It is an absolute dermatological emergency).
+### Common Dermatological Differentials for Eczema
+| Differential | Key Distinguishing Features |
+| :--- | :--- |
+| **Seborrhoeic Dermatitis** | Greasy scales, nappy involvement, non-itchy. |
+| **Scabies** | Burrows, web spaces, affected family members. |
+| **Contact Dermatitis** | Localized strictly to allergen/irritant exposure. |
+| **Psoriasis (銀屑病)** | Well-demarcated, silvery scales on **extensor** surfaces. |
+| **Tinea (癬)** | Fungal; annular (ring-like) lesions with central clearing. |
+
+### Red Flag Differentials for Severe Eczema
+* **Primary Immunodeficiencies**: e.g., Wiskott-Aldrich syndrome, Hyper-IgE (Job) syndrome.
+* Suspect if: Severe early-onset eczema + recurrent deep/systemic infections + Failure to Thrive (FTT) + petechiae.
+
+## 6. Tiered Investigations
+
+### Bedside Diagnosis of Eczema
+* Diagnosis is **clinical** (based on UK Working Party Diagnostic Criteria).
+* Routine blood tests (e.g., IgE levels, eosinophil count) are **NOT** required for diagnosis.
+
+### Swabs for Complicated Eczema
+* **Bacterial/Viral Swabs**: Take from weeping, crusted, or rapidly deteriorating lesions.
+* Purpose: Identify secondary infection by *Staphylococcus aureus* or Herpes Simplex Virus (HSV).
+
+### Allergy Testing in Eczema
+* **Skin Prick Testing (SPT) / Specific IgE (RAST)**: ONLY indicated if clear history of immediate (Type 1) hypersensitivity to specific foods/aeroallergens.
+* **HA Protocol Note**: Routine broad-panel food allergy testing is strongly discouraged → leads to false +ves, unnecessary dietary restrictions, and malnutrition.
+
+## 7. Management (Acute, Chronic, HA Protocols)
+
+### Chronic Management: Emollients & Bathing
+* **Emollients (潤膚膏)**: The foundation. Apply liberally & frequently (≥3-4x/day), even when clear. Ointments > Creams for severe xerosis.
+* **Bathing**: Short, lukewarm baths. Avoid soaps/bubble baths. Use **soap substitutes** (e.g., Emulsifying ointment / Aqueous cream wash). Pat dry, do NOT rub.
+
+### Acute Flare Management: Topical Corticosteroids (TCS)
+* Rule: Apply emollient → wait 15-30 mins → apply TCS **only** to active red areas.
+* Dosing: **Fingertip Unit (FTU)** = 0.5g (treats area of 2 adult hands).
+
+### Topical Steroid Ladder in HA Protocols
+| Potency | Example Medication | Indicated Body Area |
+| :--- | :--- | :--- |
+| **Mild** | 1% Hydrocortisone | Face, neck, eyelids, genitals. |
+| **Moderate** | 0.1% Betamethasone valerate (Eumovate) | Body, limbs, trunk. |
+| **Potent** | 0.1% Mometasone (Elomet) | Lichenified areas, thick plaques. |
+
+### Steroid-Sparing Agents
+* **Topical Calcineurin Inhibitors (TCI)**: e.g., Tacrolimus 0.03% or 0.1% ointment.
+* Used as a steroid-sparing agent for sensitive areas (face, eyelids) to prevent skin atrophy.
+
+### Management of Eczema Infections
+* **Bacterial (*S. aureus*)**: Golden crusts/weeping → Oral Flucloxacillin or Cephalexin. Dilute bleach baths to ↓ colonization.
+* **Viral (Eczema Herpeticum)**: Disseminated HSV → **Urgent** IV/Oral Acyclovir.
+
+### Refractory/Severe Disease Management
+* **Wet Wrap Therapy**: ↑ emollient absorption & prevents scratching.
+* **Phototherapy**: Narrowband UVB.
+* **Systemic Immunosuppressants**: Cyclosporine, Methotrexate.
+* **Biologics**: **Dupilumab** (anti-IL-4Rα monoclonal antibody). Highly effective for severe pediatric eczema.
+
+## 8. MDT & Psychosocial Care
+
+### Psychosocial Impact of Eczema
+* Intense nocturnal pruritus → profound **sleep deprivation** for child & parents.
+* Leads to poor school performance, behavioral issues (mimics ADHD), depression, and severe family stress. Bullying is common due to visible skin lesions.
+
+### MDT Roles in HA Settings
+* **Dermatology Specialty Nurses**: Crucial for practical education (demonstrating FTU dosing, emollient application, and wet wraps).
+* **Medical Social Worker (MSW)**: Financial assistance application. Advanced therapies like Dupilumab are expensive and often classified as self-financed items (SFI) in HK HA.
+
+## 9. Safeguarding & NAI Red Flags
+
+### Medical Neglect Red Flags in Eczema
+* Severe, generalized, weeping eczema that is **completely untreated**.
+* Accompanied by poor overall hygiene, extreme dirt in excoriations, and recurrent severe skin infections.
+* Suggests **Medical Neglect**; requires immediate pediatric safeguarding assessment and MSW intervention.
+
+## 10. Complications & Prognosis
+
+### Eczema Herpeticum
+* **Life-threatening** disseminated Herpes Simplex Virus (HSV) infection on compromised eczematous skin.
+* Presents with rapidly worsening, painful, **"punched-out" monomorphic vesicles/erosions**, fever, lethargy.
+* Requires immediate admission + **IV Acyclovir**.
+
+### Other Eczema Complications
+* **Bacterial Superinfection**: Predominantly *Staphylococcus aureus* (Impetiginization).
+* **Growth Restriction**: Can occur due to chronic severe inflammation, severe sleep deprivation, or excessive absorption of potent systemic/topical steroids.
+
+### Prognosis of Childhood Eczema
+* Generally favorable: ~60-70% of childhood eczema clears or significantly improves by early adolescence.
+* However, patients remain prone to xerosis, adult-onset hand dermatitis, and other atopic conditions.
+
+## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
+
+* Viva Question: A mother is afraid of 'steroid thinning' and refuses to use the prescribed cream. How do you counsel her? Answer: Validate 'steroid phobia'. Emphasize that uncontrolled chronic inflammation causes more permanent skin damage than short-term, appropriate TCS use. Demonstrate the 'fingertip unit' (FTU) for safe dosing.
+* Viva Question: What are the classic features of Eczema Herpeticum and its management? Answer: Rapidly expanding, painful, punched-out monomorphic erosions or vesicles, accompanied by systemic illness (fever, lymphadenopathy). It is a dermatological emergency requiring urgent admission and IV Acyclovir.
+* Trap: Prescribing moderate or potent topical steroids for an infant's facial eczema. Pearl: Skin on the face, eyelids, and genitals is highly susceptible to steroid-induced atrophy and systemic absorption. Strictly use mild TCS (1% Hydrocortisone) or Topical Calcineurin Inhibitors (Tacrolimus) for these areas.
+* Pitfall: Ordering a broad-panel IgE blood test for a child with new-onset eczema without a history of acute food reactions. This commonly yields false positives, leading parents to initiate unnecessary, highly restrictive diets that cause pediatric malnutrition.

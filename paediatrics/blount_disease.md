@@ -1,54 +1,137 @@
 # Blount Disease (Tibia Vara) (布朗特氏病 - 脛骨內翻)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: A pathological growth disorder of the medial aspect of the proximal tibial physis (growth plate) resulting in progressive, severe bowlegs (genu varum).
-- **Local Epidemiology**: Most common in early-walking, obese toddlers (Infantile form, ages 1-3) or overweight adolescents (Adolescent form).
+
+### Clinical Definition
+* Pathological growth disorder of the medial aspect of the proximal tibial physis (growth plate).
+* → Progressive, severe bowlegs (Genu Varum (膝內翻)).
+
+### Local Epidemiology (Hong Kong)
+* ↑ Incidence tracking closely with ↑ local childhood obesity rates (HK Dept of Health notes ~1 in 5 primary students overweight/obese).
+* **Infantile form**: Most common. Ages 1-3. Affects early-walking, obese toddlers.
+* **Adolescent form**: >10 years old. Overweight teens, often unilateral.
 
 ## 2. Pathophysiology & Genetics
-- **Heuter-Volkmann Principle**: Excessive mechanical compressive forces on a growing physis inhibit its growth. In an obese child who starts walking early, excessive mechanical weight is placed on the medial side of the knee.
-- The medial tibial growth plate stops growing properly, while the lateral side continues to grow at a normal rate.
-- This mismatched growth forces the lower leg to curve sharply inward, creating severe bowlegs and a visible lateral knee thrust.
+
+### Heuter-Volkmann Principle
+* Excessive mechanical compressive forces on a growing physis → inhibit normal growth.
+* Obese child + early walking → pathological mechanical loading on the medial side of the knee.
+
+### Pathological Progression
+* Medial tibial growth plate growth is arrested/slowed.
+* Lateral physis continues to grow at a normal rate.
+* Asymmetric growth → forces lower leg to curve sharply inward (Varus deformity).
+* → Biomechanical weight-bearing axis shifts further medial → exacerbates compressive forces (vicious cycle).
 
 ## 3. Clinical Presentation
-- A 3-year-old child whose BMI is >95th percentile. The parents note that his bowlegs, which they assumed were "just baby fat," are getting significantly worse, and he frequently trips.
+
+### Infantile Presentation
+* 3-yr-old toddler.
+* BMI >95th percentile.
+* Parents note bowlegs (assumed "baby fat") progressively worsening.
+* Frequent tripping or clumsiness.
+* Painless (usually).
+
+### Adolescent Presentation
+* >10-yr-old overweight adolescent.
+* Unilateral or bilateral bowing.
+* Knee pain +ve (unlike infantile form).
 
 ## 4. Key Symptoms & Signs
-- Bilateral or unilateral progressive bowlegs (Genu Varum).
-- **Lateral Thrust**: During the mid-stance phase of walking, the knee visibly buckles or thrusts outward.
-- May palpate a bony prominence (the "beak") on the medial aspect of the proximal tibia.
-- In-toeing gait (internal tibial torsion).
-- Typically painless in the infantile form.
 
-## 5. Discriminatory Features (How to distinguish from similar conditions)
-- Distinct from Physiological Genu Varum: Physiological bowlegs are symmetric, improve dramatically by age 2, and have totally normal X-rays. Blount disease WORSENS after age 2 and has distinctly abnormal bone changes on X-ray.
+### Visual Inspection
+* Progressive Genu Varum (膝內翻) (Bilateral in 80% of infantile cases, often unilateral in adolescents).
+* **Lateral Thrust (側向推力)**: Knee visibly buckles/thrusts outward during the mid-stance phase of gait.
+* In-toeing gait (Internal tibial torsion (脛骨內旋)).
+* Limb length discrepancy (if unilateral).
+
+### Palpation
+* Medial "beak" (bony prominence) palpable at the proximal medial tibia.
+* Non-tender in infants; may be tender in adolescents.
+
+## 5. Discriminatory Features
+
+### Blount Disease vs. Physiological Genu Varum
+| Feature | Physiological Genu Varum (生理性膝內翻) | Blount Disease (布朗特氏病) |
+| :--- | :--- | :--- |
+| **Age of Worsening** | Improves dramatically by 18-24 mos | Worsens >2 yrs |
+| **Symmetry** | Symmetric | Often asymmetric |
+| **Lateral Thrust** | -ve | +ve |
+| **X-Ray Findings** | Normal | Medial beaking, ↑ MDA |
 
 ## 6. Differential Diagnosis
-- Rickets (Vitamin D deficiency bowing - look for wide wrists and rachitic rosary).
-- Skeletal Dysplasia (e.g., Achondroplasia).
-- Post-traumatic growth plate arrest.
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Bloods**: Calcium, Phosphate, ALP, and Vitamin D to definitively rule out Rickets.
-- **X-Ray (Gold Standard)**: A standing, weight-bearing AP film of the entire lower limbs.
-  - Will show a sharp, angular varus deformity at the proximal tibia.
-  - **Medial Beaking**: The medial metaphysis of the tibia is fragmented, depressed, and shaped like a beak.
-  - Metaphyseal-Diaphyseal Angle (MDA): If >16 degrees, it is Blount's; if <11 degrees, it is likely physiological.
+### Summary of Differentials
+| Differential | Key Distinguishing Features |
+| :--- | :--- |
+| **Rickets (佝僂病)** | Vit D deficiency. Widened wrists, rachitic rosary, generalized osteopenia on X-ray, ↓ Ca/PO4, ↑ ALP. |
+| **Achondroplasia (軟骨發育不全)** | Frontal bossing, rhizomelic shortening, trident hand. |
+| **Traumatic Physis Arrest** | History of fracture/trauma, unilateral, asymmetric growth. |
+| **Osteogenesis Imperfecta** | Blue sclera, frequent fractures, +ve family history. |
+
+## 7. Tiered Investigations
+
+### Bedside & Clinical
+* Serial height/weight/BMI plotting on HA growth charts.
+* Gait observation (assess for lateral thrust).
+
+### Bloods (Rule out Rickets)
+* Serum Calcium (Ca), Phosphate (PO4).
+* Alkaline Phosphatase (ALP).
+* 25-OH Vitamin D.
+* (All typically normal in Blount Disease).
+
+### Imaging: Gold Standard
+* **Standing Weight-Bearing AP X-Ray (Full Lower Limb)**.
+* **Key Findings**:
+  * Sharp angular varus deformity at proximal tibia.
+  * **Medial Beaking**: Fragmented, depressed medial metaphysis shaped like a beak.
+  * **Metaphyseal-Diaphyseal Angle (MDA)**: >16° = Blount's; <11° = Physiological.
+  * Langenskiöld Classification System (Stages I-VI) to grade severity & guide surgery.
 
 ## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Early (Ages 2-3, mild disease)**: Knee-Ankle-Foot Orthosis (KAFO) bracing. The brace pulls the leg straight to relieve the mechanical pressure off the medial growth plate, allowing it to recover and start growing again.
-- **Late (Ages >4, severe disease, or failed bracing)**: Surgical **Proximal Tibial Osteotomy**. The bone is literally cut, realigned straight, and fixed.
-- **Weight Management**: Dietitian referral is critical as obesity is the driving mechanical mechanism.
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- N/A.
+### Conservative Management (Mild/Early)
+* **Target**: Infantile form, Ages 2-3, mild disease (Langenskiöld Stage I-II).
+* **Device**: Knee-Ankle-Foot Orthosis (KAFO) bracing.
+* **Mechanism**: Pulls leg straight → unloads mechanical pressure off medial growth plate → allows recovery/catch-up growth.
+* **Note**: High failure rate in severe obesity; requires strict compliance.
+
+### Surgical Management (Severe/Late)
+* **Indications**: Age >4, severe deformity (Stage III+), or failed KAFO bracing.
+* **Procedures**:
+  * **Proximal Tibial Osteotomy (脛骨截骨術)**: Bone cut, realigned straight (slight valgus overcorrection), and fixed.
+  * **Guided Growth (Hemiepiphysiodesis)**: Tension band/plate applied to lateral physis to tether growth, allowing medial side to catch up.
+
+### Chronic Care
+* **Weight Management**: Obesity = primary mechanical driver.
+
+## 9. MDT & Psychosocial Care
+
+### Multidisciplinary Team Involvement
+* **Orthopaedics**: Surgical planning & monitoring.
+* **Dietitian (營養師)**: Critical for weight reduction strategies.
+* **Physiotherapist (物理治療師)**: Post-op rehab, gait training.
+* **Orthotist**: Brace fitting, modifications, and compliance monitoring.
 
 ## 10. Safeguarding & NAI Red Flags
-- N/A.
+
+### NAI Considerations
+* Rarely applicable directly to Blount.
+* However, severe/morbid obesity masking underlying medical/social neglect may warrant MSW (Medical Social Worker) assessment if parental compliance with diet/bracing/follow-up is persistently nil.
 
 ## 11. Complications & Prognosis
-- Premature severe osteoarthritis of the knee in young adulthood if the alignment is not surgically corrected.
-- Limb length discrepancy.
+
+### Long-Term Complications
+* Premature severe osteoarthritis (骨關節炎) of the medial knee compartment in early adulthood if uncorrected.
+* Permanent limb length discrepancy (長短腳).
+* Recurrence of varus deformity post-osteotomy (especially if BMI remains >95th percentile).
+* Chronic joint pain & altered biomechanics.
 
 ## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- **Trap**: Telling the mother of a severely obese 3-year-old with worsening bowlegs that "all toddlers are bowlegged, it will resolve." Physiological bowing resolves by 18-24 months. Worsening varus at age 3 requires X-rays.
-- **Viva Q**: "According to the Heuter-Volkmann principle, what is the pathological mechanism driving infantile Blount disease?" Answer: Excessive mechanical compressive forces on the medial proximal tibial physis inhibit its normal growth, leading to asymmetric growth and progressive varus deformity.
+
+* Viva Question: According to the Heuter-Volkmann principle, what is the pathological mechanism driving infantile Blount disease? Answer: Excessive mechanical compressive forces on the medial proximal tibial physis inhibit its normal growth, leading to asymmetric growth and progressive varus deformity.
+* Viva Question: What radiographic angle differentiates Blount disease from physiological bowing? Answer: Metaphyseal-Diaphyseal Angle (MDA). >16 degrees indicates Blount disease, whereas <11 degrees indicates physiological bowing.
+* Trap: Reassuring parents of a 3-year-old obese child with worsening bowlegs that "all toddlers are bowlegged, it will resolve." Pearl: Physiological bowing resolves by 18-24 months. Worsening varus at age 3 warrants standing AP lower limb X-rays.
+* Pitfall: Forgetting to check a bone profile. Pearl: Always draw Ca, PO4, ALP, and Vitamin D to definitively rule out Rickets before diagnosing idiopathic Blount disease.
+* Trap: Recommending bracing for an adolescent with Blount disease. Pearl: Bracing (KAFO) is only effective in early infantile Blount (ages 2-3) where growth potential allows correction. Adolescents or late-presenters require surgical intervention.

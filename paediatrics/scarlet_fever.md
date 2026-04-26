@@ -1,73 +1,131 @@
 # Scarlet Fever (猩紅熱)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: A syndrome characterized by an exudative pharyngitis, fever, and a characteristic exanthem (rash), caused by infection with Group A Beta-Haemolytic Streptococcus (GAS) that produces erythrogenic (pyrogenic) exotoxins.
-- **Local Epidemiology**: Endemic in Hong Kong with periodic large outbreaks, particularly among children aged 2 to 10 years. It is a statutory notifiable disease to the Centre for Health Protection (CHP).
+
+### Clinical Definition
+* **Definition**: Syndrome characterized by exudative pharyngitis, fever, and a pathognomonic exanthem (rash).
+* **Aetiology**: Infection by exotoxin-producing **Group A Beta-Haemolytic Streptococcus (GAS) (A型鏈球菌)**.
+
+### Local Epidemiology in Hong Kong
+* **Epidemiology**: Endemic in Hong Kong → periodic large outbreaks.
+* **Demographics**: Peaks in children aged 2-10 years.
+* **Public Health**: Statutory notifiable disease to the **Centre for Health Protection (CHP) (衞生防護中心)**.
 
 ## 2. Pathophysiology & Genetics
-- **Pathogenesis**: 
-  - The child contracts a GAS infection, usually tonsillopharyngitis (strep throat).
-  - The specific strain of GAS produces one of several erythrogenic exotoxins (A, B, or C).
-  - These toxins act as superantigens, triggering a massive release of inflammatory cytokines.
-  - The toxins cause a delayed-type hypersensitivity reaction in the skin, resulting in the characteristic rash.
-  - *Note*: A child can get scarlet fever more than once because there are different types of erythrogenic toxins.
+
+### Pathogenesis Mechanism
+* **Infection**: Child contracts **GAS infection (A型鏈球菌感染)** → usually tonsillopharyngitis.
+* **Toxin Production**: Specific GAS strains produce erythrogenic (pyrogenic) exotoxins (A, B, or C).
+* **Superantigen Effect**: Toxins act as superantigens → massive release of inflammatory cytokines.
+* **Dermatological Reaction**: Toxins cause delayed-type hypersensitivity skin reaction → characteristic exanthem.
+
+### Recurrence Risk
+* **Immunity**: Toxin-specific immunity.
+* **Re-infection**: Patients can contract **Scarlet Fever (猩紅熱)** multiple times → due to different circulating erythrogenic toxin strains.
 
 ## 3. Clinical Presentation
-- Sudden onset of high fever, severe sore throat, headache, and vomiting.
-- The characteristic rash appears 12 to 48 hours after the onset of fever.
+
+### Acute Presentation Timeline
+* **Prodrome**: Sudden onset high fever, severe sore throat, headache, vomiting.
+* **Rash Onset**: Characteristic rash appears 12-48 hours post-fever onset.
+* **Resolution Phase**: Rash fades after ~1 week → followed by generalized skin peeling.
 
 ## 4. Key Symptoms & Signs
-- **Pharyngitis**: Tonsils are enlarged, erythematous, and often covered in a white/yellow exudate. Petechiae may be seen on the soft palate.
-- **The Tongue**:
-  - *Days 1-2*: "White Strawberry Tongue" (coated with a white membrane through which swollen red papillae protrude).
-  - *Days 3-4*: "Red Strawberry Tongue" (the white coating desquamates, leaving a beefy red, swollen tongue with prominent papillae).
-- **The Rash**:
-  - A fine, erythematous, punctate (pinpoint) rash.
-  - **Texture**: Feels like **"sandpaper"**.
-  - **Distribution**: Starts on the neck and upper chest, then spreads to the trunk and extremities.
-  - **Pastia's Lines**: The rash is more intense and forms hyperpigmented red lines in the skin creases (antecubital fossae, axillae, groin).
-  - **Facial Flushing with Circumoral Pallor**: The cheeks are bright red, but the area around the mouth is pale.
-- **Desquamation**: As the rash fades after about a week, the skin begins to peel (desquamate), particularly on the fingertips, toes, and groin.
+
+### Oropharyngeal Signs
+* **Pharyngitis (咽炎)**: Enlarged, erythematous tonsils 
+* **Tonsillar Exudate**: Covered in white/yellow exudate.
+* **Palate**: Petechiae visible on the soft palate.
+* **Tongue Changes**:
+  * Days 1-2: **"White Strawberry Tongue" (白草莓舌)** → coated with white membrane, swollen red papillae protruding.
+  * Days 3-4: **"Red Strawberry Tongue" (紅草莓舌)** → white coating desquamates → beefy red, swollen tongue with prominent papillae.
+
+### Dermatological Signs
+* **The Rash (皮疹)**: Fine, erythematous, punctate (pinpoint), blanching.
+* **Texture**: Feels like "sandpaper".
+* **Distribution**: Starts on neck/upper chest → spreads to trunk/extremities.
+* **Pastia's Lines (帕斯氏線)**: Hyper-pigmented red lines in skin creases (antecubital fossae, axillae, groin).
+* **Facial Flushing**: Bright red cheeks + **Circumoral Pallor (口周蒼白)**.
+* **Desquamation (脫皮)**: Peeling of skin ~1 week post-rash fade → affects fingertips, toes, groin.
 
 ## 5. Discriminatory Features (How to distinguish from similar conditions)
-- **Kawasaki Disease**: Also presents with fever, a strawberry tongue, and a rash. However, Kawasaki disease features non-exudative conjunctivitis, cracking/fissuring of the lips, and unilateral cervical lymphadenopathy. Crucially, Kawasaki disease does NOT respond to antibiotics and requires IVIG.
-- **Viral Exanthems (e.g., Adenovirus, Enterovirus)**: Can cause pharyngitis and a rash, but the rash usually lacks the classic "sandpaper" texture and Pastia's lines.
+
+### Discriminatory Comparison Table
+| Clinical Feature | **Scarlet Fever (猩紅熱)** | **Kawasaki Disease (川崎病)** | **Viral Exanthem (病毒性皮疹)** |
+| :--- | :--- | :--- | :--- |
+| **Aetiology** | GAS Bacteria | Idiopathic Vasculitis | Viral (Adenovirus, Enterovirus) |
+| **Conjunctivitis** | Absent | Bilateral, non-exudative | Variable |
+| **Lips** | Normal | Cracked, fissured, bleeding | Normal |
+| **Lymphadenopathy** | Bilateral cervical (tender) | Unilateral cervical >1.5cm | Generalized (mild) |
+| **Rash Texture** | Sandpaper + Pastia's lines | Maculopapular / polymorphous | Maculopapular / non-specific |
+| **Definitive Treatment** | **Antibiotics (抗生素)** | **IVIG (靜脈注射免疫球蛋白)** + Aspirin | Supportive |
 
 ## 6. Differential Diagnosis
-- Kawasaki Disease.
-- Viral pharyngitis with a viral exanthem.
-- Measles.
-- Rubella.
-- Drug eruption.
-- Staphylococcal Scalded Skin Syndrome (SSSS).
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Diagnosis is primarily clinical**.
-- **Throat Swab**: For GAS culture or Rapid Antigen Detection Test (RADT). This confirms the presence of GAS.
-- **Bloods**: Usually not required for uncomplicated cases. If done, FBC shows leukocytosis with neutrophilia, and CRP is elevated. ASOT (Anti-Streptolysin O Titre) will rise weeks later.
+### Key Differentials
+* **Kawasaki Disease (川崎病)**
+* **Viral Pharyngitis with Exanthem** (e.g., Adenovirus, Enterovirus)
+* **Measles (麻疹)**
+* **Rubella (風疹)**
+* **Drug Eruption (藥物疹)**
+* **Staphylococcal Scalded Skin Syndrome (SSSS) (葡萄球菌燙傷樣皮膚綜合症)**
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Antibiotic Therapy**: The mainstay of treatment.
-  - **First-line**: A full 10-day course of **Oral Penicillin V** (or Amoxicillin).
-  - *Penicillin Allergy*: Oral Macrolide (e.g., Azithromycin, Clarithromycin) or Cephalosporin (if mild allergy).
-  - *Why 10 days?* To completely eradicate the GAS from the pharynx and prevent the non-suppurative complication of Acute Rheumatic Fever.
-- **Supportive Care**: Antipyretics (Paracetamol/Ibuprofen) for fever and sore throat, adequate hydration.
-- **Public Health**: Notify the CHP. The child should be excluded from school/nursery for 24 hours after commencing appropriate antibiotics.
+## 7. Tiered Investigations
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- N/A for uncomplicated cases.
+### Bedside & Laboratory Investigations
+* **Diagnosis**: Primarily clinical.
+* **Throat Swab (咽喉拭子)**: For GAS culture or Rapid Antigen Detection Test (RADT) → confirms GAS presence.
+* **Blood Tests (血液檢查)**: Not routinely required for uncomplicated cases. 
+  * FBC: Leukocytosis + neutrophilia.
+  * CRP/ESR: ↑
+  * ASOT (Anti-Streptolysin O Titre): ↑ weeks later (used to diagnose late complications retrospectively).
+
+## 8. Management (Acute, Chronic, HA Protocols)
+
+### Acute Antibiotic Management
+* **Mainstay of Treatment**: Full 10-day course of oral antibiotics → completely eradicates GAS pharyngeal carriage → prevents **Acute Rheumatic Fever (ARF) (急性風濕熱)**.
+
+| First-Line Therapy | Alternative (Mild Penicillin Allergy) | Alternative (Severe Penicillin Allergy) |
+| :--- | :--- | :--- |
+| Oral **Penicillin V (青黴素V)** x 10 days | Oral **Cephalosporin (頭孢菌素)** (e.g., Cefalexin) | Oral **Macrolide (大環內酯)** (e.g., Azithromycin, Clarithromycin) |
+| Oral **Amoxicillin (阿莫西林)** x 10 days | | |
+
+### Supportive & Public Health Management
+* **Supportive Care**: 
+  * Antipyretics (**Paracetamol (撲熱息痛)** / **Ibuprofen (布洛芬)**) for fever/sore throat.
+  * Adequate oral hydration.
+* **Public Health Protocols**:
+  * Notify **CHP (衞生防護中心)**.
+  * School/nursery exclusion → minimum 24 hours post-commencement of appropriate antibiotics.
+
+## 9. MDT & Psychosocial Care
+
+### MDT Involvement
+* N/A for uncomplicated cases. Routine primary care/GOPC follow-up.
 
 ## 10. Safeguarding & NAI Red Flags
-- N/A for this condition.
+
+### Safeguarding Considerations
+* N/A for this condition. (Focus on ensuring compliance with 10-day antibiotic course to prevent late complications).
 
 ## 11. Complications & Prognosis
-- **Suppurative Complications**: Direct spread of the infection causing Peritonsillar abscess (Quinsy), Retropharyngeal abscess, Otitis media, Mastoiditis, or Cervical lymphadenitis.
-- **Non-Suppurative Complications (Immune-mediated)**:
-  - **Acute Rheumatic Fever (ARF)**: Preventable by the 10-day course of antibiotics.
-  - **Acute Post-Streptococcal Glomerulonephritis (APSGN)**: Antibiotics do *not* prevent APSGN, but they prevent the spread of nephritogenic strains to others.
-- **Prognosis**: Excellent with prompt antibiotic treatment.
+
+### Suppurative Complications (Direct Spread)
+* **Peritonsillar Abscess / Quinsy (扁桃體周圍膿腫)**
+* **Retropharyngeal Abscess (咽後膿腫)**
+* **Otitis Media (中耳炎)**
+* **Mastoiditis (乳突炎)**
+* **Cervical Lymphadenitis (頸淋巴結炎)**
+
+### Non-Suppurative Complications (Immune-Mediated)
+* **Acute Rheumatic Fever (ARF) (急性風濕熱)**: Preventable by the 10-day antibiotic course.
+* **Acute Post-Streptococcal Glomerulonephritis (APSGN) (急性鏈球菌感染後腎小球腎炎)**: Antibiotics DO NOT prevent APSGN directly → but prevent the spread of nephritogenic strains to the community.
+
+### Prognosis
+* Excellent with prompt antibiotic therapy → rapid defervescence and symptom resolution.
 
 ## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- *Viva*: "Describe the classic rash of Scarlet Fever." (A fine, erythematous, blanching rash that feels like sandpaper, with increased intensity in the skin creases known as Pastia's lines, and facial flushing with circumoral pallor).
-- *Viva*: "Why do we prescribe a full 10-day course of Penicillin for Scarlet Fever, even if the child feels better after 3 days?" (To completely eradicate the Group A Streptococcus and prevent the development of Acute Rheumatic Fever).
-- *Pitfall*: Confusing Scarlet Fever with Kawasaki Disease. Both have a strawberry tongue and rash, but Kawasaki is a vasculitis requiring IVIG to prevent coronary artery aneurysms, while Scarlet Fever is a bacterial infection requiring Penicillin.
+* Viva Question: Describe the classic rash of Scarlet Fever? Answer: A fine, erythematous, blanching rash with a sandpaper texture, concentrated in skin creases (Pastia's lines), accompanied by facial flushing and circumoral pallor.
+* Viva Question: Why do we prescribe a full 10-day course of Penicillin for Scarlet Fever, even if the child feels better after 3 days? Answer: To completely eradicate the Group A Streptococcus and prevent the development of Acute Rheumatic Fever.
+* Pitfall: Confusing Scarlet Fever with Kawasaki Disease. Both have a strawberry tongue and rash, but Kawasaki is an idiopathic vasculitis requiring IVIG to prevent coronary aneurysms, while Scarlet Fever is a bacterial infection requiring Penicillin.
+* Trap: Assuming antibiotics prevent Acute Post-Streptococcal Glomerulonephritis (APSGN). Pearl: Antibiotics prevent Acute Rheumatic Fever (ARF) but do not prevent APSGN; however, they prevent the spread of nephritogenic strains to others.

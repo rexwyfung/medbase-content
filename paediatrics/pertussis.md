@@ -1,69 +1,144 @@
 # Pertussis (Whooping Cough) (百日咳)
 
 ## 1. Clinical Definition & Local Epidemiology
-- **Definition**: A highly contagious, prolonged respiratory infection caused by the Gram-negative bacterium *Bordetella pertussis*. It is characterized by severe, paroxysmal coughing fits.
-- **Local Epidemiology**: Despite high vaccination coverage (DTaP in the HKCIP), pertussis remains endemic in Hong Kong. Outbreaks occur cyclically. The most severe and fatal cases occur in unvaccinated or incompletely vaccinated infants < 6 months old. Immunity from the vaccine wanes over time, making adolescents and adults a significant reservoir for transmitting the disease to vulnerable infants.
+
+### Clinical Definition
+**Definition**: Highly contagious, prolonged respiratory infection caused by Gram-negative coccobacillus **Bordetella pertussis** (百日咳桿菌). Characterized by severe, paroxysmal coughing fits ending in a classic inspiratory "whoop".
+**Endemicity**: "100-day cough" (百日咳).
+
+### Local Epidemiology (Hong Kong Context)
+**Prevalence**: Endemic in HK despite high **HKCIP** (Hong Kong Childhood Immunisation Programme) coverage (DTaP/dTap vaccine).
+**Vulnerable Population**: Most severe/fatal cases in unvaccinated or incompletely vaccinated infants **< 6 months**.
+**Transmission Reservoir**: Vaccine-induced immunity wanes over 5-10 years → adolescents/adults become asymptomatic or mildly symptomatic carriers → transmit to vulnerable infants.
 
 ## 2. Pathophysiology & Genetics
-- **Transmission**: Airborne spread via respiratory droplets. Highly contagious.
-- **Pathogenesis**: The bacteria attach to the ciliated epithelium of the respiratory tract. They do not invade deeply but release several powerful toxins (e.g., Pertussis toxin, Tracheal cytotoxin).
-- **Toxin Effects**: These toxins paralyze the cilia, cause massive inflammation, and produce thick, tenacious mucus. The inability to clear this mucus leads to the violent coughing fits. The toxins also cause a profound systemic lymphocytosis.
+
+### Pathogenesis & Transmission
+**Transmission**: Airborne spread via respiratory droplets. Highly contagious (R0 = 12-17).
+**Incubation Period**: 7-10 days (range 5-21 days).
+**Attachment**: *B. pertussis* attaches to ciliated respiratory epithelium via **filamentous haemagglutinin** (FHA) and **pertactin**. It does NOT invade deeply.
+
+### Toxin-Mediated Damage
+**Pertussis Toxin (PT)**: Inactivates Gi proteins → ↑cAMP → profound **systemic lymphocytosis** & impaired phagocytosis.
+**Tracheal Cytotoxin (TCT)**: Destroys ciliated epithelial cells → paralysis of mucociliary escalator → inability to clear thick, tenacious mucus → violent paroxysmal coughing.
+**Adenylate Cyclase Toxin (ACT)**: Inhibits leukocyte chemotaxis and induces apoptosis.
 
 ## 3. Clinical Presentation
-- The illness is classically divided into three stages, lasting 6-10 weeks in total (the "100-day cough").
-  1. **Catarrhal Stage (1-2 weeks)**: Indistinguishable from a mild viral URTI (coryza, low-grade fever, mild cough). *This is the most infectious stage.*
-  2. **Paroxysmal Stage (2-6 weeks)**: The hallmark stage. Severe, exhausting bouts of rapid, consecutive coughs without a breath in between.
-  3. **Convalescent Stage (Weeks to months)**: Gradual reduction in the frequency and severity of coughing fits.
+
+### Catarrhal Stage (1-2 Weeks)
+**Features**: Indistinguishable from mild viral URTI (coryza, low-grade fever, mild cough, sneezing).
+**Infectivity**: **Most infectious stage** (highest bacterial load).
+
+### Paroxysmal Stage (2-6 Weeks)
+**Features**: The hallmark stage. Severe, exhausting bouts of rapid, consecutive coughs (5-10 coughs in a single expiration).
+**The "Whoop"**: Desperate, forceful inspiration against a narrowed glottis after a coughing fit. *(Note: Infants < 3 months often do NOT whoop → present with **apnoea/cyanosis**)*.
+**Post-Tussive Vomiting**: Highly specific sign.
+
+### Convalescent Stage (Weeks to Months)
+**Features**: Gradual reduction in frequency/severity of paroxysms. Cough can be re-triggered by subsequent non-specific viral URTIs.
 
 ## 4. Key Symptoms & Signs
-- **Paroxysmal Cough**: Spasms of coughing that are worse at night.
-- **The "Whoop"**: At the end of a paroxysm, the child takes a desperate, forceful inspiration against a narrowed glottis, producing a high-pitched "whoop" sound. *(Note: Infants < 3 months often do NOT whoop; they present with apnoea and cyanosis instead).*
-- **Post-tussive Vomiting**: Vomiting immediately following a coughing fit is a highly specific sign of pertussis.
-- **Cyanosis and Apnoea**: Common and life-threatening in young infants during a paroxysm.
-- **Subconjunctival Haemorrhages / Petechiae**: Caused by the massive increase in intrathoracic pressure during coughing.
+
+### Classic Respiratory Signs
+* **Paroxysmal Cough (陣發性咳嗽)**: Worse at night, triggered by feeding, crying, or minor stimuli.
+* **Inspiratory Whoop**: High-pitched sound.
+* **Post-tussive Vomiting**: Highly predictive.
+* **Apnoea & Cyanosis (窒息及發紺)**: Pathognomonic presentation in young infants (< 3 months).
+
+### Pressure-Induced Signs
+* **Subconjunctival Haemorrhages**: Due to massive ↑ in intrathoracic/venous pressure.
+* **Facial Petechiae**: Above the nipple line.
+* **Epistaxis**: Venous engorgement.
 
 ## 5. Discriminatory Features (How to distinguish from similar conditions)
-- **Viral Bronchiolitis (RSV)**: Also causes severe cough in infants, but is characterized by widespread wheeze, crackles, and hyperinflation. Pertussis typically has a clear chest on auscultation between coughing fits.
-- **Mycoplasma Pneumonia**: Causes a persistent dry cough, but lacks the violent paroxysms, whoop, and post-tussive vomiting.
+
+### Pertussis vs. Viral Bronchiolitis (RSV)
+| Feature | Pertussis (B. pertussis) | Viral Bronchiolitis (RSV) |
+| :--- | :--- | :--- |
+| **Auscultation** | Clear chest between paroxysms | Widespread wheeze, fine crackles |
+| **Cough Nature** | Paroxysmal, whoop, post-tussive vomiting | Wet, continuous, no whoop |
+| **Bloods** | Marked Lymphocytosis | Normal/mild viral picture |
+
+### Pertussis vs. Mycoplasma Pneumonia
+| Feature | Pertussis | Mycoplasma Pneumonia |
+| :--- | :--- | :--- |
+| **Age** | Infants/Toddlers (most severe) | School-aged children/Adolescents |
+| **Cough** | Violent paroxysms + vomiting | Persistent, dry, hacking |
+| **Systemic** | No fever in paroxysmal stage | Low-grade fever, malaise, headache |
 
 ## 6. Differential Diagnosis
-- Viral bronchiolitis (RSV, Adenovirus).
-- Mycoplasma pneumoniae or Chlamydophila pneumoniae.
-- Foreign body aspiration.
-- Asthma.
-- Cystic Fibrosis.
 
-## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
-- **Microbiology (The Definitive Test)**:
-  - **Nasopharyngeal Aspirate (NPA) or Swab for B. pertussis PCR**: The most sensitive and rapid test.
-  - Culture requires special media (Bordet-Gengou or Regan-Lowe agar) and is slow.
-- **Bloods**:
-  - **Marked Lymphocytosis**: A classic finding (e.g., WBC 20-30 x 10^9/L with 70-80% lymphocytes), caused by the pertussis toxin.
-- **Chest X-ray**: Usually normal or shows mild perihilar infiltrates. Used to rule out secondary bacterial pneumonia.
+### Infectious Causes
+* **Viral Bronchiolitis**: RSV, Adenovirus, Parainfluenza.
+* **Atypical Pneumonia**: *Mycoplasma pneumoniae*, *Chlamydophila pneumoniae*.
+* **Bacterial Tracheitis**: Sudden onset, toxic, high fever.
 
-## 8. Evidence-Based Management (Acute, Chronic, HA Protocols)
-- **Admission**: All infants < 6 months old with suspected pertussis should be admitted due to the high risk of apnoea and death.
-- **Antibiotic Therapy**:
-  - **Macrolides (Azithromycin or Clarithromycin)** are the treatment of choice.
-  - *Crucial Concept*: Antibiotics do **NOT** significantly alter the clinical course or stop the coughing once the paroxysmal stage has begun (because the damage is toxin-mediated). The primary purpose of antibiotics is to **eradicate nasopharyngeal carriage and prevent transmission** to others.
-- **Supportive Care**: Oxygen during paroxysms, gentle suctioning, maintaining hydration, and minimal handling (as any stimulus can trigger a coughing fit).
-- **Public Health**: Statutory notifiable disease in HK.
-- **Prophylaxis**: Close contacts (especially vulnerable infants or pregnant women) should receive prophylactic macrolide antibiotics.
+### Non-Infectious Causes
+* **Foreign Body Aspiration**: Sudden onset choking, asymmetrical wheeze/reduced air entry.
+* **Reactive Airway Disease / Asthma**: Reversible airway obstruction, responds to bronchodilators.
+* **Cystic Fibrosis**: Chronic wet cough, failure to thrive, steatorrhoea.
 
-## 9. MDT & Psychosocial Care (MSW, MCHC, SWD)
-- **Prevention (The most important aspect)**:
-  - **Maternal Vaccination**: The HA now strongly recommends the dTap vaccine for all pregnant women in the third trimester. This provides passive transfer of maternal antibodies to protect the neonate during the most vulnerable first few months of life before they can be fully vaccinated.
-  - "Cocooning": Vaccinating all close family members of a newborn.
+## 7. Tiered Investigations
+
+### Bedside & Blood Tests
+* **Complete Blood Count (CBC)**: **Marked Lymphocytosis** (WBC 20-50 x 10^9/L with 70-90% mature lymphocytes). Caused by Pertussis Toxin.
+* **Pulse Oximetry**: Monitor for desaturations during paroxysms.
+
+### Microbiological Diagnostics (Gold Standard)
+* **NPA / Nasopharyngeal Swab for PCR**: **1st Line & Gold Standard**. Rapid, highly sensitive, remains positive even after starting antibiotics or late in the illness.
+* **Culture**: Requires special media (**Bordet-Gengou** or **Regan-Lowe** agar). Slow (7-10 days) and low sensitivity, but 100% specific.
+* **Serology (Anti-PT IgG)**: Useful in late presentations (>4 weeks of cough) when PCR is likely negative.
+
+### Imaging
+* **Chest X-Ray (CXR)**: Usually normal. May show mild perihilar infiltrates or "shaggy heart" border. Used primarily to rule out secondary bacterial pneumonia or foreign body.
+
+## 8. Management (Acute, Chronic, HA Protocols)
+
+### Acute Resuscitation & Admission Criteria
+* **Admission**: **Mandatory for all infants < 6 months** due to high risk of sudden apnoea/cyanosis and death.
+* **Isolation**: Droplet precautions until 5 days of appropriate antibiotic therapy completed.
+* **Supportive Care**: Gentle suctioning, O2 during paroxysms, nasogastric feeding if poor oral intake, minimal handling (stimuli trigger paroxysms).
+
+### Pharmacological Therapy (Antibiotics)
+* **1st Line**: **Macrolides** (Azithromycin for 5 days OR Clarithromycin for 7 days).
+* **Alternative**: Co-trimoxazole (if macrolide-allergic or contraindicated, but avoid in infants < 2 months due to kernicterus risk).
+* **Clinical Pearl**: Antibiotics given in the *catarrhal* stage may attenuate the illness. Given in the *paroxysmal* stage, they do **NOT** alter the clinical course (toxin-mediated damage is already done). Their main role is to **eradicate nasopharyngeal carriage and prevent transmission**.
+
+### Public Health & HA Protocols
+* **Notification**: Statutory Notifiable Disease in Hong Kong to the Centre for Health Protection (CHP).
+* **Post-Exposure Prophylaxis (PEP)**: Macrolide antibiotics for close contacts, prioritizing high-risk individuals (infants < 1 year, pregnant women in 3rd trimester).
+
+## 9. MDT & Psychosocial Care
+
+### Prevention Strategy
+* **Maternal Vaccination**: HK Department of Health strongly recommends **dTap** vaccine for ALL pregnant women between **26-34 weeks gestation**. Provides passive maternal IgG transfer to protect the neonate before their 1st primary dose at 2 months.
+* **Cocooning Strategy**: Vaccinating close family members/caregivers of the newborn.
+* **HKCIP Schedule**: DTaP-IPV-Hib-HepB at 2, 4, 6 months; booster at 18 months; dTap-IPV at Primary 1 and Primary 6.
 
 ## 10. Safeguarding & NAI Red Flags
-- N/A for this condition.
+
+### Non-Accidental Injury (NAI) Considerations
+* While pertussis itself is not an NAI, severe paroxysmal coughing can rarely cause **rib fractures** or **subdural/subconjunctival haemorrhages**.
+* **Red Flag**: If fractures or intracranial bleeding are found in an infant *without* a confirmed severe coughing illness or appropriate PCR/lymphocytosis, NAI must be strongly suspected and investigated (Skeletal Survey, Opthalmology review).
 
 ## 11. Complications & Prognosis
-- **Respiratory**: Secondary bacterial pneumonia (the most common cause of death), pneumothorax, rib fractures (from coughing).
-- **Neurological**: Hypoxic encephalopathy, seizures (due to hypoxia during paroxysms or intracranial haemorrhage).
-- **Prognosis**: Excellent in older children, but carries a significant mortality rate in infants < 3 months old.
+
+### Respiratory Complications
+* **Secondary Bacterial Pneumonia**: *S. pneumoniae* or *S. aureus*. **Most common cause of death** in pertussis.
+* **Mechanical Complications**: Pneumothorax, pneumomediastinum, subcutaneous emphysema, rib fractures, umbilical/inguinal hernias (all due to massive ↑ intrathoracic pressure).
+
+### Neurological Complications
+* **Hypoxic Encephalopathy**: Due to severe apnoea/cyanosis.
+* **Seizures**: 2° to hypoxia or hyponatraemia (SIADH).
+* **Intracranial Haemorrhage**: Due to pressure spikes during coughing.
+
+### Prognosis
+* Excellent in older children and adults.
+* Significant mortality (~1%) in unvaccinated infants < 3 months, primarily from secondary pneumonia or intractable pulmonary hypertension.
 
 ## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-- *Viva*: "A 2-month-old unvaccinated infant presents with episodes of turning blue and stopping breathing. The mother notes he has had a mild cough for a week. His WBC count is 25 with 80% lymphocytes. What is the most likely diagnosis?" (Pertussis. Infants often present with apnoea and cyanosis rather than the classic 'whoop'. The marked lymphocytosis is a classic clue).
-- *Viva*: "Why do we prescribe Azithromycin for a child who has already been coughing for 3 weeks with Pertussis?" (To eradicate the bacteria from the nasopharynx and prevent transmission to others. It will not significantly improve the child's current symptoms, as the damage is already done by the toxins).
-- *Pitfall*: Assuming a child cannot have pertussis because they are fully vaccinated. Vaccine immunity wanes, and older children/adults can get a milder version of the disease and transmit it to infants.
+
+* Viva Question: A 2-month-old unvaccinated infant presents with episodes of turning blue and stopping breathing. The mother notes a mild cough for a week. WBC is 28 x 10^9/L with 80% lymphocytes. Most likely diagnosis? Answer: Pertussis. Infants often present with apnoea and cyanosis instead of the classic 'whoop'. The marked lymphocytosis is a cardinal clue.
+* Viva Question: Why do we prescribe Azithromycin for a child who has already been coughing for 3 weeks with Pertussis? Answer: To eradicate the bacteria from the nasopharynx and stop transmission. It will not improve current symptoms because the ciliary damage is already done by the Pertussis Toxin and Tracheal Cytotoxin.
+* Trap: A fully vaccinated 5-year-old cannot catch pertussis. Pearl: Vaccine-induced immunity wanes over 5-10 years. Older children and adults can get a milder version of the disease and act as the primary transmission reservoir for unimmunized infants.
+* Pitfall: Relying on bacterial culture to diagnose pertussis. Because *B. pertussis* is fastidious and slow-growing (requires Bordet-Gengou/Regan-Lowe agar), culture has low sensitivity and takes too long. Always use NPA PCR as the gold standard first-line investigation.
