@@ -16,6 +16,7 @@
 * Autoantibodies (usually IgG) target platelet surface antigens (e.g., GPIIb/IIIa (血小板糖蛋白IIb/IIIa))
 * Antibody-coated platelets undergo premature destruction by macrophages (巨噬細胞)
 * Primary site of destruction: Reticuloendothelial system → Spleen (脾臟)
+![image|522](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/aa468ad660c4e7b3a5360dce25d06060.png)
 
 ### Triggers of ITP
 * Preceding viral infection (e.g., URTI, Varicella (水痘), EBV) 1-4 weeks prior
@@ -31,6 +32,7 @@
   * Haematuria (血尿)
   * Menorrhagia (月經過多) in adolescent girls
   * GI bleeding (melaena/haematochezia) (rare but severe)
+![image|518](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/8cb42e617042fcb582922cb3e4db31e1.png)
 
 ### Critical Negative Signs in ITP
 * Child is otherwise completely well
@@ -144,8 +146,6 @@
 * **Severe Bleeding**: Intracranial Haemorrhage (ICH) (顱內出血) is very rare (<1%) but carries high mortality/morbidity
 
 ## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
-* Trap: Transfusing platelets for a well child with ITP and a platelet count of 5.
-* Pearl: Platelet transfusions are generally CONTRAINDICATED in ITP because the circulating autoantibodies will immediately destroy the transfused platelets. They are strictly reserved for life-threatening emergencies (e.g., ICH) alongside IVIG/steroids.
-* Viva Question: "A 3-year-old has petechiae and a platelet count of 10. Hb and WBC are normal. The blood film shows no blasts. He is playing happily. What is the treatment?"
-* Answer: Observation and safety netting. Treatment in ITP is dictated by the severity of clinical bleeding symptoms, not the absolute numerical platelet count.
+* Trap: Transfusing platelets for a well child with ITP and a platelet count of 5. Pearl: Platelet transfusions are generally CONTRAINDICATED in ITP because the circulating autoantibodies will immediately destroy the transfused platelets. They are strictly reserved for life-threatening emergencies (e.g., ICH) alongside IVIG/steroids.
+* Viva Question: "A 3-year-old has petechiae and a platelet count of 10. Hb and WBC are normal. The blood film shows no blasts. He is playing happily. What is the treatment?" Answer: Observation and safety netting. Treatment in ITP is dictated by the severity of clinical bleeding symptoms, not the absolute numerical platelet count.
 * Pitfall: Starting empirical oral prednisolone for ITP without confirming the diagnosis in HK HA hospitals. You risk partially treating and masking an underlying Acute Lymphoblastic Leukaemia (ALL), permanently delaying life-saving chemotherapy. Always perform a bone marrow aspirate before starting steroids if typical ITP criteria aren't perfectly met.
