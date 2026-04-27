@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "01035d36896331b8",
+        "id": "c35285e2375aa4dc",
         "type": "tabs",
         "children": [
           {
-            "id": "f5479a87153b0bd4",
+            "id": "e7aba47da215b9b3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,12 +177,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "custom-image-auto-uploader:Custom Image Auto Uploader": false
+      "bases:Create new base": false
     }
   },
-  "active": "f5479a87153b0bd4",
+  "active": "e7aba47da215b9b3",
   "lastOpenFiles": [
+    "paediatrics/haemophilia.md",
     "paediatrics/covid19.md",
     "paediatrics/dengue_fever.md",
     "paediatrics/herpangina.md",
@@ -208,7 +208,6 @@
     "paediatrics/arthrogryposis.md",
     "paediatrics/septic_arthritis.md",
     "paediatrics/osteomyelitis.md",
-    "paediatrics/transient_synovitis.md",
     "Logo-white bg.png",
     "Logo.png",
     "extract_notes.sh",
