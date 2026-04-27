@@ -24,7 +24,7 @@
 * Deficiency of FVIII or FIX disrupts the **Intrinsic Pathway (內在凝血途徑)**.
 * Impaired Tenase complex formation → ↓ **Thrombin (凝血酶)** generation.
 * Results in failure to form a stable cross-linked fibrin clot → delayed, prolonged, or spontaneous haemorrhage.
-![image|598](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/df2e2d5ae7caa9ab38b779fede90178f.png)
+![image|522](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/df2e2d5ae7caa9ab38b779fede90178f.png)
 
 ### Disease Severity Classification (疾病嚴重程度分類)
 
@@ -115,6 +115,7 @@
 * **Goal**: Convert severe phenotype to moderate phenotype by keeping trough factor levels >1-3% to prevent spontaneous haemarthroses.
 * **Recombinant Factor VIII / IX (重組凝血因子)**: Regular IV infusions 2-3 times/week. Often requires Central Venous Access Device (Port-A-Cath) in young children.
 * **Emicizumab / Hemlibra (艾美賽珠單抗)**: Bispecific monoclonal antibody mimicking FVIII. Given subcutaneously (weekly to monthly). Highly promoted in HK HA for Haem A (with or without inhibitors) to drastically ↓ IV infusion burden.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/c4ebf1f9e28447eb2542bb8d0b6b9ddb.png)
 
 ### Adjunctive Pharmacotherapy (輔助藥物治療)
 * **Desmopressin / DDAVP (去氨加壓素)**: Stimulates release of endogenous FVIII and vWF from endothelial cells. Used ONLY for **Mild Haemophilia A**. Ineffective in severe Haem A or any Haem B. Fluid restrict to prevent hyponatraemia.

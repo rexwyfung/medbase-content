@@ -11,10 +11,14 @@
             "id": "e7aba47da215b9b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "paediatrics/haemophilia.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "haemophilia"
             }
           }
         ]
