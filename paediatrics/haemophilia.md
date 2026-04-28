@@ -24,7 +24,7 @@
 * Deficiency of FVIII or FIX disrupts the **Intrinsic Pathway (內在凝血途徑)**.
 * Impaired Tenase complex formation → ↓ **Thrombin (凝血酶)** generation.
 * Results in failure to form a stable cross-linked fibrin clot → delayed, prolonged, or spontaneous haemorrhage.
-![image|522](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/df2e2d5ae7caa9ab38b779fede90178f.png)
+![image|583](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/746412e36afb3e8501219b4378c77ce0.png)
 
 ### Disease Severity Classification (疾病嚴重程度分類)
 
