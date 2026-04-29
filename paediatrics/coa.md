@@ -114,6 +114,7 @@
     * Older children (Usually >5 yrs):
         * **"Figure of 3" sign (「3」字徵)**: Pre-stenotic aortic dilation, the coarctation indent, and post-stenotic dilation.
         * **Rib Notching (肋骨切跡)**: Inferior rib margin erosion bilaterally (due to engorged, tortuous intercostal collateral arteries).
+	    ![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/6c2cb7695518c33bf54d57ab5e29130f.png)
 * **CT/MR Angiogram**: Excellent for pre-operative 3D anatomical planning.
 
 ### Gold Standard Investigation for CoA
