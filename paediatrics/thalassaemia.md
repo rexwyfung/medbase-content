@@ -18,6 +18,7 @@
 ### Normal Haemoglobin Physiology
 * **Adult Haemoglobin (HbA)**: α₂β₂ (2 alpha, 2 beta chains).
 * **Fetal Haemoglobin (HbF)**: α₂γ₂ (2 alpha, 2 gamma chains). Predominates until 4-6 months of life.
+![image|521](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/b75622e0c31abe31ab2cb4f785d4b199.png)
 
 ### Alpha-Thalassaemia (甲型地中海貧血) Genetics
 * Mutation: Deletion of α-globin genes (Normally 4 copies on chromosome 16).
@@ -30,6 +31,7 @@
 * Mutation: Point mutations in β-globin gene (Normally 2 copies on chromosome 11). Results in reduced (β⁺) or absent (β⁰) chain production.
 * **Beta-Thalassaemia Minor/Trait (β/β⁺ or β/β⁰)**: Heterozygous. Mild, asymptomatic microcytic anaemia.
 * **Beta-Thalassaemia Major / Cooley's Anaemia (β⁰/β⁰)**: Homozygous. Severe, transfusion-dependent anaemia.
+![image|304](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/754cc8630844625ca4527a46ecf8a544.png)
 
 ### Pathophysiology of Beta-Thalassaemia Major
 * **Ineffective Erythropoiesis**: Excess unmatched α-chains precipitate in RBC precursors → destruction in bone marrow.
@@ -52,6 +54,7 @@
 * **Massive Hepatosplenomegaly (肝脾腫大)**: Extreme abdominal distension.
 * **Bone Expansion**: Marrow hyperplasia leads to "**Thalassaemic facies**" (frontal bossing, prominent maxilla, depressed nasal bridge, malocclusion of teeth).
 * Skull X-ray: Classic "**hair-on-end**" appearance.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3807fc9bebeb83a58c9bef38df7b6929.png)
 
 ### Signs of Iron Overload (Haemosiderosis / 鐵質積聚)
 * Result of chronic blood transfusions + ↑ intestinal iron absorption.
@@ -88,6 +91,7 @@
 * **Complete Blood Picture (CBP)**: Severe microcytic (↓ MCV), hypochromic (↓ MCH) anaemia.
 * **Peripheral Blood Smear (血塗片)**: Target cells (靶形紅血球), nucleated RBCs, basophilic stippling, extreme anisopoikilocytosis.
 * **Mentzer Index**: MCV/RBC < 13.
+![image|536](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/94d49c514a7f6457e1ac2905c7e78be5.png)
 
 ### Gold Standard Diagnostics
 * **Haemoglobin Pattern (Hb Electrophoresis / HPLC)**:
@@ -157,10 +161,7 @@
 
 ## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
 
-* Viva Question: Why does a baby with Beta-Thalassaemia Major appear completely normal at birth and only present at 6 months of age?
-* Answer: At birth, the predominant haemoglobin is Fetal Haemoglobin (HbF), which consists of alpha and gamma chains (α₂γ₂). The beta-globin defect does not manifest until the physiological switch from gamma to beta chain production occurs around 4-6 months of age.
-* Viva Question: What is the leading cause of death in patients with Beta-Thalassaemia Major?
-* Answer: Cardiac failure or fatal arrhythmias secondary to myocardial iron overload (haemosiderosis).
-* Trap: Confusing the Mentzer index rules for Thalassaemia vs IDA.
-* Pearl: Mentzer index = MCV / RBC. If < 13, it points to Thalassaemia trait (RBC count is robust but cells are tiny). If > 13, it points to IDA (RBC count is depleted).
+* Viva Question: Why does a baby with Beta-Thalassaemia Major appear completely normal at birth and only present at 6 months of age? Answer: At birth, the predominant haemoglobin is Fetal Haemoglobin (HbF), which consists of alpha and gamma chains (α₂γ₂). The beta-globin defect does not manifest until the physiological switch from gamma to beta chain production occurs around 4-6 months of age.
+* Viva Question: What is the leading cause of death in patients with Beta-Thalassaemia Major? Answer: Cardiac failure or fatal arrhythmias secondary to myocardial iron overload (haemosiderosis).
+* Trap: Confusing the Mentzer index rules for Thalassaemia vs IDA. Pearl: Mentzer index = MCV / RBC. If < 13, it points to Thalassaemia trait (RBC count is robust but cells are tiny). If > 13, it points to IDA (RBC count is depleted).
 * Pitfall: Performing a splenectomy without addressing infectious risks. Splenectomy carries a high risk of overwhelming post-splenectomy infection (OPSI). Ensure pneumococcal, meningococcal, and Hib vaccinations are given pre-operatively, followed by lifelong prophylactic penicillin.
