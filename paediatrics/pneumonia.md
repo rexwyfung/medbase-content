@@ -163,12 +163,8 @@
 
 ## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
 
-* Trap: Prescribing Amoxicillin for a 10-year-old with a persistent dry cough and bilateral infiltrates.
-* Pearl: *Mycoplasma* is the most likely cause in this age group in HK. *Mycoplasma* lacks a cell wall, so beta-lactams (Amoxicillin) are useless. You must prescribe a Macrolide (Azithromycin/Clarithromycin).
-* Viva Question: What is the most sensitive clinical sign of pneumonia in a young child?
-* Answer: Tachypnoea (raised respiratory rate).
+* Trap: Prescribing Amoxicillin for a 10-year-old with a persistent dry cough and bilateral infiltrates. Pearl: *Mycoplasma* is the most likely cause in this age group in HK. *Mycoplasma* lacks a cell wall, so beta-lactams (Amoxicillin) are useless. You must prescribe a Macrolide (Azithromycin/Clarithromycin).
+* Viva Question: What is the most sensitive clinical sign of pneumonia in a young child? Answer: Tachypnoea (raised respiratory rate).
 * Pitfall: Ordering a routine CXR for a well-looking 3-year-old with mild focal crackles who is tolerating oral intake. Avoid unnecessary radiation; CXR is not routinely indicated for mild, uncomplicated outpatient pneumonia.
-* Trap: Assuming right lower quadrant abdominal pain is always appendicitis in a febrile child.
-* Pearl: Right lower lobe pneumonia can irritate the diaphragm and refer pain to the abdomen. Always check respiratory rate and auscultate the lung bases!
-* Viva Question: How do you medically manage an empyema with loculations in a Hong Kong public hospital?
-* Answer: Insertion of a chest drain combined with intrapleural fibrinolytics (Urokinase) to break down the loculations, alongside IV antibiotics (e.g., Ceftriaxone + Clindamycin).
+* Trap: Assuming right lower quadrant abdominal pain is always appendicitis in a febrile child. Pearl: Right lower lobe pneumonia can irritate the diaphragm and refer pain to the abdomen. Always check respiratory rate and auscultate the lung bases!
+* Viva Question: How do you medically manage an empyema with loculations in a Hong Kong public hospital? Answer: Insertion of a chest drain combined with intrapleural fibrinolytics (Urokinase) to break down the loculations, alongside IV antibiotics (e.g., Ceftriaxone + Clindamycin).
