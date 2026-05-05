@@ -46,7 +46,7 @@
 * Infants <6 months old
 * Low birthweight infants
 * ≥5 diarrhoeal stools/24h
-* >2 episodes vomiting/24h
+* \>2 episodes vomiting/24h
 * Unable to tolerate supplementary fluids
 * Malnourished or immunocompromised
 
