@@ -99,13 +99,21 @@
 * **Mycoplasma Serology:** (IgM/IgG) if suspected, though NPA PCR is faster
 
 ### Microbiological Swabs & Aspirates
-* **Nasopharyngeal Aspirate (NPA) / Swab Multiplex PCR:** * *Crucial in HK HA hospitals* for cohorting in wards
-* Rapid detection of RSV, Influenza A/B, Adenovirus, Parainfluenza, *Mycoplasma*
+* **Nasopharyngeal Aspirate (NPA) / Swab Multiplex PCR:**
+	* *Crucial in HK HA hospitals* for cohorting in wards
+	* Rapid detection of RSV, Influenza A/B, Adenovirus, Parainfluenza, *Mycoplasma*
 
 ### Imaging & Special Investigations
-* **Chest X-ray (CXR):** * *NOT* routine for mild, uncomplicated community-acquired outpatient cases
-* *Indicated if:* Admitted, severe distress, uncertain diagnosis, or suspecting complications (effusion)
-* *Typical findings:* Lobar consolidation (bacterial), bilateral perihilar infiltrates (viral/atypical)
+* **Chest X-ray (CXR):**
+	* *NOT* routine for mild, uncomplicated community-acquired outpatient cases
+	* *Indicated if:*
+		* Admitted
+		* Severe distress
+		* Uncertain diagnosis
+		* Suspecting complications (effusion)
+	* *Typical findings:*
+		* Lobar consolidation (bacterial)
+		* Bilateral perihilar infiltrates (viral/atypical)
 * **Pleural Fluid Analysis:** Tap if significant effusion to differentiate simple parapneumonic effusion vs empyema (膿胸)
 * **Chest Ultrasound:** Highly sensitive for detecting & quantifying pleural fluid/loculations
 
@@ -117,12 +125,12 @@
 * **Antipyretics:** Paracetamol / Ibuprofen for fever and pleuritic pain
 
 ### Pharmacological Management Protocols (HK HA Focus)
-| Severity / Type | First-Line Antibiotic Choice (HK Context) | Rationale |
-| :--- | :--- | :--- |
-| **Mild / Outpatient (Typical)** | PO **Amoxicillin** (high dose: 80-90 mg/kg/day) | Overcomes intermediate penicillin-resistant *Strep. pneumoniae* |
-| **Mild / Outpatient (Atypical)** | PO **Azithromycin** or **Clarithromycin** | Macrolides required as *Mycoplasma* lacks a cell wall |
+| Severity / Type                         | First-Line Antibiotic Choice (HK Context)            | Rationale                                                       |
+| :-------------------------------------- | :--------------------------------------------------- | :-------------------------------------------------------------- |
+| **Mild / Outpatient (Typical)**         | PO **Amoxicillin** (high dose: 80-90 mg/kg/day)      | Overcomes intermediate penicillin-resistant *Strep. pneumoniae* |
+| **Mild / Outpatient (Atypical)**        | PO **Azithromycin** or **Clarithromycin**            | Macrolides required as *Mycoplasma* lacks a cell wall           |
 | **Severe / Inpatient (Infant/Toddler)** | IV **Ampicillin** / Penicillin G (+/- IV Cefotaxime) | Broad typical coverage; escalate to 3rd Gen Ceph if unimmunised |
-| **Severe / Inpatient (School-Aged)** | IV **Ampicillin** + IV **Macrolide** | Dual therapy to cover *Pneumococcus* + *Mycoplasma* |
+| **Severe / Inpatient (School-Aged)**    | IV **Ampicillin** + IV **Macrolide**                 | Dual therapy to cover *Pneumococcus* + *Mycoplasma*             |
 
 ### Complicated Pneumonia (Empyema) Management
 * IV Antibiotics: Escalate to IV **Ceftriaxone** + **Clindamycin** (covers *Staph aureus* & anaerobes)
