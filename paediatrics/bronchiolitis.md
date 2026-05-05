@@ -69,7 +69,13 @@
 ### Blood Tests & Imaging
 * Routine bloods & CXR are **NOT** recommended for typical cases.
 * **Capillary Blood Gas (CBG)**: If suspecting respiratory failure (hypercapnia/acidosis).
-* **Chest X-ray (CXR)**: Only if atypical presentation, severe disease, or suspecting complications (e.g., pneumothorax). Typical findings: hyperinflation (flattened diaphragm, >6 anterior ribs visible), peribronchial cuffing, patchy atelectasis.
+* **Chest X-ray (CXR)**:
+	* Only if atypical presentation, severe disease, or suspecting complications (e.g., pneumothorax).
+	* Typical findings:
+		* Hyperinflation (flattened diaphragm, >6 anterior ribs visible)
+		* Peribronchial cuffing
+		* Patchy atelectasis
+![image|418](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/e922424c8ae0f901ddd434f07a96f86a.png)
 
 ## 7. Management (Acute, Chronic, HA Protocols)
 ### Hospital Admission Criteria
