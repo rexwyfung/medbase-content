@@ -35,6 +35,7 @@
 * Attaches to respiratory epithelium via P1 adhesin
 * Triggers indolent, primarily interstitial inflammation (間質性發炎) rather than dense alveolar exudate
 * Often triggers extrapulmonary immune-mediated phenomena (e.g., erythema multiforme, cold agglutinin haemolysis)
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/8a08602c40cd69fc8aa50cf0ed8edc5c.png)
 
 ## 3. Key Symptoms & Signs
 
