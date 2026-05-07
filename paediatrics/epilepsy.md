@@ -38,11 +38,12 @@
 * Originate in one hemisphere.
 * With or without awareness impairment.
 * Symptoms depend on lobe (e.g., motor jerking of one arm, sensory tingling, visual hallucinations, automatisms like lip-smacking/fumbling).
-
+	
 ### Infantile Spasms (嬰兒點頭痙攣 / West Syndrome)
 * Onset: 4-8 months.
 * Clusters of sudden flexion/extension of neck, trunk, limbs.
 * Usually occurs upon waking.
+![image|584](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/02bc43b56bbbfc592b498d4214e6183c.png)
 
 ### Clinical Signs & History Taking in Epilepsy
 * **History**: Eyewitness account or smartphone video is paramount.
