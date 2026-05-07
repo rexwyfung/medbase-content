@@ -61,6 +61,7 @@
 * **Echocardiogram (心臟超聲波)**: Mandatory to rule out structural heart disease (e.g., **Ebstein anomaly** associated with WPW).
 * **24-hour Holter Monitor**: For fleeting palpitations not captured in the AED.
 * **Implantable Loop Recorder (ILR)**: For highly symptomatic, infrequent syncope/palpitations escaping Holter detection.
+![image|508](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/e00ab187cd71e46b7cd33049de9559ac.png)
 
 ## 7. Management (Acute, Chronic, HA Protocols)
 ### Acute Unstable Management (Cardiogenic Shock)
