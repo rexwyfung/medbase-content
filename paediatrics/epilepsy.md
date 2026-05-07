@@ -5,7 +5,7 @@
 ### Clinical Definition of Epilepsy
 * **Epilepsy (腦癇症)**: Neurological disorder → enduring predisposition to unprovoked seizures.
 * **Diagnostic Criteria**:
-  * $\ge$ 2 unprovoked seizures occurring > 24 hrs apart OR
+  * ≥2 unprovoked seizures occurring > 24 hrs apart OR
   * 1 unprovoked seizure + high probability of further seizures.
 
 ### Local Epidemiology in Hong Kong
