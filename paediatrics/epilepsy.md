@@ -89,13 +89,21 @@
   * **Childhood Absence Epilepsy**: 3 Hz generalized spike-and-wave.
   * **West Syndrome**: Hypsarrhythmia (chaotic background, multifocal spikes/sharp waves).
 * *Note*: Normal interictal EEG does NOT rule out epilepsy.
+![image|682](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/9f229d9dc7159f35eb71a50c3c743079.png)
 
 ### Neuroimaging (MRI Brain) Indications for Seizures
 * Modality of choice for structural causes.
-* **Indications**: Focal seizures, onset < 2 yrs, abnormal neuro exam, refractory epilepsy, developmental regression.
+* **Indications**:
+	* Focal seizures
+	* Onset < 2 yrs
+	* Abnormal neuro exam
+	* Refractory epilepsy
+	* Developmental regression
 
 ### Special/Genetic Investigations for Seizures
-* **Genetics**: Chromosomal microarray, targeted epilepsy gene panels (for specific epileptic encephalopathies).
+* **Genetics**:
+	* Chromosomal microarray
+	* Targeted epilepsy gene panels (for specific epileptic encephalopathies)
 
 ## 7. Management (Acute, Chronic, HA Protocols)
 
@@ -108,12 +116,12 @@
 ### Chronic Management: Anti-Seizure Medications (ASMs)
 * Usually started after 2nd unprovoked seizure.
 
-| Seizure Type | 1st Line ASMs | Key Notes / HA Context |
-| :--- | :--- | :--- |
-| **Focal** | **Carbamazepine**, **Levetiracetam** | Carbamazepine → watch for HLA-B*1502 (Stevens-Johnson risk in Han Chinese). |
-| **Generalized** | **Sodium Valproate**, **Levetiracetam**, **Lamotrigine** | Valproate → **AVOID in females of childbearing age** (highly teratogenic, PCOS). |
-| **Absence** | **Ethosuximide** | Valproate is alternative if GTCS also present. |
-| **Infantile Spasms** | **Vigabatrin**, **ACTH / Oral Steroids** | Vigabatrin → irreversible visual field constriction risk. |
+| Seizure Type         | 1st Line ASMs                                            | Key Notes / HA Context                                                           |
+| :------------------- | :------------------------------------------------------- | :------------------------------------------------------------------------------- |
+| **Focal**            | **Carbamazepine**, **Levetiracetam**                     | Carbamazepine → watch for HLA-B*1502 (Stevens-Johnson risk in Han Chinese).      |
+| **Generalized**      | **Sodium Valproate**, **Levetiracetam**, **Lamotrigine** | Valproate → **AVOID in females of childbearing age** (highly teratogenic, PCOS). |
+| **Absence**          | **Ethosuximide**                                         | Valproate is alternative if GTCS also present.                                   |
+| **Infantile Spasms** | **Vigabatrin**, **ACTH / Oral Steroids**                 | Vigabatrin → irreversible visual field constriction risk.                        |
 
 ### Management of Refractory Epilepsy
 * **Ketogenic Diet**: High fat, low carb → alters brain metabolism to raise seizure threshold.
