@@ -70,7 +70,7 @@
 * Routine bloods & CXR are **NOT** recommended for typical cases.
 * **Capillary Blood Gas (CBG)**: If suspecting respiratory failure (hypercapnia/acidosis).
 * **Chest X-ray (CXR)**:
-	Error uploading file: net::ERR_ADDRESS_INVALID* Only if atypical presentation, severe disease, or suspecting complications (e.g., pneumothorax).
+	* Only if atypical presentation, severe disease, or suspecting complications (e.g., pneumothorax).
 	* Typical findings:
 		* Hyperinflation (flattened diaphragm, >6 anterior ribs visible)
 		* Peribronchial cuffing
