@@ -144,12 +144,13 @@
 ### Abusive Head Trauma (AHT) presenting as Seizures
 * Seizures resulting from occult head trauma (Shaken Baby Syndrome).
 * Look for retinal haemorrhages, subdural haematomas, disproportionate/changing caregiver history.
-![image|385](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/2ccc20c1242b04c0f5c4ad84ca34059d.png)
+![image|295](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/2ccc20c1242b04c0f5c4ad84ca34059d.png)
 
 ### Munchausen Syndrome by Proxy (FII) presenting as Seizures
 * Fabricated or Induced Illness (FII).
 * Caregiver reporting fake seizures (or inducing them via suffocation/poisoning) to obtain medication or medical attention.
 * Clue: Seizures only happen when caregiver is present, normal EEG/video telemetry.
+![image|442](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a12c30cc327d027b814fb0c1a0d81cca.png)
 
 ## 10. Complications & Prognosis
 
