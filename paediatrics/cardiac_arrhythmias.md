@@ -9,11 +9,13 @@
 ## 2. Pathophysiology & Genetics
 ### Pathophysiology of Supraventricular Tachycardia (SVT)
 * **Mechanism**: Almost always driven by an accessory re-entry pathway (e.g., Atrioventricular Re-entrant Tachycardia [AVRT] in **Wolff-Parkinson-White (WPW) syndrome (沃夫-帕金森-懷特症候群)**) or Atrioventricular Nodal Re-entrant Tachycardia (**AVNRT**).
+![image|637](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/25789e5854b8f6081d57df245e22a79a.png)
 ### Genetics of Long QT Syndrome (LQTS) (長QT綜合症)
 * **Channelopathies**: Inherited genetic defects in myocardial ion channels causing delayed ventricular repolarization.
 * **Romano-Ward Syndrome**: Autosomal dominant inheritance, purely cardiac phenotype.
 * **Jervell and Lange-Nielsen Syndrome**: Autosomal recessive inheritance, +ve sensorineural deafness.
 * **Pathophysiological Risk**: Prolonged QTc → **Torsades de Pointes (多形性心室性心動過速)** → Ventricular Fibrillation (VF) → Sudden Cardiac Death (SCD).
+![image|581](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a133786f286829464b17304fb7c2a147.png)
 
 ## 3. Key Symptoms & Signs
 ### Clinical Presentation in Infants
@@ -35,13 +37,13 @@
 ## 5. Differential Diagnosis
 ### SVT vs Sinus Tachycardia (竇性心搏過速)
 
-| Discriminatory Feature | SVT (室上性心搏過速) | Sinus Tachycardia (竇性心搏過速) |
-| :--- | :--- | :--- |
-| **History** | Abrupt onset and termination | Gradual onset (e.g., +ve fever, pain, hypovolemia, sepsis) |
-| **Infant Heart Rate** | > 220 bpm | < 220 bpm |
-| **Child Heart Rate** | > 180 bpm | < 180 bpm |
-| **Rate Variability** | Rigidly fixed rate | Fluctuates with activity/crying |
-| **ECG P-waves** | Absent or retrograde | Normal P-wave visible before every QRS |
+| Discriminatory Feature | SVT (室上性心搏過速)                | Sinus Tachycardia (竇性心搏過速)                                 |
+| :--------------------- | :--------------------------- | :--------------------------------------------------------- |
+| **History**            | Abrupt onset and termination | Gradual onset (e.g., +ve fever, pain, hypovolemia, sepsis) |
+| **Infant Heart Rate**  | > 220 bpm                    | < 220 bpm                                                  |
+| **Child Heart Rate**   | > 180 bpm                    | < 180 bpm                                                  |
+| **Rate Variability**   | Rigidly fixed rate           | Fluctuates with activity/crying                            |
+| **ECG P-waves**        | Absent or retrograde         | Normal P-wave visible before every QRS                     |
 
 ### Other Paediatric Tachycardias
 * **Ventricular Tachycardia (VT) (心室性心搏過速)**: Incredibly rare in children unless +ve underlying structural heart disease, post-cardiac surgery, or severe systemic derangement.
@@ -50,9 +52,11 @@
 ### Acute Bedside Investigations
 * **Definitive Investigation**: **12-lead ECG DURING the event**. 
 * **Classic SVT ECG Findings**: Narrow complex, rigidly regular, absent P waves, HR >220 (infants).
+![image|562](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/44f00df47fda8da87b7730f729708f85.png)
 ### Post-Termination Investigations
 * **Post-Cardioversion ECG**: Crucial for identifying underlying structural/electrical anomalies.
 * **Target Findings**: **Delta waves** and short PR interval (WPW syndrome), prolonged QTc (LQTS).
+![image|339](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/8e75799e57c94e21a68567f5ab956d7e.png)
 ### Imaging & Special Investigations
 * **Echocardiogram (心臟超聲波)**: Mandatory to rule out structural heart disease (e.g., **Ebstein anomaly** associated with WPW).
 * **24-hour Holter Monitor**: For fleeting palpitations not captured in the AED.
