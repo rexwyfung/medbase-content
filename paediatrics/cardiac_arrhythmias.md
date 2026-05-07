@@ -11,7 +11,7 @@
 * **Mechanism**: Almost always driven by an accessory re-entry pathway (e.g., Atrioventricular Re-entrant Tachycardia [AVRT] in **Wolff-Parkinson-White (WPW) syndrome (沃夫-帕金森-懷特症候群)**) or Atrioventricular Nodal Re-entrant Tachycardia (**AVNRT**).
 ![image|637](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/25789e5854b8f6081d57df245e22a79a.png)
 ### Genetics of Long QT Syndrome (LQTS) (長QT綜合症)
-* **Channelopathies**: Inherited genetic defects in myocardial ion channels causing delayed ventricular repolarization.
+* **Channelopathies**: Inherited genetic defects in myocardial ion channels causing delayed ventricular repolarization (KCNQ1, KCNH2, and SCN5A).
 * **Romano-Ward Syndrome**: Autosomal dominant inheritance, purely cardiac phenotype.
 * **Jervell and Lange-Nielsen Syndrome**: Autosomal recessive inheritance, +ve sensorineural deafness.
 * **Pathophysiological Risk**: Prolonged QTc → **Torsades de Pointes (多形性心室性心動過速)** → Ventricular Fibrillation (VF) → Sudden Cardiac Death (SCD).
