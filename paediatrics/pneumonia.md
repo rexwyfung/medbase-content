@@ -126,15 +126,14 @@
 * **Antipyretics:** Paracetamol / Ibuprofen for fever and pleuritic pain
 
 ### Pharmacological Management Protocols (HK HA Focus)
-| Severity / Type                         | First-Line Antibiotic Choice (HK Context)            | Rationale                                                       |
-| :-------------------------------------- | :--------------------------------------------------- | :-------------------------------------------------------------- |
-| **Mild / Outpatient (Typical)**         | PO **Amoxicillin** (high dose: 80-90 mg/kg/day)      | Overcomes intermediate penicillin-resistant *Strep. pneumoniae* |
-| **Mild / Outpatient (Atypical)**        | PO **Azithromycin** or **Clarithromycin**            | Macrolides required as *Mycoplasma* lacks a cell wall           |
-| **Severe / Inpatient (Infant/Toddler)** | IV **Ampicillin** / Penicillin G (+/- IV Cefotaxime) | Broad typical coverage; escalate to 3rd Gen Ceph if unimmunised |
-| **Severe / Inpatient (School-Aged)**    | IV **Ampicillin** + IV **Macrolide**                 | Dual therapy to cover *Pneumococcus* + *Mycoplasma*             |
+| Severity / Type                                                                   | First-Line Antibiotic Choice (HK Context)                                                                                                                                                                                     | Rationale                                                                                                                         |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **Mild / Outpatient (Typical)**                                                   | PO **Amoxicillin/clavulanate** (high dose: 80-90 mg amoxicillin/kg/day div BD) OR PO **Cefuroxime**.                                                                                                                          | To cover PCN-nonsusceptible _Strep. pneumoniae_.                                                                                  |
+| **Mild / Outpatient (Atypical)**                                                  | PO **Doxycycline**                                                                                                                                                                                                            | Macrolide-resistant mycoplasma pneumonia (MRMP) is rapidly emerging, and the majority of current strains are macrolide-resistant. |
+| IV **Cefuroxime**, IV **Cefotaxime**, or IV **Ceftriaxone** + PO **Doxycycline**. | IV **Cefuroxime**, IV **Cefotaxime**, or IV **Ceftriaxone** + PO **Doxycycline**.<br><br>*(Note: For neonates, use IV Penicillin + Gentamicin or Cefotaxime; use Ampicillin instead of Penicillin if Listeria is suspected.)* | Broad coverage for _S. pneumoniae_, _H. influenzae_, and _Moraxella catarrhalis_, with IV PO Doxycycline covering MRMP cases.     |
 
 ### Complicated Pneumonia (Empyema) Management
-* IV Antibiotics: Escalate to IV **Ceftriaxone** + **Clindamycin** (covers *Staph aureus* & anaerobes)
+* IV Antibiotics: Escalate to IV **Ceftriaxone** + **Vancomycin** (broad coverage including MRSA)
 * **Chest Drain (Pigtail Catheter):** Essential for pus drainage
 * **Intrapleural Fibrinolytics:** Intrapleural **Urokinase** (尿激酶) standard in HK HA to break down fibrinous loculations, highly effective at avoiding surgery
 * **VATS (Video-Assisted Thoracoscopic Surgery):** Indicated if Urokinase fails or extensive organized peel forms
