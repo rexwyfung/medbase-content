@@ -190,14 +190,9 @@ Requires **≥2** of the following 7 criteria:
 * **Phaeochromocytoma** (嗜鉻細胞瘤) → Hypertension
 
 ## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-* Trap: Assuming all café-au-lait spots indicate an immediate NF1 diagnosis.
-* Pearl: Small numbers of spots are common in healthy individuals; formal diagnosis strictly requires ≥6 spots of validated sizes alongside secondary criteria.
-* Viva Question: What specific bedside clinical assessments must you perform on a child with suspected NF1?
-* Answer: Measure blood pressure to exclude renal artery stenosis, examine the spine for scoliosis, and request a slit-lamp examination for Lisch nodules.
+* Trap: Assuming all café-au-lait spots indicate an immediate NF1 diagnosis. Pearl: Small numbers of spots are common in healthy individuals; formal diagnosis strictly requires ≥6 spots of validated sizes alongside secondary criteria.
+* Viva Question: What specific bedside clinical assessments must you perform on a child with suspected NF1? Answer: Measure blood pressure to exclude renal artery stenosis, examine the spine for scoliosis, and request a slit-lamp examination for Lisch nodules.
 * Pitfall: Ordering a routine screening MRI Brain for all asymptomatic newly diagnosed NF1 patients. This generates unnecessary anxiety regarding benign Unidentified Bright Objects (UBOs) and should only be ordered if focal neurological or visual symptoms arise.
-* Viva Question: How do you clinically differentiate Legius Syndrome from Neurofibromatosis Type 1?
-* Answer: Legius Syndrome presents with pigmentary changes but completely lacks neurofibromas, Lisch nodules, and central nervous system tumours.
-* Trap: Recommending immediate surgical biopsy for a suspected Optic Pathway Glioma in an NF1 patient.
-* Pearl: Optic Pathway Gliomas in NF1 are typically diagnosed via MRI alone; biopsy is contraindicated due to severe risks of irreversible visual damage.
-* Viva Question: An adolescent with NF1 reports rapid growth and severe rest pain in a pre-existing plexiform neurofibroma. What is the most feared oncological complication?
-* Answer: Malignant Peripheral Nerve Sheath Tumour.
+* Viva Question: How do you clinically differentiate Legius Syndrome from Neurofibromatosis Type 1? Answer: Legius Syndrome presents with pigmentary changes but completely lacks neurofibromas, Lisch nodules, and central nervous system tumours.
+* Trap: Recommending immediate surgical biopsy for a suspected Optic Pathway Glioma in an NF1 patient. Pearl: Optic Pathway Gliomas in NF1 are typically diagnosed via MRI alone; biopsy is contraindicated due to severe risks of irreversible visual damage.
+* Viva Question: An adolescent with NF1 reports rapid growth and severe rest pain in a pre-existing plexiform neurofibroma. What is the most feared oncological complication? Answer: Malignant Peripheral Nerve Sheath Tumour.
