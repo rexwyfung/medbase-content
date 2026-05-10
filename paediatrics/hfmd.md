@@ -40,6 +40,7 @@
 * Maculopapular rash → progresses to small, greyish, oval vesicles with erythematous halo
 * Distribution: Palms, soles, buttocks/groin (esp. in infants wearing nappies)
 * Lesions typically non-pruritic & painless (unlike chickenpox)
+![image|453](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3bd6ac8503f2c5fee903d25545f65779.png)
 
 ## 4. Discriminatory Features (How to distinguish from similar conditions)
 ### Distinguishing Herpangina (疱疹性咽峽炎)
