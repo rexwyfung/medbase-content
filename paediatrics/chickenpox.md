@@ -27,6 +27,7 @@
 - **Evolution of Lesions**: Macules → Papules → Vesicles (**"dewdrop on a rose petal"**) → Pustules → Crusted Scabs.
 - **"Crops" Phenomenon**: Pathognomonic sign is finding lesions in **all stages of development simultaneously** in the same skin area.
 - **Quantity**: Typically 50-500 lesions.
+![image|556](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/bb80c59b3a088ca771f7c9e7fdd0dcc8.png)
 
 ## 4. Discriminatory Features (How to distinguish from similar conditions)
 ### Differentiating from Hand, Foot, and Mouth Disease
