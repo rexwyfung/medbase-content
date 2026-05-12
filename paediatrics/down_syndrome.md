@@ -124,6 +124,7 @@
 - **Neurology**: Early-onset Alzheimer's disease (~40s, APP gene on chr 21), Epilepsy.
 - **Respiratory/ENT**: OSA (50-75%), recurrent otitis media.
 - **Orthopaedic**: Atlantoaxial instability, acquired hip dislocation.
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/2956af01d9a420d46f818dc0c1cf2bd6.png)
 ### Prognosis
 - Life expectancy dramatically improved (50-60+ years) due to proactive medical/surgical care.
 
