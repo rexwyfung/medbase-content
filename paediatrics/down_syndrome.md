@@ -61,6 +61,7 @@
 | **Musculoskeletal** | Single palmar crease, sandal gap, hypotonia         | Clenched hands, overlapping fingers, rocker-bottom feet | Polydactyly                          |
 | **Other**           | AVSD, Duodenal atresia                              | Short sternum, cardiac/renal malformations              | Holoprosencephaly, scalp defects     |
 | **Prognosis**       | 50-60+ years                                        | Usually fatal <1 year                                   | Usually fatal <1 year                |
+
 ![image|590](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a0d5f24336d1559cd54695a4cb33b194.png)
 
 ## 6. Differential Diagnosis
