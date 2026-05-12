@@ -14,10 +14,12 @@
 - Failure of chr 21 separation during meiosis (mostly maternal meiosis I).
 - Karyotype: 47, XX,+21 or 47, XY,+21.
 - Recurrence risk: ~1% (or age-related risk if >35y).
+![image|469](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/dabe546e9b717f7d586489154e2cbb99.png)
 ### Translocation (4-5%)
 - Unbalanced Robertsonian translocation, usually involving chr 14 & 21 [e.g., t(14;21)], occasionally t(15;21) or t(22;21).
 - Karyotype: 46 chromosomes but 3 copies of chr 21 long arm.
 - **CRITICAL**: If parent is balanced carrier, recurrence risk is 10-15% (maternal carrier), ~2.5% (paternal carrier), 100% (21;21 carrier).
+![image|465](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a1c4ab22b8de12f478dcc8452ff3631a.png)
 ### Mosaicism (1%)
 - Post-zygotic mitotic error.
 - Mix of 46 & 47 chr cell lines.
@@ -39,24 +41,27 @@
 - Small low-set ears.
 - Small mouth with protruding tongue (**Macroglossia**).
 - Short neck, 3rd fontanelle.
+![image|447](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/dae49cdae1fce9bf46755dcd5574a109.png)
 ### Musculoskeletal Signs
 - Severe generalized **hypotonia**.
 - Single transverse palmar crease (Simian crease).
 - Clinodactyly (incurved, short 5th finger).
 - Wide "sandal gap" between 1st & 2nd toes.
 - Joint hypermobility.
+![image|460](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/5e3bfcb8505b689ac901db8ba6db097a.png)
 ### Neurological Signs
 - Global developmental delay.
 - Mild-moderate intellectual disability (IQ 35-70).
 
 ## 5. Discriminatory Features (How to distinguish from similar conditions)
 ### Differential Table of Autosomal Trisomies
-| Feature | Down Syndrome (Trisomy 21) (唐氏綜合症) | Edwards Syndrome (Trisomy 18) (愛德華氏綜合症) | Patau Syndrome (Trisomy 13) (巴陶氏綜合症) |
-| :--- | :--- | :--- | :--- |
-| **Craniofacial** | Flat profile, upslanting fissures, Brushfield spots | Prominent occiput, micrognathia | Cleft lip/palate, microphthalmia |
-| **Musculoskeletal** | Single palmar crease, sandal gap, hypotonia | Clenched hands, overlapping fingers, rocker-bottom feet | Polydactyly |
-| **Other** | AVSD, Duodenal atresia | Short sternum, cardiac/renal malformations | Holoprosencephaly, scalp defects |
-| **Prognosis** | 50-60+ years | Usually fatal <1 year | Usually fatal <1 year |
+| Feature             | Down Syndrome (Trisomy 21) (唐氏綜合症)                  | Edwards Syndrome (Trisomy 18) (愛德華氏綜合症)                 | Patau Syndrome (Trisomy 13) (巴陶氏綜合症) |
+| :------------------ | :-------------------------------------------------- | :------------------------------------------------------ | :----------------------------------- |
+| **Craniofacial**    | Flat profile, upslanting fissures, Brushfield spots | Prominent occiput, micrognathia                         | Cleft lip/palate, microphthalmia     |
+| **Musculoskeletal** | Single palmar crease, sandal gap, hypotonia         | Clenched hands, overlapping fingers, rocker-bottom feet | Polydactyly                          |
+| **Other**           | AVSD, Duodenal atresia                              | Short sternum, cardiac/renal malformations              | Holoprosencephaly, scalp defects     |
+| **Prognosis**       | 50-60+ years                                        | Usually fatal <1 year                                   | Usually fatal <1 year                |
+![image|590](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a0d5f24336d1559cd54695a4cb33b194.png)
 
 ## 6. Differential Diagnosis
 ### Congenital Hypothyroidism (先天性甲狀腺機能低下)
