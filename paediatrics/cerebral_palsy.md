@@ -35,6 +35,7 @@
 * **Tone Abnormalities:** Initial hypotonia (floppy) → later hypertonia/spasticity (stiff).
 * **Abnormal Posture:** Extensor posturing (opisthotonus).
 * **Hand Preference (慣用手):** Handedness <18 months is a major red flag for **Hemiplegia (偏癱)**.
+![image|456](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/5df73f41b56fd80981c92d1598409868.png)
 
 ### Delayed Motor Milestones (運動發展遲緩)
 * Not sitting unsupported by 9 months.
