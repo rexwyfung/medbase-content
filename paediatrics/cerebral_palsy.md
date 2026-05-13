@@ -27,6 +27,7 @@
 ### Prematurity & White Matter Injury (早產與白質損傷)
 * Preterm brains are highly susceptible to **Periventricular Leukomalacia (PVL) (腦室周圍白質軟化)**.
 * Ischaemic damage/venous infarction affects descending pyramidal tracts near lateral ventricles → classically causes **Spastic Diplegia (痙攣性雙癱)**.
+![image|303](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/062718f3b6b01434b5a79458b7e3c872.png)
 
 ## 3. Key Symptoms & Signs
 
@@ -96,6 +97,8 @@
 | **Dyskinetic (運動障礙型)**| 6% | Basal ganglia / Extra-pyramidal damage | Involuntary movements: Chorea (jerky), Athetosis (writhing), Dystonia (twisting). Fluctuating tone. Often 2° to Kernicterus or term HIE. |
 | **Ataxic (共濟失調型)** | 4% | Cerebellar damage | Early hypotonia, poor balance, intention tremor, wide-based ataxic gait. Often genetic. |
 | **Mixed (混合型)** | 10% | Multiple areas | Usually Spastic + Dyskinetic. |
+
+![image|465](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/dfaad4fbfdb81b356c27f53afe7b5e02.png)
 
 ### Gross Motor Function Classification System (GMFCS) (粗大運動功能分級系統)
 | Level | Description (Aged 6-12 yrs) |
