@@ -15,16 +15,26 @@
 * Production: Choroid plexus (脈絡叢) in lateral ventricles
 * Flow pathway: Lateral ventricles → Foramen of Monro → 3rd ventricle → Aqueduct of Sylvius (大腦導水管) → 4th ventricle → Foramina of Luschka & Magendie → Subarachnoid space (蛛網膜下腔)
 * Absorption: Arachnoid granulations (蛛網膜顆粒) → venous sinuses
+![image|414](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/f35a14dcba24010fee95fd91a5119e37.png)
 
 ### Non-Communicating (Obstructive) Hydrocephalus Mechanisms
 * Most common type in pediatrics
 * Physical blockage within ventricular system preventing CSF reaching subarachnoid space
-* Congenital Causes: Aqueductal stenosis (導水管狹窄) (most common), Chiari malformations, Dandy-Walker malformation, Vein of Galen malformation
-* Acquired Causes: Brain tumours (腦腫瘤) (e.g., medulloblastoma blocking 4th ventricle)
+* Congenital Causes:
+	* Aqueductal stenosis (導水管狹窄) (most common)
+	* Chiari malformations
+	* Dandy-Walker malformation
+	* Vein of Galen malformation
+* Acquired Causes:
+	* Brain tumours (腦腫瘤) (e.g., medulloblastoma blocking 4th ventricle)
+![image|471](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/c32d0589acdd67498c6b675c76a57c45.png)
 
 ### Communicating Hydrocephalus Mechanisms
 * CSF flows freely through ventricles but fails to absorb adequately at arachnoid granulations
-* Causes: Post-intraventricular haemorrhage (IVH) (腦室內出血) in premature neonates, post-meningitis (腦膜炎) scarring, subarachnoid haemorrhage
+* Causes:
+	* Post-intraventricular haemorrhage (IVH) (腦室內出血) in premature neonates
+	* Post-meningitis (腦膜炎) scarring
+	* Subarachnoid haemorrhage
 
 ### CSF Overproduction Mechanisms
 * Extremely rare pathophysiological cause
@@ -42,18 +52,23 @@
 * "Setting Sun" Sign (落日徵): Downward deviation of eyes (Parinaud syndrome from midbrain tectum pressure), revealing sclera above iris
 * Macewen sign (cracked-pot sound on skull percussion)
 * Poor feeding, persistent irritability, vomiting, delayed motor milestones
+![image|467](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ee28c126ee033011da86f2623d8b64a6.png)
 
 ### Older Child Clinical Presentation (Fused Sutures)
 * Skull cannot expand → ICP rises rapidly
-* Classic triad of ↑ ICP: Headache (頭痛) (worse in morning/lying down), vomiting (嘔吐) (esp. morning), papilloedema (視乳頭水腫)
+* Classic triad of ↑ ICP:
+	* Headache (頭痛) (worse in morning/lying down)
+	* Vomiting (嘔吐) (esp. morning)
+	* Papilloedema (視乳頭水腫)
 * Cranial nerve VI (Abducens/外展神經) palsy → diplopia/strabismus (squint) due to stretching of long intracranial course
 * Lethargy, altered conscious level (↓ GCS)
+![image|468](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/b93cd4592849b1d7b06861a4065c22d3.png)
 
 ### Late Ominous Signs of Brain Herniation
 * Cushing's Triad (庫興氏三聯徵): 
-* Hypertension (高血壓)
-* Bradycardia (心跳過緩)
-* Irregular respirations (呼吸不規則)
+	* Hypertension (高血壓)
+	* Bradycardia (心跳過緩)
+	* Irregular respirations (呼吸不規則)
 
 ## 4. Discriminatory Features (How to distinguish from similar conditions)
 ### Distinguishing Hydrocephalus from Benign Familial Macrocrania
@@ -70,13 +85,13 @@
 
 ## 5. Differential Diagnosis
 ### Differential Diagnosis of Macrocrania / ↑ ICP
-| Diagnosis | Pathophysiology | Key Discriminatory Features |
-| :--- | :--- | :--- |
-| **Hydrocephalus** | CSF accumulation → ↑ ICP | Bulging fontanelle, crossing OFC centiles, Setting Sun sign |
-| **Benign Familial Macrocrania** | Genetic trait | Parallel OFC growth, soft fontanelle, +ve family history |
-| **Brain Tumour** | Space-occupying lesion | Focal neurological signs, ataxia, ↑ ICP without massive OFC ↑ in older kids |
-| **Subdural Haematoma (NAI)** | Venous tearing | Retinal haemorrhages, bruises, inconsistent trauma history |
-| **Idiopathic Intracranial Hypertension** | Unknown ↑ ICP | Obese female adolescents, normal MRI, ↑ CSF opening pressure |
+| Diagnosis                                | Pathophysiology          | Key Discriminatory Features                                                 |
+| :--------------------------------------- | :----------------------- | :-------------------------------------------------------------------------- |
+| **Hydrocephalus**                        | CSF accumulation → ↑ ICP | Bulging fontanelle, crossing OFC centiles, Setting Sun sign                 |
+| **Benign Familial Macrocrania**          | Genetic trait            | Parallel OFC growth, soft fontanelle, +ve family history                    |
+| **Brain Tumour**                         | Space-occupying lesion   | Focal neurological signs, ataxia, ↑ ICP without massive OFC ↑ in older kids |
+| **Subdural Haematoma (NAI)**             | Venous tearing           | Retinal haemorrhages, bruises, inconsistent trauma history                  |
+| **Idiopathic Intracranial Hypertension** | Unknown ↑ ICP            | Obese female adolescents, normal MRI, ↑ CSF opening pressure                |
 
 ## 6. Tiered Investigations
 ### Bedside Investigations
@@ -116,11 +131,13 @@
 * Indicated strictly for obstructive hydrocephalus (e.g., aqueductal stenosis)
 * Fenestration in floor of 3rd ventricle → CSF bypasses block to basal cisterns
 * Avoids permanent foreign body (shunt) implantation
+![image|373](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/c37801bbfed751a14275e9c6ffc50332.png)
 
 ### Emergency Surgical Decompression
 * External Ventricular Drain (EVD) (腦室外引流)
 * Temporary catheter draining CSF to external bag
 * Indicated for acute catastrophic ↑ ICP or active CNS infection precluding permanent shunt
+![image|316](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/239d21b727b2ed4e2f51bfb58cae1975.png)
 
 ## 8. MDT & Psychosocial Care
 ### Multidisciplinary Team (MDT) Roles
@@ -153,17 +170,14 @@
 ### Shunt Overdrainage Complications
 * Slit-ventricle syndrome (collapse of ventricles blocking proximal catheter)
 * Subdural hygromas / haematomas due to bridging vein tearing from collapsed brain
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/03a1ed3911b5e6f7958787f8273f6e7c.png)
 
 ### Prognosis
 * Generally good if promptly treated
 * Heavily dependent on underlying etiology (benign stenosis vs. malignant tumour) and avoidance of recurrent shunt infections
 
 ## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
-* Viva Question: An 8-month-old infant with a VP shunt presents to the AED with a 2-day history of vomiting and irritability. The anterior fontanelle is tense. What is the most likely diagnosis and the immediate investigation?
-* Answer: Shunt malfunction/blockage. The immediate investigation is a CT brain to check for ventricular dilation, and shunt series X-rays to check for physical disconnection.
-* Viva Question: What is the 'Setting Sun' sign, and what does it indicate?
-* Answer: Downward deviation of the eyes revealing sclera above the iris. It indicates severe raised intracranial pressure, often due to hydrocephalus, compressing the midbrain tectum.
-* Trap: Assuming a rapidly enlarging head is always hydrocephalus.
-* Pearl: Always consider Abusive Head Trauma (Shaken Baby Syndrome) causing bilateral subdural haematomas; actively look for retinal haemorrhages and inconsistent histories.
-* Pitfall: Performing a lumbar puncture on a child with signs of obstructive hydrocephalus (raised ICP).
-* This is absolutely contraindicated as it can precipitate fatal coning (brain herniation).
+* Viva Question: An 8-month-old infant with a VP shunt presents to the AED with a 2-day history of vomiting and irritability. The anterior fontanelle is tense. What is the most likely diagnosis and the immediate investigation? Answer: Shunt malfunction/blockage. The immediate investigation is a CT brain to check for ventricular dilation, and shunt series X-rays to check for physical disconnection.
+* Viva Question: What is the 'Setting Sun' sign, and what does it indicate? Answer: Downward deviation of the eyes revealing sclera above the iris. It indicates severe raised intracranial pressure, often due to hydrocephalus, compressing the midbrain tectum.
+* Trap: Assuming a rapidly enlarging head is always hydrocephalus. Pearl: Always consider Abusive Head Trauma (Shaken Baby Syndrome) causing bilateral subdural haematomas; actively look for retinal haemorrhages and inconsistent histories.
+* Pitfall: Performing a lumbar puncture on a child with signs of obstructive hydrocephalus (raised ICP). This is absolutely contraindicated as it can precipitate fatal coning (brain herniation).
