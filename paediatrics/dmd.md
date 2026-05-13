@@ -20,6 +20,7 @@ Most common & severe childhood **muscular dystrophy (肌肉營養不良症)**. X
 * **Dystrophin Defect**: Lack of **Dystrophin (抗肌萎縮蛋白)**, a structural protein anchoring cytoskeleton to extracellular matrix.
 * **Membrane Damage**: Muscle cell membrane tears during contraction → calcium influx → muscle fiber necrosis.
 * **Pseudohypertrophy (假性肥大)**: Dead muscle replaced by fat & fibrotic tissue.
+![image|482](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/b6d72c0b6e9fdf2d876b92b0d3155eca.png)
 
 ## 3. Clinical Presentation
 
@@ -36,15 +37,16 @@ Most common & severe childhood **muscular dystrophy (肌肉營養不良症)**. X
 * **Waddling Gait (搖擺步態)**: Due to gluteus medius weakness (Trendelenburg gait).
 * **Calf Pseudohypertrophy (小腿假性肥大)**: Large, firm calves (fat/scar tissue, not muscle).
 * **Toe Walking (踮腳尖走路)**: Early Achilles tendon contractures.
+![image|489](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ed6c223c375e11b74ae94d126ee73358.png)
 
 ## 5. Discriminatory Features (How to distinguish from similar conditions)
 
-| Feature | Duchenne Muscular Dystrophy (DMD) | Becker Muscular Dystrophy (BMD) | Spinal Muscular Atrophy (SMA) |
-| :--- | :--- | :--- | :--- |
-| **Protein Defect** | Absent dystrophin | Truncated/reduced dystrophin | SMN protein defect |
-| **Onset** | Early childhood (~2-5 yrs) | Late childhood/adolescence | Infancy/early childhood |
-| **Progression** | Rapid, wheelchair by 10-14 yrs | Slower, ambulation into adulthood | Variable, anterior horn cell disease |
-| **Key Signs** | Gowers', pseudohypertrophy | Milder weakness | Profound hypotonia, fasciculations, absent reflexes |
+| Feature            | Duchenne Muscular Dystrophy (DMD) | Becker Muscular Dystrophy (BMD)   | Spinal Muscular Atrophy (SMA)                       |
+| :----------------- | :-------------------------------- | :-------------------------------- | :-------------------------------------------------- |
+| **Protein Defect** | Absent dystrophin                 | Truncated/reduced dystrophin      | SMN protein defect                                  |
+| **Onset**          | Early childhood (~2-5 yrs)        | Late childhood/adolescence        | Infancy/early childhood                             |
+| **Progression**    | Rapid, wheelchair by 10-14 yrs    | Slower, ambulation into adulthood | Variable, anterior horn cell disease                |
+| **Key Signs**      | Gowers', pseudohypertrophy        | Milder weakness                   | Profound hypotonia, fasciculations, absent reflexes |
 
 ## 6. Differential Diagnosis
 
@@ -72,6 +74,7 @@ Most common & severe childhood **muscular dystrophy (肌肉營養不良症)**. X
 ### Physical & Respiratory Management of Duchenne Muscular Dystrophy
 * **Physiotherapy & Orthotics**: Daily stretching to prevent contractures (Achilles). Ankle-foot orthoses (AFOs) for night. Surgical Achilles lengthening.
 * **Respiratory Care**: Sleep studies for non-ambulant boys. **Non-Invasive Ventilation (NIV/BiPAP)** for sleep-disordered breathing/hypoventilation. Cough assist devices. Eventual tracheostomy/full-time ventilation.
+![image|238](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/53ceb1c3154add0d3a8ac7a49025dc75.png)
 
 ### Cardiac Management of Duchenne Muscular Dystrophy
 * **Cardiomyopathy Prevention**: Dilated cardiomyopathy ubiquitous. Prophylactic ACE inhibitors started early to delay heart failure.
@@ -85,12 +88,7 @@ Most common & severe childhood **muscular dystrophy (肌肉營養不良症)**. X
 * Devastating diagnosis. Need support for coping with progressive loss of function & shortened lifespan (e.g., HK Neuromuscular Disease Association).
 * **Genetic Counseling (遺傳諮詢)**: Crucial for mother (carrier status) & future pregnancies.
 
-## 10. Safeguarding & NAI Red Flags
-
-### Safeguarding in Duchenne Muscular Dystrophy
-* N/A directly, but advocate for disability rights & ensure medical needs are met.
-
-## 11. Complications & Prognosis
+## 10. Complications & Prognosis
 
 ### Major Complications of Duchenne Muscular Dystrophy
 * **Musculoskeletal**: Severe scoliosis (脊柱側彎) (needs spinal fusion once wheelchair-bound), joint contractures.
@@ -102,7 +100,7 @@ Most common & severe childhood **muscular dystrophy (肌肉營養不良症)**. X
 * Loss of independent ambulation by 10-14 years.
 * Death typically in late 20s from respiratory failure or intractable heart failure.
 
-## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
+## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
 
 * Viva Question: Describe Gowers' sign and explain its underlying pathophysiology? Answer: Child rolls prone and uses hands to 'climb up their own legs' to stand. Caused by severe proximal muscle weakness (gluteus maximus and quadriceps).
 * Viva Question: A 4-year-old boy presents with language delay, frequent falls, and large calves. What is the best initial blood test, and what result do you expect? Answer: Creatine Kinase (CK). It will be massively elevated (>10,000 U/L) due to ongoing muscle necrosis.
