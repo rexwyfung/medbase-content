@@ -31,6 +31,7 @@
 * **Toddler/Preschool**: Axillary/inguinal freckling appears
 * **Early Childhood**: **Optic pathway gliomas** (視神經膠質瘤) become symptomatic
 * **Adolescence/Adulthood**: Cutaneous **neurofibromas** (神經纖維瘤) multiply rapidly
+![image|502](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/55253d33711400b93a9d1fb482b97e0d.png)
 
 ### Systemic Presentation
 * Presenting complaint often cosmetic (skin lesions)
@@ -42,8 +43,8 @@
 Requires **≥2** of the following 7 criteria:
 * **Café-au-lait macules** (咖啡牛奶斑): 
   * ≥6 spots
-  * >5mm in prepubertal
-  * >15mm in postpubertal
+  * \>5mm in prepubertal
+  * \>15mm in postpubertal
 * **Neurofibromas** (神經纖維瘤): 
   * ≥2 of any type
   * OR 1 **plexiform neurofibroma** (叢狀神經纖維瘤) (palpates like a "bag of worms")
@@ -59,14 +60,17 @@ Requires **≥2** of the following 7 criteria:
   * Tibial pseudoarthrosis (脛骨假關節) (anterolateral bowing)
 * **Family History**: 
   * First-degree relative with diagnosed NF1
+![image|530](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/f0ae31dfd180ac6c3c5cee492dc1e85d.png)
 
 ## 5. Discriminatory Features (How to distinguish from similar conditions)
 ### Table of Discriminatory Features
-| Condition | Differentiating Clinical Features |
-| :--- | :--- |
-| **Legius Syndrome** (雷吉斯症候群) | +ve Café-au-lait spots<br>+ve Freckling<br>**NO** neurofibromas<br>**NO** Lisch nodules<br>**NO** CNS tumours<br>SPRED1 gene mutation |
-| **McCune-Albright Syndrome** (麥庫恩-奧爾布賴特症候群) | Large irregular Café-au-lait spots ("coast of Maine")<br>Polyostotic fibrous dysplasia<br>Precocious puberty |
-| **Tuberous Sclerosis** (結節性硬化症) | Ash-leaf macules<br>Shagreen patches<br>Facial angiofibromas<br>Epilepsy |
+| Condition                                   | Differentiating Clinical Features                                                                                                     |
+| :------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------ |
+| **Legius Syndrome** (雷吉斯症候群)                | +ve Café-au-lait spots<br>+ve Freckling<br>**NO** neurofibromas<br>**NO** Lisch nodules<br>**NO** CNS tumours<br>SPRED1 gene mutation |
+| **McCune-Albright Syndrome** (麥庫恩-奧爾布賴特症候群) | Large irregular Café-au-lait spots ("coast of Maine")<br>Polyostotic fibrous dysplasia<br>Precocious puberty                          |
+| **Tuberous Sclerosis** (結節性硬化症)             | Ash-leaf macules<br>Shagreen patches<br>Facial angiofibromas<br>Epilepsy                                                              |
+
+![image|517](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ad7bfa92a3b0bc9e6f1e11650b6eb8ee.png)
 
 ## 6. Differential Diagnosis
 ### Most Likely Diagnoses
