@@ -19,13 +19,15 @@
 * Growth in enclosed cranial vault → **↑ Intracranial Pressure (ICP) (顱內壓增高)** early in disease course
 
 ### Common Paediatric Brain Tumour Types
-| Tumour Type (English) | Tumour Type (Chinese) | Location | Characteristics & Prognosis |
-| :--- | :--- | :--- | :--- |
-| **Pilocytic Astrocytoma** | 毛狀星形細胞瘤 | Cerebellum | WHO Grade I. Most common overall. Excellent prognosis with complete resection. |
-| **Medulloblastoma** | 髓母細胞瘤 | Cerebellar vermis | WHO Grade IV. Most common malignant tumour. Highly cellular, seeds via CSF (**"Drop metastases"**). Requires radiotherapy. |
-| **Ependymoma** | 室管膜瘤 | 4th Ventricle floor | Arises from ependymal lining → obstructive hydrocephalus. |
-| **Craniopharyngioma** | 顱咽管瘤 | Suprasellar / Rathke's Pouch | Benign but locally invasive. Causes visual field defects & endocrine deficits. |
-| **DIPG (Diffuse Intrinsic Pontine Glioma)** | 瀰漫性內因性腦橋膠質瘤 | Brainstem (Pons) | Highly aggressive. Cranial nerve palsies. Universally fatal (inoperable). |
+| Tumour Type (English)                       | Tumour Type (Chinese) | Location                     | Characteristics & Prognosis                                                                                                |
+| :------------------------------------------ | :-------------------- | :--------------------------- | :------------------------------------------------------------------------------------------------------------------------- |
+| **Pilocytic Astrocytoma**                   | 毛狀星形細胞瘤               | Cerebellum                   | WHO Grade I. Most common overall. Excellent prognosis with complete resection.                                             |
+| **Medulloblastoma**                         | 髓母細胞瘤                 | Cerebellar vermis            | WHO Grade IV. Most common malignant tumour. Highly cellular, seeds via CSF (**"Drop metastases"**). Requires radiotherapy. |
+| **Ependymoma**                              | 室管膜瘤                  | 4th Ventricle floor          | Arises from ependymal lining → obstructive hydrocephalus.                                                                  |
+| **Craniopharyngioma**                       | 顱咽管瘤                  | Suprasellar / Rathke's Pouch | Benign but locally invasive. Causes visual field defects & endocrine deficits.                                             |
+| **DIPG (Diffuse Intrinsic Pontine Glioma)** | 瀰漫性內因性腦橋膠質瘤           | Brainstem (Pons)             | Highly aggressive. Cranial nerve palsies. Universally fatal (inoperable).                                                  |
+
+![image|507](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/d434bbe01b367fe56e36673f1b26ee5a.png)
 
 ### Associated Neurocutaneous Syndromes
 * **Neurofibromatosis Type 1 (NF1):** → **Optic Pathway Glioma (視神經膠質瘤)**
