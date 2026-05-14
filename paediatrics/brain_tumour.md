@@ -156,10 +156,7 @@
 * **Secondary Malignancies:** Radiation-induced meningiomas or sarcomas later in life
 
 ## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
-* Pitfall: Reassuring a parent of a child with repeated morning vomiting without nausea. Always suspect a CNS space-occupying lesion; do a thorough neurological and fundoscopic exam.
-* Trap: Performing an LP to look for meningitis in a child with a 2-week history of morning headaches, vomiting, and ataxia.
+* Pitfall: Reassuring a parent of a child with repeated morning vomiting without nausea. Always suspect a CNS space-occupying lesion; do a thorough neurological and fundoscopic exam. Trap: Performing an LP to look for meningitis in a child with a 2-week history of morning headaches, vomiting, and ataxia.
 * Pearl: ALWAYS do a CT/MRI brain before an LP if there are signs of raised ICP or focal neurological deficits to avoid fatal coning.
-* Viva Question: Why do we try to avoid cranial radiotherapy in a 2-year-old with a medulloblastoma?
-* Answer: The rapidly developing infant brain is highly sensitive to radiation, which causes severe, irreversible cognitive impairment and neuroendocrine deficits. We use multi-agent chemotherapy to delay radiation until the child is >3 years old.
-* Viva Question: What is the classic visual field defect caused by a craniopharyngioma and why?
-* Answer: Bitemporal hemianopia. It compresses the optic chiasm (specifically the decussating nasal retinal fibres) from above.
+* Viva Question: Why do we try to avoid cranial radiotherapy in a 2-year-old with a medulloblastoma? Answer: The rapidly developing infant brain is highly sensitive to radiation, which causes severe, irreversible cognitive impairment and neuroendocrine deficits. We use multi-agent chemotherapy to delay radiation until the child is >3 years old.
+* Viva Question: What is the classic visual field defect caused by a craniopharyngioma and why? Answer: Bitemporal hemianopia. It compresses the optic chiasm (specifically the decussating nasal retinal fibres) from above.
