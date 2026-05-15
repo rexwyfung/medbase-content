@@ -23,18 +23,24 @@
 
 ## 4. Key Symptoms & Signs
 ### Classic Triad (Vogt's Triad)
-- **Vogt's Triad**: Epilepsy, Intellectual Disability, Adenoma Sebaceum (facial angiofibromas). 
+- **Vogt's Triad**:
+	- Epilepsy
+	- Intellectual Disability
+	- Adenoma Sebaceum (facial angiofibromas)
 - Note: Only present in ~30% of patients.
 ### Dermatological Signs
 - **Ash-leaf spots**: Hypomelanotic macules (often the earliest sign, visible under Wood's lamp).
 - **Adenoma sebaceum** (Facial angiofibromas): Red papules over the malar region (appear in childhood).
 - **Shagreen patch**: Leathery, thickened skin patch, usually on the lower back.
 - **Ungual fibromas**: Tumours around/under the nails (appear post-puberty).
+![image|527](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/fe76a717b2c6eb3bbda0c584bf297a71.png)
+
 ### Neurological Signs
 - **Seizures**: Infantile spasms (West syndrome), focal seizures.
 - **Cognitive**: Intellectual disability, autism spectrum disorder, ADHD.
 ### Ophthalmic Signs
 - **Retinal Hamartomas**: Often asymptomatic but visible on fundoscopy.
+![image|449](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ac9e1362100f259e7b3c22f3cbdfcefb.png)
 
 ## 5. Discriminatory Features (How to distinguish from similar conditions)
 ### Differentiating from Neurofibromatosis Type 1 (NF1)
@@ -92,11 +98,8 @@
 - **Neurological Complications**: Hydrocephalus secondary to SEGA.
 
 ## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-* Trap: Forgetting the specific treatment for infantile spasms in TSC.
-* Pearl: Always say Vigabatrin for TSC-associated infantile spasms, and immediately mention the risk of visual field defects.
+* Trap: Forgetting the specific treatment for infantile spasms in TSC. Pearl: Always say Vigabatrin for TSC-associated infantile spasms, and immediately mention the risk of visual field defects.
 * Pitfall: Missing subtle skin signs in fair-skinned infants. Always use a Wood's lamp to look for hypopigmented ash-leaf macules.
-* Viva Question: What is the classic triad of Tuberous Sclerosis?
-* Answer: Vogt's triad comprises Epilepsy, Intellectual Disability, and Adenoma Sebaceum (facial angiofibromas).
-* Viva Question: What is the mechanism of action of Everolimus in TSC?
-* Answer: It is an mTOR inhibitor that suppresses the overactive mTOR pathway caused by TSC1/TSC2 mutations, shrinking hamartomas like SEGAs and renal AMLs.
-* Pearl: If you see facial angiofibromas, explicitly state you want to examine the lower back for a Shagreen patch and the nails for ungual fibromas.
+* Viva Question: What is the classic triad of Tuberous Sclerosis? Answer: Vogt's triad comprises Epilepsy, Intellectual Disability, and Adenoma Sebaceum (facial angiofibromas).
+* Viva Question: What is the mechanism of action of Everolimus in TSC? Answer: It is an mTOR inhibitor that suppresses the overactive mTOR pathway caused by TSC1/TSC2 mutations, shrinking hamartomas like SEGAs and renal AMLs.
+* Viva Question: What should you examine if you see facial angiofibromas? Answer: If you see facial angiofibromas, explicitly state you want to examine the lower back for a Shagreen patch and the nails for ungual fibromas.
