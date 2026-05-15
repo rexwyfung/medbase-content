@@ -76,7 +76,7 @@
 - **Infantile Spasms**: **Vigabatrin** is 1st line for infantile spasms in TSC. 
 - **Ophthalmology review**: Crucial side effect of Vigabatrin is irreversible visual field constriction (requires regular ophthalmology monitoring).
 - **Refractory Epilepsy**: Other anti-seizure medications (e.g., **Everolimus**, Cannabidiol) or epilepsy surgery for refractory cases.
-### Disease-Modifying Therapy (mTOR Inhibitors)
+### Disease-Modifying Therapy
 - **mTOR Inhibitors** (**Everolimus**/**Sirolimus**): Disease-modifying therapy! Used to shrink SEGAs (avoiding brain surgery) and renal AMLs. Available in HK HA system for specific indications.
 - **Topical mTOR inhibitors**: For facial angiofibromas.
 
