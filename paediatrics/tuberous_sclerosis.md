@@ -8,7 +8,7 @@
 - Managed in tertiary paediatric neurology clinics (e.g., QMH, HKCH, PWH) in Hong Kong.
 
 ## 2. Pathophysiology & Genetics
-### Autosomal Dominant Inheritance
+### Genetics
 - **Genetics**: Autosomal Dominant inheritance. 
 - **De Novo Mutations**: ~70% are *de novo* mutations.
 ### Molecular Pathophysiology
