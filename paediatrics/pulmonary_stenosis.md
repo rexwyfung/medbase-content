@@ -45,12 +45,12 @@
 ## 4. Discriminatory Features (How to distinguish from similar conditions)
 
 ### Distinguishing Pulmonary Stenosis from Similar Murmurs
-| Feature | **Pulmonary Stenosis (肺動脈瓣狹窄)** | **Atrial Septal Defect (心房中隔缺損)** | **Aortic Stenosis (主動脈瓣狹窄)** |
-| :--- | :--- | :--- | :--- |
-| **Murmur Location** | LUSB | LUSB | RUSB |
-| **Murmur Radiation** | Back / Left axilla | Back | Carotids / Neck |
-| **S2 Split** | Widely split (varies with respiration) | Widely split & **Fixed** | Paradoxical split (if severe) |
-| **Ejection Click** | Present (↓ with inspiration) | Absent | Present (no variation with inspiration) |
+| Feature              | **Pulmonary Stenosis (肺動脈瓣狹窄)**        | **Atrial Septal Defect (心房中隔缺損)** | **Aortic Stenosis (主動脈瓣狹窄)**            |
+| :------------------- | :------------------------------------- | :-------------------------------- | :-------------------------------------- |
+| **Murmur Location**  | LUSB                                   | LUSB                              | RUSB                                    |
+| **Murmur Radiation** | Back / Left axilla                     | Back                              | Carotids / Neck                         |
+| **S2 Split**         | Widely split (varies with respiration) | Widely split & **Fixed**          | Paradoxical split (if severe)           |
+| **Ejection Click**   | Present (↓ with inspiration)           | Absent                            | Present (no variation with inspiration) |
 
 ## 5. Differential Diagnosis
 
