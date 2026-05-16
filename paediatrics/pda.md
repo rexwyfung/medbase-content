@@ -15,6 +15,7 @@
 ### Fetal Circulation (胎兒循環)
 - **In utero**: DA essential to bypass fluid-filled, non-functioning lungs.
 - **Maintenance**: Kept patent by ↓ fetal oxygen tension (PaO2) and circulating maternal prostaglandins (PGE2).
+![image|315](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/c8b560e42eab09f419241c5ec58e2ae6.png)
 
 ### Postnatal Transition
 - **Birth**: Lungs expand → ↑ PaO2 & ↓ prostaglandin levels → Triggers DA constriction.
@@ -59,7 +60,7 @@
 - **Ventricular Septal Defect (VSD)**.
 - **Aortopulmonary Window** (主動脈肺動脈窗).
 - **Arteriovenous (AV) Fistula** (e.g., Vein of Galen malformation).
-- **Innocent Venous Hum** (無害性靜脈雜音): Continuous murmur, but disappears when lying flat or turning the neck.
+- **Innocent Venous Hum** (無害性靜脈雜音): Continuous murmur, but disappears when lying flat or turning the neck. 
 
 ## 7. Tiered Investigations
 
@@ -76,10 +77,10 @@
 ## 8. Management (Acute, Chronic, HA Protocols)
 
 ### Premature Infants (NICU Protocol)
-| Treatment Tier | Modality | HK HA Practice / Indications |
-| :--- | :--- | :--- |
-| **1st Line** | **Medical Closure** | **IV Ibuprofen** or **IV Paracetamol** (Prostaglandin inhibitors). IV Indomethacin is less favored locally due to renal/GI side effects. |
-| **2nd Line** | **Surgical Ligation** | Indicated if medical therapy fails or is contraindicated (e.g., severe renal impairment, active bleeding, severe NEC). |
+| Treatment Tier | Modality              | HK HA Practice / Indications                                                                                                             |
+| :------------- | :-------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
+| **1st Line**   | **Medical Closure**   | **IV Ibuprofen** or **IV Paracetamol** (Prostaglandin inhibitors). IV Indomethacin is less favored locally due to renal/GI side effects. |
+| **2nd Line**   | **Surgical Ligation** | Indicated if medical therapy fails or is contraindicated (e.g., severe renal impairment, active bleeding, severe NEC).                   |
 
 ### Term Infants & Children (HA Paediatric Cardiology)
 - **Medical Closure**: INEFFECTIVE in term infants.
