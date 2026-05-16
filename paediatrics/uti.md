@@ -95,6 +95,7 @@
 | **Grade III** | Mild/moderate dilation of ureter, pelvis & calyces. | ~50% spontaneous resolution. |
 | **Grade IV** | Moderate dilation/tortuosity, obliteration of sharp fornices. | High risk of renal scarring. Requires monitoring. |
 | **Grade V** | Gross dilation & tortuosity of ureter, severe calyceal clubbing. | Very low resolution rate. High risk of ESRF. Surgical intervention likely. |
+
 ![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/caf30f6f223106f0f4ada15f9c82bed8.png)
 
 ### Tiered Radiological Imaging Pathways (HA/NICE Guidelines)
