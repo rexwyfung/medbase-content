@@ -109,10 +109,7 @@
 * **Outflow Tracts**: Right ventricular outflow tract (RVOT) obstruction (often at the pulmonary anastomosis site).
 
 ## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-* Trap: Giving 100% oxygen and expecting the cyanosis to improve. 
-* Pearl: TGA is a mixing lesion; oxygen will not significantly improve systemic PaO2 and may actually promote physiological ductal closure, rapidly worsening the condition and leading to collapse.
-* Viva Question: What is the most common and dangerous side effect of Prostaglandin E1 infusion? 
-* Answer: Apnoea. Always secure IV access, closely monitor respiratory effort, and have intubation equipment ready before starting PGE1.
-* Viva Question: What is the classic chest X-ray finding in Transposition of the Great Arteries?
-* Answer: "Egg on a string" appearance, caused by a narrow vascular pedicle (aorta and pulmonary artery lying anteroposteriorly) and a globular right ventricle.
+* Trap: Giving 100% oxygen and expecting the cyanosis to improve. Pearl: TGA is a mixing lesion; oxygen will not significantly improve systemic PaO2 and may actually promote physiological ductal closure, rapidly worsening the condition and leading to collapse.
+* Viva Question: What is the most common and dangerous side effect of Prostaglandin E1 infusion? Answer: Apnoea. Always secure IV access, closely monitor respiratory effort, and have intubation equipment ready before starting PGE1.
+* Viva Question: What is the classic chest X-ray finding in Transposition of the Great Arteries?Answer: "Egg on a string" appearance, caused by a narrow vascular pedicle (aorta and pulmonary artery lying anteroposteriorly) and a globular right ventricle.
 * Pitfall: Assuming a loud murmur is required to diagnose severe congenital heart disease. The most severe cases of simple TGA often present with NO murmur because the ventricular septum is intact and the only mixing is via a PDA or PFO.

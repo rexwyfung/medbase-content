@@ -20,6 +20,7 @@
 * → Severe Tricuspid Regurgitation (TR)
 * → RV volume overload & functional hypoplasia
 * Right-to-left shunt via ASD/PFO → **Cyanosis (發紺)**
+![image|541](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a3838f17d4bcac77eab7e8d126d20732.png)
 
 ### Genetics & Risk Factors of Ebstein's Anomaly
 * Maternal Lithium exposure during 1st trimester
@@ -30,6 +31,7 @@
 * → Single great vessel overriding a large VSD
 * → Supplies systemic, pulmonary, and coronary circulations
 * → Pulmonary overcirculation & early **Heart Failure (心臟衰竭)**
+![image|311](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a3effbcd0f7f8d7c9605630e4b58799b.png)
 
 ### Genetics of Truncus Arteriosus
 * Strongly associated with 22q11.2 microdeletion → **DiGeorge Syndrome (迪喬治症候群)** (~30-40% of cases)
@@ -45,6 +47,7 @@
 * Cardiac (~20%): Drains to Coronary Sinus
 * Infracardiac (~20%): Drains to IVC/Portal vein → **Highest risk of obstruction**
 * Mixed (~10%)
+![image|503](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/641b9b2db1bc71e7a925fb2686357cb8.png)
 
 ### Pathophysiology of PAPVR
 * 1-3 pulmonary veins drain to RA/systemic veins
@@ -91,6 +94,8 @@
 | **Truncus Arteriosus** | Cardiomegaly + ↑ Pulmonary markings + Right Aortic Arch (~30%) | Pulmonary overcirculation + associated arch anomaly |
 | **Obstructed TAPVR** | Small heart + Severe Pulmonary Edema | Venous backup into lungs without cardiomegaly |
 | **Unobstructed TAPVR** | "Snowman" sign (Figure of 8) + ↑ Pulmonary markings | Dilated vertical vein & SVC (Only visible in older infants >4 months) |
+
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/0a1238f98597650157b8c4ee864f221a.png)
 
 ## 5. Differential Diagnosis
 
