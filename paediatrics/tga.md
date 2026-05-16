@@ -99,14 +99,14 @@
 
 ## 11. Complications & Prognosis
 
-### Prognosis and Survival Rates
-* **Without Surgery**: >90% mortality in the 1st year of life.
-* **Post-Arterial Switch**: Excellent long-term survival rates (>90% reaching adulthood).
-
 ### Long-term Surgical Complications
 * **Coronary Artery Stenosis**: Ischaemia/infarction due to reimplantation site scarring.
 * **Vascular Complications**: Neo-aortic root dilation and regurgitation.
 * **Outflow Tracts**: Right ventricular outflow tract (RVOT) obstruction (often at the pulmonary anastomosis site).
+
+### Prognosis and Survival Rates
+* **Without Surgery**: >90% mortality in the 1st year of life.
+* **Post-Arterial Switch**: Excellent long-term survival rates (>90% reaching adulthood).
 
 ## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
 * Trap: Giving 100% oxygen and expecting the cyanosis to improve. Pearl: TGA is a mixing lesion; oxygen will not significantly improve systemic PaO2 and may actually promote physiological ductal closure, rapidly worsening the condition and leading to collapse.
