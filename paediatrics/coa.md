@@ -108,7 +108,7 @@
 * **Renal Function Test (RFT)**: ↑ Urea, ↑ Creatinine (AKI from renal ischemia).
 * **Septic Workup**: Blood culture, CRP (must rule out sepsis in shocked neonate).
 
-### Imaging Investigations for CoA
+### Imaging Investigation s for CoA
 * **Chest X-Ray (CXR)**:
     * Neonates: Cardiomegaly (心臟肥大), pulmonary venous congestion/oedema.
     * Older children (Usually >5 yrs):
@@ -182,5 +182,5 @@
 * Viva Question: What is the classic X-ray sign of Coarctation of the Aorta in an older child, and what causes it? Answer: Rib notching on the inferior rib margins, caused by erosion from enlarged, pulsatile intercostal collateral arteries.
 * Pitfall: Discharging a neonate with a seemingly innocent murmur on day 1 of life without follow-up. A duct-dependent CoA may have no murmur or a very soft murmur initially; the patient will crash when the PDA closes at home on day 2-7. Always ensure robust safety netting and SpO2 screening prior to discharge.
 * Viva Question: A female child presents with short stature, primary amenorrhoea, and an ejection systolic murmur radiating to the back. What is the unifying diagnosis? Answer: Turner Syndrome complicated by Coarctation of the Aorta.
-* OSCE Pearl: If you discover hypertension in a paediatric patient during an OSCE station, explicitly state to the examiner: "I would now check the blood pressure in the lower limbs and palpate the radio-femoral delay to screen for coarctation of the aorta."
+* Viva Question: If you discover hypertension in a paediatric patient during an OSCE station, what would you want to check? Answer: I would now check the blood pressure in the lower limbs and palpate the radio-femoral delay to screen for coarctation of the aorta.
 * Trap: Delaying PGE1 infusion while waiting for echocardiogram confirmation in a crashing neonate. Pearl: If duct-dependent structural heart disease is suspected clinically (shock, severe cyanosis), start Alprostadil (PGE1) infusion immediately; do not wait for the ECHO to confirm.
