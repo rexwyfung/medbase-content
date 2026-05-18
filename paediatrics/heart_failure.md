@@ -82,6 +82,7 @@
 
 ### Imaging Studies
 - **CXR:** **Cardiomegaly**, ↑ pulmonary vascular markings (plethora), pulmonary oedema.
+![image|235](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/4e288c5deb89faef08ed909ba14d9eb6.png)
 
 ### Gold Standard Investigation
 - **Echocardiogram (超聲心動圖):** Defines structural anatomy, ventricular function (Ejection Fraction/Fractional Shortening), chamber dilatation, and estimates pulmonary artery pressures.
