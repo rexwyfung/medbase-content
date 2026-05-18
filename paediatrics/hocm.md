@@ -5,6 +5,7 @@
 * Unexplained **Left Ventricular Hypertrophy (左心室肥厚)** in absence of ↑ afterload (e.g., aortic stenosis, hypertension).
 * Typically features **Asymmetric Septal Hypertrophy (ASH)**.
 * **Obstructive** component involves **Systolic Anterior Motion (SAM)** of anterior mitral valve leaflet → **Left Ventricular Outflow Tract (LVOT)** obstruction.
+![image|451](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/6332d2245dae1a6d5775c8f160d674c2.png)
 
 ### Hong Kong Local Epidemiology
 * Affects ~1 in 500 in general population; childhood presentation is rare but carries higher morbidity.
