@@ -21,6 +21,7 @@
 - Primary defect: Damage to **podocytes (足細胞)** of the glomerular filtration barrier.
 - Structural integrity & -ve charge lost → massive leakage of plasma proteins (primarily albumin) into urine.
 - Light microscopy: normal. Electron microscopy: **podocyte fusion**.
+![image|494](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/88122768a09b3eb45072a872bbdee518.png)
 
 ### Oedema Formation Mechanism
 - Massive proteinuria → severe **Hypoalbuminaemia**.
@@ -77,12 +78,14 @@
 - **Minimal Change Disease (微小病變型腎病)** (>85% of childhood cases).
 - Focal Segmental Glomerulosclerosis (FSGS).
 - Membranous Nephropathy.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/1be7b3c44f7c6dbaa76b3af9372dacc7.png)
 
 ### Secondary Causes
 - Henoch–Schönlein purpura (HSP).
 - Systemic Lupus Erythematosus (SLE) / Lupus Nephritis.
 - Infections (Malaria, Hepatitis B/C).
 - Allergens (Bee sting).
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/f3693022d803a3e56d1483a3c5423310.png)
 
 ### Conditions Mimicking Oedema
 - Acute Post-Streptococcal Glomerulonephritis (APSGN).
@@ -159,12 +162,18 @@
 
 ### Thrombosis (Hypercoagulable State)
 - ↑ Risk of DVT, Renal Vein Thrombosis, and Sagittal Sinus Thrombosis.
-- Causes: Urinary loss of Antithrombin III, ↑ hepatic synthesis of clotting factors, thrombocytosis (steroid-exacerbated), and haemoconcentration.
+- Causes:
+	- Urinary loss of Antithrombin III
+	- ↑ hepatic synthesis of clotting factors
+	- Thrombocytosis (steroid-exacerbated)
+	- Haemoconcentration
 
 ### Infection Risk
 - Major cause of mortality. High risk for capsulated bacteria (**Streptococcus pneumoniae**).
 - Complications: **Spontaneous Bacterial Peritonitis (自發性細菌性腹膜炎)**, sepsis, cellulitis.
-- Causes: Urinary loss of immunoglobulins (IgG) and complement, and steroid immunosuppression.
+- Causes:
+	- Urinary loss of immunoglobulins (IgG) and complement
+	- Steroid immunosuppression
 
 ### Steroid Toxicity
 - Chronic use → Cushingoid facies, obesity, growth suppression, osteoporosis, cataracts, hypertension.
