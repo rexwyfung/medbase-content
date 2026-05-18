@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "6bd59bebe464f041",
+            "id": "5511df2aaf9a6822",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paediatrics/coa.md",
+                "file": "paediatrics/myocarditis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "coa"
+              "title": "myocarditis"
             }
           }
         ],
@@ -199,7 +199,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "6bd59bebe464f041",
+  "active": "5511df2aaf9a6822",
   "lastOpenFiles": [
     "paediatrics/complex_chd.md",
     "paediatrics/coa.md",
