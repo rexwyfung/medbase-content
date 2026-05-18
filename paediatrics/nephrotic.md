@@ -100,6 +100,7 @@
 - **Urine Dipstick**: +++ or ++++ protein.
 - **Early Morning UPCR**: > 200 mg/mmol.
 - **Urine Microscopy**: Oval fat bodies, hyaline casts. MUST rule out macroscopic haematuria.
+![image|463](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/fa4bb11b5d50f47ce7b4b2386c3c7f72.png)
 
 ### Blood Investigations
 - **Serum Albumin**: ↓ (< 25 g/L).
