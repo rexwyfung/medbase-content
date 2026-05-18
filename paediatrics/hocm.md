@@ -66,6 +66,7 @@
   * Massive LVH criteria +ve.
   * Deep, narrow **"Dagger" Q waves** in lateral/inferior leads (septal depolarization).
   * Repolarization abnormalities (T wave inversions).
+![image|245](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/d0e53671af534b945ab6ea3a6357abcf.png)
 
 ### Gold Standard Imaging
 * **Transthoracic Echocardiogram (TTE) (心臟超聲波)**:
@@ -140,7 +141,7 @@
 ## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
 * Viva Question: What is the most common cause of sudden cardiac death in young athletes? Answer: Hypertrophic cardiomyopathy.
 * Viva Question: How do Valsalva and squatting affect the murmur of HOCM? Answer: Valsalva decreases preload, worsening obstruction and making the murmur louder. Squatting increases preload and afterload, reducing obstruction and making the murmur softer.
-* Viva Question: What are the characteristic ECG findings in HOCM? Answer: Left ventricular hypertrophy and deep, narrow "dagger" Q waves in the inferior and lateral leads.
+* Viva Question: What are the characteristic ECG findings in HOCM? Answer: Left ventricular hypertrophy and deep, narrow "dagger" Q waves in the inferior and lateral leads. ![image|569](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/4271a14397ae2171c3a332e10a8f686d.png)
 * Trap: Assuming Digoxin is a good treatment because the patient is in heart failure. Pearl: Digoxin is a positive inotrope and will worsen the dynamic LVOT obstruction in HOCM; it is strictly contraindicated.
 * Trap: Treating exertional dyspnea in HOCM with nitrates or diuretics. Pearl: Nitrates and diuretics reduce preload, which narrows the LV outflow tract and exacerbates the obstruction and symptoms. Use beta-blockers instead.
 * Pitfall: Reassuring a patient with asymptomatic HOCM that they have zero risk of SCD. Always perform comprehensive risk stratification (Holter, MRI for LGE, family history, echo gradients) before determining the need for an ICD.
