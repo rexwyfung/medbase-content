@@ -147,10 +147,7 @@
 
 ## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
 
-* Trap: Assuming a boy with early pubic hair and a growth spurt has Central Precocious Puberty without formally assessing the testes.
-* Pearl: Always use a Prader orchidometer. If testes are small (<4mL bilaterally), it is NOT Central PP; the androgens are peripheral (e.g., CAH or adrenal tumour).
-* Viva Question: Why do we use a GnRH *agonist* to stop puberty instead of an antagonist?
-* Answer: Continuous, non-pulsatile administration of a GnRH agonist paradoxically down-regulates and desensitizes pituitary GnRH receptors, leading to profound suppression of LH and FSH. Pulsatile release is required for activation.
+* Trap: Assuming a boy with early pubic hair and a growth spurt has Central Precocious Puberty without formally assessing the testes. Pearl: Always use a Prader orchidometer. If testes are small (<4mL bilaterally), it is NOT Central PP; the androgens are peripheral (e.g., CAH or adrenal tumour).
+* Viva Question: Why do we use a GnRH *agonist* to stop puberty instead of an antagonist? Answer: Continuous, non-pulsatile administration of a GnRH agonist paradoxically down-regulates and desensitizes pituitary GnRH receptors, leading to profound suppression of LH and FSH. Pulsatile release is required for activation.
 * Pitfall: Diagnosing a 2-year-old girl with isolated breast development as having true precocious puberty. You will subject her to unnecessary MRI scans and dynamic tests. Benign premature thelarche is common < 2 years. Monitor growth velocity and bone age first.
-* Viva Question: Which girls with Central Precocious Puberty absolutely require an MRI Brain?
-* Answer: Any girl presenting with neurological signs, OR any girl with onset of Central PP before the age of 6. (Note: ALL boys with Central PP require an MRI regardless of age due to high risk of CNS lesions).
+* Viva Question: Which girls with Central Precocious Puberty absolutely require an MRI Brain? Answer: Any girl presenting with neurological signs, OR any girl with onset of Central PP before the age of 6. (Note: ALL boys with Central PP require an MRI regardless of age due to high risk of CNS lesions).
