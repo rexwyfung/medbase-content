@@ -21,10 +21,10 @@
 * **Primary defect:** Structural or functional damage to the **glomerular filtration barrier (GFB)**, increasing its permeability.
 * Loss of structural integrity and/or the negative charge barrier $\rightarrow$ massive leakage of plasma proteins (primarily albumin) into the urine.
 * **Histological Variations:** The exact mechanism of barrier damage and its appearance under the microscope depends on the underlying etiology:
-    * **Minimal Change Disease (MCD):** Primary podocyte (足細胞) injury. Light Microscopy (LM): Normal. Electron Microscopy (EM): Diffuse **podocyte effacement/fusion**.
-    * **Focal Segmental Glomerulosclerosis (FSGS):** Severe podocyte depletion leading to scarring. LM: Segmental sclerosis in some glomeruli. EM: Podocyte effacement.
-    * **Membranous Nephropathy (MN):** Immune complex deposition damaging the barrier. LM: Thickened Glomerular Basement Membrane (GBM). EM: Subepithelial immune deposits ("spike and dome" appearance) with podocyte effacement.
-    * **Diabetic Nephropathy:** Metabolic and haemodynamic injury. LM: Thickened GBM and mesangial matrix expansion (Kimmelstiel-Wilson nodules).
+	* **Minimal Change Disease (MCD):** Primary podocyte (足細胞) injury. Light Microscopy (LM): Normal. Electron Microscopy (EM): Diffuse **podocyte effacement/fusion**.
+	* **Focal Segmental Glomerulosclerosis (FSGS):** Severe podocyte depletion leading to scarring. LM: Segmental sclerosis in some glomeruli. EM: Podocyte effacement.
+	* **Membranous Nephropathy (MN):** Immune complex deposition damaging the barrier. LM: Thickened Glomerular Basement Membrane (GBM). EM: Subepithelial immune deposits ("spike and dome" appearance) with podocyte effacement.
+	* **Diabetic Nephropathy:** Metabolic and haemodynamic injury. LM: Thickened GBM and mesangial matrix expansion (Kimmelstiel-Wilson nodules).
 ![image|494](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/88122768a09b3eb45072a872bbdee518.png)
 
 ### Oedema Formation Mechanism

@@ -35,8 +35,7 @@
               "title": "precocious_puberty"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,8 +198,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "95c19d66ea310529",
+  "active": "ab7daf5359322af4",
   "lastOpenFiles": [
+    "paediatrics/precocious_puberty.md",
     "paediatrics/nephrotic.md",
     "paediatrics/complex_chd.md",
     "paediatrics/heart_failure.md",
@@ -226,7 +226,6 @@
     "paediatrics/epilepsy.md",
     "paediatrics/bronchiolitis.md",
     "paediatrics/pneumonia.md",
-    "paediatrics/cardiac_arrhythmias.md",
     "paediatrics/Untitled",
     "Logo-white bg.png",
     "Logo.png",
