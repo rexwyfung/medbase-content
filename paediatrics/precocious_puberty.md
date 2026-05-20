@@ -1,4 +1,4 @@
-ta# Precocious Puberty (性早熟)
+# Precocious Puberty (性早熟)
 
 ## 1. Clinical Definition & Local Epidemiology
 
