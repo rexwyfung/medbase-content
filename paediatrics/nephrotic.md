@@ -19,7 +19,7 @@
 
 ### Glomerular Barrier Dysfunction
 * **Primary defect:** Structural or functional damage to the **glomerular filtration barrier (GFB)**, increasing its permeability.
-* Loss of structural integrity and/or the negative charge barrier $\rightarrow$ massive leakage of plasma proteins (primarily albumin) into the urine.
+* Loss of structural integrity and/or the negative charge barrier → massive leakage of plasma proteins (primarily albumin) into the urine.
 * **Histological Variations:** The exact mechanism of barrier damage and its appearance under the microscope depends on the underlying etiology:
 	* **Minimal Change Disease (MCD):** Primary podocyte (足細胞) injury. Light Microscopy (LM): Normal. Electron Microscopy (EM): Diffuse **podocyte effacement/fusion**.
 	* **Focal Segmental Glomerulosclerosis (FSGS):** Severe podocyte depletion leading to scarring. LM: Segmental sclerosis in some glomeruli. EM: Podocyte effacement.

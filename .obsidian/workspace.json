@@ -35,8 +35,7 @@
               "title": "precocious_puberty"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,10 +198,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "95c19d66ea310529",
+  "active": "ab7daf5359322af4",
   "lastOpenFiles": [
-    "paediatrics/nephrotic.md",
     "paediatrics/precocious_puberty.md",
+    "paediatrics/nephrotic.md",
     "paediatrics/complex_chd.md",
     "paediatrics/heart_failure.md",
     "paediatrics/marfan_syndrome.md",
