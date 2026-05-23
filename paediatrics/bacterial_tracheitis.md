@@ -147,8 +147,6 @@
 
 ## 12. Examiner's Pearls
 
-* Viva Question: A child with croup is given nebulised adrenaline. Instead of improving, they remain severely stridulous and look extremely toxic. What is your next step?
-* Answer: Abandon standard croup protocols. Assume Bacterial Tracheitis. Immediately call for senior Anaesthesia and ENT help to secure the airway in the operating theatre.
-* Trap: Sending a deteriorating "croup" patient to the X-ray department.
-* Pearl: If they have tracheitis, they can fully obstruct and arrest in the radiology scanner away from airway experts. Proceed directly to the operating theatre.
+* Viva Question: A child with croup is given nebulised adrenaline. Instead of improving, they remain severely stridulous and look extremely toxic. What is your next step? Answer: Abandon standard croup protocols. Assume Bacterial Tracheitis. Immediately call for senior Anaesthesia and ENT help to secure the airway in the operating theatre.
+* Trap: Sending a deteriorating "croup" patient to the X-ray department. Pearl: If they have tracheitis, they can fully obstruct and arrest in the radiology scanner away from airway experts. Proceed directly to the operating theatre.
 * Pitfall: Attempting vigorous throat examination or IV cannulation in A&E. This causes severe agitation, dramatically ↑ oxygen demand, and can precipitate fatal acute airway obstruction.
