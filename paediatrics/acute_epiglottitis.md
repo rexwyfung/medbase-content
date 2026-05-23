@@ -96,6 +96,6 @@
   * Secondary spread: Meningitis, septicaemia (especially if Hib).
 
 ## 12. Examiner's Pearls
-* **Killer OSCE Trap**: "I will look in the throat to confirm..." → **Immediate Fail**. You must state: "I will **NOT** examine the throat, keep child calm, & summon senior Anaesthetic/ENT help to OT."
-* **Spot Diagnosis**: Toxic child + Drooling + Tripod posture = Epiglottitis until proven otherwise.
-* **Viva Question**: "Why is Epiglottitis virtually unseen in HK wards today?" → "Low incidence rate of **Haemophilus influenzae type b (Hib)**."
+* Trap: "I will look in the throat to confirm..." Pearl: → **Immediate Fail**. You must state: "I will **NOT** examine the throat, keep child calm, & summon senior Anaesthetic/ENT help to OT."
+* Viva Question: What is the triad of Epiglottitis? Answer: Toxic child + Drooling + Tripod posture = Epiglottitis until proven otherwise.
+* Viva Question: "Why is Epiglottitis virtually unseen in HK wards today?" Answer: "Low incidence rate of **Haemophilus influenzae type b (Hib)**."
