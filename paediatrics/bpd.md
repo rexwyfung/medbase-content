@@ -51,6 +51,7 @@
 
 ### Imaging
 - **CXR**: Widespread hazy opacities, hyperinflation, cystic/bubbly appearance (fibrosis)
+![image|220](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/6af86843f5bbc1592361aabb4f2fd006.png)
 
 ### Special Tests
 - **Echocardiogram (心臟超聲波)**: Monitor for **pulmonary hypertension (肺高壓)** & **Cor Pulmonale (肺源性心臟病)**

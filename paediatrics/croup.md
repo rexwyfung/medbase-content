@@ -74,6 +74,7 @@
 
 ### Imaging
 - **Neck X-ray (AP view)**: NOT routinely recommended. If performed, may show the classic **"Steeple Sign" (尖塔徵)** representing subglottic narrowing.
+![image|244](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/1e69cf8e5a9e0e8fdfb168a7570404b5.png)
 
 ## 7. Management (Acute, Chronic, HA Protocols)
 
