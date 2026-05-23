@@ -166,11 +166,7 @@
 * Projected life expectancy for current newborns is into the **fifties**, largely due to CFTR modulators.
 
 ## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-* Trap: Assuming CF is impossible in a Chinese/Asian child.
-* Pearl: While historically rare, CF exists globally and must remain on the differential for any child with unexplained bronchiectasis, persistent wet cough, and failure to thrive.
-* Viva Question: Why do CF patients get diabetes but usually don't get diabetic ketoacidosis (DKA)?
-* Answer: The scarring in the pancreas progressively destroys islet cells. However, they usually maintain just enough background insulin production to prevent lipolysis and DKA, but not enough to control post-prandial blood sugars.
-* Pitfall: Delaying targeted antibiotics for new Pseudomonas isolation while waiting for clinical deterioration.
-* Pearl: Eradication protocols must be initiated immediately upon first isolation of Pseudomonas to prevent it from establishing chronic biofilm infection, which irrevocably accelerates lung function decline.
-* Viva Question: What is the earliest presentation of CF?
-* Answer: Meconium ileus in the first 24-48 hours of life, presenting with failure to pass meconium and bilious vomiting.
+* Trap: Assuming CF is impossible in a Chinese/Asian child. Pearl: While historically rare, CF exists globally and must remain on the differential for any child with unexplained bronchiectasis, persistent wet cough, and failure to thrive.
+* Viva Question: Why do CF patients get diabetes but usually don't get diabetic ketoacidosis (DKA)? Answer: The scarring in the pancreas progressively destroys islet cells. However, they usually maintain just enough background insulin production to prevent lipolysis and DKA, but not enough to control post-prandial blood sugars.
+* Pitfall: Delaying targeted antibiotics for new Pseudomonas isolation while waiting for clinical deterioration. Pearl: Eradication protocols must be initiated immediately upon first isolation of Pseudomonas to prevent it from establishing chronic biofilm infection, which irrevocably accelerates lung function decline.
+* Viva Question: What is the earliest presentation of CF? Answer: Meconium ileus in the first 24-48 hours of life, presenting with failure to pass meconium and bilious vomiting.

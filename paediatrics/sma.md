@@ -28,12 +28,14 @@
 ## 3. Key Symptoms & Signs
 
 ### SMA Phenotype Classification Table
-| Type | Name | Onset | Highest Motor Milestone | Key Clinical Signs |
-| :--- | :--- | :--- | :--- | :--- |
-| **0** | Neonatal | Prenatal / Birth | None | Arthrogryposis (關節攣縮), severe respiratory failure at birth. |
-| **1** | Werdnig-Hoffmann | < 6 months | Never sit | Profound hypotonia, areflexia, tongue fasciculations, bell-shaped chest. |
-| **2** | Intermediate | 6-18 months | Sit, never walk | Polyminimyoclonus (fine tremor), progressive scoliosis. |
-| **3** | Kugelberg-Welander | > 18 months | Walk independently | Proximal weakness, frequent falls, +ve Gowers' sign. |
+| Type  | Name               | Onset            | Highest Motor Milestone | Key Clinical Signs                                                       |
+| :---- | :----------------- | :--------------- | :---------------------- | :----------------------------------------------------------------------- |
+| **0** | Neonatal           | Prenatal / Birth | None                    | Arthrogryposis (關節攣縮), severe respiratory failure at birth.              |
+| **1** | Werdnig-Hoffmann   | < 6 months       | Never sit               | Profound hypotonia, areflexia, tongue fasciculations, bell-shaped chest. |
+| **2** | Intermediate       | 6-18 months      | Sit, never walk         | Polyminimyoclonus (fine tremor), progressive scoliosis.                  |
+| **3** | Kugelberg-Welander | > 18 months      | Walk independently      | Proximal weakness, frequent falls, +ve Gowers' sign.                     |
+
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ea601ed820703d94d3d275692a3fa723.png)
 
 ### Pathognomonic Clinical Signs of Type 1 SMA
 * **Posture**: Profound hypotonia & "frog-leg" posture (abducted/externally rotated hips).
@@ -41,6 +43,7 @@
 * **Bulbar**: Weak cry, poor suck, pooling of secretions, **tongue fasciculations** (舌頭肌肉跳動).
 * **Respiratory**: **Bell-shaped chest** (鐘形胸) due to severe intercostal weakness with spared diaphragmatic breathing.
 * **Facies**: Bright, alert expression (cognition entirely spared).
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/007d62c97dfd34d892f7857f8b541c04.png)
 
 ## 4. Discriminatory Features (How to distinguish from similar conditions)
 
@@ -96,11 +99,11 @@
 * **Ventilation**: Early Non-Invasive Ventilation (**BiPAP**); avoid intubation if possible due to high risk of extubation failure.
 
 ### Disease-Modifying Therapies (HA Approved)
-| Medication | Mechanism of Action | Route & Frequency | HA Context |
-| :--- | :--- | :--- | :--- |
-| **Nusinersen (Spinraza)** | ASO. *SMN2* splicing modifier → ↑ functional SMN protein | Intrathecal injection (Loading doses then 4-monthly) | High-cost; strict CCF funding criteria. |
-| **Risdiplam (Evrysdi)** | Small molecule *SMN2* splicing modifier | Oral daily liquid | Avoids LP; ideal for severe scoliosis. |
-| **Onasemnogene abeparvovec (Zolgensma)** | AAV9 viral vector gene replacement (functional *SMN1*) | Single IV infusion | Given to young infants; massive upfront cost. |
+| Medication                               | Mechanism of Action                                      | Route & Frequency                                    | HA Context                                    |
+| :--------------------------------------- | :------------------------------------------------------- | :--------------------------------------------------- | :-------------------------------------------- |
+| **Nusinersen (Spinraza)**                | ASO. *SMN2* splicing modifier → ↑ functional SMN protein | Intrathecal injection (Loading doses then 4-monthly) | High-cost; strict CCF funding criteria.       |
+| **Risdiplam (Evrysdi)**                  | Small molecule *SMN2* splicing modifier                  | Oral daily liquid                                    | Avoids LP; ideal for severe scoliosis.        |
+| **Onasemnogene abeparvovec (Zolgensma)** | AAV9 viral vector gene replacement (functional *SMN1*)   | Single IV infusion                                   | Given to young infants; massive upfront cost. |
 
 ### Chronic Supportive Management
 * **Respiratory**: Nocturnal BiPAP for sleep-disordered breathing, pneumococcal/influenza vaccines.
