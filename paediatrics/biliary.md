@@ -63,6 +63,7 @@
 
 ### Imaging for Biliary Atresia
 * **Fasting Abdominal US (腹部超聲波)**: Absent or contracted gallbladder, **Triangular Cord Sign** (fibrotic remnant at porta hepatis). Excludes choledochal cyst.
+	![image|162](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/837c3fe8021feeaca3e762d4a84da215.png)
 * **HIDA Scan**: Good hepatic uptake → **NO bowel excretion** at 24 hrs. (Note: Severe hepatitis can mimic this).
 
 ### Invasive & Gold Standard Investigations for Biliary Atresia

@@ -74,11 +74,14 @@
 * **Liver Function Tests (LFTs):** Baseline and check for hepatic metastasis
 
 ### First-Line & Staging Imaging
-* **Abdominal Ultrasound (超聲波):** * 1st line investigation of choice
-  * Confirms intra-renal origin, solid vs cystic nature
-  * Crucial: Assesses contralateral kidney and Doppler evaluation of renal vein/IVC for tumour thrombus
-* **CT/MRI Abdomen & Pelvis:** * Essential for exact anatomical staging, assessing regional lymphadenopathy, and surgical planning
-* **CT Chest:** * Mandatory staging investigation to rule out lung metastases (most common metastatic site)
+* **Abdominal Ultrasound (超聲波):**
+	* 1st line investigation of choice
+	* Confirms intra-renal origin, solid vs cystic nature
+	* Crucial: Assesses contralateral kidney and Doppler evaluation of renal vein/IVC for tumour thrombus
+* **CT/MRI Abdomen & Pelvis:**
+	* Essential for exact anatomical staging, assessing regional lymphadenopathy, and surgical planning
+* **CT Chest:**
+	* Mandatory staging investigation to rule out lung metastases (most common metastatic site)
 
 ## 7. Management (Acute, Chronic, HA Protocols)
 
@@ -109,9 +112,10 @@
 ## 9. Safeguarding & NAI Red Flags
 
 ### Critical Examination Precautions
-* **DO NOT PALPATE VIGOROUSLY:** * Wilms tumour has an extremely friable capsule.
-  * Excessive pressure → **Tumour Rupture** → spills malignant metanephric cells into peritoneal cavity.
-  * Consequence: Instantly upstages the disease (Stage III) → demands aggressive whole-abdomen radiotherapy + intensive chemotherapy → ↑↑ long-term morbidity.
+* **DO NOT PALPATE VIGOROUSLY:**
+	* Wilms tumour has an extremely friable capsule.
+	* Excessive pressure → **Tumour Rupture** → spills malignant metanephric cells into peritoneal cavity.
+	* Consequence: Instantly upstages the disease (Stage III) → demands aggressive whole-abdomen radiotherapy + intensive chemotherapy → ↑↑ long-term morbidity.
 * **Signage:** "DO NOT PALPATE ABDOMEN" sign must be placed strictly on the patient's bed in the ward.
 
 ## 10. Complications & Prognosis
@@ -120,8 +124,9 @@
 * **Tumour Rupture:** Pre-op or intra-op, leading to abdominal seeding
 * **Vascular:** Tumour embolism to pulmonary artery from IVC thrombus
 * **Renal Failure:** Highest risk in bilateral Wilms or underlying Denys-Drash syndrome
-* **Late Treatment Effects:** * Anthracycline-induced cardiotoxicity (Doxorubicin)
-  * Radiation-induced scoliosis / secondary malignancies
+* **Late Treatment Effects:**
+	* Anthracycline-induced cardiotoxicity (Doxorubicin)
+	* Radiation-induced scoliosis / secondary malignancies
 
 ### Prognostic Factors
 * **Excellent Overall Prognosis:** >90% 5-year survival rate for localised, favourable histology

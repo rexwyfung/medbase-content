@@ -24,7 +24,7 @@
   * Non-immune: G6PD deficiency, **Hereditary Spherocytosis (遺傳性球形紅血球增多症)**
 * **↑ RBC Load**: Polycythaemia, cephalhaematoma, extensive bruising
 * **↓ Conjugation**: Crigler-Najjar syndrome, Gilbert syndrome, Congenital Hypothyroidism
-* **↑ Enterohepatic Circulation**: Breastfeeding jaundice (dehydration), bowel obstruction
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																					* **↑ Enterohepatic Circulation**: Breastfeeding jaundice (dehydration), bowel obstruction
 
 ### Pathophysiology of Conjugated Hyperbilirubinaemia
 * Defined as conjugated fraction >20% of TSB

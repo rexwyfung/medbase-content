@@ -4,38 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "20fcfa2c52165971",
+        "id": "843c306f95ac87bd",
         "type": "tabs",
         "children": [
           {
-            "id": "23a5136e6690cdae",
+            "id": "04f9c9d1d595584e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paediatrics/acute_epiglottitis.md",
+                "file": "paediatrics/jsle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "acute_epiglottitis"
+              "title": "jsle"
             }
           },
           {
-            "id": "ff99522887913314",
+            "id": "f6c17cf202d51968",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paediatrics/croup.md",
+                "file": "paediatrics/wilms_tumor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "croup"
+              "title": "wilms_tumor"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,10 +199,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "23a5136e6690cdae",
+  "active": "f6c17cf202d51968",
   "lastOpenFiles": [
-    "paediatrics/croup.md",
+    "paediatrics/jsle.md",
+    "paediatrics/coeliac.md",
     "paediatrics/acute_epiglottitis.md",
+    "paediatrics/croup.md",
+    "paediatrics/nnj.md",
+    "paediatrics/biliary.md",
     "paediatrics/bacterial_tracheitis.md",
     "paediatrics/bpd.md",
     "paediatrics/cystic_fibrosis.md",
@@ -222,10 +227,6 @@
     "paediatrics/uti.md",
     "paediatrics/tuberous_sclerosis.md",
     "paediatrics/neurofibromatosis.md",
-    "paediatrics/brain_tumour.md",
-    "paediatrics/dmd.md",
-    "paediatrics/hydrocephalus.md",
-    "paediatrics/cerebral_palsy.md",
     "paediatrics/Untitled",
     "Logo-white bg.png",
     "Logo.png",

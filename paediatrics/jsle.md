@@ -3,21 +3,32 @@
 ## 1. Clinical Definition & Local Epidemiology
 
 ### Clinical Definition of JSLE
-A severe, chronic, multisystem autoimmune disease characterized by the production of pathogenic autoantibodies (e.g., ANA, anti-dsDNA). These autoantibodies lead to widespread immune complex deposition, triggering severe tissue inflammation and end-organ damage. 
+- A severe, chronic, multisystem autoimmune disease characterized by the production of pathogenic autoantibodies (e.g., ANA, anti-dsDNA).
+- These autoantibodies lead to widespread immune complex deposition, triggering severe tissue inflammation and end-organ damage. 
 
 ### Local Epidemiology in Hong Kong
-JSLE is significantly more aggressive and has a higher morbidity rate than adult-onset SLE. There is a marked ↑ prevalence and severity in Asian pediatric populations, particularly among Chinese females. The Female:Male ratio is heavily skewed (≈ 9:1), with peak onset typically occurring during puberty.
+- JSLE is significantly more aggressive and has a higher morbidity rate than adult-onset SLE.
+- There is a marked ↑ prevalence and severity in Asian pediatric populations, particularly among Chinese females.
+- The Female:Male ratio is heavily skewed (≈ 9:1), with peak onset typically occurring during puberty.
 
 ## 2. Pathophysiology & Genetics
 
 ### Autoimmune Pathophysiology Mechanism
-A profound loss of immune tolerance leads to unchecked B-cell hyperactivity. This results in the overproduction of polyclonal autoantibodies that falsely target endogenous nuclear antigens (e.g., DNA, histones, ribonucleoproteins).
+- A profound loss of immune tolerance leads to unchecked B-cell hyperactivity.
+- This results in the overproduction of polyclonal autoantibodies that falsely target endogenous nuclear antigens (e.g., DNA, histones, ribonucleoproteins).
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3e0307c7a37daf6bee61a340f58ae601.png)
 
 ### Type III Hypersensitivity Cascade
-Autoantibody-antigen complexes form in the circulation and become physically trapped in small blood vessels (e.g., kidney glomeruli, dermal-epidermal junction, joints, brain). This trapping triggers a massive localized complement cascade (Type III Hypersensitivity), recruiting neutrophils and causing localized vasculitis and tissue necrosis.
+- Autoantibody-antigen complexes form in the circulation and become physically trapped in small blood vessels (e.g., kidney glomeruli, dermal-epidermal junction, joints, brain).
+- This trapping triggers a massive localized complement cascade (Type III Hypersensitivity), recruiting neutrophils and causing localized vasculitis and tissue necrosis.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/95e3460816dc7ecab73dc5889fd8deca.png)
 
 ### Genetic & Environmental Triggers
-Strongly associated with HLA-DR2 and HLA-DR3 alleles. Disease onset or flares are classically triggered by environmental factors: UV light (sun exposure induces keratinocyte apoptosis, exposing nuclear antigens), viral infections (e.g., EBV), and hormonal surges (↑ estrogen during puberty).
+- Strongly associated with HLA-DR2 and HLA-DR3 alleles.
+- Disease onset or flares are classically triggered by environmental factors:
+	- UV light (sun exposure induces keratinocyte apoptosis, exposing nuclear antigens)
+	- Viral infections (e.g., EBV)
+	- Hormonal surges (↑ estrogen during puberty)
 
 ## 3. Key Symptoms & Signs
 
@@ -33,9 +44,11 @@ Strongly associated with HLA-DR2 and HLA-DR3 alleles. Disease onset or flares ar
 * Discoid rash: Erythematous raised patches with adherent keratotic scaling (leads to scarring).
 * Alopecia (脫髮): Non-scarring hair loss.
 * Oral/nasal mucosal ulcers: Classically painless.
+![image|440](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/74a3415c2bf0da8c6fc3509e7703560c.png)
 
 ### Musculoskeletal Signs
 * Non-erosive polyarthritis (Jaccoud arthropathy): Severe joint pain/swelling without the permanent bone destruction seen in classical rheumatoid arthritis.
+![image|434](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3396a3511862aa92da3193a17f1a1216.png)
 
 ### Renal Signs (Lupus Nephritis / 狼瘡性腎炎)
 * Occurs in up to 80% of JSLE patients.
@@ -54,25 +67,28 @@ Strongly associated with HLA-DR2 and HLA-DR3 alleles. Disease onset or flares ar
 ## 4. Discriminatory Features (How to distinguish from similar conditions)
 
 ### Differentiating JSLE from Juvenile Idiopathic Arthritis (JIA)
-While both present with polyarthritis, JIA is classically destructive/erosive over time. JSLE arthritis is non-erosive. Furthermore, JSLE features prominent multi-organ immune complex signs (e.g., nephritis, profound cytopenias, malar rash) that are absent in typical JIA.
+- While both present with polyarthritis, JIA is classically destructive/erosive over time. JSLE arthritis is non-erosive.
+- JSLE features prominent multi-organ immune complex signs (e.g., nephritis, profound cytopenias, malar rash) that are absent in typical JIA.
 
 ### Differentiating Lupus Nephritis from Post-Infectious Glomerulonephritis (PSGN)
-PSGN presents with a clear history of recent Streptococcal infection and generally resolves completely. Lupus nephritis is a chronic, progressive condition accompanied by highly specific systemic autoantibodies (↑ anti-dsDNA, +ve ANA) and extra-renal manifestations.
+- PSGN presents with a clear history of recent Streptococcal infection and generally resolves completely.
+- Lupus nephritis is a chronic, progressive condition accompanied by highly specific systemic autoantibodies (↑ anti-dsDNA, +ve ANA) and extra-renal manifestations.
 
 ### Differentiating JSLE from Isolated ITP
-An adolescent presenting with thrombocytopenia must be screened for JSLE. Isolated ITP lacks the positive ANA, constitutional symptoms, and multi-lineage cytopenias (e.g., Evan's Syndrome: combined AIHA + thrombocytopenia) characteristic of JSLE.
+- An adolescent presenting with thrombocytopenia must be screened for JSLE.
+- Isolated ITP lacks the positive ANA, constitutional symptoms, and multi-lineage cytopenias (e.g., Evan's Syndrome: combined AIHA + thrombocytopenia) characteristic of JSLE.
 
 ## 5. Differential Diagnosis
 
 ### Key Differential Diagnoses Table
 
-| Disease Category | Specific Differentials |
-| :--- | :--- |
+| Disease Category    | Specific Differentials                                                                                      |
+| :------------------ | :---------------------------------------------------------------------------------------------------------- |
 | **Rheumatological** | Juvenile Idiopathic Arthritis (JIA), Mixed Connective Tissue Disease (MCTD), Juvenile Dermatomyositis (JDM) |
-| **Renal** | Post-Streptococcal Glomerulonephritis (PSGN), IgA Nephropathy |
-| **Infectious** | EBV, Parvovirus B19, CMV, Endocarditis |
-| **Hematological** | Idiopathic Thrombocytopenic Purpura (ITP), Leukemia, Evans Syndrome |
-| **Iatrogenic** | Drug-induced Lupus (e.g., Minocycline, Isoniazid, Anticonvulsants) |
+| **Renal**           | Post-Streptococcal Glomerulonephritis (PSGN), IgA Nephropathy                                               |
+| **Infectious**      | EBV, Parvovirus B19, CMV, Endocarditis                                                                      |
+| **Hematological**   | Idiopathic Thrombocytopenic Purpura (ITP), Leukemia, Evans Syndrome                                         |
+| **Iatrogenic**      | Drug-induced Lupus (e.g., Minocycline, Isoniazid, Anticonvulsants)                                          |
 
 ## 6. Tiered Investigations
 
@@ -103,17 +119,20 @@ An adolescent presenting with thrombocytopenia must be screened for JSLE. Isolat
 * Screening for cardiovascular risk factors (BP, lipids).
 
 ### Universal Baseline Therapy
-* **Hydroxychloroquine (HCQ / 羥氯喹)**: Mandatory base therapy for ALL JSLE patients unless contraindicated. Universally reduces systemic flares, prevents long-term organ damage, and ↑ overall survival. Requires annual ophthalmology review due to risk of retinal toxicity.
+* **Hydroxychloroquine (HCQ / 羥氯喹)**:
+	* Mandatory base therapy for ALL JSLE patients unless contraindicated.
+	* Universally reduces systemic flares, prevents long-term organ damage, and ↑ overall survival.
+	* Requires annual ophthalmology review due to risk of retinal toxicity.
 
 ### Mild Disease Management (Skin & Joint involvement)
 * **NSAIDs**: First-line for arthritis and arthralgia.
 * **Topical Corticosteroids**: For localized cutaneous manifestations.
 
 ### Severe Organ Involvement (Lupus Nephritis / CNS Lupus)
-| Phase | Pharmacotherapy Strategy |
-| :--- | :--- |
-| **Induction (Remission Gaining)** | High-dose IV Corticosteroids (Methylprednisolone pulses) + **IV Cyclophosphamide (環磷酰胺)** OR oral **Mycophenolate Mofetil (MMF / 霉酚酸酯)**. *Note: Hong Kong HA protocols heavily favor MMF for Asians due to equivalent efficacy to Cyclophosphamide with significantly lower gonadal toxicity.* |
-| **Maintenance (Remission Keeping)**| Tapering low-dose oral Prednisolone + oral MMF or Azathioprine. |
+| Phase                               | Pharmacotherapy Strategy                                                                                                                                                                                                                                                                               |
+| :---------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Induction (Remission Gaining)**   | High-dose IV Corticosteroids (Methylprednisolone pulses) + **IV Cyclophosphamide (環磷酰胺)** OR oral **Mycophenolate Mofetil (MMF / 霉酚酸酯)**.<br><br>*Note: Hong Kong HA protocols heavily favor MMF for Asians due to equivalent efficacy to Cyclophosphamide with significantly lower gonadal toxicity.* |
+| **Maintenance (Remission Keeping)** | Tapering low-dose oral Prednisolone + oral MMF or Azathioprine.                                                                                                                                                                                                                                        |
 
 ### Refractory Disease Management
 * **Biologics**: **Rituximab** (Anti-CD20 B-cell depleting monoclonal antibody) or **Belimumab** (BAFF inhibitor) for severe, refractory cases failing standard induction.
@@ -130,7 +149,8 @@ An adolescent presenting with thrombocytopenia must be screened for JSLE. Isolat
 ## 9. Safeguarding & NAI Red Flags
 
 ### Medical Neglect Safeguarding
-* While NAI is not directly applicable, strict vigilance is required for medical neglect. Adolescents (or parents) refusing life-saving immunosuppression, defaulting on mandatory renal monitoring, or failing to attend clinic can rapidly lead to fatal outcomes.
+* While NAI is not directly applicable, strict vigilance is required for medical neglect.
+* Adolescents (or parents) refusing life-saving immunosuppression, defaulting on mandatory renal monitoring, or failing to attend clinic can rapidly lead to fatal outcomes.
 
 ## 10. Complications & Prognosis
 
@@ -148,10 +168,7 @@ An adolescent presenting with thrombocytopenia must be screened for JSLE. Isolat
 
 ## 11. Examiner's Pearls (High-yield viva questions and common pitfalls)
 
-* Trap: Ignoring a dipstick showing 2+ protein in a teenager presenting with "just a rash."
-* Pearl: Lupus nephritis is often clinically silent initially but is the primary driver of mortality in JSLE. A formal urinalysis is mandatory for every suspected or confirmed JSLE patient.
-* Viva Question: "A JSLE patient comes to the clinic. Her ANA is positive, her Anti-dsDNA has spiked to 5x normal, and her C3 and C4 complement levels are extremely low. What does this serological picture tell you?"
-* Answer: It indicates highly active, flaring systemic disease. The high dsDNA tracks precisely with acute flares (often renal), and the low complement means the immune cascade is currently actively consuming complement proteins in the tissues.
+* Trap: Ignoring a dipstick showing 2+ protein in a teenager presenting with "just a rash." Pearl: Lupus nephritis is often clinically silent initially but is the primary driver of mortality in JSLE. A formal urinalysis is mandatory for every suspected or confirmed JSLE patient.
+* Viva Question: "A JSLE patient comes to the clinic. Her ANA is positive, her Anti-dsDNA has spiked to 5x normal, and her C3 and C4 complement levels are extremely low. What does this serological picture tell you?" Answer: It indicates highly active, flaring systemic disease. The high dsDNA tracks precisely with acute flares (often renal), and the low complement means the immune cascade is currently actively consuming complement proteins in the tissues.
 * Pitfall: Stopping Hydroxychloroquine when the patient achieves clinical remission. Hydroxychloroquine should be continued lifelong in JSLE patients to prevent flare-ups and reduce long-term morbidity, unless specific retinal toxicity develops.
-* Viva Question: What are the primary causes of early versus late mortality in JSLE?
-* Answer: Early mortality is usually driven by severe opportunistic infections (due to intense immunosuppression) or fulminant multi-organ disease (e.g., CNS lupus, rapid renal failure). Late mortality is driven by premature atherosclerotic cardiovascular disease and end-stage renal failure.
+* Viva Question: What are the primary causes of early versus late mortality in JSLE? Answer: Early mortality is usually driven by severe opportunistic infections (due to intense immunosuppression) or fulminant multi-organ disease (e.g., CNS lupus, rapid renal failure). Late mortality is driven by premature atherosclerotic cardiovascular disease and end-stage renal failure.

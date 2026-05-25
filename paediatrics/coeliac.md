@@ -17,6 +17,7 @@
 * Triggers T-cell mediated autoimmune response against intestinal mucosa.
 * **Consequence**: Chronic inflammation → **Villous atrophy** (絨毛萎縮), **crypt hyperplasia**, & **intraepithelial lymphocytosis** (predominantly duodenum).
 * **Result**: Loss of absorptive surface area → profound malabsorption of macro/micronutrients (iron, calcium, folate, fat).
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/925b5700775aa1e24557c52628c83c65.png)
 
 ### Genetics
 * Almost 100% carry **HLA-DQ2** or **HLA-DQ8** genes.
@@ -72,13 +73,13 @@
 
 ## 6. Differential Diagnosis
 ### Common Differentials
-| Category | Conditions |
-| :--- | :--- |
-| **Allergic** | Cow's Milk Protein Allergy (CMPA) |
-| **Infective** | Giardiasis, Post-gastroenteritis syndrome (transient lactose intolerance) |
-| **Inflammatory** | Inflammatory Bowel Disease (Crohn's disease) |
-| **Genetic/Pancreatic**| Cystic Fibrosis (causes malabsorption & **steatorrhoea**) |
-| **Functional** | Toddler's diarrhoea |
+| Category               | Conditions                                                                |
+| :--------------------- | :------------------------------------------------------------------------ |
+| **Allergic**           | Cow's Milk Protein Allergy (CMPA)                                         |
+| **Infective**          | Giardiasis, Post-gastroenteritis syndrome (transient lactose intolerance) |
+| **Inflammatory**       | Inflammatory Bowel Disease (Crohn's disease)                              |
+| **Genetic/Pancreatic** | Cystic Fibrosis (causes malabsorption & **steatorrhoea**)                 |
+| **Functional**         | Toddler's diarrhoea                                                       |
 
 ## 7. Tiered Investigations (Bedside, Bloods, Imaging, Special)
 ### Crucial Prerequisite
