@@ -11,8 +11,9 @@
 
 ### Hong Kong Local Epidemiology
 * **Prevalence:** Major HA/DH public health crisis; ~1 in 5 primary school children in HK are overweight/obese.
-* **Drivers:** * Highly sedentary lifestyle (heavy academic burden, ↑ screen time).
-  * Easy access to calorie-dense, nutrient-poor fast food.
+* **Drivers:**
+	* Highly sedentary lifestyle (heavy academic burden, ↑ screen time).
+	* Easy access to calorie-dense, nutrient-poor fast food.
 
 ## 2. Pathophysiology & Genetics
 
@@ -50,13 +51,13 @@
 ## 5. Discriminatory Features (How to distinguish from similar conditions)
 
 ### Exogenous vs. Endogenous Obesity Comparison
-| Feature | Exogenous (Primary) Obesity | Endogenous (Secondary) Obesity |
-| :--- | :--- | :--- |
-| **Prevalence** | > 95% | < 5% |
-| **Stature** | **TALL** for age (↑ bone age) | **SHORT** for age (↓ or arrested growth) |
-| **Intelligence** | Normal | Often associated with developmental delay / ID |
-| **Puberty** | Normal or Early | Often Delayed (Hypogonadism) |
-| **Dysmorphism** | Absent | Often Present |
+| Feature          | Exogenous (Primary) Obesity   | Endogenous (Secondary) Obesity                 |
+| :--------------- | :---------------------------- | :--------------------------------------------- |
+| **Prevalence**   | > 95%                         | < 5%                                           |
+| **Stature**      | **TALL** for age (↑ bone age) | **SHORT** for age (↓ or arrested growth)       |
+| **Intelligence** | Normal                        | Often associated with developmental delay / ID |
+| **Puberty**      | Normal or Early               | Often Delayed (Hypogonadism)                   |
+| **Dysmorphism**  | Absent                        | Often Present                                  |
 
 ## 6. Differential Diagnosis
 
@@ -66,9 +67,10 @@
 * **Growth Hormone Deficiency:** ↑ truncal fat, ↓ growth velocity.
 
 ### Genetic Syndromes Causing Obesity
-* **Prader-Willi Syndrome (普瑞德威利症候群):** * Severe neonatal hypotonia.
-  * Early childhood hyperphagia (insatiable appetite) → massive obesity.
-  * Short stature, hypogonadism, intellectual disability.
+* **Prader-Willi Syndrome (普瑞德威利症候群):**
+	* Severe neonatal hypotonia.
+	* Early childhood hyperphagia (insatiable appetite) → massive obesity.
+	* Short stature, hypogonadism, intellectual disability.
 * **Bardet-Biedl Syndrome:** Obesity, retinitis pigmentosa, polydactyly, renal dysfunction.
 
 ## 7. Tiered Investigations
@@ -93,18 +95,20 @@
 
 ### First-Line Lifestyle Management (Family-Based)
 * **Primary Goal:** Weight *maintenance* during linear growth (↓ BMI centile as child grows taller), rather than absolute weight loss.
-* **Dietary Modification:** * Eliminate sugary drinks (soda, juice).
-  * Reduce processed fast food.
-  * ↑ Water and vegetable intake.
-  * Strict portion control.
+* **Dietary Modification:**
+	* Eliminate sugary drinks (soda, juice).
+	* Reduce processed fast food.
+	* ↑ Water and vegetable intake.
+	* Strict portion control.
 * **Physical Activity:** ≥ 60 minutes moderate-to-vigorous activity daily.
 * **Screen Time Control:** < 2 hours recreational screen time per day.
 * **Family Engagement:** Crucial → whole household MUST adopt changes.
 
 ### Pharmacological Management Protocols
 * **Indications:** Rarely used in paediatrics; reserved for older adolescents with severe comorbidities failing lifestyle modification.
-* **Agents:** * **Orlistat** (Lipase inhibitor).
-  * **GLP-1 Agonists** (e.g., Liraglutide) (↑ satiety, ↓ gastric emptying).
+* **Agents:**
+	* **Orlistat** (Lipase inhibitor).
+	* **GLP-1 Agonists** (e.g., Liraglutide) (↑ satiety, ↓ gastric emptying).
 
 ### Surgical Management (Bariatric)
 * **Indications:** Extreme, life-threatening obesity with severe complications.
@@ -142,10 +146,8 @@
 
 ## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
 
-* Viva Question: You are examining an obese 8-year-old boy and notice dark, velvety thickening of the skin on the back of his neck. What is this sign called, and what underlying metabolic abnormality does it indicate?
-* Answer: Acanthosis Nigricans. It is a clinical marker of severe insulin resistance.
-* Viva Question: What is the most important physical measurement to help differentiate between simple exogenous obesity and a pathological endocrine cause like Cushing's syndrome?
-* Answer: Height. Exogenous obesity usually presents with tall stature for age, whereas endocrine causes characteristically present with short stature or arrested growth.
+* Viva Question: You are examining an obese 8-year-old boy and notice dark, velvety thickening of the skin on the back of his neck. What is this sign called, and what underlying metabolic abnormality does it indicate? Answer: Acanthosis Nigricans. It is a clinical marker of severe insulin resistance.
+* Viva Question: What is the most important physical measurement to help differentiate between simple exogenous obesity and a pathological endocrine cause like Cushing's syndrome? Answer: Height. Exogenous obesity usually presents with tall stature for age, whereas endocrine causes characteristically present with short stature or arrested growth.
 * Pitfall: Focusing solely on the child's diet and ignoring the family environment. Interventions that do not involve parents changing the household food environment and their own habits are doomed to fail.
 * Trap: Assuming gynaecomastia in an obese prepubertal boy is true glandular tissue.
 * Pearl: It is usually adipomastia (lipomastia). Palpation reveals soft fat without the firm, tender glandular disc of true gynaecomastia.
