@@ -42,6 +42,7 @@
 * Severe progressive **Scoliosis (脊柱側彎)**
 * Highly arched palate with dental crowding
 * Severe joint hypermobility & pes planus (flat feet)
+![image|541](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/70396924e14c78dc7a79d71d9ca675e8.png)
 
 ### Ocular Symptoms & Signs in Marfan Syndrome
 * **Ectopia Lentis (晶狀體異位)**: strictly UPWARD/SUPERIOR & OUTWARD dislocation
@@ -67,13 +68,13 @@
 ## 6. Differential Diagnosis
 
 ### Differential Diagnosis Table for Marfanoid Habitus
-| Condition | Inheritance | Key Distinguishing Features | Ocular Findings |
-| :--- | :--- | :--- | :--- |
-| **Marfan Syndrome** | AD | Aortic root dilation, arm span > height, arachnodactyly | Upward lens subluxation |
-| **Homocystinuria** | AR | Intellectual disability, thrombosis, Marfanoid habitus | Downward lens subluxation |
-| **Loeys-Dietz Syndrome** | AD | Bifid uvula, extreme arterial tortuosity, hypertelorism | Normal lens |
-| **Ehlers-Danlos Syndrome** | AD / AR | Skin hyperelasticity, easy bruising, lacks extreme tall stature | Normal lens |
-| **Klinefelter Syndrome (XXY)**| Sporadic | Hypogonadism, gynecomastia, learning delays, tall | Normal lens |
+| Condition                      | Inheritance | Key Distinguishing Features                                     | Ocular Findings           |
+| :----------------------------- | :---------- | :-------------------------------------------------------------- | :------------------------ |
+| **Marfan Syndrome**            | AD          | Aortic root dilation, arm span > height, arachnodactyly         | Upward lens subluxation   |
+| **Homocystinuria**             | AR          | Intellectual disability, thrombosis, Marfanoid habitus          | Downward lens subluxation |
+| **Loeys-Dietz Syndrome**       | AD          | Bifid uvula, extreme arterial tortuosity, hypertelorism         | Normal lens               |
+| **Ehlers-Danlos Syndrome**     | AD / AR     | Skin hyperelasticity, easy bruising, lacks extreme tall stature | Normal lens               |
+| **Klinefelter Syndrome (XXY)** | Sporadic    | Hypogonadism, gynecomastia, learning delays, tall               | Normal lens               |
 
 ## 7. Tiered Investigations
 
