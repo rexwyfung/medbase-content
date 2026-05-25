@@ -19,6 +19,7 @@
 - **Sunlight**: UV-B converts 7-dehydrocholesterol → **Cholecalciferol (Vitamin D3)** in skin.
 - **Liver**: Hydroxylation → **25-OH Vitamin D (25-OH Vit D)** (main storage form).
 - **Kidney**: 1-alpha-hydroxylation → **1,25-OH2 Vitamin D (1,25-OH2 Vit D)** (active form).
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/5a47a7f194688e5c5648bd9bbbfa89cb.png)
 
 ### Pathological Cascade
 - ↓ **Active Vit D** → ↓ intestinal **Calcium** & **Phosphate (磷酸鹽)** absorption.
@@ -49,6 +50,7 @@
 ### Thoracic Signs
 - **Rachitic rosary (佝僂病串珠)**: Enlarged costochondral junctions feeling like beads.
 - **Harrison's sulcus (哈里森溝)**: Groove at lower margin of thorax caused by diaphragm pulling on soft ribs.
+![image|429](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/6a7d18a4931f070972fbf545b060d9f7.png)
 
 ### Extremity Signs
 - Widened wrists and ankles (expanded epiphyseal plates).
@@ -97,6 +99,7 @@
   - Fraying (邊緣模糊) of metaphyses.
   - Widening of growth plates.
   - Osteopenia.
+![image|204](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/d064cceaf52e502f978b6e9372debe87.png)
 
 ## 8. Management (Acute, Chronic, HA Protocols)
 
@@ -153,10 +156,9 @@
 
 ## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
 
-* Trap: Ordering 1,25-dihydroxyvitamin D to check vitamin D status.
-* Pearl: 1,25-OH Vit D has a short half-life and is artificially elevated by secondary hyperparathyroidism. Always order 25-OH Vitamin D to check body stores.
+* Trap: Ordering 1,25-dihydroxyvitamin D to check vitamin D status. Pearl: 1,25-OH Vit D has a short half-life and is artificially elevated by secondary hyperparathyroidism. Always order 25-OH Vitamin D to check body stores.
 * Viva Question: Why do we test 25-OH Vitamin D instead of the active 1,25-OH form? Answer: Because 1,25-OH Vit D has a very short half-life and is artificially elevated by secondary hyperparathyroidism, making it a terrible marker of body stores. 25-OH Vit D accurately reflects total body reserves.
 * Pitfall: Prescribing high-dose Vitamin D without Calcium replacement. This triggers Hungry Bone Syndrome, leading to profound hypocalcaemia and seizures as healing bone rapidly absorbs serum calcium.
 * Viva Question: What is the earliest radiological sign of healing in rickets? Answer: The appearance of a provisional zone of calcification (a dense white line) at the metaphysis.
-* Trap: Assuming a child with bow legs has rickets.
-* Pearl: Physiological genu varum is normal in toddlers up to age 2. Pathological bowing in rickets is usually associated with other signs (short stature, widened wrists, rosary) and progressive deformity.
+	![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ea423e191182763871ff96835c3a2f78.png)
+* Trap: Assuming a child with bow legs has rickets. Pearl: Physiological genu varum is normal in toddlers up to age 2. Pathological bowing in rickets is usually associated with other signs (short stature, widened wrists, rosary) and progressive deformity.
