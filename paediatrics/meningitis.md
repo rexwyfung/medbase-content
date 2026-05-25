@@ -44,6 +44,7 @@
 * **Nuchal Rigidity (頸部僵硬):** Resistance to passive neck flexion.
 * **Kernig's Sign:** Inability to fully extend knee when hip is flexed at 90° due to pain.
 * **Brudzinski's Sign:** Passive neck flexion → involuntary hip/knee flexion.
+![image|271](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/e292c2afa680879f110544c80370335d.png)
 
 ### "Do Not Miss" Clinical Signs
 * **Non-blanching Rash (不褪色皮疹):** Petechial/purpuric rash. Hallmark of **Meningococcal septicaemia (腦膜炎雙球菌敗血症)**.

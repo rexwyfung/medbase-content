@@ -121,12 +121,8 @@ Treatment is highly risk-stratified based on age, stage (INSS/INRGSS), and MYCN 
 * **Older children (>18 months) with high-risk/MYCN+ disease**: Poor prognosis. Overall survival < 50% despite aggressive therapy. Relapse is typically fatal.
 
 ## 12. Examiner's Pearls (High-yield viva questions and common pitfalls)
-* Viva Question: A 2-year-old presents with weight loss, a nodular abdominal mass crossing the midline, and bilateral periorbital bruising ('raccoon eyes'). What is the most likely diagnosis, and what urine test would confirm it?
-* Answer: Neuroblastoma. Elevated urine VMA and HVA.
-* Viva Question: What is the most important genetic marker for risk stratification in Neuroblastoma?
-* Answer: MYCN amplification. Its presence indicates high-risk, aggressive disease regardless of age or stage.
-* Viva Question: An infant presents with subcutaneous blue nodules and massive hepatomegaly, but is otherwise stable. What is the likely staging and management?
-* Answer: Stage 4S Neuroblastoma. Often managed with observation alone ("watch and wait") as it frequently regresses spontaneously.
-* Trap: Assuming every unilateral abdominal mass in a child is a Wilms tumour without checking for systemic signs.
-* Pearl: Always perform a full physical exam. If the child is systemically unwell (fever, weight loss) and the mass crosses the midline, highly suspect Neuroblastoma.
+* Viva Question: A 2-year-old presents with weight loss, a nodular abdominal mass crossing the midline, and bilateral periorbital bruising ('raccoon eyes'). What is the most likely diagnosis, and what urine test would confirm it? Answer: Neuroblastoma. Elevated urine VMA and HVA.
+* Viva Question: What is the most important genetic marker for risk stratification in Neuroblastoma? Answer: MYCN amplification. Its presence indicates high-risk, aggressive disease regardless of age or stage.
+* Viva Question: An infant presents with subcutaneous blue nodules and massive hepatomegaly, but is otherwise stable. What is the likely staging and management? Answer: Stage 4S Neuroblastoma. Often managed with observation alone ("watch and wait") as it frequently regresses spontaneously.
+* Trap: Assuming every unilateral abdominal mass in a child is a Wilms tumour without checking for systemic signs. Pearl: Always perform a full physical exam. If the child is systemically unwell (fever, weight loss) and the mass crosses the midline, highly suspect Neuroblastoma.
 * Pitfall: Misdiagnosing periorbital ecchymosis in a toddler solely as physical abuse (NAI). Always check for an abdominal mass or systemic signs to rule out orbital metastases from Neuroblastoma.
