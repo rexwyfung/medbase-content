@@ -28,6 +28,7 @@
     * ↓Cortisol → Impaired stress response + ↑ACTH
     * ↓Aldosterone → Mineralocorticoid deficiency → Salt wasting (Na+ loss, K+ retention)
     * ↑ACTH → Drives precursor buildup (↑17-OHP) → Shunted to androgen synthesis pathway → ↑Testosterone → Virilization
+![image|501](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/0c3a657ebc77c92c47b0647ff55f44ce.png)
 
 ## 3. Key Symptoms & Signs
 ### Neonatal Presentation of Salt-Wasting CAH
