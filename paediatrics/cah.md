@@ -87,12 +87,12 @@
 
 ## 5. Differential Diagnosis
 ### Differential Diagnosis of Neonatal Virilization and Vomiting
-| Condition | Pathophysiology | Key Distinctive Features |
-| :--- | :--- | :--- |
-| **21-Hydroxylase CAH** | ↓Cortisol, ↓Aldosterone, ↑Androgens | ↑↑17-OHP, ↑K+, ↓Na+, ambiguous genitalia (XX) |
-| **11β-Hydroxylase CAH** | ↓Cortisol, ↑DOC (mineralocorticoid), ↑Androgens | ↑Blood pressure, ↓K+, ↑Androgens |
-| **Pyloric Stenosis** | Gastric outlet obstruction | Hypochloremic alkalosis, "olive" mass, normal genitalia |
-| **Gastroenteritis** | Infectious diarrhea/vomiting | Normal K+, normal genitalia, infectious contacts |
+| Condition               | Pathophysiology                                 | Key Distinctive Features                                |
+| :---------------------- | :---------------------------------------------- | :------------------------------------------------------ |
+| **21-Hydroxylase CAH**  | ↓Cortisol, ↓Aldosterone, ↑Androgens             | ↑↑17-OHP, ↑K+, ↓Na+, ambiguous genitalia (XX)           |
+| **11β-Hydroxylase CAH** | ↓Cortisol, ↑DOC (mineralocorticoid), ↑Androgens | ↑Blood pressure, ↓K+, ↑Androgens                        |
+| **Pyloric Stenosis**    | Gastric outlet obstruction                      | Hypochloremic alkalosis, "olive" mass, normal genitalia |
+| **Gastroenteritis**     | Infectious diarrhea/vomiting                    | Normal K+, normal genitalia, infectious contacts        |
 
 ### Prader Staging System for Ambiguous Genitalia
 | Stage | Clinical Description |
@@ -102,6 +102,8 @@
 | **Prader III** | Clitoromegaly, single urogenital sinus, complete labial fusion |
 | **Prader IV** | Phallic structure, urogenital sinus at base of phallus, rugated fused labia |
 | **Prader V** | Apparent male penis with penile urethra, empty scrotum (non-palpable testes) |
+
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a63acd18d51c3aec2ebaa9734d500be1.png)
 
 ## 6. Tiered Investigations
 ### First-Line Biochemical Investigations for CAH
