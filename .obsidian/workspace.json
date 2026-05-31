@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "772e6f3565db2834",
+        "id": "b3d4ab81c85c864b",
         "type": "tabs",
         "children": [
           {
-            "id": "b2945a005af586ba",
+            "id": "f42072dac25aa717",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "surgery/urethral_trauma.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "urethral_trauma"
             }
           }
         ]
@@ -180,8 +184,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "b2945a005af586ba",
+  "active": "f42072dac25aa717",
   "lastOpenFiles": [
+    "surgery/urethral_trauma.md",
+    "surgery/renal_cysts.md",
+    "surgery/urolithiasis.md",
+    "surgery/luts.md",
+    "surgery/painless_haematuria.md",
+    "surgery/stoma_related_problems.md",
+    "surgery/diverticular_disease.md",
+    "surgery/anal_cancer.md",
+    "surgery/pilonidal_sinus.md",
+    "surgery/rectal_prolapse.md",
+    "surgery/anorectal_abscess_fistula.md",
+    "surgery/anal_fissure.md",
+    "surgery/hemorrhoids.md",
+    "surgery/rectal_cancer.md",
+    "surgery/colon_cancer.md",
+    "surgery/peritoneum_mesentery.md",
+    "surgery/per_rectal_bleeding.md",
     "surgery/biliary_malignancy.md",
     "surgery/ibd.md",
     "surgery/portal_hypertension.md",
@@ -191,23 +212,6 @@
     "surgery/cholelithiasis.md",
     "surgery/choledocholithiasis_cholangitis.md",
     "surgery/gastric_neoplasms.md",
-    "surgery/benign_gastric.md",
-    "lung_cancer.md",
-    "surgery/benign_oesophageal.md",
-    "surgery/gastritis_pud.md",
-    "surgery/gerd.md",
-    "surgery/oesophageal_cancer.md",
-    "surgery/adrenal_tumours.md",
-    "surgery/men.md",
-    "surgery/thyroid_malignancies.md",
-    "surgery/hyperparathyroidism.md",
-    "surgery/post_thyroidectomy.md",
-    "surgery/thyroid_nodule.md",
-    "surgery/npc.md",
-    "surgery/laryngitis_vocal_cords.md",
-    "surgery/tonsillectomy_bleeding.md",
-    "surgery/tonsillitis_pharyngitis.md",
-    "surgery/epistaxis_sinusitis.md",
     "surgery",
     "paediatrics/Untitled",
     "Logo-white bg.png",
