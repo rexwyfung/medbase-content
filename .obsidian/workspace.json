@@ -4,24 +4,277 @@
     "type": "split",
     "children": [
       {
-        "id": "75b3c58180923980",
+        "id": "28ae142defe3c4df",
         "type": "tabs",
         "children": [
           {
-            "id": "b8a6eb69e5f7c214",
+            "id": "407262a6bfd1a651",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "surgery/metabolic_response.md",
+                "file": "surgery/acute_appendicitis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "metabolic_response"
+              "title": "acute_appendicitis"
+            }
+          },
+          {
+            "id": "f49862ea803df91d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surgery/acute_appendicitis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "acute_appendicitis"
+            }
+          },
+          {
+            "id": "fb73c9a6eb57e17a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surgery/intestinal_obstruction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "intestinal_obstruction"
+            }
+          },
+          {
+            "id": "1788e3984f173a91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surgery/ischaemic_heart_disease.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ischaemic_heart_disease"
+            }
+          },
+          {
+            "id": "a197c238712965a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surgery/pneumothorax_pleural_effusion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pneumothorax_pleural_effusion"
+            }
+          },
+          {
+            "id": "99412904c9d742fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surgery/mediastinal_masses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mediastinal_masses"
+            }
+          },
+          {
+            "id": "0b55b416bddc790c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surgery/chest_trauma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chest_trauma"
+            }
+          },
+          {
+            "id": "fee19559c5264e79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surgery/heart_valve_disease.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "heart_valve_disease"
+            }
+          },
+          {
+            "id": "c086d6b235412992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surgery/pad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pad"
+            }
+          },
+          {
+            "id": "c813dfcea69f5734",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surgery/vascular_emergencies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vascular_emergencies"
+            }
+          },
+          {
+            "id": "034b74221aab3afe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surgery/carotid_stenosis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "carotid_stenosis"
+            }
+          },
+          {
+            "id": "23c5de011e498f80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surgery/aaa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aaa"
+            }
+          },
+          {
+            "id": "8dfe3db09563305a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surgery/pad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pad"
+            }
+          },
+          {
+            "id": "a9a584cdc827e7bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surgery/venous_disorders.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "venous_disorders"
+            }
+          },
+          {
+            "id": "b50877b4fed3c980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "transplant_immunology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "transplant_immunology"
+            }
+          },
+          {
+            "id": "91d53a869241e8b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surgery/venous_disorders.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "venous_disorders"
+            }
+          },
+          {
+            "id": "cec5fad40ab45826",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pancreas_transplant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pancreas_transplant"
+            }
+          },
+          {
+            "id": "5a43489ce529b947",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intestinal_transplant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "intestinal_transplant"
+            }
+          },
+          {
+            "id": "2be2e676f887538c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "transplant_immunology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "transplant_immunology"
             }
           }
-        ]
+        ],
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -183,35 +436,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "b8a6eb69e5f7c214",
+  "active": "2be2e676f887538c",
   "lastOpenFiles": [
-    "surgery/metabolic_response.md",
-    "surgery.md",
+    "surgery/venous_disorders.md",
+    "surgery/thoracic_cardiac_transplant.md",
+    "intestinal_transplant.md",
+    "pancreas_transplant.md",
+    "renal_transplant.md",
+    "transplant_immunology.md",
+    "surgery/aaa.md",
+    "surgery/carotid_stenosis.md",
+    "README.md",
+    "surgery/vascular_emergencies.md",
+    "surgery/varicose_veins.md",
+    "surgery/pad.md",
+    "surgery/heart_valve_disease.md",
+    "surgery/chest_trauma.md",
+    "surgery/mediastinal_masses.md",
+    "surgery/ischaemic_heart_disease.md",
+    "surgery/pneumothorax_pleural_effusion.md",
+    "surgery/intestinal_obstruction.md",
+    "surgery/gastrointestinal_bleeding.md",
+    "surgery/acute_appendicitis.md",
+    "surgery/acute_abdomen.md",
+    "surgery/hernias.md",
+    "surgery/ethics_law.md",
+    "surgery/post_op_comp.md",
+    "surgery/bedside_ultrasound.md",
+    "surgery/surgical_nutrition.md",
     "surgery",
-    "paediatrics/jsle.md",
-    "paediatrics/obesity.md",
-    "paediatrics/cah.md",
-    "paediatrics/rickets.md",
-    "paediatrics/marfan_syndrome.md",
-    "paediatrics/meningitis.md",
-    "paediatrics/neuroblastoma.md",
-    "paediatrics/wilms_tumor.md",
-    "paediatrics/coeliac.md",
-    "paediatrics/acute_epiglottitis.md",
-    "paediatrics/croup.md",
-    "paediatrics/nnj.md",
-    "paediatrics/biliary.md",
-    "paediatrics/bacterial_tracheitis.md",
-    "paediatrics/bpd.md",
-    "paediatrics/cystic_fibrosis.md",
-    "paediatrics/sma.md",
-    "paediatrics/precocious_puberty.md",
-    "paediatrics/nephrotic.md",
-    "paediatrics/complex_chd.md",
-    "paediatrics/heart_failure.md",
-    "paediatrics/hocm.md",
-    "paediatrics/myocarditis.md",
-    "paediatrics/coa.md",
     "paediatrics/Untitled",
     "Logo-white bg.png",
     "Logo.png",
