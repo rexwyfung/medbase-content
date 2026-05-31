@@ -8,8 +8,12 @@
 
 ### Local Epidemiology in Hong Kong (香港本地流行病學)
 * **Ranked #1 Cause of Cancer Mortality** in Hong Kong across both genders.
-* **Incidence Profile**: **Adenocarcinoma** (腺癌) predominant subtype; distinct local high prevalence of **EGFR Mutations** (EGFR基因突變) (~50% of lung adenocarcinoma cases), especially among **Female Non-Smokers** (女性非吸煙者).
-* **Age-Standardized Rates**: Peak incidence noted between 60–70 years; strong etiological association between **Squamous Cell Carcinoma** (鱗狀細胞癌) / **SCLC** and heavy tobacco smoke exposure.
+* **Incidence Profile**:
+	* **Adenocarcinoma** (腺癌) predominant subtype;
+	* Distinct local high prevalence of **EGFR Mutations** (EGFR基因突變) (~50% of lung adenocarcinoma cases), especially among **Female Non-Smokers** (女性非吸煙者).
+* **Age-Standardized Rates**:
+	* Peak incidence noted between 60–70 years;
+	* Strong etiological association between **Squamous Cell Carcinoma** (鱗狀細胞癌) / **SCLC** and heavy tobacco smoke exposure.
 
 
 ## 2. Surgical Anatomy & Pathophysiology
@@ -132,7 +136,7 @@
 * **MRI Brain** (腦部磁共振成像): Indicated for all staging workups of NSCLC (except Stage IA) and SCLC due to high neurotropism; superior to CT for detecting small cortical or leptomeningeal metastases.
 
 ### Pre-operative Cardiorespiratory Reserve Assessment (術前心肺功能評估)
-* **Spirometry** (肺功能本體測試): Quantifies Post-Bronchodilator **Forced Expiratory Volume in 1 Second ($FEV_1$)**.
+* **Spirometry** (肺功能本體測試): Quantifies Post-Bronchodilator **Forced Expiratory Volume in 1 Second (FEV1)**.
   * Predicted post-operative (ppo) FEV1 must be >30% to consider resection safely.
   * Absolute value rule of thumb: FEV1 > 1.5 L required for lobectomy; FEV1 > 2 L required for pneumonectomy.
 * **Diffusing Capacity of the Lung for Carbon Monoxide (DLCO)**: Reflects functional alveolar-capillary membrane area; ppo DLCO must be > 30% to proceed.
@@ -169,7 +173,9 @@
 
 ### Small Cell Lung Cancer Management Protocol (小細胞肺癌治療方案)
 * **Limited-Stage SCLC** (Confined to single radiation port): Managed with combination of **Concurrent Chemoradiotherapy** (Etoposide + Cisplatin/Carboplatin + Thoracic Radiation) followed by **Prophylactic Cranial Irradiation (PCI)** (預防性全腦放療) if complete response achieved.
-* **Extensive-Stage SCLC** (Hematogenous spread present): Mainstay is systemic **Chemo-immunotherapy** (Etoposide + Platinum + Durvalumab/Atezolizumab); surgery has no role except in rare (<1%) clinical Stage I isolated peripheral nodules.
+* **Extensive-Stage SCLC** (Hematogenous spread present):
+	* Mainstay is systemic **Chemo-immunotherapy** (Etoposide + Platinum + Durvalumab/Atezolizumab);
+	* Surgery has no role except in rare (<1%) clinical Stage I isolated peripheral nodules.
 
 
 ## 7. Key Operative Principles & Consent Issues
@@ -212,7 +218,7 @@
 
 ### Immediate Post-operative Monitoring and Chest Drain Management (術後即時監測與胸引流管護理)
 * **Chest Drain Assessment**: Continuously monitor for bubbling in the water seal container. Quantify hourly fluid output volume and color (hemorrhagic vs serosanguinous).
-* **Digital Chest Drainage Systems**: Preferred over traditional analog systems to provide quantitative flow measurement ($\text{mL/min}$) and consistent digital negative suction pressure (regulated at -20 cmH2O).
+* **Digital Chest Drainage Systems**: Preferred over traditional analog systems to provide quantitative flow measurement (mL/min) and consistent digital negative suction pressure (regulated at -20 cmH2O).
 * **Criteria for Chest Tube Removal**:
   * No active air leak detected for >12 hours (flow < 20 mL/min).
   * Total fluid output <200–300 mL over 24 hours.
