@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "2abbddb4567334bb",
+            "id": "3389216291e5b54d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "surgery/pad.md",
+                "file": "surgery/venous_disorders.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pad"
+              "title": "venous_disorders"
             }
           }
         ],
@@ -198,7 +198,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "2abbddb4567334bb",
+  "active": "3389216291e5b54d",
   "lastOpenFiles": [
     "surgery/lung_cancer.md",
     "surgery/pad.md",

@@ -11,9 +11,9 @@
 ### Hong Kong Epidemiology & Occupational Risks
 * **Prevalence:** Affects ~20-30% of HK adult population; F>M
 * **Key HK Risk Factors:** 
-* Prolonged standing occupations (e.g., HK catering/retail staff, nurses, teachers)
-* ↑ Age, multiparity, obesity, +ve family history
-* Prior Deep Vein Thrombosis (DVT) (深層靜脈血栓)
+	* Prolonged standing occupations (e.g., HK catering/retail staff, nurses, teachers)
+	* ↑ Age, multiparity, obesity, +ve family history
+	* Prior Deep Vein Thrombosis (DVT) (深層靜脈血栓)
 
 ## 2. Surgical Anatomy & Pathophysiology
 
@@ -23,10 +23,10 @@
 * **Great Saphenous Vein (GSV) (大隱靜脈):** Arises from medial dorsal venous arch → passes anterior to medial malleolus → ascends medial leg/thigh → joins Common Femoral Vein at **Saphenofemoral Junction (SFJ)**
 * **Small Saphenous Vein (SSV) (小隱靜脈):** Arises from lateral dorsal venous arch → passes posterior to lateral malleolus → ascends posterior calf → joins Popliteal Vein at **Saphenopopliteal Junction (SPJ)**
 * **Perforating Veins:** Connect SVS → DVS (valves permit flow strictly SVS → DVS). Key named perforators:
-* **Hunterian:** Mid-thigh
-* **Dodd's:** Distal thigh
-* **Boyd's:** Below knee (medial)
-* **Cockett's:** Medial lower calf
+	* **Hunterian:** Mid-thigh
+	* **Dodd's:** Distal thigh
+	* **Boyd's:** Below knee (medial)
+	* **Cockett's:** Medial lower calf
 
 ### Pathophysiology of Chronic Venous Hypertension
 * **Primary Cause:** Incompetent venous valves (genetic/structural weakness) or intrinsic vein wall dilation
@@ -75,8 +75,8 @@
 
 ### First-Line & Gold Standard Imaging
 * **Duplex Ultrasound (多普勒超聲波) [Gold Standard]:**
-* *Purpose:* Maps venous anatomy, confirms DVS patency, localizes reflux >0.5s (SVS) or >1.0s (DVS)
-* Must be performed with patient **standing** (maximizes venous distension/reflux)
+	* *Purpose:* Maps venous anatomy, confirms DVS patency, localizes reflux >0.5s (SVS) or >1.0s (DVS)
+	* Must be performed with patient **standing** (maximizes venous distension/reflux)
 * **Ankle-Brachial Pressure Index (ABPI):** Mandatory before applying compression therapy (Exclude PAD; target ABPI >0.8)
 
 ### Pre-operative Laboratory Workup
@@ -94,22 +94,24 @@
 | **C5** | Healed venous ulcer |
 | **C6** | Active venous ulcer |
 
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/af7a531f37d4a9b19014b7a22f4ba7e5.png)
+
 ## 6. Management Algorithm & Surgical Indications (Conservative, Medical, HA Protocols)
 
 ### Hong Kong Hospital Authority (HA) Surgical Indications
 * *Cosmetic varicosities (C1-C2) are typically not prioritized in HK public HA setting.*
 * **Absolute HA Indications:** 
-* Recurrent or refractory venous ulcers (C5-C6)
-* Bleeding from varicosities (medical emergency → elevate + pressure)
-* Recurrent superficial thrombophlebitis
-* Severe progressive skin changes (C4b) threatening ulceration
+	* Recurrent or refractory venous ulcers (C5-C6)
+	* Bleeding from varicosities (medical emergency → elevate + pressure)
+	* Recurrent superficial thrombophlebitis
+	* Severe progressive skin changes (C4b) threatening ulceration
 
 ### Conservative & Medical Management
 * **Lifestyle:** Weight loss, leg elevation when resting, avoid prolonged standing
 * **Graduated Compression Stockings (壓力襪):**
-* 1st line for symptom relief and ulcer healing
-* Prescribe Class II (20-30 mmHg) or Class III (30-40 mmHg)
-* *Contraindication:* ABPI <0.8 (Arterial insufficiency)
+	* 1st line for symptom relief and ulcer healing
+	* Prescribe Class II (20-30 mmHg) or Class III (30-40 mmHg)
+	* *Contraindication:* ABPI <0.8 (Arterial insufficiency)
 * **Wound Care:** Four-layer compression bandaging for active ulcers
 
 ### Surgical & Endovenous Interventions
@@ -129,11 +131,11 @@
 * **Incision:** Groin crease incision (SFJ access)
 * **Junction Identification:** Identify GSV joining Common Femoral Vein
 * **Tributary Ligation:** Must identify and ligate ALL SFJ tributaries to prevent recurrence:
-* Superficial circumflex iliac vein
-* Superficial epigastric vein
-* Superficial external pudendal vein
-* Deep external pudendal vein
-* Anterolateral/Posteromedial thigh veins
+	* Superficial circumflex iliac vein
+	* Superficial epigastric vein
+	* Superficial external pudendal vein
+	* Deep external pudendal vein
+	* Anterolateral/Posteromedial thigh veins
 * **Flush Ligation:** Ligate GSV strictly **flush** with CFV (leaving no stump)
 * **Stripping:** Pass stripper down GSV to just below the knee (avoids saphenous nerve injury). Extract vein
 * **Multiple Phlebectomies:** Stab avulsions of marked varicose tributaries using Oesch hooks
@@ -155,9 +157,9 @@
 ### Discharge & Rehabilitation Criteria
 * **Discharge:** Same-day or Post-Op Day 1 for open surgery; Immediate for EVLA
 * **Post-op Instructions:** 
-* Keep compression bandage intact for 48-72 hours, then transition to stockings for 2-4 weeks
-* Avoid prolonged standing or sitting with legs dependent
-* Shower with waterproof dressings
+	* Keep compression bandage intact for 48-72 hours, then transition to stockings for 2-4 weeks
+	* Avoid prolonged standing or sitting with legs dependent
+	* Shower with waterproof dressings
 
 ## 9. Surgical Complications (Early, Intermediate, Late) & Prognosis
 
@@ -171,7 +173,7 @@
 * **Nerve Injury Manifestation:** Persistent paresthesia/hyperesthesia (Saphenous or Sural territory)
 * **Neovascularization:** Formation of new, incompetent tortuous veins at the SFJ stump
 * **Clinical Recurrence:** 
-* *Causes:* Missed tributaries during high tie, neovascularization, intact mid-thigh perforators, double GSV system, progression of disease
+	* *Causes:* Missed tributaries during high tie, neovascularization, intact mid-thigh perforators, double GSV system, progression of disease
 
 ## 10. Examiner's Pearls (High-yield viva questions and common pitfalls)
 
