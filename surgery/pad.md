@@ -19,6 +19,7 @@
 * **Aortoiliac Segment:** Abdominal Aorta → Common Iliac Artery (CIA) → External Iliac Artery (EIA) & Internal Iliac Artery (IIA).
 * **Femoropopliteal Segment:** EIA crosses inguinal ligament → Common Femoral Artery (CFA) → Profunda Femoris (deep, crucial collateral source) & **Superficial Femoral Artery (SFA) (股淺動脈)** (most common site of occlusion at Hunter’s canal) → Popliteal Artery.
 * **Crural (Infrapopliteal) Segment:** Popliteal → Anterior Tibial (ATA), Posterior Tibial (PTA), Peroneal arteries (highly diseased in DM patients).
+![image|362](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/9d0b35bf18df2d83426bf154a423e2ce.png)
 
 ### Atherosclerotic Pathophysiology
 * **Vessel Wall Injury:** Endothelial dysfunction (shear stress/toxins) → ↑ permeability to LDL.
