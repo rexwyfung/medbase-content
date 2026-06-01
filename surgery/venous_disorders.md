@@ -51,7 +51,7 @@
 * **Lipodermatosclerosis (脂肪皮膚硬化症):** Indurated, fibrotic, "inverted champagne bottle" leg appearance
 * **Atrophie Blanche:** Stellate, ivory-white fibrotic scars with petechiae
 * **Venous Ulcer (靜脈潰瘍):** Shallow, irregular exudative ulcer typically at medial malleolus ("gaiter area")
-![image|257](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/f92d9fadbce7d1b63669f45f478807ec.png)![image|312](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/896ae763b08150af2b82081f3445e9a9.png)
+![image|145](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/f92d9fadbce7d1b63669f45f478807ec.png)![image|189](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/896ae763b08150af2b82081f3445e9a9.png)
 
 
 ### Special Clinical Tests for Venous Incompetence
@@ -59,7 +59,7 @@
 * **Tourniquet Test:** Localizes specific incompetent perforators
 * **Perthes Test:** Assesses DVS patency (if pain ↑ on walking with tourniquet → DVS obstructed)
 * **Tap Test / Cough Impulse Test:** Palpable thrill at SFJ indicating gross incompetence
-![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ec1a3cdf9c42a5b41c5db0b7b3bd033b.png)
+![image|404](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ec1a3cdf9c42a5b41c5db0b7b3bd033b.png)
 
 ## 4. Differential Diagnosis & Discriminatory Features
 
