@@ -7,6 +7,7 @@
 * **Reticular Veins:** Dilated bluish subdermal veins 1-3mm
 * **Telangiectasia (Spider Veins):** Confluent dilated intradermal venules <1mm
 * **Chronic Venous Insufficiency (慢性靜脈功能不全):** Advanced disease stage with skin changes/ulceration 2° to venous hypertension
+![image|456](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/f6da84e7c8e3d116f3ad8823cc2e0a61.png)
 
 ### Hong Kong Epidemiology & Occupational Risks
 * **Prevalence:** Affects ~20-30% of HK adult population; F>M
