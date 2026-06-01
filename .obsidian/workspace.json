@@ -22,34 +22,21 @@
             }
           },
           {
-            "id": "f28b5d905fd3aab1",
+            "id": "1b05099cf67ff6a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "surgery/rpc.md",
+                "file": "surgery/nai_trauma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rpc"
-            }
-          },
-          {
-            "id": "673e0d78c72c22ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "surgery/pancreatic_cancer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "pancreatic_cancer"
+              "title": "nai_trauma"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,34 +199,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "f42072dac25aa717",
+  "active": "1b05099cf67ff6a1",
   "lastOpenFiles": [
-    "surgery/pancreatic_cancer.md",
-    "surgery/rpc.md",
+    "surgery/ingested_foreign_bodies.md",
+    "surgery/nai_trauma.md",
+    "surgery/groin_scrotum_genitalia.md",
+    "surgery/bilious_vomiting.md",
+    "surgery/abdo_pain_childhood.md",
     "surgery/lung_cancer.md",
-    "surgery/urethral_trauma.md",
-    "surgery/renal_cysts.md",
-    "surgery/urolithiasis.md",
-    "surgery/luts.md",
-    "surgery/painless_haematuria.md",
-    "surgery/stoma_related_problems.md",
+    "surgery/congenital_malformations.md",
+    "surgery/neonatal_io.md",
+    "surgery/hydrocephalus_spina_bifida.md",
+    "surgery/breast_cancer.md",
+    "surgery/benign_breast.md",
+    "surgery/dvt.md",
+    "surgery/aortic_disease.md",
     "surgery/diverticular_disease.md",
-    "surgery/anal_cancer.md",
-    "surgery/pilonidal_sinus.md",
-    "surgery/rectal_prolapse.md",
-    "surgery/anorectal_abscess_fistula.md",
-    "surgery/anal_fissure.md",
-    "surgery/hemorrhoids.md",
-    "surgery/rectal_cancer.md",
-    "surgery/colon_cancer.md",
-    "surgery/peritoneum_mesentery.md",
-    "surgery/per_rectal_bleeding.md",
-    "surgery/biliary_malignancy.md",
-    "surgery/ibd.md",
-    "surgery/portal_hypertension.md",
-    "surgery/liver_tumours.md",
-    "surgery/comps_pancreatitis.md",
-    "surgery/acute_pancreatitis.md",
+    "surgery/bxo.md",
+    "surgery/priapism.md",
+    "surgery/urethral_stricture.md",
+    "surgery/prostate_cancer.md",
+    "surgery/bph.md",
+    "surgery/testicular_tumours.md",
+    "surgery/testicular_torsion.md",
+    "surgery/urethral_trauma.md",
+    "surgery/bladder_cancer.md",
+    "surgery/rpc.md",
+    "surgery/renal_cancer.md",
+    "surgery/pancreatic_cancer.md",
     "surgery",
     "paediatrics/Untitled",
     "Logo-white bg.png",
