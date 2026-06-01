@@ -135,6 +135,7 @@
   * Femorodistal bypass (CFA to tibial vessels).
 * **Conduit Choice:** **Autologous Great Saphenous Vein (GSV)** is superior (resists infection, better patency). Synthetic PTFE/Dacron used if GSV unavailable (acceptable above knee, poor below knee).
 * **Endarterectomy:** Physical removal of plaque + intimomedial layer (often CFA endarterectomy).
+![image|563](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/bc3a111bdc707cf904c64b17d7a1324d.png)
 
 ### Pre-operative Surgical Consent
 * **Specific Risks:** Bleeding, wound infection/dehiscence, graft thrombosis/failure, distal embolization.
