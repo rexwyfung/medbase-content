@@ -33,6 +33,13 @@
 * **Consequence:** Rest pain often occurs at night (↓ cardiac output + loss of gravity assistance) → patient hangs foot off bed to ↑ hydrostatic pressure.
 
 ## 3. Key Symptoms & Signs
+### Hallmark Symptoms and Signs
+- **Pain:** Often the first and most severe symptom; a constant ache or cramping that worsens.
+- **Pallor:** The limb becomes pale or marble-white in appearance due to lack of blood flow.
+- **Pulselessness:** Weak or completely absent pulses in the affected limb.
+- **Paresthesia:** Tingling, numbness, or a "pins and needles" sensation.
+- **Paralysis:** Complete loss of muscle movement or weakness in the limb (a late, critical sign).
+- **Poikilothermia / Perishingly cold:** The limb feels significantly colder to the touch compared to the normal limb.
 
 ### Intermittent Claudication (間歇性跛行) Symptoms
 * **Classic Presentation:** Reproducible, cramp-like muscle pain (usually calf/buttock) induced by specific exercise distance (claudication distance).
