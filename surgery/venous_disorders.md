@@ -59,17 +59,19 @@
 * **Tourniquet Test:** Localizes specific incompetent perforators
 * **Perthes Test:** Assesses DVS patency (if pain ↑ on walking with tourniquet → DVS obstructed)
 * **Tap Test / Cough Impulse Test:** Palpable thrill at SFJ indicating gross incompetence
-![image|404](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ec1a3cdf9c42a5b41c5db0b7b3bd033b.png)
+
 
 ## 4. Differential Diagnosis & Discriminatory Features
 
 ### Differentiating Lower Limb Ulcers
-| Feature              | Venous Ulcer (靜脈潰瘍)                   | Arterial Ulcer (動脈潰瘍)                        | Neuropathic Ulcer (神經性潰瘍)                  |
-| :------------------- | :------------------------------------ | :------------------------------------------- | :----------------------------------------- |
-| **Location**         | Medial gaiter area (medial malleolus) | Pressure points, toes, lateral malleolus     | Plantar aspect, metatarsal heads, heel     |
-| **Edge/Base**        | Sloping edge, shallow, exudative      | Punched-out edge, deep, necrotic/pale base   | Deep, surrounded by thick callus           |
-| **Pain**             | Mild/Moderate (relieved by elevation) | Severe, intermittent claudication, rest pain | Painless (loss of protective sensation)    |
-| **Surrounding Skin** | Hemosiderin, lipodermatosclerosis     | Hairless, shiny, cold, absent pulses         | Dry, warm, normal pulses, ↑ arch (Charcot) |
+| Feature              | Arterial Ulcer (動脈潰瘍)                        | Venous Ulcer (靜脈潰瘍)                   | Neuropathic Ulcer (神經性潰瘍)                  |
+| :------------------- | :------------------------------------------- | :------------------------------------ | :----------------------------------------- |
+| **Location**         | Pressure points, toes, lateral malleolus     | Medial gaiter area (medial malleolus) | Plantar aspect, metatarsal heads, heel     |
+| **Edge/Base**        | Punched-out edge, deep, necrotic/pale base   | Sloping edge, shallow, exudative      | Deep, surrounded by thick callus           |
+| **Pain**             | Severe, intermittent claudication, rest pain | Mild/Moderate (relieved by elevation) | Painless (loss of protective sensation)    |
+| **Surrounding Skin** | Hairless, shiny, cold, absent pulses         | Hemosiderin, lipodermatosclerosis     | Dry, warm, normal pulses, ↑ arch (Charcot) |
+
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ebd50a38ec0e8d6c48032bc3a4b99766.png)
 
 ### Differentiating Causes of Leg Swelling
 * **Systemic:**
@@ -154,8 +156,8 @@
 * **General:** Bleeding, hematoma, surgical site infection
 * **Specific:** DVT/PE (<1%), Recurrence (up to 20-30% at 5 years)
 * **Neurological Risks:** 
-* **Saphenous Nerve (隱神經) Injury:** Numbness over medial lower leg/ankle (risk ↑ if stripped below knee)
-* **Sural Nerve (腓腸神經) Injury:** Numbness over lateral foot (risk ↑ in SPJ ligation/SSV stripping)
+	* **Saphenous Nerve (隱神經) Injury:** Numbness over medial lower leg/ankle (risk ↑ if stripped below knee)
+	* **Sural Nerve (腓腸神經) Injury:** Numbness over lateral foot (risk ↑ in SPJ ligation/SSV stripping)
 
 ## 8. Post-operative Care (ERAS) & Rehabilitation
 
@@ -190,8 +192,8 @@
 * Viva Question: What is the most important non-invasive investigation prior to managing a venous ulcer? Answer: Duplex ultrasound to identify venous reflux AND an ABPI to strictly rule out concurrent arterial disease before applying compression.
 * Trap: Prescribing compression stockings immediately for a weeping leg ulcer without checking pulses. Pearl: Always calculate ABPI first. Compression therapy with an ABPI <0.8 can precipitate acute limb ischemia and amputation.
 * Pitfall: Stripping the Great Saphenous Vein all the way down to the medial malleolus. This risks severe injury to the saphenous nerve, which closely accompanies the vein below the knee. Always stop stripping just below the knee.
-* Viva Question: Name the tributaries that must be tied off during an SFJ high tie. Answer: Superficial circumflex iliac, superficial epigastric, superficial external pudendal, deep external pudendal, and the anterolateral/posteromedial veins.
+* Viva Question: Name the tributaries that must be tied off during an SFJ high tie. Answer: Superficial circumflex iliac, superficial epigastric, superficial external pudendal, deep external pudendal, and the anterolateral/posteromedial veins. ![image|366](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/1f140d5fe887413eb5b8f305b59d9606.png)
 * Trap: Discharging a post-varicose vein surgery patient with instructions to rest in bed to heal. Pearl: Prolonged bed rest drastically increases DVT risk. Early ambulation and immediate calf muscle pump activation are mandatory.
 * Pitfall: Confusing the deep femoral vein with the great saphenous vein during groin exploration. Ligation of the deep system causes catastrophic leg edema and venous claudication.
-* Viva Question: What is the defining physical examination finding of Marjolin's ulcer? Answer: Heaped-up, everted edges in a chronic, long-standing non-healing venous ulcer, suggesting malignant transformation into Squamous Cell Carcinoma (SCC).
+* Viva Question: What is the defining physical examination finding of Marjolin's ulcer? Answer: Heaped-up, everted edges in a chronic, long-standing non-healing venous ulcer, suggesting malignant transformation into Squamous Cell Carcinoma (SCC). ![image|312](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/e282d0b2e98cbc7b224535febdbf0e9d.png)
 * Trap: Assuming isolated Short Saphenous Vein (SSV) incompetence has a standard popliteal junction. Pearl: The SPJ anatomy is highly variable; a pre-operative duplex scan must precisely map the junction level to guide the popliteal incision.
