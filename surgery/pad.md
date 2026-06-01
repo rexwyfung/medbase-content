@@ -17,7 +17,7 @@
 
 ### Key Lower Limb Arterial Anatomy
 * **Aortoiliac Segment:** Abdominal Aorta → Common Iliac Artery (CIA) → External Iliac Artery (EIA) & Internal Iliac Artery (IIA).
-* **Femoropopliteal Segment:** EIA crosses inguinal ligament → Common Femoral Artery (CFA) → Profunda Femoris (deep, crucial collateral source) & **Superficial Femoral Artery (SFA) (股淺動脈)** (most common site of occlusion at Hunter’s canal) → Popliteal Artery.
+* **Femoropopliteal Segment:** EIA crosses inguinal ligament → Common Femoral Artery (CFA) → Profunda Femoris (deep, crucial collateral source) & **Superficial Femoral Artery (SFA) (股淺動脈)** (most common site of occlusion at Hunter’s/Adductor canal) → Popliteal Artery.
 * **Crural (Infrapopliteal) Segment:** Popliteal → Anterior Tibial (ATA), Posterior Tibial (PTA), Peroneal arteries (highly diseased in DM patients).
 ![image|362](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/9d0b35bf18df2d83426bf154a423e2ce.png)
 
@@ -60,14 +60,14 @@
 
 ### Vascular vs Neurogenic Claudication Table
 
-| Feature | Vascular Claudication (PAD) | Neurogenic Claudication (Spinal Stenosis) |
-| :--- | :--- | :--- |
-| **Pain Character** | Cramping, tight, aching | Shooting, electric, "heavy legs" |
-| **Onset** | Fixed walking distance | Variable distance, worse standing/extension |
-| **Relief** | Standing still (fast relief, <5 mins) | Sitting or bending forward (slow relief) |
-| **Pulses** | ↓ or Absent | Normal |
-| **Leg Weakness** | Rare | Common (+ve numbness/tingling) |
-| **Shopping Trolley Sign**| -ve (leaning forward doesn't help) | +ve (flexion ↑ spinal canal space) |
+| Feature                   | Vascular Claudication (PAD)           | Neurogenic Claudication (Spinal Stenosis)   |
+| :------------------------ | :------------------------------------ | :------------------------------------------ |
+| **Pain Character**        | Cramping, tight, aching               | Shooting, electric, "heavy legs"            |
+| **Onset**                 | Fixed walking distance                | Variable distance, worse standing/extension |
+| **Relief**                | Standing still (fast relief, <5 mins) | Sitting or bending forward (slow relief)    |
+| **Pulses**                | ↓ or Absent                           | Normal                                      |
+| **Leg Weakness**          | Rare                                  | Common (+ve numbness/tingling)              |
+| **Shopping Trolley Sign** | -ve (leaning forward doesn't help)    | +ve (flexion ↑ spinal canal space)          |
 
 ### Other Key Differential Diagnoses
 * **Venous Claudication:** Deep Vein Thrombosis (DVT) history, "bursting" pain, relieved by leg elevation.
