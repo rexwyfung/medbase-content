@@ -153,6 +153,7 @@
 | **Stage IIIB/C** | Contralateral nodes involved or extensive structural invasion | N3 or extensive              | M0             | Definitive Concurrent Chemoradiotherapy                   |
 | **Stage IV**     | Any T                                                         | Any N                        | M1a/b/c        | Systemic Therapy (Targeted/Immuno/Chemo)                  |
 
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/587ea4aed3a95b5635ec1e9baf840041.png)
 
 ## 6. Management Algorithm & Surgical Indications (Conservative, Medical, HA Protocols)
 
