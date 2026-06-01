@@ -20,13 +20,14 @@
 ### Venous Anatomy of the Lower Limb
 * **Deep Venous System (DVS):** Lies deep to deep fascia; carries 90% of venous return (e.g., Femoral, Popliteal veins)
 * **Superficial Venous System (SVS):** Lies superficial to deep fascia
-* **Great Saphenous Vein (GSV) (大隱靜脈):** Arises from medial dorsal venous arch → passes anterior to medial malleolus → ascends medial leg/thigh → joins Common Femoral Vein at **Saphenofemoral Junction (SFJ)**
-* **Small Saphenous Vein (SSV) (小隱靜脈):** Arises from lateral dorsal venous arch → passes posterior to lateral malleolus → ascends posterior calf → joins Popliteal Vein at **Saphenopopliteal Junction (SPJ)**
+	* **Great Saphenous Vein (GSV) (大隱靜脈):** Arises from medial dorsal venous arch → passes anterior to medial malleolus → ascends medial leg/thigh → joins Common Femoral Vein at **Saphenofemoral Junction (SFJ)**
+	* **Small Saphenous Vein (SSV) (小隱靜脈):** Arises from lateral dorsal venous arch → passes posterior to lateral malleolus → ascends posterior calf → joins Popliteal Vein at **Saphenopopliteal Junction (SPJ)**
 * **Perforating Veins:** Connect SVS → DVS (valves permit flow strictly SVS → DVS). Key named perforators:
 	* **Hunterian:** Mid-thigh
 	* **Dodd's:** Distal thigh
 	* **Boyd's:** Below knee (medial)
 	* **Cockett's:** Medial lower calf
+![image|376](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/2eeae3da39e84089cf9cc67cfefc3764.png)
 
 ### Pathophysiology of Chronic Venous Hypertension
 * **Primary Cause:** Incompetent venous valves (genetic/structural weakness) or intrinsic vein wall dilation
@@ -50,26 +51,35 @@
 * **Lipodermatosclerosis (脂肪皮膚硬化症):** Indurated, fibrotic, "inverted champagne bottle" leg appearance
 * **Atrophie Blanche:** Stellate, ivory-white fibrotic scars with petechiae
 * **Venous Ulcer (靜脈潰瘍):** Shallow, irregular exudative ulcer typically at medial malleolus ("gaiter area")
+![image|257](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/f92d9fadbce7d1b63669f45f478807ec.png)![image|312](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/896ae763b08150af2b82081f3445e9a9.png)
+
 
 ### Special Clinical Tests for Venous Incompetence
 * **Trendelenburg Test:** Differentiates SFJ incompetence vs. perforator incompetence
 * **Tourniquet Test:** Localizes specific incompetent perforators
 * **Perthes Test:** Assesses DVS patency (if pain ↑ on walking with tourniquet → DVS obstructed)
 * **Tap Test / Cough Impulse Test:** Palpable thrill at SFJ indicating gross incompetence
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ec1a3cdf9c42a5b41c5db0b7b3bd033b.png)
 
 ## 4. Differential Diagnosis & Discriminatory Features
 
 ### Differentiating Lower Limb Ulcers
-| Feature | Venous Ulcer (靜脈潰瘍) | Arterial Ulcer (動脈潰瘍) | Neuropathic Ulcer (神經性潰瘍) |
-| :--- | :--- | :--- | :--- |
-| **Location** | Medial gaiter area (medial malleolus) | Pressure points, toes, lateral malleolus | Plantar aspect, metatarsal heads, heel |
-| **Edge/Base** | Sloping edge, shallow, exudative | Punched-out edge, deep, necrotic/pale base | Deep, surrounded by thick callus |
-| **Pain** | Mild/Moderate (relieved by elevation) | Severe, intermittent claudication, rest pain | Painless (loss of protective sensation) |
-| **Surrounding Skin** | Hemosiderin, lipodermatosclerosis | Hairless, shiny, cold, absent pulses | Dry, warm, normal pulses, ↑ arch (Charcot) |
+| Feature              | Venous Ulcer (靜脈潰瘍)                   | Arterial Ulcer (動脈潰瘍)                        | Neuropathic Ulcer (神經性潰瘍)                  |
+| :------------------- | :------------------------------------ | :------------------------------------------- | :----------------------------------------- |
+| **Location**         | Medial gaiter area (medial malleolus) | Pressure points, toes, lateral malleolus     | Plantar aspect, metatarsal heads, heel     |
+| **Edge/Base**        | Sloping edge, shallow, exudative      | Punched-out edge, deep, necrotic/pale base   | Deep, surrounded by thick callus           |
+| **Pain**             | Mild/Moderate (relieved by elevation) | Severe, intermittent claudication, rest pain | Painless (loss of protective sensation)    |
+| **Surrounding Skin** | Hemosiderin, lipodermatosclerosis     | Hairless, shiny, cold, absent pulses         | Dry, warm, normal pulses, ↑ arch (Charcot) |
 
 ### Differentiating Causes of Leg Swelling
-* **Systemic:** Congestive Heart Failure (bilateral, ↑ JVP), Chronic Kidney Disease (proteinuria), Liver Failure (hypoalbuminemia)
-* **Local:** DVT (unilateral, sudden onset, +ve Homan's, ↑ D-dimer), Lymphedema (non-pitting, Stemmer's sign +ve, involves toes), Cellulitis (erythema, warmth, fever)
+* **Systemic:**
+	* Congestive Heart Failure (bilateral, ↑ JVP)
+	* Chronic Kidney Disease (proteinuria)
+	* Liver Failure (hypoalbuminemia)
+* **Local:**
+	* DVT (unilateral, sudden onset, +ve Homan's, ↑ D-dimer)
+	* Lymphedema (non-pitting, Stemmer's sign +ve, involves toes)
+	* Cellulitis (erythema, warmth, fever)
 
 ## 5. Tiered Investigations & Pre-operative Workup (Labs, Imaging, Staging)
 
