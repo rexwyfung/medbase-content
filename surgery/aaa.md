@@ -58,13 +58,15 @@
 ## 5. Tiered Investigations & Pre-operative Workup (Labs, Imaging, Staging)
 
 ### First-Line & Screening Imaging
-* **Ultrasound Abdomen (腹部超聲波)**: **Gold Standard** for screening & surveillance. Highly sensitive/specific, non-invasive, zero radiation
-* Evaluates maximum AP diameter (outer-to-outer wall)
+* **Ultrasound Abdomen (腹部超聲波)**:
+	* **Gold Standard** for screening & surveillance.
+	* Highly sensitive/specific, non-invasive, zero radiation
+	* Evaluates maximum AP diameter (outer-to-outer wall)
 
 ### Definitive Imaging & Pre-operative Planning
 * **CT Aortogram (CTA 主動脈電腦掃描造影)**: Mandatory for operative planning
-* Determines exact size, extent, relationship to renal/iliac arteries (EVAR suitability)
-* **Signs of Impending Rupture on CT**: "Crescent sign" (high-attenuation acute hematoma within thrombus), aortic blebs, focal wall discontinuity
+	* Determines exact size, extent, relationship to renal/iliac arteries (EVAR suitability)
+	* **Signs of Impending Rupture on CT**: "Crescent sign" (high-attenuation acute hematoma within thrombus), aortic blebs, focal wall discontinuity
 ![image|287](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ad6d89ac80176804234401dee41dcb46.png)
 
 ### Pre-operative Baseline & Fitness Workup
