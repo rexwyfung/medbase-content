@@ -104,8 +104,17 @@
 * **Pros/Cons**: Durable, definitive, no endoleaks. BUT ↑ physiological stress, ↑ perioperative mortality/morbidity, larger scar
 
 ### Surgical Consent & Key Risks
-* **General**: Bleeding (massive), Infection, Death (Elective <5%, Ruptured >50%)
-* **Specific**: Cardiac events (MI), Renal failure (due to suprarenal clamping or atheroemboli), Ischemic colitis / Bowel ischemia (ligation of IMA), Lower limb ischemia, Spinal cord ischemia (paraplegia due to Artery of Adamkiewicz involvement), **Endoleak (內漏)** (EVAR only)
+* **General**:
+	* Bleeding (massive)
+	* Infection
+	* Death (Elective <5%, Ruptured >50%)
+* **Specific**:
+	* Cardiac events (MI)
+	* Renal failure (due to suprarenal clamping or atheroemboli)
+	* Ischemic colitis / Bowel ischemia (ligation of IMA)
+	* Lower limb ischemia
+	* Spinal cord ischemia (paraplegia due to Artery of Adamkiewicz involvement)
+	* **Endoleak (內漏)** (EVAR only)
 
 ## 8. Post-operative Care (ERAS) & Rehabilitation
 
@@ -132,13 +141,15 @@
 * **Endoleaks (EVAR only)**: Persistent blood flow outside stent-graft but within aneurysm sac
 
 ### Classification of EVAR Endoleaks (內漏)
-| Type | Mechanism | Severity & Management |
-| :--- | :--- | :--- |
-| **Type I** | Leak at attachment site (1a Proximal, 1b Distal) | **High pressure**. High rupture risk. Needs urgent repair |
-| **Type II** | Retrograde flow from collateral branches (IMA, Lumbar arteries) | **Most common**. Often benign. Observe; embolize if sac expands |
-| **Type III** | Structural failure (graft disconnection, fabric tear) | **High pressure**. Needs urgent repair |
-| **Type IV** | Graft porosity (blood oozes through graft mesh) | Self-limiting. Resolves once coagulation normalizes |
-| **Type V** | Endotension (expanding sac, NO visible leak on CTA) | Continual expansion. May require conversion to open repair |
+| Type         | Mechanism                                                       | Severity & Management                                           |
+| :----------- | :-------------------------------------------------------------- | :-------------------------------------------------------------- |
+| **Type I**   | Leak at attachment site (1a Proximal, 1b Distal)                | **High pressure**. High rupture risk. Needs urgent repair       |
+| **Type II**  | Retrograde flow from collateral branches (IMA, Lumbar arteries) | **Most common**. Often benign. Observe; embolize if sac expands |
+| **Type III** | Structural failure (graft disconnection, fabric tear)           | **High pressure**. Needs urgent repair                          |
+| **Type IV**  | Graft porosity (blood oozes through graft mesh)                 | Self-limiting. Resolves once coagulation normalizes             |
+| **Type V**   | Endotension (expanding sac, NO visible leak on CTA)             | Continual expansion. May require conversion to open repair      |
+
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/c1a600f11d89617019bc457de15f7ffe.png)
 
 ## 10. Examiner's Pearls (High-yield viva questions and common pitfalls)
 * Viva Question: What is Laplace's Law and its relevance to abdominal aortic aneurysms? Answer: Wall tension = (Pressure × Radius) / Wall thickness. It explains why larger AAAs expand faster and have an exponentially increased risk of rupture.
