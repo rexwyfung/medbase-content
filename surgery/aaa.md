@@ -64,6 +64,7 @@
 * **CT Aortogram (CTA 主動脈電腦掃描造影)**: Mandatory for operative planning
 * Determines exact size, extent, relationship to renal/iliac arteries (EVAR suitability)
 * **Signs of Impending Rupture on CT**: "Crescent sign" (high-attenuation acute hematoma within thrombus), aortic blebs, focal wall discontinuity
+![image|287](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ad6d89ac80176804234401dee41dcb46.png)
 
 ### Pre-operative Baseline & Fitness Workup
 * **Bloods**: CBC (baseline Hb), RFT (pre-contrast check), LFT, Coagulation profile, **Group & Screen / Crossmatch (配血) 6 units**
