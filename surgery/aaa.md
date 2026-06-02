@@ -41,7 +41,8 @@
 	* **1. Sudden severe abdominal/back/flank pain (突發劇烈腹痛/背痛)**
 	* **2. Hypotension / Hypovolaemic Shock (低血容量性休克)** (systolic BP <90 mmHg, tachycardia)
 	* **3. Pulsatile abdominal mass (搏動性腹部腫塊)**
-	* **Grey Turner’s Sign (格雷特納徵)** / **Cullen’s Sign**: Flank/periumbilical ecchymosis (late sign of retroperitoneal hemorrhage)
+- **Grey Turner’s Sign (格雷特納徵)** / **Cullen’s Sign**: Flank/periumbilical ecchymosis (late sign of retroperitoneal hemorrhage)
+![image|423](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/b31d8ca7326f26df0f396febec79ed3c.png)
 
 ## 4. Differential Diagnosis & Discriminatory Features
 
