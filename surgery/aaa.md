@@ -79,7 +79,11 @@
 * **Surveillance Protocol**:
 	* 3.0-4.4 cm: Annual US
 	* 4.5-5.4 cm: 3-6 monthly US
-* **Risk Modification**: Strict **Smoking Cessation (戒煙)**, BP control, Statin therapy, Antiplatelet (Aspirin)
+* **Risk Modification**:
+	* Strict **Smoking Cessation (戒煙)**
+	* BP control
+	* Statin therapy
+	* Antiplatelet (Aspirin)
 
 ### Surgical Indications for Elective AAA Repair
 * **Size Criteria**: **>5.5 cm (Males)** or **>5.0 cm (Females)**
