@@ -21,6 +21,7 @@
 * **Aortic bifurcation (Saddle Embolus)**: ~9% → Causes bilateral lower limb ischaemia.
 * **Popliteal trifurcation**: ~15%.
 * **Upper Limb**: Brachial bifurcation (~10%).
+![image|211](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/b18daf48bb3f87e3a298109060cff9c1.png)
 
 ### Pathophysiology of Embolisation and Thrombosis
 * **Cardiogenic Embolism**: Stasis in Left Atrial Appendage (LAA) in AF → clot formation → dislodgement → sudden occlusion of healthy distal artery → poor collateral circulation → profound ischaemia.
@@ -112,12 +113,14 @@
 * **Catheter Insertion**: Fogarty balloon catheter passed proximally (into Iliac) and distally (into SFA/Profunda).
 * **Clot Extraction**: Balloon inflated with saline (not air) past the clot → gently withdrawn to pull clot out.
 * **Completion**: Flushing with heparinised saline; assess back-bleeding and forward flow; consider on-table completion angiogram.
+![image|204](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ba276226e058ff4ef7a57cbf57472506.png)
 
 ### Indications and Technique for Prophylactic Fasciotomy (筋膜切開術)
 * **Indications**: Ischaemia >4-6 hours, delayed reperfusion, severe calf swelling, young patients (tight fascial compartments).
 * **Technique**: Two-incision 4-compartment fasciotomy of the lower leg.
 * **Lateral Incision**: Decompresses Anterior and Lateral compartments.
 * **Medial Incision**: Decompresses Superficial Posterior and Deep Posterior compartments.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ce8846bfbe6f5ad709fdfbf0622746b0.png)
 
 ### Key Surgical Consent Complications
 * Failure to revascularise → Amputation.
@@ -148,7 +151,12 @@
 * **Hyperkalaemia (高鉀血症)** → Peaked T waves, wide QRS, VF/asystole.
 * **Metabolic Acidosis (代謝性酸中毒)** → Myocardial depression.
 * **Myoglobinuria (肌紅蛋白尿)** → Rhabdomyolysis → ATN (Acute Tubular Necrosis) → AKI.
-* **Management**: Aggressive IV hydration, alkalinise urine (Sodium Bicarbonate), IV Calcium Gluconate (cardioprotection), Insulin/Dextrose for K+, continuous renal replacement therapy (CRRT) if refractory.
+* **Management**:
+	* Aggressive IV hydration
+	* Alkalinise urine (Sodium Bicarbonate)
+	* IV Calcium Gluconate (cardioprotection)
+	* Insulin/Dextrose for K+
+	* Continuous renal replacement therapy (CRRT) if refractory.
 
 ### Early: Compartment Syndrome (腔室症候群)
 * Reperfusion → capillary leak → oedema within non-yielding fascial compartments.
@@ -164,7 +172,7 @@
 
 * Viva Question: What is the most reliable clinical sign to differentiate between a viable limb (Category I/IIa) and an immediately threatened limb (Category IIb)? Answer: The presence of sensory loss (numbness/paraesthesia) or motor deficit (weakness) indicates Category IIb and demands immediate surgery.
 * Viva Question: A patient with AF presents with acute limb ischaemia. Why do we immediately prescribe IV Heparin if it does not dissolve the embolus? Answer: It prevents the propagation of secondary secondary in-situ microvascular thrombus distal to the obstruction, preserving the collateral and run-off vessels.
-* Viva Question: What is the classic angiographic finding of an arterial embolus versus in-situ thrombosis? Answer: An embolus shows a sharp, inverted "meniscus sign" in an otherwise normal-looking artery, whereas thrombosis shows diffuse, ragged atherosclerotic disease with rich collaterals.
+* Viva Question: What is the classic angiographic finding of an arterial embolus versus in-situ thrombosis? Answer: An embolus shows a sharp, inverted "meniscus sign" in an otherwise normal-looking artery, whereas thrombosis shows diffuse, ragged atherosclerotic disease with rich collaterals. ![image|552](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/4dbbb839a9fa6730c1c2e5e1fbd92b06.png)
 * Trap: Revascularising a Category III (Irreversible) limb with fixed mottling and rigor mortis of the calf muscles. Pearl: Revascularising dead muscle will cause massive release of potassium and myoglobin, leading to fatal reperfusion syndrome. The correct treatment is primary amputation.
 * Trap: Delaying emergency Fogarty embolectomy in a Category IIb patient to wait for a CT Angiogram. Pearl: If the diagnosis of cardiogenic embolism is clinically obvious and the limb is immediately threatened, proceed directly to the operating theatre. Time is muscle.
 * Pitfall: Forgetting to perform a completion angiogram or assess back-bleeding after extracting an embolus. Residual distal clot or a secondary embolus may still be present in the run-off vessels. Always confirm flow before closing the arteriotomy.

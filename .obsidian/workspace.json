@@ -4,67 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "b3d4ab81c85c864b",
+        "id": "0a6120765d548524",
         "type": "tabs",
         "children": [
           {
-            "id": "f42072dac25aa717",
+            "id": "6c970ca99aaab3c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "surgery/lung_cancer.md",
+                "file": "surgery/vascular_emergencies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lung_cancer"
+              "title": "vascular_emergencies"
             }
           },
           {
-            "id": "3389216291e5b54d",
+            "id": "16fb0fb991d1017a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "surgery/venous_disorders.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "venous_disorders"
-            }
-          },
-          {
-            "id": "6c4421d5cd5e6d53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "surgery/aaa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "aaa"
-            }
-          },
-          {
-            "id": "cb3b95cb3588a707",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "surgery/pad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "pad"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,12 +194,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "cb3b95cb3588a707",
+  "active": "6c970ca99aaab3c3",
   "lastOpenFiles": [
-    "surgery/aaa.md",
+    "surgery/vascular_emergencies.md",
+    "surgery/lung_cancer.md",
     "surgery/venous_disorders.md",
     "surgery/pad.md",
-    "surgery/lung_cancer.md",
+    "surgery/aaa.md",
     "surgery/head_neck_reconstruction.md",
     "surgery/spinal_cord_compression.md",
     "surgery/cns_infection.md",
@@ -254,7 +222,6 @@
     "surgery/ectopic_ovarian_torsion.md",
     "surgery/ingested_foreign_bodies.md",
     "surgery/groin_scrotum_genitalia.md",
-    "surgery/bilious_vomiting.md",
     "surgery",
     "paediatrics/Untitled",
     "Logo-white bg.png",
