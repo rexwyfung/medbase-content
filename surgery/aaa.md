@@ -19,6 +19,7 @@
 * **Anatomical Borders**: From **renal arteries (腎動脈)** superiorly to **aortic bifurcation (主動脈分叉)** (L4 vertebra) inferiorly
 * **Crucial EVAR Landmarks**: Proximal aortic neck (length, angulation, diameter) and iliac artery tortuosity/calcification
 * **Important Neighbouring Structures**: Duodenum (3rd part crosses anteriorly → risk of **aortoenteric fistula (主動脈腸瘻)**), Left renal vein (crosses anteriorly), Inferior Vena Cava (IVC) (lies on the right → risk of aortocaval fistula)
+![image|264](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/26a0f9814e0c65dd56535c741ee5cbe0.png)
 
 ### Pathophysiology of Aneurysmal Dilation
 * **Vessel Wall Degradation**: Driven by ↑ Matrix Metalloproteinases (**MMP**) activity → Destruction of **elastin** & **collagen** in tunica media
@@ -37,10 +38,10 @@
 
 ### Clinical Presentation of Acute Ruptured AAA
 * **Classic Triad (經典三聯症)** (Seen in <50%):
-* **1. Sudden severe abdominal/back/flank pain (突發劇烈腹痛/背痛)**
-* **2. Hypotension / Hypovolaemic Shock (低血容量性休克)** (systolic BP <90 mmHg, tachycardia)
-* **3. Pulsatile abdominal mass (搏動性腹部腫塊)**
-* **Grey Turner’s Sign (格雷特納徵)** / **Cullen’s Sign**: Flank/periumbilical ecchymosis (late sign of retroperitoneal hemorrhage)
+	* **1. Sudden severe abdominal/back/flank pain (突發劇烈腹痛/背痛)**
+	* **2. Hypotension / Hypovolaemic Shock (低血容量性休克)** (systolic BP <90 mmHg, tachycardia)
+	* **3. Pulsatile abdominal mass (搏動性腹部腫塊)**
+	* **Grey Turner’s Sign (格雷特納徵)** / **Cullen’s Sign**: Flank/periumbilical ecchymosis (late sign of retroperitoneal hemorrhage)
 
 ## 4. Differential Diagnosis & Discriminatory Features
 
@@ -74,8 +75,8 @@
 ### Conservative & Medical Management
 * **Indications**: Asymptomatic AAA not meeting surgical threshold
 * **Surveillance Protocol**:
-* 3.0-4.4 cm: Annual US
-* 4.5-5.4 cm: 3-6 monthly US
+	* 3.0-4.4 cm: Annual US
+	* 4.5-5.4 cm: 3-6 monthly US
 * **Risk Modification**: Strict **Smoking Cessation (戒煙)**, BP control, Statin therapy, Antiplatelet (Aspirin)
 
 ### Surgical Indications for Elective AAA Repair

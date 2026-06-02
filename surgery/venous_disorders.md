@@ -97,15 +97,15 @@
 * **Wound Swab:** Only if clinical signs of active ulcer infection
 
 ### CEAP Classification System for Chronic Venous Disease
-| CEAP Class | Clinical Description (C) |
-| :--- | :--- |
-| **C0** | No visible/palpable signs of venous disease |
-| **C1** | Telangiectasias or reticular veins |
-| **C2** | Varicose veins (>3 mm) |
-| **C3** | Edema without skin changes |
+| CEAP Class    | Clinical Description (C)                                                |
+| :------------ | :---------------------------------------------------------------------- |
+| **C0**        | No visible/palpable signs of venous disease                             |
+| **C1**        | Telangiectasias or reticular veins                                      |
+| **C2**        | Varicose veins (>3 mm)                                                  |
+| **C3**        | Edema without skin changes                                              |
 | **C4a / C4b** | Pigmentation, eczema (4a) / Lipodermatosclerosis, atrophie blanche (4b) |
-| **C5** | Healed venous ulcer |
-| **C6** | Active venous ulcer |
+| **C5**        | Healed venous ulcer                                                     |
+| **C6**        | Active venous ulcer                                                     |
 
 ![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/af7a531f37d4a9b19014b7a22f4ba7e5.png)
 
