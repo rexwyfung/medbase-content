@@ -57,7 +57,7 @@
 
 ### Key Clinical Signs on Physical Examination (體格檢查關鍵臨床體徵)
 * **Carotid Bruit (頸動脈雜音):** Auscultated at angle of jaw
-* **Bruit Paradox:** Disappears when stenosis >90% (flow too low to create turbulence)
+	* **Bruit Paradox:** Disappears when stenosis >90% (flow too low to create turbulence)
 * **Fundoscopy:** +ve **Hollenhorst plaques (霍倫霍斯特斑塊)** (cholesterol crystals in retinal arterioles)
 * **Neurological Deficits:** Contralateral upper motor neuron signs (+ve Babinski, hyperreflexia)
 ![image|307](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3a749f76f96a3613758030d23e5abec3.png)
