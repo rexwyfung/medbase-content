@@ -12,11 +12,11 @@
 * **Stroke Burden:** Stroke is 4th leading cause of death in HK
 * **Carotid Contribution:** Extracranial carotid stenosis accounts for ~15-20% of ischemic strokes in HK HA hospitals
 * **Risk Factors (HA Data):**
-* **Hypertension (高血壓)** (Most prevalent)
-* **Diabetes Mellitus (糖尿病)**
-* **Hyperlipidaemia (高脂血症)**
-* **Smoking (吸煙)**
-* **Age:** ↑ incidence in males > 65 years
+	* **Hypertension (高血壓)** (Most prevalent)
+	* **Diabetes Mellitus (糖尿病)**
+	* **Hyperlipidaemia (高脂血症)**
+	* **Smoking (吸煙)**
+	* **Age:** ↑ incidence in males > 65 years
 
 ## 2. Surgical Anatomy & Pathophysiology
 
@@ -25,9 +25,10 @@
 * **Internal Carotid Artery (ICA):** Posterolateral, NO cervical branches, larger bulb
 * **External Carotid Artery (ECA):** Anteromedial, multiple cervical branches (first branch = Superior Thyroid Artery)
 * **Key Adjacent Nerves:**
-* **Hypoglossal Nerve (CN XII) (舌下神經):** Crosses ICA/ECA anteriorly
-* **Vagus Nerve (CN X) (迷走神經):** Lies posterolateral in carotid sheath
-* **Marginal Mandibular Branch of CN VII (面神經下頜緣支):** At risk during high neck incisions
+	* **Hypoglossal Nerve (CN XII) (舌下神經):** Crosses ICA/ECA anteriorly
+	* **Vagus Nerve (CN X) (迷走神經):** Lies posterolateral in carotid sheath
+	* **Marginal Mandibular Branch of CN VII (面神經下頜緣支):** At risk during high neck incisions
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/b30d59863b4c4d5fca60e34c18d604cd.png)
 
 ### Pathophysiology of Atherosclerotic Plaque Formation (動脈粥樣硬化斑塊形成病理生理學)
 * **Hemodynamics:** Carotid bulb has ↑ cross-sectional area → low shear stress & flow reversal
@@ -59,6 +60,7 @@
 * **Bruit Paradox:** Disappears when stenosis >90% (flow too low to create turbulence)
 * **Fundoscopy:** +ve **Hollenhorst plaques (霍倫霍斯特斑塊)** (cholesterol crystals in retinal arterioles)
 * **Neurological Deficits:** Contralateral upper motor neuron signs (+ve Babinski, hyperreflexia)
+![image|307](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3a749f76f96a3613758030d23e5abec3.png)
 
 ## 4. Differential Diagnosis & Discriminatory Features
 
@@ -79,20 +81,22 @@
 | **Coordination** | Normal | Ataxia, Cerebellar signs |
 | **Consciousness** | Usually preserved | Altered / Syncope |
 
+![image|289](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/8a9ece8d7f1845e5a056e4ad9a96058c.png)
+
 ## 5. Tiered Investigations & Pre-operative Workup (Labs, Imaging, Staging)
 
 ### First-Line Imaging for Carotid Stenosis (頸動脈狹窄第一線影像學檢查)
 * **Carotid Duplex Ultrasound (DUS) (頸動脈多普勒超聲):**
-* **Role:** Initial screening & surveillance (non-invasive, bedside)
-* **Measurement:** Peak Systolic Velocity (PSV) ↑ proportionally with stenosis severity
-* **Plaque Morphology:** Identifies echolucent (unstable) vs calcified plaques
+	* **Role:** Initial screening & surveillance (non-invasive, bedside)
+	* **Measurement:** Peak Systolic Velocity (PSV) ↑ proportionally with stenosis severity
+	* **Plaque Morphology:** Identifies echolucent (unstable) vs calcified plaques
 
 ### Confirmatory Imaging & Brain Assessment (確診影像與大腦評估)
 * **CT Angiography (CTA) (電腦斷層血管攝影):**
-* **Role:** Gold standard anatomical roadmap for pre-operative planning
-* **Information:** Accurate stenosis sizing, tandem lesions, aortic arch anatomy
+	* **Role:** Gold standard anatomical roadmap for pre-operative planning
+	* **Information:** Accurate stenosis sizing, tandem lesions, aortic arch anatomy
 * **Brain CT/MRI:**
-* **Role:** Rule out hemorrhage, identify previous silent infarcts, assess collateral circulation
+	* **Role:** Rule out hemorrhage, identify previous silent infarcts, assess collateral circulation
 
 ### Pre-operative Cardiovascular Workup (術前心血管檢查)
 * **ECG:** Rule out silent MI, AF
@@ -108,11 +112,11 @@
 * **Lifestyle:** Smoking cessation, stringent glycemic control
 
 ### Surgical Indications for Symptomatic Carotid Stenosis (有症狀狹窄手術指徵)
-| Stenosis Severity (NASCET) | Management Protocol (HA Guidelines) |
-| :--- | :--- |
-| **70% - 99%** | **Strongly Indicated** for Carotid Endarterectomy (CEA). Maximum benefit. Target surgery <14 days of symptom onset. |
-| **50% - 69%** | **Consider CEA**. Marginal benefit. Dependent on patient age, gender, plaque morphology. |
-| **< 50%** | **Not Indicated**. Medical therapy only. Surgical risk outweighs benefit. |
+| Stenosis Severity (NASCET) | Management Protocol (HA Guidelines)                                                                                 |
+| :------------------------- | :------------------------------------------------------------------------------------------------------------------ |
+| **70% - 99%**              | **Strongly Indicated** for Carotid Endarterectomy (CEA). Maximum benefit. Target surgery <14 days of symptom onset. |
+| **50% - 69%**              | **Consider CEA**. Marginal benefit. Dependent on patient age, gender, plaque morphology.                            |
+| **< 50%**                  | **Not Indicated**. Medical therapy only. Surgical risk outweighs benefit.                                           |
 
 ### Surgical Indications for Asymptomatic Carotid Stenosis (無症狀狹窄手術指徵)
 * **> 70% Stenosis:** Highly selected patients only
@@ -131,6 +135,7 @@
 * **Arteriotomy & Endarterectomy:** Remove atheromatous plaque at correct cleavage plane
 * **Closure:** **Patch angioplasty (補片血管成形術)** (Dacron/Bovine pericardium) to prevent re-stenosis
 * **Flushing:** Flush out air/debris before releasing ICA clamp
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/6fbadb4c3e80b0d3167a4f9333b785e1.png)
 
 ### Carotid Artery Stenting (CAS) Principles (頸動脈支架植入術原則)
 * **Approach:** Endovascular via femoral or radial artery
