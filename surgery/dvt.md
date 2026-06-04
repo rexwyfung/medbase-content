@@ -22,6 +22,7 @@
 * **Popliteal Vein (膕靜脈)**: Formed by confluence of calf veins at lower border of popliteus.
 * **Femoral Vein (股靜脈)**: Continuation of popliteal vein at adductor hiatus. 
 * **Iliac Veins (髂靜脈)**: External iliac joins internal iliac → Common Iliac. Left Common Iliac crossed by Right Common Iliac Artery → risk of May-Thurner Syndrome (Cockett Syndrome).
+![image|343](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/7c4f8bd3b218c4a920b6aa69b6cb5e19.png)![image|246](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/79f832ec11b32e2daa964aa2cdae503b.png)
 
 ## 3. Key Symptoms & Signs
 
@@ -35,6 +36,7 @@
 * **Phlegmasia Cerulea Dolens (疼痛性股藍腫)**: Massive iliofemoral DVT → near-total venous occlusion → severe cyanosis, pain, edema → risk of venous gangrene/amputation. Emergency!
 * **Phlegmasia Alba Dolens (疼痛性股白腫)**: "Milk leg" in pregnancy; severe DVT + arterial spasm → pale, cool, swollen leg.
 * **Homan's Sign**: Calf pain on passive dorsiflexion of foot (Unreliable: low sens/spec; rarely used in HA practice).
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a593f4774095f815946d79bd58580c33.png)
 
 ## 4. Differential Diagnosis & Discriminatory Features
 
