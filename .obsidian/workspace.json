@@ -20,8 +20,107 @@
               "icon": "lucide-file",
               "title": "dvt"
             }
+          },
+          {
+            "id": "a3c7f0da5f2aa519",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surgery/carotid_stenosis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "carotid_stenosis"
+            }
+          },
+          {
+            "id": "e22e0d43856ede66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surgery/aaa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aaa"
+            }
+          },
+          {
+            "id": "7e11decd524ba9a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surgery/aortic_disease.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aortic_disease"
+            }
+          },
+          {
+            "id": "8825aa53a2791741",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surgery/pad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pad"
+            }
+          },
+          {
+            "id": "b2e54f1833cedc28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surgery/vascular_emergencies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vascular_emergencies"
+            }
+          },
+          {
+            "id": "930fb03c9bb29992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surgery/dvt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dvt"
+            }
+          },
+          {
+            "id": "3f7b4410889c79c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surgery/venous_disorders.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "venous_disorders"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -184,14 +283,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "02303e4827163048",
+  "active": "3f7b4410889c79c3",
   "lastOpenFiles": [
-    "surgery/carotid_stenosis.md",
+    "surgery/dvt.md",
     "surgery/vascular_emergencies.md",
+    "surgery/pad.md",
+    "surgery/aortic_disease.md",
+    "surgery/aaa.md",
+    "surgery/carotid_stenosis.md",
     "surgery/lung_cancer.md",
     "surgery/venous_disorders.md",
-    "surgery/pad.md",
-    "surgery/aaa.md",
     "surgery/head_neck_reconstruction.md",
     "surgery/spinal_cord_compression.md",
     "surgery/cns_infection.md",
@@ -210,8 +311,6 @@
     "surgery/ambulatory_surgery.md",
     "surgery/palliative_surgery.md",
     "surgery/nai_trauma.md",
-    "surgery/ectopic_ovarian_torsion.md",
-    "surgery/ingested_foreign_bodies.md",
     "surgery",
     "paediatrics/Untitled",
     "Logo-white bg.png",

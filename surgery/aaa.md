@@ -103,11 +103,16 @@
 ### Endovascular Aneurysm Repair (EVAR 腔內主動脈瘤修復術)
 * **Principle**: Transfemoral insertion of stent-graft to exclude aneurysm sac from systemic pressure
 * **Anatomical Requirements**: Proximal neck length ≥10-15 mm, neck angulation <60°, adequate iliac artery caliber without excessive tortuosity
-* **Pros/Cons**: ↓ perioperative mortality, ↓ LOS, local/regional anesthesia possible. BUT ↑ reintervention rate, requires lifelong surveillance, ↑ risk of endoleaks
+* **Pros/Cons**:
+	* ↓ perioperative mortality, ↓ LOS, local/regional anesthesia possible.
+	* BUT ↑ reintervention rate, requires lifelong surveillance, ↑ risk of endoleaks
 
 ### Open Surgical Repair (OSR 傳統開腹主動脈瘤修復術)
 * **Principle**: Midline laparotomy, systemic heparinization, aortic cross-clamping (infrarenal/suprarenal), sac opened, insertion of synthetic graft (Dacron/PTFE), sac closed over graft
-* **Pros/Cons**: Durable, definitive, no endoleaks. BUT ↑ physiological stress, ↑ perioperative mortality/morbidity, larger scar
+* **Pros/Cons**:
+	* For **Connective Tissue Disease**, **Inflammatory/Mycotic Aneurysm**.
+	* Durable (young patients), definitive, no endoleaks.
+	* BUT ↑ physiological stress, ↑ perioperative mortality/morbidity, larger scar
 
 ### Surgical Consent & Key Risks
 * **General**:

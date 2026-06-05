@@ -52,6 +52,7 @@
 * **Lipodermatosclerosis (脂肪皮膚硬化症):** Indurated, fibrotic, "inverted champagne bottle" leg appearance
 * **Atrophie Blanche:** Stellate, ivory-white fibrotic scars with petechiae
 * **Venous Ulcer (靜脈潰瘍):** Shallow, irregular exudative ulcer typically at medial malleolus ("gaiter area")
+* **Saphenous Varix**: Great saphenous vein becomes abnormally dilated at its junction with the femoral vein in the groin.
 ![image|145](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/f92d9fadbce7d1b63669f45f478807ec.png)![image|189](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/896ae763b08150af2b82081f3445e9a9.png)
 
 

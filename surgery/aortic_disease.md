@@ -54,19 +54,21 @@
 * **ECG**: Crucial to rule out primary AMI. Look for LVH (chronic HTN) or new ischemic changes.
 * **Chest X-Ray (CXR)**: Widened mediastinum (>8cm), abnormal aortic contour, pleural effusion (left-sided).
 * **Arterial Blood Gas (ABG)**: Lactate (indicates mesenteric/limb malperfusion).
+* **Cardiac Enzymes**: Detect active heart muscle damage.
+* **RFT**: Ensures kidneys can safely process the emergency medications and imaging dyes needed for treatment.
 
 ### Definitive Staging Imaging
 * **CTA Aorta (Gold Standard)**: Contrast-enhanced CT from neck to groin. Identifies intimal flap, true vs. false lumen, extent of dissection, and branch vessel involvement.
 * **Bedside TTE/TOE**: Fast assessment for cardiac tamponade, severe AR, or proximal flap in unstable patients. TOE is highly sensitive for Type A.
 
 ### Anatomical Classification Systems
-| System | Subtype | Anatomical Description |
-| :--- | :--- | :--- |
-| **Stanford** | **Type A** | Involves Ascending Aorta (regardless of origin). |
-| **Stanford** | **Type B** | Descending Aorta ONLY (distal to left subclavian artery). |
-| **DeBakey** | **Type I** | Originates in ascending aorta, propagates to at least the arch. |
-| **DeBakey** | **Type II** | Originates in and confined to ascending aorta. |
-| **DeBakey** | **Type III** | Originates in descending aorta (IIIa: thoracic only; IIIb: extends below diaphragm). |
+| System       | Subtype      | Anatomical Description                                                               |
+| :----------- | :----------- | :----------------------------------------------------------------------------------- |
+| **Stanford** | **Type A**   | Involves Ascending Aorta (regardless of origin).                                     |
+| **Stanford** | **Type B**   | Descending Aorta ONLY (distal to left subclavian artery).                            |
+| **DeBakey**  | **Type I**   | Originates in ascending aorta, propagates to at least the arch.                      |
+| **DeBakey**  | **Type II**  | Originates in and confined to ascending aorta.                                       |
+| **DeBakey**  | **Type III** | Originates in descending aorta (IIIa: thoracic only; IIIb: extends below diaphragm). |
 
 ## 6. Management Algorithm & Surgical Indications (Conservative, Medical, HA Protocols)
 
@@ -82,9 +84,9 @@
 * **Stanford Type A**: Absolute surgical emergency. Immediate transfer to cardiothoracic center (e.g., QEH, PWH, QMH).
 * **Stanford Type B (Uncomplicated)**: Strict medical management (ICU/HDU BP control), serial CTA.
 * **Stanford Type B (Complicated)**: Indicates intervention (Endovascular > Open). Complications include:
-  * Rupture / impending rupture (rapid expansion, unremitting pain).
-  * Malperfusion syndrome (visceral, renal, spinal cord, or limb ischemia).
-  * Refractory hypertension.
+	* Rupture / impending rupture (rapid expansion, unremitting pain).
+	* Malperfusion syndrome (visceral, renal, spinal cord, or limb ischemia).
+	* Refractory hypertension.
 
 ## 7. Key Operative Principles & Consent Issues
 
@@ -98,10 +100,12 @@
 * **TEVAR (Thoracic Endovascular Aortic Repair)**: Stent graft deployed over the intimal tear via femoral access.
 * **Goal**: Seal entry tear, depressurize false lumen, redirect flow into true lumen to resolve malperfusion.
 * **Requirement**: Requires adequate proximal and distal landing zones (≥1.5cm).
+![image|489](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/5d9b923809397e0c8a4d9a4bab5d4345.png)
 
 ### Pre-operative Consent Focus
 * **Mortality**: 20-30% perioperative mortality for emergent Type A repair.
 * **Neurological**: Stroke (embolic or hypoperfusion), Paraplegia (spinal cord ischemia).
+* **Vascular**: Retrograde Type A Aortic Dissection.
 * **Renal**: Acute Kidney Injury (AKI) requiring dialysis.
 * **Vocal**: Recurrent laryngeal nerve injury (hoarseness).
 
