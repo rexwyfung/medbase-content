@@ -18,6 +18,7 @@
 * **Layers**: Intima (endothelium), Media (elastic fibers/smooth muscle), Adventitia (connective tissue, contains **vasa vasorum (血管滋養管)**).
 * **Key Landmarks**: Aortic root, sinotubular junction, ascending aorta, aortic arch (brachiocephalic, L CCA, L subclavian), descending thoracic, abdominal aorta.
 * **Ligamentum Arteriosum**: Fixation point at aortic isthmus; highly susceptible to deceleration injury (e.g., RTA).
+![image|369](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/0b34a87fa1b07d2af042ffb0ab41b004.png)![image|239](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/2eae4ec2d6447dba8651f1a5e5da3349.png)![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/c06e7d0d39f74fadc9f599ab5957f9ca.png)
 
 ### Pathophysiology of Dissection
 * **Cystic Medial Necrosis (中膜囊性壞死)**: Degeneration of collagen/elastin → weakening of aortic wall.
@@ -40,26 +41,28 @@
 ## 4. Differential Diagnosis & Discriminatory Features
 
 ### Differential Diagnosis Table
-| Condition | Key Discriminatory Features (Clinical & Inv) |
-| :--- | :--- |
-| **Aortic Dissection** | Tearing back pain, pulse deficit, widened mediastinum, CTA confims false lumen. |
+| Condition                             | Key Discriminatory Features (Clinical & Inv)                                                                          |
+| :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------- |
+| **Aortic Dissection**                 | Tearing back pain, pulse deficit, widened mediastinum, CTA confims false lumen.                                       |
 | **Acute Myocardial Infarction (AMI)** | Crushing chest pain, ECG shows STEMI/NSTEMI, ↑ Troponin. (Note: Dissection can cause RCA occlusion → Inferior STEMI). |
-| **Pulmonary Embolism (PE)** | Pleuritic pain, dyspnea, hypoxia, ↑ D-dimer, CTA Pulmonary shows thrombus. |
-| **Boerhaave Syndrome** | Post-emesis chest pain, subcutaneous emphysema, Mackler's triad. |
-| **Pericarditis** | Positional pain (relieved leaning forward), widespread PR depression/ST elevation on ECG. |
+| **Pulmonary Embolism (PE)**           | Pleuritic pain, dyspnea, hypoxia, ↑ D-dimer, CTA Pulmonary shows thrombus.                                            |
+| **Boerhaave Syndrome**                | Post-emesis chest pain, subcutaneous emphysema, Mackler's triad.                                                      |
+| **Pericarditis**                      | Positional pain (relieved leaning forward), widespread PR depression/ST elevation on ECG.                             |
 
 ## 5. Tiered Investigations & Pre-operative Workup (Labs, Imaging, Staging)
 
 ### First-Line Resuscitation Diagnostics
 * **ECG**: Crucial to rule out primary AMI. Look for LVH (chronic HTN) or new ischemic changes.
+* **Cardiac Enzymes**: Detect active heart muscle damage to rule out AMI.
 * **Chest X-Ray (CXR)**: Widened mediastinum (>8cm), abnormal aortic contour, pleural effusion (left-sided).
 * **Arterial Blood Gas (ABG)**: Lactate (indicates mesenteric/limb malperfusion).
-* **Cardiac Enzymes**: Detect active heart muscle damage.
-* **RFT**: Ensures kidneys can safely process the emergency medications and imaging dyes needed for treatment.
+* **Renal Function Test (RFT)**: Ensures kidneys can safely process the emergency medications and imaging dyes needed for treatment.
 
 ### Definitive Staging Imaging
 * **CTA Aorta (Gold Standard)**: Contrast-enhanced CT from neck to groin. Identifies intimal flap, true vs. false lumen, extent of dissection, and branch vessel involvement.
-* **Bedside TTE/TOE**: Fast assessment for cardiac tamponade, severe AR, or proximal flap in unstable patients. TOE is highly sensitive for Type A.
+* **Bedside TTE/TOE**:
+	* Fast assessment for cardiac tamponade, severe AR, or proximal flap in unstable patients.
+	* Transesophageal Echocardiogram (TOE) is highly sensitive for Type A.
 
 ### Anatomical Classification Systems
 | System       | Subtype      | Anatomical Description                                                               |
@@ -69,6 +72,8 @@
 | **DeBakey**  | **Type I**   | Originates in ascending aorta, propagates to at least the arch.                      |
 | **DeBakey**  | **Type II**  | Originates in and confined to ascending aorta.                                       |
 | **DeBakey**  | **Type III** | Originates in descending aorta (IIIa: thoracic only; IIIb: extends below diaphragm). |
+
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/dd6af5d1aa4b6d91eebfe36fbd56cd57.png)
 
 ## 6. Management Algorithm & Surgical Indications (Conservative, Medical, HA Protocols)
 
@@ -95,6 +100,7 @@
 * **Perfusion**: Cardiopulmonary bypass (CPB). Cannulation typically via Right Axillary Artery or Femoral Artery.
 * **Arrest**: **Deep Hypothermic Circulatory Arrest (DHCA) (深低溫停循環)** at ~20-25°C to protect brain during aortic arch reconstruction.
 * **Procedure**: Excision of intimal tear, replacement of ascending aorta with Dacron graft, ± Aortic Valve resuspension/replacement (Bentall procedure).
+![image|265](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/756aea7ee478f55dd3ae5801fa292d7b.png)
 
 ### TEVAR for Complicated Type B Dissection
 * **TEVAR (Thoracic Endovascular Aortic Repair)**: Stent graft deployed over the intimal tear via femoral access.
@@ -136,8 +142,8 @@
 
 ## 10. Examiner's Pearls (High-yield viva questions and common pitfalls)
 
-* Viva Question: What is the classic CXR finding in an acute aortic dissection? Answer: Widened mediastinum >8cm, loss of aortic knuckle contour, and sometimes a left pleural effusion.
+* Viva Question: What is the classic CXR finding in an acute aortic dissection? Answer: Widened mediastinum >8cm, loss of aortic knuckle contour, and sometimes a left pleural effusion. ![image|308](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/29b14357bb5d86ac0b214b0025eab32c.png)
 * Trap: Prescribing a vasodilator (like GTN or Nitroprusside) as monotherapy for a hypertensive patient with suspected dissection. Pearl: Vasodilators alone cause reflex tachycardia, increasing the dP/dt shear stress on the aortic wall and extending the tear. Always give a rate-limiting agent (β-blocker) first.
 * Pitfall: Misdiagnosing an acute Type A dissection extending into the coronary ostia as a simple primary STEMI. Giving thrombolysis/heparin is a fatal mistake; always consider dissection in a STEMI patient who also has neurological signs, a new diastolic murmur, or an asymmetric pulse before giving anticoagulation.
-* Viva Question: Which branch of the aorta supplies the anterior spinal cord, and what is the consequence of its occlusion during TEVAR or open repair? Answer: The Artery of Adamkiewicz (usually arises T8-L1). Occlusion leads to anterior spinal artery syndrome, presenting as flaccid paraplegia and loss of pain/temperature sensation with preserved proprioception/vibration.
+* Viva Question: Which branch of the aorta supplies the anterior spinal cord, and what is the consequence of its occlusion during TEVAR or open repair? Answer: The Artery of Adamkiewicz (usually arises T8-L1). Occlusion leads to anterior spinal artery syndrome, presenting as flaccid paraplegia and loss of pain/temperature sensation with preserved proprioception/vibration. ![image|359](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/d37f4edd2d0a0ec148a2c8c1d99d15db.png)
 * Trap: Delaying surgery for a Type A dissection to obtain further imaging like MRI. Pearl: A high-quality CTA is sufficient. Type A is a surgical emergency with rapidly rising mortality per hour; immediate transfer to theatre is mandated.

@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -283,8 +283,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "3f7b4410889c79c3",
+  "active": "7e11decd524ba9a2",
   "lastOpenFiles": [
+    "surgery/venous_disorders.md",
     "surgery/dvt.md",
     "surgery/vascular_emergencies.md",
     "surgery/pad.md",
@@ -292,7 +293,6 @@
     "surgery/aaa.md",
     "surgery/carotid_stenosis.md",
     "surgery/lung_cancer.md",
-    "surgery/venous_disorders.md",
     "surgery/head_neck_reconstruction.md",
     "surgery/spinal_cord_compression.md",
     "surgery/cns_infection.md",
