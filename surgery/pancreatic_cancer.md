@@ -153,16 +153,16 @@
 
 ## 9. Surgical Complications (Early, Intermediate, Late) & Prognosis
 
-### Early Post-operative (Days 1–7)
+### Early Post-operative Complications (Days 1–7)
 - **Primary Post-operative Hemorrhage**: Due to technical failure or slippage of surgical clips.
 - **Acute Portal Vein Thrombosis**: Secondary to vascular manipulation or reconstruction.
 
-### Intermediate Post-operative (Days 7–30)
+### Intermediate Post-operative Complications (Days 7–30)
 - **Postoperative Pancreatic Fistula (POPF)**: Manifests as persistent output of amylase-rich fluid, fever, and leukocytosis.
 - **Delayed Gastric Emptying (DGE)**: Inability to tolerate oral intake by postoperative day 14.
 - **Intra-abdominal Abscess**: Secondary to low-grade pancreatic or biliary anastomotic leaks.
 
-### Late Post-operative (Beyond 30 Days)
+### Late Post-operative Complications (>30 Days)
 - **Anastomotic Stricture**: Progressive narrowing of the hepaticojejunostomy leading to recurrent cholangitis or jaundice.
 - **Malabsorption and Cachexia**: Persistent exocrine insufficiency if PERT is under-dosed.
 
