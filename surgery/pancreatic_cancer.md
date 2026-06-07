@@ -106,7 +106,7 @@
 -  For borderline resectable cases, administer **Neoadjuvant Chemotherapy** (FOLFIRINOX protocol) to downstage the tumor, followed by restaging and surgery.
 -  All resected patients receive adjuvant chemotherapy (e.g., **Gemcitabine** or **modified FOLFIRINOX**) within 12 weeks post-surgery if functional status permits.
 
-### Palliative Intent (Unresectable/Metastatic)
+### Management of Palliative Intent (Unresectable/Metastatic)
 -  Decompress biliary obstruction via ERCP-placed **Metallic Stents**.
 -  Manage duodenal obstruction via endoscopic duodenal stenting or surgical **Gastrojejunostomy**.
 -  Aggressive pain control via **Celiac Plexus Neurolysis** and systemic opioids.
