@@ -21,6 +21,7 @@
   * Hepatic Artery (HA): 25% volume, 50% oxygen.
 * **Tumour Vascularisation**: Normal parenchyma relies mainly on PV; HCC relies ≈100% on HA (Basis for arterial embolic therapies).
 * **Venous Drainage**: Right, Middle, and Left Hepatic Veins drain into the Inferior Vena Cava (IVC).
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/f46045c81681f9bf360fecd62ac70c43.png)
 
 ### Pathophysiology of Hepatocellular Carcinoma
 * **HBV Oncogenesis**: HBV DNA integrates into host hepatocyte genome → proto-oncogene activation + tumour suppressor gene inactivation.
@@ -178,7 +179,7 @@
 
 ## 10. Examiner's Pearls (High-yield viva questions and common pitfalls)
 
-* Viva Question: What is the classic imaging hallmark of Hepatocellular Carcinoma on a triphasic CT scan? Answer: Arterial hyperenhancement followed by portal venous and delayed phase washout.
+* Viva Question: What is the classic imaging hallmark of Hepatocellular Carcinoma on a triphasic CT scan? Answer: Arterial hyperenhancement followed by portal venous and delayed phase washout. ![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/011e164d304f883d85db4f067d01a3cd.png)
 * Viva Question: How do we determine if a patient has sufficient liver reserve for a major hepatectomy in Hong Kong? Answer: Child-Pugh Class A with an ICG-R15 clearance of less than 14%.
 * Viva Question: What is the purpose of the Pringle maneuver during a hepatectomy? Answer: To minimise intra-operative bleeding by temporarily occluding the portal triad (hepatic artery and portal vein) within the hepatoduodenal ligament.
 * Trap: Relying solely on normal AFP levels to rule out HCC. Pearl: Up to 30-40% of HCCs are non-AFP secreting; diagnosis must rely on the integration of patient risk factors (HBV) and definitive cross-sectional imaging features.

@@ -10,7 +10,10 @@
 * High local prevalence of **Gallstone Disease (膽石症)** in HK population
 * Endemic history of **Recurrent Pyogenic Cholangitis (RPC) (復發性化膿性膽管炎)** / Oriental Cholangiohepatitis in older demographics
 * RPC linked to parasitic infection by **Clonorchis sinensis (中華肝吸蟲)** → strictures, intrahepatic stones (brown pigment stones), biliary stasis
-* Common isolated pathogens in HA hospitals: **Escherichia coli (大腸桿菌)**, **Klebsiella spp. (克雷伯氏菌)**, **Enterococcus (腸球菌)**
+* Common isolated pathogens in HA hospitals:
+	* **Escherichia coli (大腸桿菌)**
+	* **Klebsiella spp. (克雷伯氏菌)**
+	* **Enterococcus (腸球菌)**
 
 ## 2. Surgical Anatomy & Pathophysiology
 
@@ -19,17 +22,18 @@
 * Normal CBD diameter: <6mm (up to 10mm post-cholecystectomy or in elderly)
 * Blood supply to CBD: Axial branches from **Right Hepatic Artery (右肝動脈)** and **Gastroduodenal Artery (胃十二指腸動脈)**
 * 3 o'clock & 9 o'clock vessels → risk of stricture if stripped excessively during surgery
+![image|324](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/aac7741d8dec5b8f1e56e248aa4a1a4c.png)![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/5bee38c69a4c133cd481d8c1c763c3d8.png)
 
 ### Pathophysiology of Choledocholithiasis
 * **Secondary Stones** (80%): Formed in **Gallbladder (膽囊)** (cholesterol/black pigment) → migrate down via cystic duct
 * **Primary Stones** (20%): Formed *de novo* in biliary tree (brown pigment) → associated with biliary stasis, infection, RPC, altered biliary anatomy (e.g., post-Roux-en-Y)
 
 ### Pathophysiology of Acute Cholangitis
-* 1. Biliary Obstruction (Stones, stricture, tumor, parasites)
-* 2. Biliary Stasis + Bacterial Colonization
-* 3. ↑ Intraductal Pressure (>20 cmH2O)
-* 4. Disruption of cholangiovenous junctions
-* 5. Bacterial translocation into portal and systemic circulation → **Sepsis (敗血症)** / Septic Shock
+1. Biliary Obstruction (Stones, stricture, tumor, parasites)
+2. Biliary Stasis + Bacterial Colonization
+3. ↑ Intraductal Pressure (>20 cmH2O)
+4. Disruption of cholangiovenous junctions
+5. Bacterial translocation into portal and systemic circulation → **Sepsis (敗血症)** / Septic Shock
 
 ## 3. Key Symptoms & Signs
 
