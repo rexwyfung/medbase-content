@@ -101,12 +101,12 @@
 * **Unresectable Disease**: >180° encasement of the SMA or celiac axis; unreconstructible SMV/PV occlusion; distant metastatic disease (M1).
 ![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/758a7d4acebed16ffd1e37894f82893a.png)
 
-### Management of Curative Intent (Resectable/Borderline):
+### Management of Curative Intent (Resectable/Borderline)
 -  Surgical resection is the only curative modality.
 -  For borderline resectable cases, administer **Neoadjuvant Chemotherapy** (FOLFIRINOX protocol) to downstage the tumor, followed by restaging and surgery.
 -  All resected patients receive adjuvant chemotherapy (e.g., **Gemcitabine** or **modified FOLFIRINOX**) within 12 weeks post-surgery if functional status permits.
 
-### Palliative Intent (Unresectable/Metastatic):
+### Palliative Intent (Unresectable/Metastatic)
 -  Decompress biliary obstruction via ERCP-placed **Metallic Stents**.
 -  Manage duodenal obstruction via endoscopic duodenal stenting or surgical **Gastrojejunostomy**.
 -  Aggressive pain control via **Celiac Plexus Neurolysis** and systemic opioids.
