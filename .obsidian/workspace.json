@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "86079ba627acde77",
+            "id": "08b5e2e5da110f18",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "97b5d4bbac2cc1e1",
@@ -199,9 +198,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "86079ba627acde77",
+  "active": "08b5e2e5da110f18",
   "lastOpenFiles": [
     "surgery/choledocholithiasis_cholangitis.md",
+    "surgery/liver_tumours.md",
     "surgery/aaa.md",
     "surgery/aortic_disease.md",
     "surgery/pad.md",
@@ -209,7 +209,6 @@
     "surgery/dvt.md",
     "surgery/venous_disorders.md",
     "surgery/pancreatic_cancer.md",
-    "surgery/liver_tumours.md",
     "surgery/carotid_stenosis.md",
     "surgery/lung_cancer.md",
     "surgery/head_neck_reconstruction.md",

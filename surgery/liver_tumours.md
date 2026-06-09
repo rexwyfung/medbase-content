@@ -22,6 +22,7 @@
 * **Tumour Vascularisation**: Normal parenchyma relies mainly on PV; HCC relies ≈100% on HA (Basis for arterial embolic therapies).
 * **Venous Drainage**: Right, Middle, and Left Hepatic Veins drain into the Inferior Vena Cava (IVC).
 ![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/f46045c81681f9bf360fecd62ac70c43.png)
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/d16ad8f50a845ba9165b61b529f79499.png)
 
 ### Pathophysiology of Hepatocellular Carcinoma
 * **HBV Oncogenesis**: HBV DNA integrates into host hepatocyte genome → proto-oncogene activation + tumour suppressor gene inactivation.
@@ -86,6 +87,21 @@
 | **Encephalopathy**            | None      | Grade I-II                          | Grade III-IV        |
 * *Class A: 5-6 points (Good reserve). Class B: 7-9 points. Class C: 10-15 points (Contraindication to resection).*
 
+### MELD-Na Score (終末期肝病模型)
+- **Purpose**: Predicts 3-month mortality in end-stage liver disease to prioritize and objectively direct organ allocation for Deceased Donor Liver Transplantation (DDLT).
+- **Components**:
+	- Serum **Bilirubin**
+	- **INR**
+	- **Creatinine**
+	- Serum **Sodium (Na)**
+
+### Allocation by MELD-Na Score
+- **Clinical Cut-off**: A MELD score of **$\ge$ 15** is the generally accepted threshold where the long-term survival benefit of a liver transplant outweighs the perioperative mortality risk of the surgery.
+- **HCC Exception Points (額外加分機制)**:
+	- HCC patients frequently have well-compensated liver function (resulting in a low calculated MELD-Na) but face a high risk of dropping off the waitlist due to rapid tumour progression.
+	- Patients meeting specific transplant criteria are granted standard "exception points" to artificially elevate their MELD-Na score and prioritize them on the waitlist.
+- **Bridging Therapy**: TACE, RFA, or SBRT are routinely employed as "bridge-to-transplant" therapies to control tumour growth and prevent waitlist dropout while a patient is queued.
+
 ### Gold Standard Radiological Investigations
 * **Triphasic Contrast CT Liver**: Demonstrates classical arterial enhancement + portal washout.
 * **MRI Liver with Primovist (Gadoxetic acid)**: Superior for detecting small nodules <1cm.
@@ -121,7 +137,8 @@
 
 ### Liver Transplantation Indications
 * Considered when tumours are unresectable but confined to the liver with poor liver reserve (Child-Pugh B/C).
-* **UCSF Criteria**: Solitary tumour ≤6.5 cm, OR ≤3 nodules with largest ≤4.5 cm and total diameter ≤8 cm.
+* **Milan Criteria (米蘭準則)**: Solitary tumour ≤5 cm, OR up to 3 nodules with the largest ≤3 cm; absolutely no macroscopic vascular invasion; no extrahepatic spread.
+* **UCSF Criteria (加州大學三藩市分校準則)**: Solitary tumour ≤6.5 cm, OR ≤3 nodules with largest ≤4.5 cm and total diameter ≤8 cm.
 * Extremely limited by deceased donor pool in HK; Living Donor Liver Transplantation (LDLT) relies on willing/compatible relatives.
 
 ## 7. Key Operative Principles & Consent Issues

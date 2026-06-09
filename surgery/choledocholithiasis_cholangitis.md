@@ -60,14 +60,14 @@
 ## 4. Differential Diagnosis & Discriminatory Features
 
 ### Differential Diagnosis Table for Jaundice and Right Upper Quadrant Pain
-| Condition | Key Discriminatory Features |
-| :--- | :--- |
-| **Choledocholithiasis/Cholangitis** | Charcot's triad, ↑ALP, ↑Bilirubin, CBD dilatation on USG. |
-| **Acute Cholecystitis (急性膽囊炎)** | Murphy's sign +ve, thick GB wall, usually NORMAL bilirubin/ALP. |
-| **Mirizzi Syndrome (米里齊綜合症)** | Gallstone impacted in cystic duct/Hartmann's pouch compressing CBD. |
-| **Cholangiocarcinoma (膽管癌)** | Painless progressive jaundice, palpable mass, weight loss, cachexia. |
+| Condition                            | Key Discriminatory Features                                              |
+| :----------------------------------- | :----------------------------------------------------------------------- |
+| **Choledocholithiasis/Cholangitis**  | Charcot's triad, ↑ALP, ↑Bilirubin, CBD dilatation on USG.                |
+| **Acute Cholecystitis (急性膽囊炎)**      | Murphy's sign +ve, thick GB wall, usually NORMAL bilirubin/ALP.          |
+| **Mirizzi Syndrome (米里齊綜合症)**        | Gallstone impacted in cystic duct/Hartmann's pouch compressing CBD.      |
+| **Cholangiocarcinoma (膽管癌)**         | Painless progressive jaundice, palpable mass, weight loss, cachexia.     |
 | **Periampullary Malignancy (壺腹周圍癌)** | Painless jaundice, Courvoisier's sign (palpable non-tender gallbladder). |
-| **Acute Hepatitis (急性肝炎)** | Extremely high ALT/AST (>1000), viral serology +ve, no CBD dilatation. |
+| **Acute Hepatitis (急性肝炎)**           | Extremely high ALT/AST (>1000), viral serology +ve, no CBD dilatation.   |
 
 ## 5. Tiered Investigations & Pre-operative Workup (Labs, Imaging, Staging)
 
