@@ -28,6 +28,7 @@
 	* **Vagus Nerve** (迷走神經) passes posterior to lung hilum.
 	* **Phrenic Nerve** (膈神經) passes anterior to lung hilum.
 	* **Left Recurrent Laryngeal Nerve** (左喉返神經) loops under aortic arch posterior to ligamentum arteriosum.
+![image|385](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/d7d066b2be1729128f88d12d29958cec.png)![image|263](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/efc6c1cea388a76a63e3782c2d271e82.png)
 
 ### Regional Lymph Node Stations (區域淋巴結分區)
 * Classified by **IASLC Map**: Stations 1–14.
