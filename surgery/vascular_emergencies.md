@@ -100,10 +100,11 @@
 * **Positioning**: Keep limb dependent (head up, legs slightly down); avoid heating pads.
 
 ### Surgical/Interventional Indications
-* **Emergency Fogarty Embolectomy**: 1st line for Category IIb (Cardiogenic Embolus).
 * **Catheter-Directed Thrombolysis (CDT) (導管溶血栓治療)**: Uses tPA/Urokinase. Indicated for Category I/IIa with *In-situ thrombosis* (symptom onset <14 days) and no absolute contraindications (e.g., recent stroke, active bleeding).
-* **Open Bypass/Endarterectomy**: Failed endovascular, complex atherosclerotic disease.
+* **Emergency Fogarty Embolectomy**: 1st line for Category IIb (Cardiogenic Embolus).
 * **Primary Amputation**: Category III (Dead limb) → Revascularising a dead limb causes fatal systemic reperfusion syndrome.
+* **Open Bypass/Endarterectomy**: Failed endovascular, complex atherosclerotic disease.
+
 
 ## 7. Key Operative Principles & Consent Issues
 
