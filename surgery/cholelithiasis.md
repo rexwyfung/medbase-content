@@ -102,7 +102,11 @@
 
 ### Management of Asymptomatic Gallstones
 * **Conservative**: Observation / Reassurance.
-* **Prophylactic Surgery Indications**: Porcelain GB (high cancer risk), Sickle cell disease (difficulty distinguishing crisis vs cholecystitis), immunocompromised, massive gallstones (>3cm).
+* **Prophylactic Surgery Indications**:
+	* Porcelain GB (high cancer risk)
+	* Sickle cell disease (difficulty distinguishing crisis vs cholecystitis)
+	* Immunocompromised
+	* Massive gallstones (>3cm)
 
 ### Management of Symptomatic Gallstones (Biliary Colic)
 * Acute attack: Analgesia (NSAIDs, e.g., Diclofenac), anti-emetics.
