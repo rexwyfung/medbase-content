@@ -51,7 +51,7 @@
 
 ## 5. Tiered Investigations & Pre-operative Workup (Labs, Imaging, Staging)
 
-### First-Line Resuscitation Diagnostics
+### First-Line Investigations During Resuscitation
 * **ECG**: Crucial to rule out primary AMI. Look for LVH (chronic HTN) or new ischemic changes.
 * **Cardiac Enzymes**: Detect active heart muscle damage to rule out AMI.
 * **Chest X-Ray (CXR)**: Widened mediastinum (>8cm), abnormal aortic contour, pleural effusion (left-sided).

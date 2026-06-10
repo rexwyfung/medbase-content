@@ -19,10 +19,10 @@
 * **Langer’s Lines (朗格氏線)**: Natural skin tension lines. Incisions parallel to lines → ↓ tension, optimal cosmesis.
 
 ### Pathophysiology of Wound Healing (傷口癒合)
-* **1. Hemostasis (止血)** (Seconds-Hours): Vasoconstriction, platelet plug, coagulation cascade (fibrin matrix).
-* **2. Inflammation (發炎)** (Days 1-4): Vasodilation, neutrophil & macrophage infiltration (phagocytosis of debris/bacteria).
-* **3. Proliferation (增生)** (Days 4-21): Fibroblast migration (Type III collagen synthesis), angiogenesis, epithelialization.
-* **4. Remodeling (重塑)** (Days 21-1 Year): Type III collagen replaced by Type I collagen → ↑ tensile strength (max 80% of original skin).
+1. **Hemostasis (止血)** (Seconds-Hours): Vasoconstriction, platelet plug, coagulation cascade (fibrin matrix).
+2. **Inflammation (發炎)** (Days 1-4): Vasodilation, neutrophil & macrophage infiltration (phagocytosis of debris/bacteria).
+3. **Proliferation (增生)** (Days 4-21): Fibroblast migration (Type III collagen synthesis), angiogenesis, epithelialization.
+4. **Remodeling (重塑)** (Days 21-1 Year): Type III collagen replaced by Type I collagen → ↑ tensile strength (max 80% of original skin).
 
 ## 3. Key Symptoms & Signs
 ### Signs of a Healthy Healing Wound
