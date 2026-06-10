@@ -18,10 +18,11 @@
 ### Surgical Anatomy of the Hepatocystic Triangle (Calot's Triangle)
 * **Calot's Triangle (卡洛氏三角)** is the critical landmark for surgical dissection to avoid **Bile Duct Injury (BDI)**.
 * Boundaries of the modern Hepatocystic Triangle:
-* Medial: **Common Hepatic Duct (肝總管)** (CHD)
-* Lateral: **Cystic Duct (膽囊管)**
-* Superior: **Inferior surface of the liver (肝臟下緣)**
+	* Medial: **Common Hepatic Duct (肝總管)** (CHD)
+	* Lateral: **Cystic Duct (膽囊管)**
+	* Superior: **Inferior surface of the liver (肝臟下緣)**
 * Contents: **Cystic artery (膽囊動脈)**, Lund's node (often enlarged in cholecystitis), lymphatics.
+![image|253](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/25ee730d2e98e63cd424ee457270ffac.png)
 
 ### Pathophysiology of Gallstone Formation
 * **Cholesterol Supersaturation**: Liver secretes ↑ cholesterol / ↓ bile salts.
@@ -80,17 +81,17 @@
 ### Routine Blood Tests for Gallstone Disease
 * **CBC**: ↑ WBC with left shift in acute cholecystitis / cholangitis.
 * **LFT (Liver Function Test)**:
-* Normal in simple biliary colic / acute cholecystitis.
-* ↑ Bilirubin, ↑ ALP, ↑ GGT suggests biliary obstruction (Choledocholithiasis).
+	* Normal in simple biliary colic / acute cholecystitis.
+	* ↑ Bilirubin, ↑ ALP, ↑ GGT suggests biliary obstruction (Choledocholithiasis).
 * **Amylase / Lipase**: Rule out gallstone pancreatitis.
 * **Clotting profile (PT/INR)**: Essential pre-op, may be deranged if prolonged biliary obstruction (↓ Vitamin K absorption).
 
 ### First-Line Imaging for Gallstone Disease
 * **Transabdominal Ultrasound (USG Hepatobiliary) (超聲波)**:
-* **Gold standard** and 1st line.
-* Finds stones (echogenic foci with posterior acoustic shadowing).
-* Signs of Acute Cholecystitis: GB wall thickening (>3mm), pericholecystic fluid, sonographic Murphy's sign +ve.
-* Measures CBD diameter (normal <6mm, >8mm highly suggestive of obstruction).
+	* **Gold standard** and 1st line.
+	* Finds stones (echogenic foci with posterior acoustic shadowing).
+	* Signs of Acute Cholecystitis: GB wall thickening (>3mm), pericholecystic fluid, sonographic Murphy's sign +ve.
+	* Measures CBD diameter (normal <6mm, >8mm highly suggestive of obstruction).
 
 ### Advanced Imaging for Suspected CBD Stones
 * **MRCP (Magnetic Resonance Cholangiopancreatography)**: Non-invasive, highly sensitive for detecting CBD stones.
@@ -112,9 +113,9 @@
 * **Resuscitation**: NBM, IV fluids.
 * **Antibiotics**: IV broad-spectrum (e.g., Augmentin / Cefuroxime + Metronidazole per local HA antibiogram).
 * **Surgical Strategy (Tokyo Guidelines compliant)**:
-* **Early Laparoscopic Cholecystectomy**: Within 72 hours (up to 1 week) of symptom onset is the standard of care in HA hospitals.
-* **Delayed / Interval Cholecystectomy**: If patient presents late (>1 week) with severe inflammation/phlegmon, treat with IV Abx, discharge, and perform surgery at 6-8 weeks.
-* **High-Risk / Unfit Patients (Severe Sepsis, poor ASA)**: **Percutaneous Transhepatic Gallbladder Drainage (PTGBD) (經皮穿肝膽囊引流術)** under local anesthesia to decompress GB, followed by delayed surgery or observation.
+	* **Early Laparoscopic Cholecystectomy**: Within 72 hours (up to 1 week) of symptom onset is the standard of care in HA hospitals.
+	* **Delayed / Interval Cholecystectomy**: If patient presents late (>1 week) with severe inflammation/phlegmon, treat with IV Abx, discharge, and perform surgery at 6-8 weeks.
+	* **High-Risk / Unfit Patients (Severe Sepsis, poor ASA)**: **Percutaneous Transhepatic Gallbladder Drainage (PTGBD) (經皮穿肝膽囊引流術)** under local anesthesia to decompress GB, followed by delayed surgery or observation.
 
 ### Management of Choledocholithiasis (CBD Stones)
 * **Two-stage approach (Most common in HK)**: Pre-operative **ERCP** with sphincterotomy & stone extraction, followed by Elective Laparoscopic Cholecystectomy.
@@ -125,9 +126,10 @@
 ### Critical View of Safety (CVS) in Laparoscopic Cholecystectomy
 * Mandatory technique to unequivocally identify the cystic structures and prevent **Bile Duct Injury (BDI)**.
 * The 3 criteria for CVS:
-* Hepatocystic triangle is cleared of all fat and fibrous tissue.
-* The lower one-third of the GB is separated from the cystic plate (liver bed).
-* **Two and only two** structures are seen entering the GB (Cystic duct and Cystic artery).
+	* Hepatocystic triangle is cleared of all fat and fibrous tissue.
+	* The lower one-third of the GB is separated from the cystic plate (liver bed).
+	* **Two and only two** structures are seen entering the GB (Cystic duct and Cystic artery).\
+![image|422](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/d46a392a463b94c459106b0d08ae2161.png)
 
 ### Key Operative Steps of Laparoscopic Cholecystectomy
 * General Anesthesia, supine position (often French position with surgeon between legs or American position on patient's left).
@@ -144,10 +146,10 @@
 ### Informed Consent for Laparoscopic Cholecystectomy
 * **General risks**: Bleeding, infection, DVT/PE, risks of GA.
 * **Specific risks**:
-* **Bile Duct Injury (0.2-0.5%)**: Major complication, may require hepaticojejunostomy.
-* Bile leak (from cystic duct stump or ducts of Luschka).
-* Bowel/vascular injury during port insertion.
-* Retained CBD stones.
+	* **Bile Duct Injury (0.2-0.5%)**: Major complication, may require hepaticojejunostomy.
+	* Bile leak (from cystic duct stump or ducts of Luschka).
+	* Bowel/vascular injury during port insertion.
+	* Retained CBD stones.
 * Conversion to **Open Cholecystectomy (傳統開腹膽囊切除術)**: ~5% (higher in acute cholecystitis, previous abdominal surgery, male sex).
 
 ## 8. Post-operative Care (ERAS) & Rehabilitation
@@ -180,6 +182,6 @@
 * Viva Question: What is the most common organism cultured in bile in acute cholecystitis or cholangitis in Hong Kong? Answer: E. coli, followed by Klebsiella and Enterococcus.
 * Trap: Ordering an MRCP for every patient with gallstones. Pearl: MRCP is strictly indicated ONLY if there is biochemical (deranged LFTs, specifically ↑ ALP/GGT/Bilirubin) or sonographic (dilated CBD) suspicion of concurrent choledocholithiasis.
 * Pitfall: Rushing to clip structures in severe acute cholecystitis when anatomy is obscured. If the Critical View of Safety cannot be achieved, perform a subtotal cholecystectomy or convert to an open procedure to avoid devastating Bile Duct Injury (BDI).
-* Viva Question: What are the ultrasound criteria for diagnosing acute cholecystitis? Answer: Gallbladder wall thickening > 3mm, pericholecystic fluid, sonographic Murphy's sign, and the presence of stones/sludge.
+* Viva Question: What are the ultrasound criteria for diagnosing acute cholecystitis? Answer: Gallbladder wall thickening > 3mm, pericholecystic fluid, sonographic Murphy's sign, and the presence of stones/sludge. ![image|405](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/1d4450b45178f4977a782c018459a63f.png)
 * Trap: Assuming prophylactic cholecystectomy is needed for diabetic patients with asymptomatic gallstones. Pearl: Current guidelines do not support prophylactic surgery in diabetics unless they develop biliary symptoms; conservative management is standard.
 * Pitfall: Delaying surgery for acute cholecystitis beyond 1 week. Attempting surgery in the 2nd to 6th week is dangerous due to maximal tissue friability and hypervascular adhesions (phlegmon). If delayed > 7 days, cool down with antibiotics and operate electively at 6-8 weeks.
