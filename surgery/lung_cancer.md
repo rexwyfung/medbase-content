@@ -41,6 +41,7 @@
 * **N3 Nodes**:
 	* Contralateral mediastinal, contralateral hilar, or supraclavicular nodes;
 	* Constitutes inoperable disease status.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/f6118cea1621b039e286a171faaec2bd.png)
 
 ### Molecular Pathogenesis and Histological Subtypes (組織學亞型與分子發病機制)
 * **Adenocarcinoma**:
