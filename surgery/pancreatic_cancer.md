@@ -111,6 +111,7 @@
 -  Manage duodenal obstruction via endoscopic duodenal stenting or surgical **Gastrojejunostomy**.
 -  Aggressive pain control via **Celiac Plexus Neurolysis** and systemic opioids.
 -  Palliative chemotherapy to prolong survival.
+![image|379](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a2455d774f3a579b51934f7d9916d001.png)
 
 
 ## 7. Key Operative Principles & Consent Issues
