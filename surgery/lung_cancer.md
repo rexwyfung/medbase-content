@@ -52,6 +52,11 @@
 	* Originates from bronchial epithelium via squamous metaplasia;
 	* Characterized by **TP53 mutations**, **FGFR1 amplification**;
 	* High tendency for central necrosis and cavitation.
+* **Large Cell Carcinoma**:
+	* Peripheral distribution;
+	* Undifferentiated non-small cell carcinoma;
+	* Heterogeneous molecular profile (frequently harbors **TP53** or **KRAS mutations**, but typically lacks the specific targetable driver mutations seen in adenocarcinoma);
+	- Rapid growth rate with early metastasis and poor prognosis.
 * **Small Cell Lung Cancer**:
 	* Central origin;
 	* Highly neuroendocrine differentiation
