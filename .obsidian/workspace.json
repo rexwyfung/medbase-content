@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,10 +236,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "05842b612e58e187",
+  "active": "08b5e2e5da110f18",
   "lastOpenFiles": [
-    "surgery/cholelithiasis.md",
     "surgery/pancreatic_cancer.md",
+    "surgery/cholelithiasis.md",
     "surgery/basic_surgical_skills.md",
     "surgery/aortic_disease.md",
     "surgery/lung_cancer.md",

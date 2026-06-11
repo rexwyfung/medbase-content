@@ -96,7 +96,7 @@
 	- Serum **Sodium (Na)**
 
 ### Allocation by MELD-Na Score
-- **Clinical Cut-off**: A MELD score of **$\ge$ 15** is the generally accepted threshold where the long-term survival benefit of a liver transplant outweighs the perioperative mortality risk of the surgery.
+- **Clinical Cut-off**: A MELD score of **≥15** is the generally accepted threshold where the long-term survival benefit of a liver transplant outweighs the perioperative mortality risk of the surgery.
 - **HCC Exception Points (額外加分機制)**:
 	- HCC patients frequently have well-compensated liver function (resulting in a low calculated MELD-Na) but face a high risk of dropping off the waitlist due to rapid tumour progression.
 	- Patients meeting specific transplant criteria are granted standard "exception points" to artificially elevate their MELD-Na score and prioritize them on the waitlist.
