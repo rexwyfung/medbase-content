@@ -38,6 +38,7 @@
 | **Embryology**        | Midgut                                           | Hindgut                                                |
 | **Gross Morphology**  | Exophytic, fungating, cauliflower-like masses    | Endophytic, infiltrating, annular "apple-core" lesions |
 | **Primary Mechanism** | Microsatellite Instability (MSI), BRAF mutations | Chromosomal Instability (CIN), KRAS mutations          |
+
 ![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/8bde31e49cde062409974d7aea142548.png)
 
 ## 3. Key Symptoms & Signs
