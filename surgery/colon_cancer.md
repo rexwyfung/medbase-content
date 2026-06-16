@@ -69,7 +69,7 @@
 
 ### Tier 1: Bedside & Baseline Laboratory Tests
 * **Digital Rectal Examination (DRE, 直腸指檢)**: To rule out synchronous low rectal lesions and assess pelvic floor floor integrity.
-* **Complete Blood Count (CBC)**: Confirms microcytic, hypochromic anaemia ($\downarrow$ Hb, $\downarrow$ MCV).
+* **Complete Blood Count (CBC)**: Confirms microcytic, hypochromic anaemia (↓ Hb, ↓ MCV).
 * **Renal Function Tests & Electrolytes**: Baseline assessment prior to major fluid shifts and IV contrast CT.
 * **Liver Function Tests (LFTs)**: ↑ Alkaline Phosphatase (ALP) or transaminases raises suspicion for hepatic metastases.
 * **Carcinoembryonic Antigen (CEA, 癌胚抗原)**: Baseline serum levels; **not used for screening** due to low sensitivity, but vital for post-operative surveillance and detecting recurrence.
@@ -97,10 +97,13 @@
 
 ### Stage IV Metastatic Disease Management
 * **Resectable Liver/Lung Metastases**: Synchronous or staged resection of primary tumor + metastasectomy offers curative intent.
-* **Unresectable Metastases**: Primary **Palliative Chemotherapy** $\pm$ targeted biologic therapy (**Cetuximab** for KRAS wild-type; **Bevacizumab** for mutated KRAS) based on institutional multidisciplinary team (MDT) protocols.
+* **Unresectable Metastases**: Primary **Palliative Chemotherapy** ± targeted biologic therapy (**Cetuximab** for KRAS wild-type; **Bevacizumab** for mutated KRAS) based on institutional multidisciplinary team (MDT) protocols.
 
 ### Acute Emergency Management (Obstructed/Perforated Colon Cancer)
-* **Emergency Surgical Indications**: Complete mechanical bowel obstruction, toxic megacolon, fecal peritonitis due to tumor perforation.
+* **Emergency Surgical Indications**:
+  * Complete mechanical bowel obstruction.
+  * Toxic megacolon.
+  * Fecal peritonitis due to tumor perforation.
 * **Obstructing Left-Sided Cancer Options**:
   * **Emergency Hartmann's Procedure** (resection of tumor + end colostomy).
   * **Endoscopic Colonic Stenting (Self-Expanding Metal Stent, SEMS)**: Used as a bridge to elective surgery (allows resuscitation and staging) or for palliation.
@@ -158,7 +161,9 @@
 
 ### Prognostic Indicators
 * Driven by **pathological stage at presentation** (Stage I 5-year survival >90%; Stage IV 5-year survival <15%).
-* Adverse molecular indicators: **BRAF V600E mutation** confers poor prognosis; **Proficient Mismatch Repair (pMMR) / Microsatellite Stable (MSS)** tumors have worse prognosis relative to Stage II MSI-high tumors.
+* Adverse molecular indicators:
+	* **BRAF V600E mutation** confers poor prognosis;
+	* **Proficient Mismatch Repair (pMMR) / Microsatellite Stable (MSS)** tumors have worse prognosis relative to Stage II MSI-high tumors.
 
 
 ## 10. Examiner's Pearls (High-yield viva questions and common pitfalls)
