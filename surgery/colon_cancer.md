@@ -88,6 +88,7 @@
 | **Stage III** | Any T                                                     | N1 (1–3 nodes) or N2 (≥4 nodes) | M0 (none)                                  |
 | **Stage IV**  | Any T                                                     | Any N                           | M1 (distant metastasis, e.g., liver, lung) |
 
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/4cb40511b28f041b809d83db68a3078c.png)
 
 ## 6. Management Algorithm & Surgical Indications (Conservative, Medical, HA Protocols)
 
