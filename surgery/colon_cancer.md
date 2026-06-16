@@ -18,24 +18,27 @@
 * **Midgut derivatives**: Cecum to proximal 2/3 of transverse colon; supplied by **Superior Mesenteric Arteries (SMA, 上腸系膜動脈)** via **Ileocolic**, **Right Colic**, and **Middle Colic** arteries.
 * **Hindgut derivatives**: Distal 1/3 of transverse colon to upper anal canal; supplied by **Inferior Mesenteric Arteries (IMA, 下腸系膜動脈)** via **Left Colic**, **Sigmoid**, and **Superior Rectal** arteries.
 * **Marginal Artery of Drummond**: Anastomotic arcade along inner border of colon; critical collateral pathway but vulnerable to ischemia at Griffith's point (splenic flexure).
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3784d55d8b1ffab1485527b5fd6a9de8.png)
 
 ### Lymphatic Drainage Pathways
 * Follows the arterial supply backwards to origin of SMA and IMA.
-* Divided into **epicolic** (on colon wall) $\rightarrow$ **paracolic** (along marginal artery) $\rightarrow$ **intermediate** (along main arterial branches) $\rightarrow$ **principal/apical nodes** (at origin of SMA/IMA).
+* Divided into **epicolic** (on colon wall) → **paracolic** (along marginal artery) → **intermediate** (along main arterial branches) → **principal/apical nodes** (at origin of SMA/IMA).
 * Surgical clearance requires **en-bloc resection** of corresponding lymphovascular pedicle to harvest minimum **12 lymph nodes** for accurate staging.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/017a248c06684baa6995de768cd6eed6.png)
 
 ### Molecular Pathophysiology & Carcinogenesis
-* **Adenoma-Carcinoma Sequence (腺瘤-癌序列)**: Chromosomal instability pathway (85% of cases) involving sequential mutations: **APC inactivation** (normal mucosa $\rightarrow$ early adenoma) $\rightarrow$ **KRAS activation** (intermediate adenoma) $\rightarrow$ **TP53 loss** (late adenoma $\rightarrow$ carcinoma).
+* **Adenoma-Carcinoma Sequence (腺瘤-癌序列)**: Chromosomal instability pathway (85% of cases) involving sequential mutations: **APC inactivation** (normal mucosa → early adenoma) → **KRAS activation** (intermediate adenoma) → **TP53 loss** (late adenoma → carcinoma).
 * **Microsatellite Instability (MSI) Pathway**: Mismatch Repair (MMR) gene inactivation (**MLH1, MSH2, MSH6, PMS2**); associated with **Lynch Syndrome ( hereditary non-polyposis colorectal cancer, HNPCC)**; characterized by right-sided, mucinous tumors with better stage-for-stage prognosis but resistant to 5-FU monotherapy.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/dbdb74ee593ad4f5c52396e3b81a1137.png)
 
 ### Anatomical Heterogeneity (Right vs Left Colon)
-| Feature | Right-Sided Colon Cancer (右側結腸癌) | Left-Sided Colon Cancer (左側結腸癌) |
-| :--- | :--- | :--- |
-| **Anatomical Site** | Cecum, ascending colon, hepatic flexure | Splenic flexure, descending colon, sigmoid |
-| **Embryology** | Midgut | Hindgut |
-| **Gross Morphology** | Exophytic, fungating, cauliflower-like masses | Endophytic, infiltrating, annular "apple-core" lesions |
-| **Primary Mechanism** | Microsatellite Instability (MSI), BRAF mutations | Chromosomal Instability (CIN), KRAS mutations |
-
+| Feature               | Right-Sided Colon Cancer (右側結腸癌)                 | Left-Sided Colon Cancer (左側結腸癌)                        |
+| :-------------------- | :----------------------------------------------- | :----------------------------------------------------- |
+| **Anatomical Site**   | Cecum, ascending colon, hepatic flexure          | Splenic flexure, descending colon, sigmoid             |
+| **Embryology**        | Midgut                                           | Hindgut                                                |
+| **Gross Morphology**  | Exophytic, fungating, cauliflower-like masses    | Endophytic, infiltrating, annular "apple-core" lesions |
+| **Primary Mechanism** | Microsatellite Instability (MSI), BRAF mutations | Chromosomal Instability (CIN), KRAS mutations          |
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/8bde31e49cde062409974d7aea142548.png)
 
 ## 3. Key Symptoms & Signs
 
@@ -47,19 +50,19 @@
 ### Presentation of Left-Sided Tumors
 * **Altered Bowel Habits (排便習慣改變)**: Progressive constipation, alternating with spurious diarrhoea.
 * **Hematochezia (下消化道出血)**: Rectal bleeding, blood mixed with stool or altered dark red blood.
-* **Colicky Abdominal Pain**: Intestinal lumen narrowing $\rightarrow$ partial **Intestinal Obstruction (腸梗阻)**; presents with distension, hyperperistalsis.
+* **Colicky Abdominal Pain**: Intestinal lumen narrowing → partial **Intestinal Obstruction (腸梗阻)**; presents with distension, hyperperistalsis.
 
 
 ## 4. Differential Diagnosis & Discriminatory Features
 
 ### Clinical Distinctions from Benign & Malignant Mimickers
-| Differential Diagnosis | Discriminatory Features vs Colon Cancer |
-| :--- | :--- |
-| **Diverticular Disease (結腸憩室病)** | Left-sided colicky pain, history of acute **diverticulitis** (fever, leukocytosis); colonoscopy reveals diverticula mouths; wall thickening on CT lacks abrupt "shelfing". |
-| **Crohn's Disease (克隆氏症)** | Younger onset; transmural inflammation, fistulae, aphthous or cobblestone ulcers on colonoscopy; skipped lesions; tissue biopsy shows **non-caseating granulomas**. |
-| **Ulcerative Colitis (潰瘍性結腸炎)** | Continuous mucosal inflammation extending from rectum proximally; bloody diarrhoea with tenesmus; crypt abscesses on biopsy; carries high long-term cancer risk. |
-| **Ischemic Colitis (缺血性結腸炎)** | Sudden onset left-sided severe abdominal pain followed by bloody diarrhoea; typically post-hypotension/shock; colonoscopy shows rectal-sparing mucosal cyanosis/ulceration at splenic flexure. |
-| **Amebic Colitis / Infectious Colitis** | Acute onset, history of travel, stool microscopy +ve for trophozoites/cysts or pathogenic culture. |
+| Differential Diagnosis                  | Discriminatory Features vs Colon Cancer                                                                                                                                                        |
+| :-------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Diverticular Disease (結腸憩室病)**        | Left-sided colicky pain, history of acute **diverticulitis** (fever, leukocytosis); colonoscopy reveals diverticula mouths; wall thickening on CT lacks abrupt "shelfing".                     |
+| **Crohn's Disease (克隆氏症)**              | Younger onset; transmural inflammation, fistulae, aphthous or cobblestone ulcers on colonoscopy; skipped lesions; tissue biopsy shows **non-caseating granulomas**.                            |
+| **Ulcerative Colitis (潰瘍性結腸炎)**         | Continuous mucosal inflammation extending from rectum proximally; bloody diarrhoea with tenesmus; crypt abscesses on biopsy; carries high long-term cancer risk.                               |
+| **Ischemic Colitis (缺血性結腸炎)**           | Sudden onset left-sided severe abdominal pain followed by bloody diarrhoea; typically post-hypotension/shock; colonoscopy shows rectal-sparing mucosal cyanosis/ulceration at splenic flexure. |
+| **Amebic Colitis / Infectious Colitis** | Acute onset, history of travel, stool microscopy +ve for trophozoites/cysts or pathogenic culture.                                                                                             |
 
 
 ## 5. Tiered Investigations & Pre-operative Workup (Labs, Imaging, Staging)
@@ -68,7 +71,7 @@
 * **Digital Rectal Examination (DRE, 直腸指檢)**: To rule out synchronous low rectal lesions and assess pelvic floor floor integrity.
 * **Complete Blood Count (CBC)**: Confirms microcytic, hypochromic anaemia ($\downarrow$ Hb, $\downarrow$ MCV).
 * **Renal Function Tests & Electrolytes**: Baseline assessment prior to major fluid shifts and IV contrast CT.
-* **Liver Function Tests (LFTs)**: $\uparrow$ Alkaline Phosphatase (ALP) or transaminases raises suspicion for hepatic metastases.
+* **Liver Function Tests (LFTs)**: ↑ Alkaline Phosphatase (ALP) or transaminases raises suspicion for hepatic metastases.
 * **Carcinoembryonic Antigen (CEA, 癌胚抗原)**: Baseline serum levels; **not used for screening** due to low sensitivity, but vital for post-operative surveillance and detecting recurrence.
 
 ### Tier 2: Diagnostic Imaging & Endoscopy
@@ -76,7 +79,7 @@
 * **CT Abdomen and Pelvis (Contrast-Enhanced)**: Main modality for local and distant staging; evaluates regional lymphadenopathy, local invasion, and liver metastases.
 * **CT Thorax**: Essential to rule out pulmonary metastases.
 
-### Tier 6: Pathological Staging (AJCC TNM Staging System)
+### Tier 3: Pathological Staging (AJCC TNM Staging System)
 | TNM Stage     | T (Primary Tumor)                                         | N (Regional Lymph Nodes)        | M (Distant Metastasis)                     |
 | :------------ | :-------------------------------------------------------- | :------------------------------ | :----------------------------------------- |
 | **Stage I**   | T1 (submucosa) or T2 (muscularis propria)                 | N0 (none)                       | M0 (none)                                  |
@@ -146,7 +149,7 @@
 * **Primary Hemorrhage**: Luminal bleeding from staple lines/anastomosis or intra-abdominal bleeding from slipped mesenteric ties.
 * **Anastomotic Leak**: Typically presents between **Post-Op Days 5–9** with fever, tachycardia, localized/generalized peritonitis, fecal discharge from drains, or sudden rise in inflammatory markers.
 * **Post-operative Ileus (術後腸麻痺)**: Prolonged lack of bowel motility; presents with abdominal distension, nausea, vomiting, failure to pass flatus/stool.
-* **Surgical Site Infection (SSI)**: Perineal or abdominal wound infections; $\uparrow$ risk due to colonic bacterial load.
+* **Surgical Site Infection (SSI)**: Perineal or abdominal wound infections; ↑ risk due to colonic bacterial load.
 
 ### Intermediate & Late Complications (>30 Days)
 * **Adhesive Bowel Obstruction (粘連性腸梗阻)**: Mechanical small bowel obstruction secondary to post-surgical intra-abdominal bands.

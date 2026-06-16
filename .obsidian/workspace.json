@@ -67,14 +67,18 @@
             "id": "e6e17b5f523ba508",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "surgery/colon_cancer.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "colon_cancer"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -236,15 +240,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "08b5e2e5da110f18",
+  "active": "e6e17b5f523ba508",
   "lastOpenFiles": [
+    "surgery/liver_tumours.md",
     "surgery/pancreatic_cancer.md",
     "surgery/cholelithiasis.md",
     "surgery/basic_surgical_skills.md",
     "surgery/aortic_disease.md",
     "surgery/lung_cancer.md",
     "surgery/vascular_emergencies.md",
-    "surgery/liver_tumours.md",
     "surgery/choledocholithiasis_cholangitis.md",
     "surgery/aaa.md",
     "surgery/pad.md",
