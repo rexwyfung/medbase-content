@@ -25,14 +25,16 @@
 * Middle/Lower rectum: **Middle rectal artery** (直腸中動脈) ← branch of **internal iliac artery** (髂內動脈).
 * Lower rectum/Anal canal: **Inferior rectal artery** (直腸下動脈) ← branch of **internal pudendal artery** (陰部內動脈).
 * Venous drainage: Upper rectum → **inferior mesenteric vein (IMV)** → **portal system** (門靜脈系統) (causes liver metastasis); Middle/Lower rectum → **internal iliac veins** → **systemic circulation** (體循環) (causes lung metastasis).
+![image|450](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/f22d9766de275c3d7ab832eca307cf91.png)
 
 ### Lymphatic Drainage Pathways
 * Upper/Middle rectum: Follows **superior rectal vessels** to **IMA lymph nodes** (下腸繫膜動脈淋巴結).
 * Lower rectum: Follows **superior rectal vessels** AND laterally along **middle rectal vessels** to **internal iliac lymph nodes** (髂內淋巴結).
-
+![image|363](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/9684d4d289070eccd55293312c7ac4d5.png)
 ### Innervation and Autonomic Nerves
 * **Sympathetic nerves**: Derived from **hypogastric plexus** (腹下神經叢) (T12-L2) → controls ejaculation; damage leads to retrograde ejaculation.
 * **Parasympathetic nerves**: Derived from **nervi erigentes** (S2-S4) → controls penile/clitoral erection and bladder detrusor function; damage leads to erectile dysfunction and urinary retention.
+![image|420](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a0333ffece44a62d93038e65dbdce1c8.png)
 
 ### Molecular Pathophysiology Pathways
 * **Adenoma-carcinoma sequence** (腺瘤-癌序列) (~80%): Driven by **APC gene** mutation/loss → **KRAS** activation → **TP53** loss.
