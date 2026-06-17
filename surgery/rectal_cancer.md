@@ -64,13 +64,13 @@
 ## 4. Differential Diagnosis & Discriminatory Features
 
 ### Common Differentials and Comparison
-| Differential Diagnosis | Discriminatory Clinical Features | Diagnostic Investigations |
-| :--- | :--- | :--- |
-| **Hemorrhoids** (痔瘡) | Painless fresh bright red blood dripping into bowl; not mixed with stool; no tenesmus; soft anal cushions on DRE. | Anoscopy / Flexible Sigmoidoscopy |
-| **Ulcerative Colitis** (潰瘍性結腸炎) | Chronic bloody diarrhea + mucus; diffuse colonic involvement; systemic features (+ve p-ANCA). | Colonoscopy + biopsy showing continuous mucosal inflammation / crypt abscesses |
-| **Amoebic Colitis / Dysentery** (阿米巴痢疾) | History of travel; offensive bloody diarrhea; "flask-shaped" ulcers. | Stool microscopy for trophozoites / PCR |
-| **Solitary Rectal Ulcer Syndrome** (孤立性直腸潰瘍綜合症) | Associated with chronic straining; straining at stool + mucus discharge; ulcer usually anterior. | Biopsy showing fibromuscular obliteration of lamina propria |
-| **Diverticular Disease** (結腸憩室病) | Typically affects sigmoid colon; left lower quadrant pain; presentation is usually acute diverticulitis or brisk painless hemorrhage. | CT Abdomen and Pelvis |
+| Differential Diagnosis                          | Discriminatory Clinical Features                                                                                                      | Diagnostic Investigations                                                      |
+| :---------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------- |
+| **Hemorrhoids** (痔瘡)                            | Painless fresh bright red blood dripping into bowl; not mixed with stool; no tenesmus; soft anal cushions on DRE.                     | Anoscopy / Flexible Sigmoidoscopy                                              |
+| **Ulcerative Colitis** (潰瘍性結腸炎)                 | Chronic bloody diarrhea + mucus; diffuse colonic involvement; systemic features (+ve p-ANCA).                                         | Colonoscopy + biopsy showing continuous mucosal inflammation / crypt abscesses |
+| **Amoebic Colitis / Dysentery** (阿米巴痢疾)         | History of travel; offensive bloody diarrhea; "flask-shaped" ulcers.                                                                  | Stool microscopy for trophozoites / PCR                                        |
+| **Solitary Rectal Ulcer Syndrome** (孤立性直腸潰瘍綜合症) | Associated with chronic straining; straining at stool + mucus discharge; ulcer usually anterior.                                      | Biopsy showing fibromuscular obliteration of lamina propria                    |
+| **Diverticular Disease** (結腸憩室病)                | Typically affects sigmoid colon; left lower quadrant pain; presentation is usually acute diverticulitis or brisk painless hemorrhage. | CT Abdomen and Pelvis                                                          |
 
 
 ## 5. Tiered Investigations & Pre-operative Workup
