@@ -94,12 +94,12 @@
 * **PET-CT Scan**: Indicated for clarifying equivocal lesions on conventional imaging or evaluating suspected recurrence with rising CEA.
 
 ### Standard TNM Staging Classification
-| TNM Stage | T (Primary Tumor) | N (Regional Lymph Nodes) | M (Distant Metastasis) |
-| :--- | :--- | :--- | :--- |
-| **Stage I** | T1 (lamina propria/submucosa) or T2 (muscularis propria) | N0 (No regional node metastasis) | M0 (No distant metastasis) |
-| **Stage II** | T3 (through muscularis propria into subserosa/mesorectum) or T4 (invades visceral peritoneum/organs) | N0 | M0 |
-| **Stage III** | Any T | N1 (1-3 nodes) or N2 ($\ge$ 4 nodes) | M0 |
-| **Stage IV** | Any T | Any N | M1 (Distant metastasis present) |
+| TNM Stage     | T (Primary Tumor)                                                                                    | N (Regional Lymph Nodes)         | M (Distant Metastasis)          |
+| :------------ | :--------------------------------------------------------------------------------------------------- | :------------------------------- | :------------------------------ |
+| **Stage I**   | T1 (lamina propria/submucosa) or T2 (muscularis propria)                                             | N0 (No regional node metastasis) | M0 (No distant metastasis)      |
+| **Stage II**  | T3 (through muscularis propria into subserosa/mesorectum) or T4 (invades visceral peritoneum/organs) | N0                               | M0                              |
+| **Stage III** | Any T                                                                                                | N1 (1-3 nodes) or N2 (≥ 4 nodes) | M0                              |
+| **Stage IV**  | Any T                                                                                                | Any N                            | M1 (Distant metastasis present) |
 
 
 ## 6. Management Algorithm & Surgical Indications
@@ -109,7 +109,7 @@
 * Otherwise, undergo primary radical surgical resection.
 
 ### Locally Advanced Rectal Cancer Protocol (Hong Kong Hospital Authority Standards)
-* **Indications for Neoadjuvant Therapy**: **Stage II / III (T3-T4, or N+ve)**, or threatened **CRM $\le$ 1 mm** on baseline pelvic MRI.
+* **Indications for Neoadjuvant Therapy**: **Stage II / III (T3-T4, or N+ve)**, or threatened **CRM ≤ 1 mm** on baseline pelvic MRI.
 * **Regimen Options**:
   * **Long-course Chemoradiotherapy (LCCRT)**: 45-50.4 Gy external beam radiation over 5 weeks + concurrent radiosensitizing Capecitabine (口服化療藥), followed by surgery in 8-12 weeks.
   * **Short-course Radiotherapy (SCRT)**: 25 Gy total delivered over 5 consecutive days, followed by immediate surgery (within 1 week) or delayed surgery (4-8 weeks).
