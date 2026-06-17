@@ -33,7 +33,7 @@
 ![image|363](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/9684d4d289070eccd55293312c7ac4d5.png)
 ### Innervation and Autonomic Nerves
 * **Sympathetic nerves**: Derived from **hypogastric plexus** (腹下神經叢) (T12-L2) → controls ejaculation; damage leads to retrograde ejaculation.
-* **Parasympathetic nerves**: Derived from **nervi erigentes** (S2-S4) → controls penile/clitoral erection and bladder detrusor function; damage leads to erectile dysfunction and urinary retention.
+* **Parasympathetic nerves**: Derived from **pelvic splanchnic nerves** (S2-S4) → controls penile/clitoral erection and bladder detrusor function; damage leads to erectile dysfunction and urinary retention.
 ![image|420](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a0333ffece44a62d93038e65dbdce1c8.png)
 
 ### Molecular Pathophysiology Pathways
@@ -116,8 +116,13 @@
   * **Total Neoadjuvant Therapy (TNT)**: Delivery of both systemic chemotherapy and chemoradiotherapy upfront prior to surgery to minimize systemic micrometastases and achieve maximum **Pathological Complete Response (pCR)**.
 
 ### Surgical Indications and Fitness Assessment
-* Intent: Curative resection for Stage I-III; palliative resection for symptomatic Stage IV disease (obstruction/uncontrolled bleeding).
-* Pre-operative optimization: Correction of anemia (hemoglobin Target > 10 g/dL), cardiopulmonary optimization, and nutritional assessment via **Nutritional Risk Screening (NRS-2002)**.
+* Intent:
+	* Curative resection for Stage I-III;
+	* Palliative resection for symptomatic Stage IV disease (obstruction/uncontrolled bleeding).
+* Pre-operative optimization:
+	* Correction of anemia (hemoglobin Target > 10 g/dL),
+	* Cardiopulmonary optimization, 
+	* Nutritional assessment via **Nutritional Risk Screening (NRS-2002)**.
 
 
 ## 7. Key Operative Principles & Consent Issues
@@ -126,6 +131,7 @@
 * **Total Mesorectal Excision (TME)** (全直腸系膜切除術): Sharp, meticulous dissection within the avascular "holy plane" between visceral pelvic fascia and parietal pelvic fascia. Ensures intact removal of mesorectum to reduce local recurrence rates from ~30% to <5%.
 * **Autonomous Nerve Preservation (ANP)**: Identification and preservation of hypogastric nerves and pelvic splanchnic nerves to safeguard urogenital function.
 * **High Ligation of IMA**: Ligation at its origin from aorta to ensure adequate lymphadenectomy (apical lymph node harvest) and maximize conduit mobility.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/2b6ac588edc5c48062d0015df102658f.png)
 
 ### Primary Radical Surgical Procedures
 * **Anterior Resection (AR) / Low Anterior Resection (LAR)**: For upper and middle rectal tumors. Sphincter-preserving; rectal anastomosis created using circular end-to-end staplers.
@@ -183,7 +189,7 @@
 
 ## 10. Examiner's Pearls (High-yield viva questions and common pitfalls)
 
-* Viva Question: What is the single most critical landmark to evaluate on a pelvic MRI before planning rectal cancer surgery? Answer: The relationship of the tumor to the Circumferential Resection Margin (CRM), as a threatened CRM ($\le 1\text{ mm}$) mandates neoadjuvant chemoradiotherapy to reduce local recurrence.
+* Viva Question: What is the single most critical landmark to evaluate on a pelvic MRI before planning rectal cancer surgery? Answer: The relationship of the tumor to the Circumferential Resection Margin (CRM), as a threatened CRM (≤ 1 mm) mandates neoadjuvant chemoradiotherapy to reduce local recurrence.
 * Viva Question: How do you clinically manage a patient on Post-op Day 6 following a low anterior resection who presents with tachycardia, low-grade fever, and new pelvic pain? Answer: Suspect an anastomotic leak; stabilize hemodynamically, check inflammatory markers, order a contrast-enhanced CT of the abdomen and pelvis to assess the anastomosis, and keep the patient nil-by-mouth with broad-spectrum antibiotics.
 * Trap: Assuming that a high CEA value is diagnostic for primary rectal cancer screening. Pearl: CEA has low sensitivity and specificity for early-stage screening; its primary role is as a baseline reference value and a highly specific tool for tracking post-operative recurrence.
 * Trap: Believing that all low rectal tumors within 5 cm of the anal verge require an abdominoperineal resection (APR). Pearl: If the tumor does not invade the external anal sphincter or levator ani mechanism, an ultra-low anterior resection with intersphincteric resection (ISR) can be safely performed to achieve clear margins and preserve sphincteric function.
