@@ -73,6 +73,7 @@
 | **Grade II (第二期)** | Prolapse with defecation → Spontaneous reduction |
 | **Grade III (第三期)** | Prolapse with defecation → Requires manual reduction |
 | **Grade IV (第四期)** | Permanently prolapsed → Irreducible, risk of strangulation |
+
 ![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/58288704db9fc6778ace9c26adc6c917.png)
 
 ## 6. Management Algorithm & Surgical Indications (Conservative, Medical, HA Protocols)
