@@ -8,27 +8,28 @@
 ### Hong Kong Epidemiology & Risk Factors
 * Highly prevalent in HK adult population (up to 30-50%)
 * ↑ Risk with:
-* **Chronic constipation (便秘)** (low-fiber diet common in HK)
-* **Prolonged straining (用力排便)**
-* **Pregnancy (懷孕)**
-* **Portal hypertension (門脈高壓)**
-* Aging (↓ connective tissue support)
+	* **Chronic constipation (便秘)** (low-fiber diet common in HK)
+	* **Prolonged straining (用力排便)**
+	* **Pregnancy (懷孕)**
+	* **Portal hypertension (門脈高壓)**
+	* Aging (↓ connective tissue support)
 
 ## 2. Surgical Anatomy & Pathophysiology
 ### Surgical Anatomy of Anal Cushions
 * **Location**: Right anterior (11 o'clock), right posterior (7 o'clock), left lateral (3 o'clock) (lithotomy position)
 * **Blood Supply**:
-* **Superior Rectal Artery (直腸上動脈)** → Internal hemorrhoids (內痔)
-* **Middle & Inferior Rectal Arteries (直腸中/下動脈)** → External hemorrhoids (外痔)
+	* **Superior Rectal Artery (直腸上動脈)** → Internal hemorrhoids (內痔)
+	* **Middle & Inferior Rectal Arteries (直腸中/下動脈)** → External hemorrhoids (外痔)
 * **Innervation**:
-* **Above Dentate Line (齒狀線)**: Visceral (painless)
-* **Below Dentate Line**: Somatic (pudendal nerve → painful)
+	* **Above Dentate Line (齒狀線)**: Visceral (painless)
+	* **Below Dentate Line**: Somatic (pudendal nerve → painful)
+![image|298](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/f72ec1e4ff529c5b538badbd17f0cc8e.png)![image|288](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/00d8f28d813a49de3fe4c6e4edd8b014.png)
 
 ### Pathophysiology of Hemorrhoidal Disease
 * **Sliding Anal Cushion Theory**:
-* Breakdown of suspensory ligaments (Parks' ligament) → ↓ structural support
-* ↑ Shearing force during defecation → Venous engorgement & prolapse
-* Overlying mucosa susceptible to trauma → Bleeding
+	* Breakdown of suspensory ligaments (Parks' ligament) → ↓ structural support
+	* ↑ Shearing force during defecation → Venous engorgement & prolapse
+	* Overlying mucosa susceptible to trauma → Bleeding
 
 ## 3. Key Symptoms & Signs
 ### Key Clinical Symptoms
@@ -41,28 +42,28 @@
 ### Important Clinical Signs on Physical Examination
 * **Inspection**: Skin tags, external hemorrhoids, perianal dermatitis, prolapsed purple/red masses
 * **Digital Rectal Examination (DRE, 直腸指檢)**:
-* Uncomplicated internal hemorrhoids often NOT palpable (too soft)
-* Essential to exclude low rectal masses/tumors
+	* Uncomplicated internal hemorrhoids often NOT palpable (too soft)
+	* Essential to exclude low rectal masses/tumors
 * **Proctoscopy (直腸鏡檢查)**: Visualizes bulging, engorged purplish anal cushions
 
 ## 4. Differential Diagnosis & Discriminatory Features
 ### Differential Diagnosis of Per-Rectal Bleeding
 
-| Differential Diagnosis | Discriminatory Features |
-| :--- | :--- |
-| **Colorectal Cancer (大腸癌)** | Altered bowel habit, weight loss, older age, admixed dark blood |
-| **Anal Fissure (肛裂)** | Tearing pain *during* defecation, sentinel tag, tight sphincter |
-| **Diverticular Bleeding (憩室出血)** | Large volume, painless, dark/maroon blood, older patient |
-| **Inflammatory Bowel Disease (炎症性腸病)** | Diarrhea, mucus, abdominal pain, systemic symptoms |
-| **Rectal Prolapse (直腸脫垂)** | Concentric mucosal rings (vs radial in hemorrhoids) |
+| Differential Diagnosis                 | Discriminatory Features                                         |
+| :------------------------------------- | :-------------------------------------------------------------- |
+| **Colorectal Cancer (大腸癌)**            | Altered bowel habit, weight loss, older age, admixed dark blood |
+| **Anal Fissure (肛裂)**                  | Tearing pain *during* defecation, sentinel tag, tight sphincter |
+| **Diverticular Bleeding (憩室出血)**       | Large volume, painless, dark/maroon blood, older patient        |
+| **Inflammatory Bowel Disease (炎症性腸病)** | Diarrhea, mucus, abdominal pain, systemic symptoms              |
+| **Rectal Prolapse (直腸脫垂)**             | Concentric mucosal rings (vs radial in hemorrhoids)             |
 
 ## 5. Tiered Investigations & Pre-operative Workup (Labs, Imaging, Staging)
 ### Tiered Investigations for Hemorrhoids Workup
 * **1st Line**: **Proctoscopy (直腸鏡檢查)** (Gold standard for direct visualization/grading)
 * **Blood Tests**: **Complete Blood Count (全血細胞計數)** (Assess for anemia from chronic bleeding)
 * **Colorectal Cancer Screening (HK HA Protocol)**:
-* **Flexible Sigmoidoscopy (乙狀結腸鏡)** or **Colonoscopy (大腸鏡)**
-* Indicated if: Age >50, +ve family history, altered bowel habit, iron deficiency anemia, +ve FIT test
+	* **Flexible Sigmoidoscopy (乙狀結腸鏡)** or **Colonoscopy (大腸鏡)**
+	* Indicated if: Age >50, +ve family history, altered bowel habit, iron deficiency anemia, +ve FIT test
 
 ### Goligher's Classification of Internal Hemorrhoids (Grading)
 
@@ -72,6 +73,7 @@
 | **Grade II (第二期)** | Prolapse with defecation → Spontaneous reduction |
 | **Grade III (第三期)** | Prolapse with defecation → Requires manual reduction |
 | **Grade IV (第四期)** | Permanently prolapsed → Irreducible, risk of strangulation |
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/58288704db9fc6778ace9c26adc6c917.png)
 
 ## 6. Management Algorithm & Surgical Indications (Conservative, Medical, HA Protocols)
 ### Conservative Management (First-Line for Grade I-II)
@@ -86,10 +88,10 @@
 
 ### Outpatient Procedures (For Grade I-III)
 * **Rubber Band Ligation (RBL, 橡皮圈結紮術)**:
-* 1st line for Grade II/III
-* Must place band ≥2cm *above* dentate line (avoid severe pain)
+	* 1st line for Grade II/III
+	* Must place band ≥2cm *above* dentate line (avoid severe pain)
 * **Injection Sclerotherapy (注射硬化治療)**:
-* 5% Phenol in almond oil injected into submucosa → Fibrosis & fixation
+	* 5% Phenol in almond oil injected into submucosa → Fibrosis & fixation
 
 ### Definitive Surgical Indications
 * Grade III-IV failing conservative/outpatient therapy
@@ -105,11 +107,13 @@
 * **Ligation**: Transfix and ligate the vascular pedicle at the apex
 * **Wound Care**: Leave mucosal/skin defects open to heal by secondary intention (standard in HK HA)
 * **Preservation of Skin Bridges**: MUST leave adequate muco-cutaneous bridges between excision sites to prevent stricture
+![image|246](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/464a5390ec0453e9d722865093969bc5.png)
 
 ### Key Operative Principles: Stapled Hemorrhoidopexy (PPH, 痔瘡環狀切除術)
 * **Mechanism**: Circumferential excision of redundant rectal mucosa above dentate line + lifting (pexy) of prolapsed tissue
 * **Advantage**: Less post-op pain (incision is in insensate zone)
 * **Disadvantage**: Higher recurrence rate for prolapse
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/7b276fb11ae36ae5960781ecc1ce7477.png)
 
 ### Pre-operative Consent Complications
 * **Post-operative Bleeding (術後出血)** (Primary or Secondary at 7-10 days)
