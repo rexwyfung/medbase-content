@@ -30,6 +30,7 @@
 * **Mucosa**: Stratified squamous (SCC origin).
 * **Submucosa**: Contains dense, extensive **longitudinal lymphatic networks** → early skip metastases.
 * **Muscularis propria**: Inner circular, outer longitudinal.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/e0c8d3a07030459a15c684f6873fc7b8.png)
 
 ### Anatomical Segments
 * **Cervical**: Cricopharyngeus (C6) to thoracic inlet (T1) (15–18 cm from incisors).
