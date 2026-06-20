@@ -113,9 +113,9 @@
 
 ### Management Approach by Staging
 * **Tis / T1a (Mucosal)**: Eligible for **Endoscopic Mucosal Resection (EMR)** or **Endoscopic Submucosal Dissection (ESD)**.
-* **Locoregional Resectable ($\le$T3, Any N0/+, M0)**: Multimodal therapy: **Neoadjuvant Chemoradiotherapy (nCRT)** (CROSS protocol) or **Neoadjuvant Chemotherapy (nCT)** followed by **Radical Oesophagectomy**.
+* **Locoregional Resectable (≤T3, Any N0/+, M0)**: Multimodal therapy: **Neoadjuvant Chemoradiotherapy (nCRT)** (CROSS protocol) or **Neoadjuvant Chemotherapy (nCT)** followed by **Radical Oesophagectomy**.
 * **T4b (Invasion of aorta, trachea, spine) or M1**: **Palliative pathway**.
-![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/7001494d79e0ea35a8d00db1fb6a27d0.png)
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/219b60c693ec7c04888d40652a9f1965.png) 
 
 ### Neoadjuvant Protocols (HK Hospital Authority Practice)
 * **CROSS Protocol**: Paclitaxel + Carboplatin combined with concurrent radiotherapy (41.4 Gy) before surgery. Significantly improves survival in both SCC and AdenoCa.
