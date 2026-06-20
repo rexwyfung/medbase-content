@@ -83,13 +83,13 @@
 ## 4. Differential Diagnosis & Discriminatory Features
 
 ### Oesophageal Cancer Differentials and Features
-| Diagnosis | Discriminatory Clinical & Imaging Features |
-| :--- | :--- |
-| **Oesophageal Cancer** | Progressive dysphagia (solids → liquids), older age, severe weight loss. OGD shows **friable, exophytic mass or malignant ulceration**. |
-| **Benign Oesophageal Stricture** | Long history of GORD, static or slowly progressive dysphagia. OGD shows **smooth concentric narrowing**, biopsy -ve for malignancy. |
-| **Achalasia (賁門失弛緩症)** | Intermittent dysphagia for *both* solids and liquids simultaneously, paradoxical. Barium swallow shows **"Bird's beak"** appearance. |
-| **Oesophageal Motility Disorders** | Non-cardiac chest pain, intermittent dysphagia triggered by cold liquids. Confirmed via **high-resolution manometry**. |
-| **Pharyngeal Pouch (Zenker's)** | Regurgitation of undigested food hours after meals, halitosis, gurgling neck mass. Diagnosed via **barium swallow** (avoid blind OGD). |
+| Diagnosis                          | Discriminatory Clinical & Imaging Features                                                                                              |
+| :--------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| **Oesophageal Cancer**             | Progressive dysphagia (solids → liquids), older age, severe weight loss. OGD shows **friable, exophytic mass or malignant ulceration**. |
+| **Benign Oesophageal Stricture**   | Long history of GORD, static or slowly progressive dysphagia. OGD shows **smooth concentric narrowing**, biopsy -ve for malignancy.     |
+| **Achalasia (賁門失弛緩症)**             | Intermittent dysphagia for *both* solids and liquids simultaneously, paradoxical. Barium swallow shows **"Bird's beak"** appearance.    |
+| **Oesophageal Motility Disorders** | Non-cardiac chest pain, intermittent dysphagia triggered by cold liquids. Confirmed via **high-resolution manometry**.                  |
+| **Pharyngeal Pouch (Zenker's)**    | Regurgitation of undigested food hours after meals, halitosis, gurgling neck mass. Diagnosed via **barium swallow** (avoid blind OGD).  |
 
 
 ## 5. Tiered Investigations & Pre-operative Workup
@@ -115,6 +115,7 @@
 * **Tis / T1a (Mucosal)**: Eligible for **Endoscopic Mucosal Resection (EMR)** or **Endoscopic Submucosal Dissection (ESD)**.
 * **Locoregional Resectable ($\le$T3, Any N0/+, M0)**: Multimodal therapy: **Neoadjuvant Chemoradiotherapy (nCRT)** (CROSS protocol) or **Neoadjuvant Chemotherapy (nCT)** followed by **Radical Oesophagectomy**.
 * **T4b (Invasion of aorta, trachea, spine) or M1**: **Palliative pathway**.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/7001494d79e0ea35a8d00db1fb6a27d0.png)
 
 ### Neoadjuvant Protocols (HK Hospital Authority Practice)
 * **CROSS Protocol**: Paclitaxel + Carboplatin combined with concurrent radiotherapy (41.4 Gy) before surgery. Significantly improves survival in both SCC and AdenoCa.
@@ -132,16 +133,19 @@
 * **Stage 1 (Right Thoracotomy/VATS)**: Mobilization of thoracic oesophagus, radical mediastinal lymphadenectomy.
 * **Stage 2 (Laparotomy/Laparoscopy)**: Mobilization of stomach, preservation of **right gastroepiploic artery**, formation of gastric conduit.
 * **Stage 3 (Left Cervical Incision)**: Delivery of conduit to neck, **cervical anastomosis**.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/9ce016b1b249291dee69d238754f9217.png)
 
 ### Ivor Lewis Two-Stage Oesophagectomy
 * **Indication**: Lower thoracic and GOJ Siewert I/II tumours.
 * **Stage 1 (Laparotomy/Laparoscopy)**: Gastric mobilization, creation of gastric tube, coeliac lymph node dissection.
 * **Stage 2 (Right Thoracotomy/VATS)**: Excision of thoracic oesophagus, **intrathoracic anastomosis** above the level of the azygos vein.
+![image|406](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/b69dd6ea2e570d0203084b136695dda6.png)
 
 ### Transhiatal Oesophagectomy
 * **Indication**: Lower third/GOJ tumours in patients with compromised pulmonary function (avoids thoracotomy).
 * **Approach**: Abdominal and cervical incisions; blunt manual dissection of thoracic oesophagus through widened diaphragmatic hiatus.
 * **Disadvantage**: Blind dissection, lower lymph node yield.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/89a03d90b8221c84e506f250b0f43a07.png)
 
 ### Key Intra-operative Principles
 * **Conduit Selection**: **Stomach** is 1st choice (vascularized by right gastroepiploic arcade); **colon** or **jejunum** used if stomach resected or diseased.
