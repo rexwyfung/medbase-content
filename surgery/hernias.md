@@ -26,6 +26,7 @@
 * **Superficial Inguinal Ring (淺腹股溝環)**: V-shaped defect in external oblique aponeurosis.
 * **Contents (Male)**: **Spermatic cord (精索)**, **Ilioinguinal nerve (髂腹股溝神經)**.
 * **Contents (Female)**: **Round ligament of uterus (子宮圓韌帶)**, **Ilioinguinal nerve (髂腹股溝神經)**.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/351f3187f0d275c1612831f32ba80389.png)![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/86c35f6ee08eed1ed1064f6424d4efd2.png)
 
 ### Borders of Hesselbach's Triangle (海氏三角)
 * **Medial**: Lateral border of **Rectus abdominis (腹直肌)**.

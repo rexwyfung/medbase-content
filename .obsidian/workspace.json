@@ -36,21 +36,20 @@
             }
           },
           {
-            "id": "e7ddd98cb7c58e47",
+            "id": "0efb45fe1fffd952",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "surgery/gastritis_pud.md",
+                "file": "surgery/hernias.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gastritis_pud"
+              "title": "hernias"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,11 +212,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "e7ddd98cb7c58e47",
+  "active": "13c4681ee0ba0baf",
   "lastOpenFiles": [
-    "surgery/gist.md",
-    "surgery/gastritis_pud.md",
+    "surgery/hernias.md",
     "surgery/gastric_neoplasms.md",
+    "surgery/gastritis_pud.md",
+    "surgery/gist.md",
     "surgery/oesophageal_cancer.md",
     "surgery/hemorrhoids.md",
     "surgery/rectal_cancer.md",
@@ -240,7 +240,6 @@
     "surgery/cns_infection.md",
     "surgery/congenital_plastic.md",
     "surgery/facial_fracture.md",
-    "surgery/breast_reconstruction.md",
     "surgery",
     "paediatrics/Untitled",
     "Logo-white bg.png",
