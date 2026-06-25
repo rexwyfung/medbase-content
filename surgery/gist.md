@@ -68,7 +68,7 @@
 * **Endoscopic Ultrasound (EUS) (內視鏡超聲波)**: Differentiates layer of origin. GIST classically appears as a **hypoechoic, homogeneous mass arising from the 4th layer (muscularis propria)**.
 
 ### Biopsy Guidelines for GIST
-* **EUS-FNA (EUS-guided Fine Needle Aspiration)**: Preferred modality for tissue diagnosis.
+* **EUS-FNA (EUS-guided Fine Needle Aspiration)**: Preferred modality for tissue diagnosis. 
 * **Percutaneous Image-Guided Biopsy**: **CONTRAINDICATED** if tumor is primarily resectable (high risk of tumor rupture and intraperitoneal seeding). Reserved for metastatic disease or pre-neoadjuvant confirmation.
 
 ### Radiological Staging Imaging
@@ -168,6 +168,7 @@
 * **Fluid Retention**: Classically periorbital edema.
 * **GI Upset**: Nausea, vomiting, diarrhea.
 * **Dermatological**: Skin rash.
+* **Thrombocytopenia**: Important for surgery.
 * **Hepatotoxicity**: Requires monitoring of LFTs.
 
 ### Prognostic Risk Stratification System
