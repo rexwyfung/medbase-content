@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,10 +227,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "d955b9b218c6b250",
+  "active": "b0539274a0b2c0fa",
   "lastOpenFiles": [
-    "surgery/comps_pancreatitis.md",
     "surgery/gist.md",
+    "surgery/comps_pancreatitis.md",
     "surgery/gastric_neoplasms.md",
     "surgery/hernias.md",
     "surgery/oesophageal_cancer.md",

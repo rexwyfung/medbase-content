@@ -106,7 +106,7 @@
 
 ## 6. Management Algorithm & Surgical Indications (Conservative, Medical, HA Protocols)
 
-### Curative Resection Criteria
+### Curative Resection Options & Criteria
 * **Endoscopic Submucosal Dissection (ESD) / Endoscopic Mucosal Resection (EMR)**: Strictly reserved for **Early Gastric Cancer (EGC)** confined entirely to the mucosa (T1a), <2 cm in size, well-differentiated, non-ulcerated, and lacking lymphovascular space invasion.
 * **Radical Surgical Resection**: Mandatory for fit patients with stage IB–III resectable tumors. Requires achieving a **>5 cm proximal margin** for intestinal-type tumors and a **>8 cm proximal margin** for diffuse-type tumors, combined with a standard **D2 lymphadenectomy**.
 ![image|359](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/1e9267d6b46cc3aa2541ae29b14b89f8.png)
