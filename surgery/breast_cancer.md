@@ -135,7 +135,10 @@
 ### Surgical Indications for Primary Tumor
 * **Breast Conserving Surgery (保乳手術) [BCS] / Wide Local Excision (WLE)**:
 	* Indications: Solitary tumor, small tumor-to-breast ratio, patient preference, commitment to post-op RT.
-	* Requirement: Must achieve macroscopically/microscopically **clear margins** (no tumor at ink).
+	* Requirement:
+		* **Invasive Breast Cancer (IBC):** "No ink on tumor" (0 mm margin is acceptable).
+		* **Ductal Carcinoma in Situ (DCIS):** Requires a stricter **≥ 2 mm** clear margin due to its discontinuous growth pattern.
+		* **Positive Margins:** Re-excision (cavity shaves) or conversion to Total Mastectomy is mandatory if margins are involved.
 * **Total Mastectomy (全乳切除術)**:
 	* Indications: Multi-centric disease, large tumor-to-breast ratio, failed BCS margins, contraindications to RT (prior RT, pregnancy), patient preference.
 
@@ -149,23 +152,23 @@
 
 ### Systemic Therapy Protocols in HK HA
 * **Neoadjuvant Therapy (術前新輔助治療)**:
-* Indications: Inflammatory CA, locally advanced disease, downstaging large tumors for BCS, HER2+ve/TNBC to assess pathological complete response (pCR).
+	* Indications: Inflammatory CA, locally advanced disease, downstaging large tumors for BCS, HER2+ve/TNBC to assess pathological complete response (pCR).
 * **Adjuvant Chemotherapy (術後輔助化療)**:
-* Regimen: Anthracycline-based (e.g., AC: **Doxorubicin + Cyclophosphamide**) followed by Taxane (**Paclitaxel / Docetaxel**).
+	* Regimen: Anthracycline-based (e.g., AC: **Doxorubicin + Cyclophosphamide**) followed by Taxane (**Paclitaxel / Docetaxel**).
 * **Adjuvant Endocrine Therapy (內分泌治療)**:
-* Indication: **ER/PR +ve** tumors.
-* **Tamoxifen (三苯氧胺)**: For **pre-menopausal** females (5-10 years).
-* **Aromatase Inhibitors (芳香化酶抑制劑) [AIs]** (e.g., **Anastrozole**, **Letrozole**): For **post-menopausal** females.
+	* Indication: **ER/PR +ve** tumors.
+	* **Tamoxifen (三苯氧胺)**: For **pre-menopausal** females (5-10 years).
+	* **Aromatase Inhibitors (芳香化酶抑制劑) [AIs]** (e.g., **Anastrozole**, **Letrozole**): For **post-menopausal** females.
 * **Targeted Therapy**:
-* Indication: **HER2 +ve** disease.
-* **Trastuzumab (曲妥珠單抗)**: 1 year adjuvantly; monitor via Echo due to **cardiotoxicity**.
+	* Indication: **HER2 +ve** disease.
+	* **Trastuzumab (曲妥珠單抗)**: 1 year adjuvantly; monitor via Echo due to **cardiotoxicity**.
 
 ### Adjuvant Radiotherapy (術後放療) Indications
 * Mandatory after all **BCS / WLE** to ↓ local recurrence.
 * Post-mastectomy radiotherapy (PMRT) indicated if:
-* Tumor size **>5 cm (T3/T4)**.
-* Close or +ve surgical margins.
-* **≥4 positive** axillary LNs.
+	* Tumor size **>5 cm (T3/T4)**.
+	* Close or +ve surgical margins.
+	* **≥4 positive** axillary LNs.
 
 ## 7. Key Operative Principles & Consent Issues
 
@@ -185,6 +188,7 @@
 * **Long thoracic nerve of Bell (長胸神經)**: Runs on Serratus anterior. Injury → **winged scapula (翼狀肩胛)**.
 * **Thoracodorsal nerve (胸背神經)**: Supplies Latissimus dorsi. Injury → weakness in arm adduction/internal rotation.
 * **Intercostobrachial nerve (肋間臂神經)**: Cutaneous sensory nerve crossing axilla. Often sacrificed in ALND → permanent **numbness of inner upper arm**.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/8686131565b96431d09a7c1d072546c2.png)
 
 ### Informed Consent Checklist for Breast Surgery
 * **Bleeding / Hematoma**: May require return to theatre.
@@ -205,6 +209,7 @@
 * Closed suction drains (**Jackson-Pratt [JP] drain**) in mastectomy cavity/axilla.
 * Remove when output is **<30 mL / 24 hours** for 2 consecutive days.
 * Premature removal → ↑ risk of **seroma**.
+![image|174](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/debdbe8b470762a8f0d79c128969f3ff.png)
 
 ### Post-operative Rehabilitation & Shoulder Exercises
 * Arm immobilization strictly avoided to prevent **frozen shoulder (凍結肩)**.
@@ -226,8 +231,8 @@
 
 ### Prognostic Factors & Nottingham Prognostic Index
 * **Axillary lymph node status** = single most important prognostic factor for non-metastatic disease.
-* **Nottingham Prognostic Index (NPI)** = $[0.2 \times \text{Tumor Size (cm)}] + \text{Lymph Node Score} + \text{Histological Grade}$
-* LN Score: 1 (0 nodes), 2 (1-3 nodes), 3 (≥4 nodes).
+* **Nottingham Prognostic Index (NPI)** = [0.2 × Tumour Size (cm)] + Lymph Node Score + Histoloigical Grade
+	* LN Score: 1 (0 nodes), 2 (1-3 nodes), 3 (≥4 nodes).
 * 5-year survival rates: Stage I (>95%), Stage II (~85%), Stage III (~60%), Stage IV (~25%).
 
 ## 10. Examiner's Pearls (High-yield viva questions and common pitfalls)
@@ -237,3 +242,4 @@
 * Trap: Tamoxifen can be prescribed safely to any breast cancer patient as long as her tumor is ER+ve. Pearl: Tamoxifen is a selective estrogen receptor modulator strictly reserved for pre-menopausal females; it increases endometrial cancer and VTE risks. Post-menopausal females should receive an Aromatase Inhibitor.
 * Pitfall: Forgetting to screen the contralateral breast during preoperative planning. Up to 5% of invasive lobular carcinomas present with synchronous bilateral disease; failing to image the opposite breast via mammogram/MRI leads to missed concurrent lesions.
 * Pitfall: Delaying shoulder exercises post-mastectomy out of fear of causing wound dehiscence. Protracted immobility causes severe muscle shortening and frozen shoulder; gentle hand/elbow movements must start on post-op Day 1, transitioning to full abduction once drains are out.
+* Trap: Treating a Phyllodes tumor with standard breast cancer margins. Pearl: Phyllodes tumors require a wide local excision with a strict 1 cm margin because of their aggressive stromal component and high risk of local recurrence.
