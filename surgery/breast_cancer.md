@@ -136,11 +136,14 @@
 * **Breast Conserving Surgery (保乳手術) [BCS] / Wide Local Excision (WLE)**:
 	* Indications: Solitary tumor, small tumor-to-breast ratio, patient preference, commitment to post-op RT.
 	* Requirement:
-		* **Invasive Breast Cancer (IBC):** "No ink on tumor" (0 mm margin is acceptable).
-		* **Ductal Carcinoma in Situ (DCIS):** Requires a stricter **≥ 2 mm** clear margin due to its discontinuous growth pattern.
-		* **Positive Margins:** Re-excision (cavity shaves) or conversion to Total Mastectomy is mandatory if margins are involved.
+		* 
 * **Total Mastectomy (全乳切除術)**:
 	* Indications: Multi-centric disease, large tumor-to-breast ratio, failed BCS margins, contraindications to RT (prior RT, pregnancy), patient preference.
+
+### Surgical Margins for BCS
+- **Invasive Breast Cancer (IBC):** "No ink on tumor" (0 mm margin is acceptable).
+- **Ductal Carcinoma in Situ (DCIS):** Requires a stricter **≥ 2 mm** clear margin due to its discontinuous growth pattern.
+- **Positive Margins:** Re-excision (cavity shaves) or conversion to Total Mastectomy is mandatory if margins are involved.
 
 ### Axillary Lymph Node Management Protocol
 * **Sentinel Lymph Node Biopsy (前哨淋巴結活檢) [SLNB]**:
