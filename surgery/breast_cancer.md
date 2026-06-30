@@ -20,26 +20,34 @@
 * Breast tissue rests on **Pectoralis major (胸大肌)** fascia and part of **Serratus anterior (前鋸肌)**.
 * **Axillary tail of Spence (史賓斯腋尾部)**: Extension of breast tissue piercing deep fascia into axilla.
 * **Cooper's ligaments (乳房懸韌帶)**: Fibrous bands connecting dermis to deep fascia; involvement by tumor → skin dimpling.
-* **Arterial supply**: **Internal mammary artery (內乳動脈)** perforators, **lateral thoracic artery (胸外側動脈)** branches, intercostal perforators.
+![image|354](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/857c3525c1f61d17b7cab9250b90feca.png)
+
+### Arterial Supply of the Breast
+- **Internal mammary artery (內乳動脈)** perforators
+- **Lateral thoracic artery (胸外側動脈)** branches
+- Intercostal perforators
+![image|391](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/2ae6ffb112589f15972763b72c24fc73.png)
 
 ### Axillary Lymph Node Levels
 * **Axillary lymph nodes (腋窩淋巴結)** categorized into 3 levels relative to **Pectoralis minor (胸小肌)**:
 * **Level I**: Lateral and inferior to lower border of pectoralis minor.
 * **Level II**: Deep to pectoralis minor; contains **Rotter's interpectoral nodes (胸肌間淋巴結)**.
 * **Level III**: Medial and superior to upper border of pectoralis minor.
+![image|552](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/1c44d8b1d939e42c3f6086fc28b21bba.png)
 
 ### Pathophysiology & Histological Subtypes
 * **Invasive Ductal Carcinoma (浸潤性導管癌) [IDC]**: Most common type (~80%); forms distinct cords/sheets of malignant cells.
 * **Invasive Lobular Carcinoma (浸潤性小葉癌) [ILC]**: ~10-15%; characterized by "single-file" pattern due to loss of **E-cadherin (E-鈣粘蛋白)**; highly prone to multi-centricity and bilaterality.
 * Progression model: Normal epithelium → atypical ductal hyperplasia (ADH) → DCIS → Invasive Carcinoma.
+![image|635](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/4b285f5627d81f0555c4e89f290b799d.png)
 
 ### Molecular Subtypes of Breast Cancer
-| Molecular Subtype | ER/PR Status | HER2 Status | Ki-67 Index | Clinical Behaviour & Prognosis |
-| :--- | :--- | :--- | :--- | :--- |
-| **Luminal A (管腔A型)** | +ve | -ve | Low (<20%) | Indolent, good prognosis, responsive to endocrine therapy. |
-| **Luminal B (管腔B型)** | +ve | Variable | High (≥20%) | More aggressive than Luminal A; requires chemotherapy. |
-| **HER2-enriched (HER2過表達型)** | -ve | +ve | Any | Highly aggressive; responds to **Trastuzumab (曲妥珠單抗)**. |
-| **Triple-Negative (三陰性) [TNBC]** | -ve | -ve | High | Most aggressive, worst prognosis, lacks targeted options. |
+| Molecular Subtype                | ER/PR Status | HER2 Status | Ki-67 Index | Clinical Behaviour & Prognosis                             |
+| :------------------------------- | :----------- | :---------- | :---------- | :--------------------------------------------------------- |
+| **Luminal A (管腔A型)**             | +ve          | -ve         | Low (<20%)  | Indolent, good prognosis, responsive to endocrine therapy. |
+| **Luminal B (管腔B型)**             | +ve          | Variable    | High (≥20%) | More aggressive than Luminal A; requires chemotherapy.     |
+| **HER2-enriched (HER2過表達型)**     | -ve          | +ve         | Any         | Highly aggressive; responds to **Trastuzumab (曲妥珠單抗)**.    |
+| **Triple-Negative (三陰性) [TNBC]** | -ve          | -ve         | High        | Most aggressive, worst prognosis, lacks targeted options.  |
 
 ## 3. Key Symptoms & Signs
 
@@ -55,6 +63,7 @@
 * **Peau d'orange (橘皮樣改變)**: Cutaneous edema with prominent hair follicles caused by tumor emboli obstructing **dermal lymphatics (真皮淋巴管)**; pathognomonic for advanced/inflammatory breast cancer.
 * **Paget's disease of the breast (乳房帕哲氏病)**: Eczematous, ulcerating lesion of nipple-areolar complex; indicates underlying DCIS or invasive cancer.
 * **Axillary lymphadenopathy (腋窩淋巴結腫大)**: Hard, matted, or fixed LNs.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/2e00bedc3439cf954849b3678d30967a.png)
 
 ## 4. Differential Diagnosis & Discriminatory Features
 
@@ -73,17 +82,26 @@
 ### Triple Assessment (三重的評估) Protocol
 * Mandatory HA protocol for any suspicious breast lesion.
 * High accuracy (>99%) when all three match:
-* Clinical Examination (Inspect/Palpate, LNs)
-* Imaging (<35yo: US; ≥35yo: US + Mammogram)
-* Pathological Confirmation (CNB for lump, FNAC for LNs)
+	* Clinical Examination (Inspect/Palpate, LNs)
+	* Imaging (<35yo: US → Mammogram; ≥35yo: Mammogram → US)
+	* Pathological Confirmation (CNB for lump, FNAC for LNs)
 
 ### 1st Line Investigation: Clinical Examination
 * Bimanual palpation of breast and regional LNs (axillary, supraclavicular).
+![image|522](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/1f5664248b1a5df60c8949c12beaae8a.png)
 
 ### 2nd Line Investigation: Imaging Modalities
-* **Ultrasound Breast (乳房超聲波)**: 1st line for females <35yo (dense breasts). Malignant features: Hypoechoic, taller-than-wide, irregular margins, posterior acoustic shadowing.
-* **Mammography (乳房X光造影)**: 1st line for females ≥35yo. Malignant features: Pleomorphic **microcalcifications (微小鈣化)**, spicular mass, architectural distortion.
+* **Ultrasound Breast (乳房超聲波)**: 1st line for females <35yo (dense breasts). Malignant features:
+	* Hypoechoic
+	* Taller-than-wide
+	* Irregular margins
+	* Posterior acoustic shadowing
+* **Mammography (乳房X光造影)**: 1st line for females ≥35yo. Malignant features:
+	* Pleomorphic **microcalcifications (微小鈣化)**
+	* Spicular mass
+	* Architectural distortion
 * **Breast MRI**: Indicated for occult primary, screening high-risk genetic carriers (**BRCA1/BRCA2**), assessing multi-focal disease.
+![image|438](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/174fda8e202b8db623e86a093194da41.png)
 
 ### 3rd Line Investigation: Pathological Confirmation
 * **Core Needle Biopsy (粗針穿刺活檢) [CNB]**: **Gold standard**. Maintains tissue architecture; differentiates DCIS from invasive; tests receptors (ER/PR/HER2).
@@ -92,37 +110,42 @@
 ### Routine Pre-operative Workup & Systemic Staging
 * **Labs**: CBC, LFT (albumin, ALP for liver/bone assessment), RFT, Clotting profile.
 * **Metastatic Staging**: Indicated for advanced disease, T3/T4 tumors, or +ve axillary LNs:
-* CT Chest, Abdomen, Pelvis (CT TAP) to rule out lung/liver metastasis.
-* **Bone Scan (骨骼掃描)** or PET-CT if ALP ↑ or bone pain +ve.
+	* CT Chest, Abdomen, Pelvis (CT TAP) to rule out lung/liver metastasis.
+	* **Bone Scan (骨骼掃描)** or PET-CT if ALP ↑ or bone pain +ve.
 
 ### TNM Staging Summary Table
-| Stage | Tumor Criteria (T) | Nodal Criteria (N) | Metastasis (M) |
-| :--- | :--- | :--- | :--- |
-| **Stage 0** | Tis (In situ: DCIS/LCIS) | N0 | M0 |
-| **Stage I** | T1 (≤2 cm) | N0 | M0 |
-| **Stage II** | T1-T2 (>2 cm but ≤5 cm) | N1 (Mobile axillary LNs) | M0 |
-| **Stage III** | T3 (>5 cm) or T4 (Skin/chest wall fixation) | N2-N3 (Fixed LNs / Internal mammary LNs) | M0 |
-| **Stage IV** | Any T | Any N | M1 (Distant metastasis) |
+| Stage         | Tumor Criteria (T)                          | Nodal Criteria (N)                       | Metastasis (M)          |
+| :------------ | :------------------------------------------ | :--------------------------------------- | :---------------------- |
+| **Stage 0**   | Tis (In situ: DCIS/LCIS)                    | N0                                       | M0                      |
+| **Stage I**   | T1 (≤2 cm)                                  | N0                                       | M0                      |
+| **Stage II**  | T1-T2 (>2 cm but ≤5 cm)                     | N1 (Mobile axillary LNs)                 | M0                      |
+| **Stage III** | T3 (>5 cm) or T4 (Skin/chest wall fixation) | N2-N3 (Fixed LNs / Internal mammary LNs) | M0                      |
+| **Stage IV**  | Any T                                       | Any N                                    | M1 (Distant metastasis) |
+
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/b7668dfcdbbdf760f6084c7f884a2830.png)
 
 ## 6. Management Algorithm & Surgical Indications (Conservative, Medical, HA Protocols)
 
 ### Multi-Disciplinary Management Overview
-* Tri-modality approach: Surgery, Medical Oncology, Radiation Oncology.
+* Tri-modality approach:
+	* Surgery
+	* Medical Oncology
+	* Radiation Oncology
 
 ### Surgical Indications for Primary Tumor
 * **Breast Conserving Surgery (保乳手術) [BCS] / Wide Local Excision (WLE)**:
-* Indications: Solitary tumor, small tumor-to-breast ratio, patient preference, commitment to post-op RT.
-* Requirement: Must achieve macroscopically/microscopically **clear margins** (no tumor at ink).
+	* Indications: Solitary tumor, small tumor-to-breast ratio, patient preference, commitment to post-op RT.
+	* Requirement: Must achieve macroscopically/microscopically **clear margins** (no tumor at ink).
 * **Total Mastectomy (全乳切除術)**:
-* Indications: Multi-centric disease, large tumor-to-breast ratio, failed BCS margins, contraindications to RT (prior RT, pregnancy), patient preference.
+	* Indications: Multi-centric disease, large tumor-to-breast ratio, failed BCS margins, contraindications to RT (prior RT, pregnancy), patient preference.
 
 ### Axillary Lymph Node Management Protocol
 * **Sentinel Lymph Node Biopsy (前哨淋巴結活檢) [SLNB]**:
-* Indication: Clinically/radiologically **N0** breast cancer.
-* Technique: Inject **technetium-99m sulfur colloid (鎝-99m硫膠體)** and/or **patent blue dye (專利藍染料)** periareolarly. Excise radioactive/blue LNs. If -ve → omit full ALND.
+	* Indication: Clinically/radiologically **N0** breast cancer.
+	* Technique: Inject **technetium-99m sulfur colloid (鎝-99m硫膠體)** and/or **patent blue dye (專利藍染料)** periareolarly. Excise radioactive/blue LNs. If -ve → omit full ALND.
 * **Axillary Lymph Node Dissection (腋窩淋巴結清掃) [ALND]**:
-* Indications: Clinically +ve nodes pre-op confirmed by FNAC/CNB, or strongly +ve SLNB (outside ACOSOG Z0011).
-* Target: Dissect **Level I and Level II** axillary LNs (minimum 10 nodes).
+	* Indications: Clinically +ve nodes pre-op confirmed by FNAC/CNB, or strongly +ve SLNB (outside ACOSOG Z0011).
+	* Target: Dissect **Level I and Level II** axillary LNs (minimum 10 nodes).
 
 ### Systemic Therapy Protocols in HK HA
 * **Neoadjuvant Therapy (術前新輔助治療)**:
