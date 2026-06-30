@@ -132,7 +132,7 @@
 	* Medical Oncology
 	* Radiation Oncology
 
-### Surgical Indications for Primary Tumor
+### Surgical Options and Indications for Primary Tumor
 * **Breast Conserving Surgery (保乳手術) [BCS] / Wide Local Excision (WLE)**:
 	* Indications: Solitary tumor, small tumor-to-breast ratio, patient preference, commitment to post-op RT.
 	* Requirement:
