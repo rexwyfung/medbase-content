@@ -15,6 +15,7 @@
 * **Pelvi-ureteric junction (PUJ) (腎盂輸尿管交界處)**: Renal pelvis transitions into ureter.
 * **Pelvic brim (骨盆緣)**: Ureter crosses anterior to common iliac vessels.
 * **Vesico-ureteric junction (VUJ) (膀胱輸尿管交界處)**: Narrowest physiological segment traversing bladder wall.
+![image|212](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/289e5fcb296bbf2480f9e71c2a5ced4c.png)
 
 ### Pathophysiology of Stone Formation
 * Supersaturation of urinary solutes → nucleation → crystal growth → aggregation.
@@ -93,12 +94,12 @@
 * **MET**: Alpha-1-blockers (e.g., **Tamsulosin** 0.4mg OM) for distal ureteric stones → relaxes ureteric smooth muscle.
 
 ### Definitive Surgical Management Algorithm
-| Stone Location & Size | Recommended 1st Line Intervention |
-|---|---|
-| **Renal Stone < 2cm** | **ESWL (體外震波碎石術)** or FURS (Flexible Ureteroscopy) |
-| **Renal Stone > 2cm** | **PCNL (經皮穿刺腎碎石術)** |
-| **Proximal Ureteric Stone** | ESWL or URS |
-| **Distal Ureteric Stone** | **URS (輸尿管鏡碎石術)** |
+| Stone Location & Size       | Recommended 1st Line Intervention                  |
+| --------------------------- | -------------------------------------------------- |
+| **Renal Stone < 2cm**       | **ESWL (體外震波碎石術)** or FURS (Flexible Ureteroscopy) |
+| **Renal Stone > 2cm**       | **PCNL (經皮穿刺腎碎石術)**                                |
+| **Proximal Ureteric Stone** | ESWL or Flexible URS/RIRS                          |
+| **Distal Ureteric Stone**   | **Rigid URS (輸尿管鏡碎石術)**                            |
 
 ## 7. Key Operative Principles & Consent Issues
 ### ESWL (Extracorporeal Shock Wave Lithotripsy) Principles
@@ -106,9 +107,10 @@
 * Contraindications: Pregnancy, uncorrected bleeding diathesis, untreated UTI, AAA in shockwave path.
 
 ### URS (Ureteroscopy) Principles
-* Rigid URS for distal ureter; Flexible URS (FURS) for proximal ureter/renal pelvis.
+* Rigid URS for distal ureter; Flexible URS (FURS; aka. Retrograde Intrarenal Surgery (RIRS)) for proximal ureter/renal pelvis.
 * Laser lithotripsy (Holmium:YAG laser) used to dust/fragment stones.
 * Often requires temporary JJ stent insertion post-op to prevent ureteric edema obstruction.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/80bb9249bf19d298bf61d96710355a26.png)
 
 ### PCNL (Percutaneous Nephrolotomy) Principles
 * Direct fluoroscopic/US-guided puncture via flank into the renal collecting system.
@@ -148,6 +150,7 @@
 * **Steinstrasse (石街)**: Column of fragmented stones obstructing the ureter post-ESWL.
 * Stent migration or severe lower urinary tract stent symptoms.
 * Post-obstructive diuresis (volume depletion following relief of chronic obstruction).
+![image|230](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/4967144f7a134d9b94f9f999cc6379dd.png)
 
 ### Late Surgical Complications & Prognosis
 * **Ureteric stricture (輸尿管狹窄)**: Ischemia from impacted stone or intra-op scope trauma.
