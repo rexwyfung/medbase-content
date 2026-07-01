@@ -33,6 +33,7 @@
 * **Lateral**: **Inferior epigastric vessels (腹壁下血管)**.
 * **Inferior**: **Inguinal ligament (腹股溝韌帶)**.
 * **Significance**: Site of **Direct Inguinal Hernia** protrusion.
+![image|421](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/b4da20597bbf0f5f933a229e245c09a0.png)
 
 ### Anatomy of the Femoral Canal (股管)
 * **Anterior**: **Inguinal ligament (腹股溝韌帶)**.
@@ -41,14 +42,17 @@
 * **Lateral**: **Femoral vein (股靜脈)**.
 * **Contents**: Lymph node of Cloquet, loose areolar tissue, lymphatics.
 * **Significance**: Narrow, rigid neck → ↑↑ risk of incarceration/strangulation (40% present as emergencies).
+![image|472](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/196650dc385bf160300142e1aec2f949.png)
 
 ### Pathophysiology of Indirect vs Direct Inguinal Hernias
-| Feature | Indirect Inguinal Hernia (間接腹股溝疝) | Direct Inguinal Hernia (直接腹股溝疝) |
-| :--- | :--- | :--- |
-| **Origin** | Congenital (Patent processus vaginalis) | Acquired (Weak transversalis fascia) |
-| **Pathway** | Through Deep Ring → Inguinal Canal → Scrotum | Through Hesselbach's Triangle → straight out |
-| **Relation to Inf. Epigastric Vessels** | **Lateral** | **Medial** |
-| **Age Group** | Children & Young Adults | Elderly (weak connective tissue, ↑ intra-abdominal pressure) |
+| Feature                                 | Direct Inguinal Hernia (直接腹股溝疝)                              | Indirect Inguinal Hernia (間接腹股溝疝)            |
+| :-------------------------------------- | :----------------------------------------------------------- | :------------------------------------------- |
+| **Origin**                              | Acquired (Weak transversalis fascia)                         | Congenital (Patent processus vaginalis)      |
+| **Pathway**                             | Through Hesselbach's Triangle → straight out                 | Through Deep Ring → Inguinal Canal → Scrotum |
+| **Relation to Inf. Epigastric Vessels** | **Medial**                                                   | **Lateral**                                  |
+| **Age Group**                           | Elderly (weak connective tissue, ↑ intra-abdominal pressure) | Children & Young Adults                      |
+
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/9e8a774c1c8e74b76ff3e21f40add2aa.png)
 
 ## 3. Key Symptoms & Signs
 
@@ -70,16 +74,16 @@
 ## 4. Differential Diagnosis & Discriminatory Features
 
 ### Differential Diagnosis of Groin Mass (腹股溝腫塊)
-| Diagnosis | Discriminatory Features |
-| :--- | :--- |
-| **Inguinal Hernia** | +ve cough impulse, reducible, cannot get above it (if scrotal). |
-| **Femoral Hernia** | Mass located **below and lateral** to pubic tubercle. |
-| **Lymphadenopathy** | Multiple, discrete, firm, no cough impulse, look for lower limb/perineal sepsis. |
-| **Saphena Varix** | +ve cough impulse (fluid thrill), disappears on lying, bluish tinge, +ve venous hum. |
-| **Hydrocele (陰囊水腫)** | +ve Transillumination (透光試驗), can get above the lump, smooth, fluctuating. |
-| **Varicocele (精索靜脈曲張)** | "Bag of worms" sensation, mostly left-sided, disappears when supine. |
-| **Lipoma of Cord** | Soft, lobulated, indistinguishable pre-op from hernia. |
-| **Undescended Testis** | Empty hemiscrotum, discrete solid mass in groin. |
+| Diagnosis               | Discriminatory Features                                                              |
+| :---------------------- | :----------------------------------------------------------------------------------- |
+| **Inguinal Hernia**     | +ve cough impulse, reducible, cannot get above it (if scrotal).                      |
+| **Femoral Hernia**      | Mass located **below and lateral** to pubic tubercle.                                |
+| **Lymphadenopathy**     | Multiple, discrete, firm, no cough impulse, look for lower limb/perineal sepsis.     |
+| **Saphena Varix**       | +ve cough impulse (fluid thrill), disappears on lying, bluish tinge, +ve venous hum. |
+| **Hydrocele (陰囊水腫)**    | +ve Transillumination (透光試驗), can get above the lump, smooth, fluctuating.           |
+| **Varicocele (精索靜脈曲張)** | "Bag of worms" sensation, mostly left-sided, disappears when supine.                 |
+| **Lipoma of Cord**      | Soft, lobulated, indistinguishable pre-op from hernia.                               |
+| **Undescended Testis**  | Empty hemiscrotum, discrete solid mass in groin.                                     |
 
 ## 5. Tiered Investigations & Pre-operative Workup (Labs, Imaging, Staging)
 
@@ -94,9 +98,9 @@
 
 ### Pre-operative Workup for Hernia Surgery
 * **Identify Reversible Causes of ↑ Intra-abdominal Pressure**:
-* **BPH (良性前列腺增生)**: IPSS score, rule out urinary retention.
-* **Chronic Cough**: Optimize COPD/Asthma.
-* **Constipation**: Prescribe laxatives.
+	* **BPH (良性前列腺增生)**: IPSS score, rule out urinary retention.
+	* **Chronic Cough**: Optimize COPD/Asthma.
+	* **Constipation**: Prescribe laxatives.
 * **Optimization**: Strict smoking cessation (critical to ↓ recurrence/wound infection), optimize HbA1c <8%.
 
 ## 6. Management Algorithm & Surgical Indications (Conservative, Medical, HA Protocols)
@@ -104,10 +108,16 @@
 ### Conservative Management of Hernias
 * **Watchful Waiting**: Acceptable for asymptomatic/minimally symptomatic direct hernias in elderly unfit for surgery.
 * **Truss (疝氣帶)**: Generally discouraged. Rare indication: extremely high-risk surgical candidate who refuses surgery but wants symptomatic relief. ↑ risk of pressure necrosis & cord fibrosis.
+![image|307](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/f03e90f7b875ebfcf24c6fc8935b8d06.png)
 
 ### Surgical Indications for Hernia Repair
-* **Elective Repair**: Symptomatic hernias, all femoral hernias (due to 40% strangulation risk), patient preference.
-* **Emergency Repair**: Incarcerated, strangulated hernias, or presence of bowel obstruction.
+* **Elective Repair**:
+	* Symptomatic hernias
+	* All femoral hernias (due to 40% strangulation risk)
+	* Patient preference
+* **Emergency Repair**:
+	* Incarcerated, strangulated hernias
+	* Presence of bowel obstruction
 
 ### HA Protocols for Emergency Hernia Presentation
 * **Strangulated**: Resuscitate (IVF, NBM, IV Abx, NGT) → Emergency laparotomy/herniotomy + bowel resection (if dead) + suture repair (avoid synthetic mesh in contaminated field).
@@ -119,11 +129,16 @@
 * **Gold Standard (Open)**: Tension-free repair.
 * **Incision**: Oblique incision above inguinal ligament.
 * **Steps**: Divide external oblique → Dissect/isolate spermatic cord → Identify hernia sac → Reduce contents/ligate sac (Indirect) or invert fascia (Direct) → Place polypropylene mesh behind cord, suturing to conjoint tendon (superiorly) and inguinal ligament (inferiorly).
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a86b9b2a385dd2b30c4a84d36509813b.png)
 
-### Principles of Laparoscopic Repair (TAPP vs TEP)
-* **Indications**: Bilateral hernias, recurrent hernias (after open repair), females (to check for femoral hernia).
+### Indications and Principles of Laparoscopic Repair (TAPP vs TEP)
+* **Indications**:
+	* Bilateral hernias
+	* Recurrent hernias (after open repair)
+	* Females (to check for femoral hernia)
 * **TEP (Total Extraperitoneal)**: Dissection entirely within preperitoneal space. Avoids entry into peritoneal cavity. Technically demanding.
 * **TAPP (Transabdominal Preperitoneal)**: Enters peritoneum, incises peritoneum over groin to place mesh, then closes flap. Better for massive inguino-scrotal hernias or previous lower midline laparotomies.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/0628d65871fff46e3c270f96936497c6.png)
 
 ### Surgical Consent and Risks (Critical HA Medico-legal Points)
 * **General**: Bleeding, wound infection (1-2%).
@@ -139,8 +154,8 @@
 ### Discharge Criteria & Rehabilitation Protocol
 * **Discharge**: Same-day discharge if passing urine (rule out retention), pain controlled, mobilizing well.
 * **Activity Restrictions**:
-* 1-2 weeks: Avoid heavy lifting >5kg, swimming.
-* 4-6 weeks: May resume strenuous exercise/heavy lifting (allow mesh incorporation).
+	* 1-2 weeks: Avoid heavy lifting >5kg, swimming.
+	* 4-6 weeks: May resume strenuous exercise/heavy lifting (allow mesh incorporation).
 * **Sick Leave**: Uncomplicated office worker (1-2 weeks), manual laborer (4 weeks).
 
 ## 9. Surgical Complications (Early, Intermediate, Late) & Prognosis
@@ -153,18 +168,21 @@
 ### Intermediate & Late Surgical Complications
 * **Post-herniorrhaphy Neuralgia (慢性腹股溝痛)**: Pain lasting >3 months.
 * **Nerve Involvements**:
-* **Ilioinguinal n.** (L1): Pain/numbness at base of penis/mons pubis, medial thigh.
-* **Iliohypogastric n.** (T12-L1): Pain/numbness at suprapubic region.
-* **Genitofemoral n. (Genital branch)** (L1-L2): Pain in anterior scrotum/labia majora, loss of cremasteric reflex.
+	* **Ilioinguinal n.** (L1): Pain/numbness at base of penis/mons pubis, medial thigh.
+	* **Iliohypogastric n.** (T12-L1): Pain/numbness at suprapubic region.
+	* **Genitofemoral n. (Genital branch)** (L1-L2): Pain in anterior scrotum/labia majora, loss of cremasteric reflex.
 * **Recurrence**: 1-3%. Higher if: chronic cough, constipation, infection, inadequate mesh overlap.
 * **Ischaemic Orchitis**: Due to damage to testicular artery or pampiniform plexus thrombosis → testicular atrophy.
+![image|402](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/bdf9cc5c1e952ab545a0ca1c65d81b95.png)
 
 ## 10. Examiner's Pearls (High-yield viva questions and common pitfalls)
 
 * Viva Question: How do you clinically differentiate an inguinal from a femoral hernia? Answer: Find the pubic tubercle. Inguinal hernias exit superior and medial to it; femoral hernias exit inferior and lateral to it.
 * Viva Question: What is the anatomical landmark that divides direct from indirect inguinal hernias? Answer: The inferior epigastric vessels. Indirect hernias occur lateral to the vessels; direct hernias occur medial to the vessels in Hesselbach's triangle.
-* Trap: Recommending mesh repair for a strangulated hernia with necrotic bowel. Pearl: Never place synthetic polypropylene mesh in a contaminated field (Class III/IV wound). Perform primary tissue repair (e.g., Shouldice or Bassini) and return for elective mesh repair later if it recurs.
+* Trap: Recommending mesh repair for a strangulated hernia with necrotic bowel. Pearl: Never place synthetic polypropylene mesh in a contaminated field (Class III/IV wound). Perform primary non-mesh tissue repair (e.g., Shouldice or Bassini) and return for elective mesh repair later if it recurs.
 * Pitfall: Discharging an elderly male post-hernia repair without checking voiding status. Always ensure the patient has passed urine prior to discharge from the Day Surgery Unit to avoid missed acute urinary retention, a very common complication.
 * Viva Question: What is the "Triangle of Doom" in laparoscopic hernia repair? Answer: The area bounded medially by the vas deferens and laterally by the gonadal vessels, containing the external iliac artery and vein. Avoid stapling/tacking here.
+	![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/454c5560781343ebb282d69e5b4f58be.png)
 * Viva Question: What is the "Triangle of Pain"? Answer: The area lateral to the gonadal vessels and inferior to the iliopubic tract, containing the lateral femoral cutaneous nerve, femoral branch of the genitofemoral nerve, and femoral nerve. Tacking here causes debilitating chronic pain.
+	![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3e61200393003903cc695eef54d51921.png)
 * Trap: Assuming a direct hernia has a high risk of strangulation. Pearl: Direct hernias have a wide neck (Hesselbach's triangle) and very rarely strangulate. Femoral hernias have a narrow, rigid neck and have the highest rate of strangulation.
