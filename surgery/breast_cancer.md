@@ -114,14 +114,6 @@
 | *5*        | Highly Suggestive of Malignancy (高度懷疑惡性)                                                                 | ≥ 95%                                               | Biopsy strongly recommended.                                                       |
 | *6*        | Known Biopsy-Proven Malignancy (已活檢證實惡性)                                                                 | 100%                                                | Imaging prior to definitive surgery or monitoring response to neoadjuvant therapy. |
 
-### Breast Density Categories on Mammography (乳腺密度分類)
-| *Type* | *Description (描述)*                                | *Clinical Implication (臨床意義)*                                    |
-| ------ | ------------------------------------------------- | ---------------------------------------------------------------- |
-| *A*    | Almost entirely fatty (脂肪型)                       | High mammography sensitivity.                                    |
-| *B*    | Scattered areas of fibroglandular density (少量腺體型) | Average sensitivity.                                             |
-| *C*    | Heterogeneously dense (不均勻緻密型)                    | May obscure small masses.                                        |
-| *D*    | Extremely dense (極度緻密型)                           | Lowers mammography sensitivity; may require supplemental US/MRI. |
-
 ### 3rd Line Investigation: Pathological Confirmation
 * **Core Needle Biopsy (粗針穿刺活檢) [CNB]**: **Gold standard**. Maintains tissue architecture; differentiates DCIS from invasive; tests receptors (ER/PR/HER2).
 * **Fine Needle Aspiration Cytology (微針穿刺細胞學檢查) [FNAC]**: Limited to sampling suspicious axillary LNs; cannot differentiate invasive vs DCIS in primary tumors.
