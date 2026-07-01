@@ -103,6 +103,25 @@
 * **Breast MRI**: Indicated for occult primary, screening high-risk genetic carriers (**BRCA1/BRCA2**), assessing multi-focal disease.
 ![image|438](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/174fda8e202b8db623e86a093194da41.png)
 
+### BI-RADS Assessment Categories (評估分類)
+| *Category* | *Assessment (評估)*                                                                                        | *Risk of Malignancy*                                | *Management (處理建議)*                                                                |
+| ---------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| *0*        | Incomplete (不完整)                                                                                         | N/A                                                 | Additional imaging (e.g., spot compression, US) or prior images.                   |
+| *1*        | Negative / Normal (陰性)                                                                                   | ~0%                                                 | Routine screening.                                                                 |
+| *2*        | Benign (良性) (e.g., cysts, fibroadenomas)                                                                 | ~0%                                                 | Routine screening.                                                                 |
+| *3*        | Probably Benign (可能良性)                                                                                   | < 2%                                                | Short-interval follow-up (usually 6 months).                                       |
+| *4*        | Suspicious (可疑異常)<br> - *4A* : Low suspicion<br> - *4B* : Moderate suspicion<br> - *4C* : High suspicion | 2 - 94%<br> - 2 - 10%<br> - 10 - 50%<br> - 50 - 94% | Tissue diagnosis (biopsy) is recommended.                                          |
+| *5*        | Highly Suggestive of Malignancy (高度懷疑惡性)                                                                 | ≥ 95%                                               | Biopsy strongly recommended.                                                       |
+| *6*        | Known Biopsy-Proven Malignancy (已活檢證實惡性)                                                                 | 100%                                                | Imaging prior to definitive surgery or monitoring response to neoadjuvant therapy. |
+
+### Breast Density Categories on Mammography (乳腺密度分類)
+| *Type* | *Description (描述)*                                | *Clinical Implication (臨床意義)*                                    |
+| ------ | ------------------------------------------------- | ---------------------------------------------------------------- |
+| *A*    | Almost entirely fatty (脂肪型)                       | High mammography sensitivity.                                    |
+| *B*    | Scattered areas of fibroglandular density (少量腺體型) | Average sensitivity.                                             |
+| *C*    | Heterogeneously dense (不均勻緻密型)                    | May obscure small masses.                                        |
+| *D*    | Extremely dense (極度緻密型)                           | Lowers mammography sensitivity; may require supplemental US/MRI. |
+
 ### 3rd Line Investigation: Pathological Confirmation
 * **Core Needle Biopsy (粗針穿刺活檢) [CNB]**: **Gold standard**. Maintains tissue architecture; differentiates DCIS from invasive; tests receptors (ER/PR/HER2).
 * **Fine Needle Aspiration Cytology (微針穿刺細胞學檢查) [FNAC]**: Limited to sampling suspicious axillary LNs; cannot differentiate invasive vs DCIS in primary tumors.
