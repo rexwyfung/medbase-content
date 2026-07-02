@@ -18,9 +18,10 @@
 * **Base location**: Convergence of the 3 **taeniae coli** (結腸帶) at the posteromedial caecum (McBurney’s point/麥氏點).
 * **Blood Supply**: **Appendicular artery** (闌尾動脈) → branch of ileocolic artery. Crucially an **end artery** (prone to thrombosis/ischemia).
 * **Positional Variants**:
-* **Retrocaecal** (盲腸後) (74% - most common).
-* **Pelvic** (骨盆) (21%).
-* Paracaecal, Subcaecal, Pre-ileal, Post-ileal (5%).
+	* **Retrocaecal** (盲腸後) (74% - most common).
+	* **Pelvic** (骨盆) (21%).
+	* Paracaecal, Subcaecal, Pre-ileal, Post-ileal (5%).
+![image|393](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ee84d1819a5f29295ba5b49503ff740b.png)
 
 ### Pathophysiology of Appendiceal Obstruction
 * **Primary Mechanism**: Luminal obstruction.
@@ -52,21 +53,22 @@
 * **Psoas sign**: Pain on R hip extension (suggests retrocaecal appendix).
 * **Obturator sign**: Pain on R hip internal rotation (suggests pelvic appendix).
 * **Dunphy’s sign**: Increased pain in RIF on coughing.
+![image|325](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/8bc91bdca8f037adf2633c3765e8d0bb.png)
 
 ## 4. Differential Diagnosis & Discriminatory Features
 
 ### Differential Diagnosis of Right Iliac Fossa Pain
-| System | Diagnosis (English) | Diagnosis (Traditional Chinese) | Discriminatory Features |
-| :--- | :--- | :--- | :--- |
-| **Gastrointestinal** | Gastroenteritis | 腸胃炎 | Vomiting precedes pain, profuse diarrhea, sick contacts. |
-| **Gastrointestinal** | Mesenteric Adenitis | 腸繫膜淋巴結炎 | Children, generalized nodes, recent URTI history. |
-| **Gastrointestinal** | Meckel's Diverticulitis | 梅克爾憩室炎 | Clinically indistinguishable pre-op; explore terminal ileum if appendix normal. |
-| **Gastrointestinal** | Crohn's Disease (Terminal Ileitis) | 克隆氏症 | Chronic diarrhea, weight loss, RLQ mass, aphthous ulcers. |
-| **Gynecological** | Ectopic Pregnancy | 宮外孕 | **Emergency!** Amenorrhoea, +ve β-hCG, hemodynamic instability. |
-| **Gynecological** | Ovarian Cyst Rupture/Torsion | 卵巢囊腫破裂/扭轉 | Sudden severe onset, mid-cycle (Mittelschmerz), pelvic USG shows free fluid/mass. |
-| **Gynecological** | Pelvic Inflammatory Disease (PID) | 骨盆腔發炎 | Bilateral lower abdo pain, vaginal discharge, cervical motion tenderness. |
-| **Urological** | Ureteric Colic | 輸尿管絞痛 | Loin-to-groin colicky pain, severe distress, microscopic hematuria. |
-| **Urological** | Pyelonephritis | 腎盂腎炎 | High swinging fever, rigors, renal angle tenderness (CVA tenderness). |
+| System               | Diagnosis (English)                | Diagnosis (Traditional Chinese) | Discriminatory Features                                                           |
+| :------------------- | :--------------------------------- | :------------------------------ | :-------------------------------------------------------------------------------- |
+| **Gastrointestinal** | Gastroenteritis                    | 腸胃炎                             | Vomiting precedes pain, profuse diarrhea, sick contacts.                          |
+| **Gastrointestinal** | Mesenteric Adenitis                | 腸繫膜淋巴結炎                         | Children, generalized nodes, recent URTI history.                                 |
+| **Gastrointestinal** | Meckel's Diverticulitis            | 梅克爾憩室炎                          | Clinically indistinguishable pre-op; explore terminal ileum if appendix normal.   |
+| **Gastrointestinal** | Crohn's Disease (Terminal Ileitis) | 克隆氏症                            | Chronic diarrhea, weight loss, RLQ mass, aphthous ulcers.                         |
+| **Gynecological**    | Ectopic Pregnancy                  | 宮外孕                             | **Emergency!** Amenorrhoea, +ve β-hCG, hemodynamic instability.                   |
+| **Gynecological**    | Ovarian Cyst Rupture/Torsion       | 卵巢囊腫破裂/扭轉                       | Sudden severe onset, mid-cycle (Mittelschmerz), pelvic USG shows free fluid/mass. |
+| **Gynecological**    | Pelvic Inflammatory Disease (PID)  | 骨盆腔發炎                           | Bilateral lower abdo pain, vaginal discharge, cervical motion tenderness.         |
+| **Urological**       | Ureteric Colic                     | 輸尿管絞痛                           | Loin-to-groin colicky pain, severe distress, microscopic hematuria.               |
+| **Urological**       | Pyelonephritis                     | 腎盂腎炎                            | High swinging fever, rigors, renal angle tenderness (CVA tenderness).             |
 
 ## 5. Tiered Investigations & Pre-operative Workup (Labs, Imaging, Staging)
 
@@ -77,29 +79,30 @@
 * **Pregnancy Test (UPT/Serum β-hCG)**: Mandatory in ALL females of childbearing age to rule out ectopic pregnancy.
 
 ### Alvarado Scoring System for Acute Appendicitis
-| Mnemonic | Feature | Score |
-| :--- | :--- | :--- |
-| **M** | **M**igratory RIF pain | 1 |
-| **A** | **A**norexia | 1 |
-| **N** | **N**ausea / Vomiting | 1 |
-| **T** | **T**enderness in RIF | 2 |
-| **R** | **R**ebound tenderness | 1 |
-| **E** | **E**levated temperature (>37.3°C) | 1 |
-| **L** | **L**eukocytosis | 2 |
-| **S** | **S**hift to left (Neutrophils) | 1 |
+| Mnemonic | Feature                            | Score |
+| :------- | :--------------------------------- | :---- |
+| **M**    | **M**igratory RIF pain             | 1     |
+| **A**    | **A**norexia                       | 1     |
+| **N**    | **N**ausea / Vomiting              | 1     |
+| **T**    | **T**enderness in RIF              | 2     |
+| **R**    | **R**ebound tenderness             | 1     |
+| **E**    | **E**levated temperature (>37.3°C) | 1     |
+| **L**    | **L**eukocytosis                   | 2     |
+| **S**    | **S**hift to left (Neutrophils)    | 1     |
 * **<5**: Appendicitis unlikely.
 * **5-6**: Equivocal (Observe or CT/USG).
 * **≥7**: Probable appendicitis (Surgical consult).
 
 ### First-line Imaging for Right Iliac Fossa Pain
 * **USG Abdomen & Pelvis** (腹部超聲波):
-* **Target population**: Children, pregnant women, thin adults.
-* **Findings**: Non-compressible, blind-ended tubular structure >6mm diameter, target sign, periappendiceal fluid.
+	* **Target population**: Children, pregnant women, thin adults.
+	* **Findings**: Non-compressible, blind-ended tubular structure >6mm diameter, target sign, periappendiceal fluid.
 
 ### Gold Standard Imaging for Acute Appendicitis
 * **CT Abdomen & Pelvis with IV Contrast** (電腦掃描):
-* **Target population**: Atypical presentation, elderly (rule out Caecum Ca), diagnostic uncertainty.
-* **Findings**: Dilated appendix (>6mm), wall thickening/enhancement, periappendiceal fat stranding, appendicolith, abscess/phlegmon.
+	* **Target population**: Atypical presentation, elderly (rule out Caecum Ca), diagnostic uncertainty.
+	* **Findings**: Dilated appendix (>6mm), wall thickening/enhancement, periappendiceal fat stranding, appendicolith, abscess/phlegmon.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/2a6cedaba189f7c3ce7b489b860318e2.png)
 
 ## 6. Management Algorithm & Surgical Indications (Conservative, Medical, HA Protocols)
 
@@ -108,7 +111,7 @@
 * **IV Fluid Resuscitation**: Crystalloids (Normal Saline or Plasmalyte).
 * **Analgesia**: IV Paracetamol, short-acting opioids (Fentanyl). *Does not obscure clinical signs.*
 * **IV Antibiotics**: Pre-operative prophylaxis within 60 mins of skin incision.
-* **HA Protocol**: Typically IV Amoxicillin/Clavulanate (Augmentin) OR IV Cefuroxime + Metronidazole (covers Gram -ve and anaerobes).
+	* **HA Protocol**: Typically IV Amoxicillin/Clavulanate (Augmentin) OR IV Cefuroxime + Metronidazole (covers Gram -ve and anaerobes).
 
 ### Indications for Emergency Appendectomy
 * Uncomplicated acute appendicitis.
@@ -118,9 +121,9 @@
 ### Management of Appendiceal Mass or Abscess (Ochsner-Sherren Regimen)
 * **Presentation**: Patient presents late (>48-72 hours) with palpable RIF mass (phlegmon/omentum wrapped around inflamed appendix).
 * **Conservative Management (Ochsner-Sherren Regimen)**:
-* NPO, strict bed rest, IV fluids.
-* IV broad-spectrum antibiotics.
-* Vitals + mass size monitoring (mark borders on abdomen).
+	* NPO, strict bed rest, IV fluids.
+	* IV broad-spectrum antibiotics.
+	* Vitals + mass size monitoring (mark borders on abdomen).
 * **Percutaneous Drainage**: Under CT/USG guidance if distinct abscess >3cm.
 * **Interval Follow-up**: Interval appendectomy at 6-8 weeks (traditional). *Modern HA practice:* Increasingly adopting early laparoscopic approach if advanced expertise available.
 * **Mandatory Follow-up in >40 y/o**: Colonoscopy (大腸鏡) at 6-8 weeks to rule out underlying **Caecal Carcinoma** mimicking appendicitis.
@@ -136,12 +139,13 @@
 * **Ligate Base**: Double endoloop (Roeder knot) or surgical stapler.
 * **Transect & Retrieve**: Cut appendix and place in endobag (prevents port-site infection).
 * **Washout**: Copious suction-irrigation if pus/peritonitis present.
+![image|378](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/834488ef125cb1c9a8c1922f03393479.png)
 
 ### Surgical Consent and Risks for Appendectomy
 * **General Risks**: General anesthesia risks, bleeding, Surgical Site Infection (SSI), DVT/PE.
 * **Procedure-Specific Risks**:
-* Intra-abdominal abscess collection.
-* Visceral injury (bowel, bladder, vessels).
+	* Intra-abdominal abscess collection.
+	* Visceral injury (bowel, bladder, vessels).
 * **Right Hemicolectomy** (右半結腸切除術): If appendiceal base is severely necrotic or caecal tumor suspected.
 * **Conversion to Open Surgery** (轉開腹手術): 5-10% rate (due to dense adhesions, unclear anatomy, severe bleeding).
 
@@ -155,8 +159,8 @@
 ### Post-operative Diet and Antibiotic Protocol
 * **Diet**: Diet As Tolerated (DAT) - clear fluids → soft diet → normal diet once +ve bowel sounds or +ve flatus.
 * **Antibiotic Duration**:
-* **Uncomplicated (Non-perforated)**: Discontinue antibiotics within 24 hours post-op.
-* **Complicated (Perforated/Gangrenous)**: Continue therapeutic IV antibiotics for 3-5 days depending on clinical response (fever resolution, normalizing WBC).
+	* **Uncomplicated (Non-perforated)**: Discontinue antibiotics within 24 hours post-op.
+	* **Complicated (Perforated/Gangrenous)**: Continue therapeutic IV antibiotics for 3-5 days depending on clinical response (fever resolution, normalizing WBC).
 
 ## 9. Surgical Complications (Early, Intermediate, Late) & Prognosis
 
