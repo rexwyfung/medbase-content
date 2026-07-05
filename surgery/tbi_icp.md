@@ -5,9 +5,10 @@
 ### Clinical Definition of Traumatic Brain Injury
 * **TBI (創傷性腦損傷):** Alteration in brain function or evidence of brain pathology → caused by external mechanical force.
 * **Severity Grading by Glasgow Coma Scale (格拉斯哥昏迷指數):** 
-* **Mild:** GCS 13–15
-* **Moderate:** GCS 9–12
-* **Severe:** GCS ≤8 (Defines coma → mandates intubation).
+	* **Mild:** GCS 13–15
+	* **Moderate:** GCS 9–12
+	* **Severe:** GCS ≤8 (Defines coma → mandates intubation).
+	![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/d18ffdd8bd573128078b4ec9df25dc7b.png)
 
 ### Local Epidemiology in Hong Kong
 * **Bimodal distribution:** Young adults (motor vehicle accidents, extreme sports) & elderly >65 years (domestic falls).
@@ -21,6 +22,7 @@
 * **Extradural Space:** Between skull & dura → contains middle meningeal artery (MMA).
 * **Subdural Space:** Between dura & arachnoid → contains bridging veins.
 * **Subarachnoid Space:** Between arachnoid & pia → contains CSF & major cerebral blood vessels.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/be03e01c3e7517ba30177c87ed21928f.png)
 
 ### Pathophysiology of Primary Brain Injury
 * **Mechanism:** Instantaneous mechanical damage at moment of impact.
@@ -30,7 +32,9 @@
 ### Pathophysiology of Secondary Brain Injury
 * **Mechanism:** Cascading physiological insults following primary injury (hypoxia, hypotension, ↑ ICP, cerebral oedema).
 * **Monro-Kellie Doctrine:** Fixed cranial vault volume = Brain (80%) + CSF (10%) + Blood (10%). ↑ in one component → ↓ in others → exhaust compliance → exponential ↑ ICP.
-* **Cerebral Perfusion Pressure (CPP):** $CPP = MAP - ICP$. 
+* **Cerebral Perfusion Pressure (CPP):** CPP = MAP - ICP. 
+	* MAP: Mean Arterial Pressure
+	* ICP: Intracranial Pressure
 * **Goal:** Maintain CPP >60 mmHg to ensure adequate cerebral oxygenation.
 
 ## 3. Key Symptoms & Signs
@@ -46,20 +50,28 @@
 * **CSF Leak:** Otorrhoea or rhinorrhoea (+ve Halo sign on filter paper).
 * **Cranial Nerve Palsies:** Commonly CN I (anosmia), VII (facial palsy), VIII (hearing loss).
 * **Haemotympanum:** Blood behind intact tympanic membrane.
+![image|333](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/87bfa51d7406c16e11d37502fa40e344.png)
 
 ### Focal Neurological Deficits and Herniation Syndromes
-* **Uncal Herniation (小腦幕切跡疝):** Compression of CN III → ipsilateral dilated, unreactive pupil (blown pupil) + contralateral hemiparesis (compression of cerebral peduncle/Kernohan's notch phenomenon).
-* **Cushing's Triad (庫欣氏三聯症):** Late sign of brainstem compression → ↑ systolic BP (widened pulse pressure), bradycardia, irregular respirations.
+* **Uncal Herniation (小腦幕切跡疝):** Compression of CN III →
+	* Ipsilateral dilated, unreactive pupil (blown pupil)
+	* Contralateral hemiparesis (compression of cerebral peduncle)
+	* Ipsilateral hemiparesis (Kernohan's notch phenomenon)
+* **Cushing's Triad (庫欣氏三聯症):** Late sign of brainstem compression →
+	* ↑ systolic BP (widened pulse pressure)
+	* Bradycardia
+	* Irregular respirations
 
 ## 4. Differential Diagnosis & Discriminatory Features
 
 ### Differentials for Altered Mental Status in Trauma
-| Pathology | Mechanism/Vessel | Clinical Presentation | CT Brain Findings |
-| :--- | :--- | :--- | :--- |
-| **Extradural Haematoma (EDH) (硬膜外血腫)** | Arterial (MMA tear) via temporoparietal skull fracture | Lucid interval → rapid deterioration. Ipsilateral blown pupil, contralateral weakness. | Biconvex (lens-shaped) hyperdensity. Does NOT cross suture lines. |
-| **Acute Subdural Haematoma (ASDH) (急性硬膜下血腫)** | Venous (tearing of bridging veins) via sudden deceleration | Gradual ↓ GCS. High mortality rate due to underlying parenchymal injury. | Crescent-shaped hyperdensity. Crosses suture lines, NOT dural attachments (falx). |
-| **Traumatic Subarachnoid Haemorrhage (tSAH)** | Disruption of small subarachnoid vessels | Severe headache, photophobia, meningism. | Hyperdensity filling sulci, cisterns, and basal cisterns. |
-| **Diffuse Axonal Injury (DAI) (瀰漫性軸索損傷)** | Rotational/shearing forces on axons | Immediate, prolonged coma disproportionate to CT findings. | Punctate haemorrhages at grey-white junction, corpus callosum, brainstem. |
+| Pathology                                     | Mechanism/Vessel                                           | Clinical Presentation                                                                  | CT Brain Findings                                                                 |
+| :-------------------------------------------- | :--------------------------------------------------------- | :------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------- |
+| **Extradural Haematoma (EDH) (硬膜外血腫)**        | Arterial (MMA tear) via temporoparietal skull fracture     | Lucid interval → rapid deterioration. Ipsilateral blown pupil, contralateral weakness. | Biconvex (lens-shaped) hyperdensity. Does NOT cross suture lines.                 |
+| **Acute Subdural Haematoma (ASDH) (急性硬膜下血腫)** | Venous (tearing of bridging veins) via sudden deceleration | Gradual ↓ GCS. High mortality rate due to underlying parenchymal injury.               | Crescent-shaped hyperdensity. Crosses suture lines, NOT dural attachments (falx). |
+| **Traumatic Subarachnoid Haemorrhage (tSAH)** | Disruption of small subarachnoid vessels                   | Severe headache, photophobia, meningism.                                               | Hyperdensity filling sulci, cisterns, and basal cisterns.                         |
+| **Diffuse Axonal Injury (DAI) (瀰漫性軸索損傷)**     | Rotational/shearing forces on axons                        | Immediate, prolonged coma disproportionate to CT findings.                             | Punctate haemorrhages at grey-white junction, corpus callosum, brainstem.         |
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/17436c9bcd6ba17c59e575f2f535de1d.png)
 
 ## 5. Tiered Investigations & Pre-operative Workup (Labs, Imaging, Staging)
 
@@ -84,20 +96,33 @@
 | **Evacuated Mass V** | Any surgically evacuated lesion. |
 | **Non-Evacuated Mass VI** | High-density lesion >25cc, NOT surgically evacuated. |
 
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a4988d92e6019b0923f1ceaec27bb279.png)
+
 ## 6. Management Algorithm & Surgical Indications (Conservative, Medical, HA Protocols)
 
 ### Initial ATLS Resuscitation Protocol
-* **Airway:** Secure airway early. Intubate if GCS ≤8, loss of gag reflex, or compromised airway. Use in-line C-spine stabilization.
-* **Breathing:** Maintain SpO2 >95%, $PaCO2$ 35–40 mmHg (avoid prophylactic hyperventilation → causes cerebral vasoconstriction/ischaemia).
-* **Circulation:** Isotonic crystalloids (Normal Saline). Target SBP >100 mmHg (age 50-69) or >110 mmHg (age 15-49 or >70). STRICTLY AVOID hypotonic solutions (e.g., D5W) → exacerbates cerebral oedema.
+* **Airway:**
+	* Secure airway early. Intubate if GCS ≤8, loss of gag reflex, or compromised airway.
+	* Use in-line C-spine stabilization.
+* **Breathing:**
+	* Maintain SpO2 >95%, PaCO2 35–40 mmHg (avoid prophylactic hyperventilation → causes cerebral vasoconstriction/ischaemia).
+* **Circulation:**
+	* Isotonic crystalloids (Normal Saline).
+	* Target SBP >100 mmHg (age 50-69) or >110 mmHg (age 15-49 or >70).
+	* STRICTLY AVOID hypotonic solutions (e.g., D5W) → exacerbates cerebral oedema.
 
 ### Medical Management of Elevated Intracranial Pressure (ICP)
-* **Tier 1:** Head elevation 30°, neutral neck position (optimize venous drainage), adequate analgesia/sedation (Propofol/Fentanyl).
+* **Tier 1:**
+	* Head elevation 30°, neutral neck position (optimize venous drainage).
+	* Adequate analgesia/sedation (Propofol/Fentanyl).
 * **Tier 2 (Hyperosmolar Therapy):** 
-* **Mannitol (甘露醇):** 0.5–1g/kg IV bolus (requires intact BBB, contraindicated if hypotensive).
-* **Hypertonic Saline (HTS 3%):** Preferred in multi-trauma with hypotension.
-* **Tier 3:** Neuromuscular blockade, mild hyperventilation (temporary bridge to theatre only), Barbiturate coma.
-* **Seizure Prophylaxis:** **Phenytoin** or **Levetiracetam** for 7 days post-severe TBI.
+	* **Mannitol (甘露醇):** 0.5–1g/kg IV bolus (requires intact BBB, contraindicated if hypotensive).
+	* **Hypertonic Saline (HTS 3%):** Preferred in multi-trauma with hypotension.
+* **Tier 3:**
+	* Neuromuscular blockade.
+	* Mild hyperventilation (temporary bridge to theatre only).
+	* Barbiturate coma.
+	* **Seizure Prophylaxis:** **Phenytoin** or **Levetiracetam** for 7 days post-severe TBI.
 
 ### Surgical Indications for Extradural Haematoma (EDH)
 * **Volume >30 cm³** regardless of GCS.
@@ -153,14 +178,19 @@
 * **Syndrome of Trephined (Sinking Skin Flap Syndrome):** Neurological deterioration due to atmospheric pressure on unprotected brain.
 
 ### Prognostic Factors in Traumatic Brain Injury
-* **Poor Prognosis Predictors:** Advanced age, presentation GCS 3, bilaterally absent pupillary light reflexes, sustained hypoxia/hypotension pre-hospital, uncorrected coagulopathy.
+* **Poor Prognosis Predictors:**
+	* Advanced age
+	* Presentation GCS 3
+	* Bilaterally absent pupillary light reflexes
+	* Sustained hypoxia/hypotension pre-hospital
+	* Uncorrected coagulopathy
 
 ## 10. Examiner's Pearls (High-yield viva questions and common pitfalls)
 
 * Viva Question: What is the Monro-Kellie doctrine? Answer: The cranial cavity is a fixed rigid box containing brain (80%), CSF (10%), and blood (10%); ↑ volume of one component must be compensated by ↓ in others, or ICP will ↑ exponentially.
 * Trap: Hyperventilating a trauma patient prophylactically to prevent ICP rise. Pearl: Prophylactic hyperventilation causes severe cerebral vasoconstriction leading to secondary ischaemia. Only use brief hyperventilation as a temporizing measure for acute herniation.
 * Pitfall: Assuming hypotension is caused by an isolated head injury. Explanation: Isolated head injury almost never causes hypotension (except terminal medullary failure). Always rule out occult bleeding in the chest, abdomen, or pelvis.
-* Viva Question: How do you differentiate a CSF leak from normal rhinorrhoea? Answer: Test for Beta-2 transferrin (gold standard) or perform the halo/ring sign on filter paper.
+* Viva Question: How do you differentiate a CSF leak from normal rhinorrhoea? Answer: Test for Beta-2 transferrin (gold standard) or perform the halo/ring sign on filter paper. ![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/6b9dd9685b9c144237d5b253d09042ae.png)
 * Trap: Proceeding directly to CT head without securing the airway in a combative, hypoxic patient with a GCS of 7. Pearl: Always secure the airway (intubation) first; hypoxia and hypercapnia will rapidly exacerbate secondary brain injury and invalidate neurological assessments.
 * Pitfall: Inserting a nasogastric (NG) tube in a patient with a suspected basal skull fracture. Explanation: The NG tube can inadvertently enter the cranial vault through a cribriform plate fracture. Always use an orogastric (OG) tube instead.
 * Viva Question: What is the target Cerebral Perfusion Pressure (CPP) in severe TBI management? Answer: Target CPP is between 60 to 70 mmHg.
