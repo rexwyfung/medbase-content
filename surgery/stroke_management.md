@@ -85,6 +85,7 @@
 * **CT Angiogram (CTA) Brain & Neck:** Identifies Large Vessel Occlusion (LVO) (大血管阻塞) for Endovascular Thrombectomy (EVT) and carotid stenosis.
 * **CT Perfusion (CTP):** Differentiates dead core from salvageable penumbra (mismatch ratio). Crucial for extended window EVT (6-24 hours).
 * **MRI Brain (DWI/ADC sequences):** Most sensitive for early ischaemic changes; identifies micro-bleeds.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/172b7b2ddee512a68e708a1d450d2d74.png)
 
 ### Essential Pre-operative Laboratory Workup
 * **Capillary Blood Glucose (CBG):** Stat rule out hypoglycaemia.
