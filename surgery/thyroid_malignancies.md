@@ -102,14 +102,16 @@
 ## 6. Management Algorithm & Surgical Indications (Conservative, Medical, HA Protocols)
 
 ### Surgical Indications based on Bethesda Cytology Algorithm
-| Bethesda Category | Description | HA Standard Management |
-| :--- | :--- | :--- |
-| **I. Non-diagnostic** | Insufficient cells | Repeat USG-guided FNA. |
-| **II. Benign** | Colloid nodule, thyroiditis | Clinical observation, annual USG. |
-| **III. AUS/FLUS** | Atypia of undetermined sig. | Repeat FNA in 3-6 months or genetic testing. |
-| **IV. Follicular Neoplasm** | Suspicious for FTC | Diagnostic Hemithyroidectomy. |
-| **V. Suspicious for Malignancy** | Likely PTC | Total Thyroidectomy or Hemithyroidectomy. |
-| **VI. Malignant** | Confirmed carcinoma | Total Thyroidectomy (usually). |
+| Bethesda Category                | Description                                       | HA Standard Management                       |
+| :------------------------------- | :------------------------------------------------ | :------------------------------------------- |
+| **I. Non-diagnostic**            | Insufficient cells                                | Repeat USG-guided FNA.                       |
+| **II. Benign**                   | Colloid nodule, thyroiditis                       | Clinical observation, annual USG.            |
+| **III. AUS/FLUS**                | Atypia / Follicular neoplasm of undetermined sig. | Repeat FNA in 3-6 months or genetic testing. |
+| **IV. Follicular Neoplasm**      | Suspicious for FTC                                | Diagnostic Hemithyroidectomy.                |
+| **V. Suspicious for Malignancy** | Likely PTC                                        | Total Thyroidectomy or Hemithyroidectomy.    |
+| **VI. Malignant**                | Confirmed carcinoma                               | Total Thyroidectomy (usually).               |
+
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3bd416f11b6985fc9ee9d49f79b2186c.png)
 
 ### Management Algorithm for Well-Differentiated Thyroid Cancer (PTC/FTC)
 * **Hemithyroidectomy (單側甲狀腺切除術)**: Indicated for low-risk, unifocal tumor < 4cm, no extrathyroidal extension, no clinical lymph node mets (cN0).
@@ -126,9 +128,9 @@
 ### Post-Operative Endocrine Management Algorithm
 * **Thyroid Hormone Suppression**: Lifelong **Levothyroxine (左旋甲狀腺素)** replacement.
 * **Target TSH**:
-* **High-risk disease**: Suppress TSH to < 0.1 mU/L.
-* **Low/Intermediate-risk**: Suppress TSH to 0.1 - 0.5 mU/L.
-* **Surveillance**: Serial serum Thyroglobulin (Tg) + Anti-Tg Ab, and USG Neck every 6-12 months.
+	* **High-risk disease**: Suppress TSH to < 0.1 mU/L.
+	* **Low/Intermediate-risk**: Suppress TSH to 0.1 - 0.5 mU/L.
+	* **Surveillance**: Serial serum Thyroglobulin (Tg) + Anti-Tg Ab, and USG Neck every 6-12 months.
 
 ## 7. Key Operative Principles & Consent Issues
 
@@ -158,8 +160,8 @@
 * **Monitoring**: Check serum Calcium and PO4 on Post-Op Day 1 (or PTH at 4 hours post-op).
 * **Clinical Assessment**: Check for perioral numbness, tingling, **Chvostek’s sign** (facial twitching on tapping facial nerve), **Trousseau’s sign** (carpopedal spasm with BP cuff).
 * **Intervention for Hypocalcemia**:
-* **Mild/Asymptomatic**: PO Calcium Carbonate + PO Alfacalcidol (Vitamin D analogue).
-* **Severe/Symptomatic/ECG changes (prolonged QT)**: IV 10% Calcium Gluconate slowly via central line or large bore IV.
+	* **Mild/Asymptomatic**: PO Calcium Carbonate + PO Alfacalcidol (Vitamin D analogue).
+	* **Severe/Symptomatic/ECG changes (prolonged QT)**: IV 10% Calcium Gluconate slowly via central line or large bore IV.
 
 ### Long-term Rehabilitation & Follow-up
 * **Medication Compliance**: Ensure patient understands lifelong need for Thyroxine on empty stomach.
