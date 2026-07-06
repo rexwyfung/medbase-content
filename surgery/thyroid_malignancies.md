@@ -17,6 +17,7 @@
 * **External Branch of Superior Laryngeal Nerve (EBSLN) (喉上神經外支)**: Runs close to superior thyroid vessels → supplies cricothyroid muscle (tenses vocal cords).
 * **Parathyroid Glands (副甲狀腺)**: Typically 4 glands; blood supply predominantly from **Inferior Thyroid Artery** branches.
 * **Venous Drainage**: Superior/Middle → IJV; Inferior → Brachiocephalic vein.
+![image|292](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/cdd68b933c42bcfde04dd38f14030421.png)
 
 ### Pathophysiology of Papillary Thyroid Carcinoma (PTC)
 * **Incidence**: Most common (80-85%).
@@ -24,6 +25,7 @@
 * **Spread Pattern**: Primarily lymphatic (cervical lymph nodes).
 * **Histology**: **Psammoma bodies** (calcifications), **Orphan Annie eye nuclei** (optically clear), intranuclear inclusions/grooves.
 * **Genetics**: **BRAF V600E** (associated with aggressive course in HK populations), RET/PTC rearrangements.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/e7ba46b2ed9232c5c186e7c324bba104.png)
 
 ### Pathophysiology of Follicular Thyroid Carcinoma (FTC)
 * **Incidence**: 10-15%. More common in iodine-deficient areas.
@@ -31,6 +33,7 @@
 * **Spread Pattern**: Hematogenous (lungs, bone).
 * **Histology**: Must show **capsular or vascular invasion** to distinguish from benign adenoma.
 * **Genetics**: RAS mutations, PAX8-PPARγ translocations.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/6ec5e867bdbf21cfdad801f5d601d31e.png)
 
 ### Pathophysiology of Medullary Thyroid Carcinoma (MTC)
 * **Incidence**: 5%.
@@ -38,6 +41,7 @@
 * **Markers**: ↑ **Calcitonin (降鈣素)**, ↑ CEA.
 * **Histology**: Solid pattern, **amyloid stroma** (Congo red +ve, apple-green birefringence).
 * **Genetics**: 20% familial (MEN 2A, MEN 2B, Familial MTC) → **RET proto-oncogene** germline mutation.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/5990ce85af01d04591a696f48d37c86f.png)
 
 ### Pathophysiology of Anaplastic Thyroid Carcinoma (ATC)
 * **Incidence**: <1%. Occurs in elderly (>65 yrs).
