@@ -69,13 +69,13 @@
 ## 4. Differential Diagnosis & Discriminatory Features
 
 ### Differential Diagnosis for Anterior Neck Mass
-| Pathology | Distinguishing Clinical / Histological Features |
-| :--- | :--- |
-| **Multinodular Goiter (MNG) (多結節性甲狀腺腫)** | Multiple nodules, soft/firm, functionally usually euthyroid, no capsular invasion. |
-| **Follicular Adenoma (濾泡狀腺瘤)** | Benign, encapsulated mass. Indistinguishable from FTC on FNA. Needs histology. |
-| **Hashimoto's Thyroiditis (橋本氏甲狀腺炎)** | Diffusely enlarged, rubbery. Anti-TPO Ab +ve. Hypothyroid. ↑ risk of primary thyroid lymphoma. |
-| **Thyroid Cyst (甲狀腺囊腫)** | Fluid-filled on USG. Sudden painful enlargement if hemorrhagic. |
-| **Thyroglossal Duct Cyst (甲狀舌管囊腫)** | Midline mass, moves upwards with tongue protrusion. |
+| Pathology                                | Distinguishing Clinical / Histological Features                                                |
+| :--------------------------------------- | :--------------------------------------------------------------------------------------------- |
+| **Multinodular Goiter (MNG) (多結節性甲狀腺腫)** | Multiple nodules, soft/firm, functionally usually euthyroid, no capsular invasion.             |
+| **Follicular Adenoma (濾泡狀腺瘤)**           | Benign, encapsulated mass. Indistinguishable from FTC on FNA. Needs histology.                 |
+| **Hashimoto's Thyroiditis (橋本氏甲狀腺炎)**    | Diffusely enlarged, rubbery. Anti-TPO Ab +ve. Hypothyroid. ↑ risk of primary thyroid lymphoma. |
+| **Thyroid Cyst (甲狀腺囊腫)**                 | Fluid-filled on USG. Sudden painful enlargement if hemorrhagic.                                |
+| **Thyroglossal Duct Cyst (甲狀舌管囊腫)**      | Midline mass, moves upwards with tongue protrusion.                                            |
 
 ## 5. Tiered Investigations & Pre-operative Workup (Labs, Imaging, Staging)
 
