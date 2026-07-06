@@ -187,7 +187,7 @@
 ## 10. Examiner's Pearls (High-yield viva questions and common pitfalls)
 
 * Viva Question: What is the defining CT head feature of a hyperacute MCA occlusion? Answer: The hyperdense MCA sign (representing the acute intraluminal thrombus).
-* Viva Question: Which vascular territory is affected if a patient presents with pure motor hemiparesis but intact language and visual fields? Answer: Lacunar stroke (LACS) involving the internal capsule or basal ganglia, supplied by lenticulostriate arteries.
+* Viva Question: Which vascular territory is affected if a patient presents with pure motor hemiparesis but intact language and visual fields? Answer: Lacunar stroke (LACS) involving the internal capsule or basal ganglia, supplied by lenticulostriate arteries. ![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/e168ad38bcd648f511b3c70c7a0b5047.png)
 * Trap: Lowering blood pressure rapidly in an acute ischaemic stroke. Pearl: Permissive hypertension is necessary to perfuse the ischaemic penumbra. Do not give antihypertensives unless BP >220/120 mmHg (or >185/110 mmHg if planning IV thrombolysis).
 * Trap: Assuming a patient with slurred speech and facial droop must have a stroke. Pearl: Always do a stat Capillary Blood Glucose (CBG) first. Hypoglycaemia is a common and easily reversible stroke mimic.
 * Pitfall: Reversing Warfarin in acute ischaemic stroke before giving tPA. Administering Vitamin K/PCC makes the patient hypercoagulable and worsens the stroke. If INR is >1.7, tPA is strictly contraindicated; proceed directly to Endovascular Thrombectomy (EVT) workup.
