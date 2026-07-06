@@ -19,11 +19,13 @@
 * **Anterior Circulation (前循環):** Internal Carotid Artery (ICA) → Middle Cerebral Artery (MCA) & Anterior Cerebral Artery (ACA). Supplies frontal, parietal, temporal lobes, basal ganglia.
 * **Posterior Circulation (後循環):** Vertebral Arteries → Basilar Artery → Posterior Cerebral Arteries (PCA). Supplies brainstem, cerebellum, occipital lobe.
 * **Circle of Willis (威利氏環):** Anastomotic polygon at skull base providing collateral flow.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/fcf80107ae6e54dd0a429f3f8814cb9e.png)
 
 ### Pathophysiology of Ischaemic Stroke & The Penumbra (半暗帶)
 * **Core Infarct (核心壞死區):** Region of severe ischaemia (CBF <10mL/100g/min) → irreversible cell death / necrosis.
 * **Ischaemic Penumbra (缺血半暗帶):** Surrounding viable tissue (CBF 10-20mL/100g/min) functionally impaired but structurally intact → target of acute revascularization (Thrombolysis/Thrombectomy).
 * **Cytotoxic Oedema:** Failure of ATP-dependent Na+/K+ pumps → intracellular fluid accumulation → ↑ Intracranial Pressure (ICP) (顱內壓).
+![image|399](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/5db3e4c483285feb18f124e43edbae77.png)
 
 ### Pathophysiology of Haemorrhagic Stroke
 * **Hypertensive Angiopathy:** Charcot-Bouchard microaneurysms in deep penetrating arteries (lenticulostriate) → rupture into basal ganglia/thalamus.
@@ -54,27 +56,30 @@
 ## 4. Differential Diagnosis & Discriminatory Features
 
 ### Stroke Mimics (中風模仿症狀)
-| Differential Diagnosis | Key Discriminatory Features |
-| :--- | :--- |
-| **Hypoglycaemia (低血糖)** | History of DM + insulin/sulfonylurea, rapidly reversible with IV dextrose. |
-| **Todd's Paresis (托德氏麻痺)** | Post-ictal localized weakness following a focal seizure, resolves <48h. |
-| **Hemiplegic Migraine** | Gradual onset "aura", visual scintillations, severe headache, younger patient. |
+| Differential Diagnosis     | Key Discriminatory Features                                                              |
+| :------------------------- | :--------------------------------------------------------------------------------------- |
+| **Hypoglycaemia (低血糖)**    | History of DM + insulin/sulfonylurea, rapidly reversible with IV dextrose.               |
+| **Todd's Paresis (托德氏麻痺)** | Post-ictal localized weakness following a focal seizure, resolves <48h.                  |
+| **Hemiplegic Migraine**    | Gradual onset "aura", visual scintillations, severe headache, younger patient.           |
 | **Space-Occupying Lesion** | Brain tumour/abscess → insidious progressive onset, papilloedema, +ve mass effect on CT. |
-| **Bell's Palsy (貝爾氏麻痺)** | LMN facial nerve palsy (forehead involvement). Stroke is UMN (forehead spared). |
+| **Bell's Palsy (貝爾氏麻痺)**   | LMN facial nerve palsy (forehead involvement). Stroke is UMN (forehead spared).          |
 
 ### Bamford / Oxfordshire Clinical Classification
-| Stroke Syndrome | Clinical Criteria (Must meet specific combinations) |
-| :--- | :--- |
-| **TACS (Total Anterior)** | ALL 3: Higher dysfunction (Aphasia/Neglect) + Homonymous hemianopia + Contralateral hemiparesis/sensory loss. |
-| **PACS (Partial Anterior)** | 2 of 3 TACS criteria, OR isolated higher dysfunction, OR isolated partial motor/sensory deficit. |
-| **LACS (Lacunar)** | Pure motor, Pure sensory, Sensori-motor, or Ataxic hemiparesis. NO higher cortical dysfunction/hemianopia. |
-| **POCS (Posterior)** | Cerebellar/Brainstem signs, crossed deficits, isolated hemianopia, or conjugate eye movement disorder. |
+| Stroke Syndrome             | Clinical Criteria (Must meet specific combinations)                                                           |
+| :-------------------------- | :------------------------------------------------------------------------------------------------------------ |
+| **TACS (Total Anterior)**   | ALL 3: Higher dysfunction (Aphasia/Neglect) + Homonymous hemianopia + Contralateral hemiparesis/sensory loss. |
+| **PACS (Partial Anterior)** | 2 of 3 TACS criteria, OR isolated higher dysfunction, OR isolated partial motor/sensory deficit.              |
+| **LACS (Lacunar)**          | Pure motor, Pure sensory, Sensori-motor, or Ataxic hemiparesis. NO higher cortical dysfunction/hemianopia.    |
+| **POCS (Posterior)**        | Cerebellar/Brainstem signs, crossed deficits, isolated hemianopia, or conjugate eye movement disorder.        |
+
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/131c892fb6c39f02478475ff49cb1027.png)
 
 ## 5. Tiered Investigations & Pre-operative Workup (Labs, Imaging, Staging)
 
 ### Immediate Tier 1 Imaging Workup (Code Stroke)
 * **Non-Contrast CT Brain (NCCT):** Gold standard 1st-line test to rule out Haemorrhage.
 * **Ischaemic Signs on NCCT:** Loss of insular ribbon, obscurement of lentiform nucleus, hyperdense MCA sign (acute thrombus).
+![image|429](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/8bf0deed8633e34c5c44ff2866316559.png)
 
 ### Advanced Tier 2 Imaging Workup (Neurovascular)
 * **CT Angiogram (CTA) Brain & Neck:** Identifies Large Vessel Occlusion (LVO) (大血管阻塞) for Endovascular Thrombectomy (EVT) and carotid stenosis.
@@ -96,7 +101,12 @@
 
 ### HA Code Stroke & Acute Medical Management
 * **IV Thrombolysis (rTPA / Alteplase):** Indicated within **4.5 hours** of symptom onset.
-* **Thrombolysis Contraindications:** BP >185/110 mmHg, recent surgery/trauma <14 days, active bleeding, INR >1.7, PLT <100, severe prior ICH.
+	* **Thrombolysis Contraindications:**
+		* BP >185/110 mmHg
+		* Recent surgery/trauma <14 days
+		* Active bleeding
+		* INR >1.7, PLT <100
+		* Severe prior ICH
 * **Blood Pressure Targets (Ischaemic):** Permissive hypertension to maintain cerebral perfusion. Do not lower unless >220/120 mmHg (or >185/110 if receiving tPA).
 * **Blood Pressure Targets (Haemorrhagic):** Strict control <140 mmHg systolic to prevent haematoma expansion.
 
@@ -104,15 +114,18 @@
 * **Anterior Circulation LVO:** ICA or proximal MCA (M1) occlusion.
 * **Time Window:** Within 6 hours (standard), or up to 24 hours if favourable core-penumbra mismatch on CTP (DAWN/DEFUSE-3 criteria).
 * **Pre-morbid Status:** mRS 0-1 (independent).
+![image|355](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/9667c2df988148b2d7dd6f317899e4e5.png)
 
 ### Surgical Indications for Ischaemic Stroke
 * **Decompressive Hemicraniectomy (減壓性顱骨切除術):** Indicated for "Malignant MCA syndrome" (massive cerebral oedema causing midline shift/herniation).
 * **Timing for Craniectomy:** Ideally within 48 hours for patients <60 years old with profound deficits to reduce mortality (though high risk of severe disability remains).
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/c498b27304b3a34871fedd0cb5b8d82f.png)
 
 ### Surgical Indications for Haemorrhagic Stroke (ICH)
 * **External Ventricular Drain (EVD) (體外腦室引流):** Indicated for acute hydrocephalus due to intraventricular haemorrhage extension.
 * **Surgical Evacuation (Craniotomy):** Indicated for superficial lobar clots (>30cm3) causing neurological deterioration. Deep basal ganglia clots generally managed conservatively.
 * **Posterior Fossa Decompression:** Urgent suboccipital craniectomy for cerebellar haemorrhage >3cm causing brainstem compression or 4th ventricle effacement.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/997f7ebdb5e955935e479d9ab12d997f.png)
 
 ## 7. Key Operative Principles & Consent Issues
 
@@ -169,6 +182,7 @@
 * **Spasticity & Contractures:** UMN lesions leading to severe hypertonia (requires Botox/Baclofen).
 * **Post-Stroke Depression:** Under-diagnosed, requires SSRIs and psychological support.
 * **Prognosis Scoring:** Modified Rankin Scale (mRS) used to assess functional outcomes (0 = asymptomatic, 6 = death; ≤2 is functional independence).
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/421c244b4ca46c7ae189e957244c934c.png)
 
 ## 10. Examiner's Pearls (High-yield viva questions and common pitfalls)
 
