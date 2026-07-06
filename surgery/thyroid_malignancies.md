@@ -87,8 +87,14 @@
 
 ### Gold Standard Imaging for Thyroid Nodules
 * **USG Neck (頸部超聲波)**: Assesses size, solid/cystic, vascularity, cervical nodes.
-* **Malignant USG Features**: Hypoechoic, microcalcifications, ill-defined margins, taller-than-wide shape, ↑ central vascularity.
+* **Malignant USG Features**:
+	* Hypoechoic
+	* Microcalcifications
+	* Ill-defined margins
+	* Taller-than-wide shape
+	* ↑ central vascularity
 * **Hong Kong HA Protocol**: Uses TIRADS/U-scoring to dictate need for biopsy.
+	![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3bd416f11b6985fc9ee9d49f79b2186c.png)
 
 ### Tissue Diagnosis for Thyroid Nodules
 * **USG-guided FNA (幼針抽吸生檢)**: 1st line tissue diagnosis.
@@ -110,8 +116,6 @@
 | **IV. Follicular Neoplasm**      | Suspicious for FTC                                | Diagnostic Hemithyroidectomy.                |
 | **V. Suspicious for Malignancy** | Likely PTC                                        | Total Thyroidectomy or Hemithyroidectomy.    |
 | **VI. Malignant**                | Confirmed carcinoma                               | Total Thyroidectomy (usually).               |
-
-![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3bd416f11b6985fc9ee9d49f79b2186c.png)
 
 ### Management Algorithm for Well-Differentiated Thyroid Cancer (PTC/FTC)
 * **Hemithyroidectomy (單側甲狀腺切除術)**: Indicated for low-risk, unifocal tumor < 4cm, no extrathyroidal extension, no clinical lymph node mets (cN0).
