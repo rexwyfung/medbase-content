@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e7c9dd89390e4965",
+        "id": "497eafb2bfa2152f",
         "type": "tabs",
         "children": [
           {
-            "id": "e9b03f3528a7933b",
+            "id": "feaa3a7e08e5491c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "surgery/thyroid_nodule.md",
+                "file": "surgery/neuro_oncology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "thyroid_nodule"
-            }
-          },
-          {
-            "id": "560a4c30da9f5f6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "surgery/thyroid_malignancies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "thyroid_malignancies"
+              "title": "neuro_oncology"
             }
           }
         ]
@@ -198,8 +184,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "e9b03f3528a7933b",
+  "active": "feaa3a7e08e5491c",
   "lastOpenFiles": [
+    "paediatrics/brain_tumour.md",
     "surgery/thyroid_malignancies.md",
     "surgery/thyroid_nodule.md",
     "surgery/stroke_management.md",
@@ -225,7 +212,6 @@
     "surgery/aortic_disease.md",
     "surgery/lung_cancer.md",
     "surgery/vascular_emergencies.md",
-    "surgery/choledocholithiasis_cholangitis.md",
     "surgery",
     "paediatrics/Untitled",
     "Logo-white bg.png",

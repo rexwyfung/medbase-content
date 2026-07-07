@@ -28,6 +28,7 @@
 * **Uncal Herniation (鉤回疝)**: Medial temporal lobe (uncus) pushed over tentorial edge → compresses CN III (ipsilateral blown pupil) → compresses cerebral peduncle (contralateral hemiparesis).
 * **Subfalcine Herniation (大腦鐮下疝)**: Cingulate gyrus pushed under falx cerebri → compresses Anterior Cerebral Artery (ACA) → contralateral leg weakness.
 * **Tonsillar Herniation (小腦扁桃體疝)**: Cerebellar tonsils pushed through foramen magnum → compresses medulla → respiratory arrest/cardiovascular collapse (Cushing's reflex end-stage).
+![image|301](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a2147731a7f7bbb97114205730b4c11e.png)
 
 ## 3. Key Symptoms & Signs
 
@@ -42,22 +43,26 @@
 * **Temporal Lobe (顳葉)**: Complex partial seizures (olfactory/gustatory auras), memory impairment, superior homonymous quadrantanopia ("pie in the sky").
 * **Occipital Lobe (枕葉)**: Contralateral homonymous hemianopia with macular sparing.
 * **Cerebellum (小腦)**: Ipsilateral ataxia, dysmetria, intention tremor, nystagmus, broad-based gait.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/2d815693eb635174d817c774df09d01b.png)
 
 ### Specific Brain Tumour Syndromes
 * **Cerebellopontine Angle (CPA) Syndrome**: Unilateral sensorineural hearing loss, tinnitus, vertigo (CN VIII), absent corneal reflex (CN V), facial palsy (CN VII); classic for **Vestibular Schwannoma (前庭神經鞘瘤)**.
 * **Foster Kennedy Syndrome**: Ipsilateral anosmia and optic atrophy (direct tumour compression) + contralateral papilloedema (raised ICP); classic for olfactory groove meningioma.
 * **Parinaud Syndrome**: Upward gaze paralysis, convergence-retraction nystagmus, pupillary light-near dissociation; classic for **Pineal Gland Tumours (松果體瘤)**.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/bf7074edbc53030e1f91de9a49aaf574.png)
 
 ## 4. Differential Diagnosis & Discriminatory Features
 
 ### Differential Diagnosis of Intracranial Space-Occupying Lesions (SOL)
-| Pathology | Clinical Course | CT/MRI Discriminatory Features |
-| :--- | :--- | :--- |
-| **Primary High-Grade Glioma** | Weeks to months; progressive deficit, seizures. | Irregular thick ring enhancement; crosses corpus callosum ("Butterfly glioma"); significant surrounding oedema. |
-| **Brain Metastases** | Weeks to months; known primary cancer (Lung/Breast/Colon). | Multiple lesions at grey-white matter junction; extensive surrounding vasogenic oedema. |
-| **Meningioma** | Years; often incidental, slowly progressive compression. | Extra-axial, dural tail sign, hyperdense on plain CT, broad-based on dura, hyperostosis of adjacent bone. |
-| **Brain Abscess (腦膿腫)** | Days to weeks; fever, systemic source (endocarditis/sinusitis). | Thin, smooth, complete ring enhancement; marked restricted diffusion on DWI MRI. |
-| **Intracerebral Haemorrhage** | Hyper-acute (minutes); sudden severe deficit/headache. | Hyperdense on non-contrast CT; minimal oedema acutely; tracking into ventricles. |
+| Pathology                     | Clinical Course                                                 | CT/MRI Discriminatory Features                                                                                  |
+| :---------------------------- | :-------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
+| **Primary High-Grade Glioma** | Weeks to months; progressive deficit, seizures.                 | Irregular thick ring enhancement; crosses corpus callosum ("Butterfly glioma"); significant surrounding oedema. |
+| **Brain Metastases**          | Weeks to months; known primary cancer (Lung/Breast/Colon).      | Multiple lesions at grey-white matter junction; extensive surrounding vasogenic oedema.                         |
+| **Meningioma**                | Years; often incidental, slowly progressive compression.        | Extra-axial, dural tail sign, hyperdense on plain CT, broad-based on dura, hyperostosis of adjacent bone.       |
+| **Brain Abscess (腦膿腫)**       | Days to weeks; fever, systemic source (endocarditis/sinusitis). | Thin, smooth, complete ring enhancement; marked restricted diffusion on DWI MRI.                                |
+| **Intracerebral Haemorrhage** | Hyper-acute (minutes); sudden severe deficit/headache.          | Hyperdense on non-contrast CT; minimal oedema acutely; tracking into ventricles.                                |
+
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a17fb610f06c66a9971da547e10fb7e4.png)
 
 ## 5. Tiered Investigations & Pre-operative Workup
 
@@ -86,7 +91,10 @@
 
 ### Surgical Resection Indications
 * **Maximal Safe Resection**: Primary goal is obtaining tissue diagnosis, relieving mass effect, and cytoreduction while strictly preserving neurological function.
-* **Indications for Biopsy Only**: Lesions in deep/eloquent areas (brainstem, thalamus), primary CNS lymphoma (responds completely to high-dose Methotrexate), or poor functional status (KPS < 70).
+* **Indications for Biopsy Only**:
+	* Lesions in deep/eloquent areas (brainstem, thalamus).
+	* Primary CNS lymphoma (responds completely to high-dose Methotrexate).
+	* Poor functional status (KPS < 70).
 * **Emergent Surgery**: Acute hydrocephalus requiring External Ventricular Drain (EVD) or rapidly deteriorating GCS due to imminent herniation.
 
 ### Hong Kong Hospital Authority Oncology Protocols
@@ -101,6 +109,7 @@
 * **Awake Craniotomy (清醒開顱手術)**: Indicated for tumours infiltrating eloquent cortex (Broca's/Wernicke's/Motor). Patient is awoken post-craniotomy for intra-operative cortical mapping using bipolar stimulation to avoid permanent deficit.
 * **5-ALA Fluorescence (Gliolan)**: Patient drinks 5-Aminolevulinic acid pre-op; high-grade glioma cells fluoresce pink/red under special blue operative microscope light, maximizing extent of resection.
 * **Intra-operative Neuromonitoring (IONM)**: SSEP, MEP, and continuous cranial nerve EMG monitoring to preserve functional integrity.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/187a0ce583bc40338587d7815de1f9bd.png)
 
 ### Informed Consent and Specific Surgical Risks
 * **Neurological Deficit**: Permanent weakness, sensory loss, aphasia, or visual field cuts depending on tumour location.
@@ -138,7 +147,7 @@
 
 ## 10. Examiner's Pearls (High-yield viva questions and common pitfalls)
 
-* Viva Question: What is the classic presentation of a patient with a Vestibular Schwannoma? Answer: Unilateral sensorineural hearing loss, continuous tinnitus, vertigo, and an absent ipsilateral corneal reflex due to CN V compression in the Cerebellopontine Angle.
+* Viva Question: What is the classic presentation of a patient with a Vestibular Schwannoma? Answer: Unilateral sensorineural hearing loss, continuous tinnitus, vertigo, and an absent ipsilateral corneal reflex due to CN V compression in the Cerebellopontine Angle. ![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/c551bfe7edbc3767ca85f95e79ce205d.png)
 * Viva Question: Why do brain tumours rarely metastasize outside the central nervous system? Answer: The brain lacks a traditional lymphatic drainage system, and the dural venous sinuses do not easily allow large tumour cells to escape the rigid cranial vault into systemic circulation before the primary intracranial mass becomes lethal.
 * Trap: Assuming a patient with a brain tumour presenting with a new focal deficit has had an acute tumour enlargement. Pearl: Rapid, acute deterioration (minutes to hours) in a known brain tumour patient is almost always caused by an acute intratumoral haemorrhage or an acute seizure (Todd's paresis), not tumour growth.
 * Trap: Performing a lumbar puncture to rule out meningitis in a patient presenting with headache, vomiting, and a suspected brain tumour. Pearl: Lumbar puncture is absolutely contraindicated in patients with intracranial space-occupying lesions due to the massive risk of precipitating fatal tonsillar herniation; always do a CT brain first.
