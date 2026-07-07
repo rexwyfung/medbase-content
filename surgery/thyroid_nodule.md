@@ -70,12 +70,12 @@
 
 ### Radiological Imaging (USG & Scans)
 * **USG Neck (頸部超聲波)**: Primary modality to assess nodule characteristics & guide FNAC
-* **TIRADS Scoring (USG Risk Stratification)**:
-	* TR1: Benign (0 points)
-	* TR2: Not suspicious (2 points)
-	* TR3: Mildly suspicious (3 points) → FNAC if ≥2.5cm
-	* TR4: Moderately suspicious (4-6 points) → FNAC if ≥1.5cm
-	* TR5: Highly suspicious (≥7 points) → FNAC if ≥1cm
+	* **TIRADS Scoring (USG Risk Stratification)**:
+		* TR1: Benign (0 points)
+		* TR2: Not suspicious (2 points)
+		* TR3: Mildly suspicious (3 points) → FNAC if ≥2.5cm
+		* TR4: Moderately suspicious (4-6 points) → FNAC if ≥1.5cm
+		* TR5: Highly suspicious (≥7 points) → FNAC if ≥1cm
 * **Radionuclide Thyroid Scan (Tc-99m or I-123)**: Indicated ONLY if TSH ↓. Detects "hot" (hyperfunctioning, rarely malignant) vs "cold" nodules.
 
 ### Fine Needle Aspiration Cytology (FNAC)
