@@ -17,8 +17,8 @@
 * **Arterial Supply**: Superior thyroid a. (from external carotid), Inferior thyroid a. (from thyrocervical trunk)
 * **Venous Drainage**: Superior/Middle (→ IJV), Inferior (→ Brachiocephalic v.)
 * **Nerve Relations (CRITICAL)**:
-* **Recurrent Laryngeal Nerve (RLN) (喉返神經)**: Ascends in tracheoesophageal groove, enters larynx deep to inferior constrictor; intimate with **Ligament of Berry (貝里氏韌帶)**
-* **Superior Laryngeal Nerve (SLN) External Branch (喉上神經外支)**: Descends alongside superior thyroid artery; supplies cricothyroid muscle (tenses vocal cords)
+	* **Recurrent Laryngeal Nerve (RLN) (喉返神經)**: Ascends in tracheoesophageal groove, enters larynx deep to inferior constrictor; intimate with **Ligament of Berry (貝里氏韌帶)**
+	* **Superior Laryngeal Nerve (SLN) External Branch (喉上神經外支)**: Descends alongside superior thyroid artery; supplies cricothyroid muscle (tenses vocal cords)
 * **Parathyroid Glands (甲狀旁腺)**: Usually 4; superior (posterior capsule, constant), inferior (variable, often anterior to RLN)
 
 ### Thyroid Nodule Pathophysiology
@@ -31,7 +31,7 @@
 ### Clinical History of Thyroid Nodule
 * Mostly **asymptomatic**, noticed incidentally or by peers
 * **Compressive Symptoms**: Dysphagia (食道受壓), dyspnea/stridor (氣管受壓), hoarseness (RLN infiltration)
-* **Endocrine Status**: Symptoms of hyperthyroidism ( palpitations, heat intolerance, ↓ weight) or hypothyroidism (lethargy, ↑ weight)
+* **Endocrine Status**: Symptoms of hyperthyroidism (palpitations, heat intolerance, ↓ weight) or hypothyroidism (lethargy, ↑ weight)
 * **Red Flags for Malignancy**: Rapid growth, fixed hard mass, concurrent hoarseness, family history (MEN2), previous neck irradiation
 
 ### Physical Examination of Neck
@@ -39,8 +39,8 @@
 * **Palpation**: Characterize size, consistency (hard = suspect malignancy), fixity
 * **Lymph Nodes**: Palpate cervical chains (Levels I-VI) for **lymphadenopathy (頸部淋巴結腫大)**
 * **Special Tests**:
-* **Pemberton's Sign (彭伯頓氏徵)**: Bilateral arm elevation → facial plethora/stridor (indicates retrosternal extension/thoracic inlet obstruction)
-* **Vocal Cord Assessment**: Listen to voice (bovine cough/hoarseness = RLN palsy)
+	* **Pemberton's Sign (彭伯頓氏徵)**: Bilateral arm elevation → facial plethora/stridor (indicates retrosternal extension/thoracic inlet obstruction)
+	* **Vocal Cord Assessment**: Listen to voice (bovine cough/hoarseness = RLN palsy)
 
 ## 4. Differential Diagnosis & Discriminatory Features
 ### Differential Diagnosis of Anterior Neck Mass
@@ -62,32 +62,33 @@
 ## 5. Tiered Investigations & Pre-operative Workup (Labs, Imaging, Staging)
 ### First-Line Laboratory Investigations
 * **Serum TSH (促甲狀腺激素)**: Gold standard initial test
-* If ↓ TSH (Hyperthyroid) → Radionuclide scan indicated
-* If normal/↑ TSH → Proceed to USG Neck
+	* If ↓ TSH (Hyperthyroid) → Radionuclide scan indicated
+	* If normal/↑ TSH → Proceed to USG Neck
 * **Thyroid Autoantibodies**: Anti-TPO, Anti-Tg (suspected Hashimoto's)
 * **Serum Calcitonin (降鈣素)**: If family history of Medullary Thyroid Cancer (MTC) or MEN2
 
 ### Radiological Imaging (USG & Scans)
 * **USG Neck (頸部超聲波)**: Primary modality to assess nodule characteristics & guide FNAC
 * **TIRADS Scoring (USG Risk Stratification)**:
-* TR1: Benign (0 points)
-* TR2: Not suspicious (2 points)
-* TR3: Mildly suspicious (3 points) → FNAC if ≥2.5cm
-* TR4: Moderately suspicious (4-6 points) → FNAC if ≥1.5cm
-* TR5: Highly suspicious (≥7 points) → FNAC if ≥1cm
+	* TR1: Benign (0 points)
+	* TR2: Not suspicious (2 points)
+	* TR3: Mildly suspicious (3 points) → FNAC if ≥2.5cm
+	* TR4: Moderately suspicious (4-6 points) → FNAC if ≥1.5cm
+	* TR5: Highly suspicious (≥7 points) → FNAC if ≥1cm
 * **Radionuclide Thyroid Scan (Tc-99m or I-123)**: Indicated ONLY if TSH ↓. Detects "hot" (hyperfunctioning, rarely malignant) vs "cold" nodules.
 
 ### Fine Needle Aspiration Cytology (FNAC)
 * **FNAC (細針抽吸細胞檢查)**: Gold standard tissue sampling for normal/↑ TSH or "cold" nodules.
 * **Bethesda System for Reporting Thyroid Cytopathology (TBSRTC)**:
-| Category | Diagnosis | Risk of Malignancy (%) | Standard HA Management |
-| :--- | :--- | :--- | :--- |
-| **I** | Non-diagnostic | 5-10% | Repeat USG-guided FNAC |
-| **II** | Benign | 0-3% | Clinical/USG follow-up |
-| **III** | AUS / FLUS | 10-30% | Repeat FNAC or molecular testing/diagnostic surgery |
-| **IV** | Follicular Neoplasm | 25-40% | Diagnostic Hemithyroidectomy |
-| **V** | Suspicious for Malignancy | 50-75% | Hemithyroidectomy or Total Thyroidectomy |
-| **VI** | Malignant | 97-99% | Total Thyroidectomy ± Neck Dissection |
+
+| Category | Diagnosis                 | Risk of Malignancy (%) | Standard HA Management                              |
+| :------- | :------------------------ | :--------------------- | :-------------------------------------------------- |
+| **I**    | Non-diagnostic            | 5-10%                  | Repeat USG-guided FNAC                              |
+| **II**   | Benign                    | 0-3%                   | Clinical/USG follow-up                              |
+| **III**  | AUS / FLUS                | 10-30%                 | Repeat FNAC or molecular testing/diagnostic surgery |
+| **IV**   | Follicular Neoplasm       | 25-40%                 | Diagnostic Hemithyroidectomy                        |
+| **V**    | Suspicious for Malignancy | 50-75%                 | Hemithyroidectomy or Total Thyroidectomy            |
+| **VI**   | Malignant                 | 97-99%                 | Total Thyroidectomy ± Neck Dissection               |
 
 ### Pre-operative Staging & Assessment
 * **Indirect Laryngoscopy / Nasoendoscopy**: Mandatory pre-op to document baseline vocal cord function
@@ -101,14 +102,14 @@
 
 ### Indications for Thyroid Surgery
 * **Absolute Indications**:
-* Confirmed malignancy (Bethesda VI)
-* Suspicious cytology (Bethesda IV, V)
+	* Confirmed malignancy (Bethesda VI)
+	* Suspicious cytology (Bethesda IV, V)
 * **Relative Indications**:
-* Compressive symptoms (dysphagia, stridor, choking)
-* Retrosternal extension
-* Cosmetic deformity
-* Patient preference / anxiety
-* Toxic adenoma/MNG failing medical therapy
+	* Compressive symptoms (dysphagia, stridor, choking)
+	* Retrosternal extension
+	* Cosmetic deformity
+	* Patient preference / anxiety
+	* Toxic adenoma/MNG failing medical therapy
 
 ### HA Protocol for Thyroid Nodules
 * TSH checked at GOPC → Refer Surgical/ENT SOPD → USG neck + FNAC via one-stop clinic → Discuss in Multi-Disciplinary Team (MDT) if malignant.

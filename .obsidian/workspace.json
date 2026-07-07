@@ -35,8 +35,7 @@
               "title": "thyroid_malignancies"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "surgery/thyroid_malignancies.md",
+                "file": "surgery/thyroid_nodule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for thyroid_malignancies"
+              "title": "Backlinks for thyroid_nodule"
             }
           },
           {
@@ -199,8 +198,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "560a4c30da9f5f6c",
+  "active": "e9b03f3528a7933b",
   "lastOpenFiles": [
+    "surgery/thyroid_malignancies.md",
     "surgery/thyroid_nodule.md",
     "surgery/stroke_management.md",
     "surgery/tbi_icp.md",
@@ -226,7 +226,6 @@
     "surgery/lung_cancer.md",
     "surgery/vascular_emergencies.md",
     "surgery/choledocholithiasis_cholangitis.md",
-    "surgery/aaa.md",
     "surgery",
     "paediatrics/Untitled",
     "Logo-white bg.png",
