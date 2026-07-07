@@ -113,10 +113,9 @@
 	* Toxic adenoma/MNG failing medical therapy
 
 ### HA Protocol for Thyroid Nodules
-1. TSH checked at GOPC.
-2. Refer Surgical/ENT SOPD.
-3. USG neck + FNAC via one-stop clinic.
-4. Discuss in Multi-Disciplinary Team (MDT) if malignant.
+1. TSH checked at GOPC → refer Surgical/ENT SOPD.
+2. USG neck + FNAC via one-stop clinic.
+3. Discuss in Multi-Disciplinary Team (MDT) if malignant.
 
 ## 7. Key Operative Principles & Consent Issues
 ### Types of Surgical Intervention
