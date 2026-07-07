@@ -108,14 +108,14 @@
 ## 6. Management Algorithm & Surgical Indications (Conservative, Medical, HA Protocols)
 
 ### Surgical Indications based on Bethesda Cytology Algorithm
-| Category | Diagnosis                 | Risk of Malignancy (%) | Standard HA Management                              |
-| :------- | :------------------------ | :--------------------- | :-------------------------------------------------- |
-| **I**    | Non-diagnostic            | 5-10%                  | Repeat USG-guided FNAC                              |
-| **II**   | Benign                    | 0-3%                   | Clinical/USG follow-up                              |
-| **III**  | AUS / FLUS                | 10-30%                 | Repeat FNAC or molecular testing/diagnostic surgery |
-| **IV**   | Follicular Neoplasm       | 25-40%                 | Diagnostic Hemithyroidectomy                        |
-| **V**    | Suspicious for Malignancy | 50-75%                 | Hemithyroidectomy or Total Thyroidectomy            |
-| **VI**   | Malignant                 | 97-99%                 | Total Thyroidectomy ± Neck Dissection               |
+| Category | Diagnosis                              | Risk of Malignancy (%) | Standard HA Management                              |
+| :------- | :------------------------------------- | :--------------------- | :-------------------------------------------------- |
+| **I**    | Non-diagnostic                         | 5-10%                  | Repeat USG-guided FNAC                              |
+| **II**   | Benign                                 | 0-3%                   | Clinical/USG follow-up                              |
+| **III**  | AUS / FLUS                             | 10-30%                 | Repeat FNAC or molecular testing/diagnostic surgery |
+| **IV**   | Follicular Neoplasm                    | 25-40%                 | Diagnostic Hemithyroidectomy                        |
+| **V**    | Suspicious for Malignancy (Likely PTC) | 50-75%                 | Hemithyroidectomy or Total Thyroidectomy            |
+| **VI**   | Malignant                              | 97-99%                 | Total Thyroidectomy ± Neck Dissection               |
 
 ### Management Algorithm for Well-Differentiated Thyroid Cancer (PTC/FTC)
 * **Hemithyroidectomy (單側甲狀腺切除術)**: Indicated for low-risk, unifocal tumor < 4cm, no extrathyroidal extension, no clinical lymph node mets (cN0).

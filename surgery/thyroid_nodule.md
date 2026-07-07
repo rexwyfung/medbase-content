@@ -82,14 +82,14 @@
 * **FNAC (細針抽吸細胞檢查)**: Gold standard tissue sampling for normal/↑ TSH or "cold" nodules.
 * **Bethesda System for Reporting Thyroid Cytopathology (TBSRTC)**:
 
-| Category | Diagnosis                 | Risk of Malignancy (%) | Standard HA Management                              |
-| :------- | :------------------------ | :--------------------- | :-------------------------------------------------- |
-| **I**    | Non-diagnostic            | 5-10%                  | Repeat USG-guided FNAC                              |
-| **II**   | Benign                    | 0-3%                   | Clinical/USG follow-up                              |
-| **III**  | AUS / FLUS                | 10-30%                 | Repeat FNAC or molecular testing/diagnostic surgery |
-| **IV**   | Follicular Neoplasm       | 25-40%                 | Diagnostic Hemithyroidectomy                        |
-| **V**    | Suspicious for Malignancy | 50-75%                 | Hemithyroidectomy or Total Thyroidectomy            |
-| **VI**   | Malignant                 | 97-99%                 | Total Thyroidectomy ± Neck Dissection               |
+| Category | Diagnosis                              | Risk of Malignancy (%) | Standard HA Management                              |
+| :------- | :------------------------------------- | :--------------------- | :-------------------------------------------------- |
+| **I**    | Non-diagnostic                         | 5-10%                  | Repeat USG-guided FNAC                              |
+| **II**   | Benign                                 | 0-3%                   | Clinical/USG follow-up                              |
+| **III**  | AUS / FLUS                             | 10-30%                 | Repeat FNAC or molecular testing/diagnostic surgery |
+| **IV**   | Follicular Neoplasm                    | 25-40%                 | Diagnostic Hemithyroidectomy                        |
+| **V**    | Suspicious for Malignancy (Likely PTC) | 50-75%                 | Hemithyroidectomy or Total Thyroidectomy            |
+| **VI**   | Malignant                              | 97-99%                 | Total Thyroidectomy ± Neck Dissection               |
 
 ### Pre-operative Staging & Assessment
 * **Indirect Laryngoscopy / Nasoendoscopy**: Mandatory pre-op to document baseline vocal cord function
@@ -113,7 +113,10 @@
 	* Toxic adenoma/MNG failing medical therapy
 
 ### HA Protocol for Thyroid Nodules
-* TSH checked at GOPC → Refer Surgical/ENT SOPD → USG neck + FNAC via one-stop clinic → Discuss in Multi-Disciplinary Team (MDT) if malignant.
+1. TSH checked at GOPC.
+2. Refer Surgical/ENT SOPD.
+3. USG neck + FNAC via one-stop clinic.
+4. Discuss in Multi-Disciplinary Team (MDT) if malignant.
 
 ## 7. Key Operative Principles & Consent Issues
 ### Types of Surgical Intervention
@@ -146,9 +149,9 @@
 ### Biochemical Monitoring Protocol
 * **Serum Calcium & PTH**: Monitor post-op day 1 & 2 (especially after Total Thyroidectomy)
 * Monitor for clinical signs of **Hypocalcemia**:
-* Peri-oral/fingertip numbness/tingling
-* **Chvostek's Sign**: Tapping facial nerve → facial muscle twitch
-* **Trousseau's Sign**: Inflating BP cuff above systolic for 3 mins → carpopedal spasm
+	* Peri-oral/fingertip numbness/tingling
+	* **Chvostek's Sign**: Tapping facial nerve → facial muscle twitch
+	* **Trousseau's Sign**: Inflating BP cuff above systolic for 3 mins → carpopedal spasm
 
 ### Long-term Rehabilitation
 * **Thyroid Replacement Therapy**: L-thyroxine (Levothyroxine) for life (Total) or if hypothyroid (Hemi)
