@@ -20,6 +20,7 @@
 	* **Recurrent Laryngeal Nerve (RLN) (喉返神經)**: Ascends in tracheoesophageal groove, enters larynx deep to inferior constrictor; intimate with **Ligament of Berry (貝里氏韌帶)**
 	* **Superior Laryngeal Nerve (SLN) External Branch (喉上神經外支)**: Descends alongside superior thyroid artery; supplies cricothyroid muscle (tenses vocal cords)
 * **Parathyroid Glands (甲狀旁腺)**: Usually 4; superior (posterior capsule, constant), inferior (variable, often anterior to RLN)
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/cdd68b933c42bcfde04dd38f14030421.png)
 
 ### Thyroid Nodule Pathophysiology
 * **Hyperplastic/Colloid**: Focal overgrowth of normal tissue, ± fluid degeneration
@@ -52,12 +53,12 @@
 | **Other** | Dermoid cyst, Lipoma, Branchial cleft cyst | Branchial cyst lateral (anterior border of SCM) |
 
 ### Differentiating Benign vs Malignant Thyroid Nodules
-| Feature | Benign Nodule (良性結節) | Malignant Nodule (惡性結節) |
-| :--- | :--- | :--- |
-| **History** | Slow growth, soft/spongy | Rapid growth, childhood neck radiation, MEN2 |
-| **Examination** | Mobile, non-tender | Hard, fixed, cervical lymphadenopathy +ve |
+| Feature          | Benign Nodule (良性結節)                  | Malignant Nodule (惡性結節)                            |
+| :--------------- | :------------------------------------ | :------------------------------------------------- |
+| **History**      | Slow growth, soft/spongy              | Rapid growth, childhood neck radiation, MEN2       |
+| **Examination**  | Mobile, non-tender                    | Hard, fixed, cervical lymphadenopathy +ve          |
 | **USG Findings** | Purely cystic, spongiform, comet-tail | Hypoechoic, microcalcifications, irregular margins |
-| **Voice** | Normal | Hoarseness (RLN involvement) |
+| **Voice**        | Normal                                | Hoarseness (RLN involvement)                       |
 
 ## 5. Tiered Investigations & Pre-operative Workup (Labs, Imaging, Staging)
 ### First-Line Laboratory Investigations
