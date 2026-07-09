@@ -5,37 +5,38 @@
 ### Definition of Surgical CNS Infections
 * **Intracranial Suppuration (顱內化膿)** requiring surgical intervention.
 * Major types include:
-* **Brain Abscess (腦膿腫)**: Focal collection of pus within brain parenchyma.
-* **Subdural Empyema (硬膜下膿胸)**: Pus between dura mater & arachnoid mater.
-* **Epidural Abscess (硬膜外膿腫)**: Pus between skull & dura mater.
+	* **Brain Abscess (腦膿腫)**: Focal collection of pus within brain parenchyma.
+	* **Subdural Empyema (硬膜下膿胸)**: Pus between dura mater & arachnoid mater.
+	* **Epidural Abscess (硬膜外膿腫)**: Pus between skull & dura mater.
 
 ### Local Epidemiology in Hong Kong
 * Incidence: Rare but high mortality (5-15%) if missed.
 * Predominant Organisms (Hong Kong HA data):
-* **Streptococcus milleri group**: Most common overall.
-* **Klebsiella pneumoniae (克雷伯氏肺炎桿菌)**: Highly prevalent in HK/Asia; strong association with concurrent primary **Liver Abscess (肝膿腫)**.
-* **Mycobacterium tuberculosis (結核桿菌)**: Endemic in HK; causes tuberculomas.
-* Fungal (Aspergillus, Candida): ↑ in immunocompromised (e.g., HIV, post-transplant).
+	* **Streptococcus milleri group**: Most common overall.
+	* **Klebsiella pneumoniae (克雷伯氏肺炎桿菌)**: Highly prevalent in HK/Asia; strong association with concurrent primary **Liver Abscess (肝膿腫)**.
+	* **Mycobacterium tuberculosis (結核桿菌)**: Endemic in HK; causes tuberculomas.
+	* Fungal (Aspergillus, Candida): ↑ in immunocompromised (e.g., HIV, post-transplant).
 
 ## 2. Surgical Anatomy & Pathophysiology
 
 ### Pathophysiological Routes of CNS Infection
 * **Direct Extension (直接蔓延)** (40-50%):
-* Paranasal sinusitis → Frontal lobe.
-* Otitis media/Mastoiditis → Temporal lobe or Cerebellum.
-* Odontogenic infection → Frontal lobe.
+	* Paranasal sinusitis → Frontal lobe.
+	* Otitis media/Mastoiditis → Temporal lobe or Cerebellum.
+	* Odontogenic infection → Frontal lobe.
 * **Hematogenous Spread (血液傳播)** (20-30%):
-* Endocarditis, Pulmonary AVMs, Bronchiectasis, Klebsiella liver abscess.
-* Typically multiple, located at grey-white matter junction.
+	* Endocarditis, Pulmonary AVMs, Bronchiectasis, Klebsiella liver abscess.
+	* Typically multiple, located at grey-white matter junction.
 * **Direct Inoculation (直接接種)** (10%):
-* Post-traumatic (penetrating TBI).
-* Post-neurosurgical (craniotomy).
+	* Post-traumatic (penetrating TBI).
+	* Post-neurosurgical (craniotomy).
 
 ### Pathophysiology of Brain Abscess Formation
 * **Early Cerebritis (早期腦炎)** (Days 1-3): Neutrophilic infiltration, localized edema.
 * **Late Cerebritis (晚期腦炎)** (Days 4-9): Necrosis, macrophage infiltration, maximal edema.
 * **Early Capsule Formation (早期包膜形成)** (Days 10-13): Fibroblast proliferation, neovascularization, ↑ reticulin.
 * **Late Capsule Formation (晚期包膜形成)** (Day 14+): Dense collagenous capsule, central necrotic core, peripheral gliosis.
+![image|241](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a51a014001cf0aeaaf0e1c888c2efe9e.png)
 
 ### Relevant Surgical Anatomy of the Meninges
 * **Epidural Space**: Potential space in cranium; real space in spine. Infections bounded by cranial sutures.
@@ -65,15 +66,17 @@
 ## 4. Differential Diagnosis & Discriminatory Features
 
 ### Table of Differential Diagnoses for Ring-Enhancing Lesions (MAGIC DR)
-| Differential | Discriminatory Clinical/Radiological Features |
-| :--- | :--- |
-| **Metastasis (轉移性腫瘤)** | Multiple, grey-white junction, ↑ edema, older age, known 1° malignancy. |
-| **Abscess (腦膿腫)** | Restricted diffusion on DWI (bright), low ADC. Fever, ↑ WBC. |
-| **Glioblastoma (膠質母細胞瘤)** | Irregular thick ring, crossing midline (butterfly), older age. |
-| **Infarct (腦梗塞)** | Subacute phase. Follows vascular territory, respects grey-white boundary. |
-| **Contusion (腦挫傷)** | History of trauma, superficial location (frontal/temporal poles). |
-| **Demyelination (脫髓鞘)** | Incomplete "open ring" enhancement, young female, MS history. |
-| **Radiation Necrosis (放射性壞死)** | Hx of radiotherapy, "Swiss cheese" appearance on MRI. |
+| Differential                   | Discriminatory Clinical/Radiological Features                             |
+| :----------------------------- | :------------------------------------------------------------------------ |
+| **Metastasis (轉移性腫瘤)**         | Multiple, grey-white junction, ↑ edema, older age, known 1° malignancy.   |
+| **Abscess (腦膿腫)**              | Restricted diffusion on DWI (bright), low ADC. Fever, ↑ WBC.              |
+| **Glioblastoma (膠質母細胞瘤)**      | Irregular thick ring, crossing midline (butterfly), older age.            |
+| **Infarct (腦梗塞)**              | Subacute phase. Follows vascular territory, respects grey-white boundary. |
+| **Contusion (腦挫傷)**            | History of trauma, superficial location (frontal/temporal poles).         |
+| **Demyelination (脫髓鞘)**        | Incomplete "open ring" enhancement, young female, MS history.             |
+| **Radiation Necrosis (放射性壞死)** | Hx of radiotherapy, "Swiss cheese" appearance on MRI.                     |
+
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3bea2d92a2a06c3ed7b527b12c61f9bd.png)
 
 ## 5. Tiered Investigations & Pre-operative Workup (Labs, Imaging, Staging)
 
@@ -85,12 +88,14 @@
 
 ### Gold Standard Imaging for CNS Infections
 * **CT Brain with Contrast (CT造影)**:
-* Initial rapid screen in ED.
-* Shows hypodense center, hyperdense uniform ring, surrounding vasogenic edema.
+	* Initial rapid screen in ED.
+	* Shows hypodense center, hyperdense uniform ring, surrounding vasogenic edema.
 * **MRI Brain with Contrast (MRI造影)** (Gold Standard):
-* T1 C+: Smooth ring enhancement.
-* T2/FLAIR: Extensive surrounding high-signal vasogenic edema.
+	* T1 C+: Smooth ring enhancement.
+	* T2/FLAIR: Extensive surrounding high-signal vasogenic edema.
 * **DWI/ADC**: **Restricted diffusion (bright DWI, dark ADC)** inside cavity → pathognomonic for pus (differentiates from tumor necrotic core).
+![image|189](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/da933c4be4b77012e79749a6f4f56c1a.png)
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/36a8ca843de714c466c958b989e7d91a.png)
 
 ### Pre-operative Source Hunting
 * **CT Thorax/Abdomen/Pelvis**: Rule out malignancies, lung AVMs, or visceral abscess.
@@ -105,14 +110,14 @@
 
 ### Medical Management & Antimicrobial Therapy (HA Protocol)
 * Indicated as sole therapy ONLY IF:
-* Lesion < 2.5 cm.
-* Deep-seated/inaccessible (e.g., brainstem).
-* Multiple small abscesses.
-* Early cerebritis stage (no capsule yet).
+	* Lesion < 2.5 cm.
+	* Deep-seated/inaccessible (e.g., brainstem).
+	* Multiple small abscesses.
+	* Early cerebritis stage (no capsule yet).
 * Empiric Intravenous Antibiotics (HK HA Guidelines):
-* **Ceftriaxone** (2g Q12H) + **Metronidazole** (500mg Q8H) (covers Strep, Gram -ve, Anaerobes).
-* Add **Vancomycin** if post-neurosurgical/trauma (covers MRSA).
-* Duration: 6-8 weeks total.
+	* **Ceftriaxone** (2g Q12H) + **Metronidazole** (500mg Q8H) (covers Strep, Gram -ve, Anaerobes).
+	* Add **Vancomycin** if post-neurosurgical/trauma (covers MRSA).
+	* Duration: 6-8 weeks total.
 
 ### Medical Adjuncts
 * **Dexamethasone (地塞米松)**: ONLY if significant mass effect causing neurological deterioration. (Avoid if possible as it ↓ capsule formation & ↓ antibiotic penetration).
@@ -126,14 +131,14 @@
 * Failure of medical therapy after 2 weeks.
 * Diagnostic uncertainty (need tissue).
 
-## 7. Key Operative Principles & Consent Issues
-
 ### Operative Approaches for Brain Abscess
 * **Stereotactic Burr Hole Aspiration (立體定位鑽孔抽吸術)**:
-* 1st line surgical option for most abscesses.
-* Advantages: Minimally invasive, local anesthesia possible, rapid decompression, high diagnostic yield.
+	* 1st line surgical option for most abscesses.
+	* Advantages: Minimally invasive, local anesthesia possible, rapid decompression, high diagnostic yield.
 * **Craniotomy & Excision (開顱切除術)**:
-* Indications: Fungal abscesses, multiloculated abscesses failing aspiration, superficial firm well-encapsulated lesions, retained foreign body.
+	* Indications: Fungal abscesses, multiloculated abscesses failing aspiration, superficial firm well-encapsulated lesions, retained foreign body.
+
+## 7. Key Operative Principles & Consent Issues
 
 ### Key Operative Steps for Burr Hole Aspiration
 * Pre-op: Frame-based or frameless stereotactic navigation setup via MRI.
@@ -148,10 +153,10 @@
 ### Pre-operative Consent Issues
 * **General Risks**: Bleeding, infection, stroke, death.
 * **Specific Risks**:
-* Re-accumulation of pus requiring repeat aspiration.
-* Rupture of abscess into ventricular system (often fatal).
-* Post-operative seizures.
-* Worsening of focal neurological deficits (e.g., hemiplegia, aphasia).
+	* Re-accumulation of pus requiring repeat aspiration.
+	* Rupture of abscess into ventricular system (often fatal).
+	* Post-operative seizures.
+	* Worsening of focal neurological deficits (e.g., hemiplegia, aphasia).
 
 ## 8. Post-operative Care (ERAS) & Rehabilitation
 
@@ -189,7 +194,12 @@
 
 ### Prognosis
 * Overall mortality: 5-15% (with modern imaging & antibiotics).
-* Poor prognostic factors: Rapid progression, coma at presentation, intraventricular rupture, fungal etiology, advanced age.
+* Poor prognostic factors:
+	* Rapid progression.
+	* Coma at presentation.
+	* Intraventricular rupture.
+	* Fungal etiology.
+	* Advanced age.
 
 ## 10. Examiner's Pearls (High-yield viva questions and common pitfalls)
 
