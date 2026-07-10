@@ -27,18 +27,25 @@
 * **Venous Drainage (CRITICAL SURGICAL ANATOMY)**:
   * **Right Adrenal Vein (右腎上腺靜脈)**: Very short (1-5mm) → drains DIRECTLY into **Inferior Vena Cava (IVC) (下腔靜脈)** posteriorly. High risk of avulsion during surgery.
   * **Left Adrenal Vein (左腎上腺靜脈)**: Longer → joins inferior phrenic vein → drains into **Left Renal Vein (左腎靜脈)**.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/38c189910d9b452861ef69fca71ca88d.png)
 
 ### Pathophysiology of Pheochromocytoma (嗜鉻細胞瘤)
 * Origin: Chromaffin cells of adrenal medulla
 * Secretes: **Catecholamines (兒茶酚胺)** (Noradrenaline > Adrenaline)
-* → Continuous/episodic α & β adrenergic receptor stimulation → Vasoconstriction, ↑ HR, ↑ contractility
-* **Rule of 10s**: 10% bilateral, 10% malignant, 10% extra-adrenal (paragangliomas), 10% pediatric, 10% familial (MEN2, VHL, NF1)
+	* → Continuous/episodic α & β adrenergic receptor stimulation
+	* → Vasoconstriction, ↑ HR, ↑ contractility
+* **Rule of 10s**:
+	* 10% bilateral.
+	* 10% malignant.
+	* 10% extra-adrenal (paragangliomas).
+	* 10% pediatric.
+	* 10% familial (MEN2, VHL, NF1).
 
 ### Pathophysiology of Primary Hyperaldosteronism / Conn's Syndrome (原發性醛固酮增多症)
 * Origin: Zona Glomerulosa of adrenal cortex
 * Secretes: Autonomous **Aldosterone (醛固酮)**
-* → ↑ Na+ reabsorption & ↑ K+/H+ excretion in distal renal tubules
-* → Volume expansion, suppression of Plasma Renin Activity (PRA)
+	* → ↑ Na+ reabsorption & ↑ K+/H+ excretion in distal renal tubules
+	* → Volume expansion, suppression of Plasma Renin Activity (PRA)
 * Causes: Solitary adenoma (~40%), Bilateral adrenal hyperplasia (~60%)
 
 ### Pathophysiology of Cushing's Syndrome (庫欣氏症候群)
@@ -84,13 +91,13 @@
 
 ### Discriminatory Features of Adrenal Masses on Imaging
 
-| Feature | Benign Adenoma | Pheochromocytoma | Adrenocortical Carcinoma (ACC) | Metastasis |
-| :--- | :--- | :--- | :--- | :--- |
-| **Size** | Usually < 4cm | Variable (often 3-5cm) | Usually > 4-6cm | Variable |
-| **Shape/Margin**| Smooth, well-defined | Smooth or cystic/necrotic | Irregular, ill-defined, lobulated | Irregular |
-| **Lipid Content**| High (low unenhanced CT attenuation) | Low | Low | Low |
-| **Vascularity** | Mild | Highly vascular | Highly vascular, necrotic core | Variable |
-| **Local Invasion**| Absent | Rare | Common (IVC thrombus, adjacent organs) | Possible |
+| Feature            | Benign Adenoma                       | Pheochromocytoma          | Adrenocortical Carcinoma (ACC)         | Metastasis |
+| :----------------- | :----------------------------------- | :------------------------ | :------------------------------------- | :--------- |
+| **Size**           | Usually < 4cm                        | Variable (often 3-5cm)    | Usually > 4-6cm                        | Variable   |
+| **Shape/Margin**   | Smooth, well-defined                 | Smooth or cystic/necrotic | Irregular, ill-defined, lobulated      | Irregular  |
+| **Lipid Content**  | High (low unenhanced CT attenuation) | Low                       | Low                                    | Low        |
+| **Vascularity**    | Mild                                 | Highly vascular           | Highly vascular, necrotic core         | Variable   |
+| **Local Invasion** | Absent                               | Rare                      | Common (IVC thrombus, adjacent organs) | Possible   |
 
 ### Differential Diagnosis of Refractory Hypertension in Young Patients
 * Renal artery stenosis (Renovascular disease)
@@ -102,10 +109,11 @@
 
 ### Biochemical Workup for Adrenal Incidentaloma (Functional Screen)
 * ALL incidentalomas MUST be screened for hypersecretion (HA Protocol):
-* **1. Hypercortisolism**: 1mg Overnight Dexamethasone Suppression Test (ONDST). Failure to suppress serum cortisol <50 nmol/L = +ve.
-* **2. Pheochromocytoma**: 24-hour urine fractionated metanephrines & catecholamines OR plasma free metanephrines.
-* **3. Hyperaldosteronism**: (Only if hypertensive or hypokalemic) Aldosterone-to-Renin Ratio (ARR).
-* **4. Virilization**: Serum DHEAS, testosterone, 17-OH progesterone (if clinically indicated or mass >4cm).
+	1. **Hypercortisolism**: 1mg Overnight Dexamethasone Suppression Test (ONDST). Failure to suppress serum cortisol <50 nmol/L = +ve.
+	2. **Pheochromocytoma**: 24-hour urine fractionated metanephrines & catecholamines OR plasma free metanephrines.
+	3. **Hyperaldosteronism**: (Only if hypertensive or hypokalemic) Aldosterone-to-Renin Ratio (ARR).
+	4. **Virilization**: Serum DHEAS, testosterone, 17-OH progesterone (if clinically indicated or mass >4cm).
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/59d851f9066923f19294b38f0220cbc3.png)
 
 ### Confirmatory Functional Tests
 * **Conn's Confirmatory Test**: Saline infusion test (failure to suppress aldosterone).
@@ -122,6 +130,7 @@
 * **Functional Imaging**:
   * **MIBG Scan (碘代苄胍掃描)**: Localizes pheochromocytoma/paraganglioma.
   * **FDG-PET Scan**: Differentiates benign from malignant/metastatic disease.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/b919603c2fb67be24ed2cda560ea12c5.png)
 
 ## 6. Management Algorithm & Surgical Indications (Conservative, Medical, HA Protocols)
 
@@ -153,14 +162,14 @@
   * Repeat biochemical screening annually for up to 4-5 years.
   * Surgery if size increases by >1cm or becomes functional.
 
-## 7. Key Operative Principles & Consent Issues
-
 ### Operative Approaches for Adrenalectomy
 * **Minimally Invasive (Gold Standard)**:
   * **Laparoscopic Transabdominal Adrenalectomy (腹腔鏡腎上腺切除術)**: Familiar anatomy, larger working space. Good for tumours <6-8cm.
   * **Posterior Retroperitoneoscopic Adrenalectomy (PRA) (後腹腔鏡腎上腺切除術)**: Avoids intra-abdominal adhesions, faster recovery, avoids bowel mobilization. Patient prone. Ideal for bilateral tumours or previous abdominal surgery.
 * **Open Adrenalectomy (傳統開刀手術)**:
   * Indicated for: Suspected ACC, massive tumours (>8-10cm), evidence of local invasion, IVC thrombus.
+
+## 7. Key Operative Principles & Consent Issues
 
 ### Key Surgical Steps & Principles
 * **Minimal Manipulation**: "No-touch" technique to prevent massive catecholamine release (Pheo) or tumour rupture (ACC).

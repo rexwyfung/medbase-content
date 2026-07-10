@@ -36,17 +36,17 @@
             }
           },
           {
-            "id": "5077edd458382b44",
+            "id": "6ca53803fbc77d44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "surgery/cns_infection.md",
+                "file": "surgery/adrenal_tumours.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cns_infection"
+              "title": "adrenal_tumours"
             }
           }
         ],
@@ -213,9 +213,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "5077edd458382b44",
+  "active": "6ca53803fbc77d44",
   "lastOpenFiles": [
     "surgery/benign_oesophageal.md",
+    "surgery/cns_infection.md",
     "surgery/neuro_oncology.md",
     "paediatrics/brain_tumour.md",
     "surgery/thyroid_malignancies.md",
@@ -240,7 +241,6 @@
     "surgery/liver_tumours.md",
     "surgery/pancreatic_cancer.md",
     "surgery/basic_surgical_skills.md",
-    "surgery/aortic_disease.md",
     "surgery",
     "paediatrics/Untitled",
     "Logo-white bg.png",
