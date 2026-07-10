@@ -147,7 +147,7 @@
   * Selective: **Prazosin / Doxazosin (多沙唑嗪)** (Common in HK HA due to availability & fewer side effects).
 * **Step 2: Beta-blockade (Start ONLY AFTER adequate alpha-blockade)**
   * **Propranolol (普萘洛爾)** (usually 2-3 days pre-op).
-  * Prevents reflex tachycardia. *NEVER give $\beta$-blockers first (causes unopposed $\alpha$-stimulation → hypertensive crisis).*
+  * Prevents reflex tachycardia. *NEVER give β-blockers first (causes unopposed ɑ-stimulation → hypertensive crisis).*
 * **Step 3: Volume Expansion**
   * High salt diet + vigorous IV fluid hydration pre-op to prevent post-resection profound hypotension.
 
