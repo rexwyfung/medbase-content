@@ -156,7 +156,10 @@
 * **Cushing's**: Control diabetes & hypertension. Consider perioperative prophylactic heparin (high prothrombotic state) and stress-dose intra-op steroids.
 
 ### Conservative Management for Incidentalomas
-* Criteria: Non-functional, benign features on CT (<10 HU), AND size < 4cm.
+* Criteria (ALL):
+	* Non-functional.
+	* Benign features on CT (<10 HU).
+	* Size < 4cm.
 * Follow-up Protocol:
   * Repeat Non-contrast CT at 6-12 months.
   * Repeat biochemical screening annually for up to 4-5 years.
