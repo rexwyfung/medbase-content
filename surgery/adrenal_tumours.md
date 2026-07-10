@@ -68,7 +68,7 @@
 
 ### Clinical Presentation of Conn's Syndrome
 * Most patients asymptomatic initially
-* **Resistant Hypertension (頑固性高血壓)** (often requiring $\ge$ 3 anti-hypertensives)
+* **Resistant Hypertension (頑固性高血壓)** (often requiring ≥ 3 anti-hypertensives)
 * **Hypokalemia (低血鉀)** (only present in ~50%):
   * Muscle weakness (肌肉無力)
   * Cramps
