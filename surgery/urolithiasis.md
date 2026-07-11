@@ -100,6 +100,10 @@
 | **Renal Stone > 2cm**       | **PCNL (經皮穿刺腎碎石術)**                                |
 | **Proximal Ureteric Stone** | ESWL or Flexible URS/RIRS                          |
 | **Distal Ureteric Stone**   | **Rigid URS (輸尿管鏡碎石術)**                            |
+* *ESWL: Extracorporeal Shock Wave Lithotripsy*
+* *PCNL: Percutaneous Nephrolotomy*
+* *URS: Ureteroscopy*
+* *RIRS: Retrograde Intrarenal Surgery*
 
 ## 7. Key Operative Principles & Consent Issues
 ### ESWL (Extracorporeal Shock Wave Lithotripsy) Principles
