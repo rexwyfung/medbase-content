@@ -28,7 +28,7 @@
 
 ### Molecular Pathophysiology & Carcinogenesis
 * **Adenoma-Carcinoma Sequence (腺瘤-癌序列)**: Chromosomal instability pathway (85% of cases) involving sequential mutations: **APC inactivation** (normal mucosa → early adenoma) → **KRAS activation** (intermediate adenoma) → **TP53 loss** (late adenoma → carcinoma).
-* **Microsatellite Instability (MSI) Pathway**: Mismatch Repair (MMR) gene inactivation (**MLH1, MSH2, MSH6, PMS2**); associated with **Lynch Syndrome ( hereditary non-polyposis colorectal cancer, HNPCC)**; characterized by right-sided, mucinous tumors with better stage-for-stage prognosis but resistant to 5-FU monotherapy.
+* **Microsatellite Instability (MSI) Pathway**: Mismatch Repair (MMR) gene inactivation (**MLH1, MSH2, MSH6, PMS2**); associated with **Lynch Syndrome (hereditary non-polyposis colorectal cancer, HNPCC)**; characterized by right-sided, mucinous tumors with better stage-for-stage prognosis but resistant to 5-FU monotherapy.
 ![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/dbdb74ee593ad4f5c52396e3b81a1137.png)
 
 ### Anatomical Heterogeneity (Right vs Left Colon)
