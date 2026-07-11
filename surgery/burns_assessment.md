@@ -4,7 +4,7 @@
 
 ### Clinical Definition of Burns
 * **Burns (燒傷)**: Tissue damage caused by thermal (heat/cold), chemical, electrical, or radiation energy → leads to coagulative necrosis of skin and underlying structures.
-* Triggers severe systemic inflammatory response syndrome (**SIRS**) when **Total Body Surface Area (TBSA) (總體表面積)** is >15-20% in adults (or >10% in children).
+* Triggers severe systemic inflammatory response syndrome (**SIRS**) when **Total Body Surface Area (TBSA) (總體表面積)** is >20% in adults (or >10% in children).
 
 ### Hong Kong Local Epidemiology
 * **Domestic Scalds**: Most common in pediatric population (hot water/soup).
@@ -17,11 +17,13 @@
 * **Epidermis (表皮)**: Outer layer; waterproof barrier; contains melanocytes. No blood vessels. regenerates from basal layer.
 * **Dermis (真皮)**: Contains hair follicles, sweat/sebaceous glands, nerve endings, and capillaries. Source of epithelial regeneration in partial-thickness burns.
 * **Subcutaneous Tissue (皮下組織)**: Adipose tissue, major vessels, nerves.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/daa6dfa3f34bc3b1e90db2eba5350e60.png)
 
 ### Jackson's Burn Wound Model
 * **Zone of Coagulation (凝固區)**: Central area of maximal damage → irreversible tissue necrosis.
 * **Zone of Stasis (瘀滯區)**: Surrounding zone → ↓ tissue perfusion; potentially salvageable with adequate **Fluid Resuscitation (液體復甦)**; can convert to necrosis if hypotensive/infected.
 * **Zone of Hyperaemia (充血區)**: Outermost zone → ↑ perfusion secondary to inflammatory vasodilation; fully recovers.
+![image|507](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/01d9027e5bd5cb90a329b617dbe5be4b.png)
 
 ### Pathophysiology of Burn Shock
 * Direct thermal injury → massive release of vasoactive mediators (histamine, prostaglandins, kinins, cytokines).
@@ -40,12 +42,14 @@
 	* Dyspnoea, tachypnoea, hypoxia.
 
 ### Burn Depth Clinical Assessment
-| Depth Classification | Tissues Involved | Clinical Appearance | Pain / Sensation | Capillary Refill | Healing Potential |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Epidermal (Superficial)** | Epidermis only (e.g., sunburn) | Red, dry, no blisters | Extremely painful | Rapid, brisk | Spontaneous (3-7 days), no scar |
-| **Superficial Partial-Thickness** | Epidermis + papillary dermis | Pale pink, weeping/moist, blisters | Very painful | Brisk | Spontaneous (7-14 days), minimal scar |
-| **Deep Partial-Thickness** | Epidermis + reticular dermis | Mottled red/white, dry, variable blisters | Dull pain to pressure only | Sluggish / absent | Slow (3-6 wks), ↑ risk of hypertrophic scarring |
-| **Full-Thickness** | Epidermis + entire dermis | White, brown, waxy, leathery, charred (**Eschar**) | Painless, numb | Absent | Requires grafting (cannot epithelialize) |
+| Depth Classification              | Tissues Involved               | Clinical Appearance                                | Pain / Sensation           | Capillary Refill  | Healing Potential                               |
+| :-------------------------------- | :----------------------------- | :------------------------------------------------- | :------------------------- | :---------------- | :---------------------------------------------- |
+| **Epidermal (Superficial)**       | Epidermis only (e.g., sunburn) | Red, dry, no blisters                              | Extremely painful          | Rapid, brisk      | Spontaneous (3-7 days), no scar                 |
+| **Superficial Partial-Thickness** | Epidermis + papillary dermis   | Pale pink, weeping/moist, blisters                 | Very painful               | Brisk             | Spontaneous (7-14 days), minimal scar           |
+| **Deep Partial-Thickness**        | Epidermis + reticular dermis   | Mottled red/white, dry, variable blisters          | Dull pain to pressure only | Sluggish / absent | Slow (3-6 wks), ↑ risk of hypertrophic scarring |
+| **Full-Thickness**                | Epidermis + entire dermis      | White, brown, waxy, leathery, charred (**Eschar**) | Painless, numb             | Absent            | Requires grafting (cannot epithelialize)        |
+
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ca4612af84e4babd8e4bda119cc34db7.png)
 
 ### Signs of Compartment Syndrome in Circumferential Burns
 * Pain out of proportion (if sensation intact).
@@ -65,11 +69,11 @@
 
 ### Differentiating Burns from Severe Cutaneous Adverse Reactions (SCARs)
 * **Toxic Epidermal Necrolysis (TEN) / Stevens-Johnson Syndrome (SJS)**:
-* Hx of recent new medication (antibiotics, allopurinol, anticonvulsants).
-* Prodromal flu-like illness.
-* Mucosal involvement (oral, conjunctival, genital).
-* Positive Nikolsky's sign (epidermis sloughs with lateral pressure).
-* Managed similarly to burns in HA specialized units.
+	* Hx of recent new medication (antibiotics, allopurinol, anticonvulsants).
+	* Prodromal flu-like illness.
+	* Mucosal involvement (oral, conjunctival, genital).
+	* Positive Nikolsky's sign (epidermis sloughs with lateral pressure).
+	* Managed similarly to burns in HA specialized units.
 
 ## 5. Tiered Investigations & Pre-operative Workup (Labs, Imaging, Staging)
 
@@ -78,6 +82,7 @@
 * **Wallace Rule of Nines (九算法)** (Adults): Head 9%, Each Arm 9%, Anterior Trunk 18%, Posterior Trunk 18%, Each Leg 18%, Perineum 1%.
 * **Palmar Method**: Patient's entire palm (including fingers) ≈ 1% TBSA. Good for small/scattered burns.
 * **Lund-Browder Chart**: Most accurate, age-adjusted (essential for pediatric cases due to relatively larger head).
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/55f77ceb740d7180f479bf85dc3ef337.png)
 
 ### Initial Blood Investigations
 * **FBP**: ↑ Hct/Hb (haemoconcentration from fluid shift), ↑ WCC (stress/SIRS).
@@ -128,6 +133,7 @@
 * **Indication**: Circumferential full-thickness burns compromising perfusion (limbs) or ventilation (chest).
 * **Procedure**: Mid-lateral/mid-medial longitudinal incisions down to subcutaneous fat. No anesthesia needed (eschar is insensate). Must release tension across joints.
 * **Fasciotomy**: Required if compartment syndrome persists despite escharotomy (especially in high-voltage electrical burns).
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/65be168fa89e22e0fa2a14f03bcb1976.png)
 
 ### Surgical Debridement & Skin Grafting
 * **Early Excision and Grafting** (within 2-5 days): Standard of care for deep partial and full-thickness burns. ↓ infection risk, ↑ survival, ↓ hypertrophic scarring.
@@ -135,6 +141,7 @@
 * **Reconstruction**:
 	* **Split-thickness Skin Graft (SSG) (刃厚皮片移植)**: Harvested with dermatome; meshed (e.g., 1:1.5) to expand coverage and allow hematoma/seroma drainage.
 	* If massive burns/donor site shortage: Use allografts (cadaveric skin from HA skin bank), synthetic dermal substitutes (Integra), or cultured epidermal autografts (CEA).
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/f543f60dc7701a9d639f0ef667f83dff.png)
 
 ## 8. Post-operative Care (ERAS) & Rehabilitation
 
@@ -170,7 +177,7 @@
 * Viva Question: How do you clinically differentiate carbon monoxide poisoning from cyanide poisoning in a fire victim? Answer: CO causes cherry-red skin (rare) and normal PaO2 on ABG, while cyanide causes severe unremitting lactic acidosis. Both are treated with 100% O2, but cyanide needs specific antidotes (e.g., hydroxocobalamin).
 * Trap: Relying on standard pulse oximetry (SpO2) to rule out hypoxia in a burn patient. Pearl: Standard SpO2 cannot differentiate between oxyhaemoglobin and carboxyhaemoglobin, falsely reading as normal (100%) in CO poisoning. You must order an ABG with co-oximetry.
 * Pitfall: Blindly adhering to the calculated Parkland fluid volume over 24 hours. The formula is strictly a starting point; you must titrate IV fluids up or down based on hourly urine output (0.5ml/kg/hr for adults).
-* Viva Question: What is the classic hand splinting position to prevent burn contractures? Answer: The "Intrinsic Plus" or "Safe" position (wrist 20-30° extension, MCP joints 70-90° flexion, PIP/DIP joints fully extended, thumb abducted).
+* Viva Question: What is the classic hand splinting position to prevent burn contractures? Answer: The "Intrinsic Plus" or "Safe" position (wrist 20-30° extension, MCP joints 70-90° flexion, PIP/DIP joints fully extended, thumb abducted). ![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/cc29dbc03212c1234cbf25bb2ab477e3.png)
 * Trap: Delaying intubation in a patient with facial burns and voice changes until they drop their oxygen saturation. Pearl: Edema progresses rapidly. Once stridor or respiratory distress develops, intubation becomes anatomically impossible. Secure the airway prophylactically.
 * Pitfall: Applying prophylactic systemic antibiotics to all burn patients. This drives multi-drug resistant organisms (like MRSA or Pseudomonas). Antibiotics should only be used for documented infections or perioperatively.
 * Viva Question: A patient sustains a high-voltage electrical burn to the arm. The urine is dark red. What is the immediate management? Answer: This is myoglobinuria from rhabdomyolysis. Aggressive fluid resuscitation targeting a higher urine output (1.0-1.5 ml/kg/hr) to prevent acute kidney injury, and monitor for hyperkalaemia and compartment syndrome.
