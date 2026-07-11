@@ -26,18 +26,18 @@
 * 25cm muscular tube from **cricopharyngeus (環咽肌)** (C6) to **cardia (賁門)** (T11)
 * **Musculature**: Upper 1/3 striated, middle 1/3 mixed, lower 1/3 smooth
 * **Natural Constrictions (Common sites of food impaction/iatrogenic injury)**:
-* 15cm from incisors: Cricopharyngeus (narrowest point)
-* 25cm from incisors: Aortic arch / Left main bronchus crossing
-* 40cm from incisors: Diaphragmatic hiatus (T10)
+	* 15cm from incisors: Cricopharyngeus (narrowest point)
+	* 25cm from incisors: Aortic arch / Left main bronchus crossing
+	* 40cm from incisors: Diaphragmatic hiatus (T10)
 * **Z-line (Squamocolumnar junction)**: Normal transition from squamous (oesophagus) to columnar (stomach) epithelium
 
 ### Pathophysiology of GERD (胃食道逆流症)
 * **Primary Mechanism**: Transient LES relaxations (TLESRs)
 * **Secondary Factors**:
-* ↓ LES resting tone (<10 mmHg)
-* **Hiatus hernia (食管裂孔疝)** (loss of diaphragmatic crus pinchcock effect)
-* ↓ Oesophageal clearance (poor peristalsis)
-* Delayed gastric emptying
+	* ↓ LES resting tone (<10 mmHg)
+	* **Hiatus hernia (食管裂孔疝)** (loss of diaphragmatic crus pinchcock effect)
+	* ↓ Oesophageal clearance (poor peristalsis)
+	* Delayed gastric emptying
 
 ### Pathophysiology of Achalasia (食道失弛緩症)
 * **Cellular mechanism**: Autoimmune/idiopathic degeneration of inhibitory neurons (nitric oxide/VIP) in **Auerbach's (myenteric) plexus (腸肌神經叢)**
@@ -109,13 +109,13 @@
 
 ### Management Algorithm for GERD
 * **Step 1: Conservative/Lifestyle**
-* Weight loss, ↑ head of bed, avoid meals <3 hrs before sleep
-* Avoid triggers: Caffeine, alcohol, chocolate, spicy food
+	* Weight loss, ↑ head of bed, avoid meals <3 hrs before sleep
+	* Avoid triggers: Caffeine, alcohol, chocolate, spicy food
 * **Step 2: Medical**
-* **Proton Pump Inhibitors (PPIs) (質子泵抑制劑)** (e.g., Omeprazole 20mg OM/BD) for 4-8 weeks
-* H2-receptor antagonists if PPI intolerant
+	* **Proton Pump Inhibitors (PPIs) (質子泵抑制劑)** (e.g., Omeprazole 20mg OM/BD) for 4-8 weeks
+	* H2-receptor antagonists if PPI intolerant
 * **Step 3: Surgical Intervention**
-* Considered for refractory cases
+	* Considered for refractory cases
 
 ### Surgical Indications for GERD
 * Refractory symptoms despite maximal PPI therapy
@@ -125,11 +125,11 @@
 
 ### Management Algorithm for Achalasia
 * **Low Surgical Risk Patients**:
-* **Peroral Endoscopic Myotomy (POEM) (經口內視鏡肌肉切開術)** (Emerging standard in HK HA clusters) OR
-* **Laparoscopic Heller Myotomy (腹腔鏡海勒氏肌肉切開術)** + Partial Fundoplication
+	* **Peroral Endoscopic Myotomy (POEM) (經口內視鏡肌肉切開術)** (Emerging standard in HK HA clusters) OR
+	* **Laparoscopic Heller Myotomy (腹腔鏡海勒氏肌肉切開術)** + Partial Fundoplication
 * **High Surgical Risk/Elderly Patients**:
-* **Pneumatic Dilation (氣球擴張術)** (Effective but carries 2-5% perforation risk)
-* **Botulinum Toxin (Botox) Injection (肉毒桿菌注射)** into LES (Short-acting, lasts ~6 months, causes scarring making future surgery difficult)
+	* **Pneumatic Dilation (氣球擴張術)** (Effective but carries 2-5% perforation risk)
+	* **Botulinum Toxin (Botox) Injection (肉毒桿菌注射)** into LES (Short-acting, lasts ~6 months, causes scarring making future surgery difficult)
 
 ## 7. Key Operative Principles & Consent Issues
 
