@@ -136,7 +136,7 @@
 
 ### Surgical Indications for Adrenalectomy (腎上腺切除術)
 * **Functional tumours**: ALL functional tumours (Pheo, Conn's adenoma, Cushing's adenoma) regardless of size.
-* **Non-functional tumours**: Size $\ge$ 4cm (due to ↑ risk of ACC).
+* **Non-functional tumours**: Size ≥ 4cm (due to ↑ risk of ACC).
 * **Suspicious imaging**: High HU >20, delayed washout, irregular margins, necrosis.
 * **Metastasis**: Solitary adrenal metastasis (e.g., from NSCLC) with controlled primary.
 
