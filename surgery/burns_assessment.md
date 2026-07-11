@@ -33,11 +33,11 @@
 
 ### Signs of Airway and Inhalation Injury
 * **Inhalation Injury (吸入性損傷)** must be suspected if:
-* Hx of enclosed space fire.
-* Facial burns, singed nasal/facial hair.
-* Carbonaceous sputum, soot in mouth/oropharynx.
-* Hoarseness, stridor (impending airway obstruction).
-* Dyspnoea, tachypnoea, hypoxia.
+	* Hx of enclosed space fire.
+	* Facial burns, singed nasal/facial hair.
+	* Carbonaceous sputum, soot in mouth/oropharynx.
+	* Hoarseness, stridor (impending airway obstruction).
+	* Dyspnoea, tachypnoea, hypoxia.
 
 ### Burn Depth Clinical Assessment
 | Depth Classification | Tissues Involved | Clinical Appearance | Pain / Sensation | Capillary Refill | Healing Potential |
@@ -102,16 +102,16 @@
 * **E - Exposure**: Remove burning/chemical agents, constricting jewelry/clothing. Keep warm to prevent hypothermia.
 
 ### Fluid Resuscitation Protocol (Modified Parkland Formula)
-* **Indication**: Adults >15% TBSA, Children >10% TBSA.
+* **Indication**: Adults >20% TBSA, Children >10% TBSA.
 * **Formula**: Volume = 3 to 4 mL × patient weight (kg) × % TBSA burned. (HK HA commonly uses 3mL/kg for thermal, 4mL/kg for electrical/inhalation).
 * **Fluid type**: Warm Hartmann's solution (Ringer's Lactate). Avoid normal saline (hyperchloremic metabolic acidosis).
 * **Administration rate**:
-* First 50% given over the first 8 hours (calculated from *time of injury*, NOT time of hospital arrival).
-* Remaining 50% given over the subsequent 16 hours.
+	* First 50% given over the first 8 hours (calculated from *time of injury*, NOT time of hospital arrival).
+	* Remaining 50% given over the subsequent 16 hours.
 * **Titration Goal (CRITICAL)**: Target urine output (U/O).
-* Adults: 0.5 mL/kg/hr.
-* Children (<30kg): 1.0 mL/kg/hr.
-* Electrical burns: 1.0 - 1.5 mL/kg/hr (to flush myoglobin).
+	* Adults: 0.5 mL/kg/hr.
+	* Children (<30kg): 1.0 mL/kg/hr.
+	* Electrical burns: 1.0 - 1.5 mL/kg/hr (to flush myoglobin).
 
 ### Hong Kong HA Regional Burns Centre Referral Criteria
 * TBSA >10% in adults, >5% in extremes of age (<10 or >50 yrs).
@@ -133,8 +133,8 @@
 * **Early Excision and Grafting** (within 2-5 days): Standard of care for deep partial and full-thickness burns. ↓ infection risk, ↑ survival, ↓ hypertrophic scarring.
 * **Tangential Excision**: Sequential shaving of burn eschar using a Watson/Humby knife until punctate bleeding from viable dermis/fat is reached.
 * **Reconstruction**:
-* **Split-thickness Skin Graft (SSG) (刃厚皮片移植)**: Harvested with dermatome; meshed (e.g., 1:1.5) to expand coverage and allow hematoma/seroma drainage.
-* If massive burns/donor site shortage: Use allografts (cadaveric skin from HA skin bank), synthetic dermal substitutes (Integra), or cultured epidermal autografts (CEA).
+	* **Split-thickness Skin Graft (SSG) (刃厚皮片移植)**: Harvested with dermatome; meshed (e.g., 1:1.5) to expand coverage and allow hematoma/seroma drainage.
+	* If massive burns/donor site shortage: Use allografts (cadaveric skin from HA skin bank), synthetic dermal substitutes (Integra), or cultured epidermal autografts (CEA).
 
 ## 8. Post-operative Care (ERAS) & Rehabilitation
 
