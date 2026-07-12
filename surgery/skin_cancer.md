@@ -123,8 +123,8 @@
 * **Radiotherapy (放射治療)**: For elderly/unfit patients with BCC/SCC in difficult anatomical areas (e.g., eyelid, nose, lip). Avoid in melanoma (radioresistant).
 
 ### Surgical Excision Margins HA Protocol
-* **BCC**: 3-4mm peripheral margins. Depth down to subcutaneous fat.
-* **SCC**: 4-6mm peripheral margins (up to 1cm for high-risk lesions >2cm diameter, deep invasion, or immunosuppressed). Depth down to deep fascia.
+* **BCC**: 3-5mm peripheral margins. Depth down to subcutaneous fat.
+* **SCC**: 6mm peripheral margins (up to 1cm for high-risk lesions >2cm diameter, deep invasion, or immunosuppressed). Depth down to deep fascia.
 * **Melanoma**: **Wide Local Excision (WLE) (廣泛局部切除術)** based on Breslow thickness (see table above). Down to, but NOT excising, deep fascia.
 
 ### Lymph Node Management Algorithm
