@@ -88,7 +88,22 @@
 | **Stage III** | Any T                                                     | N1 (1–3 nodes) or N2 (≥4 nodes) | M0 (none)                                  |
 | **Stage IV**  | Any T                                                     | Any N                           | M1 (distant metastasis, e.g., liver, lung) |
 
-![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/4cb40511b28f041b809d83db68a3078c.png)
+![image|471](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/4cb40511b28f041b809d83db68a3078c.png)
+
+### Japan NBI Expert Team (JNET) Classification
+- **Application**: An "optical biopsy" system utilizing **Magnifying Narrow Band Imaging (NBI, 放大窄頻影像)** to differentiate neoplastic from non-neoplastic lesions and estimate the depth of invasion *in vivo* without waiting for formal histology.
+- Evaluates lesions based on two key criteria: **Vessel Pattern (血管形態)** and **Surface Pattern (表面形態)**.
+
+| *JNET Type* | *Vessel Pattern (血管形態)*                           | *Surface Pattern (表面形態)*                 | *Predicted Histology (預測病理)*                                               | *Management Strategy (治療策略)*                           |
+| ----------- | ------------------------------------------------- | ---------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------ |
+| **Type 1**  | Invisible                                         | Regular dark or white spots              | Hyperplastic polyp / Sessile serrated lesion (增生性息肉 / 無蒂鋸齒狀病變)             | Observation (if in rectosigmoid) or standard resection |
+| **Type 2A** | Regular caliber, regular distribution             | Regular (tubular / branched / papillary) | Low-grade intramucosal neoplasia (低級別黏膜內腫瘤 / Adenoma)                      | Standard Endoscopic Resection (Polypectomy / EMR)      |
+| **Type 2B** | Variable caliber, irregular distribution          | Irregular or obscure                     | High-grade neoplasia / Shallow submucosal invasion (高級別腫瘤 / 淺層黏膜下浸潤, SM-s) | *En bloc* Resection (ESD) for accurate staging         |
+| **Type 3**  | Loose vessel areas, interruption of thick vessels | Amorphous area                           | Deep submucosal invasive cancer (深層黏膜下浸潤癌, SM-d)                           | Surgical Resection (外科手術切除)                            |
+
+- **Clinical Pearl**: Type 2B lesions can be notoriously tricky and have the lowest diagnostic sensitivity (often masking deeper invasion). If a Type 2B lesion is encountered, adjunct assessment using the **[Kudo Pit Pattern Classification](https://www.droracle.ai/articles/1157663/what-is-the-japanese-nbi-expert-team-jnet-classification)** with chromoendoscopy is highly recommended to confirm the required treatment plan.
+
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/882f633dd0ae884b88ee4ef5ba3944c4.png)
 
 ## 6. Management Algorithm & Surgical Indications (Conservative, Medical, HA Protocols)
 
