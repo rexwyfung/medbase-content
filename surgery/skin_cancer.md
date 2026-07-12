@@ -132,7 +132,9 @@
 * Clinically +ve nodes (FNA proven): Therapeutic **Lymph Node Dissection (LND) (淋巴結廓清術)**.
 
 ### Adjuvant Therapy Indications
-* High-risk Melanoma (Stage III/IV): Immunotherapy (Nivolumab, Pembrolizumab), Targeted therapy (BRAF inhibitors e.g., Vemurafenib if BRAF V600E +ve).
+* High-risk Melanoma (Stage III/IV):
+	* Immunotherapy (Nivolumab, Pembrolizumab).
+	* Targeted therapy (BRAF inhibitors e.g., Vemurafenib if BRAF V600E +ve).
 
 ## 7. Key Operative Principles & Consent Issues
 
