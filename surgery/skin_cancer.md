@@ -19,6 +19,7 @@
 * **Epidermis (表皮)**: Contains basal cells (deepest), squamous cells, and melanocytes (neural crest derivatives).
 * **Dermis (真皮)**: Contains vasculature, lymphatics, adnexal structures (hair follicles, sebaceous glands).
 * **Subcutaneous Tissue (皮下組織)**: Adipose layer.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ffc94a0306298e722c52c0cb3f140ada.png)
 
 ### Pathophysiology of Basal Cell Carcinoma
 * Arises from pluripotential cells in basal layer.
@@ -27,12 +28,19 @@
 
 ### Pathophysiology of Squamous Cell Carcinoma
 * Arises from keratinizing epidermal cells.
-* Patho: Chronic UV damage, ionizing radiation, chronic inflammation (Marjolin's ulcer), immunosuppression (post-renal transplant patients in HA), arsenic exposure.
+* Patho:
+	* Chronic UV damage.
+	* Ionizing radiation.
+	* Chronic inflammation (Marjolin's ulcer).
+	* Immunosuppression (post-renal transplant patients in HA).
+	* Arsenic exposure.
 * Can metastasize via lymphatics (2-5% rate).
 
 ### Pathophysiology of Melanoma
 * Arises from malignant transformation of melanocytes.
-* Patho: Intense intermittent UV exposure (sunburns), genetic predisposition (CDKN2A, BRAF mutations).
+* Patho:
+	* Intense intermittent UV exposure (sunburns).
+	* Genetic predisposition (CDKN2A, BRAF mutations).
 * Highly aggressive → early lymphatic and hematogenous spread.
 
 ## 3. Key Symptoms & Signs
@@ -42,12 +50,14 @@
 * **Nodular BCC**: Pearly, rolled raised edges (珍珠狀邊緣), telangiectasia, central ulceration (Rodent ulcer).
 * **Superficial BCC**: Erythematous, scaly plaque.
 * **Morphoeic BCC**: Scar-like, ill-defined indurated plaque.
+![image|458](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ffd7845e95e02c1969e3ec5d5fe7d063.png)
 
 ### Symptoms and Signs of SCC
 * Location: Sun-exposed areas, lips, ears, chronic wounds.
 * Rapidly growing nodule with central keratinous core / horn.
 * Ulcerated lesion with everted edges (外翻邊緣), fleshy base, bleeds easily.
 * +ve regional lymphadenopathy if advanced.
+![image|559](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/c85ccddacaf8aa511815ec7476cf89b9.png)
 
 ### Symptoms and Signs of Melanoma (ABCDE Rule)
 * **A**symmetry: One half unlike the other.
@@ -56,20 +66,23 @@
 * **D**iameter: >6mm.
 * **E**volving: Changing in size, shape, colour, or new bleeding/itching.
 * **Hutchinson's sign**: Periungual hyperpigmentation (classic for subungual ALM).
+![image|585](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/dc836fee554a5d4dadeaf2d9c0587102.png)
 
 ## 4. Differential Diagnosis & Discriminatory Features
 
 ### Differential Diagnosis of Pigmented and Non-Pigmented Skin Lesions
 
-| Diagnosis | Discriminatory Clinical Features |
-| :--- | :--- |
-| **BCC (基底細胞癌)** | Pearly edge, telangiectasia, slow growth, sun-exposed areas. |
-| **SCC (鱗狀細胞癌)** | Keratotic crust, everted edge, faster growth, arises in actinic keratosis/burn scars. |
-| **Melanoma (黑色素瘤)** | ABCDE criteria, changing naevus, acral location in Asians. |
-| **Actinic Keratosis (日光性角化病)** | Pre-malignant SCC. Rough, sandpaper-like scaly patches on sun-damaged skin. |
-| **Seborrhoeic Keratosis (脂溢性角化病)** | "Stuck-on" appearance, greasy, warty surface. Benign. |
-| **Keratoacanthoma (角化棘皮瘤)** | Rapid growth (weeks) followed by spontaneous involution, central keratin plug. Often treated as well-differentiated SCC. |
-| **Pyogenic Granuloma (化膿性肉芽腫)** | Rapidly growing friable red nodule, bleeds profusely with minor trauma. Preceded by puncture injury. |
+| Diagnosis                          | Discriminatory Clinical Features                                                                                         |
+| :--------------------------------- | :----------------------------------------------------------------------------------------------------------------------- |
+| **BCC (基底細胞癌)**                    | Pearly edge, telangiectasia, slow growth, sun-exposed areas.                                                             |
+| **SCC (鱗狀細胞癌)**                    | Keratotic crust, everted edge, faster growth, arises in actinic keratosis/burn scars.                                    |
+| **Melanoma (黑色素瘤)**                | ABCDE criteria, changing naevus, acral location in Asians.                                                               |
+| **Actinic Keratosis (日光性角化病)**     | Pre-malignant SCC. Rough, sandpaper-like scaly patches on sun-damaged skin.                                              |
+| **Seborrhoeic Keratosis (脂溢性角化病)** | "Stuck-on" appearance, greasy, warty surface. Benign.                                                                    |
+| **Keratoacanthoma (角化棘皮瘤)**        | Rapid growth (weeks) followed by spontaneous involution, central keratin plug. Often treated as well-differentiated SCC. |
+| **Pyogenic Granuloma (化膿性肉芽腫)**    | Rapidly growing friable red nodule, bleeds profusely with minor trauma. Preceded by puncture injury.                     |
+
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/39caabfb37a469258f245b3a48411c47.png)
 
 ## 5. Tiered Investigations & Pre-operative Workup (Labs, Imaging, Staging)
 
@@ -82,6 +95,7 @@
 * **Incisional Biopsy (切開活檢)**: Reserved for very large lesions, or aesthetically sensitive areas (face, acral) where primary closure is impossible.
 * **Punch Biopsy (打孔活檢)**: Suitable for inflammatory dermatoses or large un-excisable NMSC.
 * **Shave Biopsy**: STRICTLY CONTRAINDICATED for suspected melanoma (destroys Breslow thickness staging).
+![image|492](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/97257941ac0f3e7459286e3241ac170e.png)
 
 ### Imaging for Skin Cancer Staging
 * **Ultrasound (超聲波)**: For assessing regional lymph nodes (FNA if suspicious).
@@ -97,6 +111,8 @@
 | **T2** | 1.01 - 2.0 mm thickness. | 1-2cm margin |
 | **T3** | 2.01 - 4.0 mm thickness. | 2cm margin |
 | **T4** | >4.0 mm thickness. | 2cm margin |
+
+ ![image|533](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/5a7587c7416ace71efd3ee57760324c5.png)
 
 ## 6. Management Algorithm & Surgical Indications (Conservative, Medical, HA Protocols)
 
@@ -189,6 +205,6 @@
 * Viva Question: What is a Marjolin's ulcer? Answer: SCC arising from an area of chronic inflammation, burns, or non-healing chronic wound. Tends to be aggressive.
 * Viva Question: Why do we not take shave biopsies for suspected melanoma? Answer: Shave biopsies transect the tumor, destroying the precise measurement of Breslow thickness, which is critical for T-staging, prognosticating, and deciding surgical margins.
 * Viva Question: What is the most common melanoma subtype in Hong Kong? Answer: Acral lentiginous melanoma, characteristically found on palms, soles, and under nails.
-* Trap: Assuming a black subungual lesion is always a subungual hematoma. Pearl: Always inquire about a history of trauma. If no trauma history and the pigmentation extends into the proximal nail fold (Hutchinson's sign), urgently biopsy to rule out acral lentiginous melanoma.
+* Trap: Assuming a black subungual lesion is always a subungual hematoma. Pearl: Always inquire about a history of trauma. If no trauma history and the pigmentation extends into the proximal nail fold (Hutchinson's sign), urgently biopsy to rule out acral lentiginous melanoma. ![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/4f30d1a83d9c6f06bce68790de33efda.png)
 * Pitfall: Recommending radiotherapy as first-line for melanoma. Melanoma is historically radioresistant; primary management must be surgical wide local excision.
 * Trap: Planning a 2cm margin for a suspected melanoma excisional biopsy. Pearl: Excisional biopsy should only have a narrow 2mm margin to simply establish the diagnosis and Breslow thickness; the definitive WLE with 1-2cm margins is done in a second operation based on the histology.
