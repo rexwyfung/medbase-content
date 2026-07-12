@@ -19,6 +19,7 @@
 * **Posterior Duodenal Wall:** Adjacent to **Gastroduodenal Artery (GDA) (胃十二指腸動脈)** → prone to massive haemorrhage
 * **Lesser Curvature of Stomach:** Supplied by **Left Gastric Artery (LGA) (胃左動脈)** → site of Type I GU & major bleeding
 * **Innervation:** Vagus nerve (迷走神經) (stimulates parietal cell acid secretion)
+![image|306](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/f1aef11e2a8c7eb3b051448461f86cb9.png)
 
 ### Pathophysiology of Mucosal Breakdown
 * **Mechanism:** Imbalance between mucosal defenses (mucus, bicarbonate, prostaglandins, blood flow) & aggressive factors (acid, pepsin)
@@ -33,6 +34,8 @@
 | **Type III** | Prepyloric | High | Acid hypersecretion |
 | **Type IV** | High on lesser curve (near GEJ) | Normal/Low | Mucosal defense defect |
 | **Type V** | Anywhere (often multiple) | Normal/Low | NSAID-induced |
+
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/b54c050dae5e9d7581199daac910aae3.png)
 
 ## 3. Key Symptoms & Signs
 
@@ -59,14 +62,14 @@
 ## 4. Differential Diagnosis & Discriminatory Features
 
 ### Discriminatory Table for Epigastric Pain
-| Condition | Key Discriminatory Features |
-| :--- | :--- |
-| **Peptic Ulcer Disease** | Pain related to meals, responds to antacids/PPI, history of NSAID use |
-| **Gastro-oesophageal Reflux (GERD)** | Retrosternal burning, worse supine, acid brash |
-| **Gastric Carcinoma (胃癌)** | Progressive weight loss, palpable epigastric mass, Virchow's node, anaemia |
-| **Acute Pancreatitis (急性胰臟炎)** | Pain radiating to back, severe continuous pain, ↑↑ Amylase/Lipase |
-| **Biliary Colic / Cholecystitis** | RUQ pain, Murphy's sign +ve, post-prandial (fatty foods), abnormal LFTs |
-| **Acute Coronary Syndrome** | Chest pain radiating to jaw/arm, diaphoresis, ECG changes, ↑ Troponin |
+| Condition                            | Key Discriminatory Features                                                |
+| :----------------------------------- | :------------------------------------------------------------------------- |
+| **Peptic Ulcer Disease**             | Pain related to meals, responds to antacids/PPI, history of NSAID use      |
+| **Gastro-oesophageal Reflux (GERD)** | Retrosternal burning, worse supine, acid brash                             |
+| **Gastric Carcinoma (胃癌)**           | Progressive weight loss, palpable epigastric mass, Virchow's node, anaemia |
+| **Acute Pancreatitis (急性胰臟炎)**       | Pain radiating to back, severe continuous pain, ↑↑ Amylase/Lipase          |
+| **Biliary Colic / Cholecystitis**    | RUQ pain, Murphy's sign +ve, post-prandial (fatty foods), abnormal LFTs    |
+| **Acute Coronary Syndrome**          | Chest pain radiating to jaw/arm, diaphoresis, ECG changes, ↑ Troponin      |
 
 ## 5. Tiered Investigations & Pre-operative Workup (Labs, Imaging, Staging)
 
@@ -84,13 +87,14 @@
 ### Diagnostic Imaging for PUD Complications
 * **Erect Chest X-Ray (CXR):** +ve for subdiaphragmatic **Pneumoperitoneum (氣腹)** in 70% of perforations
 * **CT Abdomen with IV Contrast:** High sensitivity for perforation (free air/fluid), excludes alternative acute abdomen causes
+![image|285](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/5bddad3d32ab2fbbc3a83a70d68b1f53.png)
 
 ### Prognostic Scoring Systems for PUD Complications
-| Score | Application | Key Variables Included |
-| :--- | :--- | :--- |
-| **Boey Score** | Predicts mortality in perforated PUD | 1. Major medical illness 2. Pre-op shock (BP<90) 3. Duration >24h |
-| **Glasgow-Blatchford** | Pre-endoscopy risk for bleeding | Urea, Hb, Sys BP, HR, Melaena, Syncope, Hepatic/Cardiac failure |
-| **Rockall Score** | Post-endoscopy risk for bleeding | Age, Shock, Comorbidities, Endoscopic diagnosis, SRH (Stigmata of Recent Haemorrhage) |
+| Score                  | Application                          | Key Variables Included                                                                |
+| :--------------------- | :----------------------------------- | :------------------------------------------------------------------------------------ |
+| **Boey Score**         | Predicts mortality in perforated PUD | 1. Major medical illness<br>2. Pre-op shock (BP<90)<br>3. Duration >24h               |
+| **Glasgow-Blatchford** | Pre-endoscopy risk for bleeding      | Urea, Hb, Sys BP, HR, Melaena, Syncope, Hepatic/Cardiac failure                       |
+| **Rockall Score**      | Post-endoscopy risk for bleeding     | Age, Shock, Comorbidities, Endoscopic diagnosis, SRH (Stigmata of Recent Haemorrhage) |
 
 ## 6. Management Algorithm & Surgical Indications (Conservative, Medical, HA Protocols)
 
@@ -103,7 +107,12 @@
 * **Transfusion:** Target Hb >7 g/dL (or >9 g/dL in ischemic heart disease)
 
 ### Medical Management & H. pylori Eradication
-* **HA First-Line Bismuth Quadruple Therapy (14 days):** PPI + Bismuth Subcitrate + Tetracycline + Metronidazole (replacing triple therapy due to macrolide resistance)
+* **HA First-Line Bismuth Quadruple Therapy (14 days):**
+	* PPI
+	* Bismuth Subcitrate
+	* Tetracycline
+	* Metronidazole
+	* → replacing triple therapy due to macrolide resistance
 * **NSAID cessation:** Mandatory; if impossible, transition to COX-2 inhibitor + continuous PPI
 
 ### Endoscopic Management Algorithm for Bleeding PUD
@@ -112,21 +121,29 @@
 * **Forrest Classification:** Guides intervention (Ia: spurting, Ib: oozing, IIa: visible vessel, IIb: adherent clot require dual therapy)
 
 ### Forrest Classification of Peptic Ulcer Bleeding
-| Forrest Grade | Endoscopic Findings                                  | Risk of Rebleeding | Management                                   |
-| :------------ | :--------------------------------------------------- | :----------------- | :------------------------------------------- |
-| **Ia**        | Arterial spurting hemorrhage                         | High               | Endoscopic therapy                           |
-| **Ib**        | Oozing hemorrhage                                    | High               | Endoscopic therapy                           |
-| **IIa**       | Non-bleeding visible vessel                          | High               | Endoscopic therapy                           |
-| **IIb**       | Adherent clot                                        | Intermediate       | Clot removal & treat underlying stigmata     |
-| **IIc**       | Flat pigmented haematin / "coffee-ground" spot       | Low                | Medical management                           |
-| **III**       | Clean-based ulcer (no stigmata of recent hemorrhage) | Lowest             | Medical management, safe for early discharge |
+| Forrest Grade | Endoscopic Findings                                      | Risk of Rebleeding | Management                                   |
+| :------------ | :------------------------------------------------------- | :----------------- | :------------------------------------------- |
+| **Ia**        | Arterial **spurting** hemorrhage                         | High               | Endoscopic therapy                           |
+| **Ib**        | **Oozing** hemorrhage                                    | High               | Endoscopic therapy                           |
+| **IIa**       | Non-bleeding **visible** **vessel**                      | High               | Endoscopic therapy                           |
+| **IIb**       | **Adherent** **clot**                                    | Intermediate       | Clot removal & treat underlying stigmata     |
+| **IIc**       | Flat pigmented haematin / **"coffee-ground" spot**       | Low                | Medical management                           |
+| **III**       | **Clean-based ulcer** (no stigmata of recent hemorrhage) | Lowest             | Medical management, safe for early discharge |
 
+![image|486](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/b9c8be2c70a7f479f204a2e576e7dfa8.png)
 
 ### Absolute Surgical Indications
 * **Perforation:** Generalized peritonitis
 * **Refractory Bleeding:** Haemodynamic instability despite active resuscitation, failure of 2x therapeutic OGD attempts
 * **Gastric Outlet Obstruction:** Refractory to conservative management (NPO, NGT decompression, PPI)
 * **Malignancy:** GU biopsy returning +ve for carcinoma
+
+### Surgical Management
+* **Perforated DU**: Laparoscopic Omental Patch Repair (Graham Patch) (大網膜覆蓋術)
+* **Bleeding PUD**: Laparotomy + Under-running of bleeding vessel (縫紮術)
+* **Refractory GOO**:
+	* Truncal Vagotomy + Gastrojejunostomy (Bypass)
+	* Alternative: Endoscopic balloon dilatation (requires multiple sessions)
 
 ## 7. Key Operative Principles & Consent Issues
 
@@ -144,10 +161,6 @@
 * **Procedure:** Laparotomy + Under-running of bleeding vessel (縫紮術)
 * **Posterior DU Bleed Steps:** Longitudinal duodenotomy → 3-point U-stitch (figure-of-8) using non-absorbable suture (e.g., Silk) to ligate GDA proximally, distally, and transverse pancreatic branch → Transverse closure (pyloroplasty) to prevent stricture
 * **Bleeding GU Steps:** Gastrotomy → Excision/Biopsy of ulcer (must rule out cancer) → primary closure
-
-### Operative Principles for Refractory GOO
-* **Procedure:** Truncal Vagotomy + Gastrojejunostomy (Bypass)
-* **Alternative:** Endoscopic balloon dilatation (requires multiple sessions)
 
 ### Informed Consent & Operative Risks
 * **General:** Bleeding, infection, damage to adjacent organs (biliary tree, pancreas)
