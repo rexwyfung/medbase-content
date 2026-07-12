@@ -111,6 +111,17 @@
 * **Dual Haemostasis Therapy:** Injection (Adrenaline 1:10000) + Mechanical (Endoclips) OR Thermal (Heater probe/Argon plasma coagulation)
 * **Forrest Classification:** Guides intervention (Ia: spurting, Ib: oozing, IIa: visible vessel, IIb: adherent clot require dual therapy)
 
+### Forrest Classification of Peptic Ulcer Bleeding
+| Forrest Grade | Endoscopic Findings                                  | Risk of Rebleeding | Management                                   |
+| :------------ | :--------------------------------------------------- | :----------------- | :------------------------------------------- |
+| **Ia**        | Arterial spurting hemorrhage                         | High               | Endoscopic therapy                           |
+| **Ib**        | Oozing hemorrhage                                    | High               | Endoscopic therapy                           |
+| **IIa**       | Non-bleeding visible vessel                          | High               | Endoscopic therapy                           |
+| **IIb**       | Adherent clot                                        | Intermediate       | Clot removal & treat underlying stigmata     |
+| **IIc**       | Flat pigmented haematin / "coffee-ground" spot       | Low                | Medical management                           |
+| **III**       | Clean-based ulcer (no stigmata of recent hemorrhage) | Lowest             | Medical management, safe for early discharge |
+
+
 ### Absolute Surgical Indications
 * **Perforation:** Generalized peritonitis
 * **Refractory Bleeding:** Haemodynamic instability despite active resuscitation, failure of 2x therapeutic OGD attempts

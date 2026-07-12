@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "596a0e420a4b180c",
+            "id": "a4d30c64aba750ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "surgery/skin_cancer.md",
-                "mode": "source",
-                "source": false
+                "file": "surgery/gastritis_pud.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "skin_cancer"
+              "title": "gastritis_pud"
             }
           }
         ],
@@ -199,9 +199,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "596a0e420a4b180c",
+  "active": "a4d30c64aba750ee",
   "lastOpenFiles": [
     "surgery/benign_oesophageal.md",
+    "surgery/skin_cancer.md",
     "surgery/burns_assessment.md",
     "surgery/colon_cancer.md",
     "surgery/urolithiasis.md",
@@ -226,7 +227,6 @@
     "surgery/hemorrhoids.md",
     "surgery/rectal_cancer.md",
     "surgery/cholelithiasis.md",
-    "surgery/liver_tumours.md",
     "surgery",
     "paediatrics/Untitled",
     "Logo-white bg.png",
