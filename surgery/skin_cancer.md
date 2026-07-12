@@ -149,11 +149,12 @@
 * Excise hot and/or blue nodes.
 
 ### Reconstructive Ladder Principles
-* 1. **Primary Closure (直接縫合)**: Direct approximation, under-mining skin edges.
-* 2. **Healing by Secondary Intention**: Granulation, for small wounds in concave areas (medial canthus).
-* 3. **Skin Grafts (植皮術)**: Split-thickness (STSG) or Full-thickness (FTSG) if wound cannot close directly. FTSG preferred for face.
-* 4. **Local Flaps (局部皮瓣)**: Advancement, transposition, rotation flaps. Brings blood supply, better colour/texture match.
-* 5. **Free Flaps (游離皮瓣)**: Microvascular anastomosis for large/complex defects.
+1. **Healing by Secondary Intention**: Granulation, for small wounds in concave areas (medial canthus).
+2. **Primary Intention**: Direct approximation, under-mining skin edges.
+3. **Skin Grafts (植皮術)**: Split-thickness (STSG) or Full-thickness (FTSG) if wound cannot close directly. FTSG preferred for face.
+4. **Local Flaps (局部皮瓣)**: Advancement, transposition, rotation flaps. Brings blood supply, better colour/texture match.
+5. **Free Flaps (游離皮瓣)**: Microvascular anastomosis for large/complex defects.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/9666c114ddad3b8e92a6042b72e7094d.png)
 
 ### Consent Issues for Skin Cancer Surgery
 * Bleeding, infection, scarring (hypertrophic/keloid).
