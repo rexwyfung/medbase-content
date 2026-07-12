@@ -92,7 +92,7 @@
 ### Prognostic Scoring Systems for PUD Complications
 | Score                  | Application                          | Key Variables Included                                                                |
 | :--------------------- | :----------------------------------- | :------------------------------------------------------------------------------------ |
-| **Boey Score**         | Predicts mortality in perforated PUD | 1. Major medical illness<br>2. Pre-op shock (BP<90)<br>3. Duration >24h               |
+| **Boey Score**         | Predicts mortality in perforated PUD | 1. Major medical illness 2. Pre-op shock (BP<90) 3. Duration >24h               |
 | **Glasgow-Blatchford** | Pre-endoscopy risk for bleeding      | Urea, Hb, Sys BP, HR, Melaena, Syncope, Hepatic/Cardiac failure                       |
 | **Rockall Score**      | Post-endoscopy risk for bleeding     | Age, Shock, Comorbidities, Endoscopic diagnosis, SRH (Stigmata of Recent Haemorrhage) |
 
