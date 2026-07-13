@@ -171,7 +171,7 @@
 * **Airway Obstruction**: Secondary to progressive hematoma or profound mucosal edema compressing the trachea.
 * **Flap Failure**: Arterial or venous thrombosis requiring immediate return to theatre for microvascular salvage.
 * **Chyle Leak (乳糜漏)**: Milky drainage from neck drains; managed by zero-fat (MCT-only) diet or surgical re-exploration/ligation.
-* **Salivary Fistula**: Breakdown of pharyngeal/mucosal repair $\rightarrow$ saliva leaks into the neck, risking vessel blowout.
+* **Salivary Fistula**: Breakdown of pharyngeal/mucosal repair → saliva leaks into the neck, risking vessel blowout.
 
 ### Late Radiotherapy / Surgical Complications
 * **Osteoradionecrosis (ORN) of the Jaw (放射性骨壞死)**: Devitalization of irradiated mandible → chronic exposed bone, pathological fractures.
