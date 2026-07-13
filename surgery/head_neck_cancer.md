@@ -52,6 +52,7 @@
 * **Otologic Symptoms**: Unilateral hearing loss, tinnitus, aural fullness secondary to **Eustachian Tube (耳咽管)** obstruction → **Otitis Media with Effusion (積水性中耳炎)** in adults (Red Flag).
 * **Nasal Symptoms**: Blood-stained nasal discharge, epistaxis, nasal obstruction.
 * **Neurological Signs**: Cranial nerve palsies (CN III, IV, V, VI) due to superior skull base invasion.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/b6eba2c95dccdde18865f31c643dbeb4.png)
 
 ### Clinical Signs of Oral Cavity and Oropharyngeal Tumours
 * **Oral Lesions**: Painless, non-healing ulcer >2 weeks, mucosal induration, leukoplakia (white patch), erythroplakia (red patch - higher malignant potential).
