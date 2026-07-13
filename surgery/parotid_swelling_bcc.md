@@ -22,15 +22,18 @@
 * **Parotid Fascia:** Dense unyielding fascia (derived from investing layer of deep cervical fascia) → parotitis causes severe pain due to capsular stretch.
 * **Deep vs Superficial Lobes:** Artificially divided by Facial Nerve (CN VII) (面神經). 80% of gland is superficial.
 * **Stensen's Duct (腮腺管):** Exits anterior border, pierces buccinator, opens opposite 2nd upper molar.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/c5bdb2cd4c13209dc2388f466bf2e27c.png)
+![image|496](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/cfd5d1bdf7b4491981faa97cce45d94d.png)
 
 ### Facial Nerve (CN VII) Anatomy & Landmarks
 * **Exit:** Stylomastoid foramen.
 * **Trunk:** Enters posteromedial surface of parotid.
 * **Pes Anserinus:** Bifurcates into temporofacial & cervicofacial divisions → then 5 terminal branches (Temporal, Zygomatic, Buccal, Marginal Mandibular, Cervical).
 * **Surgical Landmarks (High-Yield):**
-* **Tragal pointer:** 1cm deep & inferior to tragal cartilage.
-* **Tympanomastoid suture:** Leads directly to stylomastoid foramen.
-* **Posterior belly of digastric:** Nerve lies superior to its origin.
+	* **Tragal pointer:** 1cm deep & inferior to tragal cartilage.
+	* **Tympanomastoid suture:** Leads directly to stylomastoid foramen.
+	* **Posterior belly of digastric:** Nerve lies superior to its origin.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/1cc2e628092a3fbf25cc5e14dcd69fe2.png)
 
 ### Pathophysiology of BCC & Parotid Invasion
 * **BCC Pathogenesis:** UV-induced DNA damage (PTCH1 mutation in Hedgehog pathway).
@@ -54,31 +57,34 @@
 * **Ulcerative (Rodent Ulcer):** Central necrotic ulceration with pearly raised margin.
 * **Sclerosing/Morphoeic:** Plaque-like, scar-like, ill-defined margins (high risk of deep invasion).
 * **Pigmented:** Mimics melanoma (less common in Chinese/HK population but occurs).
+![image|458](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ffd7845e95e02c1969e3ec5d5fe7d063.png)
 
 ## 4. Differential Diagnosis & Discriminatory Features
 
 ### Table: Differential Diagnosis of Parotid Mass
-| Category | Condition | Discriminatory Features |
-| :--- | :--- | :--- |
-| **Benign Neoplasm** | Pleomorphic Adenoma | Middle-aged female, slow growth, lobulated, cartilaginous/myxoid stroma. |
-| **Benign Neoplasm** | Warthin's Tumour | Elderly male smoker, bilateral in 10%, lower pole, cystic spaces. |
-| **Malignancy** | Mucoepidermoid Carcinoma | Most common parotid malignancy, CN VII palsy, hard, fixed. |
-| **Malignancy** | Adenoid Cystic Carcinoma | High rate of perineural invasion (skip lesions), painful. |
-| **Malignancy** | Metastatic Nodes | Secondary to head/neck BCC, SCC, or Melanoma. |
-| **Infective** | Acute Bacterial Parotitis | Dehydrated elderly (post-op), *S. aureus*, fever, pus at duct. |
+| Category            | Condition                 | Discriminatory Features                                                  |
+| :------------------ | :------------------------ | :----------------------------------------------------------------------- |
+| **Benign Neoplasm** | Pleomorphic Adenoma       | Middle-aged female, slow growth, lobulated, cartilaginous/myxoid stroma. |
+| **Benign Neoplasm** | Warthin's Tumour          | Elderly male smoker, bilateral in 10%, lower pole, cystic spaces.        |
+| **Malignancy**      | Mucoepidermoid Carcinoma  | Most common parotid malignancy, CN VII palsy, hard, fixed.               |
+| **Malignancy**      | Adenoid Cystic Carcinoma  | High rate of perineural invasion (skip lesions), painful.                |
+| **Malignancy**      | Metastatic Nodes          | Secondary to head/neck BCC, SCC, or Melanoma.                            |
+| **Infective**       | Acute Bacterial Parotitis | Dehydrated elderly (post-op), *S. aureus*, fever, pus at duct.           |
 
 ### Table: Differential Diagnosis of Facial Skin Lesion (BCC Suspected)
-| Condition | Discriminatory Features |
-| :--- | :--- |
-| **BCC (基底細胞癌)** | Pearly edge, telangiectasia, slow growth, rarely metastasizes. |
-| **SCC (鱗狀細胞癌)** | Everted edges, keratin pearls, faster growth, node metastasis common. |
-| **Actinic Keratosis** | Pre-malignant, rough/scaly "sandpaper" texture, sun-exposed areas. |
-| **Keratoacanthoma** | Rapid growth (weeks), central keratin plug, spontaneous regression. |
+| Condition             | Discriminatory Features                                               |
+| :-------------------- | :-------------------------------------------------------------------- |
+| **BCC (基底細胞癌)**       | Pearly edge, telangiectasia, slow growth, rarely metastasizes.        |
+| **SCC (鱗狀細胞癌)**       | Everted edges, keratin pearls, faster growth, node metastasis common. |
+| **Actinic Keratosis** | Pre-malignant, rough/scaly "sandpaper" texture, sun-exposed areas.    |
+| **Keratoacanthoma**   | Rapid growth (weeks), central keratin plug, spontaneous regression.   |
 
 ## 5. Tiered Investigations & Pre-operative Workup (Labs, Imaging, Staging)
 
 ### 1st Line Imaging for Parotid
-* **Ultrasound (USG) Neck:** Gold standard initial test. Differentiates solid vs cystic, assesses local nodes, guides FNAC.
+* **Ultrasound (USG) Neck:**
+	* Gold standard initial test.
+	* Differentiates solid vs cystic, assesses local nodes, guides FNAC.
 
 ### Tissue Diagnosis for Parotid
 * **USG-guided FNAC (細針抽吸細胞學檢查):** Mandatory for all parotid masses before surgery. Accurately diagnoses benign vs malignant (sensitivity >80%).
@@ -98,6 +104,7 @@
 ### Management of Benign Parotid Neoplasms
 * **Observation:** Rarely indicated (risk of malignant transformation in pleomorphic adenoma → Carcinoma ex pleomorphic adenoma).
 * **Surgical Resection:** Superficial Parotidectomy (淺層腮腺切除術) or Extracapsular Dissection. Enucleation is STRICTLY CONTRAINDICATED (↑ recurrence risk).
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a8c6ed5862ce31e23192de40d96e301b.png)
 
 ### Management of Parotid Malignancy
 * **Radical/Total Parotidectomy:** Indicated for malignant tumours.
@@ -110,6 +117,7 @@
 * **High-Risk/Morphoeic BCC or Critical Area (Eyelid, Nose, Lip):** Mohs Micrographic Surgery (MMS) or Excision with frozen section control.
 * **Unresectable/Medically Unfit:** Primary Radiotherapy.
 * **Advanced/Metastatic BCC (e.g., Parotid node invasion):** Vismodegib (Hedgehog pathway inhibitor) under HA targeted therapy protocols + palliative RT.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/11ab925b4b178e2449ca3a211b2d3c05.png)
 
 ## 7. Key Operative Principles & Consent Issues
 
@@ -145,10 +153,15 @@
 ### Early Complications (Parotidectomy)
 * **Haematoma/Haemorrhage:** Requires urgent re-exploration to prevent airway compromise or flap necrosis.
 * **Facial Nerve Palsy:** Usually temporary (neuropraxia from traction). Immediate complete palsy requires urgent assessment.
-* **Salivary Fistula / Sialocele:** Fluid collection under flap. Management: Pressure dressing, serial aspiration, anticholinergics (Botulinum toxin injection to remnant gland in refractory cases).
+* **Salivary Fistula / Sialocele:**
+	* Fluid collection under flap.
+	* Management: Pressure dressing, serial aspiration, anticholinergics (Botulinum toxin injection to remnant gland in refractory cases).
 
 ### Late Complications (Parotidectomy)
-* **Frey's Syndrome (Auriculotemporal Syndrome) (味覺性出汗):** Aberrant re-innervation of sweat glands by parasympathetic salivary fibers. Present as gustatory sweating/flushing over parotid bed during eating. Management: Reassurance, anti-perspirants, Botox injections.
+* **Frey's Syndrome (Auriculotemporal Syndrome) (味覺性出汗):**
+	* Aberrant re-innervation of sweat glands by parasympathetic salivary fibers.
+	* Present as gustatory sweating/flushing over parotid bed during eating.
+	* Management: Reassurance, anti-perspirants, Botox injections.
 * **Tumour Recurrence:** Especially if Pleomorphic adenoma was enucleated or capsule ruptured (multi-nodular seeding).
 
 ### BCC Prognosis
@@ -157,10 +170,10 @@
 
 ## 10. Examiner's Pearls (High-yield viva questions and common pitfalls)
 
-* Viva Question: What is the most consistent bony landmark for the facial nerve trunk during parotidectomy? Answer: The tympanomastoid suture.
+* Viva Question: What is the most consistent bony landmark for the facial nerve trunk during parotidectomy? Answer: The tympanomastoid suture. ![image|376](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/eaca71f418e805de5d2962062aa2d699.png)
 * Trap: Performing an open incisional biopsy for a suspected parotid pleomorphic adenoma. Pearl: Never do an open biopsy; it disrupts the capsule and causes multifocal tumor seeding. Always use USG-guided FNAC.
 * Pitfall: Discharging a patient post-parotidectomy with a facial nerve palsy without assessing the eye. You must actively prescribe eye lubrication and taping to prevent permanent visual loss from exposure keratitis.
-* Viva Question: Which nerve is almost always sacrificed during a parotidectomy, leading to numbness of the earlobe? Answer: The Great Auricular Nerve.
+* Viva Question: Which nerve is almost always sacrificed during a parotidectomy, leading to numbness of the earlobe? Answer: The Great Auricular Nerve. ![image|324](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/f4f647d6ea7aa820fcf75cb58845e9f3.png)
 * Trap: Reassuring a patient that their facial skin lesion is benign just because it is slow-growing and painless. Pearl: A slow-growing, painless, pearly nodule with telangiectasia is the classic presentation of a Basal Cell Carcinoma and requires biopsy/excision.
 * Pitfall: Inadequate excision margins for a morphoeic BCC. Morphoeic BCCs have subclinical microscopic extensions far beyond their visible borders; they require Mohs Micrographic Surgery or wider excision margins.
 * Viva Question: What is the anatomical divide between the superficial and deep lobes of the parotid gland? Answer: The facial nerve (CN VII) artificially divides the gland; there is no true anatomical fibrous septum.
