@@ -59,6 +59,7 @@
 * **Functional Deficits**: **Dysphagia (吞嚥困難)**, odynophagia, restricted tongue mobility (hypoglossal nerve involvement), trismus (medial pterygoid invasion).
 * **Referred Pain**: Unilateral **Otalgia (耳痛)** with normal ear exam (referred via CN IX/X).
 ![image|543](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ff58d09fa2f1d92c96edd5a47e86c1f8.png)
+![image|571](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/fcd405553eafe882d98d6cab499915d1.png)
 
 ### Clinical Signs of Laryngeal Tumours
 * **Glottic SCC**: Early presentation with persistent **Hoarseness (聲音沙啞)** >3 weeks.
