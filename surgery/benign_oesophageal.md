@@ -8,8 +8,8 @@
 
 ### Clinical Definition of Achalasia (食道失弛緩症)
 * **Definition**: Primary oesophageal motility disorder characterized by:
-* Absent oesophageal peristalsis
-* Failure of **lower oesophageal sphincter (LES) (下食道括約肌)** relaxation during swallowing
+	* Absent oesophageal peristalsis
+	* Failure of **lower oesophageal sphincter (LES) (下食道括約肌)** relaxation during swallowing
 
 ### Clinical Definition of Zenker's Diverticulum (岑克氏憩室)
 * **Definition**: Pulsion-type **false diverticulum (假性憩室)** (mucosa + submucosa only) protruding through posterior pharyngeal wall
@@ -46,6 +46,7 @@
 ### Pathophysiology of Zenker's Diverticulum (岑克氏憩室)
 * Incoordination between pharyngeal contraction and cricopharyngeus relaxation
 * ↑ Intraluminal pressure forces mucosa out through **Killian's dehiscence (基利安氏裂隙)** (weak spot between thyropharyngeus and cricopharyngeus muscles)
+![image|389](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/92b59af9a77bcee5d70a3d5f9633146f.png)
 
 ## 3. Key Symptoms & Signs
 
@@ -85,25 +86,28 @@
 
 ### 1st Line Investigation for Dysphagia & GERD Red Flags
 * **Oesophagogastroduodenoscopy (OGD) (胃鏡檢查)**
-* Excludes malignancy (mandatory in HK for new dysphagia or dyspepsia >40 years)
-* Identifies complications: **Barrett's oesophagus (巴雷特食道)**, strictures, erosive oesophagitis
-* *Note*: OGD may be normal in early Achalasia or NERD
+	* Excludes malignancy (mandatory in HK for new dysphagia or dyspepsia >40 years)
+	* Identifies complications: **Barrett's oesophagus (巴雷特食道)**, strictures, erosive oesophagitis
+	* *Note*: OGD may be normal in early Achalasia or NERD
+![image|506](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/0430ad6e461719854a56d82bb3640ae9.png)
 
 ### Diagnostic Imaging for Benign Oesophageal Motility Disorders
 * **Barium Swallow (鋇劑吞嚥造影)**
-* Achalasia: Dilated oesophagus, **"Bird's beak" (鳥嘴狀)** tapering at gastroesophageal junction, absent gastric air bubble
-* Zenker's: Posterior pooling of contrast in neck pouch
-* Hiatus Hernia: Shows size and type (sliding vs rolling)
+	* Achalasia: Dilated oesophagus, **"Bird's beak" (鳥嘴狀)** tapering at gastroesophageal junction, absent gastric air bubble
+	* Zenker's: Posterior pooling of contrast in neck pouch
+	* Hiatus Hernia: Shows size and type (sliding vs rolling)
+![image|530](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/9fb82d004d6f9d6249f4542d8613c301.png)
 
 ### Gold Standard Investigation for Achalasia
 * **High-resolution Oesophageal Manometry (高解像度食道測壓)**
-* Essential pre-operative test
-* Diagnostic criteria: Incomplete LES relaxation (↑ Integrated Relaxation Pressure [IRP]) + absent peristalsis
+	* Essential pre-operative test
+	* Diagnostic criteria: Incomplete LES relaxation (↑ Integrated Relaxation Pressure [IRP]) + absent peristalsis
+![image|316](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3ba4e47e861177e5637c26d1904e003c.png)
 
 ### Gold Standard Investigation for GERD
 * **24-hour Ambulatory pH Monitoring (24小時pH監測)**
-* Quantifies acid exposure time (DeMeester score >14.7 = +ve)
-* Indicated if OGD normal but symptoms persist, or mandatory prior to anti-reflux surgery
+	* Quantifies acid exposure time (DeMeester score >14.7 = +ve)
+	* Indicated if OGD normal but symptoms persist, or mandatory prior to anti-reflux surgery
 
 ## 6. Management Algorithm & Surgical Indications (Conservative, Medical, HA Protocols)
 
