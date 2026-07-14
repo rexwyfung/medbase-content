@@ -163,6 +163,7 @@
 	* Present as gustatory sweating/flushing over parotid bed during eating.
 	* Management: Reassurance, anti-perspirants, Botox injections.
 * **Tumour Recurrence:** Especially if Pleomorphic adenoma was enucleated or capsule ruptured (multi-nodular seeding).
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3049dfa468b72fa5de7268bbcea29bae.png)
 
 ### BCC Prognosis
 * **Standard BCC:** Excellent prognosis (cure rate >95% with complete excision).
