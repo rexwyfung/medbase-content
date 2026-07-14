@@ -11,17 +11,17 @@
 * **Incidence**: ~6-8 per 100,000 annually in Hong Kong.
 * **Age & Gender**: Peak incidence 50-60 years; Female > Male (1.6:1).
 * **Risk Factors (Local)**:
- * **Modifiable**: Hypertension (高血壓), smoking, heavy alcohol consumption.
- * **Non-modifiable**: Family history (+ve in first-degree relative), **Autosomal Dominant Polycystic Kidney Disease (ADPKD)** (常染色體顯性多囊腎病), Ehlers-Danlos syndrome, Marfan syndrome.
+	* **Modifiable**: Hypertension (高血壓), smoking, heavy alcohol consumption.
+	* **Non-modifiable**: Family history (+ve in first-degree relative), **Autosomal Dominant Polycystic Kidney Disease (ADPKD)** (常染色體顯性多囊腎病), Ehlers-Danlos syndrome, Marfan syndrome.
 
 ## 2. Surgical Anatomy & Pathophysiology
 
 ### Surgical Anatomy of the Circle of Willis (威利氏環)
 * **Aneurysm Distribution**:
- * **Anterior Communicating Artery (AComA)** (前交通動脈): 30-40% (Most common).
- * **Internal Carotid Artery / Posterior Communicating Artery (PComA)** (後交通動脈): 20-30%.
- * **Middle Cerebral Artery (MCA)** (大腦中動脈): 20% (Often presents with intracerebral haematoma).
- * **Posterior Circulation**: 10% (Basilar tip, vertebral arteries).
+	 * **Anterior Communicating Artery (AComA)** (前交通動脈): 30-40% (Most common).
+	 * **Internal Carotid Artery / Posterior Communicating Artery (PComA)** (後交通動脈): 20-30%.
+	 * **Middle Cerebral Artery (MCA)** (大腦中動脈): 20% (Often presents with intracerebral haematoma).
+	 * **Posterior Circulation**: 10% (Basilar tip, vertebral arteries).
 
 ### Pathophysiology of Berry Aneurysms (漿果動脈瘤)
 * **Structural Defect**: Congenital absence/weakness of tunica media & internal elastic lamina at arterial bifurcations.
@@ -43,16 +43,16 @@
 
 ### Key Neurological Signs of SAH
 * **Meningism** (腦膜刺激徵):
- * **Neck stiffness** (頸部僵直) (takes 6-12 hours to develop).
- * **Kernig's sign +ve**: Pain on knee extension with hip flexed.
- * **Brudzinski's sign +ve**: Involuntary hip/knee flexion upon passive neck flexion.
+	 * **Neck stiffness** (頸部僵直) (takes 6-12 hours to develop).
+	 * **Kernig's sign +ve**: Pain on knee extension with hip flexed.
+	 * **Brudzinski's sign +ve**: Involuntary hip/knee flexion upon passive neck flexion.
 * **Focal Neurological Deficits**:
- * **PComA aneurysm**: Ipsilateral **CN III palsy** (第三對腦神經麻痺) (dilated pupil, "down and out" eye).
- * **AComA aneurysm**: Bilateral leg weakness, abulia.
- * **MCA aneurysm**: Contralateral hemiparesis, aphasia.
+	 * **PComA aneurysm**: Ipsilateral **CN III palsy** (第三對腦神經麻痺) (dilated pupil, "down and out" eye).
+	 * **AComA aneurysm**: Bilateral leg weakness, abulia.
+	 * **MCA aneurysm**: Contralateral hemiparesis, aphasia.
 * **Ocular Signs**:
- * **Papilloedema** (視乳頭水腫): ↑ ICP.
- * **Terson's Syndrome**: Vitreous haemorrhage associated with SAH.
+	 * **Papilloedema** (視乳頭水腫): ↑ ICP.
+	 * **Terson's Syndrome**: Vitreous haemorrhage associated with SAH.
 
 ### Warning Signs (Sentinel Bleed)
 * **Sentinel Headache**: Minor leak days/weeks before major rupture. Often misdiagnosed as tension headache; sudden onset is key discriminator.
@@ -72,9 +72,10 @@
 
 ### First-Line Imaging for Suspected SAH
 * **Non-contrast CT Brain** (平掃電腦掃描):
- * **Sensitivity**: >98% if done <6 hours of onset; drops to ~50% at 1 week.
- * **Findings**: Hyperdense blood in basal cisterns, sylvian fissures, or sulci.
- * **Utility**: Identifies SAH, hydrocephalus, and associated ICH.
+	 * **Sensitivity**: >98% if done <6 hours of onset; drops to ~50% at 1 week.
+	 * **Findings**: Hyperdense blood in basal cisterns, sylvian fissures, or sulci.
+	 * **Utility**: Identifies SAH, hydrocephalus, and associated ICH.
+![image|301](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/85e5f363443338ff1c352b34471e4942.png)
 
 ### Diagnostic Lumbar Puncture (腰椎穿刺) Protocol
 * **Indication**: Mandatory if classical history but CT Brain is -ve. Must wait >12 hours post-headache onset.
@@ -125,6 +126,10 @@
 * **Goal**: Secure within 24-72 hours to eliminate rebleeding risk.
 * **Indications**: Any ruptured aneurysm in a salvageable patient (WFNS I-IV). WFNS V patients may require external ventricular drain (EVD) first to reassess neurological salvageability.
 
+### Surgical Manaagement
+* **Endovascular Coiling**: 1st Line Treatment
+* **Surgical Clipping**: For wide-neck aneurysms, MCA bifurcation aneurysms, large haematoma, failed coiling.
+
 ## 7. Key Operative Principles & Consent Issues
 
 ### Endovascular Coiling (血管內導管栓塞術) Principles
@@ -164,8 +169,8 @@
 ### Intermediate Complications (3 to 14 days)
 * **Vasospasm & DCI**: Leading cause of delayed morbidity. Treated with Nimodipine and induced hypertension.
 * **Hyponatraemia** (低血鈉): Common.
- * **Cerebral Salt Wasting Syndrome (CSWS)** (腦性鹽耗損症候群): True hypovolaemia + hyponatraemia. Requires NS fluid replacement.
- * **SIADH**: Euvolaemic/hypervolaemic hyponatraemia.
+	 * **Cerebral Salt Wasting Syndrome (CSWS)** (腦性鹽耗損症候群): True hypovolaemia + hyponatraemia. Requires NS fluid replacement.
+	 * **SIADH**: Euvolaemic/hypervolaemic hyponatraemia.
 
 ### Late Complications (> 14 days)
 * **Chronic Hydrocephalus**: Requires long-term Ventriculoperitoneal (VP) Shunt (腦室腹腔分流術).
@@ -178,7 +183,7 @@
 
 ## 10. Examiner's Pearls (High-yield viva questions and common pitfalls)
 
-* Viva Question: What is the most common cranial nerve palsy associated with a PComA aneurysm? Answer: Ipsilateral CN III palsy, classically with pupillary involvement (dilated pupil).
+* Viva Question: What is the most common cranial nerve palsy associated with a PComA aneurysm? Answer: Ipsilateral CN III palsy, classically with pupillary involvement (dilated pupil). ![image|406](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/86f101987a302404900c51750ef3a382.png)
 * Viva Question: Why do we test for xanthochromia 12 hours after symptom onset instead of immediately? Answer: It takes up to 12 hours for RBCs in the CSF to undergo enzymatic breakdown into bilirubin, which produces the yellow colour.
 * Trap: Treating SAH-induced hyponatraemia with fluid restriction. Pearl: Fluid restriction exacerbates cerebral hypoperfusion and triggers fatal vasospasm. Always maintain euvolaemia with 0.9% Normal Saline and use hypertonic saline if needed for severe hyponatraemia.
 * Trap: Attributing a sudden, severe headache to migraine without a prior history. Pearl: Any first-time thunderclap headache must be managed as a ruptured aneurysm until proven otherwise with CT and/or LP.
