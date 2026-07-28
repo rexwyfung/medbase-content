@@ -96,31 +96,31 @@
 * **Site (Adult ATLS 10th Ed):** 5th intercostal space (ICS), mid-axillary line (MAL) OR 2nd ICS, mid-clavicular line (MCL)
 * **Equipment:** Large bore cannula (14G or 16G, >5cm length)
 * **Steps:** 
-* Cleanse skin with chlorhexidine
-* Insert needle perpendicular to skin, just above the lower rib margin (avoid neurovascular bundle)
-* Listen for "hiss" of escaping air
-* Remove needle, leave cannula in place
-* Secure cannula
+	* Cleanse skin with chlorhexidine
+	* Insert needle perpendicular to skin, just above the lower rib margin (avoid neurovascular bundle)
+	* Listen for "hiss" of escaping air
+	* Remove needle, leave cannula in place
+	* Secure cannula
 
 ### Finger Thoracostomy (手指胸腔造口術) Mechanics
 * **Indication:** Preferred in cardiac arrest or impending arrest (more reliable than needle)
 * **Site:** 5th ICS, anterior to mid-axillary line
 * **Steps:**
-* Incise skin (3-4cm) with scalpel
-* Blunt dissect through subcutaneous tissue and intercostal muscles with curved Kelly forceps
-* Puncture parietal pleura just above the lower rib
-* Insert finger to sweep lung away and confirm intrapleural placement
-* Air should rush out
+	* Incise skin (3-4cm) with scalpel
+	* Blunt dissect through subcutaneous tissue and intercostal muscles with curved Kelly forceps
+	* Puncture parietal pleura just above the lower rib
+	* Insert finger to sweep lung away and confirm intrapleural placement
+	* Air should rush out
 
 ### Tube Thoracostomy (胸腔引流管置入術) Mechanics & Consent
 * **Consent:** Implied if life-threatening; written emergency consent if time permits (Risks: bleeding, infection, organ injury)
 * **Equipment:** Chest tube (28-32 Fr for trauma), underwater seal drain
 * **Steps:**
-* Follow Finger Thoracostomy steps above
-* Clamp proximal end of chest tube
-* Guide tube into pleural space via tract, directing posteriorly and apically
-* Connect to underwater seal drainage system
-* Suture in place (heavy silk/nylon) and apply occlusive dressing
+	* Follow Finger Thoracostomy steps above
+	* Clamp proximal end of chest tube
+	* Guide tube into pleural space via tract, directing posteriorly and apically
+	* Connect to underwater seal drainage system
+	* Suture in place (heavy silk/nylon) and apply occlusive dressing
 
 ## 8. Clinical Decision Rules & Risk Scoring
 

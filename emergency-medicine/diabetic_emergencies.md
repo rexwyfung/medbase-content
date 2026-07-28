@@ -138,9 +138,9 @@
 ### Hypoglycemia Reversal Algorithm
 * **Conscious & able to swallow**: Oral fast-acting carbohydrates (e.g., 15-20g glucose gel/juice).
 * **Unconscious / Nil by mouth (NBM)**:
-* **1st Line IV**: 50ml of 50% Dextrose (D50) OR 250ml of 10% Dextrose (D10) IV bolus.
-* **Alternative (No IV access)**: 1mg Glucagon IM (Ineffective in malnourished/alcoholics due to empty glycogen stores).
-* **Maintenance**: Start D10W infusion if SU-induced to prevent rebound hypoglycemia.
+	* **1st Line IV**: 50ml of 50% Dextrose (D50) OR 250ml of 10% Dextrose (D10) IV bolus.
+	* **Alternative (No IV access)**: 1mg Glucagon IM (Ineffective in malnourished/alcoholics due to empty glycogen stores).
+	* **Maintenance**: Start D10W infusion if SU-induced to prevent rebound hypoglycemia.
 
 ## 7. Key ED Procedures & Technical Interventions (Mechanics & Consent)
 

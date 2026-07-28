@@ -67,13 +67,13 @@
 ### 12-Lead ECG Findings & Criteria
 * **Target**: Complete within 10 minutes of ED arrival.
 * **STEMI Criteria**:
-* **Men < 40 yrs**: ≥ 2.5 mm STE in V2-V3.
-* **Men ≥ 40 yrs**: ≥ 2.0 mm STE in V2-V3.
-* **Women (any age)**: ≥ 1.5 mm STE in V2-V3.
-* **All other leads**: ≥ 1 mm STE in ≥ 2 contiguous leads.
-* **New LBBB**: Considered STEMI equivalent in appropriate clinical context.
-* **Posterior MI**: Horizontal ST depression (V1-V3), tall R waves, upright T waves.
-* **RV Infarct**: ST elevation in right-sided leads (V4R).
+	* **Men < 40 yrs**: ≥ 2.5 mm STE in V2-V3.
+	* **Men ≥ 40 yrs**: ≥ 2.0 mm STE in V2-V3.
+	* **Women (any age)**: ≥ 1.5 mm STE in V2-V3.
+	* **All other leads**: ≥ 1 mm STE in ≥ 2 contiguous leads.
+	* **New LBBB**: Considered STEMI equivalent in appropriate clinical context.
+	* **Posterior MI**: Horizontal ST depression (V1-V3), tall R waves, upright T waves.
+	* **RV Infarct**: ST elevation in right-sided leads (V4R).
 
 ### Cardiac Biomarkers
 * **High-Sensitivity Troponin (hs-cTn T/I) (肌鈣蛋白)**: Rises within 1-3 hrs. Perform 0-hour and 1-hour/2-hour delta tests per HA protocol.
@@ -93,12 +93,12 @@
 
 ### Dual Antiplatelet Therapy (DAPT) & Anticoagulation
 * **P2Y12 Inhibitors**:
-* **Ticagrelor**: 180mg PO loading (preferred in STEMI/primary PCI).
-* **Clopidogrel**: 300-600mg PO loading (if high bleeding risk or thrombolysis).
+	* **Ticagrelor**: 180mg PO loading (preferred in STEMI/primary PCI).
+	* **Clopidogrel**: 300-600mg PO loading (if high bleeding risk or thrombolysis).
 * **Anticoagulants**:
-* **Enoxaparin (LMWH)**: 1mg/kg SC (NSTEMI/UA).
-* **Heparin (UFH)**: IV bolus + infusion (STEMI before PCI).
-* **Fondaparinux**: 2.5mg SC (if high bleeding risk/conservative approach).
+	* **Enoxaparin (LMWH)**: 1mg/kg SC (NSTEMI/UA).
+	* **Heparin (UFH)**: IV bolus + infusion (STEMI before PCI).
+	* **Fondaparinux**: 2.5mg SC (if high bleeding risk/conservative approach).
 
 ### STEMI Reperfusion Strategy
 * **Primary PCI (緊急冠狀動脈介入治療)**: Gold standard. Target Door-to-Balloon < 90 mins.
@@ -113,8 +113,8 @@
 
 ### Transcutaneous Pacing (for Unstable Bradycardia/AV Block)
 * **Mechanics**:
-* **Pad Placement**: Anteroposterior (preferred) or Anteroapical.
-* **Settings**: Set rate to 60-70 bpm. Start output at 10mA, increase by 10mA until electrical capture (wide QRS post-pacing spike), then ensure mechanical capture (femoral pulse match).
+	* **Pad Placement**: Anteroposterior (preferred) or Anteroapical.
+	* **Settings**: Set rate to 60-70 bpm. Start output at 10mA, increase by 10mA until electrical capture (wide QRS post-pacing spike), then ensure mechanical capture (femoral pulse match).
 * **Consent**: Emergency implied consent if unstable; inform family immediately. Consider IV sedation (Midazolam/Fentanyl) as pacing is painful.
 
 ## 8. Clinical Decision Rules & Risk Scoring
@@ -147,9 +147,9 @@
 * **Arrhythmias**: VF (most common cause of pre-hospital death), VT, AF, heart blocks.
 * **Cardiogenic Shock**: Large area of myocardial necrosis → pump failure.
 * **Mechanical Ruptures (typically days 3-5)**:
-* **Papillary Muscle Rupture**: Severe mitral regurgitation, pulmonary edema.
-* **Ventricular Septal Defect (VSD)**: Harsh holosystolic murmur, right heart failure.
-* **Free Wall Rupture**: → Cardiac tamponade → PEA arrest.
+	* **Papillary Muscle Rupture**: Severe mitral regurgitation, pulmonary edema.
+	* **Ventricular Septal Defect (VSD)**: Harsh holosystolic murmur, right heart failure.
+	* **Free Wall Rupture**: → Cardiac tamponade → PEA arrest.
 
 ## 10. Examiner's Pearls
 

@@ -23,9 +23,9 @@
 * **A/B/C:** Tachypnea (hyperventilation), marked pallor, diaphoresis.
 * **D (Neurological/Psychiatric):** Acute agitation, catatonia, extreme emotional withdrawal, psychogenic non-epileptic seizures (pseudoseizures).
 * **Secondary Survey (Perception & Body Language):**
- * **Posture:** Crossed arms/legs (defensive/closed).
- * **Eye Contact:** Intensely engaged vs completely avoidant.
- * **Affect:** Uncontrollable crying, shouting, or completely flat/numb affect.
+	 * **Posture:** Crossed arms/legs (defensive/closed).
+	 * **Eye Contact:** Intensely engaged vs completely avoidant.
+	 * **Affect:** Uncontrollable crying, shouting, or completely flat/numb affect.
 
 ## 4. Critical Differential Diagnoses (Rule-Out Life Threats)
 ### Differentials for Recipient's Acute Reaction

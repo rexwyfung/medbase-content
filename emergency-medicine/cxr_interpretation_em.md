@@ -115,10 +115,10 @@
 * **Indication**: Emergency decompression of Tension PTX
 * **Site**: 2nd Intercostal Space (ICS) Mid-Clavicular Line (MCL) OR 5th ICS Mid-Axillary Line (MAL)
 * **Mechanics**:
-* Clean site with Chlorhexidine
-* Insert 14G/16G long IV cannula perpendicular to skin, just **SUPERIOR** to rib margin (avoid neurovascular bundle)
-* Advance until sudden "give" and hiss of air
-* Remove needle, leave plastic cannula in situ, secure. Proceed immediately to formal tube thoracostomy
+	* Clean site with Chlorhexidine
+	* Insert 14G/16G long IV cannula perpendicular to skin, just **SUPERIOR** to rib margin (avoid neurovascular bundle)
+	* Advance until sudden "give" and hiss of air
+	* Remove needle, leave plastic cannula in situ, secure. Proceed immediately to formal tube thoracostomy
 
 ### Mechanics of Intercostal Tube Insertion (胸腔引流管置入術)
 * **Site**: "Triangle of Safety" (5th ICS, anterior to mid-axillary line, lateral to pec major)

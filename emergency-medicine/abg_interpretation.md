@@ -4,7 +4,11 @@
 
 ### Definition & Primary Indications
 * **Arterial Blood Gas (ABG) (動脈血氣分析)**: Diagnostic test measuring arterial oxygenation, ventilation (CO2 clearance), and acid-base status.
-* **Indications**: Undifferentiated shock (休克), acute respiratory failure (急性呼吸衰竭), severe metabolic derangements (e.g., DKA, sepsis), toxicology (e.g., CO poisoning).
+* **Indications**:
+	* Undifferentiated shock (休克).
+	* Acute respiratory failure (急性呼吸衰竭).
+	* Severe metabolic derangements (e.g., DKA, sepsis).
+	* Toxicology (e.g., CO poisoning).
 
 ### Hong Kong HA Triage & Epidemiology
 * **HK Triage Category (香港分流類別)**: Patients requiring ABG are almost universally **Cat 1 (Critical)** or **Cat 2 (Emergency)**.
@@ -131,6 +135,7 @@
 
 ### Delta Ratio (Δ/Δ) Assessment (For HAGMA only)
 * **Formula**: `(Calculated AG - Normal AG [12]) / (Normal HCO3 [24] - Measured HCO3)`
+
 | Delta Ratio | Interpretation |
 | :--- | :--- |
 | **< 0.4** | Pure NAGMA |

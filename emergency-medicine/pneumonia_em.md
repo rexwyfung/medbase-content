@@ -47,10 +47,10 @@
 * **Palpation:** ↑ tactile vocal fremitus over consolidation
 * **Percussion:** Dullness over affected lobes
 * **Auscultation:** 
-* Bronchial breath sounds
-* Focal coarse **crepitations (肺囉音)**
-* Pleural rub
-* ↓ breath sounds (if associated effusion)
+	* Bronchial breath sounds
+	* Focal coarse **crepitations (肺囉音)**
+	* Pleural rub
+	* ↓ breath sounds (if associated effusion)
 
 ### Classic Symptomatology
 * Productive cough (purulent/rust-colored sputum)
@@ -78,10 +78,10 @@
 * **VBG/ABG:** Assess pO2, pCO2 (hypercapnic failure), lactate (tissue hypoperfusion), pH (acidosis)
 * **Urinalysis:** Legionella/Pneumococcal urinary antigens
 * **POCUS (Lung Ultrasound):** 
-* Focal B-lines
-* Hepatization of lung tissue (tissue-like appearance)
-* Shred sign (irregular pleural line)
-* Dynamic air bronchograms
+	* Focal B-lines
+	* Hepatization of lung tissue (tissue-like appearance)
+	* Shred sign (irregular pleural line)
+	* Dynamic air bronchograms
 
 ### Laboratory Tests
 * **CBP:** Leukocytosis (left shift) or leukopenia (poor prognosis), ↓ Platelets (sepsis)
@@ -103,15 +103,15 @@
 
 ### Empiric Antibiotic Therapy (HK HA Guidelines)
 * **Mild CAP (Outpatient/Ward):**
-* Oral Amoxicillin/Clavulanate 1g BD + Oral Clarithromycin 500mg BD
-* Penicillin allergy: Oral Levofloxacin 500mg QD
+	* Oral Amoxicillin/Clavulanate 1g BD + Oral Clarithromycin 500mg BD
+	* Penicillin allergy: Oral Levofloxacin 500mg QD
 * **Severe CAP (ICU/Resus):**
-* IV Amoxicillin/Clavulanate 1.2g Q8H + IV Clarithromycin 500mg BD
-* Penicillin allergy: IV Levofloxacin 500mg QD
+	* IV Amoxicillin/Clavulanate 1.2g Q8H + IV Clarithromycin 500mg BD
+	* Penicillin allergy: IV Levofloxacin 500mg QD
 * **HAP / Suspected Pseudomonas:**
-* IV Piperacillin/Tazobactam (Tazocin) 4.5g Q8H OR IV Cefepime 2g Q8H
+	* IV Piperacillin/Tazobactam (Tazocin) 4.5g Q8H OR IV Cefepime 2g Q8H
 * **Suspected MRSA:**
-* Add IV Vancomycin (weight-based dosing) or IV Linezolid
+	* Add IV Vancomycin (weight-based dosing) or IV Linezolid
 
 ### Fluid Resuscitation & Sepsis Pathway
 * **Fluid Challenge:** IV 0.9% NaCl or Plasmalyte (250-500ml boluses), max 30ml/kg if hypotensive
@@ -131,20 +131,20 @@
 * **Pre-oxygenation:** Flush rate O2 via BVM with PEEP valve for 3 minutes
 * **Drugs:** Push induction agent (e.g., Ketamine 1-2mg/kg) immediately followed by paralytic (e.g., Rocuronium 1.2mg/kg)
 * **Mechanics:** 
-* Perform direct/video laryngoscopy
-* Identify vocal cords
-* Pass endotracheal tube (ETT) under direct vision
-* Inflate cuff, confirm with ETCO2 (waveform capnography)
+	* Perform direct/video laryngoscopy
+	* Identify vocal cords
+	* Pass endotracheal tube (ETT) under direct vision
+	* Inflate cuff, confirm with ETCO2 (waveform capnography)
 * **Consent:** Implied in life-threatening emergency
 
 ### Pleural Fluid Aspiration (Thoracentesis) Mechanics
 * **Position:** Sitting upright, leaning forward on a table
 * **Mechanics:**
-* POCUS to identify largest fluid pocket (usually posterior hemithorax)
-* Sterile prep and drape
-* Local anesthetic (Lidocaine 1%) infiltration down to parietal pleura
-* Insert needle exactly OVER the superior rib margin (avoid neurovascular bundle)
-* Aspirate 20-50ml for biochemical/microbiological testing
+	* POCUS to identify largest fluid pocket (usually posterior hemithorax)
+	* Sterile prep and drape
+	* Local anesthetic (Lidocaine 1%) infiltration down to parietal pleura
+	* Insert needle exactly OVER the superior rib margin (avoid neurovascular bundle)
+	* Aspirate 20-50ml for biochemical/microbiological testing
 * **Consent:** Explain risks of pneumothorax, bleeding, infection, liver/spleen puncture
 
 ## 8. Clinical Decision Rules & Risk Scoring
