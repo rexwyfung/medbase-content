@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orthopaedics/ingrowing_toe_nail.md",
+                "file": "orthopaedics/periprosthetic_infections.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ingrowing_toe_nail"
+              "title": "periprosthetic_infections"
             }
           }
         ]
@@ -195,9 +195,13 @@
   },
   "active": "2dc2694832efc3cd",
   "lastOpenFiles": [
-    "orthopaedics/foot_ulcers.md",
-    "orthopaedics/ingrowing_toe_nail.md",
+    "orthopaedics/spinal_infections.md",
+    "orthopaedics/soft_tissue_infections_surgical_emergencies.md",
+    "orthopaedics/septic_arthritis_osteomyelitis.md",
     "orthopaedics/achilles_tendon_rupture.md",
+    "orthopaedics/ingrowing_toe_nail.md",
+    "orthopaedics/common_paediatric_orthopaedic_conditions.md",
+    "orthopaedics/foot_ulcers.md",
     "orthopaedics/hallux_valgus.md",
     "orthopaedics/other_foot_ankle_conditions.md",
     "orthopaedics/paediatric_deformities.md",
@@ -205,8 +209,6 @@
     "orthopaedics/paediatric_musculoskeletal_injury.md",
     "orthopaedics/spinal_trauma_cord_injury.md",
     "orthopaedics/tendinopathies_ankle_instability.md",
-    "orthopaedics/soft_tissue_infections_surgical_emergencies.md",
-    "orthopaedics/bone_pain_fever_deep_infections.md",
     "orthopaedics/bone_pain_fever_children.md",
     "orthopaedics/the_limping_child.md",
     "orthopaedics/medico_legal_issues_ot.md",
@@ -215,12 +217,10 @@
     "orthopaedics/metastatic_bone_disease.md",
     "orthopaedics/primary_malignant_bone_tumours.md",
     "orthopaedics/benign_bone_soft_tissue_tumours.md",
-    "orthopaedics/common_paediatric_orthopaedic_conditions.md",
     "orthopaedics/common_hand_elective_conditions.md",
     "orthopaedics/peripheral_nerve_injuries.md",
     "orthopaedics/common_hand_injuries.md",
     "orthopaedics/cervical_spine_pathology.md",
-    "orthopaedics/knee_sports_injuries.md",
     "orthopaedics",
     "emergency-medicine",
     "surgery",
