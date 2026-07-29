@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orthopaedics/common_hand_elective_conditions.md",
+                "file": "orthopaedics/medico_legal_issues_ot.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "common_hand_elective_conditions"
+              "title": "medico_legal_issues_ot"
             }
           }
         ]
@@ -195,12 +195,22 @@
   },
   "active": "2dc2694832efc3cd",
   "lastOpenFiles": [
+    "orthopaedics/orthopaedic_rehabilitation.md",
+    "orthopaedics/common_shoulder_problems.md",
+    "orthopaedics/medico_legal_issues_ot.md",
+    "orthopaedics/metastatic_bone_disease.md",
+    "orthopaedics/primary_malignant_bone_tumours.md",
+    "orthopaedics/benign_bone_soft_tissue_tumours.md",
+    "orthopaedics/musculoskeletal_infection.md",
+    "orthopaedics/common_paediatric_orthopaedic_conditions.md",
+    "orthopaedics/bone_pain_fever_children.md",
+    "orthopaedics/paediatric_musculoskeletal_injury.md",
+    "orthopaedics/common_foot_ankle_conditions.md",
+    "orthopaedics/common_hand_elective_conditions.md",
     "orthopaedics/peripheral_nerve_injuries.md",
     "orthopaedics/common_hand_injuries.md",
-    "orthopaedics/common_hand_elective_conditions.md",
     "orthopaedics/cervical_spine_pathology.md",
     "orthopaedics/tendinopathies_ankle_instability.md",
-    "orthopaedics/common_shoulder_problems.md",
     "orthopaedics/knee_sports_injuries.md",
     "orthopaedics/periprosthetic_infections.md",
     "orthopaedics/avn_femoral_head.md",
@@ -211,17 +221,7 @@
     "orthopaedics/scoliosis.md",
     "orthopaedics/lumbar_spine_pathology.md",
     "orthopaedics/ankle_lower_limb_fractures.md",
-    "orthopaedics/high_energy_trauma_open_fractures.md",
-    "orthopaedics/distal_radius_upper_limb_fractures.md",
-    "orthopaedics/polytrauma_fracture_complications.md",
-    "orthopaedics/pelvic_acetabular_fractures.md",
-    "orthopaedics/hip_fractures.md",
-    "orthopaedics/osteoporotic_fractures.md",
     "orthopaedics",
-    "emergency-medicine/trauma_primary_survey.md",
-    "emergency-medicine/toxicology_overdose.md",
-    "emergency-medicine/tension_pneumothorax.md",
-    "emergency-medicine/status_epilepticus.md",
     "emergency-medicine",
     "surgery",
     "paediatrics/Untitled",
