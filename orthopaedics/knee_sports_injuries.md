@@ -143,7 +143,7 @@
 	* **Arcuate Sign:** Avulsion # of fibular head (insertion of arcuate complex/LCL/biceps femoris).
 * **Meniscal Signs:**
 	* Usually normal in acute. May show joint space narrowing in chronic/degenerative disease.
-![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/13e9f2e04bd18d4f4819a8277d753649.png)
+![image|542](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ba9c30c63335f8a825f60be98ab4fef1.png)
 
 ### MRI Findings for Knee Ligaments and Menisci
 * **Standard:** Gold standard for soft tissue evaluation (Sensitivity >90%).
