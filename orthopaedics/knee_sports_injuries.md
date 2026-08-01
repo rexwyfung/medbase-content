@@ -89,8 +89,8 @@
 	* **Varus Stress Test (LCL):** Tested at 0° and 30° flexion. +ve if laxity/pain.
 * **Move (PLC Test):**
 	* **Dial Test:** Patient prone, external rotation of feet at 30° and 90° knee flexion. 
-	* >10° asymmetry at 30° only = Isolated PLC injury. 
-	* >10° asymmetry at 30° & 90° = PLC + PCL injury.
+	* \>10° asymmetry at 30° only = Isolated PLC injury. 
+	* \>10° asymmetry at 30° & 90° = PLC + PCL injury.
 ![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3c1768aad44c5744186cb4b12899ba3c.png)
 
 ### Meniscal Physical Examination Findings
