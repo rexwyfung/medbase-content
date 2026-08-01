@@ -6,22 +6,22 @@
 * **Definition:** Rupture of ACL, primary restraint to anterior tibial translation.
 * **Epidemiology:** Most common knee ligament injury requiring surgery; ♀ > ♂ (due to wider pelvis, ↑ Q-angle, narrower intercondylar notch).
 * **MOI:** 
-* **Non-contact (70%):** Sudden deceleration, pivoting, jumping, or cutting maneuver.
-* **Contact (30%):** Direct valgus blow to knee.
+	* **Non-contact (70%):** Sudden deceleration, pivoting, jumping, or cutting maneuver.
+	* **Contact (30%):** Direct valgus blow to knee.
 
 ### Posterior Cruciate Ligament (PCL) Tears (後十字韌帶撕裂) Definition & MOI
 * **Definition:** Rupture of PCL, primary restraint to posterior tibial translation.
 * **Epidemiology:** Less common (5-20% of knee ligament injuries); often missed.
 * **MOI:** 
-* **Dashboard injury:** Posteriorly directed force to proximal tibia with knee flexed.
-* **Hyperflexion:** Fall onto flexed knee with plantarflexed foot.
-* **Hyperextension:** Direct blow to anterior tibia.
+	* **Dashboard injury:** Posteriorly directed force to proximal tibia with knee flexed.
+	* **Hyperflexion:** Fall onto flexed knee with plantarflexed foot.
+	* **Hyperextension:** Direct blow to anterior tibia.
 
 ### Collateral Ligament Tears (MCL/LCL) Definition & MOI
 * **Medial Collateral Ligament (MCL) (內側副韌帶):** Most common knee ligament injury overall.
-* **MCL MOI:** Direct valgus force (e.g., clipping in football) or severe external tibial rotation.
+	* **MCL MOI:** Direct valgus force (e.g., clipping in football) or severe external tibial rotation.
 * **Lateral Collateral Ligament (LCL) (外側副韌帶):** Rarely isolated, usually part of Posterolateral Corner (PLC) injury.
-* **LCL MOI:** Direct varus force to anteromedial knee.
+	* **LCL MOI:** Direct varus force to anteromedial knee.
 
 ### Meniscal Tears (半月板撕裂) Definition & MOI
 * **Definition:** Tearing of fibrocartilaginous shock absorbers; Medial Meniscus (MM) injured 3x more than Lateral Meniscus (LM).
@@ -43,29 +43,31 @@
 	* **Insertion:** Posterior tibial sulcus.
 	* **Bundles:** Anterolateral (AL) bundle (tight in flexion) & Posteromedial (PM) bundle (tight in extension).
 	* **Function:** Prevents posterior tibial translation (95% of restraint).
+![image|342](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/eee1c36bbacc703983a89bb4f10348b7.png)![image|352](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3792ace1bfa2098db518a8fa2726ea9e.png)
 
 ### Meniscal Anatomy & Vascular Zones
 * **Structure:** Wedge-shaped, Type I collagen fibrocartilage.
 * **Medial Meniscus (MM):** C-shaped, larger, less mobile (firmly attached to MCL & joint capsule) → ↑ susceptibility to tear.
 * **Lateral Meniscus (LM):** O-shaped, smaller, highly mobile (attaches to popliteus tendon, NOT LCL).
 * **Vascular Supply (Genicular arteries):**
-* **Red-Red Zone:** Peripheral 30% (highly vascular, excellent healing potential).
-* **Red-White Zone:** Middle 30% (transitional, variable healing).
-* **White-White Zone:** Central 40% (avascular, nourished by synovial fluid, no healing potential).
+	* **Red-Red Zone:** Peripheral 30% (highly vascular, excellent healing potential).
+	* **Red-White Zone:** Middle 30% (transitional, variable healing).
+	* **White-White Zone:** Central 40% (avascular, nourished by synovial fluid, no healing potential).
+![image|449](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/d63255b654cd9c599e3d6329bd6af603.png)
 
 ### Posterolateral Corner (PLC) Anatomy
 * **Components:** LCL, Popliteus tendon, Popliteofibular ligament.
 * **Function:** Primary restraint to external tibial rotation & varus stress.
 * **Relevance:** Often injured with PCL/ACL; failure to reconstruct PLC → high failure rate of ACL/PCL grafts.
-
+![image|494](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/af3fd2338cbbef7cf2f07ef42ce6ae39.png)
 
 ## 3. Clinical Assessment
 
 ### History & Symptoms of Knee Sports Injuries
 * **Pop Sensation:** Audible/felt "pop" at injury (highly sensitive for ACL).
 * **Swelling Timeline:**
-* **Immediate (<2 hours):** Hemarthrosis (關節積血) → ACL tear, osteochondral #, patellar dislocation.
-* **Delayed (12-24 hours):** Synovial effusion → Meniscal tear.
+	* **Immediate (<2 hours):** Hemarthrosis (關節積血) → ACL tear, osteochondral #, patellar dislocation.
+	* **Delayed (12-24 hours):** Synovial effusion → Meniscal tear.
 * **Mechanical Symptoms:** Locking (inability to fully extend), catching, clicking → Meniscal tear (usually bucket-handle).
 * **Instability:** "Giving way" with pivoting/stairs (ACL) or deceleration (PCL).
 
@@ -73,39 +75,43 @@
 * **Look:** Gross swelling (hemarthrosis), bruising.
 * **Feel:** Joint line tenderness (rule out concurrent meniscal injury).
 * **Move (ACL Tests):**
-* **Lachman Test:** Most sensitive (85%). Knee at 20-30° flexion → anterior tibial translation without firm endpoint.
-* **Anterior Drawer Test:** Knee flexed 90° → anterior translation. Less sensitive (hamstring guarding).
-* **Pivot Shift Test:** Most specific. High-grade pathognomonic sign. Valgus + internal rotation during flexion → subluxed tibia clunks back into place at 20-30°.
+	* **Lachman Test:** Most sensitive (85%). Knee at 20-30° flexion → anterior tibial translation without firm endpoint.
+	* **Anterior Drawer Test:** Knee flexed 90° → anterior translation. Less sensitive (hamstring guarding).
+	* **Pivot Shift Test:** Most specific. High-grade pathognomonic sign. Valgus + internal rotation during flexion → subluxed tibia clunks back into place at 20-30°.
 * **Move (PCL Tests):**
-* **Posterior Sag Sign:** Hips/knees flexed 90°, look from side → tibia drops backward (loss of tibial tubercle prominence).
-* **Posterior Drawer Test:** Knee flexed 90° → posterior translation without firm endpoint.
+	* **Posterior Sag Sign:** Hips/knees flexed 90°, look from side → tibia drops backward (loss of tibial tubercle prominence).
+	* **Posterior Drawer Test:** Knee flexed 90° → posterior translation without firm endpoint.
+![image|537](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/6607ac57a91e2cc57d029f6730fc13d8.png)
 
 ### MCL, LCL & PLC Physical Examination Findings
 * **Move (Collateral Tests):**
-* **Valgus Stress Test (MCL):** Tested at 0° (tests MCL + cruciates) and 30° flexion (isolates superficial MCL). +ve if laxity/pain.
-* **Varus Stress Test (LCL):** Tested at 0° and 30° flexion. +ve if laxity/pain.
+	* **Valgus Stress Test (MCL):** Tested at 0° (tests MCL + cruciates) and 30° flexion (isolates superficial MCL). +ve if laxity/pain.
+	* **Varus Stress Test (LCL):** Tested at 0° and 30° flexion. +ve if laxity/pain.
 * **Move (PLC Test):**
-* **Dial Test:** Patient prone, external rotation of feet at 30° and 90° knee flexion. 
-* >10° asymmetry at 30° only = Isolated PLC injury. 
-* >10° asymmetry at 30° & 90° = PLC + PCL injury.
+	* **Dial Test:** Patient prone, external rotation of feet at 30° and 90° knee flexion. 
+	* >10° asymmetry at 30° only = Isolated PLC injury. 
+	* >10° asymmetry at 30° & 90° = PLC + PCL injury.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3c1768aad44c5744186cb4b12899ba3c.png)
 
 ### Meniscal Physical Examination Findings
 * **Feel:** Joint line tenderness (JLT) (highly sensitive).
 * **Move (Meniscal Tests):**
-* **McMurray Test:** Flexion + rotation + varus/valgus stress while extending knee → palpable/audible clunk.
-* **Apley Grind Test:** Patient prone, knee flexed 90°, axial compression + rotation → pain.
-* **Thessaly Test:** Standing on one leg, 20° knee flexion, twist body → pain/catching.
+	* **McMurray Test:** Flexion + rotation + varus/valgus stress while extending knee → palpable/audible clunk.
+	* **Apley Grind Test:** Patient prone, knee flexed 90°, axial compression + rotation → pain.
+	* **Thessaly Test:** Standing on one leg, 20° knee flexion, twist body → pain/catching.
+![image|289](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/e32f2764d016cdf013b3e4af54f13c71.png)
 
 ### Neurovascular (NV) Assessment in Knee Injuries
 * **Vascular:** Popliteal artery status (Dorsalis Pedis, Posterior Tibial pulses). Capillary refill. 
 * **Neurological:** Common Peroneal Nerve (CPN) is at risk in LCL/PLC/Varus injuries. Check ankle dorsiflexion (Tibialis Anterior), EHL, and sensation at 1st dorsal web space.
-
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/934dfacf8b22ec561e0b6e96b01721df.png)
 
 ## 4. Orthopaedic Classification Systems (Eponyms & Grading)
 
 ### O'Donoghue's Unhappy Triad
 * **Classic Definition:** ACL tear + MCL tear + Medial Meniscus tear.
 * **Modern MRI Update:** Lateral Meniscus tears are actually more common in acute ACL injuries; Medial Meniscus tears are more common in chronic ACL-deficient knees.
+![image|361](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/bbb6bcbe33801dff302ab3588fa5b64f.png)
 
 ### Sprain Grading System (MCL/LCL)
 | Grade | Pathology | Clinical Laxity (at 30° flexion) | Endpoint |
@@ -124,31 +130,33 @@
 | **Flap (Parrot Beak)** | Oblique tear reaching free edge | Catching symptoms. |
 | **Root Tear** | Avulsion of anterior/posterior horn | Destroys hoop stresses (biomechanically = total meniscectomy). |
 
+![image|541](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/28fca24514656350b8c5ea782d752bf4.png)
 
 ## 5. Radiological Investigations
 
 ### X-ray Findings in Knee Sports Injuries
 * **Views:** AP, Lateral, Skyline (patella), Rosenberg (45° PA flexion weight-bearing for OA).
 * **ACL Specific Signs:**
-* **Segond Fracture:** Pathognomonic for ACL tear. Avulsion # of anterolateral tibial plateau (capsular avulsion).
-* **Deep Lateral Sulcus Sign:** >1.5mm notch on lateral femoral condyle (impaction #).
+	* **Segond Fracture:** Pathognomonic for ACL tear. Avulsion # of anterolateral tibial plateau (capsular avulsion).
+	* **Deep Lateral Sulcus Sign:** >1.5mm notch on lateral femoral condyle (impaction #).
 * **PCL/PLC Specific Signs:**
-* **Arcuate Sign:** Avulsion # of fibular head (insertion of arcuate complex/LCL/biceps femoris).
+	* **Arcuate Sign:** Avulsion # of fibular head (insertion of arcuate complex/LCL/biceps femoris).
 * **Meniscal Signs:**
-* Usually normal in acute. May show joint space narrowing in chronic/degenerative disease.
+	* Usually normal in acute. May show joint space narrowing in chronic/degenerative disease.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/13e9f2e04bd18d4f4819a8277d753649.png)
 
 ### MRI Findings for Knee Ligaments and Menisci
 * **Standard:** Gold standard for soft tissue evaluation (Sensitivity >90%).
 * **ACL:** 
-* Loss of continuous taut low-signal (black) band.
-* **Bone bruise pattern:** Pathognomonic "kissing contusions" on Lateral Femoral Condyle and Posterolateral Tibial Plateau.
+	* Loss of continuous taut low-signal (black) band.
+	* **Bone bruise pattern:** Pathognomonic "kissing contusions" on Lateral Femoral Condyle and Posterolateral Tibial Plateau.
 * **PCL:** 
-* Disruption of thick black band. 
-* Bone bruising on anterior tibia.
+	* Disruption of thick black band. 
+	* Bone bruising on anterior tibia.
 * **Meniscus:** 
-* High signal intensity (white fluid) linearly communicating with the articular surface.
-* **Double PCL Sign:** Bucket-handle tear flipped into intercondylar notch, sitting parallel to intact PCL (on sagittal view).
-
+	* High signal intensity (white fluid) linearly communicating with the articular surface.
+	* **Double PCL Sign:** Bucket-handle tear flipped into intercondylar notch, sitting parallel to intact PCL (on sagittal view).
+![image|475](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/611683556d39eadcad3082d1ac07509f.png)
 
 ## 6. Initial ED Management (Reduction, Splinting/Casting, Traction)
 
@@ -168,19 +176,20 @@
 ## 7. Definitive Management Algorithm (Non-Operative vs. Operative)
 
 ### ACL Definitive Management Algorithm
-| Modality | Indications | Surgical Technique / Key Principles |
-| :--- | :--- | :--- |
-| **Non-Operative** | Low-demand patients, elderly, partial tears, isolated tears with stable knee in ADLs. | Physiotherapy focused on hamstring strengthening & proprioception. Lifestyle modification. |
+| Modality             | Indications                                                                                                                  | Surgical Technique / Key Principles                                                                                                                               |
+| :------------------- | :--------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Non-Operative**    | Low-demand patients, elderly, partial tears, isolated tears with stable knee in ADLs.                                        | Physiotherapy focused on hamstring strengthening & proprioception. Lifestyle modification.                                                                        |
 | **Operative (ACLR)** | Young, active patients, high-demand sports (jumping/pivoting), persistent instability, concomitant repairable meniscal tear. | Arthroscopic ACL Reconstruction (ACLR). NEVER repair primarily (poor healing). Delay surgery 3-4 weeks until ROM regained & swelling ↓ to prevent arthrofibrosis. |
 
 ### Surgical Principles: ACL Reconstruction (ACLR) Graft Choices
 * **Bone-Patellar Tendon-Bone (BPTB) Autograft:** 
-* **Pros:** Bone-to-bone healing (fastest integration, 6-8 weeks). Gold standard for pro-athletes.
-* **Cons:** Anterior knee pain (donor site morbidity), patellar # risk.
+	* **Pros:** Bone-to-bone healing (fastest integration, 6-8 weeks). Gold standard for pro-athletes.
+	* **Cons:** Anterior knee pain (donor site morbidity), patellar # risk.
 * **Hamstring (Gracilis/Semitendinosus) Autograft:** 
-* **Pros:** Less anterior knee pain, smaller incision. Preferred in HA for general population.
-* **Cons:** Soft tissue-to-bone healing (slower, 8-12 weeks), hamstring weakness.
+	* **Pros:** Less anterior knee pain, smaller incision. Preferred in HA for general population.
+	* **Cons:** Soft tissue-to-bone healing (slower, 8-12 weeks), hamstring weakness.
 * **Allograft (Cadaver):** Used for revision ACLR or multi-ligament injuries (risk of disease transmission, higher failure in young patients).
+![image|363](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a9fea903fb449ca11f632d4823b9266c.png)
 
 ### Meniscal Tear Definitive Management Algorithm
 | Modality | Indications | Surgical Technique / Key Principles |
@@ -224,18 +233,19 @@
 * **Cyclops Lesion:** Fibrovascular nodule forms anterior to the ACL graft in the intercondylar notch → physical block to terminal knee extension. Requires arthroscopic excision.
 * **Graft Failure (5-10%):** Most common cause = technical error (non-anatomical tunnel placement, e.g., femoral tunnel too anterior). Secondary cause = missed PLC injury.
 * **Post-Traumatic Osteoarthritis:** ACLR does *not* prevent OA long-term, it only restores stability.
+![image|311](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/c8674ad3ce1ad1227aca1f02b9ad10f1.png)
 
 ### Meniscectomy & Meniscal Repair Complications
 * **Meniscectomy Complication:** Early onset Osteoarthritis (OA). Complete meniscectomy ↑ joint contact stress by 200-300%.
 * **Repair Complications:** 
-* **Medial repair:** Risk to Saphenous nerve.
-* **Lateral repair:** Risk to Common Peroneal Nerve (CPN).
-* Failure to heal (requiring subsequent meniscectomy).
+	* **Medial repair:** Risk to Saphenous nerve.
+	* **Lateral repair:** Risk to Common Peroneal Nerve (CPN).
+	* Failure to heal (requiring subsequent meniscectomy).
 
 
 ## 10. Examiner's Pearls
 
-* Viva Question: What is the Segond fracture and what does it imply? Answer: It is a cortical avulsion fracture of the anterolateral proximal tibia. It is pathognomonic for an ACL tear and often involves the Anterolateral Ligament (ALL).
+* Viva Question: What is the Segond fracture and what does it imply? Answer: It is a cortical avulsion fracture of the anterolateral proximal tibia. It is pathognomonic for an ACL tear and often involves the Anterolateral Ligament (ALL). ![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/044f1a29997c5a383ba671f0d9c6ff9a.png)
 * Viva Question: Why do we wait 3-4 weeks before performing an ACL reconstruction after an acute tear? Answer: To allow the acute hemarthrosis and inflammation to subside, and to allow the patient to regain full pre-operative range of motion. Operating acutely greatly increases the risk of post-operative arthrofibrosis.
 * Viva Question: During an arthroscopy, you identify a bucket-handle tear. It is in the white-white zone. Do you repair it or excise it? Answer: Excise it (partial meniscectomy). The white-white zone is avascular and has zero healing potential, even if sutured perfectly.
 * Trap: Prescribing isolated open kinetic chain quadriceps extensions (e.g., seated leg extension machine) immediately post-ACLR. Pearl: Open kinetic chain extensions place maximum anterior shear stress on the healing ACL graft. Strict focus must be on closed kinetic chain exercises (e.g., squats) where hamstring co-contraction protects the graft.
