@@ -16,6 +16,7 @@
 	* **Dashboard injury:** Posteriorly directed force to proximal tibia with knee flexed.
 	* **Hyperflexion:** Fall onto flexed knee with plantarflexed foot.
 	* **Hyperextension:** Direct blow to anterior tibia.
+![image|541](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/564f4c9968c7db62f0d95c7af88160c8.png)
 
 ### Collateral Ligament Tears (MCL/LCL) Definition & MOI
 * **Medial Collateral Ligament (MCL) (內側副韌帶):** Most common knee ligament injury overall.
@@ -197,11 +198,12 @@
 | **Non-Operative** | Degenerative tears (mild OA), small (<1cm) stable tears, asymptomatic. | NSAIDs, physiotherapy, intra-articular steroid/HA injections. |
 | **Operative (Repair)** | Red-red/red-white zone tears, longitudinal/bucket-handle tears, young patients, occurring with ACL tear. | Inside-out, outside-in, or all-inside arthroscopic suturing. Aim to preserve meniscus to prevent OA. |
 | **Operative (Meniscectomy)** | White-white zone tears, complex radial/flap tears, failed repairs. | Arthroscopic Partial Meniscectomy. Remove only the unstable, torn fragments (preserve as much as possible). |
-
-### PCL & Collateral Ligaments Management Algorithms
-* **Isolated MCL (Grade I-III):** Almost always Non-Operative (Hinged knee brace for 4-6 weeks, early ROM). Exceptional healing capacity.
+### PCL Management Algorithm
 * **Isolated PCL (Grade I-II):** Non-Operative (Quadriceps rehab). PCL heals well conservatively.
 * **PCL Operative (PCL Reconstruction):** Grade III (avulsion #, >10mm step-off) or symptomatic chronic instability.
+
+### Collateral Ligaments Management Algorithm
+* **Isolated MCL (Grade I-III):** Almost always Non-Operative (Hinged knee brace for 4-6 weeks, early ROM). Exceptional healing capacity.
 * **LCL / PLC Injuries:** Highly Operative. Grade III LCL/PLC rarely heals non-operatively. Requires early (within 2-3 weeks) primary repair or reconstruction to prevent chronic varus thrust.
 
 
