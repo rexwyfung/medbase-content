@@ -243,7 +243,7 @@
 	* **Medial repair:** Risk to Saphenous nerve.
 	* **Lateral repair:** Risk to Common Peroneal Nerve (CPN).
 	* Failure to heal (requiring subsequent meniscectomy).
-
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/9e00b3df72e0f47f160a507ced776d32.png)
 
 ## 10. Examiner's Pearls
 
