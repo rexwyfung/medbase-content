@@ -8,6 +8,7 @@
 * **MOI:** 
 	* **Non-contact (70%):** Sudden deceleration, pivoting, jumping, or cutting maneuver.
 	* **Contact (30%):** Direct valgus blow to knee.
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/21769273f0512446dafad6acb9fb7a28.png)
 
 ### Posterior Cruciate Ligament (PCL) Tears (後十字韌帶撕裂) Definition & MOI
 * **Definition:** Rupture of PCL, primary restraint to posterior tibial translation.
