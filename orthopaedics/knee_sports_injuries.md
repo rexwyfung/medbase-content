@@ -57,9 +57,14 @@
 ![image|449](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/d63255b654cd9c599e3d6329bd6af603.png)
 
 ### Posterolateral Corner (PLC) Anatomy
-* **Components:** LCL, Popliteus tendon, Popliteofibular ligament.
+* **Components:**
+	* LCL.
+	* Popliteus tendon.
+	* Popliteofibular ligament.
 * **Function:** Primary restraint to external tibial rotation & varus stress.
-* **Relevance:** Often injured with PCL/ACL; failure to reconstruct PLC → high failure rate of ACL/PCL grafts.
+* **Relevance:**
+	* Often injured with PCL/ACL.
+	* Failure to reconstruct PLC → high failure rate of ACL/PCL grafts.
 ![image|494](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/af3fd2338cbbef7cf2f07ef42ce6ae39.png)
 
 ## 3. Clinical Assessment
@@ -71,6 +76,7 @@
 	* **Delayed (12-24 hours):** Synovial effusion → Meniscal tear.
 * **Mechanical Symptoms:** Locking (inability to fully extend), catching, clicking → Meniscal tear (usually bucket-handle).
 * **Instability:** "Giving way" with pivoting/stairs (ACL) or deceleration (PCL).
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ff283acaf93e9b2d238592f08878b7f8.png)
 
 ### ACL & PCL Physical Examination Findings
 * **Look:** Gross swelling (hemarthrosis), bruising.
