@@ -4,9 +4,9 @@
 
 ### Scoliosis Clinical Definition
 * **3D spinal deformity** characterised by:
-* **Coronal plane:** Curve **>10°** (via Cobb angle).
-* **Axial plane:** Vertebral rotation.
-* **Sagittal plane:** Hypokyphosis/lordosis (loss of normal thoracic kyphosis).
+	* **Coronal plane:** Curve **>10°** (via Cobb angle).
+	* **Axial plane:** Vertebral rotation.
+	* **Sagittal plane:** Hypokyphosis/lordosis (loss of normal thoracic kyphosis).
 
 ### Etiological Classification of Scoliosis
 * **Idiopathic (80%):** Diagnosis of exclusion. 
@@ -18,8 +18,8 @@
 * **Prevalence:** 2-3% of adolescents in HK.
 * **Age of onset:** 10-18 years.
 * **Sex distribution:** 
-* Small curves (10°): **F:M = 1:1**.
-* Severe curves requiring treatment (>30°): **F>>M (10:1)**.
+	* Small curves (10°): **F:M = 1:1**.
+	* Severe curves requiring treatment (>30°): **F>>M (10:1)**.
 
 ## 2. Applied Orthopaedic Anatomy & Biomechanics
 
@@ -30,9 +30,9 @@
 
 ### Scoliosis Pathobiomechanics (Hueter-Volkmann Principle)
 * Altered mechanical loading dictates bone growth:
-* **Concave side:** ↑ Compression → **↓ epiphyseal growth**.
-* **Convex side:** ↑ Tension → **↑ epiphyseal growth**.
-* **Result:** Structural wedging of vertebral bodies and discs.
+	* **Concave side:** ↑ Compression → **↓ epiphyseal growth**.
+	* **Convex side:** ↑ Tension → **↑ epiphyseal growth**.
+	* **Result:** Structural wedging of vertebral bodies and discs.
 * **Axial Rotation Biomechanics:** Ribs pushed posteriorly on convex side → **rib hump (肋骨突出)**; ribs pushed anteriorly on concave side → ↓ thoracic volume.
 
 ## 3. Clinical Assessment
@@ -40,11 +40,11 @@
 ### Scoliosis Look (Inspection)
 * **General:** Café-au-lait spots/axillary freckling (NF1), sacral dimple/hairy patch (Spina bifida/spinal dysraphism), pes cavus, stigmata of Marfan.
 * **Standing from Behind:**
-* Asymmetric shoulder height.
-* Asymmetric scapular prominence (convex side).
-* Waist crease asymmetry / flank asymmetry.
-* Pelvic tilt / apparent leg length discrepancy.
-* Coronal decompensation (plumb line from C7 spinous process does not bisect gluteal cleft).
+	* Asymmetric shoulder height.
+	* Asymmetric scapular prominence (convex side).
+	* Waist crease asymmetry / flank asymmetry.
+	* Pelvic tilt / apparent leg length discrepancy.
+	* Coronal decompensation (plumb line from C7 spinous process does not bisect gluteal cleft).
 
 ### Scoliosis Feel (Palpation)
 * **Spinous processes:** Trace for coronal deviation.
@@ -52,10 +52,10 @@
 
 ### Scoliosis Move (Dynamic Assessment)
 * **Adam's Forward Bend Test (亞當式前彎測試):** Pathognomonic screening tool.
-* Knees straight, feet together, bend forward 90° at waist.
-* Identifies **rotational deformity** (structural vs. postural).
+	* Knees straight, feet together, bend forward 90° at waist.
+	* Identifies **rotational deformity** (structural vs. postural).
 * **Scoliometer measurement:** Angle of Trunk Rotation (ATR). **ATR >7°** warrants radiological workup.
-* Assess overall spinal ROM & hamstring tightness.
+	* Assess overall spinal ROM & hamstring tightness.
 
 ### Scoliosis Neurovascular (NV) Status
 * **Motor & Sensory:** Screen upper/lower limbs.
@@ -85,6 +85,8 @@
 | **4** | 100% ossification (unfused) | Nearing cessation of growth |
 | **5** | Fused to ilium | Skeletally mature |
 
+![image|513](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/5ef309bc777545386c31112f6a9022b7.png)
+
 ### Triradiate Cartilage Status
 * **Open:** Peak Height Velocity (PHV) not yet reached.
 * **Closed:** Corresponds to Risser 1.
@@ -93,7 +95,7 @@
 
 ### Initial Scoliosis Radiographs
 * **Standing Whole Spine PA & Lateral (站立位全脊柱X光):**
-* **PA view:** Preferred over AP in HKHA to **↓ breast/thyroid radiation** in young females.
+	* **PA view:** Preferred over AP in HKHA to **↓ breast/thyroid radiation** in young females.
 * **EOS Imaging System:** Ultra-low dose biplanar X-ray (standard in modern HKHA centres).
 * **Side-bending films:** Assess curve flexibility (determines structural vs. non-structural curves in Lenke classification).
 
@@ -103,14 +105,15 @@
 * **Step 3:** Draw line along superior endplate of upper vertebra.
 * **Step 4:** Draw line along inferior endplate of lower vertebra.
 * **Step 5:** Angle between perpendiculars drawn to these lines = **Cobb Angle**.
+![image|212](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/63b6bd9881922f1852303d1ee409dbd7.png)
 
 ### MRI Whole Spine Indications (Red Flags)
 * Mandatory if suspecting non-idiopathic etiology:
-* Atypical curve pattern (e.g., **Left-sided thoracic curve**).
-* Early onset (**<10 years old**).
-* Rapid progression (>1° per month / >5° between visits).
-* Painful scoliosis.
-* Abnormal neurology (e.g., asymmetric abdominal reflexes, pes cavus).
+	* Atypical curve pattern (e.g., **Left-sided thoracic curve**).
+	* Early onset (**<10 years old**).
+	* Rapid progression (>1° per month / >5° between visits).
+	* Painful scoliosis.
+	* Abnormal neurology (e.g., asymmetric abdominal reflexes, pes cavus).
 
 ## 6. Initial ED Management (Triage & Urgent Interventions)
 
@@ -144,11 +147,11 @@
 * **Indications:** Cobb >45°-50°, severe truncal shift, unresponsive to bracing.
 * **Goal:** Prevent further progression, achieve safe 3D correction, balance spine.
 * **Technique:**
-* Posterior midline approach.
-* Facetectomies (release & prepare for fusion).
+	* Posterior midline approach.
+	* Facetectomies (release & prepare for fusion).
 * **Pedicle screw** insertion (Freehand vs. Navigation/Robotic-assisted).
 * **Rod derotation:** Translates coronal deformity into normal sagittal kyphosis/lordosis.
-* Decortication and bone grafting (autograft/allograft) for solid arthrodesis.
+	* Decortication and bone grafting (autograft/allograft) for solid arthrodesis.
 
 ## 8. Rehabilitation Protocol
 
@@ -162,9 +165,9 @@
 * **Day 1-2:** Sit out of bed, transition to oral analgesia. Check erect XR.
 * **Day 2-3:** Mobilise with physiotherapist (walking aids if needed).
 * **Precautions (First 3-6 months):**
-* **NO** BLT (Bending, Lifting >5lbs, Twisting).
-* Log-rolling strictly in bed.
-* Return to non-contact sports at 6 months; contact sports at 12 months (surgeon dependent).
+	* **NO** BLT (Bending, Lifting >5lbs, Twisting).
+	* Log-rolling strictly in bed.
+	* Return to non-contact sports at 6 months; contact sports at 12 months (surgeon dependent).
 
 ## 9. Orthopaedic Complications
 
