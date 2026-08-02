@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orthopaedics/scoliosis.md",
+                "file": "orthopaedics/common_shoulder_problems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "scoliosis"
+              "title": "common_shoulder_problems"
             }
           }
         ]
@@ -195,6 +195,7 @@
   },
   "active": "5ac0e39484da6ea7",
   "lastOpenFiles": [
+    "orthopaedics/scoliosis.md",
     "orthopaedics/common_shoulder_problems.md",
     "orthopaedics/knee_sports_injuries.md",
     "orthopaedics/knee_arthritis.md",
@@ -220,7 +221,6 @@
     "orthopaedics/orthopaedic_rehabilitation.md",
     "orthopaedics/metastatic_bone_disease.md",
     "orthopaedics/primary_malignant_bone_tumours.md",
-    "orthopaedics/benign_bone_soft_tissue_tumours.md",
     "orthopaedics",
     "emergency-medicine",
     "surgery",
