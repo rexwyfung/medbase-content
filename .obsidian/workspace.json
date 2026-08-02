@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orthopaedics/knee_arthritis.md",
+                "file": "orthopaedics/knee_sports_injuries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "knee_arthritis"
+              "title": "knee_sports_injuries"
             }
           }
         ]
@@ -195,10 +195,10 @@
   },
   "active": "5ac0e39484da6ea7",
   "lastOpenFiles": [
+    "orthopaedics/knee_arthritis.md",
     "orthopaedics/hip_arthritis.md",
     "orthopaedics/common_shoulder_problems.md",
     "orthopaedics/knee_sports_injuries.md",
-    "orthopaedics/knee_arthritis.md",
     "orthopaedics/periprosthetic_infections.md",
     "orthopaedics/spinal_infections.md",
     "orthopaedics/soft_tissue_infections_surgical_emergencies.md",
