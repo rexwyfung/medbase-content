@@ -208,6 +208,7 @@
 | **First-time dislocator > 30 yrs without bone loss**   | **Non-Operative**           | Sling immobilization → Physiotherapy (cuff and periscapular strengthening).                                  |
 | **Young athlete (<20 yrs) OR Recurrent Dislocators**   | **Operative (Soft Tissue)** | **Arthroscopic Bankart Repair** (anchor labrum back to glenoid rim). +/- Remplissage if engaging Hill-Sachs. |
 | **Glenoid bone loss > 20-25% (Inverted Pear Glenoid)** | **Operative (Bony)**        | **Latarjet Procedure** (coracoid transfer to anterior glenoid with conjoint tendon acting as dynamic sling). |
+
 ![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/937e999a9d8c303ff556e2b33f7a2064.png)
 
 ### Adhesive Capsulitis Management Options
