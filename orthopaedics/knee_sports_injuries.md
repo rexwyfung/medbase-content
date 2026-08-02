@@ -8,7 +8,7 @@
 * **MOI:** 
 	* **Non-contact (70%):** Sudden deceleration, pivoting, jumping, or cutting maneuver.
 	* **Contact (30%):** Direct valgus blow to knee.
-![image|688](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/21769273f0512446dafad6acb9fb7a28.png)
+![image|540](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/21769273f0512446dafad6acb9fb7a28.png)
 
 ### Posterior Cruciate Ligament (PCL) Tears (後十字韌帶撕裂) Definition & MOI
 * **Definition:** Rupture of PCL, primary restraint to posterior tibial translation.
@@ -77,7 +77,7 @@
 	* **Delayed (12-24 hours):** Synovial effusion → Meniscal tear.
 * **Mechanical Symptoms:** Locking (inability to fully extend), catching, clicking → Meniscal tear (usually bucket-handle).
 * **Instability:** "Giving way" with pivoting/stairs (ACL) or deceleration (PCL).
-![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ff283acaf93e9b2d238592f08878b7f8.png)
+![image|682](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ff283acaf93e9b2d238592f08878b7f8.png)
 
 ### ACL & PCL Physical Examination Findings
 * **Look:** Gross swelling (hemarthrosis), bruising.
@@ -99,7 +99,7 @@
 	* **Dial Test:** Patient prone, external rotation of feet at 30° and 90° knee flexion. 
 	* \>10° asymmetry at 30° only = Isolated PLC injury. 
 	* \>10° asymmetry at 30° & 90° = PLC + PCL injury.
-![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3c1768aad44c5744186cb4b12899ba3c.png)
+![image|562](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3c1768aad44c5744186cb4b12899ba3c.png)
 
 ### Meniscal Physical Examination Findings
 * **Feel:** Joint line tenderness (JLT) (highly sensitive).
@@ -107,12 +107,12 @@
 	* **McMurray Test:** Flexion + rotation + varus/valgus stress while extending knee → palpable/audible clunk.
 	* **Apley Grind Test:** Patient prone, knee flexed 90°, axial compression + rotation → pain.
 	* **Thessaly Test:** Standing on one leg, 20° knee flexion, twist body → pain/catching.
-![image|289](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/e32f2764d016cdf013b3e4af54f13c71.png)
+![image|327](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/e32f2764d016cdf013b3e4af54f13c71.png)
 
 ### Neurovascular (NV) Assessment in Knee Injuries
 * **Vascular:** Popliteal artery status (Dorsalis Pedis, Posterior Tibial pulses). Capillary refill. 
 * **Neurological:** Common Peroneal Nerve (CPN) is at risk in LCL/PLC/Varus injuries. Check ankle dorsiflexion (Tibialis Anterior), EHL, and sensation at 1st dorsal web space.
-![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/934dfacf8b22ec561e0b6e96b01721df.png)
+![image|566](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/934dfacf8b22ec561e0b6e96b01721df.png)
 
 ## 4. Orthopaedic Classification Systems (Eponyms & Grading)
 
