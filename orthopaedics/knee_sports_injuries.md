@@ -8,7 +8,7 @@
 * **MOI:** 
 	* **Non-contact (70%):** Sudden deceleration, pivoting, jumping, or cutting maneuver.
 	* **Contact (30%):** Direct valgus blow to knee.
-![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/21769273f0512446dafad6acb9fb7a28.png)
+![image|688](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/21769273f0512446dafad6acb9fb7a28.png)
 
 ### Posterior Cruciate Ligament (PCL) Tears (後十字韌帶撕裂) Definition & MOI
 * **Definition:** Rupture of PCL, primary restraint to posterior tibial translation.
@@ -250,13 +250,13 @@
 	* **Medial repair:** Risk to Saphenous nerve.
 	* **Lateral repair:** Risk to Common Peroneal Nerve (CPN).
 	* Failure to heal (requiring subsequent meniscectomy).
-![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/9e00b3df72e0f47f160a507ced776d32.png)
+![image|383](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/9e00b3df72e0f47f160a507ced776d32.png)
 
 ## 10. Examiner's Pearls
 
-* Viva Question: What is the Segond fracture and what does it imply? Answer: It is a cortical avulsion fracture of the anterolateral proximal tibia. It is pathognomonic for an ACL tear and often involves the Anterolateral Ligament (ALL). ![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/044f1a29997c5a383ba671f0d9c6ff9a.png)
+* Viva Question: What is the Segond fracture and what does it imply? Answer: It is a cortical avulsion fracture of the anterolateral proximal tibia. It is pathognomonic for an ACL tear and often involves the Anterolateral Ligament (ALL). ![image|452](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/044f1a29997c5a383ba671f0d9c6ff9a.png)
 * Viva Question: Why do we wait 3-4 weeks before performing an ACL reconstruction after an acute tear? Answer: To allow the acute hemarthrosis and inflammation to subside, and to allow the patient to regain full pre-operative range of motion. Operating acutely greatly increases the risk of post-operative arthrofibrosis.
 * Viva Question: During an arthroscopy, you identify a bucket-handle tear. It is in the white-white zone. Do you repair it or excise it? Answer: Excise it (partial meniscectomy). The white-white zone is avascular and has zero healing potential, even if sutured perfectly.
-* Trap: Prescribing isolated open kinetic chain quadriceps extensions (e.g., seated leg extension machine) immediately post-ACLR. Pearl: Open kinetic chain extensions place maximum anterior shear stress on the healing ACL graft. Strict focus must be on closed kinetic chain exercises (e.g., squats) where hamstring co-contraction protects the graft. ![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/32a081ef773b2bfffcf51e9c09800a66.png)
+* Trap: Prescribing isolated open kinetic chain quadriceps extensions (e.g., seated leg extension machine) immediately post-ACLR. Pearl: Open kinetic chain extensions place maximum anterior shear stress on the healing ACL graft. Strict focus must be on closed kinetic chain exercises (e.g., squats) where hamstring co-contraction protects the graft. ![image|298](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/32a081ef773b2bfffcf51e9c09800a66.png)
 * Trap: A patient with a swollen knee after trauma is unable to fully extend the knee. You assume it is a bucket-handle meniscal tear locking the joint. Pearl: Rule out a pseudo-locked knee first. Severe pain and effusion/hemarthrosis can cause hamstring spasm, preventing extension. Aspirate the knee or inject local anesthetic; if extension returns, it was pseudo-locked.
 * Pitfall: Missing a concurrent Posterolateral Corner (PLC) injury when diagnosing an ACL or PCL tear. Failure to address the PLC varus/rotational instability will cause the new ACL/PCL graft to stretch out and fail rapidly. Always check the Dial Test.
