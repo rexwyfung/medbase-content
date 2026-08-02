@@ -107,7 +107,7 @@
 * **Anterior Apprehension Test**: Supine, arm abducted 90°, ER → patient expresses fear/resistance (feels like dislocating).
 * **Relocation (Jobe's) Test**: Posterior force on humeral head during apprehension test → relief of apprehension/pain.
 * **Sulcus Sign**: Inferior traction on arm → visible dimple below acromion (+ve for multidirectional instability).
-![image|630](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ed88a57f6ba5ea39a43312fb47790e4a.png)
+![image|600](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ed88a57f6ba5ea39a43312fb47790e4a.png)
 
 ### Move: Adhesive Capsulitis Range of Motion
 * Severe, global restriction of both **Active AND Passive ROM**.
