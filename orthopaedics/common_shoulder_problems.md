@@ -180,6 +180,7 @@
 * **Milch Technique**: Slow abduction + ER + thumb pressure on humeral head.
 * **Traction-Countertraction**: Sheet around patient's thorax, practitioner pulls arm in axial traction.
 * **Post-reduction**: Confirm with post-reduction X-rays. Document post-reduction NV status.
+![image|600](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a6180f5768940d0f437e63e4a4f96c33.png)![image|600](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ee0cd81f59c83b113abf3002dd3f1caa.png)
 
 ### Post-Reduction Immobilization & Care
 * Apply **Broad Arm Sling** or **Polysling** in internal rotation for 3 weeks (younger) or 1-2 weeks (older, to prevent stiffness).
