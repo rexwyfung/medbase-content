@@ -101,6 +101,7 @@
 | **Neer's Test**          | Pain with passive forward flexion while internally rotated. |
 | **Hawkins-Kennedy Test** | Pain with passive IR at 90° forward flexion.                |
 | **Painful Arc**          | Pain actively abducting between 60°–120°.                   |
+
 ![image|200](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/44b89b956d83c0d1d8f447ec3fd22ab6.png)
 
 ### Move: Instability Special Tests
