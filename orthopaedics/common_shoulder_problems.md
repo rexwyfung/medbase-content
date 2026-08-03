@@ -271,3 +271,4 @@
 * Trap: Trying to forcibly reduce a dislocated shoulder using the Hippocratic method (foot in axilla). Pearl: This is outdated and risks severe brachial plexus traction injury. Use gentle traction-countertraction or Cunningham's technique.
 * Pitfall: Diagnosing "frozen shoulder" in a patient with normal passive external rotation. If passive ER is completely normal, the diagnosis is likely impingement or a cuff tear, NOT adhesive capsulitis.
 * Viva Question: Why do we prefer RTSA (Reverse Total Shoulder Arthroplasty) for Cuff Tear Arthropathy? Answer: RTSA changes the center of rotation medially and inferiorly, allowing the Deltoid to recruit a longer lever arm to elevate the arm, compensating for the absent rotator cuff.
+	![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/e6df1818fd542dc72d75babf85313a3a.png)
