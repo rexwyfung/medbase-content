@@ -35,6 +35,7 @@
 * **Vascular Supply**: 
   * Supplied proximally by musculotendinous junction, distally by osseous insertion, and segmentally by the paratenon (no true synovial sheath).
   * **Watershed Zone**: Area of critical hypovascularity located **2-6 cm proximal to the calcaneal insertion**. Most common site of spontaneous rupture.
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/434a225b4104227721db57fdb4651f58.png)
 
 ### Patellar Tendon Anatomy & Biomechanics
 * **Structure**: Originates from the inferior pole of the patella, inserts into the **Tibial Tuberosity (脛骨粗隆)**. 
@@ -173,7 +174,7 @@
 | **Conservative (Functional Bracing)** | Acute closed rupture (<2 weeks), gap <1 cm in equinus on USG, older/sedentary patients, high surgical risk (DM, PVD). HA trend favors this. | **VACOped / ROM boot protocol**: NWB in equinus (30°) for 2 weeks → progressive weight bearing with sequential removal of heel wedges to allow gradual dorsiflexion over 8 weeks.    |
 | **Operative Repair**                  | Athletes, delayed presentation (>2 weeks), gap >1 cm in equinus, avulsion fractures, patient preference.                                    | **Open Repair**: Krackow or Kessler locking suture technique (non-absorbable). <br><br>**Percutaneous Repair**: Less wound breakdown, but higher risk of **Sural nerve** entrapment. |
 
-[![Surgical treatment of Achilles tendon ruptures: benefits and risks | Prerna Pant posted on the topic | LinkedIn|500](https://media.licdn.com/dms/image/v2/D5622AQHPtZGW1T5Ohg/feedshare-shrink_800/B56ZkYznTbHIA0-/0/1757057811458?e=2147483647&v=beta&t=Zfju1fhFxJSWWoS9bmcjxea5Y2a5vwHyNXOgCT3KuNU)
+![Surgical treatment of Achilles tendon ruptures: benefits and risks | Prerna Pant posted on the topic | LinkedIn|500](https://media.licdn.com/dms/image/v2/D5622AQHPtZGW1T5Ohg/feedshare-shrink_800/B56ZkYznTbHIA0-/0/1757057811458?e=2147483647&v=beta&t=Zfju1fhFxJSWWoS9bmcjxea5Y2a5vwHyNXOgCT3KuNU)
 
 ### Patellar Tendinopathy Management Algorithm
 | Phase                             | Management Modalities                                                                                                                                                                                                             |
