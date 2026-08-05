@@ -185,10 +185,10 @@
 ![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/c7fda919d7bad74550d24ded9d47d7c3.png)
 
 ### Lateral Ankle Instability Management Algorithm
-| Condition                      | Management Modalities                                                                                                                                                                                                                                                                |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Acute Sprain**               | Functional rehabilitation. Early ROM. Proprioceptive training (wobble board). Peroneal strengthening.                                                                                                                                                                                |
-| **Chronic Instability (CLAI)** | **Broström-Gould Procedure**: Anatomical repair and imbrication of the ATFL & CFL, reinforced with the extensor retinaculum. <br>**Tenodesis (e.g., Chrisman-Snook)**: Non-anatomical reconstruction using split peroneus brevis (for failed Broström or hyperlaxity/Ehlers-Danlos). |
+| Condition                      | Management Modalities                                                                                                                                                                                                                                                                    |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Acute Sprain**               | Functional rehabilitation.<br>Early ROM.<br>Proprioceptive training (wobble board).<br>Peroneal strengthening.                                                                                                                                                                           |
+| **Chronic Instability (CLAI)** | **Broström-Gould Procedure**: Anatomical repair and imbrication of the ATFL & CFL, reinforced with the extensor retinaculum. <br><br>**Tenodesis (e.g., Chrisman-Snook)**: Non-anatomical reconstruction using split peroneus brevis (for failed Broström or hyperlaxity/Ehlers-Danlos). |
 
 ![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/f47a1a0c50d975da221ea626642f240d.png)![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/1cfa59b7a77f7d911ae0a2043797bbc9.png)
 
