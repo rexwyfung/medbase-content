@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orthopaedics/tendinopathies_ankle_instability.md",
+                "file": "orthopaedics/knee_arthritis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tendinopathies_ankle_instability"
+              "title": "knee_arthritis"
             }
           }
         ]
@@ -195,6 +195,7 @@
   },
   "active": "5ac0e39484da6ea7",
   "lastOpenFiles": [
+    "orthopaedics/tendinopathies_ankle_instability.md",
     "orthopaedics/common_shoulder_problems.md",
     "orthopaedics/scoliosis.md",
     "orthopaedics/knee_sports_injuries.md",
@@ -214,7 +215,6 @@
     "orthopaedics/musculoskeletal_infection.md",
     "orthopaedics/paediatric_musculoskeletal_injury.md",
     "orthopaedics/spinal_trauma_cord_injury.md",
-    "orthopaedics/tendinopathies_ankle_instability.md",
     "orthopaedics/bone_pain_fever_children.md",
     "orthopaedics/the_limping_child.md",
     "orthopaedics/medico_legal_issues_ot.md",

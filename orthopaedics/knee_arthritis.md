@@ -11,6 +11,7 @@
 * Mechanical wear & tear + biochemical degradation.
 * Chondrocyte damage → release of inflammatory cytokines (IL-1, TNF-α) & matrix metalloproteinases (MMPs) → type II collagen & aggrecan degradation.
 * Imbalance between cartilage synthesis & degradation → cartilage thinning → ↑ subchondral bone stress.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ae77e2415c127311706d4d6ec2588d46.png)
 
 ### Epidemiology of Knee Arthritis in Hong Kong
 * Highly prevalent in HK aging population.
@@ -29,6 +30,7 @@
 * Normal mechanical axis (Mikulicz line): Center of femoral head to center of ankle joint. Passes slightly medial to knee center.
 * Cartilage loss in medial compartment → mechanical axis shifts further medially → ↑ varus thrust during gait → accelerated medial wear (**Varus Deformity / 膝內翻**).
 * Cartilage loss in lateral compartment (commonly RA or post-traumatic) → **Valgus Deformity (膝外翻)**.
+![image|350](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/b02f392b21d329b70f3df7888233179a.png)
 
 ### Static & Dynamic Knee Stabilizers
 * **Static:** ACL, PCL, MCL, LCL. Cruciate ligaments often preserved in early OA, but ACL frequently absent/degenerated in advanced OA.
@@ -42,25 +44,30 @@
 * Muscle bulk: **Quadriceps atrophy** (specifically Vastus Medialis Obliquus - VMO).
 * Swelling: Joint effusion, Baker’s cyst (popliteal fossa).
 * Skin: Scars from previous surgeries/trauma, psoriatic plaques (if Psoriatic Arthritis), rheumatoid nodules (if RA).
+![image|250](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ae8bc0f8431d6f4e331f4485fbb9ef22.png)![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/e230c4dd80c50830dfa85d4ff427af83.png)
 
 ### Feel: Palpation of Arthritic Knee
 * Temperature: +/- mild warmth (hot joint → exclude septic arthritis/gout).
 * Effusion tests: +ve Patellar tap (large effusion) or Bulge sign (small effusion).
 * Tenderness: Joint line tenderness (medial/lateral), patellofemoral crepitus/tenderness.
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/6c3cc26779e701c8500660a02adc3ffa.png)![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/167f6d70e6a04b986ad1db45589bb19c.png)
 
 ### Move: Range of Motion in Arthritic Knee
 * Active & Passive ROM reduced (Normal: 0° to 135°+).
 * Fixed flexion deformity (FFD): Inability to fully extend (capsular contracture/osteophytes).
 * Crepitus (骨擦音): Palpable/audible grinding during flexion/extension.
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/8fb8c17cfbe6ee3403d9ab014e8ed3fb.png)
 
 ### Neurovascular (NV) Status of the Lower Limb
 * Standard peripheral vascular screening required prior to any surgical consideration.
-* Severe valgus deformity can stretch **Common Peroneal Nerve (腓總神經)** → check EHL/TA function.
+* Severe valgus deformity can stretch **Common Peroneal Nerve (腓總神經)** → check EHL/TA function 
 
 | Nerve | Motor Test (Muscle) | Sensory Area |
 | :--- | :--- | :--- |
 | **Common Peroneal Nerve (L4-S1)** | Extensor Hallucis Longus (EHL) / Tibialis Anterior (TA) | 1st dorsal web space |
 | **Tibial Nerve (L4-S3)** | Flexor Hallucis Longus (FHL) / Gastrocnemius | Plantar aspect of foot |
+
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/72308b1c7c1bf764a14f771d0ed0ef4a.png)
 
 ## 4. Orthopaedic Classification Systems
 
@@ -74,6 +81,8 @@
 | **Grade 3** | Moderate multiple osteophytes, definite JSN, some sclerosis, possible bone end deformity. |
 | **Grade 4** | Large osteophytes, severe JSN, severe sclerosis, definite bony deformity. |
 
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/f8ed33bab51bfa4c53647f7a128fe17e.png)
+
 ### Ahlbäck Classification for Knee Osteoarthritis
 * Focuses strictly on cartilage loss & bone attrition on weight-bearing AP films.
 * Grade 1: JSN <3mm.
@@ -81,6 +90,7 @@
 * Grade 3: Bone attrition <5mm.
 * Grade 4: Bone attrition 5-15mm.
 * Grade 5: Bone attrition >15mm or severe subluxation.
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/fb9e4c82625beb1c08ee8f503c2129ec.png)
 
 ## 5. Radiological Investigations
 
@@ -89,12 +99,14 @@
 * **Rosenberg View (45° PA flexion WB):** More sensitive for early JSN in weight-bearing area of posterior femoral condyles.
 * **True Lateral View (30° flexion):** Assesses patellofemoral joint (PFJ), osteophytes, patella alta/baja.
 * **Skyline View (Merchant/Laurin):** Evaluates PFJ space, patellar tilt/subluxation.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/766e503b16b1d15b464dc11a9ae7c40f.png)
 
 ### Pathognomonic X-ray Features of Osteoarthritis (LOSS)
 * **L**oss of joint space (asymmetrical, usually medial first).
 * **O**steophytes (marginal).
 * **S**ubchondral sclerosis (↑ bone density due to ↑ load).
 * **S**ubchondral cysts (geodes - synovial fluid forced into microfractures).
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/9bc174bb41b57970a55b0896cdd2b4c6.png)
 
 ## 6. Initial ED Management
 
@@ -102,22 +114,27 @@
 * Exclude red flags (Septic arthritis, acute fracture).
 * Rest, modify weight-bearing (walking stick/frame).
 * Cryotherapy (Ice packs).
-* Analgesia: Paracetamol 1g QID, topical NSAIDs (Voltaren gel).
-* Oral NSAIDs (COX-2 inhibitors e.g., Celecoxib) + PPI if no renal/cardiac contraindications (HK HA standard for elderly).
+* Analgesia:
+	* Paracetamol 1g QID, topical NSAIDs (Voltaren gel).
+	* Oral NSAIDs (COX-2 inhibitors e.g., Celecoxib) + PPI if no renal/cardiac contraindications (HK HA standard for elderly).
 
 ### Management of Massive Effusion
 * Aseptic arthrocentesis (Joint aspiration) for diagnostic & therapeutic relief.
-* Fluid analysis: Gram stain, culture, cell count, crystal analysis (urate/CPPD) to rule out sepsis/gout.
+* Fluid analysis:
+	* Gram stain.
+	* Culture.
+	* Cell count.
+	* Crystal analysis (urate/CPPD) to rule out sepsis/gout.
 * +/- Intra-articular Corticosteroid injection (only if infection definitively ruled out).
 
 ## 7. Definitive Management Algorithm
 
 ### Indications for Non-Operative vs. Operative Management of Knee Arthritis
 
-| Management Phase | Indications | Example Modalities |
-| :--- | :--- | :--- |
-| **Non-Operative (1st Line)** | Mild-moderate symptoms, K-L Grade 1-3, high surgical risk, unwilling for surgery. | Lifestyle, PT, Orthotics, Analgesia, Injections. |
-| **Operative (Definitive)** | Severe refractory pain, night pain, functional limitation severely affecting ADLs, K-L Grade 3-4, failed conservative Rx >6 months. | HTO, UKA, TKA. |
+| Management Phase             | Indications                                                                                                                                              | Example Modalities                               |
+| :--------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------- |
+| **Non-Operative (1st Line)** | - Mild-moderate symptoms.<br>- K-L Grade 1-3.<br>- High surgical risk.<br>- Unwilling for surgery.                                                       | Lifestyle, PT, Orthotics, Analgesia, Injections. |
+| **Operative (Definitive)**   | - Severe refractory pain.<br>- Night pain.<br>- Functional limitation severely affecting ADLs.<br>- K-L Grade 3-4<br>- Failed conservative Rx >6 months. | HTO, UKA, TKA.                                   |
 
 ### Non-Operative Management Protocol for Knee Arthritis
 * **Lifestyle:** Weight reduction (highly effective, ↓ joint load), activity modification.
@@ -134,6 +151,8 @@
   * **Goal:** Resurface only the diseased medial or lateral compartment.
   * **Indications (Kozinn & Scott Criteria):** Unicompartmental OA, intact ACL, flexion >90°, flexion contracture <15°, varus <10° (correctable).
   * **Advantages:** Faster recovery, feels more "natural" (proprioception preserved via intact ACL/PCL).
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/c557912590923c2af355026b032c9363.png)
+
 
 ### Surgical Options: Total Knee Arthroplasty (TKA) (全膝關節置換術)
 * **Goal:** Resurface distal femur, proximal tibia, +/- patella. Restore mechanical alignment & achieve soft tissue balance.
@@ -143,6 +162,7 @@
 * **Implant Types:**
   * Cruciate Retaining (CR): Relies on intact PCL for AP stability.
   * Posterior Stabilized (PS): Resects PCL; uses tibial post & femoral cam mechanism for stability. (Most common in HK HA).
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/5151340d99748864964deaad2aa2a157.png)
 
 ## 8. Rehabilitation Protocol
 
@@ -151,6 +171,7 @@
 * **Day 1:** Stand & mobilize full weight-bearing (FWB) with walking frame. Initiate active assisted ROM exercises. Goal: Flexion >90°, Extension 0°.
 * **Day 2-3:** Progress to elbow crutches/quadripod. Gait training, stair climbing assessment. Discharge when safe & independently mobile.
 * **Outpatient:** Continue outpatient PT. Focus on full active extension (prevent FFD) & VMO strengthening.
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ea1df66786ee2b50a74ef2062bc48f0d.png)
 
 ## 9. Orthopaedic Complications
 
@@ -170,6 +191,7 @@
 
 * Viva Question: What is the most sensitive X-ray view to detect early knee osteoarthritis? Answer: The Rosenberg view (45-degree posteroanterior weight-bearing flexion view), as cartilage wear begins posteriorly on the femoral condyles.
 * Viva Question: Why do we instruct a patient with right knee OA to hold their walking cane in the left hand? Answer: Holding the cane in the contralateral hand reduces the joint reaction force on the affected knee by shifting the center of gravity and decreasing the abductor muscle force required to stabilize the pelvis.
+	![image|200](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/36af578bead15c03f36cc91e449d331f.png)
 * Trap: Prescribing aggressive PO NSAIDs for acute knee OA flare in an elderly patient without checking renal function. Pearl: Always check eGFR in elderly patients; use topical NSAIDs or Paracetamol as first-line to avoid Acute Kidney Injury (AKI) or GI bleeds.
 * Pitfall: Performing a unicompartmental knee arthroplasty (UKA) on a patient with a deficient ACL. Unrecognized ACL deficiency leads to eccentric wear and rapid failure of the UKA implant due to anteroposterior instability.
 * Viva Question: In a standard Total Knee Arthroplasty for severe varus knee, which ligament must be released to balance the joint? Answer: The Medial Collateral Ligament (MCL) deep fibers and medial capsule (medial release) to correct the varus deformity.
