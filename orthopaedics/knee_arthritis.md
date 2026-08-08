@@ -5,7 +5,10 @@
 ### Definition & Etiology of Knee Arthritis
 * **Osteoarthritis (OA) (退化性骨關節炎):** 1° degenerative joint disease characterized by progressive loss of articular cartilage, subchondral bone changes & osteophyte formation.
 * **Rheumatoid Arthritis (RA) (類風濕性關節炎):** Autoimmune systemic inflammatory disease causing proliferative synovitis (pannus) → 2° cartilage/bone destruction.
-* **Secondary OA:** Post-traumatic (e.g., intra-articular #, meniscal/ACL tears), septic arthritis sequelae, crystal arthropathy (Gout/CPPD).
+* **Secondary OA:**
+	* Post-traumatic (e.g., intra-articular #, meniscal/ACL tears).
+	* Septic arthritis sequelae.
+	* Crystal arthropathy (Gout/CPPD).
 
 ### Pathophysiology & Mechanism of Knee Osteoarthritis
 * Mechanical wear & tear + biochemical degradation.
@@ -110,7 +113,7 @@
 
 ## 6. Initial ED Management
 
-### Acute Exacerbation (Flare-up) of Knee Arthritis
+### Management of Acute Exacerbation (Flare-up) of Knee Arthritis
 * Exclude red flags (Septic arthritis, acute fracture).
 * Rest, modify weight-bearing (walking stick/frame).
 * Cryotherapy (Ice packs).
