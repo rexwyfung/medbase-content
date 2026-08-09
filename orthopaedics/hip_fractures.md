@@ -5,37 +5,54 @@
 ### Definition of Hip Fractures
 * **Neck of Femur (NOF) Fracture (股骨頸骨折):** Intracapsular # proximal to intertrochanteric line.
 * **Intertrochanteric (IT) Fracture (轉子間骨折):** Extracapsular # between greater & lesser trochanters.
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/569b413cf54a4aa3110b204a5710d59e.png)
 
 ### Epidemiology of Hip Fractures
 * **Bimodal Distribution:**
-* **Elderly (Most common):** Age >65, ↑ incidence in ♀ (post-menopausal).
-* **Associated Pathologies:** Osteoporosis (骨質疏鬆症), sarcopenia, frailty.
-* **Young:** <50 years old, ♂ predominance.
+	* **Elderly (Most common):** Age >65, ↑ incidence in ♀ (post-menopausal).
+		* **Associated Pathologies:** Osteoporosis (骨質疏鬆症), sarcopenia, frailty.
+	* **Young:** <50 years old, ♂ predominance.
 
 ### Mechanism of Injury (MOI)
 * **Low-Energy MOI (Elderly):** Simple fall from standing height (direct blow to greater trochanter or twisting injury).
-* **High-Energy MOI (Young):** MVA, fall from height.
+* **High-Energy MOI (Young):** Motor Vehicle Accident (MVA), fall from height.
 
 ## 2. Applied Orthopaedic Anatomy & Biomechanics
 
 ### Vascular Supply to Femoral Head (股骨頭血液供應)
-* **Medial Circumflex Femoral Artery (MCFA):** Main supply. Retinacular branches supply superior/anterior head. Easily torn in displaced NOF # → ↑ risk of Avascular Necrosis (AVN) (缺血性壞死).
-* **Lateral Circumflex Femoral Artery (LCFA):** Supplies inferior/anterior aspect.
-* **Ligamentum Teres Artery:** Branch of obturator artery. Negligible in adults (<20% supply).
+* **Medial Circumflex Femoral Artery (MCFA):**
+	* Main supply.
+	* Retinacular branches supply superior/anterior head.
+	* Easily torn in displaced NOF # → ↑ risk of Avascular Necrosis (AVN) (缺血性壞死).
+* **Lateral Circumflex Femoral Artery (LCFA):**
+	* Supplies inferior/anterior aspect.
+* **Ligamentum Teres Artery:**
+	* Branch of obturator artery.
+	* Negligible in adults (<20% supply).
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ec4bb53c634b61c6dd121e39c32e6ca3.png)
 
 ### Biomechanics & Deforming Muscle Forces
 * **Hip Joint Forces:** Subjected to 3-5x body weight during normal gait.
 * **Proximal Fragment (IT #):**
-* **Abductors (Gluteus Medius/Minimus):** Pulls greater trochanter superiorly/abducts.
-* **External Rotators (Short rotators):** Externally rotates.
-* **Iliopsoas:** Pulls lesser trochanter anteriorly/proximally (flexion).
+	* **Abductors (Gluteus Medius/Minimus):** Pulls greater trochanter superiorly/abducts.
+	* **External Rotators (Short rotators):** Externally rotates.
+	* **Iliopsoas:** Pulls lesser trochanter anteriorly/proximally (flexion).
 * **Distal Fragment:**
-* **Adductors:** Pulls femoral shaft medially (varus deformity) & shortens limb.
+	* **Adductors:** Pulls femoral shaft medially (varus deformity) & shortens limb.
+![image|350](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/42f339414314f99cf3e02fc13fc90628.png)
 
 ### Anatomical Landmarks & Stability
-* **Capsule:** Attaches anteriorly at intertrochanteric line, posteriorly 1cm proximal to intertrochanteric crest. NOF # is intracapsular; IT # is extracapsular.
-* **Calcar Femorale:** Dense vertical plate of bone in posteromedial femur. Crucial for load transmission. Comminution here defines IT # instability.
-* **Lateral Wall:** Critical buttress for IT # fixation. Disruption = unstable.
+* **Capsule:**
+	* Attaches anteriorly at intertrochanteric line, posteriorly 1cm proximal to intertrochanteric crest.
+	* NOF # is intracapsular; IT # is extracapsular.
+* **Calcar Femorale:**
+	* Dense vertical plate of bone in posteromedial femur.
+	* Crucial for load transmission.
+	* Comminution here defines IT # instability.
+* **Lateral Wall:**
+	* Critical buttress for IT # fixation.
+	* Disruption = unstable.
+![image|200](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/659304a016302ff1a571aab41e0dfe88.png)
 
 ## 3. Clinical Assessment
 
@@ -53,37 +70,44 @@
 * **Vascular:** Palpate dorsalis pedis (DP) & posterior tibial (PT) pulses. Assess capillary refill time (CRT).
 * **Neurological:** Sciatic nerve (peroneal & tibial divisions) testing.
 
-| Nerve | Motor Test | Sensory Test |
-| :--- | :--- | :--- |
-| **Deep Peroneal** | Great toe extension (EHL) | 1st dorsal web space |
-| **Superficial Peroneal** | Foot eversion | Lateral dorsum of foot |
-| **Tibial** | Toe flexion / Plantarflexion | Plantar surface of foot |
+| Nerve                    | Motor Test                   | Sensory Test            |
+| :----------------------- | :--------------------------- | :---------------------- |
+| **Deep Peroneal**        | Great toe extension (EHL)    | 1st dorsal web space    |
+| **Superficial Peroneal** | Foot eversion                | Lateral dorsum of foot  |
+| **Tibial**               | Toe flexion / Plantarflexion | Plantar surface of foot |
+
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/325098cc6f0113b6434e727394b2f742.png)
 
 ## 4. Orthopaedic Classification Systems
 
 ### Garden Classification for NOF Fractures (Intracapsular)
 * **Basis:** Degree of displacement on AP X-ray. Predicts AVN risk.
 
-| Grade | Displacement | Trabecular Alignment | Stability |
-| :--- | :--- | :--- | :--- |
-| **I** | Incomplete / Valgus impacted | Inferior cortex intact, trabeculae angulated | Stable |
-| **II** | Complete, Undisplaced | Cortices broken, trabeculae maintain alignment | Stable |
-| **III** | Complete, Partially displaced | <50% displacement, varus tilt | Unstable |
-| **IV** | Complete, Fully displaced | >50% displacement, trabeculae parallel to acetabulum | Unstable |
+| Grade   | Displacement                  | Trabecular Alignment                                 | Stability |
+| :------ | :---------------------------- | :--------------------------------------------------- | :-------- |
+| **I**   | Incomplete / Valgus impacted  | Inferior cortex intact, trabeculae angulated         | Stable    |
+| **II**  | Complete, Undisplaced         | Cortices broken, trabeculae maintain alignment       | Stable    |
+| **III** | Complete, Partially displaced | <50% displacement, varus tilt                        | Unstable  |
+| **IV**  | Complete, Fully displaced     | >50% displacement, trabeculae parallel to acetabulum | Unstable  |
+
+![image|250](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/74627a33b87c716b685248b3ecdd2575.png)
 
 ### Pauwels Classification for NOF Fractures
 * **Basis:** Angle of fracture line relative to horizontal. Predicts shear stress & non-union risk (mostly used for young patients).
 * **Type I:** <30° (Compressive forces dominant)
 * **Type II:** 30–50°
 * **Type III:** >50° (Shear forces dominant → ↑ risk of varus collapse & non-union)
+![image|450](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/8886c06dbc02bc675dcca71185e2178d.png)
 
 ### Evans Classification for Intertrochanteric Fractures (Extracapsular)
 * **Basis:** Fracture pattern & integrity of posteromedial cortex (lesser trochanter/calcar).
 
-| Type | Description | Subtypes / Instability |
-| :--- | :--- | :--- |
-| **Type 1** | Fracture line runs upward & outward from lesser to greater trochanter | **Stable:** Intact posteromedial cortex (2-part). <br> **Unstable:** Comminuted posteromedial cortex (3/4-part). |
-| **Type 2** | Reverse oblique. Fracture line runs downward & outward | Always **Unstable**. Medial shaft displaces medially. |
+| Type       | Description                                                           | Subtypes / Instability                                                                                              |
+| :--------- | :-------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ |
+| **Type 1** | Fracture line runs upward & outward from lesser to greater trochanter | **Stable:** Intact posteromedial cortex (2-part). <br><br>**Unstable:** Comminuted posteromedial cortex (3/4-part). |
+| **Type 2** | Reverse oblique. Fracture line runs downward & outward                | Always **Unstable**. Medial shaft displaces medially.                                                               |
+
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a68f18c97fb73b6eb44df71a87301d50.png)
 
 ## 5. Radiological Investigations
 
@@ -91,6 +115,7 @@
 * **AP Pelvis:** Assesses bilateral symmetry, pelvic ring, Shenton's line (continuous arc from medial NOF to inferior border of superior pubic ramus; disruption = displaced #).
 * **Cross-Table Lateral Hip:** Assesses AP displacement, degree of comminution, and base of neck. (Do NOT perform frog-leg lateral in acute trauma → risks further displacement).
 * **Full-Length Femur (AP & Lat):** Required if suspected subtrochanteric extension or pathological #.
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/4cf5d02db00c73be978b52f8da38708c.png)![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/85bb0b3b4a6af4641e9e8987b28e42e6.png)
 
 ### Advanced Imaging for Occult Fractures
 * **Indication:** High clinical suspicion (+ve history, +ve pain on log roll) but -ve X-rays.
@@ -102,8 +127,9 @@
 ### Acute Resuscitation & Pain Control
 * **ATLS Protocol:** ABCDE (Elderly patients may have hidden shock from occult bleeding or concurrent medical emergencies like AMI/CVA causing the fall).
 * **Analgesia:**
-* **Fascia Iliaca Compartment Block (FICB) (髂筋膜間隙阻滯):** Standard of care in HK HA. Targets femoral & lateral femoral cutaneous nerves. ↓ need for systemic opioids.
-* IV Paracetamol. Avoid NSAIDs (renal/bleeding risk in elderly).
+	* **Fascia Iliaca Compartment Block (FICB) (髂筋膜間隙阻滯):** Standard of care in HK HA. Targets femoral & lateral femoral cutaneous nerves. ↓ need for systemic opioids.
+	* IV Paracetamol. Avoid NSAIDs (renal/bleeding risk in elderly).
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/af7e25d91490e2d595d6480c28bf8987.png)
 
 ### ED Immobilization & Pre-Op Optimization
 * **Immobilization:** Pillows between legs. Skin traction (5 lbs) rarely used in HK now unless surgery delayed >48hrs for pain control (no proven benefit for # reduction).
@@ -119,20 +145,24 @@
 
 ### NOF Fracture Management Algorithm (Intracapsular)
 
-| Patient Profile / Fracture Type | Definitive Surgical Procedure | Rationale |
-| :--- | :--- | :--- |
-| **Young (<60 yrs), Any Grade** | **ORIF / CRIF with 3 Cannulated Screws (CS) or Dynamic Hip Screw (DHS)** | Head preservation is paramount. Surgical emergency (<6 hrs) to ↓ AVN risk. Capsulotomy to decompress hematoma. |
-| **Elderly, Garden I/II (Undisplaced)** | **CRIF with 3 Cannulated Screws** | Preserves native joint. Minimal surgical trauma. |
-| **Elderly, Garden III/IV (Displaced) + Low Demand / Frail** | **Cemented Hemiarthroplasty (半人工髖關節置換術)** | High AVN/non-union risk if fixed. Cemented preferred in osteoporotic bone. Austin-Moore/Thompson rarely used now; modular bipolar preferred. |
-| **Elderly, Garden III/IV (Displaced) + High Demand / Fit / Independent** | **Total Hip Replacement (THR) (全人工髖關節置換術)** | Better functional outcome, ↓ revision rate, less groin pain compared to hemiarthroplasty. |
+| Patient Profile / Fracture Type                                          | Definitive Surgical Procedure                                            | Rationale                                                                                                                                    |
+| :----------------------------------------------------------------------- | :----------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Young (<60 yrs), Any Grade**                                           | **ORIF / CRIF with 3 Cannulated Screws (CS) or Dynamic Hip Screw (DHS)** | Head preservation is paramount. Surgical emergency (<6 hrs) to ↓ AVN risk. Capsulotomy to decompress hematoma.                               |
+| **Elderly, Garden I/II (Undisplaced)**                                   | **CRIF with 3 Cannulated Screws**                                        | Preserves native joint. Minimal surgical trauma.                                                                                             |
+| **Elderly, Garden III/IV (Displaced) + Low Demand / Frail**              | **Cemented Hemiarthroplasty (半人工髖關節置換術)**                                | High AVN/non-union risk if fixed. Cemented preferred in osteoporotic bone. Austin-Moore/Thompson rarely used now; modular bipolar preferred. |
+| **Elderly, Garden III/IV (Displaced) + High Demand / Fit / Independent** | **Total Hip Replacement (THR) (全人工髖關節置換術)**                              | Better functional outcome, ↓ revision rate, less groin pain compared to hemiarthroplasty.                                                    |
+
+![image|600](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/4e8ff2b599c8e6447e04f02fb16dcd94.png)
 
 ### Intertrochanteric Fracture Management Algorithm (Extracapsular)
 
-| Fracture Type (Evans) | Definitive Surgical Procedure | Rationale |
-| :--- | :--- | :--- |
-| **Stable (Evans Type 1, 2-part)** | **Dynamic Hip Screw (DHS) (動力髖螺釘)** | Sliding mechanism allows controlled collapse & compression at fracture site during weight-bearing. |
-| **Unstable (Posteromedial comminution, 3/4-part)** | **Cephalomedullary Nail (PFN / Gamma Nail) (股骨近端髓內釘)** | Load-sharing device. Closer to mechanical axis = smaller bending moment. Prevents excessive shaft medialization. |
-| **Reverse Oblique / Subtrochanteric Extension** | **Long Cephalomedullary Nail** | Intact lateral wall is absent. DHS contraindicated (will cause lateral wall blowout). Requires intramedullary fixation. |
+| Fracture Type (Evans)                              | Definitive Surgical Procedure                          | Rationale                                                                                                               |
+| :------------------------------------------------- | :----------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------- |
+| **Stable (Evans Type 1, 2-part)**                  | **Dynamic Hip Screw (DHS) (動力髖螺釘)**                    | Sliding mechanism allows controlled collapse & compression at fracture site during weight-bearing.                      |
+| **Unstable (Posteromedial comminution, 3/4-part)** | **Cephalomedullary Nail (PFN / Gamma Nail) (股骨近端髓內釘)** | Load-sharing device. Closer to mechanical axis = smaller bending moment. Prevents excessive shaft medialization.        |
+| **Reverse Oblique / Subtrochanteric Extension**    | **Long Cephalomedullary Nail**                         | Intact lateral wall is absent. DHS contraindicated (will cause lateral wall blowout). Requires intramedullary fixation. |
+
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/95b601d47cdeb824f6ae041f0fc4ae46.png)
 
 ## 8. Rehabilitation Protocol
 
@@ -156,6 +186,7 @@
 * **Cut-Out:** Screw head penetrates superiorly/anteriorly through femoral head cartilage into joint. Risk factor: Tip-Apex Distance (TAD) > 25mm.
 * **Malunion (Varus Collapse):** Common in unstable IT #.
 * **Z-Effect / Reverse Z-Effect:** Backing out or medial migration of screws in dual-screw cephalomedullary nails.
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/07bdf58521049bc336240ec947fd6405.png)
 
 ### General Systemic Complications (The "Fatal Four" of bedbound elderly)
 * **DVT / Pulmonary Embolism (PE):** Requires LMWH prophylaxis post-op.
