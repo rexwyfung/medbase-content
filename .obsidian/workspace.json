@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orthopaedics/knee_arthritis.md",
+                "file": "orthopaedics/hip_fractures.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "knee_arthritis"
+              "title": "hip_fractures"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hip_fractures.md",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,8 +196,8 @@
   },
   "active": "5ac0e39484da6ea7",
   "lastOpenFiles": [
-    "orthopaedics/foot_ulcers.md",
     "orthopaedics/knee_arthritis.md",
+    "orthopaedics/foot_ulcers.md",
     "orthopaedics/tendinopathies_ankle_instability.md",
     "orthopaedics/common_shoulder_problems.md",
     "orthopaedics/scoliosis.md",
