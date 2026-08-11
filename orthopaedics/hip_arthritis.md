@@ -95,6 +95,7 @@
 ### Standard Radiographic Views for Hip OA
 * **AP Pelvis (Weight-Bearing):** Compares both hips, assesses functional joint space under load, pelvic tilt, LLD
 * **Cross-Table Lateral / Frog-Leg Lateral Hip:** Assesses sphericity of femoral head, anterior/posterior osteophytes, cam/pincer morphology
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/58afc0279974244e5141f2fa86614878.png)
 
 ### Pathognomonic Radiographic Findings
 * **L.O.S.S. Mnemonic:**
