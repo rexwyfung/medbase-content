@@ -76,6 +76,7 @@
 ### Neurovascular (NV) Status
 * **Distal Pulses:** Dorsalis pedis, posterior tibial (rule out vascular claudication)
 * **Neurological:** L2-S1 dermatomes/myotomes (differentiate from lumbar spinal stenosis / radiculopathy)
+![image|200](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/08b1986a1928b1f50079d9879fabb914.png)
 
 ## 4. Orthopaedic Classification Systems (Eponyms & Grading)
 
