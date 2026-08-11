@@ -24,14 +24,17 @@
 
 ## 2. Applied Orthopaedic Anatomy & Biomechanics
 
-### Osteology & Vascularity of the Hip
+### Osteology of the Hip
 * **Joint Type:** Diarthrodial ball-and-socket joint (femoral head + acetabulum)
 * **Acetabulum:** Formed by ilium, ischium, pubis. Deepened by fibrocartilaginous labrum (髖臼唇)
 * **Capsule:** Extremely strong, reinforced by iliofemoral (Y-ligament of Bigelow), pubofemoral, ischiofemoral ligaments
-* **Vascular Supply:** 
-  * Medial circumflex femoral artery (MCFA) (內側旋股動脈) → primary supply to adult femoral head
-  * Lateral circumflex femoral artery (LCFA) (外側旋股動脈) → anterior supply
-  * Artery of ligamentum teres → negligible in adults
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/c1482d3bf90bce1f1c4a59c8abe16265.png)
+
+### Vascularity of the Hip
+- **Medial circumflex femoral artery (MCFA) (內側旋股動脈)** → primary supply to adult femoral head
+- **Lateral circumflex femoral artery (LCFA) (外側旋股動脈)** → anterior supply
+- **Artery of ligamentum teres** → negligible in adults
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/ec4bb53c634b61c6dd121e39c32e6ca3.png)
 
 ### Hip Joint Biomechanics & Deforming Forces
 * **Joint Reaction Force (JRF):** ~3x body weight during normal walking, up to 6-8x during running/jumping
@@ -40,20 +43,23 @@
   * Body weight acts on a long lever arm from the center of gravity
   * Abductors act on a short lever arm (greater trochanter)
   * ↓ abductor strength or altered offset → ↑ JRF → accelerated OA
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a3d1a27454e28684113122ea3932e400.png)
 
 ## 3. Clinical Assessment
 
 ### Look (Observation)
 * **Gait:** 
   * Antalgic gait (shortened stance phase on affected side)
-  * Trendelenburg gait (Trendelenburg步態) (lurching towards affected side to ↓ joint reaction force)
+  * Trendelenburg gait (臀中肌無力步態) (lurching towards affected side to ↓ joint reaction force)
 * **Leg Length Discrepancy (LLD):** Apparent or true shortening (due to joint destruction/proximal migration)
 * **Posture:** Fixed flexion deformity (FFD) at hip, compensatory hyperlordosis of lumbar spine
 * **Muscle:** Gluteal / thigh muscle wasting
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/1e3419f9611583253bcc985834a53ce0.png)![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/8ee562b1c7c2d8a8c772a44e5bd1e085.png)
 
 ### Feel (Palpation)
 * **Tenderness:** Anterior groin crease (true hip joint pathology)
 * **Bony Prominences:** Greater trochanter (rule out concurrent trochanteric bursitis)
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/18691b4056a3ca5fa2dc2c70ba4e1012.png)
 
 ### Move (Range of Motion & Special Tests)
 * **Early OA ROM:** ↓ Internal Rotation (IR) in flexion (earliest sign)
@@ -61,6 +67,7 @@
 * **Thomas Test:** +ve (reveals masked fixed flexion deformity of the hip)
 * **Trendelenburg Test:** +ve (pelvis drops on contralateral normal side during single-leg stance on affected side)
 * **Galeazzi Sign:** +ve if unilateral shortening
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/053ea86aa8eb019e6984d1c6c53019ad.png)
 
 ### Neurovascular (NV) Status
 * **Distal Pulses:** Dorsalis pedis, posterior tibial (rule out vascular claudication)
@@ -69,12 +76,14 @@
 ## 4. Orthopaedic Classification Systems (Eponyms & Grading)
 
 ### Tönnis Classification of Hip Osteoarthritis
-| Grade | Radiological Features |
-| :--- | :--- |
-| **Grade 0** | No signs of OA |
+| Grade       | Radiological Features                                                                         |
+| :---------- | :-------------------------------------------------------------------------------------------- |
+| **Grade 0** | No signs of OA                                                                                |
 | **Grade 1** | Mild sclerosis of head/acetabulum, slight joint space narrowing, no/slight loss of sphericity |
-| **Grade 2** | Small cysts in head/acetabulum, moderate joint space narrowing, moderate loss of sphericity |
-| **Grade 3** | Large cysts, severe/complete obliteration of joint space, severe deformity/necrosis of head |
+| **Grade 2** | Small cysts in head/acetabulum, moderate joint space narrowing, moderate loss of sphericity   |
+| **Grade 3** | Large cysts, severe/complete obliteration of joint space, severe deformity/necrosis of head   |
+
+![image|600](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/0ff63b419b349cab518c82651a049d65.png)
 
 ## 5. Radiological Investigations
 
@@ -91,34 +100,36 @@
 * **Additional Findings:** 
   * Acetabular protrusion (Protrusio acetabuli)
   * Proximal migration of femoral head
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/bd27e9d52f1c5b8b2511f0493e38cac4.png)
 
 ## 6. Initial ED Management (Reduction, Splinting/Casting, Traction)
 
 ### Acute Exacerbation Management
 * **Triage & Assessment:** Rule out septic arthritis, occult # (e.g., NOF #) if sudden acute deterioration
-* **Immobilization/Offloading:** 
-  * Contralateral walking stick/cane (reduces abductor force required, ↓ JRF by ~50%)
-* **Analgesia:** 
-  * PO Paracetamol
-  * PO NSAIDs / COX-2 inhibitors (e.g., Celecoxib) + PPI cover
+* **Immobilization/Offloading:**
+	* Contralateral walking stick/cane (reduces abductor force required, ↓ JRF by ~50%)
+* **Analgesia:**
+	* PO Paracetamol
+	* PO NSAIDs / COX-2 inhibitors (e.g., Celecoxib) + PPI cover
 * **Discharge Planning:** Orthopaedic SOPD referral for elective management
 
 ## 7. Definitive Management Algorithm (Non-Operative vs. Operative Indications & Techniques)
 
 ### Definitive Management Decision Matrix
-| Treatment Category | Indications | Modalities |
-| :--- | :--- | :--- |
-| **Conservative (Non-Op)** | Mild/mod symptoms, early Tönnis grade, high surgical risk | Weight loss, PT (abductor strengthening), contralateral cane, NSAIDs, intra-articular steroid/HA injections |
-| **Surgical (Operative)** | End-stage OA, intractable pain, failure of conservative Rx, severe ADL limitation | Total Hip Arthroplasty (THA) (全髖關節置換術) |
+| Treatment Category        | Indications                                                                                        | Modalities                                                                                                                         |
+| :------------------------ | :------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- |
+| **Conservative (Non-Op)** | - Mild/mod symptoms.<br>- Early Tönnis grade.<br>- High surgical risk.                             | - Weight loss.<br>- PT (abductor strengthening).<br>- Contralateral cane.<br>- NSAIDs.<br>- Intra-articular steroid/HA injections. |
+| **Surgical (Operative)**  | - End-stage OA.<br>- Intractable pain.<br>- Failure of conservative Rx.<br>- Severe ADL limitation | Total Hip Arthroplasty (THA) (全髖關節置換術)                                                                                             |
 
 ### Operative Principles: Total Hip Arthroplasty (THA)
 * **Surgical Approaches:**
-  * **Posterior Approach (Moore):** Preserves abductors, ↑ risk of posterior dislocation. Most common in HK HA system.
-  * **Direct Lateral Approach (Hardinge):** Splits gluteus medius, ↓ dislocation risk, ↑ risk of persistent abductor lurch.
-  * **Direct Anterior Approach (Smith-Petersen):** Internervous plane (Sartorius/TFL), rapid early recovery, ↑ risk of LFCN injury.
+	* **Posterior Approach (Moore):** Preserves abductors, ↑ risk of posterior dislocation. Most common in HK HA system.
+	* **Direct Lateral Approach (Hardinge):** Splits gluteus medius, ↓ dislocation risk, ↑ risk of persistent abductor lurch.
+	* **Direct Anterior Approach (Smith-Petersen):** Internervous plane (Sartorius/TFL), rapid early recovery, ↑ risk of LFCN injury.
 * **Component Fixation:**
-  * **Cemented (PMMA):** Better for elderly, osteoporotic bone (Dorr Type C). Immediate weight-bearing.
-  * **Uncemented (Press-fit/Biologic in-growth):** Better for younger, active patients with good bone stock (Dorr Type A/B). 
+	* **Cemented (PMMA):** Better for elderly, osteoporotic bone (Dorr Type C). Immediate weight-bearing.
+	* **Uncemented (Press-fit/Biologic in-growth):** Better for younger, active patients with good bone stock (Dorr Type A/B). 
+![image|600](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/263b1d893f93895ad9d4b3542477ab17.png)![image|600](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/4a8032adb83bcc56a2107524c8812b82.png)
 
 ### THA Bearing Surfaces
 | Bearing Surface | Pros | Cons |
@@ -141,6 +152,7 @@
   * Early mobilization (Day 1 post-op)
   * Gluteal/quadriceps isometric exercises
   * Gait training with Zimmer frame → elbow crutches → walking stick
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/6eae1491f125cb14eb74b41138eeacfb.png)
 
 ## 9. Orthopaedic Complications
 
@@ -163,3 +175,4 @@
 * Trap: Assuming isolated thigh or knee pain is a local knee problem. Pearl: Hip pathology (especially OA or pediatric conditions like SCFE) classically refers pain to the anterior thigh and knee via the obturator and femoral nerves. Always examine the hip in a patient with knee pain.
 * Pitfall: Discharging a THA patient without checking their home environment setup. Ensure they have a raised toilet seat, shower chair, and no loose rugs to prevent violating the "flexion >90 degrees" precaution and risking acute posterior dislocation.
 * Viva Question: During a posterior approach to the hip, which short external rotator is typically tagged and repaired at the end to prevent dislocation? Answer: Piriformis and the obturator internus complex (conjoined tendon).
+	![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/b4506c0d0c9bc27e9c1bd415c9c8e22f.png)

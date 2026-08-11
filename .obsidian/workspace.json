@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orthopaedics/knee_sports_injuries.md",
+                "file": "orthopaedics/hip_arthritis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "knee_sports_injuries"
+              "title": "hip_arthritis"
             }
           }
         ],
@@ -221,13 +221,13 @@
   "active": "89e5469b17b843fc",
   "lastOpenFiles": [
     "orthopaedics/hip_fractures.md",
+    "orthopaedics/hip_arthritis.md",
+    "orthopaedics/knee_sports_injuries.md",
     "orthopaedics/knee_arthritis.md",
     "orthopaedics/foot_ulcers.md",
     "orthopaedics/tendinopathies_ankle_instability.md",
     "orthopaedics/common_shoulder_problems.md",
     "orthopaedics/scoliosis.md",
-    "orthopaedics/knee_sports_injuries.md",
-    "orthopaedics/hip_arthritis.md",
     "orthopaedics/periprosthetic_infections.md",
     "orthopaedics/spinal_infections.md",
     "orthopaedics/soft_tissue_infections_surgical_emergencies.md",
