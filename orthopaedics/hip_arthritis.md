@@ -17,6 +17,7 @@
   * Avascular Necrosis (AVN) (缺血性壞死)
   * Post-traumatic (e.g., acetabular #, femoral head #)
   * Post-infectious (sequelae of septic arthritis)
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/2ceaa7af52bf7c666b7d2bd5b065b379.png)
 
 ### Epidemiology in Hong Kong
 * **Prevalence:** Highly prevalent in aging HK population, though 1° hip OA is slightly less common in Asians vs Caucasians
