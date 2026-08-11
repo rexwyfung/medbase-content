@@ -29,7 +29,7 @@
 ## 2. Applied Orthopaedic Anatomy & Biomechanics
 
 ### Osteology of the Hip
-* **Joint Type:** Diarthrodial ball-and-socket joint (femoral head + acetabulum)
+* **Joint Type:** Synovial ball-and-socket joint (femoral head + acetabulum)
 * **Acetabulum:** Formed by ilium, ischium, pubis. Deepened by fibrocartilaginous labrum (髖臼唇)
 * **Capsule:** Extremely strong, reinforced by iliofemoral (Y-ligament of Bigelow), pubofemoral, ischiofemoral ligaments
 ![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/c1482d3bf90bce1f1c4a59c8abe16265.png)
