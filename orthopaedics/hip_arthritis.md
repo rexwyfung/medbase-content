@@ -4,7 +4,10 @@
 
 ### Clinical Definition of Hip OA
 * **Pathology:** Progressive, irreversible degeneration of articular cartilage (關節軟骨) + reactive subchondral bone changes in the hip joint
-* **Symptomatology:** Insidious onset of mechanical groin pain, stiffness, ↓ range of motion (ROM)
+* **Symptomatology:**
+	* Insidious onset of mechanical groin pain.
+	* Stiffness.
+	* ↓ range of motion (ROM).
 
 ### Etiology & Subtypes
 * **1° (Idiopathic) OA:** 
