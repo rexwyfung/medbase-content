@@ -184,10 +184,10 @@
 ## 7. Definitive Management Algorithm (Non-Operative vs. Operative)
 
 ### ACL Definitive Management Algorithm
-| Modality             | Indications                                                                                                                  | Surgical Technique / Key Principles                                                                                                                               |
-| :------------------- | :--------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Non-Operative**    | Low-demand patients, elderly, partial tears, isolated tears with stable knee in ADLs.                                        | Physiotherapy focused on hamstring strengthening & proprioception. Lifestyle modification.                                                                        |
-| **Operative (ACLR)** | Young, active patients, high-demand sports (jumping/pivoting), persistent instability, concomitant repairable meniscal tear. | Arthroscopic ACL Reconstruction (ACLR). NEVER repair primarily (poor healing). Delay surgery 3-4 weeks until ROM regained & swelling ↓ to prevent arthrofibrosis. |
+| Modality             | Indications                                                                                                                                   | Surgical Technique / Key Principles                                                                                                                                   |
+| :------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Non-Operative**    | - Low-demand patients.<br>- Elderly, partial tears.<br>- Isolated tears with stable knee in ADLs.                                             | - Physiotherapy focused on hamstring strengthening & proprioception.<br>- Lifestyle modification.                                                                     |
+| **Operative (ACLR)** | - Young, active patients.<br>- High-demand sports (jumping/pivoting).<br>- Persistent instability.<br>- Concomitant repairable meniscal tear. | **Arthroscopic ACL Reconstruction (ACLR)**. NEVER repair primarily (poor healing). Delay surgery 3-4 weeks until ROM regained & swelling ↓ to prevent arthrofibrosis. |
 
 ### Surgical Principles: ACL Reconstruction (ACLR) Graft Choices
 * **Bone-Patellar Tendon-Bone (BPTB) Autograft:** 
