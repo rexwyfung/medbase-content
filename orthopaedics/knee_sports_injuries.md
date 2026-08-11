@@ -200,11 +200,11 @@
 ![image|363](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a9fea903fb449ca11f632d4823b9266c.png)
 
 ### Meniscal Tear Definitive Management Algorithm
-| Modality | Indications | Surgical Technique / Key Principles |
-| :--- | :--- | :--- |
-| **Non-Operative** | Degenerative tears (mild OA), small (<1cm) stable tears, asymptomatic. | NSAIDs, physiotherapy, intra-articular steroid/HA injections. |
-| **Operative (Repair)** | Red-red/red-white zone tears, longitudinal/bucket-handle tears, young patients, occurring with ACL tear. | Inside-out, outside-in, or all-inside arthroscopic suturing. Aim to preserve meniscus to prevent OA. |
-| **Operative (Meniscectomy)** | White-white zone tears, complex radial/flap tears, failed repairs. | Arthroscopic Partial Meniscectomy. Remove only the unstable, torn fragments (preserve as much as possible). |
+| Modality                     | Indications                                                                                                               | Surgical Technique / Key Principles                                                                             |
+| :--------------------------- | :------------------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------- |
+| **Non-Operative**            | - Degenerative tears (mild OA).<br>- Small (<1cm) stable tears.<br>- Asymptomatic.                                        | - NSAIDs.<br>- Physiotherapy.<br>- Intra-articular steroid/HA injections.                                       |
+| **Operative (Repair)**       | - Red-red/red-white zone tears.<br>- Longitudinal/bucket-handle tears.<br>- Young patients.<br>- Occurring with ACL tear. | Inside-out, outside-in, or all-inside **arthroscopic suturing**. Aim to preserve meniscus to prevent OA.        |
+| **Operative (Meniscectomy)** | - White-white zone tears.<br>- Complex radial/flap tears.<br>- Failed repairs.                                            | **Arthroscopic Partial Meniscectomy**. Remove only the unstable, torn fragments (preserve as much as possible). |
 ### PCL Management Algorithm
 * **Isolated PCL (Grade I-II):** Non-Operative (Quadriceps rehab). PCL heals well conservatively.
 * **PCL Operative (PCL Reconstruction):** Grade III (avulsion #, >10mm step-off) or symptomatic chronic instability.
