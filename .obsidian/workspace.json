@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orthopaedics/lumbar_spine_pathology.md",
+                "file": "orthopaedics/tendinopathies_ankle_instability.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lumbar_spine_pathology"
+              "title": "tendinopathies_ankle_instability"
             }
           }
         ],
@@ -76,7 +76,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -220,32 +222,32 @@
   },
   "active": "89e5469b17b843fc",
   "lastOpenFiles": [
+    "orthopaedics/knee_sports_injuries.md",
+    "orthopaedics/lumbar_spine_pathology.md",
+    "orthopaedics/other_foot_ankle_conditions.md",
+    "orthopaedics/periprosthetic_infections.md",
+    "orthopaedics/septic_arthritis_osteomyelitis.md",
+    "orthopaedics/soft_tissue_infections_surgical_emergencies.md",
+    "orthopaedics/avn_femoral_head.md",
+    "orthopaedics/ankle_lower_limb_fractures.md",
     "orthopaedics/hip_arthritis.md",
     "orthopaedics/hip_fractures.md",
-    "orthopaedics/knee_sports_injuries.md",
     "orthopaedics/knee_arthritis.md",
     "orthopaedics/foot_ulcers.md",
     "orthopaedics/tendinopathies_ankle_instability.md",
     "orthopaedics/common_shoulder_problems.md",
     "orthopaedics/scoliosis.md",
-    "orthopaedics/periprosthetic_infections.md",
     "orthopaedics/spinal_infections.md",
-    "orthopaedics/soft_tissue_infections_surgical_emergencies.md",
-    "orthopaedics/septic_arthritis_osteomyelitis.md",
     "orthopaedics/achilles_tendon_rupture.md",
     "orthopaedics/ingrowing_toe_nail.md",
     "orthopaedics/common_paediatric_orthopaedic_conditions.md",
     "orthopaedics/hallux_valgus.md",
-    "orthopaedics/other_foot_ankle_conditions.md",
     "orthopaedics/paediatric_deformities.md",
     "orthopaedics/musculoskeletal_infection.md",
     "orthopaedics/paediatric_musculoskeletal_injury.md",
     "orthopaedics/spinal_trauma_cord_injury.md",
     "orthopaedics/bone_pain_fever_children.md",
     "orthopaedics/the_limping_child.md",
-    "orthopaedics/medico_legal_issues_ot.md",
-    "orthopaedics/orthopaedic_rehabilitation.md",
-    "orthopaedics/metastatic_bone_disease.md",
     "orthopaedics",
     "emergency-medicine",
     "surgery",
