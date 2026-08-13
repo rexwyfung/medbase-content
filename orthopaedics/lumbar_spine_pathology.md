@@ -2,23 +2,23 @@
 
 ## 1. Clinical Definition, Mechanism of Injury (MOI) & Epidemiology
 
-### Prolapsed Intervertebral Disc (PID) (椎間盤突出)
+### Prolapsed Intervertebral Disc (PID) (椎間盤突出) Definition, MOI & Epidemiology
 * **Definition:** Extrusion of **nucleus pulposus** through annular defect compressing neural elements.
 * **Epidemiology:** Most common in 30-50 yrs.
 * **Common Sites:** 95% occur at **L4/L5** or **L5/S1**.
 * **MOI:** Axial loading + flexion + rotation → microtrauma to **annulus fibrosus**.
 
-### Lumbar Spinal Stenosis (LSS) (腰椎管狹窄症)
+### Lumbar Spinal Stenosis (LSS) (腰椎管狹窄症) Definition, MOI & Epidemiology
 * **Definition:** Narrowing of spinal canal, lateral recess, or intervertebral foramen.
 * **Epidemiology:** >60 yrs; most common reason for spinal surgery in elderly.
 * **Pathophysiology:** Degenerative cascade → disc desiccation → loss of disc height → facet hypertrophy + **ligamentum flavum (黃韌帶)** buckling.
 
-### Spondylolisthesis (脊椎滑脫)
+### Spondylolisthesis (脊椎滑脫) Definition & MOI
 * **Definition:** Forward translation of one vertebra over another.
 * **MOI (Degenerative):** Long-standing instability + facet arthropathy (most common L4/L5).
 * **MOI (Isthmic):** Fatigue # of **pars interarticularis (峽部)** from repetitive hyperextension (most common L5/S1).
 
-### Cauda Equina Syndrome (CES) (馬尾神經綜合症)
+### Cauda Equina Syndrome (CES) (馬尾神經綜合症) Definition & MOI
 * **Definition:** Surgical emergency; acute compression of multiple lumbosacral nerve roots below L1/L2 (conus medullaris).
 * **MOI:** Massive central disc herniation, tumor, trauma, epidural hematoma/abscess.
 

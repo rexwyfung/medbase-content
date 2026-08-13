@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orthopaedics/tendinopathies_ankle_instability.md",
+                "file": "orthopaedics/lumbar_spine_pathology.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tendinopathies_ankle_instability"
+              "title": "lumbar_spine_pathology"
             }
           }
         ],
@@ -222,6 +222,7 @@
   },
   "active": "89e5469b17b843fc",
   "lastOpenFiles": [
+    "orthopaedics/tendinopathies_ankle_instability.md",
     "orthopaedics/knee_sports_injuries.md",
     "orthopaedics/lumbar_spine_pathology.md",
     "orthopaedics/other_foot_ankle_conditions.md",
@@ -234,7 +235,6 @@
     "orthopaedics/hip_fractures.md",
     "orthopaedics/knee_arthritis.md",
     "orthopaedics/foot_ulcers.md",
-    "orthopaedics/tendinopathies_ankle_instability.md",
     "orthopaedics/common_shoulder_problems.md",
     "orthopaedics/scoliosis.md",
     "orthopaedics/spinal_infections.md",
