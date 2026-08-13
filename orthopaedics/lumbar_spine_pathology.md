@@ -17,6 +17,7 @@
 * **Definition:** Forward translation of one vertebra over another.
 * **MOI (Degenerative):** Long-standing instability + facet arthropathy (most common L4/L5).
 * **MOI (Isthmic):** Fatigue # of **pars interarticularis (峽部)** from repetitive hyperextension (most common L5/S1).
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/188927a68d73a5e5619fe92786b102b1.png)
 
 ### Cauda Equina Syndrome (CES) (馬尾神經綜合症) Definition & MOI
 * **Definition:** Surgical emergency; acute compression of multiple lumbosacral nerve roots below L1/L2 (conus medullaris).
