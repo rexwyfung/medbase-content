@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orthopaedics/hip_arthritis.md",
+                "file": "orthopaedics/lumbar_spine_pathology.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "hip_arthritis"
+              "title": "lumbar_spine_pathology"
             }
           }
         ],
@@ -220,8 +220,8 @@
   },
   "active": "89e5469b17b843fc",
   "lastOpenFiles": [
-    "orthopaedics/hip_fractures.md",
     "orthopaedics/hip_arthritis.md",
+    "orthopaedics/hip_fractures.md",
     "orthopaedics/knee_sports_injuries.md",
     "orthopaedics/knee_arthritis.md",
     "orthopaedics/foot_ulcers.md",
