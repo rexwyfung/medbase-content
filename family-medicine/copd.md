@@ -1,0 +1,104 @@
+# COPD
+
+## General
+
+**Examiner's Pearl**: GOLD staging: FEV1/FVC <0.70 post-bronchodilator; GOLD 1–4 by FEV1 % predicted
+**Answer**: GOLD分期：支氣管擴張劑後FEV1/FVC <0.70；依FEV1%預計值分GOLD 1–4
+
+**Examiner's Pearl**: ABCs of COPD: Anticholinergics (LAMA), Beta-agonists (LABA), Corticosteroids (ICS)
+**Answer**: COPD的ABCs：抗膽鹼能（LAMA）、β受體激動劑（LABA）、皮質類固醇（ICS）
+
+**Examiner's Pearl**: Smoking cessation is the ONLY intervention proven to slow FEV1 decline
+**Answer**: 戒煙是唯一被證實能減緩FEV1下降的干預措施
+
+**Examiner's Pearl**: MRC Dyspnoea Scale 0–5; CAT score ≥10 = high symptom burden
+**Answer**: MRC呼吸困難量表0–5；CAT評分≥10 = 症狀負擔重
+
+**Examiner's Pearl**: Exacerbations: CURB-65 for admission; infective triggers: H.influenzae, S.pneumoniae
+**Answer**: 急性加重：用CURB-65評估入院；感染誘因：流感嗜血桿菌、肺炎鏈球菌
+
+**Examiner's Pearl**: Pulmonary rehab reduces hospitalisations and improves QoL; offer to all GOLD 2+
+**Answer**: 肺康復減少住院並改善生活質素；GOLD 2+均應提供
+
+## Station 1: Station 1 — Management Interview
+
+**Scenario**: Mr Chan, 65M, retired construction worker. 40 pack-year smoking history. Presents with worsening shortness of breath on exertion and chronic daily cough with white sputum for the past 2 years. He can only walk 1 block before needing to stop. He is frustrated that he cannot play with his grandchildren.
+
+### Section 1 — Assessment (20%): 4P + BATHE + ICE
+4P FRAMEWORK:
+- Predisposing: 40 pack-year smoking history, occupational exposure (construction dust).
+- Precipitating: Gradual decline in lung function over years.
+- Perpetuating: Continued smoking (if applicable), lack of pulmonary rehabilitation, sedentary lifestyle due to breathlessness.
+- Protective: Motivated by desire to play with grandchildren, seeking medical help.
+
+BATHE (EXACT SCRIPTS):
+- Background: "You mentioned your breathing has been getting worse over the last two years. How is this affecting your day-to-day life now?"
+- Affect: "How do you feel when you have to stop and catch your breath after just one block?"
+- Trouble: "What is the most frustrating part of dealing with this shortness of breath?"
+- Handling: "How have you been managing the cough and the breathlessness at home?"
+- Empathy: "It must be incredibly frustrating to feel like your lungs are holding you back from enjoying time with your grandchildren. I can see how much this is affecting you."
+
+ICE (EXACT SCRIPTS):
+- Ideas: "Given your history of smoking and working in construction, what do you think is happening inside your lungs?"
+- Concerns: "Are you worried that this might be something like lung cancer, or that you might end up needing an oxygen tank?"
+- Expectations: "What were you hoping we could do today to help you get your breath back?"
+
+### Section 2 — Problem Identification (10%)
+PHYSICAL:
+- Chronic Obstructive Pulmonary Disease (COPD).
+- Need to rule out lung cancer (red flags: hemoptysis, weight loss) and heart failure (orthopnea, ankle edema).
+
+PSYCHOLOGICAL:
+- Frustration and mild depression due to loss of physical function and independence.
+
+SOCIAL:
+- Inability to participate in family activities (playing with grandchildren).
+
+BARRIERS:
+- Difficulty quitting smoking (if still smoking).
+- Poor inhaler technique (if previously prescribed).
+
+### Section 3 — RAPRIOP Management (50%)
+REASSURE:
+"I have listened to your lungs. While there is some damage from the years of smoking, there are no signs of lung cancer right now. We have very effective inhalers that can help open up your airways."
+
+ADVICE (EXACT SCRIPTS):
+- "COPD means the tiny air tubes in your lungs have become scarred and narrowed, like trying to breathe through a very thin straw. This is why you feel breathless."
+- "The absolute most important thing you can do is stop smoking completely. Every cigarette causes more permanent scarring."
+- "I also want you to stay active. It sounds backwards, but doing gentle exercise actually trains your muscles to use oxygen more efficiently, so your lungs don't have to work as hard."
+
+PRESCRIBE:
+- "I will prescribe a daily maintenance inhaler (LAMA or LABA/LAMA combination). This acts like a daily opener for your airways. You must use it every day, even if you feel well."
+- "I will also give you a 'rescue' inhaler (Salbutamol) to use only when you get suddenly breathless."
+- "I will arrange for you to get the annual flu vaccine and the pneumococcal vaccine to prevent chest infections."
+
+REFER:
+- Pulmonary Rehabilitation program to learn breathing techniques and safe exercises.
+- Smoking Cessation Clinic (if still smoking).
+
+INVESTIGATE:
+- Spirometry to confirm the diagnosis of COPD and assess severity.
+- Chest X-ray as a baseline and to rule out other pathology.
+
+OBSERVE:
+- Monitor exercise tolerance (e.g., how many blocks he can walk).
+
+PLAN:
+- Follow up in 1 month to check inhaler technique and review Spirometry results.
+
+SAFETY NET:
+"If you start coughing up green or yellow phlegm, get a fever, or feel so breathless that you cannot speak in full sentences, go to the A&E immediately as you might have a chest infection."
+
+### Section 4 — CIPS Communication Skills (20%)
+CHUNK AND CHECK:
+Explain the difference between the daily inhaler and the rescue inhaler, then ask, "Can you explain back to me which inhaler you will use every morning, and which one you will keep in your pocket for emergencies?"
+
+ICE:
+Directly address his frustration about his grandchildren by framing the treatment goal around improving his stamina to play with them.
+
+PATIENT-CENTRED:
+"I know quitting smoking is incredibly hard. Would you be willing to try nicotine patches to help with the cravings while we start the inhalers?"
+
+SIGNPOSTING:
+"First, let's talk about what is happening inside your lungs, and then we will discuss the inhalers that can help you get your breath back."
+

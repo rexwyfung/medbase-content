@@ -1,0 +1,90 @@
+# Constipation
+
+## General
+
+**Examiner's Pearl**: Rome IV criteria: <3 spontaneous bowel movements/week, straining, lumpy/hard stools.
+**Answer**: 羅馬IV標準：每週自發排便<3次、排便費力、糞便呈塊狀/堅硬。
+
+**Examiner's Pearl**: Red flags: Weight loss, rectal bleeding, anemia, sudden change in bowel habit >50 years old, family history of CRC.
+**Answer**: 危險信號：體重減輕、直腸出血、貧血、>50歲排便習慣突然改變、CRC家族史。
+
+**Examiner's Pearl**: First-line: Lifestyle (fiber, fluids, exercise). Second-line: Bulk-forming (psyllium), osmotic (lactulose/macrogol), stimulant (senna).
+**Answer**: 一線：生活方式（纖維、水分、運動）。二線：容積性（洋車前子）、滲透性（乳果糖/聚乙二醇）、刺激性（番瀉葉）。
+
+**Examiner's Pearl**: Check for secondary causes: Hypothyroidism, hypercalcemia, medications (opioids, iron, CCBs).
+**Answer**: 檢查繼發性原因：甲狀腺功能減退、高鈣血症、藥物（阿片類藥物、鐵劑、CCB）。
+
+## Station 1: Station 1 — Management Interview
+
+**Scenario**: A 70-year-old man complains of difficulty passing stool for the past 3 months. He strains a lot and feels incomplete emptying. He is worried about colon cancer.
+
+### Section 1 — Assessment (20%): 4P + BATHE + ICE
+PHYSICAL (4P):
+- Presenting complaint: Difficulty passing stool, straining, incomplete emptying for 3 months.
+- Precipitating factors: Low fiber diet, decreased mobility, possible medications.
+- Pattern: Chronic, worsening.
+- Palliation/Provocation: OTC laxatives help temporarily.
+
+BATHE:
+- Background: "You mentioned having trouble with your bowels for 3 months. How often are you going now?"
+- Affect: "How is this affecting your daily life and mood?"
+- Trouble: "What is the most uncomfortable part of this for you?"
+- Handling: "What have you tried so far to help with the constipation?"
+- Empathy: "It must be very frustrating and uncomfortable to deal with this every day."
+
+ICE:
+- Ideas: "What do you think might be causing this change in your bowel habits?"
+- Concerns: "You mentioned colon cancer. Are there specific reasons you are worried about that?"
+- Expectations: "What were you hoping we could do today to help you?"
+
+### Section 2 — Problem Identification (10%)
+PHYSICAL:
+- Chronic constipation in an elderly patient. Need to rule out secondary causes (medications, hypothyroidism, colorectal cancer).
+
+PSYCHOLOGICAL:
+- Anxiety regarding colorectal cancer.
+
+SOCIAL:
+- Impact on quality of life and comfort.
+
+BARRIERS:
+- Potential reluctance to undergo invasive investigations like colonoscopy.
+
+### Section 3 — RAPRIOP Management (50%)
+REASSURE:
+"Constipation is very common, especially as we get older. While it's important to investigate your concerns about cancer, there are many other common causes like diet or medications."
+
+ADVICE (EXACT SCRIPTS):
+- "Increase your fluid intake and eat more high-fiber foods like fruits, vegetables, and whole grains."
+- "Try to stay active with light exercise, like walking, to help stimulate your bowels."
+- "Establish a regular routine for going to the toilet, ideally after meals."
+
+PRESCRIBE:
+- "I will prescribe a gentle laxative (e.g., Macrogol or Senna) to help soften the stool and stimulate your bowels."
+
+REFER:
+- Refer for colonoscopy or surgical assessment if red flags are present or if symptoms persist despite treatment, given his age.
+
+INVESTIGATE:
+- Blood tests: FBC (to check for anemia), TFTs (hypothyroidism), Calcium, Renal function.
+- Fecal Immunochemical Test (FIT) to screen for occult blood.
+
+OBSERVE:
+- Monitor bowel habits and response to laxatives.
+
+PLAN:
+- Review in 2-4 weeks to assess response to treatment and discuss investigation results.
+
+### Section 4 — CIPS Communication Skills (20%)
+CHUNK AND CHECK:
+Explain the lifestyle changes, then ask: "Just to make sure I explained it clearly, what changes will you try to make to your diet?"
+
+ICE:
+Directly address his fear of colon cancer by explaining the purpose of the blood tests and FIT test, and the criteria for referral.
+
+PATIENT-CENTRED:
+"I know you are worried. We will take this step-by-step and investigate thoroughly."
+
+SIGNPOSTING:
+"First, let's talk about some lifestyle changes and medications to help you now, and then we will discuss the tests we need to do."
+
