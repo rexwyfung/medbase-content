@@ -20,7 +20,7 @@
 **Examiner's Pearl**: Avoid: Caffeine, alcohol, illicit drugs; sleep hygiene; regular exercise; diaphragmatic breathing; graded exposure (for panic + agoraphobia)
 **Answer**: 避免：咖啡因、酒精、非法藥物；睡眠衛生；定期運動；膈肌呼吸；分級暴露（驚恐障礙+廣場恐懼症）
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Mr Ho, 30M, IT professional. Presents with 6 months of constant worrying, muscle tension, and poor sleep. He frequently feels his heart racing and fears he is having a heart attack. Multiple previous ECGs were normal.
 
@@ -99,4 +99,72 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about why your heart is racing, and then we will discuss how we can turn down that internal alarm."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents with constant worrying, feeling on edge, and difficulty concentrating for the past 6 months. He says he cannot turn his brain off.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned you have been worrying constantly and feeling on edge. Can you tell me more about what goes through your mind?"
+
+ACTIVE LISTENING:
+Allow the patient to describe their racing thoughts without interrupting.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS GAD SYMPTOMS:
+- "How long have you been feeling this way? Is it most days?" (Needs to be >6 months for GAD).
+- "Do you feel restless or keyed up?"
+- "Do you get tired easily?"
+- "Is your mind going blank or are you having trouble concentrating?"
+- "Are your muscles feeling tense or sore?"
+- "How is your sleep? Do you have trouble falling or staying asleep?"
+
+SCREEN FOR PANIC ATTACKS:
+- "Have you ever had sudden episodes of intense fear where your heart races, you sweat, and feel like you cannot breathe?"
+
+SCREEN FOR DEPRESSION:
+- "Have you been feeling down, depressed, or hopeless?"
+
+SCREEN FOR ORGANIC CAUSES:
+- "Have you lost weight recently, or felt too hot all the time?" (Hyperthyroidism).
+- "How much caffeine or alcohol do you drink daily?"
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think is triggering all this worry?"
+
+CONCERNS:
+"Are you worried about the impact this is having on your physical health or your job?"
+
+EXPECTATIONS:
+"What were you hoping we could do today to help you relax?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on your symptoms of constant worry, muscle tension, and poor sleep lasting for 6 months, you are experiencing Generalized Anxiety Disorder."
+
+EXPLANATION:
+"This means your brain's threat-detection system is stuck in the 'ON' position. It is constantly scanning for danger and flooding your body with stress hormones, even when everything is fine. That is why you feel on edge and cannot turn your brain off."
+
+CHECK UNDERSTANDING:
+"Does that explanation make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"This is a very common condition, and it is highly treatable. You do not have to live feeling like this."
+
+INVESTIGATE:
+"I would like to do a quick blood test to check your thyroid, just to make sure it is not overactive and causing these symptoms."
+
+PLAN:
+"We can approach this in two ways: talking therapy (CBT) to help you manage the worrying thoughts, and medication (like an SSRI) to calm the chemical imbalance in your brain. Often, a combination works best."
+
+ADVICE:
+"Cut down on caffeine, as it acts like rocket fuel for anxiety. Try to do 20 minutes of exercise a day to burn off that excess adrenaline."
+
+SAFETY NET:
+"If you ever feel completely overwhelmed and have thoughts of harming yourself, please go to the A&E immediately."
+
+## Station 4 — Medical Record + Prescription
 

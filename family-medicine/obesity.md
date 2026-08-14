@@ -20,7 +20,7 @@
 **Examiner's Pearl**: 5As of obesity counselling: Ask permission, Assess, Advise, Agree, Assist (avoid weight stigma — use non-judgmental language)
 **Answer**: 肥胖諮詢的5As：詢問許可、評估、建議、同意、協助（避免體重歧視——使用非評判性語言）
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Mr Lam, 45M, IT manager. Presents for a routine check-up. BMI is 35 (Class II Obesity). He has a sedentary lifestyle, eats takeout for most meals, and feels tired all the time. He snores loudly at night. He wants a "quick fix" weight loss pill.
 
@@ -101,4 +101,73 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about why a pill alone won't work, and then we will discuss the sleep issue which I think is the real hidden problem here."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents for a check-up. He is significantly overweight, feels tired all the time, snores loudly, and wants a pill to help him lose weight quickly.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned you are looking for help with weight loss and feeling tired. Can you tell me more about your typical day and how you are feeling?"
+
+ACTIVE LISTENING:
+Allow the patient to describe their lifestyle and fatigue without interrupting.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS LIFESTYLE & DIET:
+- "Can you walk me through what you eat on a normal day?"
+- "How much physical activity or exercise do you get in a week?"
+- "Have you tried any diets before? What happened?"
+
+SCREEN FOR OBSTRUCTIVE SLEEP APNEA (OSA - MUST ASK):
+- "You mentioned loud snoring. Has anyone ever told you that you stop breathing for a few seconds while you sleep?"
+- "Do you wake up feeling unrefreshed, or with a morning headache?"
+- "Do you ever fall asleep during the day, like when sitting in a meeting or driving?"
+
+SCREEN FOR METABOLIC COMPLICATIONS:
+- "Do you find yourself feeling very thirsty or needing to pee often?" (Diabetes)
+- "Have you ever had chest pain or shortness of breath?" (Heart disease)
+
+PHYSICAL EXAM:
+- Measure Height, Weight, and calculate BMI.
+- Measure Blood Pressure (use appropriate large cuff size).
+- Examine the throat (Mallampati score) and neck circumference for OSA risk.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think is the main barrier stopping you from losing weight?"
+
+CONCERNS:
+"Are you worried about any specific health problems related to your weight?"
+
+EXPECTATIONS:
+"You mentioned wanting a weight loss pill. How did you expect the medication to work for you?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on your BMI, you have Class II Obesity. More importantly, your loud snoring and severe fatigue strongly suggest you have Obstructive Sleep Apnea."
+
+EXPLANATION:
+"Sleep Apnea means the tissues in your throat collapse while you sleep, blocking your airway. Your brain has to constantly wake you up slightly to breathe. This means you never get deep sleep, which leaves you exhausted and actually changes your metabolism, making it harder to lose weight."
+
+CHECK UNDERSTANDING:
+"Does that explanation make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"This is a very common combination of problems, and we have clear steps to tackle both the weight and the sleep issues."
+
+INVESTIGATE:
+"I will arrange a full set of blood tests to check your sugar, cholesterol, and thyroid. I am also referring you for a Sleep Study to confirm the sleep apnea."
+
+PLAN:
+"I am not prescribing a weight loss pill today. Pills only work alongside diet changes, and right now, your sleep apnea needs urgent attention. I will refer you to a dietitian to start working on a sustainable meal plan."
+
+ADVICE:
+"Start by cutting out all sugary drinks and replacing one takeout meal a day with something healthy. If you feel sleepy during the day, do not drive."
+
+SAFETY NET:
+"If you ever wake up gasping for air with severe chest pain, go to the A&E immediately."
+
+## Station 4 — Records & Prescription: Obesity
 

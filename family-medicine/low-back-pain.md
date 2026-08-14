@@ -20,7 +20,7 @@
 **Examiner's Pearl**: SLR test: positive if pain radiates below knee at <60° hip flexion (L4/L5/S1 nerve root involvement)
 **Answer**: 直腿抬高試驗：若髖部屈曲<60°時疼痛放射到膝以下則陽性（L4/L5/S1神經根受累）
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Mr Lee, 40M, warehouse worker. Complains of lower back pain for 2 weeks after lifting a heavy box. No red flags. He is demanding an MRI and 2 weeks of sick leave.
 
@@ -100,4 +100,72 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's discuss what is causing the pain, and then we will talk about the MRI and the sick leave you asked for."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents with lower back pain after lifting a heavy object at work. He is limping slightly but otherwise looks well.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned you hurt your back lifting something at work. Can you tell me exactly how it happened?"
+
+ACTIVE LISTENING:
+Allow the patient to describe the mechanism of injury without interrupting.
+
+### Define Problem + Systems Review (×2.5)
+SOCRATES FOR PAIN:
+- Site: "Can you point to exactly where it hurts the most?"
+- Character: "Is it a sharp, shooting pain, or a dull ache?"
+- Radiation: "Does the pain shoot down your legs? Past your knee?" (Sciatica screen)
+- Time/Relief: "What makes it better or worse? Does bending forward hurt?"
+
+SCREEN FOR RED FLAGS (CAUDA EQUINA & FRACTURE - MUST ASK):
+- "Have you noticed any numbness around your private parts or buttocks?"
+- "Have you had any accidents with your bowel or bladder, or difficulty passing urine?"
+- "Do you feel any weakness in your legs?"
+- "Have you had any recent fevers or unexplained weight loss?"
+- "Do you have a history of cancer or osteoporosis?"
+
+PHYSICAL EXAM:
+- Inspect spine, palpate for tenderness.
+- Perform Straight Leg Raise (SLR) test to check for nerve root irritation.
+- Check lower limb neurology (power, sensation, reflexes).
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think you have done to your back?"
+
+CONCERNS:
+"Are you worried about a slipped disc or needing surgery?"
+
+EXPECTATIONS:
+"What were you hoping we could do for your back today?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on your symptoms and my examination, you have a mechanical lower back strain. This means you have pulled a muscle or ligament, but there is no nerve damage."
+
+EXPLANATION:
+"When you lifted the heavy object, the muscles in your lower back stretched too far and became inflamed. It is painful, but it is not dangerous and it will heal."
+
+CHECK UNDERSTANDING:
+"Does that explanation make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"This is a very common injury and most people recover fully within a few weeks."
+
+INVESTIGATE:
+"We do not need to do an X-ray or MRI today because there are no danger signs, and a scan will not change our treatment plan."
+
+PLAN:
+"I will prescribe some strong anti-inflammatory painkillers. I will also give you a few days of sick leave to rest."
+
+ADVICE:
+"Do not stay in bed all day. Gentle movement like walking helps the muscles heal faster. Avoid heavy lifting."
+
+SAFETY NET:
+"If you lose control of your bladder or bowels, or feel numbness around your private parts, go to the A&E immediately."
+
+## Station 4 — Medical Record + Prescription
 

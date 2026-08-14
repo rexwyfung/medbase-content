@@ -14,7 +14,7 @@
 **Examiner's Pearl**: Complications: Mastoiditis, hearing loss, tympanic membrane perforation.
 **Answer**: 併發症：乳突炎、聽力受損、鼓膜穿孔。
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: A 4-year-old boy presents with ear pain, fever, and irritability for 2 days following a cold. Mother is concerned about hearing loss and demands antibiotics.
 
@@ -86,4 +86,65 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about how to manage his pain tonight, and then we will discuss the plan for antibiotics."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: A mother brings her 4-year-old son who has been pulling at his right ear and crying, especially at night, after a runny nose for 3 days.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned he's been pulling at his ear. Can you tell me more about how he's been acting?"
+
+ACTIVE LISTENING:
+Listen for signs of pain, fever, and preceding upper respiratory symptoms.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS SYMPTOMS:
+- "Does he have a fever? How high?"
+- "Is there any discharge or fluid coming out of the ear?"
+- "Is he eating and drinking normally?"
+
+RED FLAGS:
+- "Has he been unusually drowsy or difficult to wake up?"
+- "Is there any swelling or redness behind the ear?" (Mastoiditis)
+- "Has he been vomiting or complaining of a stiff neck?"
+
+PHYSICAL EXAM:
+- Otoscopy: Check for bulging, erythematous tympanic membrane with loss of light reflex.
+- Check mastoid process for tenderness.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"Why do you think his ear is hurting after the cold?"
+
+CONCERNS:
+"What worries you the most about his ear pain?"
+
+EXPECTATIONS:
+"What were you hoping we could do for him today?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on his symptoms and looking inside his ear, he has Acute Otitis Media, which is a middle ear infection."
+
+EXPLANATION:
+"The tube connecting the back of the nose to the ear gets blocked during a cold. Fluid builds up behind the eardrum, causing pressure and pain. It's like a blocked pipe."
+
+CHECK UNDERSTANDING:
+"Does that explanation make sense?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"This is very common and usually gets better on its own within a few days."
+
+PLAN:
+"We will use regular painkillers like Paracetamol and Ibuprofen to keep him comfortable. I will also give you a 'delayed prescription' for antibiotics to use ONLY if he doesn't improve in 48 hours."
+
+ADVICE:
+"Keep him hydrated. Prop his head up slightly when sleeping to reduce ear pressure."
+
+SAFETY NET:
+"If he becomes very lethargic, stops drinking, or if you see swelling behind the ear, bring him back immediately."
+
+## Station 4 — Medical Record + Prescription Writing
 

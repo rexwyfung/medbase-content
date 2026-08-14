@@ -14,7 +14,7 @@
 **Examiner's Pearl**: Treatment: Hyper (Carbimazole, PTU, Radioactive Iodine, Surgery). Hypo (Thyroxine replacement).
 **Answer**: 治療：甲亢（卡比馬唑、PTU、放射性碘、手術）。甲減（甲狀腺素替代治療）。
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: A 40-year-old woman complains of weight loss, palpitations, and feeling hot all the time for the past month. She feels anxious and has hand tremors.
 
@@ -89,4 +89,70 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about the tests we need to do to confirm the diagnosis, and then we will discuss the medication to help your symptoms today."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: A 40-year-old woman complains of weight loss, palpitations, and feeling hot all the time for the past month. She feels anxious and has hand tremors.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned having weight loss, a fast heart rate, and feeling hot. Can you tell me more about when this started?"
+
+ACTIVE LISTENING:
+Listen for the constellation of hyperthyroid symptoms and their progression.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS SYMPTOMS:
+- "Have you noticed any changes in your bowel habits, like diarrhea?"
+- "Are your menstrual periods lighter or less frequent?"
+- "Have you noticed any swelling in your neck or changes in your eyes?"
+
+RED FLAGS:
+- "Have you had any chest pain or shortness of breath?" (Cardiac complications)
+- "Have you felt extremely weak or confused?" (Thyroid storm)
+
+RISK FACTORS:
+- "Do you have a family history of thyroid problems?"
+- "Have you recently had a viral illness or been pregnant?"
+
+PHYSICAL EXAM:
+- Check pulse (rate and rhythm for AF).
+- Examine the neck for goiter or nodules.
+- Check for fine tremors in outstretched hands.
+- Eye exam for exophthalmos or lid lag.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"Do you have any thoughts on what might be causing these symptoms?"
+
+CONCERNS:
+"Are you worried about anything specific, like a heart problem?"
+
+EXPECTATIONS:
+"What were you hoping we could do today to help you feel better?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Your symptoms strongly suggest that you have an overactive thyroid gland, a condition called hyperthyroidism."
+
+EXPLANATION:
+"The thyroid is a gland in your neck that controls your body's metabolism. When it produces too much hormone, everything in your body speeds up, causing the weight loss, fast heart rate, and anxiety."
+
+CHECK UNDERSTANDING:
+"Does this make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"This is a treatable condition. We need to do some blood tests to confirm it, but we can start medication today to help with the symptoms."
+
+PLAN:
+"I will arrange blood tests to check your thyroid levels and an ECG for your heart. I will prescribe a medication to slow your heart rate and reduce the tremors."
+
+ADVICE:
+"Avoid caffeine and strenuous exercise for now. Try to get plenty of rest."
+
+SAFETY NET:
+"If you experience severe chest pain, severe shortness of breath, or feel extremely unwell, please go to the A&E immediately."
+
+## Station 4 — Medical Record + Prescription Writing
 

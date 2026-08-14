@@ -8,7 +8,7 @@
 **Examiner's Pearl**: Red flags: severe pain, photophobia, reduced visual acuity, ciliary flush, pupil abnormalities.
 **Answer**: 危險信號：劇痛、畏光、視力下降、睫狀體充血、瞳孔異常。
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: A 25-year-old man complains of a red, itchy, and watery right eye for 2 days. He woke up with his eyelids stuck together. His colleague had pink eye last week.
 
@@ -82,4 +82,68 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about how to stop this spreading to others, and then we will discuss the eye drops you need to use."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: A 25-year-old man complains of a red, itchy, and watery right eye for 2 days. He woke up with his eyelids stuck together. His colleague had pink eye last week.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned your right eye is red and itchy. Can you tell me more about when it started and how it feels?"
+
+ACTIVE LISTENING:
+Listen for the nature of the discharge, itching, and potential exposure to sick contacts.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS SYMPTOMS:
+- "Is there any discharge? Is it watery, yellow, or green?"
+- "Are your eyelids stuck together when you wake up?"
+- "Is the other eye affected at all?"
+
+RED FLAGS (Sight-threatening conditions):
+- "Are you experiencing any actual pain in the eye, rather than just grittiness or itching?" (Keratitis, Glaucoma, Uveitis)
+- "Has your vision become blurred or decreased?"
+- "Are you sensitive to light (photophobia)?"
+- "Do you wear contact lenses?" (High risk for Pseudomonas keratitis)
+
+PHYSICAL EXAM:
+- Check Visual Acuity (VA) in both eyes (crucial first step).
+- Inspect the eye: Look for conjunctival injection (redness), discharge, and eyelid swelling.
+- Check pupil size and reactivity (should be normal in conjunctivitis).
+- Fluorescein staining if corneal abrasion or ulcer is suspected (especially in contact lens wearers).
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"Do you think you caught this from your colleague?"
+
+CONCERNS:
+"Are you worried about your vision or spreading it to your family?"
+
+EXPECTATIONS:
+"What were you hoping we could do today to clear it up?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"You have infective conjunctivitis, which is an infection of the clear membrane covering the white part of your eye."
+
+EXPLANATION:
+"It is very contagious and you likely caught it from your colleague. The infection causes the blood vessels to swell, making the eye look red, and produces the sticky discharge you see in the morning."
+
+CHECK UNDERSTANDING:
+"Does this make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"Your vision is perfectly fine, and this condition usually clears up completely without any lasting damage."
+
+PLAN:
+"I will prescribe some antibiotic eye drops to help clear the infection faster. I will also give you a sick leave certificate to prevent spreading it at work."
+
+ADVICE:
+"Wash your hands frequently, do not share towels, and do not wear contact lenses until the infection is gone. Clean the discharge with cooled boiled water."
+
+SAFETY NET:
+"If you start experiencing severe eye pain, if the light hurts your eyes, or if your vision becomes blurry, you must seek medical attention immediately."
+
+## Station 4 — Medical Record + Prescription Writing
 

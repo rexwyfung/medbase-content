@@ -20,7 +20,7 @@
 **Examiner's Pearl**: Nitrofurantoin AVOID in: eGFR <30 (ineffective + nephrotoxic), G6PD deficiency, term pregnancy (risk of neonatal haemolysis)
 **Answer**: 呋喃妥因禁忌症：eGFR <30（無效+腎毒性）、G6PD缺乏症、足月妊娠（新生兒溶血風險）
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Ms Wong, 28F, sexually active. Presents with 2 days of dysuria, frequency, and lower abdominal pain. Urine dipstick is positive for nitrites and leukocytes. She is worried about a sexually transmitted infection (STI).
 
@@ -99,4 +99,73 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about what the urine test showed, and then we will discuss how to treat it and prevent it from happening again."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents with burning pain when passing urine and needing to go to the toilet frequently for the past 2 days.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned it burns when you pee and you are going frequently. Can you tell me more about what you are experiencing?"
+
+ACTIVE LISTENING:
+Allow the patient to describe the dysuria and frequency without interrupting.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS UTI SYMPTOMS:
+- "When did the burning start?"
+- "Are you passing small amounts of urine very often?"
+- "Is there any blood in your urine, or does it look cloudy or smell bad?"
+- "Do you have any pain in your lower tummy?"
+
+SCREEN FOR RED FLAGS (PYELONEPHRITIS - MUST ASK):
+- "Have you had a fever, chills, or felt shivery?"
+- "Do you have any pain in your back or your sides (flank pain)?"
+- "Have you been feeling nauseous or vomiting?"
+
+SCREEN FOR STIs / VAGINITIS:
+- "Do you have any unusual vaginal discharge or itching?"
+- "Is there any chance you could be pregnant?"
+
+PHYSICAL EXAM:
+- Palpate lower abdomen for suprapubic tenderness.
+- Percuss the back (costovertebral angle) to check for kidney tenderness.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think is causing this burning sensation?"
+
+CONCERNS:
+"Are you worried about a kidney infection or anything else?"
+
+EXPECTATIONS:
+"What were you hoping we could do to help you today?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on your symptoms and the urine test, you have a simple Urinary Tract Infection, or a bladder infection."
+
+EXPLANATION:
+"This happens when normal bacteria from the outside get pushed up into the short tube that leads to your bladder. The bacteria irritate the lining of the bladder, which causes the burning pain and the feeling that you constantly need to pee."
+
+CHECK UNDERSTANDING:
+"Does that explanation make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"This is very common in women and is easily treated with a short course of antibiotics."
+
+INVESTIGATE:
+"We have done the urine dipstick today which confirms the infection. We do not usually need to send it to the lab for a simple first-time infection."
+
+PLAN:
+"I will prescribe a 3-day course of antibiotics. You must finish all 3 days. I will also give you a powder to mix with water that makes your urine less acidic and stops the burning."
+
+ADVICE:
+"Drink plenty of water to flush the bacteria out. Always wipe from front to back, and try to pee immediately after sex."
+
+SAFETY NET:
+"If you develop a high fever, back pain, or start vomiting, go to the A&E immediately as it means the infection has reached your kidneys."
+
+## Station 4 — Medical Record + Prescription
 

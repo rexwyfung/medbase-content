@@ -20,7 +20,7 @@
 **Examiner's Pearl**: Risk modification: LDL target <1.8 mmol/L (or >50% reduction) for established CAD
 **Answer**: 風險控制：已確立CAD的LDL目標<1.8 mmol/L（或降低>50%）
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Mr Kwok, 60M, smoker. Presents with central chest tightness radiating to his left arm when walking uphill. The pain stops after 5 minutes of rest. He is terrified he is having a heart attack right now. ECG in clinic is normal.
 
@@ -99,4 +99,76 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about what the ECG shows and why you are safe right now, and then we will discuss the plan to investigate this further."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents with chest tightness when exerting himself (e.g., walking uphill). The pain radiates to his left arm but goes away with rest.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned getting chest tightness when you walk uphill. Can you tell me exactly what it feels like when it happens?"
+
+ACTIVE LISTENING:
+Allow the patient to describe the angina episode without interrupting.
+
+### Define Problem + Systems Review (×2.5)
+SOCRATES FOR CHEST PAIN:
+- Site: "Where exactly is the pain? Can you point to it?" (Usually central).
+- Character: "Is it a sharp pain, or more like a heavy pressure or tightness?"
+- Radiation: "Does the pain travel anywhere, like your jaw, neck, or left arm?"
+- Time: "How long does it last? Does it stop as soon as you rest?"
+- Exacerbating: "Does cold weather or eating a heavy meal make it happen faster?"
+
+SCREEN FOR RED FLAGS (UNSTABLE ANGINA / MI - MUST ASK):
+- "Have you ever had this pain while you were just sitting down or resting?"
+- "Has the pain ever lasted longer than 15 or 20 minutes?"
+- "Do you break out in a cold sweat, feel nauseous, or feel faint during the pain?"
+
+SCREEN FOR RISK FACTORS:
+- "Do you smoke?"
+- "Do you have high blood pressure, high cholesterol, or diabetes?"
+- "Is there a family history of heart disease?"
+
+PHYSICAL EXAM:
+- Check Blood Pressure and pulse.
+- Auscultate heart for murmurs.
+- Check peripheral pulses and for ankle edema.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think is causing this tightness in your chest?"
+
+CONCERNS:
+"Are you worried that you are having a heart attack?"
+
+EXPECTATIONS:
+"What were you hoping we could do to investigate this today?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on your description, you are experiencing Stable Angina. This is a warning sign from your heart."
+
+EXPLANATION:
+"The blood vessels supplying your heart have become narrowed. When you rest, enough blood gets through. But when you exert yourself, your heart needs more oxygen, and the narrowed pipes can't deliver it fast enough. That lack of oxygen causes the tightness."
+
+CHECK UNDERSTANDING:
+"Does that explanation make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"Because the pain stops when you rest, you are not having a heart attack right now. But we need to take this seriously to prevent one in the future."
+
+INVESTIGATE:
+"I will do an ECG right now to check your heart rhythm, and arrange blood tests for cholesterol and diabetes. I will also refer you to a cardiologist for a treadmill test."
+
+PLAN:
+"I will prescribe a GTN spray. If you get the pain, stop, sit down, and spray it under your tongue to open the blood vessels. I will also start you on Aspirin to thin your blood."
+
+ADVICE:
+"You must stop smoking immediately—it is the best thing you can do for your heart. Avoid heavy lifting or strenuous exercise until you see the specialist."
+
+SAFETY NET:
+"If you get chest pain while resting, or if the GTN spray does not work after 5 minutes, call an ambulance immediately."
+
+## Station 4 — Records & Prescription: Stable Angina
 

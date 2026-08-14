@@ -20,7 +20,7 @@
 **Examiner's Pearl**: Allopurinol: start LOW (50–100mg), titrate slowly q4w to target SUA; start only when acute attack settled + colchicine prophylaxis
 **Answer**: 別嘌醇：低劑量開始（50–100mg），每4週緩慢調整至目標SUA；只在急性發作平息後+秋水仙鹼預防下開始
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Mr Ng, 55M. Presents with a sudden, exquisitely painful, red, hot, and swollen right big toe that woke him up last night. He attended a seafood and beer buffet two days ago. He cannot bear weight on the foot. He wants antibiotics for the "infection".
 
@@ -100,4 +100,73 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about why this isn't an infection, and then we will discuss the specific medication that will dissolve these painful crystals."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents with a sudden, extremely painful, red, and swollen big toe. He attended a seafood buffet a couple of days ago.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned your big toe is very painful and swollen. Can you tell me exactly when and how this started?"
+
+ACTIVE LISTENING:
+Allow the patient to describe the acute onset of pain without interrupting.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS GOUT SYMPTOMS:
+- "Did the pain start suddenly, perhaps waking you up at night?"
+- "Is the joint red, hot to the touch, and swollen?"
+- "Is it so sensitive that even a bedsheet touching it causes severe pain?"
+- "Have you ever had an attack like this before?"
+
+SCREEN FOR TRIGGERS:
+- "What have you been eating and drinking over the last few days? Any seafood, red meat, or alcohol?"
+- "Have you started any new medications recently, like water pills (diuretics)?"
+
+SCREEN FOR RED FLAGS (SEPTIC ARTHRITIS - MUST ASK):
+- "Have you had any fevers, chills, or felt shivery?"
+- "Did you have any cuts, scrapes, or injuries to the toe before this started?"
+
+PHYSICAL EXAM:
+- Inspect the joint for severe erythema, swelling, and tophi (white nodules).
+- Gently palpate to confirm extreme tenderness and warmth.
+- Check temperature to rule out systemic fever.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think is causing this sudden swelling and pain?"
+
+CONCERNS:
+"Are you worried that it might be a serious infection?"
+
+EXPECTATIONS:
+"What were you hoping I could prescribe to stop the pain today?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on your symptoms and the recent seafood buffet, you are having an acute attack of Gout."
+
+EXPLANATION:
+"Gout happens when there is too much uric acid in your blood. Foods like seafood and alcohol break down into uric acid. When the levels get too high, the acid forms sharp crystals inside your joint, causing severe inflammation, redness, and pain."
+
+CHECK UNDERSTANDING:
+"Does that explanation make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"This is not a bacterial infection, so you don't need antibiotics. We have specific medications that work very fast to dissolve this inflammation."
+
+INVESTIGATE:
+"I will arrange a blood test to check your uric acid level and kidney function, but we will start treatment immediately."
+
+PLAN:
+"I will prescribe a strong anti-inflammatory medication (like Naproxen or Colchicine). Take it right away. The pain should improve significantly within a day."
+
+ADVICE:
+"Rest the foot and keep it elevated. Drink lots of water to flush out the uric acid. Avoid alcohol and high-purine foods like seafood and organ meats."
+
+SAFETY NET:
+"If you develop a high fever, or if the redness starts spreading rapidly up your foot, go to the A&E immediately as it could be an infection."
+
+## Station 4 — Records & Prescription: Gout
 

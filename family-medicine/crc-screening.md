@@ -20,7 +20,7 @@
 **Examiner's Pearl**: Singapore/HK preferred: FIT is non-invasive, cheap, effective for average-risk (USPSTF recommends multiple modalities including FIT, colonoscopy q10y, CT colonography)
 **Answer**: 新加坡/香港偏好：FIT無創、廉價、對平均風險有效（USPSTF建議多種方法包括FIT、每10年結腸鏡、CT結腸鏡）
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Mr Lee, 55M, asymptomatic. Presents for a routine check-up. He received a letter from the government about the Colorectal Cancer Screening Programme. He is hesitant because he feels perfectly healthy, has no family history, and is terrified of having a colonoscopy.
 
@@ -98,4 +98,68 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about why screening is important even when you feel healthy, and then I will explain exactly how the simple stool test works."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents to discuss the Colorectal Cancer Screening Programme. He is asymptomatic but hesitant to join because he fears having a colonoscopy.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You are here to discuss the Colorectal Cancer Screening Programme. Can you tell me what your thoughts are about it so far?"
+
+ACTIVE LISTENING:
+Allow the patient to express their fears and hesitations without interrupting.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS ELIGIBILITY & EXCLUSIONS:
+- "Have you ever been diagnosed with colorectal cancer or polyps?"
+- "Have you had a colonoscopy in the past 10 years, or a stool blood test in the past 2 years?"
+- "Do you have any close family members (parents, siblings) who had bowel cancer?"
+
+SCREEN FOR RED FLAGS (SYMPTOMS REQUIRING URGENT REFERRAL, NOT SCREENING):
+- "Have you noticed any blood in your stool recently?"
+- "Has there been a recent change in your bowel habits, like new constipation or diarrhea?"
+- "Have you lost any weight without trying?"
+- "Do you have any unexplained stomach pain?"
+
+PHYSICAL EXAM:
+- Generally not required for asymptomatic screening enrollment unless red flags are identified (in which case, examine abdomen and perform DRE).
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"Why do you think it might be unnecessary to do the screening if you feel healthy?"
+
+CONCERNS:
+"You mentioned being afraid of a colonoscopy. What part of it worries you the most?"
+
+EXPECTATIONS:
+"What information do you need from me today to help you decide whether to join?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"You are perfectly healthy with no symptoms, which makes you the ideal candidate for screening."
+
+EXPLANATION:
+"Bowel cancer starts as a small polyp that grows very slowly over many years. During this time, it causes no symptoms at all. The goal of screening is to find these polyps and remove them before they ever turn into cancer."
+
+CHECK UNDERSTANDING:
+"Does it make sense why we want to test you while you still feel completely healthy?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"You do not need a colonoscopy today. The screening programme is designed to be as easy and non-invasive as possible."
+
+INVESTIGATE:
+"The first step is simply a Faecal Immunochemical Test (FIT). It is a small tube you use at home to collect a tiny sample of your stool. It checks for hidden blood."
+
+PLAN:
+"If the stool test is normal, you are done, and we just repeat it in 2 years. You only need to consider a colonoscopy if the stool test finds blood."
+
+ADVICE:
+"Even if you need a colonoscopy later, it is done with medication to make you sleep, so you won't feel pain. But for now, let's just focus on the simple stool test."
+
+SAFETY NET:
+"Whether you join the programme or not, if you ever see blood in your stool or lose weight without trying, you must come back to see a doctor immediately."
+
+## Station 4 — Records & Prescription: CRC Screening
 

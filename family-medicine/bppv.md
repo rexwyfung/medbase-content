@@ -20,7 +20,7 @@
 **Examiner's Pearl**: Vestibular neuritis: continuous vertigo days-weeks after viral illness; no hearing loss; managed with short-term vestibular sedatives + vestibular rehab
 **Answer**: 前庭神經炎：病毒性疾病後持續眩暈數天至數週；無聽力損失；短期前庭鎮靜劑+前庭康復治療
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Madam Lee, 60F. Presents with sudden, severe spinning dizziness (vertigo) lasting for 30 seconds every time she rolls over in bed or looks up. Accompanied by nausea but no vomiting. No hearing loss or tinnitus. She is terrified she is having a stroke.
 
@@ -97,4 +97,74 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about why we know this isn't a stroke, and then we will discuss the physical maneuver we can do right now to put the crystals back in place."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents with sudden, severe spinning dizziness that lasts for a few seconds every time she rolls over in bed or looks up. She is terrified of having a stroke.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned having severe spinning dizziness. Can you tell me exactly what happens when you get an attack?"
+
+ACTIVE LISTENING:
+Allow the patient to describe the vertigo episodes without interrupting.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS VERTIGO SYMPTOMS:
+- "Does the room feel like it is spinning around you?"
+- "How long does the spinning last? Is it seconds, minutes, or hours?" (BPPV is usually <1 minute).
+- "Does it only happen when you move your head in a certain way, like rolling over in bed?"
+- "Do you feel nauseous or vomit during the spinning?"
+
+SCREEN FOR RED FLAGS (STROKE / TIA - MUST ASK):
+- "Have you had any weakness or numbness in your face, arms, or legs?"
+- "Have you had any difficulty speaking or swallowing?"
+- "Have you had any double vision or difficulty walking?"
+
+SCREEN FOR OTHER EAR PATHOLOGY (MENIERE'S / INFECTION):
+- "Have you noticed any hearing loss or ringing in your ears (tinnitus)?"
+- "Have you had a recent cold or ear infection?"
+
+PHYSICAL EXAM:
+- Perform a basic neurological exam (cranial nerves, cerebellar tests like finger-to-nose, gait).
+- Examine the ears with an otoscope.
+- Perform the Dix-Hallpike maneuver to confirm BPPV (warn patient it will make them dizzy).
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think is causing this spinning sensation?"
+
+CONCERNS:
+"You mentioned being terrified of a stroke. Are there any other serious conditions you are worried about?"
+
+EXPECTATIONS:
+"What were you hoping we could do to stop the dizziness today?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on your symptoms and the normal neurological exam, you have a condition called BPPV. It is a problem in your inner ear, not your brain."
+
+EXPLANATION:
+"Inside your ear, there are tiny balance crystals. Some have broken loose and floated into the wrong tube. When you move your head, they roll around and send false signals to your brain, making you feel like you are spinning."
+
+CHECK UNDERSTANDING:
+"Does that explanation make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"You are definitely not having a stroke. This is a benign, mechanical problem in the ear, and it is very treatable."
+
+INVESTIGATE:
+"We do not need to do a brain scan today because your symptoms are classic for BPPV and your nerve exam is normal."
+
+PLAN:
+"I can perform a series of head movements right now called the Epley Maneuver. It rolls the crystals back to where they belong. I will also prescribe some anti-sickness tablets."
+
+ADVICE:
+"After the maneuver, try to sleep with your head propped up on two pillows for a few nights, and avoid sudden head movements."
+
+SAFETY NET:
+"If you develop a severe headache, weakness on one side, or difficulty speaking, go to the A&E immediately as those are signs of a stroke."
+
+## Station 4 — Records & Prescription: BPPV
 

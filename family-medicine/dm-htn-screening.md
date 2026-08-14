@@ -14,7 +14,7 @@
 **Examiner's Pearl**: Diagnosis requires 2 abnormal results on different days (unless symptomatic with random glucose ≥11.1).
 **Answer**: 診斷需要在不同日子有2次異常結果（除非有症狀且隨機血糖≥11.1）。
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: A 45-year-old man comes in for a general check-up. His father recently had a heart attack. He is overweight and smokes 10 cigarettes a day. He wants to know if he has diabetes or high blood pressure.
 
@@ -87,4 +87,67 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's do some physical checks like your blood pressure, and then we will discuss the blood tests and lifestyle changes."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: A 45-year-old man comes in for a general check-up. His father recently had a heart attack. He is overweight and smokes 10 cigarettes a day. He wants to know if he has diabetes or high blood pressure.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned you'd like a check-up because of your father's recent heart attack. Can you tell me more about what happened to him and how you're feeling about it?"
+
+ACTIVE LISTENING:
+Listen for his underlying anxieties about his own health and his motivation for screening.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS SYMPTOMS (DM/HTN):
+- "Have you been feeling unusually thirsty or needing to pass urine more often, especially at night?" (Diabetes)
+- "Have you noticed any blurred vision or unexplained weight loss?"
+- "Do you frequently get headaches, dizzy spells, or nosebleeds?" (Hypertension)
+
+ASSESS CARDIOVASCULAR RISK FACTORS:
+- "How old was your father when he had his heart attack?" (Premature CAD if <55 for men).
+- "You mentioned you smoke 10 cigarettes a day. How long have you been smoking?"
+- "How much physical activity do you get in a typical week?"
+- "Do you drink alcohol? If so, how much?"
+
+PHYSICAL EXAM:
+- Measure Blood Pressure (proper technique, seated, rested).
+- Measure Height, Weight, and calculate BMI. Measure waist circumference.
+- Brief cardiovascular exam (heart sounds, peripheral pulses).
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"Do you have any symptoms like feeling very thirsty, urinating frequently, or having headaches?"
+
+CONCERNS:
+"Are you worried that you might already have diabetes or high blood pressure?"
+
+EXPECTATIONS:
+"What tests were you hoping we would do today?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Your blood pressure today is [insert reading], which is [normal/slightly high]. Because of your family history, weight, and smoking, you are at a higher risk for developing heart disease, diabetes, and high blood pressure."
+
+EXPLANATION:
+"These conditions often don't have any symptoms in the early stages, which is why screening is so important. They can slowly damage your blood vessels over time, leading to heart attacks or strokes."
+
+CHECK UNDERSTANDING:
+"Does this make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"The good news is that by identifying these risks now, we can take steps to prevent them from causing serious problems."
+
+PLAN:
+"I will arrange for some fasting blood tests to check your blood sugar and cholesterol levels. We will review the results together."
+
+ADVICE:
+"The most impactful change you can make is to stop smoking. We can discuss ways to help you quit. Also, try to incorporate 30 minutes of brisk walking into your daily routine and eat a balanced diet."
+
+SAFETY NET:
+"If you experience any chest pain, shortness of breath, or severe headaches before our next appointment, please go to the A&E immediately."
+
+## Station 4 — Medical Record + Prescription Writing
 

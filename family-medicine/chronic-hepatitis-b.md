@@ -14,7 +14,7 @@
 **Examiner's Pearl**: Family screening and vaccination for non-immune contacts is essential.
 **Answer**: 家庭篩查和為無免疫力的接觸者接種疫苗至關重要。
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: A 35-year-old man recently found out he is a Hepatitis B carrier during a routine health check. He is asymptomatic but very anxious about liver cancer and transmitting it to his pregnant wife.
 
@@ -88,4 +88,67 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about what being a carrier means for your health, and then we will discuss how to protect your wife and baby."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: A 35-year-old man recently found out he is a Hepatitis B carrier during a routine health check. He is asymptomatic but very anxious about liver cancer and transmitting it to his pregnant wife.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned you recently found out you are a Hepatitis B carrier. Can you tell me how you're feeling about this news?"
+
+ACTIVE LISTENING:
+Listen for his anxieties regarding his own health and his family's health.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS SYMPTOMS:
+- "Have you noticed any yellowing of your eyes or skin?" (Jaundice)
+- "Have you been feeling unusually tired or experiencing abdominal pain?"
+- "Have you noticed any dark urine or pale stools?"
+
+RED FLAGS:
+- "Have you vomited blood or noticed black, tarry stools?" (Variceal bleeding)
+- "Have you noticed any swelling in your legs or abdomen?" (Ascites)
+
+RISK FACTORS:
+- "Do you have a family history of Hepatitis B or liver cancer?"
+- "Do you drink alcohol regularly?"
+
+PHYSICAL EXAM:
+- Check for signs of chronic liver disease: jaundice, spider naevi, palmar erythema, hepatosplenomegaly, ascites.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you know about being a Hepatitis B carrier?"
+
+CONCERNS:
+"You mentioned your pregnant wife. Are you worried about passing it to her or the baby?"
+
+EXPECTATIONS:
+"What were you hoping we could discuss today to help ease your mind?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"You are a chronic Hepatitis B carrier. This means the virus is living in your liver, but it doesn't necessarily mean your liver is damaged right now."
+
+EXPLANATION:
+"Hepatitis B is a virus that can cause liver inflammation. Many people carry it without any symptoms. We need to do some blood tests and an ultrasound to check the health of your liver and see how active the virus is."
+
+CHECK UNDERSTANDING:
+"Does this make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"Many carriers live long, healthy lives. We will monitor you closely to catch any problems early."
+
+PLAN:
+"I will arrange blood tests to check your liver function and viral load, and an ultrasound of your liver. We will review the results together."
+
+ADVICE:
+"Your wife should get a blood test to check her immunity. The baby will receive the Hepatitis B vaccine and immunoglobulin immediately after birth. Avoid alcohol, as it can further damage your liver."
+
+SAFETY NET:
+"If you develop jaundice, severe abdominal pain, or vomit blood, go to the A&E immediately."
+
+## Station 4 — Medical Record + Prescription Writing
 

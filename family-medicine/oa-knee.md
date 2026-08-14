@@ -20,7 +20,7 @@
 **Examiner's Pearl**: Beware NSAIDs in elderly: GI bleed (add PPI), renal impairment, cardiovascular risk, hypertension worsening
 **Answer**: 老年患者NSAIDs注意事項：胃腸道出血（加PPI）、腎功能損害、心血管風險、高血壓加重
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Madam Wong, 65F, retired restaurant worker. Presents with bilateral knee pain for 3 years, worse on the right. Pain is worse after walking or climbing stairs, and relieved by rest. She has morning stiffness lasting 15 minutes. BMI is 32. She is asking for knee replacement surgery because her friend had it.
 
@@ -99,4 +99,74 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about why surgery isn't the first step, and then we will discuss the three things we can do today to reduce your pain."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents with chronic knee pain for several years, worse when walking or climbing stairs. She is overweight and wants a knee replacement.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned having knee pain for a few years and wanting surgery. Can you tell me more about how the pain is affecting you?"
+
+ACTIVE LISTENING:
+Allow the patient to describe their knee pain and mobility issues without interrupting.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS OA SYMPTOMS:
+- "Is the pain worse when you are active, like climbing stairs, and better when you rest?"
+- "Do your knees feel stiff when you wake up? How long does the stiffness last?" (Should be <30 mins for OA).
+- "Do you hear a grating or crunching sound when you move your knees?"
+
+SCREEN FOR RED FLAGS (INFECTION / INFLAMMATORY ARTHRITIS):
+- "Have your knees ever been suddenly red, hot, and swollen?"
+- "Have you had any fevers?"
+- "Do you have pain in other joints, like your hands or wrists?"
+
+ASSESS IMPACT & RISK FACTORS:
+- "How far can you walk before the pain stops you?"
+- "What kind of work did you do in the past?" (Occupational wear and tear).
+
+PHYSICAL EXAM:
+- Calculate BMI.
+- Inspect knees for deformity (e.g., varus/bow-legged).
+- Palpate for joint line tenderness and crepitus (crunching feeling).
+- Assess range of motion and check for effusions (fluid in the joint).
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think has caused this pain in your knees?"
+
+CONCERNS:
+"Are you worried about losing your ability to walk independently?"
+
+EXPECTATIONS:
+"You mentioned wanting surgery. What did you hope I would do for you today regarding that?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on your symptoms and my examination, you have Osteoarthritis in your knees. This is 'wear and tear' of the cartilage."
+
+EXPLANATION:
+"The smooth cartilage that cushions your knee bones has worn down over the years. Now, the bones are rubbing closer together, which causes the pain and the crunching sound when you walk."
+
+CHECK UNDERSTANDING:
+"Does that explanation make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"This is a very common condition. While we cannot replace the worn cartilage, there is a lot we can do to reduce the pain without jumping straight to surgery."
+
+INVESTIGATE:
+"I will arrange an X-ray of your knees while you are standing up. This will show us exactly how much the cartilage has worn down."
+
+PLAN:
+"Before any surgeon will consider a knee replacement, we must try conservative treatment. I will prescribe regular painkillers and a gel to rub on the knee. I will also refer you to physiotherapy."
+
+ADVICE:
+"The two most important things you can do are lose weight and strengthen your thigh muscles. Every pound lost takes 4 pounds of pressure off your knees. The physiotherapist will teach you safe exercises."
+
+SAFETY NET:
+"If your knee suddenly becomes red, hot, swollen, and extremely painful, go to the A&E immediately as it could be an infection."
+
+## Station 4 — Records & Prescription: OA Knee
 

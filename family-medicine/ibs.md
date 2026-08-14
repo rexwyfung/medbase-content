@@ -20,7 +20,7 @@
 **Examiner's Pearl**: Gut-brain axis: high rates of anxiety/depression comorbidity; treat both; antidepressants have gut effects
 **Answer**: 腸腦軸：高比率焦慮/抑鬱合併症；同時治療；抗抑鬱藥有腸道作用
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Ms Cheung, 28F, accountant. Presents with 6 months of intermittent lower abdominal cramps, bloating, and alternating diarrhea and constipation. Symptoms are worse during tax season and improve after opening her bowels. No weight loss or blood in stool. She is worried about bowel cancer as her uncle recently passed away from it.
 
@@ -98,4 +98,74 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about why we can safely say this isn't cancer, and then we will discuss how to calm your sensitive gut."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents with abdominal cramps, bloating, and unpredictable bowel movements (sometimes diarrhea, sometimes constipation) for the past 6 months. She is very stressed at work.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned having stomach cramps and unpredictable bowel movements. Can you tell me more about what you have been experiencing?"
+
+ACTIVE LISTENING:
+Allow the patient to describe their gastrointestinal symptoms without interrupting.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS IBS SYMPTOMS (ROME IV CRITERIA):
+- "How often do you get this abdominal pain? Is it at least once a week?"
+- "Does the pain get better or worse after you open your bowels?"
+- "Have you noticed a change in how often you go to the toilet, or what the stool looks like?"
+- "Do you feel bloated or full of gas?"
+
+SCREEN FOR RED FLAGS (CANCER / IBD - MUST ASK):
+- "Have you ever seen any blood in your stool, or is it ever black and tarry?"
+- "Have you lost any weight without trying?"
+- "Does the pain or the need to go to the toilet ever wake you up from sleep at night?"
+- "Do you have a family history of bowel cancer or inflammatory bowel disease?"
+
+SCREEN FOR TRIGGERS:
+- "Does stress make it worse?"
+- "Have you noticed any specific foods that trigger it, like dairy or spicy food?"
+
+PHYSICAL EXAM:
+- Palpate abdomen for tenderness or masses.
+- Perform a Digital Rectal Examination (DRE) if indicated (usually not needed for classic IBS in young patients without red flags, but mention considering it).
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think is causing your stomach to be so unpredictable?"
+
+CONCERNS:
+"Are you worried about something serious like bowel cancer?"
+
+EXPECTATIONS:
+"What were you hoping we could do to help your stomach today?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on your symptoms and the fact that you have no danger signs, you have Irritable Bowel Syndrome, or IBS."
+
+EXPLANATION:
+"IBS means your gut is structurally normal, but it is highly sensitive. The nerves in your gut overreact to normal things like food digestion or stress. This causes the muscles to spasm, leading to cramps, bloating, and changes in your bowel habits."
+
+CHECK UNDERSTANDING:
+"Does that explanation make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"This is a very common condition. It is uncomfortable, but it will never turn into cancer or damage your bowels."
+
+INVESTIGATE:
+"I will order some basic blood tests just to be 100% sure there is no hidden inflammation or anemia, but I expect them to be normal."
+
+PLAN:
+"I will prescribe an anti-spasmodic tablet to take before meals to stop the cramps. We can also use medications to help with the diarrhea or constipation when they happen."
+
+ADVICE:
+"Keep a food diary to identify your triggers. Try to manage your work stress, as the brain and gut are closely linked. Eat regular meals and chew your food well."
+
+SAFETY NET:
+"If you ever see blood in your stool, lose weight without trying, or if the pain wakes you up at night, please come back immediately."
+
+## Station 4 — Records & Prescription: IBS
 

@@ -14,7 +14,7 @@
 **Examiner's Pearl**: Systemic Rx: Oral antibiotics (Doxycycline), oral contraceptives (females), oral Isotretinoin (severe/scarring - requires specialist).
 **Answer**: 全身治療：口服抗生素（多西環素）、口服避孕藥（女性）、口服異維A酸（嚴重/留疤 - 需要專科醫生）。
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: A 16-year-old boy presents with worsening acne on his face and back for the past 6 months. He feels very self-conscious and avoids social events.
 
@@ -87,4 +87,71 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about a good daily skincare routine, and then we will discuss the prescription medications."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: A 16-year-old boy presents with worsening acne on his face and back for the past 6 months. He feels very self-conscious and avoids social events.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned your acne has been getting worse. Can you tell me more about how it's been affecting you?"
+
+ACTIVE LISTENING:
+Listen for the duration, severity, and the psychological impact of the acne.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS SYMPTOMS:
+- "Where exactly do you get the spots? Just your face, or also your chest and back?"
+- "Are they mostly blackheads and whiteheads, or do you get large, painful lumps?"
+- "Have you noticed any scarring or dark marks left behind after a spot heals?"
+
+RED FLAGS (Severe Acne / Psychological Impact):
+- "Are you getting deep, painful cysts?"
+- "Is the acne making you feel very depressed or anxious?"
+- "Are you avoiding going to school or seeing friends because of it?"
+
+RISK FACTORS / CURRENT MANAGEMENT:
+- "What products are you currently using to wash your face?"
+- "Have you tried any over-the-counter acne treatments?"
+- "Are you taking any supplements, like whey protein?" (Can exacerbate acne)
+
+PHYSICAL EXAM:
+- Inspect the face, chest, and back.
+- Assess the type of lesions (comedones, papules, pustules, nodules, cysts).
+- Look for signs of scarring (ice-pick, rolling, boxcar scars) or post-inflammatory hyperpigmentation.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think is causing the acne to get worse?"
+
+CONCERNS:
+"Are you worried about scarring?"
+
+EXPECTATIONS:
+"What were you hoping we could do today to help clear your skin?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"You have moderate acne vulgaris. This is very common during your teenage years."
+
+EXPLANATION:
+"During puberty, your body produces more hormones, which makes your skin produce more oil. This oil mixes with dead skin cells and blocks your pores, allowing bacteria to grow and cause the red, swollen spots."
+
+CHECK UNDERSTANDING:
+"Does this make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"We have very effective treatments that can clear your skin and prevent scarring, but it will take some time and patience."
+
+PLAN:
+"I will prescribe a topical cream to unblock your pores and an antibiotic lotion to kill the bacteria. If this isn't enough, we can consider oral antibiotics later."
+
+ADVICE:
+"Wash your face gently twice a day. Never squeeze your spots, as this causes scarring. The creams might make your skin dry and sensitive to the sun, so use a non-comedogenic moisturizer and sunscreen."
+
+SAFETY NET:
+"It takes about 6 to 8 weeks to see a real difference. If your skin becomes very red, peeling, or painful from the creams, stop using them and come back to see me."
+
+## Station 4 — Medical Record + Prescription Writing
 

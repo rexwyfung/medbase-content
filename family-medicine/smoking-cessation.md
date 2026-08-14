@@ -20,7 +20,7 @@
 **Examiner's Pearl**: Withdrawal symptoms: irritability, anxiety, difficulty concentrating, increased appetite, restlessness — peak 2-3 days, resolve by 2-4 weeks. Cravings last 3-5 minutes each
 **Answer**: 戒斷症狀：易怒、焦慮、難以集中注意力、食慾增加、坐立不安——2-3天達到峰值，2-4週消退。每次渴望持續3-5分鐘
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Mr Cheung, 55M, chronic smoker (1 pack/day for 30 years). Presents for a routine check-up. He has a chronic morning cough but no red flags. He has tried quitting cold turkey twice but failed due to severe cravings and irritability. His wife recently had a heart attack.
 
@@ -101,4 +101,70 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about why quitting was so hard last time, and then we will discuss the medications that can make it much easier this time."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient is a chronic smoker who wants to quit but has failed multiple times due to severe cravings. He is asking for help.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned you want to quit smoking but have found it very difficult in the past. Can you tell me more about your previous attempts?"
+
+ACTIVE LISTENING:
+Allow the patient to describe their struggles with quitting without interrupting.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS SMOKING HISTORY (PACK-YEARS):
+- "How many cigarettes do you smoke a day?"
+- "How many years have you been smoking?"
+
+ASSESS NICOTINE DEPENDENCE (FAGERSTROM TEST):
+- "How soon after you wake up do you smoke your first cigarette?" (Within 5 mins = high dependence).
+- "Do you wake up in the middle of the night to smoke?"
+
+ASSESS PREVIOUS ATTEMPTS:
+- "What was the longest time you managed to stop?"
+- "What made you start smoking again? Was it stress, cravings, or social situations?"
+
+SCREEN FOR COMPLICATIONS:
+- "Do you have a chronic cough, shortness of breath, or chest pain?"
+- "Have you ever coughed up blood?"
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"Why is it important for you to quit right now?"
+
+CONCERNS:
+"What are you most worried about when you think about quitting again?"
+
+EXPECTATIONS:
+"What kind of help were you hoping to get from me today?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"You have a high level of nicotine dependence. This is a physical addiction, not just a bad habit."
+
+EXPLANATION:
+"When you try to stop suddenly, your brain goes into withdrawal because it is missing the nicotine it is used to. This causes the severe cravings, irritability, and anxiety that made you start smoking again in the past."
+
+CHECK UNDERSTANDING:
+"Does that explain why it was so hard to quit using just willpower?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"Because this is a medical addiction, we have medical treatments that can make it much easier. You don't have to suffer through those severe withdrawals."
+
+INVESTIGATE:
+"I would like to arrange a chest X-ray just to make sure your lungs are okay, given how long you have been smoking."
+
+PLAN:
+"I recommend using Nicotine Replacement Therapy. We can use a patch to give you a steady dose of clean nicotine to stop the background cravings, and gum to chew when you get a sudden urge."
+
+ADVICE:
+"Let's set a Quit Date. Throw away all your ashtrays and lighters the night before. Tell your family you are quitting so they can support you."
+
+SAFETY NET:
+"If you experience severe chest pain, shortness of breath, or cough up blood, please go to the A&E immediately."
+
+## Station 4 — Medical Record + Prescription
 

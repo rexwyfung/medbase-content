@@ -20,7 +20,7 @@
 **Examiner's Pearl**: Thunderclap headache: worst headache of life, sudden onset, peaks in <1 min → SUBARACHNOID HAEMORRHAGE until proven otherwise → CT head immediately + LP if CT negative
 **Answer**: 雷鳴樣頭痛：有生以來最嚴重的頭痛，突然發作，<1分鐘達到峰值→除非證明否則為蛛網膜下腔出血→立即CT頭部+若CT陰性則腰椎穿刺
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Ms Chan, 25F, office worker. Presents with severe, throbbing, one-sided headaches lasting 24-48 hours, occurring twice a month. Accompanied by nausea and sensitivity to light. She has to take sick leave during attacks. Paracetamol does not help.
 
@@ -99,4 +99,72 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about why Paracetamol isn't working, and then we will discuss a stronger medication specifically designed for migraines."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents with severe, throbbing headaches on one side of the head, accompanied by nausea and sensitivity to light. Paracetamol is not helping.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned having severe headaches that Paracetamol isn't helping. Can you tell me more about what these headaches feel like?"
+
+ACTIVE LISTENING:
+Allow the patient to describe the headache characteristics without interrupting.
+
+### Define Problem + Systems Review (×2.5)
+SOCRATES FOR HEADACHE:
+- Site: "Is it on one side of your head or both?"
+- Character: "Is it a throbbing, pounding pain, or a tight band?"
+- Time: "How long does an attack usually last?"
+- Exacerbating: "Does light, sound, or physical activity make it worse?"
+- Associated: "Do you feel sick to your stomach or vomit?"
+- Aura: "Do you see flashing lights or zig-zag lines before the headache starts?"
+
+SCREEN FOR RED FLAGS (MUST ASK):
+- "Have you ever had a headache that hit you suddenly like a thunderclap?" (SAH)
+- "Do you have any weakness, numbness, or difficulty speaking during the headache?" (Stroke/TIA)
+- "Have you had a fever or a stiff neck?" (Meningitis)
+- "Is the headache worse in the morning or when you bend over?" (Raised ICP)
+
+PHYSICAL EXAM:
+- Perform a basic neurological exam (cranial nerves, power, coordination).
+- Check optic fundi for papilloedema (if equipped).
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think triggers these headaches?"
+
+CONCERNS:
+"Are you worried about a brain tumor or something serious?"
+
+EXPECTATIONS:
+"What were you hoping I could prescribe for you today?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on your symptoms—the throbbing pain on one side, the nausea, and sensitivity to light—you are suffering from Migraines."
+
+EXPLANATION:
+"A migraine is a neurological condition where the blood vessels and nerves in your brain become highly sensitive and inflamed. That is why normal painkillers like Paracetamol often don't work well enough."
+
+CHECK UNDERSTANDING:
+"Does that explanation make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"Your neurological exam is completely normal, so there are no signs of anything dangerous like a tumor."
+
+INVESTIGATE:
+"We do not need to do a brain scan today because your symptoms are classic for migraines and your exam is normal."
+
+PLAN:
+"I will prescribe a specific migraine medication called a Triptan. You must take it at the very first sign of the headache. I will also give you an anti-sickness tablet."
+
+ADVICE:
+"Keep a headache diary to track what you eat, your sleep, and stress levels to identify your triggers. When an attack hits, rest in a dark, quiet room."
+
+SAFETY NET:
+"If you ever get a sudden thunderclap headache, develop weakness on one side, or have a stiff neck with a fever, go to the A&E immediately."
+
+## Station 4 — Medical Record + Prescription
 

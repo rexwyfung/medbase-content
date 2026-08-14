@@ -14,7 +14,7 @@
 **Examiner's Pearl**: Treatment: Calcium & Vitamin D, Bisphosphonates (Alendronate) - take on empty stomach, sit upright for 30 mins.
 **Answer**: 治療：鈣和維生素D、雙膦酸鹽（阿侖膦酸鈉）- 空腹服用，保持直坐30分鐘。
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: A 65-year-old woman presents for a follow-up after a DEXA scan showed a T-score of -2.8 in her lumbar spine. She is asymptomatic but worried about breaking bones.
 
@@ -87,4 +87,68 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about what the scan results mean, and then we will discuss the medication and lifestyle changes to protect your bones."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: A 65-year-old woman presents for a follow-up after a DEXA scan showed a T-score of -2.8 in her lumbar spine. She is asymptomatic but worried about breaking bones.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"We have the results of your bone density scan today. How have you been feeling since we last saw you?"
+
+ACTIVE LISTENING:
+Listen for any new symptoms like back pain or recent falls.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS SYMPTOMS:
+- "Have you had any back pain recently?"
+- "Have you noticed any loss of height or a stooped posture?"
+
+RED FLAGS (Fractures):
+- "Have you had any falls recently?"
+- "Have you broken any bones in the past from a minor bump or fall?"
+
+RISK FACTORS:
+- "Did your parents ever have a hip fracture?"
+- "Do you smoke or drink alcohol regularly?"
+- "Have you ever taken steroid medications for a long time?"
+
+PHYSICAL EXAM:
+- Measure height and compare with previous records.
+- Examine the spine for kyphosis or tenderness.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you understand about osteoporosis?"
+
+CONCERNS:
+"You mentioned being worried about breaking bones. Has anyone in your family had a hip fracture?"
+
+EXPECTATIONS:
+"What were you hoping we could do today to protect your bones?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Your DEXA scan shows a T-score of -2.8. Any score below -2.5 means you have osteoporosis."
+
+EXPLANATION:
+"Osteoporosis means your bones have lost density and become more fragile. They are like a sponge with larger holes, making them weaker and more likely to break if you fall."
+
+CHECK UNDERSTANDING:
+"Does this make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"We have very effective medications that can help rebuild your bone strength and lower your risk of fractures."
+
+PLAN:
+"I will prescribe a medication called Alendronate to take once a week, along with Calcium and Vitamin D supplements."
+
+ADVICE:
+"Take the Alendronate on an empty stomach with a full glass of water, and stay upright for 30 minutes. Also, do weight-bearing exercises and make sure your home is safe to prevent falls."
+
+SAFETY NET:
+"If you experience severe heartburn or jaw pain after starting the medication, or if you have a fall and severe pain, please see a doctor."
+
+## Station 4 — Medical Record + Prescription Writing
 

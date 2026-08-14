@@ -20,7 +20,7 @@
 **Examiner's Pearl**: PPI choice: Omeprazole 20mg OD or 40mg OD (active ulcer); take 30 mins before meal for maximum effect
 **Answer**: PPI選擇：奧美拉唑20mg每日一次或40mg每日一次（活動性潰瘍）；飯前30分鐘服用效果最佳
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Mr Chan, 45M, office worker. Complains of upper abdominal pain and bloating for 3 months. Positive Urea Breath Test for H. pylori. He is anxious about stomach cancer because his uncle died of it.
 
@@ -97,4 +97,71 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about what this bacteria is, and then we will discuss the specific treatment to get rid of it."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents with burning pain in the upper abdomen, bloating, and feeling full quickly after eating for the past month.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned having stomach pain and bloating. Can you tell me more about what you have been experiencing?"
+
+ACTIVE LISTENING:
+Allow the patient to describe the pain and discomfort without interruption.
+
+### Define Problem + Systems Review (×2.5)
+SOCRATES FOR PAIN:
+- Site: "Where exactly is the pain? Can you point to it with one finger?" (Epigastric)
+- Character: "What does the pain feel like? Is it burning, aching, or sharp?"
+- Time/Relief: "Is it worse before or after meals? Does eating or drinking milk help?"
+
+SCREEN FOR ALARM SYMPTOMS (RED FLAGS - MUST ASK):
+- "Have you lost any weight without trying?"
+- "Do you have any difficulty or pain when swallowing food?"
+- "Have you noticed any black, tarry stools or vomited blood or coffee grounds?"
+- "Have you felt a lump in your stomach or noticed your skin turning yellow?"
+
+MEDICATION HISTORY:
+- "Are you taking any painkillers like Ibuprofen, Naproxen, or Aspirin?" (NSAIDs cause ulcers).
+
+PHYSICAL EXAM:
+- Palpate abdomen for epigastric tenderness, masses, or organomegaly.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think is causing this stomach pain?"
+
+CONCERNS:
+"Are you worried about anything serious, like a bleeding ulcer or cancer?"
+
+EXPECTATIONS:
+"What were you hoping we could do for your stomach today?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on your symptoms and the lack of danger signs, you have what we call Dyspepsia, which is indigestion or inflammation of the stomach lining."
+
+EXPLANATION:
+"This can be caused by excess stomach acid, a common stomach bacteria called H. pylori, or certain painkillers. The acid irritates the lining of your stomach, causing that burning pain and bloating."
+
+CHECK UNDERSTANDING:
+"Does that make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"This is very common and usually responds very well to medication."
+
+INVESTIGATE:
+"I would like to arrange a Urea Breath Test to check for the H. pylori bacteria."
+
+PLAN:
+"I will prescribe a medication called a PPI (like Omeprazole) to reduce your stomach acid for 4 weeks. You must stop taking it 2 weeks before the breath test."
+
+ADVICE:
+"Avoid spicy, fatty foods, caffeine, and alcohol. Eat smaller, regular meals rather than large heavy ones."
+
+SAFETY NET:
+"If you vomit blood, pass black stools, or have sudden severe pain, go to the Accident and Emergency department immediately."
+
+## Station 4 — Medical Record + Prescription
 

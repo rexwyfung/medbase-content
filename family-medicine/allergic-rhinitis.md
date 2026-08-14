@@ -20,7 +20,7 @@
 **Examiner's Pearl**: Comorbidities: asthma (united airways — treat both), sinusitis, conjunctivitis, adenoidal hypertrophy
 **Answer**: 合併症：哮喘（統一氣道——同時治療）、鼻竇炎、結膜炎、腺樣體肥大
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Ms Lee, 22F, university student. Presents with chronic sneezing, runny nose, and itchy, watery eyes for the past 3 months. It is worse in the mornings and when she is in the library. It is affecting her concentration for upcoming exams. She has been using over-the-counter sedating antihistamines which make her too sleepy to study.
 
@@ -99,4 +99,78 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about how to reduce the dust in your environment, and then we will discuss the medications that won't make you sleepy."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents with chronic sneezing, a runny nose, and itchy eyes for several months. It is worse in the mornings.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned having a lot of sneezing and itchy eyes. Can you tell me more about when this happens and how it affects you?"
+
+ACTIVE LISTENING:
+Allow the patient to describe their allergy symptoms without interrupting.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS RHINITIS SYMPTOMS:
+- "Is your nose runny or blocked? What color is the mucus?" (Should be clear).
+- "Are your eyes itchy, red, or watery?"
+- "Do you have an itchy throat or ears?"
+- "Is it worse at any particular time of day, like when you wake up?"
+
+SCREEN FOR TRIGGERS:
+- "Do you have pets at home?"
+- "Is your home dusty or damp?"
+- "Does it get worse when you go outside during certain seasons?"
+
+SCREEN FOR ATOPY:
+- "Do you have a history of asthma or eczema?"
+
+SCREEN FOR RED FLAGS (SINUSITIS / POLYPS):
+- "Do you have any pain or pressure in your face?"
+- "Have you lost your sense of smell?"
+- "Is the discharge only coming from one side of your nose, or is it thick and green?"
+
+PHYSICAL EXAM:
+- Inspect nasal mucosa (looking for pale, boggy turbinates).
+- Check eyes for conjunctival injection.
+- Palpate sinuses for tenderness.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think you are allergic to?"
+
+CONCERNS:
+"Are you worried about relying on medication long-term?"
+
+EXPECTATIONS:
+"What were you hoping I could prescribe to help you today?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on your symptoms, you have Allergic Rhinitis, commonly known as hay fever or nasal allergies."
+
+EXPLANATION:
+"Your immune system is mistaking harmless things, like dust mites in your bed, for a threat. It releases chemicals that cause inflammation, making your nose run and your eyes itch."
+
+CHECK UNDERSTANDING:
+"Does that explanation make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"This is very common and we have excellent treatments that can control the symptoms completely."
+
+INVESTIGATE:
+"We do not need to do allergy blood tests right now. We usually try medication first to see if it controls the problem."
+
+PLAN:
+"I will prescribe a non-drowsy antihistamine tablet to take daily, and a steroid nasal spray. The nasal spray is the most important part—it reduces the inflammation directly in your nose."
+
+ADVICE:
+"Wash your bedsheets in hot water weekly to kill dust mites. Try to keep your windows closed if pollen is high. Use the nasal spray every day, not just when you feel bad."
+
+SAFETY NET:
+"If you get severe facial pain, a high fever, or thick green mucus, come back as it might be a sinus infection."
+
+## Station 4 — Records & Prescription: Allergic Rhinitis
 

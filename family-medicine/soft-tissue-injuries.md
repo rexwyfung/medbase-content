@@ -14,7 +14,7 @@
 **Examiner's Pearl**: Avoid HARM in first 48-72 hrs: Heat, Alcohol, Running, Massage.
 **Answer**: 首48-72小時避免HARM：熱敷、酒精、跑步、按摩。
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: A 25-year-old man twisted his right ankle while playing basketball yesterday. It is swollen and painful, but he can walk on it with a limp. He wants an X-ray.
 
@@ -88,4 +88,66 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about why an X-ray isn't necessary right now, and then we will discuss how you can treat the sprain at home."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: A 25-year-old man twisted his right ankle while playing basketball yesterday. It is swollen and painful, but he can walk on it with a limp. He wants an X-ray.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned you twisted your ankle playing basketball. Can you tell me exactly how it happened?"
+
+ACTIVE LISTENING:
+Listen for the mechanism of injury (e.g., inversion) and immediate symptoms.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS SYMPTOMS:
+- "Did you hear a pop or crack when it happened?"
+- "Were you able to walk on it immediately after the injury?"
+- "Can you walk on it now, even if it's painful?"
+
+RED FLAGS (Fracture):
+- "Is the pain so severe that you cannot put any weight on it at all?"
+- "Is there any numbness or tingling in your foot?"
+
+PHYSICAL EXAM (Apply Ottawa Ankle Rules):
+- Inspect for swelling, bruising, and deformity.
+- Palpate the posterior edge of the lateral and medial malleoli (lower 6cm).
+- Palpate the base of the 5th metatarsal and the navicular bone.
+- Assess ability to bear weight for 4 steps.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think has happened inside your ankle?"
+
+CONCERNS:
+"You mentioned wanting an X-ray. Are you worried that it might be broken?"
+
+EXPECTATIONS:
+"What were you hoping we could do for you today besides the X-ray?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"You have a sprained ankle. Because you can walk on it and there is no tenderness on the specific bones I pressed, it is highly unlikely to be broken. Therefore, an X-ray is not necessary."
+
+EXPLANATION:
+"A sprain means the ligaments, which are the strong bands holding your bones together, have been stretched or slightly torn. This causes the swelling and pain."
+
+CHECK UNDERSTANDING:
+"Does this make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"Sprains are very common and heal well with time and proper care."
+
+PLAN:
+"I will prescribe some painkillers to help with the discomfort and give you a bandage for support."
+
+ADVICE:
+"Follow the RICE protocol: Rest, Ice, Compression, and Elevation. Avoid Heat, Alcohol, Running, and Massage for the first few days."
+
+SAFETY NET:
+"If the pain gets significantly worse, if you become completely unable to put weight on it, or if it's not improving after a week, please come back."
+
+## Station 4 — Medical Record + Prescription Writing
 

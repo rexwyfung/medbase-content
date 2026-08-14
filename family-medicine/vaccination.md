@@ -14,7 +14,7 @@
 **Examiner's Pearl**: HPV: For females and males, ideally before sexual debut. Catch-up available.
 **Answer**: HPV：適用於女性和男性，最好在首次性行為前接種。可補種。
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: A 65-year-old man with a history of COPD comes in for a routine check-up. He asks if he needs any vaccinations for the upcoming winter.
 
@@ -87,4 +87,68 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's review your vaccination records, and then we will discuss which vaccines are most important for you right now."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: A 65-year-old man with a history of COPD comes in for a routine check-up. He asks if he needs any vaccinations for the upcoming winter.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You asked about vaccinations for the winter. What made you think about getting vaccinated today?"
+
+ACTIVE LISTENING:
+Listen for his understanding of his risk factors (age, COPD) and any specific concerns about winter illnesses.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS VACCINATION HISTORY:
+- "Have you ever had the flu vaccine before? Did you have any bad reactions?"
+- "Have you ever had a vaccination against pneumonia?"
+- "Are your COVID-19 vaccinations up to date?"
+
+SCREEN FOR CONTRAINDICATIONS:
+- "Are you currently feeling unwell or do you have a fever today?"
+- "Have you ever had a severe allergic reaction (anaphylaxis) to any vaccine or egg products?"
+- "Do you have any conditions that weaken your immune system, or are you taking steroids or chemotherapy?"
+
+ASSESS COPD STATUS:
+- "How has your breathing been lately? Have you had any recent flare-ups or needed antibiotics?"
+
+PHYSICAL EXAM:
+- Check temperature to ensure no acute febrile illness.
+- Brief chest auscultation to assess baseline COPD status.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"Which vaccines were you thinking you might need?"
+
+CONCERNS:
+"Are you worried about any side effects from the vaccines?"
+
+EXPECTATIONS:
+"Were you hoping to get the vaccines today if they are recommended?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Because you are over 65 and have COPD, you are at a higher risk of getting severe complications from respiratory infections like the flu and pneumonia."
+
+EXPLANATION:
+"Vaccines work by showing your immune system a harmless part of the virus or bacteria. This trains your body to fight off the real infection if you are exposed to it later, keeping your lungs safe."
+
+CHECK UNDERSTANDING:
+"Does this make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"The vaccines are very safe and are the best way to protect yourself."
+
+PLAN:
+"I recommend we give you the seasonal flu vaccine and the pneumococcal vaccine today. We can also discuss the shingles vaccine for a future visit."
+
+ADVICE:
+"It's normal to have a sore arm or feel a bit tired or achy for a day or two after the injections. You can take Paracetamol if needed."
+
+SAFETY NET:
+"If you develop a high fever, a severe rash, or have any difficulty breathing after you leave, please seek medical attention immediately."
+
+## Station 4 — Medical Record + Prescription Writing
 

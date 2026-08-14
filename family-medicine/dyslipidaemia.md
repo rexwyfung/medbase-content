@@ -20,7 +20,7 @@
 **Examiner's Pearl**: Non-statin options: Ezetimibe 10mg OD (reduces LDL 15-20%); PCSK9 inhibitors (evolocumab/alirocumab) for very high risk or statin intolerance; fibrates for hypertriglyceridaemia
 **Answer**: 非他汀類選擇：依折麥布10mg每日一次（降低LDL 15-20%）；PCSK9抑製劑（依洛尤單抗/阿利庫單抗）用於極高風險或他汀類不耐受；貝特類用於高甘油三酯血症
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Mr Wong, 50M, asymptomatic. Routine health check showed high LDL cholesterol (4.5 mmol/L). He is overweight (BMI 28), has a sedentary office job, and eats fast food frequently. He does not want to start medication and wants to try diet first.
 
@@ -98,4 +98,73 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about what the blood test means for your heart, and then we will discuss the 3-month diet and exercise plan."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient comes in to discuss recent blood test results showing high cholesterol. He feels fine and wants to know if he really needs medication.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"We are here to discuss your recent blood test results. What are your thoughts on the high cholesterol reading?"
+
+ACTIVE LISTENING:
+Allow the patient to express their feelings about the results without interrupting.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS LIFESTYLE:
+- "Can you walk me through what you typically eat in a day?"
+- "How often do you eat fast food or fried foods?"
+- "Do you get any regular exercise?"
+
+SCREEN FOR CARDIOVASCULAR RISK FACTORS:
+- "Do you smoke or drink alcohol?"
+- "Do you have any family history of heart attacks or strokes at a young age?"
+- "Have you ever been told you have high blood pressure or diabetes?"
+
+SCREEN FOR SYMPTOMS (TO RULE OUT EXISTING DISEASE):
+- "Have you ever had any chest pain, especially when walking or exercising?"
+- "Do you ever feel short of breath?"
+
+PHYSICAL EXAM:
+- Check Blood Pressure.
+- Calculate BMI.
+- Listen to the heart and check peripheral pulses.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"Why do you think your cholesterol might be high?"
+
+CONCERNS:
+"Are you worried about starting medication for this?"
+
+EXPECTATIONS:
+"Were you hoping to try managing this without medication first?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Your blood test shows Dyslipidaemia, specifically high LDL, which is the 'bad' cholesterol."
+
+EXPLANATION:
+"High cholesterol doesn't cause any symptoms you can feel. However, it acts like grease in a pipe, slowly building up on the walls of your blood vessels. Over time, this can cause a blockage, leading to a heart attack or stroke."
+
+CHECK UNDERSTANDING:
+"Does that make sense why we need to treat it even though you feel fine?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"We caught this early, and there are very effective ways to bring it down and protect your heart."
+
+INVESTIGATE:
+"We will need to check your blood sugar and blood pressure to get a complete picture of your heart health."
+
+PLAN:
+"Since you want to avoid medication, we will do a 3-month trial of strict diet and exercise. If the levels are still high after 3 months, we will strongly recommend a Statin medication."
+
+ADVICE:
+"You need to cut out fast food, fried foods, and animal fats. Eat more oats, vegetables, and lean meats. Try to walk briskly for 30 minutes, 5 days a week."
+
+SAFETY NET:
+"If you ever feel a heavy pressure in your chest or sudden shortness of breath, go to the A&E immediately."
+
+## Station 4 — Medical Record + Prescription
 

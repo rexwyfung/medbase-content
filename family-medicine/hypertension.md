@@ -20,7 +20,7 @@
 **Examiner's Pearl**: Annual review: 24h urine PCR, creatinine, K+, fasting lipids, glucose, ECG, fundoscopy
 **Answer**: 年度複查：24小時尿蛋白/肌酐比，肌酐，鉀，空腹血脂，血糖，心電圖，眼底檢查
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Mr Wong, 55M, taxi driver. Routine check-up showed BP 165/100 mmHg on two occasions. He smokes 1 pack a day and eats fast food mostly. He feels completely fine and refuses to start medication because he thinks pills will damage his kidneys.
 
@@ -105,4 +105,72 @@ PATIENT-CENTRED:
 
 SIGNPOSTING: 
 "First, let's talk about why high blood pressure is dangerous, and then we will look at how we can protect your organs."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient comes in for a routine health check required by his new employer. The nurse recorded a blood pressure of 170/105 mmHg. He has no symptoms.
+
+### Find Reason (×0.5)
+OPEN QUESTION: 
+"I see you are here for a pre-employment check-up, and the nurse noted your blood pressure was quite high. How have you been feeling generally?"
+
+ACTIVE LISTENING: 
+Acknowledge that he feels completely fine and validate that this is very common.
+
+### Define Problem + Systems Review (×2.5)
+CONFIRM BLOOD PRESSURE:
+- Re-measure the blood pressure manually in both arms after the patient has rested for 5 minutes. Use the correct cuff size.
+
+SCREEN FOR TARGET ORGAN DAMAGE (CRITICAL):
+- Brain: "Have you had any severe headaches, dizziness, blurred vision, or transient weakness in your arms or legs?"
+- Heart: "Do you ever get chest pain, palpitations, or feel breathless when walking up stairs?"
+- Kidneys: "Have you noticed any frothy urine or swelling in your ankles?"
+
+SCREEN FOR SECONDARY CAUSES (If young or resistant):
+- "Do you snore loudly or stop breathing during sleep?" (Obstructive Sleep Apnea).
+- "Do you have episodes of sudden sweating, palpitations, and headaches?" (Pheochromocytoma).
+- "Any history of kidney disease in the family?"
+
+ASSESS CARDIOVASCULAR RISK FACTORS:
+- "Do you smoke? How much alcohol do you drink?"
+- "Do you have diabetes or high cholesterol?"
+- "Is there any family history of heart attacks or strokes before age 60?"
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS: 
+"Did you know your blood pressure was high before today? What do you think might be contributing to it?"
+
+CONCERNS: 
+"Are you worried about how this might affect your new job or your health in the long run?"
+
+EXPECTATIONS: 
+"What were you hoping we could do today? Are you open to discussing ways to lower it?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS: 
+"Your blood pressure is 170/105. This is considered Stage 2 Hypertension. We need to monitor it, but it is highly likely you have high blood pressure."
+
+EXPLANATION: 
+"High blood pressure is often called the 'silent killer' because you usually don't feel any symptoms. However, the high pressure puts constant strain on your blood vessels, which can eventually lead to a heart attack, stroke, or kidney damage if left untreated."
+
+CHECK UNDERSTANDING: 
+"I know it is surprising since you feel fine. Does the explanation of why it is dangerous make sense?"
+
+### Management + RICE (×1.0)
+REASSURE: 
+"The good news is that we found it during a routine check, and there are very effective ways to bring it down and protect your heart."
+
+INVESTIGATE: 
+"I need to arrange some baseline blood tests (kidney function, cholesterol, sugar) and an ECG to check your heart."
+
+PLAN: 
+"I would like you to buy a reliable home blood pressure monitor. Measure it twice every morning and twice every evening for 7 days. Bring the diary back to me next week."
+
+ADVICE: 
+"Start by reducing salt in your diet. Avoid processed foods, canned soups, and adding extra soy sauce. Try to do 30 minutes of moderate exercise, like brisk walking, most days of the week."
+
+SAFETY NET: 
+"If you develop severe chest pain, sudden weakness in your face or arms, or difficulty speaking, call an ambulance immediately."
+
+## Station 4 — Medical Record + Prescription Writing
 

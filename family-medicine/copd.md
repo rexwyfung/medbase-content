@@ -20,7 +20,7 @@
 **Examiner's Pearl**: Pulmonary rehab reduces hospitalisations and improves QoL; offer to all GOLD 2+
 **Answer**: 肺康復減少住院並改善生活質素；GOLD 2+均應提供
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Mr Chan, 65M, retired construction worker. 40 pack-year smoking history. Presents with worsening shortness of breath on exertion and chronic daily cough with white sputum for the past 2 years. He can only walk 1 block before needing to stop. He is frustrated that he cannot play with his grandchildren.
 
@@ -101,4 +101,73 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about what is happening inside your lungs, and then we will discuss the inhalers that can help you get your breath back."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents with a chronic cough and worsening shortness of breath over the past few years. He is a heavy smoker.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned having a cough and feeling short of breath. Can you tell me more about how this has developed over time?"
+
+ACTIVE LISTENING:
+Allow the patient to describe the progression of their symptoms without interrupting.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS COPD SYMPTOMS:
+- "How far can you walk on flat ground before you have to stop for breath?"
+- "Do you cough up phlegm every day? What color is it?"
+- "Do you ever hear a wheezing or whistling sound when you breathe?"
+
+SCREEN FOR RED FLAGS (LUNG CANCER / HEART FAILURE):
+- "Have you ever coughed up any blood?"
+- "Have you noticed any unexplained weight loss?"
+- "Do you wake up gasping for air at night, or need to prop yourself up on multiple pillows to sleep?"
+- "Are your ankles swelling up?"
+
+ASSESS SMOKING HISTORY:
+- "How many cigarettes do you smoke a day, and for how many years?"
+
+PHYSICAL EXAM:
+- Inspect for barrel chest, use of accessory muscles, or cyanosis.
+- Auscultate lungs for wheezing, decreased breath sounds, or crackles.
+- Check ankles for edema.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think is causing your breathing to get worse?"
+
+CONCERNS:
+"Are you worried about lung cancer or needing an oxygen machine?"
+
+EXPECTATIONS:
+"What were you hoping we could do to help your breathing today?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on your smoking history and symptoms, I strongly suspect you have Chronic Obstructive Pulmonary Disease, or COPD."
+
+EXPLANATION:
+"Years of smoking have irritated and scarred the small air tubes in your lungs. They have become narrow and stiff, which traps air inside and makes it very hard to breathe out fully. That is why you feel short of breath."
+
+CHECK UNDERSTANDING:
+"Does that explanation make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"While we cannot reverse the scarring, we have very good treatments that can open up the tubes that are still working and improve your breathing."
+
+INVESTIGATE:
+"I will arrange a breathing test called Spirometry to confirm the diagnosis, and a chest X-ray to make sure there is nothing else going on."
+
+PLAN:
+"I will prescribe a daily inhaler to keep your airways open, and a rescue inhaler for emergencies. We also need to get you vaccinated against the flu and pneumonia."
+
+ADVICE:
+"The most crucial step is to stop smoking immediately to prevent further damage. I can help you with nicotine patches. Also, try to stay active with gentle walking."
+
+SAFETY NET:
+"If you cough up blood, or if your breathlessness becomes so severe you cannot speak, go to the A&E immediately."
+
+## Station 4 — Records & Prescription: COPD Maintenance Rx
 

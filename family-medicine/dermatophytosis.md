@@ -14,7 +14,7 @@
 **Examiner's Pearl**: Treatment: Topical antifungals (Clotrimazole, Terbinafine) for 2-4 weeks. Oral antifungals for hair/nail involvement or extensive disease.
 **Answer**: 治療：外用抗真菌藥（克霉唑、特比萘芬）2-4週。如果累及毛髮/指甲或病情廣泛，則口服抗真菌藥。
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: A 20-year-old male student complains of an itchy, red, ring-shaped rash on his groin and inner thighs for 2 weeks. He plays football regularly.
 
@@ -88,4 +88,69 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about how to care for your skin to prevent this, and then we will discuss the cream you need to use."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: A 20-year-old male student complains of an itchy, red, ring-shaped rash on his groin and inner thighs for 2 weeks. He plays football regularly.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned having an itchy rash on your groin. Can you tell me more about when it started and how it looks?"
+
+ACTIVE LISTENING:
+Listen for the description of the rash (ring-shaped, spreading) and exacerbating factors (sweating).
+
+### Define Problem + Systems Review (×2.5)
+ASSESS SYMPTOMS:
+- "Is the rash spreading or getting larger?"
+- "Is it itchy all the time, or worse at certain times?"
+- "Do you have a similar rash anywhere else, like on your feet (athlete's foot) or body?"
+
+RED FLAGS:
+- "Is the area very painful, hot to touch, or oozing pus?" (Secondary bacterial infection)
+- "Do you have a fever?"
+
+RISK FACTORS:
+- "Do you sweat a lot during football?"
+- "Do you wear tight underwear or sports gear?"
+- "Have you used any steroid creams on it?" (Can worsen fungal infections - Tinea Incognito)
+
+PHYSICAL EXAM:
+- Inspect the rash: Look for annular (ring-shaped) erythematous plaques with a scaly, active border and central clearing in the groin/inner thighs.
+- Check the feet (between toes) and nails for concurrent fungal infection.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think might have caused this rash?"
+
+CONCERNS:
+"Are you worried that it might be something serious or contagious?"
+
+EXPECTATIONS:
+"What were you hoping we could do today to get rid of it?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"You have a fungal skin infection called Tinea Cruris, commonly known as 'jock itch'."
+
+EXPLANATION:
+"Fungus loves warm, moist environments. When you sweat during football and wear tight clothes, it creates the perfect condition for the fungus to grow on your skin, causing the red, itchy rings."
+
+CHECK UNDERSTANDING:
+"Does this make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"This is very common in athletes and is easily treated with the right cream."
+
+PLAN:
+"I will prescribe an antifungal cream for you to apply twice a day."
+
+ADVICE:
+"Keep the area dry, wear loose cotton underwear, and shower immediately after sports. It is crucial that you keep using the cream for 2 weeks AFTER the rash disappears to kill all the fungus."
+
+SAFETY NET:
+"If the rash spreads significantly, becomes very painful, hot, or starts oozing pus, please come back and see me."
+
+## Station 4 — Medical Record + Prescription Writing
 

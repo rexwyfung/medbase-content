@@ -20,7 +20,7 @@
 **Examiner's Pearl**: Genogram: map 3 generations; identify family mental health history, support, stressors
 **Answer**: 家譜圖：繪製三代；識別家族精神健康史、支援及壓力源
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Ms Lee, 45F, presents with 1 month of severe low mood, early morning awakening, and 5kg weight loss. She is going through a messy divorce and fears losing custody of her children. She is reluctant to take medication because she fears addiction.
 
@@ -111,4 +111,70 @@ PATIENT-CENTRED:
 
 SIGNPOSTING: 
 "First, I need to ask you a few difficult but standard questions about your safety, and then we will talk about the specific treatments we can offer to help you feel better."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents with extreme fatigue, inability to concentrate at work, and crying spells for the past 6 weeks. She has stopped seeing her friends.
+
+### Find Reason (×0.5)
+OPEN QUESTION: 
+"You mentioned you have been feeling extremely tired and tearful lately. Can you tell me more about how you have been feeling in your own words?"
+
+ACTIVE LISTENING: 
+Allow the patient to vent without interrupting. Note their body language, eye contact, psychomotor retardation, and tone of voice.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS CORE SYMPTOMS (SIGECAPS FRAMEWORK):
+- Sleep: "Are you having trouble falling asleep, or are you waking up very early in the morning and unable to go back to sleep?"
+- Interest: "Have you lost interest in hobbies you used to enjoy? Have you stopped seeing your friends?"
+- Guilt: "Do you find yourself feeling excessively guilty or blaming yourself for things out of your control?"
+- Energy: "How is your energy level? Do you feel physically drained even after resting?"
+- Concentration: "Have you had trouble focusing on tasks at work, like reading emails or following a meeting?"
+- Appetite: "Has your appetite changed? Have you lost or gained a significant amount of weight recently?"
+- Psychomotor: "Do you feel restless and agitated, or do you feel like your movements and thoughts are severely slowed down?"
+- Suicide (CRITICAL): "Have things ever gotten so bad that you felt life wasn't worth living? Have you had any thoughts of ending your life? Do you have a plan?"
+
+SCREEN FOR BIPOLAR (MANIA): 
+"Have you ever had periods where you felt extremely energetic, needed very little sleep, and had racing thoughts for several days in a row?"
+
+SCREEN FOR ORGANIC CAUSES: 
+"Do you feel cold all the time? Is your hair falling out? Are your periods unusually heavy?" (Screening for Hypothyroidism and Anemia).
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS: 
+"What do you think is the root cause of this exhaustion and crying? Do you think it is stress, or something physical?"
+
+CONCERNS: 
+"Are you worried that you are going crazy, or that this feeling will never get better?"
+
+EXPECTATIONS: 
+"What kind of support were you hoping to get from me today? Are you open to discussing medication or therapy?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS: 
+"Based on what you have told me, the severe fatigue, crying spells, and loss of interest indicate that you are experiencing a Major Depressive Episode."
+
+EXPLANATION: 
+"This is a recognized medical condition where severe stress has overwhelmed your brain's ability to regulate mood chemicals. It is not a sign of weakness, and it is not something you can just 'snap out of'. It requires medical treatment just like asthma or diabetes."
+
+CHECK UNDERSTANDING: 
+"How do you feel about hearing this diagnosis? Does it make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE: 
+"The good news is that depression is highly treatable. Most people recover fully and regain their energy with the right combination of talking therapy and medication."
+
+INVESTIGATE: 
+"I would like to run some basic blood tests today to ensure your thyroid and blood count are normal, as problems there can mimic depression."
+
+PLAN: 
+"We can start a medication called an SSRI today to help rebuild those mood chemicals. I also want to connect you with a clinical psychologist for counseling."
+
+ADVICE: 
+"Please do not make any major life decisions, like quitting your job or moving house, while you are feeling this way. Focus on taking it one day at a time and being kind to yourself."
+
+SAFETY NET: 
+"If you have any thoughts of suicide or self-harm, you must promise me you will go to the emergency room or call the crisis hotline immediately. You can always reach out for help."
+
+## Station 4 — Medical Record + Prescription Writing
 

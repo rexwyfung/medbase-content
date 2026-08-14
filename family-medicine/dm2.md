@@ -20,7 +20,7 @@
 **Examiner's Pearl**: Sick day rules: NEVER stop metformin/SGLT2i during acute illness without medical advice (SGLT2i → DKA risk)
 **Answer**: 患病日規則：急性病期間切勿自行停用二甲雙胍/SGLT2i（SGLT2i→酮症酸中毒風險）
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Mr Wong, 60M, newly diagnosed Type 2 Diabetes (HbA1c 8.5%). He loves eating rice and dim sum. He is afraid of starting insulin and thinks diabetes means he can never eat sweets again.
 
@@ -101,4 +101,71 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "Let's talk about your diet first, and then we will discuss the medication I want to prescribe."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents with increased thirst, frequent urination, and unexplained weight loss over the past 2 months.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned you have been feeling unusually thirsty and losing weight. Can you tell me more about when this started?"
+
+ACTIVE LISTENING:
+Let the patient describe the severity of the polyuria and polydipsia without interrupting.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS CLASSIC SYMPTOMS (3 PS):
+- Polyuria: "How many times do you wake up at night to pass urine? Is it a large amount?"
+- Polydipsia: "How much water are you drinking a day now compared to before?"
+- Polyphagia/Weight loss: "Have you lost weight despite eating normally or even eating more?"
+
+SCREEN FOR COMPLICATIONS:
+- "Any blurred vision or changes in your eyesight?" (Retinopathy)
+- "Any numbness, tingling, or burning sensation in your feet?" (Neuropathy)
+- "Any frothy urine?" (Nephropathy)
+- "Any chest pain or shortness of breath?" (Cardiovascular)
+
+RED FLAGS:
+- "Have you felt confused, drowsy, or had severe abdominal pain and vomiting?" (Screen for DKA/HHS).
+
+RISK FACTORS:
+- Family history of DM, history of gestational diabetes, obesity, hypertension.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"Do you know anyone with these kinds of symptoms? What do you think it might be?"
+
+CONCERNS:
+"Are you worried this might be diabetes?"
+
+EXPECTATIONS:
+"What were you hoping we could do to investigate this today?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Your symptoms of extreme thirst, frequent urination, and weight loss strongly suggest you might have Diabetes."
+
+EXPLANATION:
+"Diabetes happens when your body does not produce enough insulin, or cannot use it properly. Insulin is like a key that lets sugar into your cells for energy. Without it, sugar builds up in your blood and spills into your urine, pulling water with it, which makes you thirsty and pee a lot."
+
+CHECK UNDERSTANDING:
+"Does that explanation make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"If it is diabetes, it is very manageable with the right diet, exercise, and medication."
+
+INVESTIGATE:
+"We need to do a fasting blood test (Fasting Glucose and HbA1c) to confirm the diagnosis."
+
+ADVICE:
+"For now, avoid sugary drinks like soda, lemon tea, or fruit juice. Drink plain water when you are thirsty."
+
+PLAN:
+"Please fast for 8 hours before the blood test tomorrow morning. You can drink plain water. We will review the results next week."
+
+SAFETY NET:
+"If you start vomiting, feel severe abdominal pain, or feel extremely drowsy, please go to the Accident and Emergency department immediately."
+
+## Station 4 — Medical Record + Prescription Writing
 
