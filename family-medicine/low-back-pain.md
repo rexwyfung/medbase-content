@@ -20,7 +20,7 @@
 **Examiner's Pearl**: SLR test: positive if pain radiates below knee at <60° hip flexion (L4/L5/S1 nerve root involvement)
 **Answer**: 直腿抬高試驗：若髖部屈曲<60°時疼痛放射到膝以下則陽性（L4/L5/S1神經根受累）
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Mr Lee, 40M, warehouse worker. Complains of lower back pain for 2 weeks after lifting a heavy box. No red flags. He is demanding an MRI and 2 weeks of sick leave.
 
@@ -100,4 +100,143 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's discuss what is causing the pain, and then we will talk about the MRI and the sick leave you asked for."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents with lower back pain after lifting a heavy object at work. He is limping slightly but otherwise looks well.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned you hurt your back lifting something at work. Can you tell me exactly how it happened?"
+
+ACTIVE LISTENING:
+Allow the patient to describe the mechanism of injury without interrupting.
+
+### Define Problem + Systems Review (×2.5)
+SOCRATES FOR PAIN:
+- Site: "Can you point to exactly where it hurts the most?"
+- Character: "Is it a sharp, shooting pain, or a dull ache?"
+- Radiation: "Does the pain shoot down your legs? Past your knee?" (Sciatica screen)
+- Time/Relief: "What makes it better or worse? Does bending forward hurt?"
+
+SCREEN FOR RED FLAGS (CAUDA EQUINA & FRACTURE - MUST ASK):
+- "Have you noticed any numbness around your private parts or buttocks?"
+- "Have you had any accidents with your bowel or bladder, or difficulty passing urine?"
+- "Do you feel any weakness in your legs?"
+- "Have you had any recent fevers or unexplained weight loss?"
+- "Do you have a history of cancer or osteoporosis?"
+
+PHYSICAL EXAM:
+- Inspect spine, palpate for tenderness.
+- Perform Straight Leg Raise (SLR) test to check for nerve root irritation.
+- Check lower limb neurology (power, sensation, reflexes).
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think you have done to your back?"
+
+CONCERNS:
+"Are you worried about a slipped disc or needing surgery?"
+
+EXPECTATIONS:
+"What were you hoping we could do for your back today?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on your symptoms and my examination, you have a mechanical lower back strain. This means you have pulled a muscle or ligament, but there is no nerve damage."
+
+EXPLANATION:
+"When you lifted the heavy object, the muscles in your lower back stretched too far and became inflamed. It is painful, but it is not dangerous and it will heal."
+
+CHECK UNDERSTANDING:
+"Does that explanation make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"This is a very common injury and most people recover fully within a few weeks."
+
+INVESTIGATE:
+"We do not need to do an X-ray or MRI today because there are no danger signs, and a scan will not change our treatment plan."
+
+PLAN:
+"I will prescribe some strong anti-inflammatory painkillers. I will also give you a few days of sick leave to rest."
+
+ADVICE:
+"Do not stay in bed all day. Gentle movement like walking helps the muscles heal faster. Avoid heavy lifting."
+
+SAFETY NET:
+"If you lose control of your bladder or bowels, or feel numbness around your private parts, go to the A&E immediately."
+
+## Station 4 — Medical Record + Prescription
+
+### Subjective (S)
+Mr Fong Wai Keung (M/38), delivery driver, presents with 6-week history of lower back pain following lifting heavy boxes at work. Pain radiates to right buttock but NOT below knee. Constant dull ache (6/10), sharp on movement. Morning stiffness <30 minutes. Relieved by lying flat and heat; worsened by sitting and bending. Paracetamol and naproxen (PRN) partial relief. Has been resting at home — not improved. Off work for 6 weeks. Worried about job security. PMH: Nil. No previous back injuries. NKDA. Social: Delivery driver 8 years. Married with 2 children. Non-smoker. Non-drinker. Financially stressed due to sick leave. No red flag symptoms (no saddle anaesthesia, no urinary/bowel dysfunction, no bilateral leg weakness, no night sweats/weight loss, no fever, no thoracic pain).
+
+### Objective (O)
+Vitals: BP 124/80 mmHg, HR 72 bpm, BMI 26.2. Afebrile.
+Gait: Antalgic, slightly favouring left leg.
+Spine:
+  - Inspection: Reduced lumbar lordosis; mild lateral tilt to left
+  - Palpation: L4-L5 paraspinal muscle tenderness bilaterally (R>L). No midline bony tenderness (no fracture concern).
+  - ROM: Flexion 50° (limited by pain); extension 20° (mildly reduced); lateral flexion symmetric.
+  - SLR: Negative bilaterally at 80° — no pain radiation below knee.
+Neurological: Power 5/5 all lower limb groups. Reflexes: knee 2+, ankle 2+ bilaterally. Sensation intact L3, L4, L5, S1 dermatomes. No saddle anaesthesia.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Non-specific mechanical low back pain (NSLBP) with right gluteal referred pain
+Evidence: Occupational trigger; no neurological deficit; negative SLR; no red flags; paraspinal muscular tenderness; duration 6 weeks (subacute).
+NOT radiculopathy (pain does not radiate below knee; SLR negative; neurology intact).
+
+YELLOW FLAGS IDENTIFIED (psychosocial risk factors for chronification):
+• Fear-avoidance behaviour (afraid to move; extensive bed rest)
+• Work-related anxiety and catastrophising ("worried I'll never return to work")
+• Financial stress (dependent on income from delivery work)
+• 6 weeks without appropriate physiotherapy (contributing to chronification risk)
+
+### Plan (P)
+1. PHYSIOTHERAPY: Urgent referral for active physiotherapy (graded exercise, core strengthening, manual therapy). Address fear-avoidance directly.
+
+2. MEDICATIONS:
+   a) Naproxen 500mg orally twice daily with food × 2 weeks (anti-inflammatory phase)
+   b) Omeprazole 20mg orally once daily (GI protection with NSAID)
+   c) Paracetamol 1g orally four times daily (regular schedule)
+   d) Topical diclofenac sodium 1% gel — apply to lower back three times daily
+
+3. LIFESTYLE ADVICE:
+   a) STAY ACTIVE: Walking 20-30 min daily; gentle stretching; do NOT rest in bed
+   b) Heat pack to lower back for 15-20 minutes, up to 3 times daily
+   c) Correct lifting technique: bend knees, keep back straight, hold load close to body
+
+4. OCCUPATIONAL HEALTH: Referral for return-to-work planning; consider modified duties (light deliveries initially); workplace ergonomic assessment.
+
+5. PSYCHOLOGICAL: Psychoeducation about back pain (most resolves with activity, NOT rest); address yellow flags; consider pain management programme referral if chronifying.
+
+6. SICK LEAVE: Medical certificate issued × 2 weeks. Review at 2 weeks. If improving — facilitate graded return to work with modified duties.
+
+7. INVESTIGATIONS: Not indicated currently (no red flags, <6 weeks). If no improvement at 6 weeks total → Lumbar spine X-ray. MRI only if neurological deficit develops.
+
+8. SAFETY NET: Return to A&E IMMEDIATELY if: saddle anaesthesia (numbness around bottom/genitals), urinary retention or incontinence, bilateral leg weakness, high fever with back pain (infection). These are surgical emergencies.
+
+9. FOLLOW-UP: 2 weeks.
+
+### Prescription
+- **Drug**: Naproxen sodium
+- **Preparation**: Tablets
+- **Dose**: 500mg
+- **Route**: Oral
+- **Frequency**: Twice daily (with food)
+- **Duration**: 14 days
+- **Quantity**: 28 tablets
+
+**Notes**: Take with food or milk to reduce stomach upset. Do not take on empty stomach. Stop if stomach pain develops. Co-prescribed with omeprazole for gastric protection.
+
+**Tips**:
+- "500mg" NOT "500 mg" or ".5g" or "500MG"
+- "Naproxen sodium" (generic) NOT "Naprosyn" alone
+- "Twice daily" NOT "BD" or "BID"
+- "Oral" route must be stated
+- State "with food" — reduces GI risk
+- Always co-prescribe PPI when prescribing NSAIDs for >1 week
+- "28 tablets" — quantity must be stated
+- NSAID contraindicated in: active PUD, severe renal failure (eGFR<30), pregnancy (3rd trimester), aspirin-sensitive asthma — CHECK BEFORE PRESCRIBING
 

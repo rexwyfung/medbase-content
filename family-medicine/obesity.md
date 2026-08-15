@@ -20,7 +20,7 @@
 **Examiner's Pearl**: 5As of obesity counselling: Ask permission, Assess, Advise, Agree, Assist (avoid weight stigma — use non-judgmental language)
 **Answer**: 肥胖諮詢的5As：詢問許可、評估、建議、同意、協助（避免體重歧視——使用非評判性語言）
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Mr Lam, 45M, IT manager. Presents for a routine check-up. BMI is 35 (Class II Obesity). He has a sedentary lifestyle, eats takeout for most meals, and feels tired all the time. He snores loudly at night. He wants a "quick fix" weight loss pill.
 
@@ -101,4 +101,119 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about why a pill alone won't work, and then we will discuss the sleep issue which I think is the real hidden problem here."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents for a check-up. He is significantly overweight, feels tired all the time, snores loudly, and wants a pill to help him lose weight quickly.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned you are looking for help with weight loss and feeling tired. Can you tell me more about your typical day and how you are feeling?"
+
+ACTIVE LISTENING:
+Allow the patient to describe their lifestyle and fatigue without interrupting.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS LIFESTYLE & DIET:
+- "Can you walk me through what you eat on a normal day?"
+- "How much physical activity or exercise do you get in a week?"
+- "Have you tried any diets before? What happened?"
+
+SCREEN FOR OBSTRUCTIVE SLEEP APNEA (OSA - MUST ASK):
+- "You mentioned loud snoring. Has anyone ever told you that you stop breathing for a few seconds while you sleep?"
+- "Do you wake up feeling unrefreshed, or with a morning headache?"
+- "Do you ever fall asleep during the day, like when sitting in a meeting or driving?"
+
+SCREEN FOR METABOLIC COMPLICATIONS:
+- "Do you find yourself feeling very thirsty or needing to pee often?" (Diabetes)
+- "Have you ever had chest pain or shortness of breath?" (Heart disease)
+
+PHYSICAL EXAM:
+- Measure Height, Weight, and calculate BMI.
+- Measure Blood Pressure (use appropriate large cuff size).
+- Examine the throat (Mallampati score) and neck circumference for OSA risk.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think is the main barrier stopping you from losing weight?"
+
+CONCERNS:
+"Are you worried about any specific health problems related to your weight?"
+
+EXPECTATIONS:
+"You mentioned wanting a weight loss pill. How did you expect the medication to work for you?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on your BMI, you have Class II Obesity. More importantly, your loud snoring and severe fatigue strongly suggest you have Obstructive Sleep Apnea."
+
+EXPLANATION:
+"Sleep Apnea means the tissues in your throat collapse while you sleep, blocking your airway. Your brain has to constantly wake you up slightly to breathe. This means you never get deep sleep, which leaves you exhausted and actually changes your metabolism, making it harder to lose weight."
+
+CHECK UNDERSTANDING:
+"Does that explanation make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"This is a very common combination of problems, and we have clear steps to tackle both the weight and the sleep issues."
+
+INVESTIGATE:
+"I will arrange a full set of blood tests to check your sugar, cholesterol, and thyroid. I am also referring you for a Sleep Study to confirm the sleep apnea."
+
+PLAN:
+"I am not prescribing a weight loss pill today. Pills only work alongside diet changes, and right now, your sleep apnea needs urgent attention. I will refer you to a dietitian to start working on a sustainable meal plan."
+
+ADVICE:
+"Start by cutting out all sugary drinks and replacing one takeout meal a day with something healthy. If you feel sleepy during the day, do not drive."
+
+SAFETY NET:
+"If you ever wake up gasping for air with severe chest pain, go to the A&E immediately."
+
+## Station 4 — Records & Prescription: Obesity
+
+### Subjective (S)
+Mr Fong, 45M. Obesity/weight management review.
+Weight 88kg → 84.5kg in 3 months (−3.5kg, −4%). 
+On dietary changes only — no medication yet. Reduced takeaway from 5 to 2/week.
+Comorbidities: DM2 (HbA1c 7.8%), HTN (BP 138/86), OSA (CPAP compliant).
+Motivated: wants to stop insulin in future. Still busy but doing 20 min walk × 4/week.
+
+### Objective (O)
+Wt 84.5kg  BMI 29.8  WC 93cm (↓ from 98)
+BP 134/82  HR 72
+Fasting glucose 7.8  HbA1c 7.4% (↓ from 7.8%)
+Lipids: LDL 2.6, HDL 1.1, TG 1.8 (improving)
+Liver: ALT 42 (normal)
+
+### Assessment (A)
+Obesity with metabolic syndrome showing good response to lifestyle modification — 4% weight loss, HbA1c improving. Continue progress. Consider adding orlistat to enhance further weight loss.
+
+### Plan (P)
+1. Positive reinforcement: "4% weight loss in 3 months is excellent — this is already improving your diabetes."
+2. Continue lifestyle: target 30 min moderate exercise × 5/week
+3. Consider orlistat 120mg TDS (with main meals containing fat) — counsel on GI SE
+4. Dietitian referral for structured eating plan and calorie deficit
+5. Discuss bariatric surgery option (BMI 29.8 + DM, HTN — borderline criteria): refer bariatric clinic for counselling
+6. DM review: HbA1c improving — check if insulin dose reduction possible
+7. BP: add/adjust antihypertensive if BP remains >130/80
+8. Annual: waist circumference, HbA1c, lipids, BP, liver function
+9. Review in 3 months with weight diary
+
+### Prescription
+- **Drug**: Orlistat
+- **Preparation**: Capsule 120mg
+- **Dose**: 120 mg
+- **Route**: Oral
+- **Frequency**: Three times daily (with each main meal containing fat); omit if meal is fat-free
+- **Duration**: 3 months initially; continue if ≥5% weight loss achieved by 3 months
+- **Quantity**: 90 capsules
+
+**Notes**: Must follow low-fat diet (<30% of calories from fat). If dose missed or meal contains no fat — omit that dose. SE: oily stools, faecal urgency, flatulence (less with low-fat diet). Take multivitamin 2 hours after orlistat (fat-soluble vitamin absorption reduced). Monitor LFTs.
+
+**Tips**:
+- Specify "with each main meal" — not just "TDS"
+- Counsel on low-fat diet requirement upfront (SE are directly related to fat intake)
+- Document that patient was counselled on GI side effects
+- Stop if no ≥5% weight loss by 3 months (insufficient responder)
+- Orlistat reduces absorption of fat-soluble drugs — monitor warfarin, levothyroxine, AED levels
 

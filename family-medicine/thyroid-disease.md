@@ -14,7 +14,7 @@
 **Examiner's Pearl**: Treatment: Hyper (Carbimazole, PTU, Radioactive Iodine, Surgery). Hypo (Thyroxine replacement).
 **Answer**: 治療：甲亢（卡比馬唑、PTU、放射性碘、手術）。甲減（甲狀腺素替代治療）。
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: A 40-year-old woman complains of weight loss, palpitations, and feeling hot all the time for the past month. She feels anxious and has hand tremors.
 
@@ -89,4 +89,109 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about the tests we need to do to confirm the diagnosis, and then we will discuss the medication to help your symptoms today."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: A 40-year-old woman complains of weight loss, palpitations, and feeling hot all the time for the past month. She feels anxious and has hand tremors.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned having weight loss, a fast heart rate, and feeling hot. Can you tell me more about when this started?"
+
+ACTIVE LISTENING:
+Listen for the constellation of hyperthyroid symptoms and their progression.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS SYMPTOMS:
+- "Have you noticed any changes in your bowel habits, like diarrhea?"
+- "Are your menstrual periods lighter or less frequent?"
+- "Have you noticed any swelling in your neck or changes in your eyes?"
+
+RED FLAGS:
+- "Have you had any chest pain or shortness of breath?" (Cardiac complications)
+- "Have you felt extremely weak or confused?" (Thyroid storm)
+
+RISK FACTORS:
+- "Do you have a family history of thyroid problems?"
+- "Have you recently had a viral illness or been pregnant?"
+
+PHYSICAL EXAM:
+- Check pulse (rate and rhythm for AF).
+- Examine the neck for goiter or nodules.
+- Check for fine tremors in outstretched hands.
+- Eye exam for exophthalmos or lid lag.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"Do you have any thoughts on what might be causing these symptoms?"
+
+CONCERNS:
+"Are you worried about anything specific, like a heart problem?"
+
+EXPECTATIONS:
+"What were you hoping we could do today to help you feel better?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Your symptoms strongly suggest that you have an overactive thyroid gland, a condition called hyperthyroidism."
+
+EXPLANATION:
+"The thyroid is a gland in your neck that controls your body's metabolism. When it produces too much hormone, everything in your body speeds up, causing the weight loss, fast heart rate, and anxiety."
+
+CHECK UNDERSTANDING:
+"Does this make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"This is a treatable condition. We need to do some blood tests to confirm it, but we can start medication today to help with the symptoms."
+
+PLAN:
+"I will arrange blood tests to check your thyroid levels and an ECG for your heart. I will prescribe a medication to slow your heart rate and reduce the tremors."
+
+ADVICE:
+"Avoid caffeine and strenuous exercise for now. Try to get plenty of rest."
+
+SAFETY NET:
+"If you experience severe chest pain, severe shortness of breath, or feel extremely unwell, please go to the A&E immediately."
+
+## Station 4 — Medical Record + Prescription Writing
+
+### Subjective (S)
+Ms Lee Ka Yan (F/30), marketing executive, presents with 1-month history of palpitations, hand tremors, and unintentional weight loss of 3kg despite increased appetite. Reports heat intolerance and frequent sweating. Bowel movements increased to 2-3 times/day (not watery). No eye pain or visual changes. No neck pain. PMH: Nil. NKDA. Social: Non-smoker. Occasional alcohol. FH: Aunt has "thyroid problem".
+
+### Objective (O)
+Vitals: BP 130/70 mmHg, HR 110 bpm (regular), Temp 36.8°C, BMI 19.5 kg/m².
+General: Anxious appearance, restless.
+Hands: Fine tremor in outstretched hands. Warm, sweaty palms.
+Neck: Diffuse, smooth, non-tender goitre. No palpable nodules. Thyroid bruit present.
+Eyes: Mild lid retraction. No exophthalmos, no ophthalmoplegia.
+CVS: Tachycardia, regular rhythm. No murmurs.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Hyperthyroidism (Thyrotoxicosis) — highly suspicious of Graves' disease.
+Evidence: Classic symptoms (weight loss, increased appetite, heat intolerance, palpitations), signs (tachycardia, tremor, diffuse goitre with bruit).
+
+DIFFERENTIAL DIAGNOSES:
+• Toxic multinodular goitre (less likely given smooth goitre and age)
+• Thyroiditis (less likely given no neck pain)
+
+### Plan (P)
+1. INVESTIGATIONS: TFT (TSH, free T4, free T3), TRAb (TSH receptor antibodies) to confirm Graves', CBC, LFT (baseline before starting antithyroid drugs).
+2. SYMPTOMATIC CONTROL: Propranolol 10mg TDS for palpitations and tremor.
+3. DEFINITIVE TREATMENT: Carbimazole 15mg daily (starting dose pending TFT results, but can start if clinically severe and TFT delayed, though usually wait for TFT. For this station, assume TFT confirmed hyperthyroidism).
+4. SAFETY NET: Warned about agranulocytosis risk with Carbimazole — must stop drug and attend A&E immediately if sore throat, mouth ulcers, or fever develop.
+5. FOLLOW-UP: 4 weeks with blood test results.
+
+### Prescription
+- **Drug**: Propranolol
+- **Preparation**: Tablet
+- **Dose**: 10 mg
+- **Route**: Oral
+- **Frequency**: Three times daily (TDS)
+- **Duration**: 4 weeks
+- **Quantity**: 84 tablets
+
+**Tips**:
+- Prescribe beta-blocker for symptom control
+- Specify TDS frequency
 

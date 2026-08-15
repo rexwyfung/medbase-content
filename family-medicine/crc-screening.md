@@ -20,7 +20,7 @@
 **Examiner's Pearl**: Singapore/HK preferred: FIT is non-invasive, cheap, effective for average-risk (USPSTF recommends multiple modalities including FIT, colonoscopy q10y, CT colonography)
 **Answer**: 新加坡/香港偏好：FIT無創、廉價、對平均風險有效（USPSTF建議多種方法包括FIT、每10年結腸鏡、CT結腸鏡）
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Mr Lee, 55M, asymptomatic. Presents for a routine check-up. He received a letter from the government about the Colorectal Cancer Screening Programme. He is hesitant because he feels perfectly healthy, has no family history, and is terrified of having a colonoscopy.
 
@@ -98,4 +98,117 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about why screening is important even when you feel healthy, and then I will explain exactly how the simple stool test works."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents to discuss the Colorectal Cancer Screening Programme. He is asymptomatic but hesitant to join because he fears having a colonoscopy.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You are here to discuss the Colorectal Cancer Screening Programme. Can you tell me what your thoughts are about it so far?"
+
+ACTIVE LISTENING:
+Allow the patient to express their fears and hesitations without interrupting.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS ELIGIBILITY & EXCLUSIONS:
+- "Have you ever been diagnosed with colorectal cancer or polyps?"
+- "Have you had a colonoscopy in the past 10 years, or a stool blood test in the past 2 years?"
+- "Do you have any close family members (parents, siblings) who had bowel cancer?"
+
+SCREEN FOR RED FLAGS (SYMPTOMS REQUIRING URGENT REFERRAL, NOT SCREENING):
+- "Have you noticed any blood in your stool recently?"
+- "Has there been a recent change in your bowel habits, like new constipation or diarrhea?"
+- "Have you lost any weight without trying?"
+- "Do you have any unexplained stomach pain?"
+
+PHYSICAL EXAM:
+- Generally not required for asymptomatic screening enrollment unless red flags are identified (in which case, examine abdomen and perform DRE).
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"Why do you think it might be unnecessary to do the screening if you feel healthy?"
+
+CONCERNS:
+"You mentioned being afraid of a colonoscopy. What part of it worries you the most?"
+
+EXPECTATIONS:
+"What information do you need from me today to help you decide whether to join?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"You are perfectly healthy with no symptoms, which makes you the ideal candidate for screening."
+
+EXPLANATION:
+"Bowel cancer starts as a small polyp that grows very slowly over many years. During this time, it causes no symptoms at all. The goal of screening is to find these polyps and remove them before they ever turn into cancer."
+
+CHECK UNDERSTANDING:
+"Does it make sense why we want to test you while you still feel completely healthy?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"You do not need a colonoscopy today. The screening programme is designed to be as easy and non-invasive as possible."
+
+INVESTIGATE:
+"The first step is simply a Faecal Immunochemical Test (FIT). It is a small tube you use at home to collect a tiny sample of your stool. It checks for hidden blood."
+
+PLAN:
+"If the stool test is normal, you are done, and we just repeat it in 2 years. You only need to consider a colonoscopy if the stool test finds blood."
+
+ADVICE:
+"Even if you need a colonoscopy later, it is done with medication to make you sleep, so you won't feel pain. But for now, let's just focus on the simple stool test."
+
+SAFETY NET:
+"Whether you join the programme or not, if you ever see blood in your stool or lose weight without trying, you must come back to see a doctor immediately."
+
+## Station 4 — Records & Prescription: CRC Screening
+
+### Subjective (S)
+Mr Lam, 55M. Health maintenance visit.
+Asymptomatic — no rectal bleeding, no change in bowel habit, no weight loss.
+FH: brother dx rectal cancer age 58. No other 1st-degree relatives with CRC.
+PMH: nil significant. Non-smoker, minimal alcohol. BMI 24. Exercise 3×/week.
+No current medications.
+
+### Objective (O)
+BP 122/78  HR 68  BMI 24
+Abdomen: soft, non-tender, no organomegaly, no palpable mass
+PR: normal tone, no mass, no blood on glove
+FIT: not done yet (planned)
+Other health maintenance: BP, glucose, lipids all normal (from last year)
+
+### Assessment (A)
+55M for CRC screening counselling. HIGH RISK due to 1st-degree relative (brother) with CRC at age 58 (<60). Colonoscopy indicated (not FIT alone). Counselled regarding procedure, benefits, and alternatives.
+
+### Plan (P)
+1. Colonoscopy referral (high-risk FH — not eligible for FIT alone under CRCSS)
+   → Refer to endoscopy centre; explain bowel prep, procedure, sedation options
+   → Target: within 2 months
+2. If colonoscopy reveals adenoma: follow-up per endoscopist (usually 3–5 year surveillance)
+3. Consider Lynch syndrome genetics referral if colonoscopy shows multiple/hereditary pattern polyps
+4. OTHER SCREENING (opportunistic):
+   → BP: 122/78 normal — check annually
+   → Glucose/HbA1c: normal — recheck at 45 if wt gain
+   → Lipids: normal — recheck in 5 years
+   → Skin cancer awareness counselling
+5. Lifestyle maintenance: exercise ✓, BMI 24 ✓, encourage Mediterranean diet (reduces CRC risk)
+6. Document family history in records; update when available
+
+### Prescription
+- **Drug**: Sodium picosulfate with magnesium citrate
+- **Preparation**: Oral powder (sachets) for bowel preparation
+- **Dose**: 1 sachet
+- **Route**: Oral (dissolved in water)
+- **Frequency**: Sachet 1 at 5pm the day before; Sachet 2 at 6am on procedure day
+- **Duration**: One-time use (pre-colonoscopy bowel prep)
+- **Quantity**: 2 sachets (Picolax or Citrafleet)
+
+**Notes**: Dissolve each sachet in 150mL cold water. Drink additional 1.5L clear fluids after each sachet. Clear fluid diet from day before: water, clear soup, black tea/coffee, apple juice (no pulp). Nothing by mouth from midnight before afternoon colonoscopy (or 6 hours before procedure). Expect watery diarrhoea. CAUTION: renal impairment, cardiac failure, IBD (use with caution/specialist advice).
+
+**Tips**:
+- Always prescribe with clear written instructions — complex two-dose regimen
+- Document that colonoscopy referral letter was sent and patient counselled
+- Check anticoagulants/antiplatelets — inform endoscopist (may need to stop pre-procedure)
+- Aspirin: can usually continue; warfarin: bridge to LMWH or stop; DOAC: stop 24–48h before
+- Note: bowel prep is prescribed by the hospital/clinic — may not need GP Rx in practice
 

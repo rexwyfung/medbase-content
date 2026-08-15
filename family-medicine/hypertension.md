@@ -20,7 +20,7 @@
 **Examiner's Pearl**: Annual review: 24h urine PCR, creatinine, K+, fasting lipids, glucose, ECG, fundoscopy
 **Answer**: 年度複查：24小時尿蛋白/肌酐比，肌酐，鉀，空腹血脂，血糖，心電圖，眼底檢查
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Mr Wong, 55M, taxi driver. Routine check-up showed BP 165/100 mmHg on two occasions. He smokes 1 pack a day and eats fast food mostly. He feels completely fine and refuses to start medication because he thinks pills will damage his kidneys.
 
@@ -105,4 +105,145 @@ PATIENT-CENTRED:
 
 SIGNPOSTING: 
 "First, let's talk about why high blood pressure is dangerous, and then we will look at how we can protect your organs."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient comes in for a routine health check required by his new employer. The nurse recorded a blood pressure of 170/105 mmHg. He has no symptoms.
+
+### Find Reason (×0.5)
+OPEN QUESTION: 
+"I see you are here for a pre-employment check-up, and the nurse noted your blood pressure was quite high. How have you been feeling generally?"
+
+ACTIVE LISTENING: 
+Acknowledge that he feels completely fine and validate that this is very common.
+
+### Define Problem + Systems Review (×2.5)
+CONFIRM BLOOD PRESSURE:
+- Re-measure the blood pressure manually in both arms after the patient has rested for 5 minutes. Use the correct cuff size.
+
+SCREEN FOR TARGET ORGAN DAMAGE (CRITICAL):
+- Brain: "Have you had any severe headaches, dizziness, blurred vision, or transient weakness in your arms or legs?"
+- Heart: "Do you ever get chest pain, palpitations, or feel breathless when walking up stairs?"
+- Kidneys: "Have you noticed any frothy urine or swelling in your ankles?"
+
+SCREEN FOR SECONDARY CAUSES (If young or resistant):
+- "Do you snore loudly or stop breathing during sleep?" (Obstructive Sleep Apnea).
+- "Do you have episodes of sudden sweating, palpitations, and headaches?" (Pheochromocytoma).
+- "Any history of kidney disease in the family?"
+
+ASSESS CARDIOVASCULAR RISK FACTORS:
+- "Do you smoke? How much alcohol do you drink?"
+- "Do you have diabetes or high cholesterol?"
+- "Is there any family history of heart attacks or strokes before age 60?"
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS: 
+"Did you know your blood pressure was high before today? What do you think might be contributing to it?"
+
+CONCERNS: 
+"Are you worried about how this might affect your new job or your health in the long run?"
+
+EXPECTATIONS: 
+"What were you hoping we could do today? Are you open to discussing ways to lower it?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS: 
+"Your blood pressure is 170/105. This is considered Stage 2 Hypertension. We need to monitor it, but it is highly likely you have high blood pressure."
+
+EXPLANATION: 
+"High blood pressure is often called the 'silent killer' because you usually don't feel any symptoms. However, the high pressure puts constant strain on your blood vessels, which can eventually lead to a heart attack, stroke, or kidney damage if left untreated."
+
+CHECK UNDERSTANDING: 
+"I know it is surprising since you feel fine. Does the explanation of why it is dangerous make sense?"
+
+### Management + RICE (×1.0)
+REASSURE: 
+"The good news is that we found it during a routine check, and there are very effective ways to bring it down and protect your heart."
+
+INVESTIGATE: 
+"I need to arrange some baseline blood tests (kidney function, cholesterol, sugar) and an ECG to check your heart."
+
+PLAN: 
+"I would like you to buy a reliable home blood pressure monitor. Measure it twice every morning and twice every evening for 7 days. Bring the diary back to me next week."
+
+ADVICE: 
+"Start by reducing salt in your diet. Avoid processed foods, canned soups, and adding extra soy sauce. Try to do 30 minutes of moderate exercise, like brisk walking, most days of the week."
+
+SAFETY NET: 
+"If you develop severe chest pain, sudden weakness in your face or arms, or difficulty speaking, call an ambulance immediately."
+
+## Station 4 — Medical Record + Prescription Writing
+
+### Subjective (S)
+Mr Lee Wai Ming (M/55), taxi driver, referred by nurse for elevated BP found on routine check.
+BP 158/96 mmHg on 2 occasions (today and 2 weeks ago). Asymptomatic — no headache, visual changes, chest pain, dyspnoea, palpitations, haematuria, or oedema.
+PMH: Nil significant. No DM, dyslipidaemia, CVD, renal disease.
+Medications: Nil regular. No NSAIDs, decongestants. NKDA.
+Social: Works as taxi driver (shift work); sedentary occupation. Married. Non-smoker. Occasional beer (3-4 cans/week). Diet: irregular, high in takeaway food.
+FH: Father died of "heart attack" at 62. Mother has hypertension, on 2 medications.
+
+### Objective (O)
+Vitals: BP Right arm 158/96 mmHg, Left arm 154/94 mmHg. HR 78 bpm regular. BMI 27.3 kg/m² (overweight). Waist circumference 96 cm.
+Cardiovascular: Heart sounds I+II normal, no murmurs. JVP not elevated. No peripheral oedema. Peripheral pulses palpable bilaterally.
+Fundoscopy: Grade 1 hypertensive retinopathy (mild AV nicking bilaterally).
+Abdomen: No renal bruits. No masses. No pulsatile aortic mass.
+Respiratory: Clear.
+Investigations (today): Urinalysis — trace protein, no blood, no glucose. Spot urine PCR: 28mg/mmol (mildly elevated; normal <30). ECG: sinus rhythm, no LVH by voltage criteria. Random cholesterol 5.8 mmol/L. Random glucose 6.1 mmol/L.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Essential Hypertension, Stage 2 (BP ≥160/100 or 140-159/90-99 + target organ damage)
+Evidence: Bilateral BP 155-158/94-96 mmHg; Grade 1 hypertensive retinopathy; mildly elevated urine PCR; overweight.
+No evidence of secondary HTN (no renal bruits, no features of phaeochromocytoma/Conn's).
+
+COMPLICATIONS NOTED:
+• Grade 1 hypertensive retinopathy (earliest target organ damage)
+• Overweight (BMI 27.3; contributing factor)
+
+COMORBIDITIES TO INVESTIGATE:
+• Possible impaired fasting glucose (random 6.1 — needs fasting glucose or HbA1c to confirm)
+• Dyslipidaemia (total cholesterol 5.8 — needs fasting lipid profile + QRISK3)
+
+### Plan (P)
+1. INVESTIGATIONS: 
+   a) Fasting lipid profile (LDL, HDL, TG) + fasting glucose / HbA1c
+   b) U&E + creatinine (eGFR baseline before antihypertensive)  
+   c) Serum potassium (before prescribing ACEi/ARB)
+   d) 24h urine PCR (formal proteinuria quantification)
+   e) HBPM: advise home blood pressure monitoring; log morning + evening readings for 7 days before next visit
+   f) Ophthalmology referral for formal fundus photography
+
+2. MEDICATION: Amlodipine 5mg orally once daily.
+
+3. LIFESTYLE:
+   a) DASH diet: reduce salt <6g/day; increase fruit/vegetables
+   b) Exercise: 30 min brisk walk ≥5 days/week
+   c) Weight reduction: target BMI <25 (lose ~5kg initially)
+   d) Limit alcohol: <14 units/week; space alcohol-free days
+   e) Stress management: pacing between taxi shifts
+
+4. SAFETY NET: Return to A&E if sudden severe headache, visual loss, chest pain, weakness/numbness, confusion — hypertensive emergency.
+
+5. FOLLOW-UP: 2 weeks (BP recheck + U&E after starting amlodipine). Then monthly until target <130/80 mmHg achieved.
+
+6. OPPORTUNISTIC: FIT test arranged (CRCSP — age 55, within target range). Brief smoking cessation advice reinforced (non-smoker — maintain). Flu vaccine offered.
+
+### Prescription
+- **Drug**: Amlodipine besylate
+- **Preparation**: Tablets
+- **Dose**: 5mg
+- **Route**: Oral
+- **Frequency**: Once daily
+- **Duration**: 28 days (review)
+- **Quantity**: 28 tablets
+
+**Notes**: Take at the same time each day. May cause ankle swelling — elevate legs if occurs. Do not stop without doctor advice.
+
+**Tips**:
+- Write "5mg" NOT "5.0mg"
+- "Amlodipine" (generic) NOT "Norvasc" alone
+- "Once daily" NOT "OD" or "QD"
+- Specify route: "Oral"
+- Include quantity: "28 tablets"
+- Sign with full name + registration number + date
+- Write patient name + DOB + ID number
 

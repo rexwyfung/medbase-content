@@ -14,7 +14,7 @@
 **Examiner's Pearl**: Rotator cuff: Painful arc (60-120 degrees), weakness in abduction/external rotation.
 **Answer**: 肩袖：疼痛弧（60-120度），外展/外旋無力。
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: A 35-year-old IT worker complains of neck and shoulder pain for 2 months. It worsens after long hours at the computer. He is worried about a "slipped disc".
 
@@ -86,4 +86,104 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about how to improve your workspace, and then we will discuss physiotherapy and medications."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: A 35-year-old IT worker complains of neck and shoulder pain for 2 months. It worsens after long hours at the computer. He is worried about a "slipped disc".
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned having neck and shoulder pain. Can you tell me more about what the pain feels like?"
+
+ACTIVE LISTENING:
+Listen for the nature of the pain, its relationship to work, and any associated symptoms.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS SYMPTOMS (SOCRATES):
+- Site: "Where exactly is the pain?"
+- Onset: "When did it start?"
+- Character: "Is it an aching, burning, or sharp pain?"
+- Radiation: "Does the pain shoot down your arm?"
+- Exacerbating/Relieving factors: "Does looking at the computer make it worse? Does rest help?"
+
+RED FLAGS (Cervical Radiculopathy / Myelopathy):
+- "Do you have any numbness, tingling, or weakness in your arms or hands?"
+- "Have you noticed any clumsiness in your hands or difficulty walking?"
+- "Have you had any recent trauma or unexplained weight loss?"
+
+PHYSICAL EXAM:
+- Inspect posture.
+- Palpate for muscle spasm/tenderness in the cervical paraspinal and trapezius muscles.
+- Assess Range of Motion (ROM) of the neck.
+- Neurological exam of upper limbs (power, sensation, reflexes) if radiculopathy suspected.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think is causing the pain?"
+
+CONCERNS:
+"You mentioned a slipped disc. Are you experiencing any numbness or tingling in your arms?"
+
+EXPECTATIONS:
+"What were you hoping we could do today to help you?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on your examination, you have mechanical neck pain, which is essentially muscle strain from poor posture. There are no signs of a slipped disc or nerve damage."
+
+EXPLANATION:
+"When you sit at a computer for long periods, your neck muscles have to work very hard to support your head. Over time, these muscles get tired, tight, and painful."
+
+CHECK UNDERSTANDING:
+"Does this make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"This is a very common problem for people who work on computers, and it usually improves with the right exercises and posture changes."
+
+PLAN:
+"I will prescribe some painkillers and muscle relaxants for short-term relief. More importantly, I will refer you to a physiotherapist."
+
+ADVICE:
+"Try to take frequent breaks at work to stretch your neck and shoulders. Ensure your computer screen is at eye level."
+
+SAFETY NET:
+"If you start feeling numbness, tingling, or weakness in your arms or hands, please come back and see me immediately."
+
+## Station 4 — Medical Record + Prescription Writing
+
+### Subjective (S)
+Mr Chan Kwok Keung (M/55), taxi driver, presents with a 2-month history of right shoulder pain and stiffness. Pain is worse at night and when lying on the right side. Difficulty reaching his back pocket or combing his hair. No history of trauma. No neck pain, no radiation of pain to the hand, no numbness or weakness. PMH: Type 2 Diabetes Mellitus (HbA1c 8.2%). NKDA.
+
+### Objective (O)
+Vitals: BP 135/85 mmHg, HR 78 bpm, afebrile.
+Right Shoulder: No swelling, no erythema. No focal point tenderness.
+Range of Motion (ROM): Active and passive ROM globally restricted. Flexion limited to 90°, abduction limited to 80°, external rotation severely limited to 10°.
+Neurological: Upper limb sensation, power, and reflexes are intact and symmetrical. Radial pulse normal.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Adhesive Capsulitis (Frozen Shoulder) of the right shoulder.
+Evidence: Insidious onset, global restriction of both active and passive ROM (especially external rotation), associated with Diabetes Mellitus.
+
+NOT: Rotator cuff tear (passive ROM is usually preserved in tears), Cervical radiculopathy (no neck pain, no neurological deficits).
+
+### Plan (P)
+1. EDUCATION: Explained the natural history of frozen shoulder (freezing, frozen, thawing phases) and that it is self-limiting but can take 1-2 years to resolve.
+2. MEDICATION: Prescribed Naproxen 250mg BD PC for 2 weeks for pain relief and inflammation.
+3. REFERRAL: Referred to Physiotherapy for gentle stretching and range of motion exercises.
+4. DM CONTROL: Advised that better glycemic control may help; scheduled a separate visit to optimize diabetes management.
+5. FOLLOW-UP: Review in 4 weeks to assess pain and ROM.
+
+### Prescription
+- **Drug**: Naproxen
+- **Preparation**: Tablet
+- **Dose**: 250 mg
+- **Route**: Oral
+- **Frequency**: Twice daily (BD) after meals
+- **Duration**: 2 weeks
+- **Quantity**: 28 tablets
+
+**Tips**:
+- Specify "after meals" (PC) to reduce GI side effects
+- Prescribe an NSAID for inflammatory pain
 

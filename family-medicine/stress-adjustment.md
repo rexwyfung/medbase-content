@@ -14,7 +14,7 @@
 **Examiner's Pearl**: Always assess suicide risk.
 **Answer**: 始終評估自殺風險。
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: A 28-year-old woman complains of poor sleep, fatigue, and frequent crying spells for 3 weeks after losing her job. She feels overwhelmed but denies suicidal thoughts.
 
@@ -87,4 +87,102 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about some ways to help you sleep better naturally, and then we will discuss getting you some counseling support."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: A 28-year-old woman complains of poor sleep, fatigue, and frequent crying spells for 3 weeks after losing her job. She feels overwhelmed but denies suicidal thoughts.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned you've been having trouble sleeping and feeling very tired and tearful. Can you tell me more about what's been happening?"
+
+ACTIVE LISTENING:
+Listen for the timeline of symptoms and their relation to the job loss.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS SYMPTOMS (Depression Screen - SIGECAPS):
+- "How is your appetite? Have you lost or gained weight?"
+- "Are you still able to enjoy things you usually like doing?"
+- "Do you have trouble concentrating or making decisions?"
+- "Do you feel guilty or worthless?"
+
+RED FLAGS (Suicide Risk):
+- "Have you had any thoughts that life is not worth living?"
+- "Have you had any thoughts of harming yourself or ending your life?"
+
+RISK FACTORS:
+- "Have you ever experienced depression or anxiety in the past?"
+- "Do you have a support system, like family or close friends?"
+
+PHYSICAL EXAM:
+- General appearance (signs of self-neglect, psychomotor retardation/agitation).
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think is causing your sleep problems and fatigue?"
+
+CONCERNS:
+"Are you worried about your financial situation or finding a new job?"
+
+EXPECTATIONS:
+"What were you hoping we could do today to help you cope?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on what you've told me, you are experiencing an adjustment disorder. This is a strong emotional reaction to a major life change, like losing your job."
+
+EXPLANATION:
+"It is completely normal to feel overwhelmed, sad, and have trouble sleeping when faced with such a stressful event. Your mind and body are trying to process the change."
+
+CHECK UNDERSTANDING:
+"Does this make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"This is a temporary reaction, and with time and support, you will start to feel better and regain your balance."
+
+PLAN:
+"I would like to refer you to a counselor who can help you process these feelings and develop coping strategies. I can also give you a few days of a mild sleeping aid to help you rest."
+
+ADVICE:
+"Try to keep a daily routine. Go for a walk, eat regular meals, and talk to friends or family. Avoid alcohol, as it can worsen your mood."
+
+SAFETY NET:
+"If you start feeling that life is not worth living, or if you have thoughts of harming yourself, please contact me, go to the A&E, or call a crisis hotline immediately."
+
+## Station 4 — Medical Record + Prescription Writing
+
+### Subjective (S)
+Mr Wong Kin Ming (M/40), IT professional, presents with 1-month history of insomnia (difficulty falling asleep), irritability, and poor concentration. Stressor: impending company layoffs announced 6 weeks ago. Worried about finances and paying mortgage. No low mood, no anhedonia, no early morning waking. No suicidal ideation. No alcohol abuse. PMH: Nil. NKDA. Social: Married, 1 child. Non-smoker. Occasional social drinking.
+
+### Objective (O)
+Vitals: BP 120/80 mmHg, HR 76 bpm, afebrile.
+Appearance: Alert, cooperative, appears slightly tense but easily engaged.
+Mental State Exam: Euthymic mood, congruent affect. Speech normal rate and tone. Thought content: focused on job security and financial worries. No psychotic features. Cognition intact. Insight present.
+Physical: Unremarkable.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Adjustment Disorder with anxious mood (ICD-10: F43.2)
+Evidence: Identifiable stressor (layoffs); symptoms within 1 month of stressor; marked distress but does not meet criteria for Major Depressive Disorder or Generalized Anxiety Disorder.
+
+NOT: Major Depressive Disorder (no pervasive low mood or anhedonia).
+
+### Plan (P)
+1. PSYCHOEDUCATION: Validated feelings. Explained that this is a normal reaction to an abnormal stressor. Discussed sleep hygiene (avoid screens before bed, regular sleep schedule).
+2. MEDICATION: Zopiclone 7.5mg tablet — 1 tablet NOCTE PRN for insomnia. Short course (max 1 week) to avoid dependence.
+3. NON-PHARMACOLOGICAL: Advised stress management techniques (deep breathing, exercise). Encouraged seeking social support from family.
+4. FOLLOW-UP: Review in 2 weeks to monitor symptoms and sleep.
+
+### Prescription
+- **Drug**: Zopiclone
+- **Preparation**: Tablet
+- **Dose**: 7.5 mg
+- **Route**: Oral
+- **Frequency**: Once daily at night, when required (PRN) for insomnia
+- **Duration**: 7 days
+- **Quantity**: 7 tablets
+
+**Tips**:
+- Specify PRN for insomnia
+- Limit duration to 1 week to prevent dependence
 

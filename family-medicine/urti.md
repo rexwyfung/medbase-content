@@ -20,7 +20,7 @@
 **Examiner's Pearl**: Antibiotic stewardship: do NOT prescribe antibiotics for viral URTI — delayed prescription strategy is appropriate if patient insists (fill only if not improving in 48-72h)
 **Answer**: 抗生素管理：不要對病毒性上呼吸道感染處方抗生素——若患者堅持，延遲處方策略是適當的（僅在48-72小時未改善時填寫）
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Mrs Chan brings her 5-year-old son, Tommy. He has had a runny nose, cough, and mild fever for 3 days. He is eating and playing normally. Mrs Chan is demanding antibiotics so he can go back to school faster.
 
@@ -99,4 +99,134 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about what is causing his symptoms, and then we will discuss the best way to help him recover."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents with a sore throat, runny nose, and mild cough for 3 days. No fever. Wants medication to cure it quickly.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned having a sore throat and a cough. Can you tell me more about how you have been feeling?"
+
+ACTIVE LISTENING:
+Allow the patient to list their symptoms without interrupting.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS URTI SYMPTOMS:
+- "When did the sore throat start? Is it painful to swallow?"
+- "Is the cough dry or are you coughing up phlegm? What color is the phlegm?"
+- "Have you had a fever or chills?"
+
+SCREEN FOR RED FLAGS (BACTERIAL INFECTION / COMPLICATIONS):
+- "Are you having any difficulty breathing or shortness of breath?"
+- "Do you have any severe pain in your face or ears?"
+- "Are you coughing up any blood?"
+- "Have you noticed any swollen glands in your neck?"
+
+PHYSICAL EXAM:
+- Examine throat for erythema or exudate (tonsillitis).
+- Check cervical lymph nodes.
+- Auscultate lungs to ensure they are clear.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think is causing this cold?"
+
+CONCERNS:
+"Are you worried about it turning into something worse, like bronchitis?"
+
+EXPECTATIONS:
+"You mentioned wanting a quick cure. Were you hoping for antibiotics today?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on your symptoms and my examination, you have a viral Upper Respiratory Tract Infection, commonly known as a cold."
+
+EXPLANATION:
+"This is caused by a virus. Your immune system is currently fighting it off, which is why you have a runny nose and cough. The cough is your body's way of clearing the virus out of your airways."
+
+CHECK UNDERSTANDING:
+"Does that make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"This is very common and your body will clear it naturally within a week or two."
+
+ADVICE (ANTIBIOTIC STEWARDSHIP):
+"Because this is a virus, antibiotics will not work and will not cure you faster. They only kill bacteria."
+
+PLAN:
+"I will prescribe some symptomatic relief medications: lozenges for your throat, a syrup for the cough, and Paracetamol for any aches."
+
+ADVICE:
+"Drink plenty of water, get lots of rest, and wash your hands frequently to avoid spreading it."
+
+SAFETY NET:
+"If you develop a high fever, start coughing up blood, or have difficulty breathing, please come back immediately."
+
+## Station 4 — Medical Record + Prescription
+
+### Subjective (S)
+Mrs Ho Mei Lan (F/35), nurse, presents with 3-day sore throat, mucopurulent nasal discharge (yellow-green — viral, NOT bacterial indicator per se), mild cough (non-productive), low-grade fever (38.1°C). No dysphagia, odynophagia, drooling, trismus, ear pain, neck stiffness. PMH: Nil. NKDA. Social: Works as ward nurse. Non-smoker. Married, no dependants unwell. Vaccinated (flu vaccine last year — now October, due for current season's vaccine). No recent travel. No sick contacts reported but works in hospital setting.
+
+### Objective (O)
+Vitals: Temp 38.1°C, HR 90 bpm, BP 116/72 mmHg, RR 18/min, SpO2 99% RA.
+Oropharynx: Mildly injected tonsils and pharyngeal wall. No exudate. Uvula central, no deviation. No peritonsillar swelling.
+Ears: Tympanic membranes clear bilaterally — no signs of acute otitis media.
+Nose: Mild mucosal erythema, clear/yellow discharge. No sinus tenderness.
+Neck: Superficial small cervical lymph nodes — NOT tender. No rigidity. No meningism.
+Chest: Clear bilaterally. No wheeze, no crackles.
+Centor Score: 1/4 (temperature only — no exudate, no tender LN, cough present → absent of cough criterion not met).
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Viral Upper Respiratory Tract Infection (acute pharyngitis/rhinitis) — most likely
+Supporting: Centor score 1 (low probability of Group A Streptococcus); clear/mild tonsil injection without exudate; cough present; self-limiting course; no complications.
+
+DIFFERENTIAL DIAGNOSES:
+• Group A Streptococcal pharyngitis — low probability (Centor 1; no exudate; cough present); does not warrant antibiotics
+• Influenza — possible (fever, myalgia, sudden onset often more severe in flu); manage symptomatically regardless
+• Infectious mononucleosis — less likely (no marked lymphadenopathy, no splenomegaly at this stage)
+
+NO ANTIBIOTICS INDICATED.
+
+### Plan (P)
+1. SYMPTOMATIC TREATMENT:
+   a) Paracetamol 500mg — 2 tablets (1g) four times daily (maximum 4g/day) for fever and sore throat pain
+   b) Ibuprofen 400mg three times daily with food (if no GI/renal contraindications)
+   c) Warm salt water gargling (0.5 tsp salt in 250mL warm water) × several times daily
+   d) Adequate hydration (aim 2L fluid/day); soft diet if swallowing painful
+   e) Throat lozenges (benzocaine) for symptomatic relief
+
+2. NO ANTIBIOTICS: Viral URTI; Centor 1; not indicated. Antibiotic prescribing would not reduce duration, may cause adverse effects (GI upset, allergic reaction, resistance).
+
+3. DELAYED PRESCRIPTION (offered and accepted): Phenoxymethylpenicillin 500mg four times daily × 10 days — given with instruction to fill and take ONLY if not improving or worsening after 72 hours from today.
+
+4. OCCUPATIONAL ADVICE: Advise to stay home while febrile. May return to work when afebrile for 24 hours and feeling well enough.
+
+5. OPPORTUNISTIC: Current season influenza vaccine offered (October — flu season approaching). Patient to book when recovered.
+
+6. SAFETY NET: Return urgently/A&E if: fever persists >7 days, increasing difficulty swallowing/breathing, drooling (quinsy), unilateral throat swelling, neck stiffness (meningism), rash (scarlet fever).
+
+7. FOLLOW-UP: PRN — return if not improving in 7 days.
+
+### Prescription
+- **Drug**: Paracetamol
+- **Preparation**: Tablets
+- **Dose**: 500mg (take 2 tablets = 1g per dose)
+- **Route**: Oral
+- **Frequency**: Four times daily (every 6 hours)
+- **Duration**: 7 days (or until symptoms resolve)
+- **Quantity**: 56 tablets
+
+**Notes**: Take 2 tablets (1g) at a time. Maximum 8 tablets (4g) in 24 hours. Do not exceed stated dose. Avoid alcohol.
+
+**Tips**:
+- "Paracetamol" (generic) NOT "Panadol" alone
+- "500mg tablets" — specify strength per tablet
+- Dose = "2 tablets (1g)" to make maximum dose clear
+- "Four times daily" or "every 6 hours" NOT "QDS" or "QID"
+- "Oral" route must be stated
+- WARNING: Maximum paracetamol dose = 4g/day (8×500mg tablets). Writing >4g/day = potentially fatal prescription = 0 marks
+- If writing 1g tablets: "1 tablet four times daily" — never write "2 tablets" for 1g tabs without specifying the strength
+- "56 tablets" (8/day × 7 days)
 

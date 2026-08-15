@@ -1,6 +1,8 @@
 # Falls
 
-## Station 1: Station 1 — Management Interview
+## General
+
+## Station 1 — Management Interview
 
 **Scenario**: An 80-year-old woman fell in her bathroom 2 days ago. She did not hit her head or break any bones, but she is now very afraid of falling again and refuses to leave her bed.
 
@@ -76,4 +78,97 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's review the medications you are taking to see if any of them might have made you dizzy, and then we will talk about how to make your home safer."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: An 80-year-old woman fell in her bathroom 2 days ago. She did not hit her head or break any bones, but she is now very afraid of falling again and refuses to leave her bed.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"I understand you had a fall in the bathroom recently. Can you tell me exactly what happened right before and after you fell?"
+
+ACTIVE LISTENING:
+Listen for the mechanism of the fall (slip, trip, dizziness, blackout) and her current emotional state.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS THE FALL (SPLATT):
+- Symptoms before fall: "Did you feel dizzy, lightheaded, or have palpitations before you fell?"
+- Previous falls: "Have you had any other falls in the past year?"
+- Location: "Where exactly in the bathroom did it happen?"
+- Activity: "What were you doing? Getting out of the shower? Standing up from the toilet?"
+- Time: "What time of day was it?"
+- Trauma: "Did you hit your head or lose consciousness? Are you in any pain now?"
+
+ASSESS RISK FACTORS:
+- "Do you take any medications to help you sleep, or for your blood pressure?"
+- "How is your eyesight? When was your last eye check?"
+- "Do you ever have trouble controlling your bladder and have to rush to the toilet?"
+
+PHYSICAL EXAM:
+- Check lying and standing blood pressure (Orthostatic hypotension).
+- Assess gait and balance (e.g., Timed Up and Go test, if she is willing to try).
+- Brief neurological exam (strength, sensation, coordination).
+- Examine joints for arthritis or deformities.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"Why do you think you fell in the bathroom?"
+
+CONCERNS:
+"Are you worried that if you get up, you will fall and break a bone?"
+
+EXPECTATIONS:
+"What were you hoping we could do today to help you feel safe enough to move around again?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"You had a mechanical fall, likely due to a slippery floor, but your main problem right now is a severe fear of falling."
+
+EXPLANATION:
+"It is very common to be afraid after a fall. However, when you stay in bed, your muscles quickly lose their strength and your balance gets worse. This actually makes you much more likely to fall the next time you do try to walk."
+
+CHECK UNDERSTANDING:
+"Does it make sense why staying in bed might actually be more dangerous in the long run?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"We are not going to force you to do anything you are not ready for. We will take small steps to build your confidence and strength back up safely."
+
+PLAN:
+"I will arrange for a physiotherapist to come and teach you safe exercises you can do, starting from your bed or chair. An occupational therapist will also check your bathroom to make it safer."
+
+ADVICE:
+"For today, let's just try sitting up in a chair for a little while. Make sure you have good lighting at night, and wear well-fitting slippers with a grip."
+
+SAFETY NET:
+"If you feel dizzy, have chest pain, or if you do have another fall, please let your family know immediately so they can call for help."
+
+## Station 4 — Medical Record + Prescription
+
+### Subjective (S)
+Patient presents with symptoms of Falls.
+
+### Objective (O)
+Vitals stable. Physical examination findings consistent with Falls.
+
+### Assessment (A)
+Primary Diagnosis: Falls
+
+### Plan (P)
+1. Start appropriate medication.
+2. Lifestyle advice.
+3. Follow-up in 4 weeks.
+
+### Prescription
+- **Drug**: Standard Medication for Falls
+- **Preparation**: Tablets
+- **Dose**: Standard dose
+- **Route**: Oral
+- **Frequency**: Daily
+- **Duration**: 28 days
+- **Quantity**: 28 tablets
+
+**Tips**:
+- Write clearly
+- Specify route
 

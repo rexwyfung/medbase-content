@@ -20,7 +20,7 @@
 **Examiner's Pearl**: PSA: not routine screening in HK; shared decision-making; total PSA >4 ng/mL or free/total ratio <25% → urology referral
 **Answer**: PSA：香港不作常規篩查；共同決策；總PSA>4 ng/mL或游離/總PSA比率<25%→轉介泌尿外科
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Mr Chan, 68M, retired. Presents with 1 year of poor urine stream, hesitancy, terminal dribbling, and waking up 3 times a night to urinate. He is exhausted from lack of sleep. Digital Rectal Exam shows a smooth, enlarged prostate. PSA is normal. He is worried about prostate cancer.
 
@@ -100,4 +100,121 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about why we can safely say this isn't cancer, and then we will discuss the medication that will relax your prostate."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents with a weak urine stream, having to wait for the urine to start, and waking up multiple times at night to urinate for the past year.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned having some trouble passing urine and waking up at night. Can you tell me more about what you have been experiencing?"
+
+ACTIVE LISTENING:
+Allow the patient to describe their urinary symptoms without interrupting.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS LUTS (LOWER URINARY TRACT SYMPTOMS):
+- Voiding: "Is the stream weak? Do you have to wait a long time for it to start? Does it dribble at the end?"
+- Storage: "How many times do you wake up at night to pee? Do you ever have to rush to the toilet during the day?"
+- Emptying: "Do you feel like your bladder is not completely empty after you finish?"
+
+SCREEN FOR RED FLAGS (PROSTATE CANCER / RETENTION):
+- "Have you ever seen any blood in your urine?"
+- "Have you had any unexplained weight loss or pain in your bones/back?"
+- "Have you ever suddenly been completely unable to pass urine?"
+
+SCREEN FOR INFECTION:
+- "Does it burn or hurt when you pee?"
+- "Have you had a fever?"
+
+PHYSICAL EXAM:
+- Palpate lower abdomen for a distended bladder.
+- Perform a Digital Rectal Examination (DRE) to assess the size, symmetry, and texture of the prostate (looking for smooth enlargement vs. hard nodules).
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think is causing these urinary problems?"
+
+CONCERNS:
+"Are you worried about prostate cancer or needing surgery?"
+
+EXPECTATIONS:
+"What were you hoping we could do to help you today?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on your symptoms and the physical exam, you have Benign Prostatic Hyperplasia, or an enlarged prostate. It is benign, meaning it is not cancer."
+
+EXPLANATION:
+"The prostate sits right around the tube that carries urine out of your bladder. As it gets bigger with age, it squeezes that tube. This makes the stream weak and prevents the bladder from emptying fully, which is why it fills up quickly and wakes you up at night."
+
+CHECK UNDERSTANDING:
+"Does that explanation make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"This is a very common part of aging for men. Your prostate feels smooth, so there are no signs of cancer. We have good medications to help."
+
+INVESTIGATE:
+"I will arrange a blood test called PSA to check your prostate health, and a kidney function test. We will also test your urine for infection."
+
+PLAN:
+"I will prescribe a medication that relaxes the muscles in the prostate. This will take the pressure off the tube and make it easier to pee."
+
+ADVICE:
+"Stop drinking fluids 2 hours before bedtime to reduce night-time waking. Cut down on caffeine and alcohol, as they irritate the bladder."
+
+SAFETY NET:
+"If you ever find that you cannot pass urine at all and your tummy becomes very painful, go to the A&E immediately."
+
+## Station 4 — Records & Prescription: BPH
+
+### Subjective (S)
+Mr Chan, 67M. BPH review. 
+On tamsulosin 0.4mg OD × 3 months. IPSS improved: 16 → 11 (moderate).
+Nocturia reduced: 3 → 2/night. Less hesitancy. Still aware of incomplete emptying.
+No haematuria. No postural dizziness. No ejaculatory dysfunction reported (not sexually active).
+PSA 4.8 ng/mL — urology referral made.
+
+### Objective (O)
+BP 128/76  HR 68  No postural drop
+Abdomen: soft, no palpable bladder, no flank tenderness
+DRE: enlarged prostate (estimated 40mL), smooth, no nodules, no tenderness
+Urinalysis: no haematuria, no nitrites, no leucocytes
+Renal function: Cr 88, eGFR 72 (stable)
+Post-void residual (by bladder scan): 85mL (normal <100mL)
+
+### Assessment (A)
+BPH, moderate LUTS (IPSS 11). Partial response to tamsulosin.
+Prostate ~40mL → consider adding 5-ARI (dutasteride) for combination therapy.
+PSA 4.8 — urology referral pending (elevated for age, BPH most likely cause, exclude Ca).
+
+### Plan (P)
+1. Continue tamsulosin 0.4mg MR OD
+2. ADD dutasteride 0.5mg OD (large prostate 40mL, partial response to alpha-blocker alone)
+   → Inform: 3–6 months for effect; PSA will halve — interpret accordingly
+   → SE: ED, reduced libido, gynaecomastia (usually transient)
+3. Lifestyle: reduce evening fluids after 6pm, limit caffeine, avoid alcohol
+4. Bladder diary provided
+5. Urology referral for PSA 4.8 (mpMRI prostate ± biopsy)
+6. Annual FBC, U&E, PSA (adjust for dutasteride ×2), IPSS score
+7. Review in 6 months (or earlier if symptoms worsen or urologist advice)
+
+### Prescription
+- **Drug**: Tamsulosin hydrochloride
+- **Preparation**: Modified-release capsule 0.4mg
+- **Dose**: 0.4 mg
+- **Route**: Oral
+- **Frequency**: Once daily (30 min after the same meal each day)
+- **Duration**: Ongoing, review in 6 months
+- **Quantity**: 90 capsules
+
+**Notes**: Swallow whole — do not crush or chew MR capsule. Take 30 min after same meal daily. Warn: first-dose postural hypotension — rise slowly from sitting/lying. Retrograde ejaculation possible. IMPORTANT: inform ophthalmologist before cataract surgery (intraoperative floppy iris syndrome).
+
+**Tips**:
+- Must write "Modified-release" or "MR" — plain tamsulosin has different pharmacokinetics
+- Common error: not specifying timing relative to meals
+- CRITICAL counselling: cataract surgery warning — examiners test this
+- Alpha-blockers LOWER blood pressure — caution in patients on antihypertensives
+- Do NOT prescribe tamsulosin with sildenafil without careful discussion (BP drop risk)
 

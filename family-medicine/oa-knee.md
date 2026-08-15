@@ -20,7 +20,7 @@
 **Examiner's Pearl**: Beware NSAIDs in elderly: GI bleed (add PPI), renal impairment, cardiovascular risk, hypertension worsening
 **Answer**: 老年患者NSAIDs注意事項：胃腸道出血（加PPI）、腎功能損害、心血管風險、高血壓加重
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Madam Wong, 65F, retired restaurant worker. Presents with bilateral knee pain for 3 years, worse on the right. Pain is worse after walking or climbing stairs, and relieved by rest. She has morning stiffness lasting 15 minutes. BMI is 32. She is asking for knee replacement surgery because her friend had it.
 
@@ -99,4 +99,122 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about why surgery isn't the first step, and then we will discuss the three things we can do today to reduce your pain."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents with chronic knee pain for several years, worse when walking or climbing stairs. She is overweight and wants a knee replacement.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned having knee pain for a few years and wanting surgery. Can you tell me more about how the pain is affecting you?"
+
+ACTIVE LISTENING:
+Allow the patient to describe their knee pain and mobility issues without interrupting.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS OA SYMPTOMS:
+- "Is the pain worse when you are active, like climbing stairs, and better when you rest?"
+- "Do your knees feel stiff when you wake up? How long does the stiffness last?" (Should be <30 mins for OA).
+- "Do you hear a grating or crunching sound when you move your knees?"
+
+SCREEN FOR RED FLAGS (INFECTION / INFLAMMATORY ARTHRITIS):
+- "Have your knees ever been suddenly red, hot, and swollen?"
+- "Have you had any fevers?"
+- "Do you have pain in other joints, like your hands or wrists?"
+
+ASSESS IMPACT & RISK FACTORS:
+- "How far can you walk before the pain stops you?"
+- "What kind of work did you do in the past?" (Occupational wear and tear).
+
+PHYSICAL EXAM:
+- Calculate BMI.
+- Inspect knees for deformity (e.g., varus/bow-legged).
+- Palpate for joint line tenderness and crepitus (crunching feeling).
+- Assess range of motion and check for effusions (fluid in the joint).
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think has caused this pain in your knees?"
+
+CONCERNS:
+"Are you worried about losing your ability to walk independently?"
+
+EXPECTATIONS:
+"You mentioned wanting surgery. What did you hope I would do for you today regarding that?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on your symptoms and my examination, you have Osteoarthritis in your knees. This is 'wear and tear' of the cartilage."
+
+EXPLANATION:
+"The smooth cartilage that cushions your knee bones has worn down over the years. Now, the bones are rubbing closer together, which causes the pain and the crunching sound when you walk."
+
+CHECK UNDERSTANDING:
+"Does that explanation make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"This is a very common condition. While we cannot replace the worn cartilage, there is a lot we can do to reduce the pain without jumping straight to surgery."
+
+INVESTIGATE:
+"I will arrange an X-ray of your knees while you are standing up. This will show us exactly how much the cartilage has worn down."
+
+PLAN:
+"Before any surgeon will consider a knee replacement, we must try conservative treatment. I will prescribe regular painkillers and a gel to rub on the knee. I will also refer you to physiotherapy."
+
+ADVICE:
+"The two most important things you can do are lose weight and strengthen your thigh muscles. Every pound lost takes 4 pounds of pressure off your knees. The physiotherapist will teach you safe exercises."
+
+SAFETY NET:
+"If your knee suddenly becomes red, hot, swollen, and extremely painful, go to the A&E immediately as it could be an infection."
+
+## Station 4 — Records & Prescription: OA Knee
+
+### Subjective (S)
+Mrs Ng, 68F. OA bilateral knees review.
+Right knee pain VAS 7/10. Paracetamol 1g PRN "sometimes 2-3 per day, not helping".
+Cannot walk >10 min without pain. Stopped Tai Chi. Lives alone — concerned about function.
+Comorbidities: HTN (on amlodipine), CKD 3 (eGFR 38), ex-peptic ulcer.
+
+### Objective (O)
+BMI 32.1  BP 136/84
+Right knee: medial JL tenderness, crepitus ++, small effusion (positive bulge sign)
+Left knee: mild medial JL tenderness, no effusion
+ROM: right 0–105°, left 0–120°. No varus/valgus deformity (yet)
+No synovitis of small joints. CRP 8 (mild elevation — consistent with OA)
+eGFR 38 (stable), Cr 142
+
+### Assessment (A)
+Bilateral knee OA (right symptomatic with effusion). Inadequate analgesia — paracetamol used PRN/subtherapeutic.
+NSAID contraindicated (CKD, PUD hx, HTN). 
+Plan: optimise paracetamol dosing, add topical diclofenac, physiotherapy referral, consider IA steroid for right knee effusion.
+
+### Plan (P)
+1. Paracetamol 1g QDS REGULARLY (not PRN) — advise consistent dosing for OA
+2. Topical diclofenac 1% gel TDS–QDS right knee (minimal systemic absorption — safer in CKD)
+3. Right knee intra-articular triamcinolone 40mg injection today (effusion present)
+4. Physiotherapy referral: quadriceps strengthening, gait training
+5. Weight management programme referral (BMI 32)
+6. Encourage Tai Chi return (safe — explain exercise is protective for OA)
+7. Walking stick (right hand for right knee OA) if needed for stability
+8. Orthopaedic referral: if no improvement in 3 months (TKR consideration)
+9. Review in 6 weeks: pain VAS, function, effusion
+
+### Prescription
+- **Drug**: Paracetamol (Acetaminophen)
+- **Preparation**: Film-coated tablet 500mg
+- **Dose**: 1000 mg (2 tablets)
+- **Route**: Oral
+- **Frequency**: Four times daily (every 6 hours), regularly
+- **Duration**: 4 weeks then review
+- **Quantity**: 224 tablets (2 boxes of 112)
+
+**Notes**: Take REGULARLY — not just for severe pain. Maximum 4g/24 hours. Take with food if GI upset. Do not take additional paracetamol-containing products (cold remedies, compound analgesics — risk of overdose). Reduced dose if eGFR <30.
+
+**Tips**:
+- For OA: write "REGULAR" dosing — PRN is subtherapeutic
+- Maximum 4g/day in healthy adults; reduce in liver disease or chronic alcohol use
+- Always warn about other paracetamol-containing OTC products
+- Paracetamol is the SAFEST analgesic in CKD (unlike NSAIDs or opioids)
+- Do not confuse with "acetaminophen" (US name) — same drug
 

@@ -14,7 +14,7 @@
 **Examiner's Pearl**: Post-menopausal bleeding (PMB) is endometrial cancer until proven otherwise. Requires urgent ultrasound/biopsy.
 **Answer**: 絕經後出血（PMB）在證實不是之前，應視為子宮內膜癌。需要緊急超聲波/活檢。
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: A 50-year-old woman complains of hot flushes, night sweats, and irregular periods for the past 6 months. She is having trouble sleeping and feels irritable. She asks about Hormone Replacement Therapy (HRT).
 
@@ -88,4 +88,103 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about some practical lifestyle tips, and then we will discuss HRT in detail."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: A 50-year-old woman complains of hot flushes, night sweats, and irregular periods for the past 6 months. She is having trouble sleeping and feels irritable. She asks about Hormone Replacement Therapy (HRT).
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned having hot flushes and trouble sleeping. Can you tell me more about how this has been affecting you?"
+
+ACTIVE LISTENING:
+Listen for the range of menopausal symptoms and their impact on her quality of life.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS SYMPTOMS:
+- "How frequent and severe are the hot flushes?"
+- "When was your last menstrual period? Have they been irregular?"
+- "Are you experiencing any vaginal dryness or pain during sex?"
+- "How is your mood? Have you been feeling down or anxious?"
+
+SCREEN FOR HRT CONTRAINDICATIONS:
+- "Do you have a personal or family history of breast cancer?"
+- "Have you ever had a blood clot in your legs or lungs?"
+- "Do you have any history of heart disease or stroke?"
+- "Have you had any unexplained vaginal bleeding?"
+
+PHYSICAL EXAM:
+- Check Blood Pressure and BMI.
+- Breast exam or pelvic exam only if indicated by symptoms.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you know about the menopause transition?"
+
+CONCERNS:
+"Do you have any specific concerns about HRT, like breast cancer risks?"
+
+EXPECTATIONS:
+"You mentioned HRT. Are you hoping to start it today?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on your age and symptoms, you are going through the perimenopause, which is the transition leading up to menopause."
+
+EXPLANATION:
+"During this time, your hormone levels, specifically estrogen, are fluctuating and dropping. This causes the hot flushes, irregular periods, and mood changes you are experiencing."
+
+CHECK UNDERSTANDING:
+"Does this make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"These symptoms are very common and we have effective treatments to help you feel better."
+
+PLAN:
+"We can discuss starting Hormone Replacement Therapy (HRT). Since you haven't had any red flags in your history, it could be a safe option for you to relieve the hot flushes and improve your sleep."
+
+ADVICE:
+"In the meantime, wearing layers, avoiding caffeine and spicy foods, and regular exercise can help manage the symptoms."
+
+SAFETY NET:
+"If you experience any heavy or unexpected vaginal bleeding, or notice any breast lumps, please come back to see me."
+
+## Station 4 — Medical Record + Prescription Writing
+
+### Subjective (S)
+Madam Lam Shuk Yee (F/51), presents with a 6-month history of irregular menses (cycles varying from 20 to 60 days) and frequent hot flushes (5-6 times a day), especially at night, causing poor sleep. Reports vaginal dryness and mild dyspareunia. Mood is slightly irritable but no severe depression. LMP was 2 months ago. PMH: Nil. NKDA. Social: Non-smoker. Married.
+
+### Objective (O)
+Vitals: BP 120/75 mmHg, HR 76 bpm, BMI 23 kg/m².
+General: Looks well, comfortable at rest.
+Abdomen: Soft, non-tender. No palpable pelvic masses.
+Breast: Normal, no lumps (mammogram 6 months ago was normal).
+Pelvic exam: Deferred (pap smear up to date and normal).
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Perimenopausal symptoms.
+Evidence: Age 51, irregular menses, vasomotor symptoms (hot flushes, night sweats), urogenital atrophy symptoms (vaginal dryness).
+
+NOT: Thyroid disease (no weight loss, tremor, or goitre, though TFT can be checked if in doubt).
+
+### Plan (P)
+1. EDUCATION: Explained that these are normal perimenopausal symptoms. Discussed lifestyle modifications for hot flushes (layered clothing, cool environment, avoiding spicy foods/caffeine).
+2. HRT COUNSELING: Discussed the risks and benefits of Hormone Replacement Therapy (HRT). Patient has an intact uterus, so combined HRT (estrogen + progestogen) is required to prevent endometrial hyperplasia. Patient opted to try non-hormonal methods first.
+3. MEDICATION: Prescribed topical vaginal estrogen cream (e.g., Premarin cream) for vaginal dryness and dyspareunia. Prescribed water-based lubricants.
+4. BONE HEALTH: Advised adequate calcium and vitamin D intake, and weight-bearing exercise.
+5. FOLLOW-UP: Review in 3 months. If vasomotor symptoms remain intolerable, will reconsider systemic HRT.
+
+### Prescription
+- **Drug**: Conjugated Estrogens (e.g., Premarin)
+- **Preparation**: Vaginal Cream (0.625mg/g)
+- **Dose**: 0.5 g
+- **Route**: Intravaginal
+- **Frequency**: Twice a week (after initial daily loading phase if prescribed)
+- **Duration**: 3 months
+- **Quantity**: 1 tube (42.5g)
+
+**Tips**:
+- Specify intravaginal route
+- Ensure patient understands it is for local symptoms only
 

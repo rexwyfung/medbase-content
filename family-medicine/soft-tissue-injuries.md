@@ -14,7 +14,7 @@
 **Examiner's Pearl**: Avoid HARM in first 48-72 hrs: Heat, Alcohol, Running, Massage.
 **Answer**: 首48-72小時避免HARM：熱敷、酒精、跑步、按摩。
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: A 25-year-old man twisted his right ankle while playing basketball yesterday. It is swollen and painful, but he can walk on it with a limp. He wants an X-ray.
 
@@ -88,4 +88,102 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about why an X-ray isn't necessary right now, and then we will discuss how you can treat the sprain at home."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: A 25-year-old man twisted his right ankle while playing basketball yesterday. It is swollen and painful, but he can walk on it with a limp. He wants an X-ray.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned you twisted your ankle playing basketball. Can you tell me exactly how it happened?"
+
+ACTIVE LISTENING:
+Listen for the mechanism of injury (e.g., inversion) and immediate symptoms.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS SYMPTOMS:
+- "Did you hear a pop or crack when it happened?"
+- "Were you able to walk on it immediately after the injury?"
+- "Can you walk on it now, even if it's painful?"
+
+RED FLAGS (Fracture):
+- "Is the pain so severe that you cannot put any weight on it at all?"
+- "Is there any numbness or tingling in your foot?"
+
+PHYSICAL EXAM (Apply Ottawa Ankle Rules):
+- Inspect for swelling, bruising, and deformity.
+- Palpate the posterior edge of the lateral and medial malleoli (lower 6cm).
+- Palpate the base of the 5th metatarsal and the navicular bone.
+- Assess ability to bear weight for 4 steps.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think has happened inside your ankle?"
+
+CONCERNS:
+"You mentioned wanting an X-ray. Are you worried that it might be broken?"
+
+EXPECTATIONS:
+"What were you hoping we could do for you today besides the X-ray?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"You have a sprained ankle. Because you can walk on it and there is no tenderness on the specific bones I pressed, it is highly unlikely to be broken. Therefore, an X-ray is not necessary."
+
+EXPLANATION:
+"A sprain means the ligaments, which are the strong bands holding your bones together, have been stretched or slightly torn. This causes the swelling and pain."
+
+CHECK UNDERSTANDING:
+"Does this make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"Sprains are very common and heal well with time and proper care."
+
+PLAN:
+"I will prescribe some painkillers to help with the discomfort and give you a bandage for support."
+
+ADVICE:
+"Follow the RICE protocol: Rest, Ice, Compression, and Elevation. Avoid Heat, Alcohol, Running, and Massage for the first few days."
+
+SAFETY NET:
+"If the pain gets significantly worse, if you become completely unable to put weight on it, or if it's not improving after a week, please come back."
+
+## Station 4 — Medical Record + Prescription Writing
+
+### Subjective (S)
+Mr Ho Ka Chun (M/22), university student, presents with right ankle pain after twisting it during a basketball game 2 hours ago. It was an inversion injury. Pain is 6/10. He was able to bear weight and walk off the court, and walked into the clinic with a slight limp. No other injuries. PMH: Nil. NKDA.
+
+### Objective (O)
+Vitals: BP 120/75 mmHg, HR 80 bpm, afebrile.
+Right Ankle: Mild swelling over the lateral malleolus, specifically over the anterior talofibular ligament (ATFL). No bruising yet.
+Palpation: Tenderness over the ATFL. NO bony tenderness over the posterior edge or tip of the lateral malleolus, medial malleolus, base of 5th metatarsal, or navicular bone.
+ROM: Active and passive inversion is painful. Plantarflexion and dorsiflexion are relatively preserved.
+Neurovascular: Distal pulses (DP, PT) present. Sensation intact.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Right Ankle Sprain (Grade 1-2, likely ATFL).
+Evidence: Inversion injury, localized swelling and tenderness over ATFL, able to bear weight.
+
+NOT: Ankle fracture (Ottawa Ankle Rules are negative: able to bear weight for 4 steps, no bony tenderness in specified zones). X-ray is NOT indicated.
+
+### Plan (P)
+1. INVESTIGATIONS: Explained that an X-ray is not needed based on clinical examination (Ottawa rules).
+2. MANAGEMENT: Advised PRICE principles (Protect, Rest, Ice, Compress, Elevate) and to avoid HARM (Heat, Alcohol, Running, Massage) for the first 72 hours.
+3. MEDICATION: Prescribed Ibuprofen 400mg TDS PC for pain and inflammation. Paracetamol 1g Q6H PRN for breakthrough pain.
+4. SUPPORT: Provided an elastic tubular bandage (Tubigrip) for compression and support.
+5. FOLLOW-UP: Advised to return if pain worsens, unable to bear weight, or no improvement in 1-2 weeks. Consider physiotherapy if symptoms persist.
+
+### Prescription
+- **Drug**: Ibuprofen
+- **Preparation**: Tablet
+- **Dose**: 400 mg
+- **Route**: Oral
+- **Frequency**: Three times daily (TDS) after meals
+- **Duration**: 5 days
+- **Quantity**: 15 tablets
+
+**Tips**:
+- Specify "after meals" (PC)
+- Prescribe an NSAID for acute soft tissue injury
 

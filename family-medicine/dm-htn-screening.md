@@ -14,7 +14,7 @@
 **Examiner's Pearl**: Diagnosis requires 2 abnormal results on different days (unless symptomatic with random glucose ≥11.1).
 **Answer**: 診斷需要在不同日子有2次異常結果（除非有症狀且隨機血糖≥11.1）。
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: A 45-year-old man comes in for a general check-up. His father recently had a heart attack. He is overweight and smokes 10 cigarettes a day. He wants to know if he has diabetes or high blood pressure.
 
@@ -87,4 +87,102 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's do some physical checks like your blood pressure, and then we will discuss the blood tests and lifestyle changes."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: A 45-year-old man comes in for a general check-up. His father recently had a heart attack. He is overweight and smokes 10 cigarettes a day. He wants to know if he has diabetes or high blood pressure.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned you'd like a check-up because of your father's recent heart attack. Can you tell me more about what happened to him and how you're feeling about it?"
+
+ACTIVE LISTENING:
+Listen for his underlying anxieties about his own health and his motivation for screening.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS SYMPTOMS (DM/HTN):
+- "Have you been feeling unusually thirsty or needing to pass urine more often, especially at night?" (Diabetes)
+- "Have you noticed any blurred vision or unexplained weight loss?"
+- "Do you frequently get headaches, dizzy spells, or nosebleeds?" (Hypertension)
+
+ASSESS CARDIOVASCULAR RISK FACTORS:
+- "How old was your father when he had his heart attack?" (Premature CAD if <55 for men).
+- "You mentioned you smoke 10 cigarettes a day. How long have you been smoking?"
+- "How much physical activity do you get in a typical week?"
+- "Do you drink alcohol? If so, how much?"
+
+PHYSICAL EXAM:
+- Measure Blood Pressure (proper technique, seated, rested).
+- Measure Height, Weight, and calculate BMI. Measure waist circumference.
+- Brief cardiovascular exam (heart sounds, peripheral pulses).
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"Do you have any symptoms like feeling very thirsty, urinating frequently, or having headaches?"
+
+CONCERNS:
+"Are you worried that you might already have diabetes or high blood pressure?"
+
+EXPECTATIONS:
+"What tests were you hoping we would do today?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Your blood pressure today is [insert reading], which is [normal/slightly high]. Because of your family history, weight, and smoking, you are at a higher risk for developing heart disease, diabetes, and high blood pressure."
+
+EXPLANATION:
+"These conditions often don't have any symptoms in the early stages, which is why screening is so important. They can slowly damage your blood vessels over time, leading to heart attacks or strokes."
+
+CHECK UNDERSTANDING:
+"Does this make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"The good news is that by identifying these risks now, we can take steps to prevent them from causing serious problems."
+
+PLAN:
+"I will arrange for some fasting blood tests to check your blood sugar and cholesterol levels. We will review the results together."
+
+ADVICE:
+"The most impactful change you can make is to stop smoking. We can discuss ways to help you quit. Also, try to incorporate 30 minutes of brisk walking into your daily routine and eat a balanced diet."
+
+SAFETY NET:
+"If you experience any chest pain, shortness of breath, or severe headaches before our next appointment, please go to the A&E immediately."
+
+## Station 4 — Medical Record + Prescription Writing
+
+### Subjective (S)
+Mr Cheung Wai Ming (M/48), asymptomatic, attends for a routine health screening review. No polyuria, polydipsia, or unexplained weight loss. No chest pain, shortness of breath, or visual changes. No history of hypertension or diabetes. PMH: Nil. NKDA. Social: Smokes 10 cigarettes/day for 20 years. Occasional alcohol. Sedentary lifestyle. FH: Father has Hypertension and suffered a stroke at age 65.
+
+### Objective (O)
+Vitals: BP 138/88 mmHg (average of 2 readings), HR 76 bpm, BMI 27.5 kg/m² (Overweight/Obese for Asian).
+General: Comfortable, no distress.
+CVS: Normal heart sounds, no murmurs. Peripheral pulses intact.
+Investigations (Screening results): Fasting plasma glucose 6.5 mmol/L. Total Cholesterol 5.8 mmol/L, LDL 3.6 mmol/L, HDL 1.0 mmol/L, Triglycerides 2.2 mmol/L. Renal and liver function normal.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: 1. Impaired Fasting Glucose (Pre-diabetes). 2. Borderline Hypertension. 3. Dyslipidemia. 4. Overweight.
+Evidence: Fasting glucose between 6.1-6.9 mmol/L; BP 130-139/85-89 mmHg; elevated LDL/TG; BMI > 25.
+
+High cardiovascular risk profile (smoking, family history, metabolic syndrome features).
+
+### Plan (P)
+1. EDUCATION: Explained the results and the concept of pre-diabetes and metabolic syndrome. Discussed his high cardiovascular risk.
+2. LIFESTYLE: Advised strict lifestyle modifications: weight loss (target 5-10%), DASH diet (low salt, low fat), regular aerobic exercise (150 mins/week).
+3. SMOKING CESSATION: Strongly advised to quit smoking. Offered referral to smoking cessation clinic.
+4. INVESTIGATIONS: Ordered an Oral Glucose Tolerance Test (OGTT) to definitively rule out or diagnose Diabetes Mellitus.
+5. FOLLOW-UP: Review in 2 weeks for OGTT results and to re-check blood pressure. No medications started today; will decide based on OGTT and BP trend.
+
+### Prescription
+- **Drug**: Laboratory Orders (No medication prescribed yet)
+- **Preparation**: Diagnostic Test
+- **Dose**: N/A
+- **Route**: N/A
+- **Frequency**: Once
+- **Duration**: N/A
+- **Quantity**: N/A
+
+**Tips**:
+- Order Oral Glucose Tolerance Test (OGTT)
+- Specify fasting and 2-hour post-load glucose
 

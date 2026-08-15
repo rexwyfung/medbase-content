@@ -1,6 +1,8 @@
 # Stroke
 
-## Station 1: Station 1 — Management Interview
+## General
+
+## Station 1 — Management Interview
 
 **Scenario**: A 70-year-old man had an ischemic stroke 3 months ago, leaving him with mild right-sided weakness. He is here for a follow-up. He is feeling frustrated with his slow recovery and is not taking his blood pressure medication regularly.
 
@@ -75,4 +77,94 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about your blood pressure and your medications, and then we will discuss how your physiotherapy is going."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: A 70-year-old man had an ischemic stroke 3 months ago, leaving him with mild right-sided weakness. He is here for a follow-up. He is feeling frustrated with his slow recovery and is not taking his blood pressure medication regularly.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"It's been 3 months since your stroke. How have you been managing at home, and what brings you in today?"
+
+ACTIVE LISTENING:
+Listen for his frustrations regarding his physical limitations and his reasons for not taking his medication.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS STROKE RECOVERY:
+- "How is the strength in your right arm and leg compared to a month ago?"
+- "Are you able to walk around the house safely? Do you use a walking stick?"
+- "Are you having any trouble speaking, swallowing, or remembering things?"
+
+ASSESS MEDICATION ADHERENCE:
+- "I noticed your blood pressure is a bit high today. You mentioned you haven't been taking your pills regularly. Do they make you feel unwell, or is it just hard to remember?"
+
+SCREEN FOR DEPRESSION (Post-stroke):
+- "Have you been feeling down, depressed, or hopeless recently?"
+- "Have you lost interest in doing things you used to enjoy?"
+
+PHYSICAL EXAM:
+- Measure Blood Pressure.
+- Focused neurological exam: Assess power (0-5 scale) in right upper and lower limbs, check tone (spasticity), and observe gait.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"Why do you think it's hard to remember or want to take your blood pressure medication?"
+
+CONCERNS:
+"Are you worried that you might have another stroke?"
+
+EXPECTATIONS:
+"What were you hoping we could do today to help with your recovery?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"You are in the recovery phase of your stroke. Your blood pressure is currently too high because you haven't been taking your medication."
+
+EXPLANATION:
+"High blood pressure is the biggest risk factor for having another stroke. It puts too much pressure on the blood vessels in your brain. Taking your medication every day keeps that pressure down and protects your brain."
+
+CHECK UNDERSTANDING:
+"Does it make sense why we are so focused on your blood pressure?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"It is normal for recovery to feel slow. The brain takes a long time to heal and rewire itself. You are doing the right things by going to physiotherapy."
+
+PLAN:
+"We need to get your blood pressure back under control. Let's set up a pill box to help you remember your medication. I also want you to continue your exercises."
+
+ADVICE:
+"Please take your blood pressure pill every morning with your breakfast. Do not stop taking it even if you feel fine, because high blood pressure usually has no symptoms."
+
+SAFETY NET:
+"If you suddenly experience new weakness, numbness, difficulty speaking, or a severe headache, you must call 999 immediately, as these could be signs of another stroke."
+
+## Station 4 — Medical Record + Prescription
+
+### Subjective (S)
+Patient presents with symptoms of Stroke.
+
+### Objective (O)
+Vitals stable. Physical examination findings consistent with Stroke.
+
+### Assessment (A)
+Primary Diagnosis: Stroke
+
+### Plan (P)
+1. Start appropriate medication.
+2. Lifestyle advice.
+3. Follow-up in 4 weeks.
+
+### Prescription
+- **Drug**: Standard Medication for Stroke
+- **Preparation**: Tablets
+- **Dose**: Standard dose
+- **Route**: Oral
+- **Frequency**: Daily
+- **Duration**: 28 days
+- **Quantity**: 28 tablets
+
+**Tips**:
+- Write clearly
+- Specify route
 

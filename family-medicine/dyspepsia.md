@@ -20,7 +20,7 @@
 **Examiner's Pearl**: PPI choice: Omeprazole 20mg OD or 40mg OD (active ulcer); take 30 mins before meal for maximum effect
 **Answer**: PPI選擇：奧美拉唑20mg每日一次或40mg每日一次（活動性潰瘍）；飯前30分鐘服用效果最佳
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Mr Chan, 45M, office worker. Complains of upper abdominal pain and bloating for 3 months. Positive Urea Breath Test for H. pylori. He is anxious about stomach cancer because his uncle died of it.
 
@@ -97,4 +97,134 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about what this bacteria is, and then we will discuss the specific treatment to get rid of it."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents with burning pain in the upper abdomen, bloating, and feeling full quickly after eating for the past month.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned having stomach pain and bloating. Can you tell me more about what you have been experiencing?"
+
+ACTIVE LISTENING:
+Allow the patient to describe the pain and discomfort without interruption.
+
+### Define Problem + Systems Review (×2.5)
+SOCRATES FOR PAIN:
+- Site: "Where exactly is the pain? Can you point to it with one finger?" (Epigastric)
+- Character: "What does the pain feel like? Is it burning, aching, or sharp?"
+- Time/Relief: "Is it worse before or after meals? Does eating or drinking milk help?"
+
+SCREEN FOR ALARM SYMPTOMS (RED FLAGS - MUST ASK):
+- "Have you lost any weight without trying?"
+- "Do you have any difficulty or pain when swallowing food?"
+- "Have you noticed any black, tarry stools or vomited blood or coffee grounds?"
+- "Have you felt a lump in your stomach or noticed your skin turning yellow?"
+
+MEDICATION HISTORY:
+- "Are you taking any painkillers like Ibuprofen, Naproxen, or Aspirin?" (NSAIDs cause ulcers).
+
+PHYSICAL EXAM:
+- Palpate abdomen for epigastric tenderness, masses, or organomegaly.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think is causing this stomach pain?"
+
+CONCERNS:
+"Are you worried about anything serious, like a bleeding ulcer or cancer?"
+
+EXPECTATIONS:
+"What were you hoping we could do for your stomach today?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on your symptoms and the lack of danger signs, you have what we call Dyspepsia, which is indigestion or inflammation of the stomach lining."
+
+EXPLANATION:
+"This can be caused by excess stomach acid, a common stomach bacteria called H. pylori, or certain painkillers. The acid irritates the lining of your stomach, causing that burning pain and bloating."
+
+CHECK UNDERSTANDING:
+"Does that make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"This is very common and usually responds very well to medication."
+
+INVESTIGATE:
+"I would like to arrange a Urea Breath Test to check for the H. pylori bacteria."
+
+PLAN:
+"I will prescribe a medication called a PPI (like Omeprazole) to reduce your stomach acid for 4 weeks. You must stop taking it 2 weeks before the breath test."
+
+ADVICE:
+"Avoid spicy, fatty foods, caffeine, and alcohol. Eat smaller, regular meals rather than large heavy ones."
+
+SAFETY NET:
+"If you vomit blood, pass black stools, or have sudden severe pain, go to the Accident and Emergency department immediately."
+
+## Station 4 — Medical Record + Prescription
+
+### Subjective (S)
+Mr Ng Chi Man (M/45), office worker, presents with 3-month history of epigastric pain (burning/aching, worse after meals), bloating, belching. Ibuprofen 400mg TDS for chronic lower back pain (6 months). No haematemesis, melaena, dysphagia, weight loss, or palpable mass. No vomiting. PMH: Chronic LBP (no formal diagnosis). Medications: Ibuprofen 400mg TDS (×6 months). NKDA. Social: Non-smoker. Occasional beer. Office stress. FH: Uncle had gastric cancer (paternal uncle, age 72 — confirmed by patient).
+
+### Objective (O)
+Vitals: BP 122/78 mmHg, HR 76 bpm, Weight 73kg, BMI 23.8.
+Appearance: Well, no pallor, no jaundice.
+Abdomen: Soft. Mild epigastric tenderness (no guarding/rigidity). No hepatosplenomegaly. No palpable mass. Murphy's sign negative. Bowel sounds normal.
+PR: Deferred (no symptoms suggesting rectal pathology; no melaena reported).
+H. pylori Urea Breath Test (UBT): POSITIVE (done 2 weeks after stopping NSAIDs, off PPI).
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: H. pylori-associated peptic ulcer disease (likely duodenal given age, positive UBT, NSAID use, classic symptoms; no OGD performed as no alarm features)
+CONTRIBUTING FACTOR: NSAID (ibuprofen) use — direct mucosal injury + inhibit prostaglandin-mediated mucosal protection
+
+Note: Family history of gastric cancer (uncle) — will need more vigilance; if eradication fails or symptoms persist → OGD.
+
+COMORBIDITY: Chronic lower back pain — needs separate management plan (physiotherapy, paracetamol).
+
+### Plan (P)
+1. H. PYLORI ERADICATION (14-day triple therapy):
+   a) Omeprazole 20mg twice daily
+   b) Amoxicillin 1g twice daily  
+   c) Clarithromycin 500mg twice daily
+   All taken together twice daily with food for 14 days.
+
+2. STOP IBUPROFEN: Advise to stop ibuprofen immediately.
+
+3. ALTERNATIVE ANALGESIA FOR BACK PAIN:
+   a) Paracetamol 1g four times daily (regular schedule) for back pain
+   b) Topical diclofenac gel (topical NSAIDs have less GI risk)
+   c) Physiotherapy referral for LBP
+
+4. PPI MAINTENANCE: After eradication course — Omeprazole 20mg once daily for further 4 weeks (ulcer healing).
+
+5. CONFIRM ERADICATION: Arrange UBT 4 weeks after completing antibiotics. IMPORTANT: Stop PPI 2 weeks before UBT (otherwise false negative).
+
+6. LIFESTYLE: Avoid alcohol during treatment; avoid coffee/spicy food; regular small meals; avoid lying flat after meals; stress management.
+
+7. SAFETY NET: Attend A&E urgently if: haematemesis (vomiting blood), melaena (black tarry stools), sudden severe abdominal pain (perforation), dizziness/collapse (haemorrhage).
+
+8. FOLLOW-UP: 6 weeks (confirm symptom resolution + UBT result). If symptoms persist/recur after confirmed eradication → OGD urgently given family history.
+
+### Prescription
+- **Drug**: Triple Therapy Pack (H. pylori eradication)
+- **Preparation**: Multiple drugs — prescribe separately
+- **Dose**: See notes
+- **Route**: Oral
+- **Frequency**: Twice daily (with food)
+- **Duration**: 14 days
+- **Quantity**: See individual drugs
+
+**Notes**: Rx 1: Omeprazole 20mg capsules — 1 capsule twice daily × 14 days (28 capsules). Rx 2: Amoxicillin 500mg capsules — 2 capsules twice daily × 14 days (56 capsules). Rx 3: Clarithromycin 500mg tablets — 1 tablet twice daily × 14 days (28 tablets). Take all three together twice daily with food. Complete full course. Common SEs: diarrhoea, metallic taste, nausea. If penicillin allergic: substitute metronidazole 400mg twice daily for amoxicillin.
+
+**Tips**:
+- Write each drug as a SEPARATE prescription — do not combine on one prescription
+- "Amoxicillin" NOT "Amoxycillin" (UK vs US spelling — HK follows BNF)
+- "500mg" NOT "500 mg" or ".5g"
+- "Clarithromycin" generic NOT "Klacid" alone
+- Check for penicillin allergy before amoxicillin — potentially fatal if not checked
+- State "with food" for all triple therapy drugs
+- "Twice daily" NOT "BD"
+- Never abbreviate "micrograms" to "mcg" or "μg" in prescriptions
 

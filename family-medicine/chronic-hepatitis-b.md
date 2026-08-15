@@ -14,7 +14,7 @@
 **Examiner's Pearl**: Family screening and vaccination for non-immune contacts is essential.
 **Answer**: 家庭篩查和為無免疫力的接觸者接種疫苗至關重要。
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: A 35-year-old man recently found out he is a Hepatitis B carrier during a routine health check. He is asymptomatic but very anxious about liver cancer and transmitting it to his pregnant wife.
 
@@ -88,4 +88,102 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about what being a carrier means for your health, and then we will discuss how to protect your wife and baby."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: A 35-year-old man recently found out he is a Hepatitis B carrier during a routine health check. He is asymptomatic but very anxious about liver cancer and transmitting it to his pregnant wife.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned you recently found out you are a Hepatitis B carrier. Can you tell me how you're feeling about this news?"
+
+ACTIVE LISTENING:
+Listen for his anxieties regarding his own health and his family's health.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS SYMPTOMS:
+- "Have you noticed any yellowing of your eyes or skin?" (Jaundice)
+- "Have you been feeling unusually tired or experiencing abdominal pain?"
+- "Have you noticed any dark urine or pale stools?"
+
+RED FLAGS:
+- "Have you vomited blood or noticed black, tarry stools?" (Variceal bleeding)
+- "Have you noticed any swelling in your legs or abdomen?" (Ascites)
+
+RISK FACTORS:
+- "Do you have a family history of Hepatitis B or liver cancer?"
+- "Do you drink alcohol regularly?"
+
+PHYSICAL EXAM:
+- Check for signs of chronic liver disease: jaundice, spider naevi, palmar erythema, hepatosplenomegaly, ascites.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you know about being a Hepatitis B carrier?"
+
+CONCERNS:
+"You mentioned your pregnant wife. Are you worried about passing it to her or the baby?"
+
+EXPECTATIONS:
+"What were you hoping we could discuss today to help ease your mind?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"You are a chronic Hepatitis B carrier. This means the virus is living in your liver, but it doesn't necessarily mean your liver is damaged right now."
+
+EXPLANATION:
+"Hepatitis B is a virus that can cause liver inflammation. Many people carry it without any symptoms. We need to do some blood tests and an ultrasound to check the health of your liver and see how active the virus is."
+
+CHECK UNDERSTANDING:
+"Does this make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"Many carriers live long, healthy lives. We will monitor you closely to catch any problems early."
+
+PLAN:
+"I will arrange blood tests to check your liver function and viral load, and an ultrasound of your liver. We will review the results together."
+
+ADVICE:
+"Your wife should get a blood test to check her immunity. The baby will receive the Hepatitis B vaccine and immunoglobulin immediately after birth. Avoid alcohol, as it can further damage your liver."
+
+SAFETY NET:
+"If you develop jaundice, severe abdominal pain, or vomit blood, go to the A&E immediately."
+
+## Station 4 — Medical Record + Prescription Writing
+
+### Subjective (S)
+Mr Lee Chun Ho (M/35), asymptomatic, attends clinic to review results of a pre-employment health check. Found to be HBsAg positive. He is anxious and worried about liver cancer. No history of jaundice, dark urine, or abdominal pain. No family history of Hepatocellular Carcinoma (HCC) or cirrhosis. PMH: Nil. NKDA. Social: Non-smoker. Does not consume alcohol. Married, wife's HBV status unknown.
+
+### Objective (O)
+Vitals: BP 120/80 mmHg, HR 72 bpm, afebrile.
+General: Comfortable, no scleral icterus, no jaundice.
+Skin: No spider naevi, no palmar erythema (no stigmata of chronic liver disease).
+Abdomen: Soft, non-tender. Liver edge not palpable, no splenomegaly. No ascites.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Chronic Hepatitis B carrier (newly diagnosed).
+Evidence: HBsAg positive on screening, asymptomatic, normal physical examination.
+
+Needs further evaluation to determine the phase of chronic HBV infection (e.g., immune tolerant, immune active, inactive carrier) and to assess for liver damage.
+
+### Plan (P)
+1. REASSURANCE & EDUCATION: Explained the natural history of HBV. Reassured that many carriers live normal lives with regular monitoring. Emphasized that he does not have liver cancer now.
+2. INVESTIGATIONS: Ordered baseline blood tests: Complete Blood Count (CBC), Liver Function Test (LFT - ALT/AST), Renal Function Test (RFT), Alpha-fetoprotein (AFP), HBV DNA viral load, HBeAg, and anti-HBe. Ordered Ultrasound Abdomen to check for cirrhosis or HCC.
+3. FAMILY SCREENING: Advised his wife and immediate family members to get tested for HBsAg and anti-HBs, and to get vaccinated if negative.
+4. LIFESTYLE: Advised to continue avoiding alcohol to protect the liver.
+5. FOLLOW-UP: Review in 4 weeks with all investigation results to decide on the need for antiviral therapy (e.g., Entecavir/Tenofovir) or regular surveillance.
+
+### Prescription
+- **Drug**: Laboratory Orders (No medication prescribed yet)
+- **Preparation**: Blood tests & Imaging
+- **Dose**: N/A
+- **Route**: N/A
+- **Frequency**: Once
+- **Duration**: N/A
+- **Quantity**: N/A
+
+**Tips**:
+- Order LFT, AFP, HBV DNA, HBeAg/anti-HBe
+- Order USG Abdomen
 

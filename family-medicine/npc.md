@@ -8,7 +8,7 @@
 **Examiner's Pearl**: Presents with neck mass (lymphadenopathy), epistaxis, nasal obstruction, unilateral hearing loss/tinnitus.
 **Answer**: 表現為頸部腫塊（淋巴結腫大）、流鼻血、鼻塞、單側聽力下降/耳鳴。
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: A 45-year-old man presents with a painless lump on the right side of his neck for 1 month. He also reports occasional blood-stained sputum and a blocked feeling in his right ear. He is a smoker.
 
@@ -81,4 +81,107 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, I am going to explain what I think might be causing these symptoms, and then we will talk about the urgent tests we need to arrange."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: A 45-year-old man presents with a painless lump on the right side of his neck for 1 month. He also reports occasional blood-stained sputum and a blocked feeling in his right ear. He is a smoker.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"I see you've come in today about a lump on your neck. Can you tell me more about when you first noticed it and any other symptoms you've been having?"
+
+ACTIVE LISTENING:
+Listen for the triad of symptoms: neck mass, ear symptoms (unilateral), and nasal symptoms (epistaxis/blood-stained sputum).
+
+### Define Problem + Systems Review (×2.5)
+ASSESS THE LUMP:
+- "Has the lump changed in size since you noticed it?"
+- "Is it painful or tender to touch?"
+- "Have you noticed any other lumps anywhere else?"
+
+ASSESS ASSOCIATED SYMPTOMS (NPC Red Flags):
+- Ear: "You mentioned a blocked ear. Is it just on one side? Do you have any ringing in the ear (tinnitus) or hearing loss?"
+- Nose: "How often do you have blood in your spit? Do you have nosebleeds or a blocked nose?"
+- Neuro: "Have you had any double vision, facial numbness, or difficulty swallowing?" (Cranial nerve involvement).
+- Systemic: "Have you had any unexplained weight loss, fever, or night sweats?"
+
+REVIEW RISK FACTORS:
+- "How much do you smoke, and for how long?"
+- "Does anyone in your family have a history of nose or throat cancer?"
+
+PHYSICAL EXAM:
+- Palpate the neck mass (assess size, consistency, mobility, tenderness). Check for other lymphadenopathy.
+- Examine the ears (otoscopy) to look for middle ear effusion (fluid behind the eardrum).
+- Examine the oral cavity and oropharynx.
+- Brief cranial nerve exam (especially III, IV, V, VI).
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"What do you think might be causing the lump and the ear blockage?"
+
+CONCERNS:
+"Are you worried that this might be cancer?"
+
+EXPECTATIONS:
+"What were you hoping we would do today to investigate this?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"The combination of a painless neck lump, a blocked ear on the same side, and blood-stained sputum is very concerning. We need to urgently rule out a tumor at the back of your nose, known as Nasopharyngeal Carcinoma."
+
+EXPLANATION:
+"There is a small tube that connects the back of the nose to the ear. If a tumor blocks this tube, fluid builds up in the ear, causing the blocked feeling. The lump in your neck is likely an enlarged lymph node reacting to the tumor."
+
+CHECK UNDERSTANDING:
+"I know this is frightening news. Do you understand why we need to act quickly?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"We are going to get you to the right specialists immediately to find out exactly what this is and start any necessary treatment."
+
+PLAN:
+"I am making an urgent referral to the Ear, Nose, and Throat (ENT) specialist. They will use a small camera to look at the back of your nose and may take a small sample (biopsy)."
+
+ADVICE:
+"It is absolutely critical that you stop smoking immediately, as it worsens these conditions. Please ensure you attend the urgent ENT appointment."
+
+SAFETY NET:
+"If you experience severe bleeding from your nose or mouth, or if you have any difficulty breathing or swallowing, you must go to the A&E immediately."
+
+## Station 4 — Medical Record + Prescription Writing
+
+### Subjective (S)
+Mr Lam Chi Keung (M/50), construction worker, presents with a 2-month history of a painless lump on the left side of his neck. He also reports left-sided hearing loss, a blocked feeling in the left ear, and occasional blood-tinged sputum in the mornings. No fever, no weight loss, no night sweats. PMH: Nil. NKDA. Social: Smokes 20 cigarettes/day for 30 years. Occasional alcohol. FH: Brother had Nasopharyngeal Carcinoma (NPC).
+
+### Objective (O)
+Vitals: BP 130/80 mmHg, HR 76 bpm, afebrile.
+Neck: A 3x3 cm hard, non-tender, relatively fixed lymph node palpable in the left upper deep cervical chain (Level II). No overlying skin changes.
+ENT: Left tympanic membrane appears dull with reduced mobility (suggestive of middle ear effusion). Nasal cavity clear anteriorly. Oropharynx clear.
+Cranial Nerves: Intact. No facial numbness or diplopia.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Suspected Nasopharyngeal Carcinoma (NPC) with left cervical lymph node metastasis and left middle ear effusion.
+Evidence: Classic triad of neck mass, unilateral ear symptoms (effusion due to Eustachian tube blockage), and blood-tinged sputum. High-risk demographic (Southern Chinese male, family history).
+
+NOT: Reactive lymphadenopathy (node is hard, fixed, and painless; duration > 1 month).
+
+### Plan (P)
+1. URGENT REFERRAL: Urgent referral to Ear, Nose, and Throat (ENT) specialist for nasoendoscopy and biopsy of the nasopharynx.
+2. INVESTIGATIONS: Ordered EBV serology (EBV DNA / VCA IgA) as a tumor marker. Fine Needle Aspiration (FNA) of the neck node may be considered by ENT.
+3. COUNSELING: Explained the suspicion of a tumor in the post-nasal space. Advised the patient on the importance of attending the urgent ENT appointment.
+4. SMOKING CESSATION: Strongly advised to stop smoking immediately.
+5. FOLLOW-UP: Ensure patient has received the ENT appointment date before leaving the clinic.
+
+### Prescription
+- **Drug**: Urgent ENT Referral
+- **Preparation**: Referral Letter
+- **Dose**: N/A
+- **Route**: N/A
+- **Frequency**: Once
+- **Duration**: N/A
+- **Quantity**: 1 letter
+
+**Tips**:
+- Write a comprehensive referral letter detailing red flags
+- Mark as URGENT
 

@@ -14,7 +14,7 @@
 **Examiner's Pearl**: Complications: Mastoiditis, hearing loss, tympanic membrane perforation.
 **Answer**: 併發症：乳突炎、聽力受損、鼓膜穿孔。
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: A 4-year-old boy presents with ear pain, fever, and irritability for 2 days following a cold. Mother is concerned about hearing loss and demands antibiotics.
 
@@ -86,4 +86,101 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about how to manage his pain tonight, and then we will discuss the plan for antibiotics."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: A mother brings her 4-year-old son who has been pulling at his right ear and crying, especially at night, after a runny nose for 3 days.
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"You mentioned he's been pulling at his ear. Can you tell me more about how he's been acting?"
+
+ACTIVE LISTENING:
+Listen for signs of pain, fever, and preceding upper respiratory symptoms.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS SYMPTOMS:
+- "Does he have a fever? How high?"
+- "Is there any discharge or fluid coming out of the ear?"
+- "Is he eating and drinking normally?"
+
+RED FLAGS:
+- "Has he been unusually drowsy or difficult to wake up?"
+- "Is there any swelling or redness behind the ear?" (Mastoiditis)
+- "Has he been vomiting or complaining of a stiff neck?"
+
+PHYSICAL EXAM:
+- Otoscopy: Check for bulging, erythematous tympanic membrane with loss of light reflex.
+- Check mastoid process for tenderness.
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"Why do you think his ear is hurting after the cold?"
+
+CONCERNS:
+"What worries you the most about his ear pain?"
+
+EXPECTATIONS:
+"What were you hoping we could do for him today?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Based on his symptoms and looking inside his ear, he has Acute Otitis Media, which is a middle ear infection."
+
+EXPLANATION:
+"The tube connecting the back of the nose to the ear gets blocked during a cold. Fluid builds up behind the eardrum, causing pressure and pain. It's like a blocked pipe."
+
+CHECK UNDERSTANDING:
+"Does that explanation make sense?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"This is very common and usually gets better on its own within a few days."
+
+PLAN:
+"We will use regular painkillers like Paracetamol and Ibuprofen to keep him comfortable. I will also give you a 'delayed prescription' for antibiotics to use ONLY if he doesn't improve in 48 hours."
+
+ADVICE:
+"Keep him hydrated. Prop his head up slightly when sleeping to reduce ear pressure."
+
+SAFETY NET:
+"If he becomes very lethargic, stops drinking, or if you see swelling behind the ear, bring him back immediately."
+
+## Station 4 — Medical Record + Prescription Writing
+
+### Subjective (S)
+Master Chan Ka Lok (M/4), brought by mother. Right ear pain for 2 days, crying and pulling at ear. Fever up to 38.5°C. Preceding runny nose and mild cough for 4 days. Reduced appetite but drinking fluids well. No vomiting. Mother worried about his hearing. PMH: Fully immunized. No previous ear infections. NKDA. Social: Attends kindergarten. Lives with parents, non-smokers.
+
+### Objective (O)
+Vitals: Temp 38.2°C, HR 110 bpm, RR 24/min.
+Ears: Right tympanic membrane (TM) is bulging, intensely erythematous, with loss of the normal light reflex and landmarks. Left TM is normal, pearly grey.
+Throat: Mildly erythematous, no tonsillar exudate.
+Neck: Small, mobile, non-tender cervical lymph nodes.
+Chest: Clear bilaterally, no wheeze or crackles.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Acute Otitis Media (AOM), Right ear.
+Evidence: Acute onset of ear pain, fever, bulging and erythematous TM, preceded by URTI symptoms.
+
+NOT: Otitis Externa (no pain on pulling pinna, ear canal normal).
+
+### Plan (P)
+1. SYMPTOMATIC RELIEF: Paracetamol syrup 250mg/5mL, 6mL (assuming 16kg weight, ~15mg/kg) Q6H PRN for pain and fever.
+2. MANAGEMENT STRATEGY: Watchful waiting for 48 hours, as child is >2 years old, unilateral AOM, and not severely ill.
+3. DELAYED PRESCRIPTION: Amoxicillin syrup provided. Advised mother to fill and start ONLY if symptoms do not improve after 48 hours or if they worsen.
+4. REASSURANCE: Reassured mother that transient hearing reduction is common during infection but usually resolves fully.
+5. SAFETY NET: Return immediately if swelling behind the ear (mastoiditis), lethargy, or persistent high fever.
+
+### Prescription
+- **Drug**: Paracetamol
+- **Preparation**: Syrup (250mg/5mL)
+- **Dose**: 6 mL
+- **Route**: Oral
+- **Frequency**: Every 6 hours when required (PRN) for pain or fever
+- **Duration**: 5 days
+- **Quantity**: 100 mL
+
+**Tips**:
+- Calculate dose based on weight (e.g., 15mg/kg)
+- Specify PRN for pain/fever
 

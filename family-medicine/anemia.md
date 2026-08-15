@@ -8,7 +8,7 @@
 **Examiner's Pearl**: Investigate cause based on MCV (microcytic, normocytic, macrocytic).
 **Answer**: 根據平均紅血球體積（MCV）調查原因（小細胞性、正細胞性、大細胞性）。
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: A 35-year-old woman complains of feeling tired all the time, dizzy when standing up, and having heavy menstrual periods. Her recent blood test shows Iron Deficiency Anemia (Hb 9.5 g/dL).
 
@@ -81,4 +81,104 @@ PATIENT-CENTRED:
 
 SIGNPOSTING:
 "First, let's talk about how to treat the anemia with medication and diet, and then we will discuss what we can do about your heavy periods."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: A 35-year-old woman complains of feeling tired all the time, dizzy when standing up, and having heavy menstrual periods. Her recent blood test shows Iron Deficiency Anemia (Hb 9.5 g/dL).
+
+### Find Reason (×0.5)
+OPEN QUESTION:
+"We have your blood test results back, but first, can you tell me more about the tiredness and dizziness you've been experiencing?"
+
+ACTIVE LISTENING:
+Listen for the severity of the fatigue, the nature of the dizziness (postural), and the menstrual history.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS SYMPTOMS (Anemia):
+- "Do you ever feel short of breath, especially when walking up stairs?"
+- "Have you noticed your heart racing or pounding?" (Palpitations)
+
+ASSESS MENSTRUAL HISTORY (Menorrhagia):
+- "How many days does your period usually last?"
+- "How often do you need to change your pads or tampons on the heaviest days? Do you pass large blood clots?"
+- "Have you noticed any bleeding between your periods or after sex?"
+
+RED FLAGS (GI Bleeding / Malignancy):
+- "Have you noticed any blood in your stool, or has your stool been black and tarry?"
+- "Have you had any unexplained weight loss or severe abdominal pain?"
+
+PHYSICAL EXAM:
+- Check conjunctivae and palmar creases for pallor.
+- Check pulse (tachycardia) and blood pressure (postural drop).
+- Abdominal exam to check for masses (e.g., enlarged fibroid uterus).
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS:
+"Did you suspect that your heavy periods might be related to your tiredness?"
+
+CONCERNS:
+"Are you worried about the blood test results or what might be causing the anemia?"
+
+EXPECTATIONS:
+"What were you hoping we could do today to help you get your energy back?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS:
+"Your blood test shows your hemoglobin is 9.5, which means you have iron deficiency anemia. This is almost certainly caused by the heavy bleeding during your periods."
+
+EXPLANATION:
+"Hemoglobin is the protein in your red blood cells that carries oxygen around your body. It needs iron to be made. Because you are losing a lot of blood, your iron stores are depleted, leading to less oxygen reaching your muscles and brain, causing the fatigue and dizziness."
+
+CHECK UNDERSTANDING:
+"Does this make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE:
+"This is a very common problem and we can easily treat it to get your energy levels back up."
+
+PLAN:
+"I will prescribe iron tablets to replenish your stores. We also need to arrange an ultrasound scan of your pelvis to see why your periods are so heavy."
+
+ADVICE:
+"Take the iron tablets with orange juice to help absorption, and avoid tea or coffee with meals. Be aware that the tablets might make your stool turn black, which is normal."
+
+SAFETY NET:
+"If you experience severe dizziness, fainting, or chest pain, or if you notice blood in your stool, please seek medical attention immediately."
+
+## Station 4 — Medical Record + Prescription Writing
+
+### Subjective (S)
+Ms Wong Pui Sze (F/32), presents with a 3-month history of progressive fatigue, lethargy, and occasional dizziness on standing. She reports heavy menstrual bleeding (menorrhagia) for the past year, using 6-8 fully soaked pads per day during her period which lasts 7 days. No dark stools, no PR bleeding. Diet is normal, eats meat. PMH: Nil. NKDA.
+
+### Objective (O)
+Vitals: BP 110/70 mmHg, HR 90 bpm, afebrile.
+General: Pale conjunctivae and palmar creases. No jaundice.
+CVS: Tachycardia, soft ejection systolic murmur at the left sternal edge (flow murmur).
+Abdomen: Soft, non-tender. No hepatosplenomegaly.
+Investigations (from previous visit): Hb 8.5 g/dL (Low), MCV 72 fL (Low), MCH 24 pg (Low). Ferritin 8 ng/mL (Low).
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Iron Deficiency Anemia (IDA) secondary to menorrhagia.
+Evidence: Microcytic hypochromic anemia with low ferritin, clear history of heavy menstrual loss.
+
+NOT: Thalassemia trait (ferritin would be normal/high), GI bleeding (no symptoms, young age, obvious menstrual cause).
+
+### Plan (P)
+1. MEDICATION: Prescribed oral Ferrous Sulphate 200mg BD for 3 months. Counseled on side effects (black stools, constipation, nausea) and to take with vitamin C (e.g., orange juice) to enhance absorption, avoiding tea/coffee/milk at the same time.
+2. REFERRAL: Referred to Gynecology clinic for evaluation and management of menorrhagia (e.g., ultrasound pelvis to rule out fibroids).
+3. DIET: Advised iron-rich diet (red meat, dark green leafy vegetables).
+4. FOLLOW-UP: Review in 4 weeks with a repeat Complete Blood Count (CBC) to check for Hb response (expect ~1-2 g/dL rise in 4 weeks).
+
+### Prescription
+- **Drug**: Ferrous Sulphate
+- **Preparation**: Tablet
+- **Dose**: 200 mg
+- **Route**: Oral
+- **Frequency**: Twice daily (BD)
+- **Duration**: 4 weeks (initial supply)
+- **Quantity**: 56 tablets
+
+**Tips**:
+- Specify iron preparation and dose
+- Include counseling on absorption (vitamin C, avoid tea/milk)
 

@@ -20,7 +20,7 @@
 **Examiner's Pearl**: Genogram: map 3 generations; identify family mental health history, support, stressors
 **Answer**: 家譜圖：繪製三代；識別家族精神健康史、支援及壓力源
 
-## Station 1: Station 1 — Management Interview
+## Station 1 — Management Interview
 
 **Scenario**: Ms Lee, 45F, presents with 1 month of severe low mood, early morning awakening, and 5kg weight loss. She is going through a messy divorce and fears losing custody of her children. She is reluctant to take medication because she fears addiction.
 
@@ -111,4 +111,143 @@ PATIENT-CENTRED:
 
 SIGNPOSTING: 
 "First, I need to ask you a few difficult but standard questions about your safety, and then we will talk about the specific treatments we can offer to help you feel better."
+
+## Station 3 — FM Primary Care Consultation
+
+**Scenario**: Patient presents with extreme fatigue, inability to concentrate at work, and crying spells for the past 6 weeks. She has stopped seeing her friends.
+
+### Find Reason (×0.5)
+OPEN QUESTION: 
+"You mentioned you have been feeling extremely tired and tearful lately. Can you tell me more about how you have been feeling in your own words?"
+
+ACTIVE LISTENING: 
+Allow the patient to vent without interrupting. Note their body language, eye contact, psychomotor retardation, and tone of voice.
+
+### Define Problem + Systems Review (×2.5)
+ASSESS CORE SYMPTOMS (SIGECAPS FRAMEWORK):
+- Sleep: "Are you having trouble falling asleep, or are you waking up very early in the morning and unable to go back to sleep?"
+- Interest: "Have you lost interest in hobbies you used to enjoy? Have you stopped seeing your friends?"
+- Guilt: "Do you find yourself feeling excessively guilty or blaming yourself for things out of your control?"
+- Energy: "How is your energy level? Do you feel physically drained even after resting?"
+- Concentration: "Have you had trouble focusing on tasks at work, like reading emails or following a meeting?"
+- Appetite: "Has your appetite changed? Have you lost or gained a significant amount of weight recently?"
+- Psychomotor: "Do you feel restless and agitated, or do you feel like your movements and thoughts are severely slowed down?"
+- Suicide (CRITICAL): "Have things ever gotten so bad that you felt life wasn't worth living? Have you had any thoughts of ending your life? Do you have a plan?"
+
+SCREEN FOR BIPOLAR (MANIA): 
+"Have you ever had periods where you felt extremely energetic, needed very little sleep, and had racing thoughts for several days in a row?"
+
+SCREEN FOR ORGANIC CAUSES: 
+"Do you feel cold all the time? Is your hair falling out? Are your periods unusually heavy?" (Screening for Hypothyroidism and Anemia).
+
+### ICE (Ideas, Concerns, Expectations) (×0.5)
+IDEAS: 
+"What do you think is the root cause of this exhaustion and crying? Do you think it is stress, or something physical?"
+
+CONCERNS: 
+"Are you worried that you are going crazy, or that this feeling will never get better?"
+
+EXPECTATIONS: 
+"What kind of support were you hoping to get from me today? Are you open to discussing medication or therapy?"
+
+### Diagnosis & Explanation (×0.5)
+DIAGNOSIS: 
+"Based on what you have told me, the severe fatigue, crying spells, and loss of interest indicate that you are experiencing a Major Depressive Episode."
+
+EXPLANATION: 
+"This is a recognized medical condition where severe stress has overwhelmed your brain's ability to regulate mood chemicals. It is not a sign of weakness, and it is not something you can just 'snap out of'. It requires medical treatment just like asthma or diabetes."
+
+CHECK UNDERSTANDING: 
+"How do you feel about hearing this diagnosis? Does it make sense to you?"
+
+### Management + RICE (×1.0)
+REASSURE: 
+"The good news is that depression is highly treatable. Most people recover fully and regain their energy with the right combination of talking therapy and medication."
+
+INVESTIGATE: 
+"I would like to run some basic blood tests today to ensure your thyroid and blood count are normal, as problems there can mimic depression."
+
+PLAN: 
+"We can start a medication called an SSRI today to help rebuild those mood chemicals. I also want to connect you with a clinical psychologist for counseling."
+
+ADVICE: 
+"Please do not make any major life decisions, like quitting your job or moving house, while you are feeling this way. Focus on taking it one day at a time and being kind to yourself."
+
+SAFETY NET: 
+"If you have any thoughts of suicide or self-harm, you must promise me you will go to the emergency room or call the crisis hotline immediately. You can always reach out for help."
+
+## Station 4 — Medical Record + Prescription Writing
+
+### Subjective (S)
+Mrs Chan Siu Mei (F/42) presents with a 2-month history of low mood, tearfulness, anhedonia (unable to enjoy mahjong with friends), early morning waking at 4am, fatigue, and poor concentration. Precipitated by son's recent diagnosis of learning difficulties. 
+PMH: Post-natal depression 10 years ago (resolved with SSRI).
+Medications: Nil regular. NKDA.
+Social: Married, housewife, 1 child (son, age 10 with learning difficulties). Parents increasingly unwell. Non-smoker. Occasional social alcohol. Christian.
+FH: Mother with depression ("nerves"). No FH of suicide.
+PHQ-9 Score: 16/27 (moderately severe depression). No active suicidal ideation.
+
+### Objective (O)
+Vitals: BP 118/76 mmHg, HR 78 bpm, RR 16/min, SpO2 98% RA, Temp 36.5°C, BMI 21.5 kg/m²
+Appearance: Slightly dishevelled, tearful during consultation, maintains minimal eye contact
+Mental State Exam: Alert and oriented. Speech: normal rate and tone. Mood: "low". Affect: depressed, congruent. Thought: no suicidal ideation, no thought disorder, no psychotic features. Cognition: intact. Insight: present — acknowledges needing help.
+Physical: Cardiovascular, respiratory, abdominal examinations unremarkable. No signs of thyroid disease.
+Investigations: TFT (TSH 2.1 mIU/L, fT4 14.2 pmol/L — normal), FBC (Hb 12.8 g/dL — borderline low; MCV 85 fL — normocytic), B12 and folate normal, fasting glucose 4.8 mmol/L.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Major Depressive Disorder, Moderate (ICD-10: F32.1 / DSM-5)
+Supporting: PHQ-9 16/27; core symptoms ≥2 weeks; functional impairment; biological features (early morning waking); second episode (previous PND)
+
+DIFFERENTIAL DIAGNOSES:
+1. Adjustment Disorder with depressed mood — less likely given severity and full MDD criteria met
+2. Hypothyroidism — excluded: TFT normal
+3. Anaemia contributing to fatigue — borderline Hb 12.8; likely nutritional; contributing factor not primary cause
+
+COMORBIDITIES/COMPLICATIONS:
+• Carer burden and psychosocial stressors (son's SEN, parent care)
+• Social isolation
+• Borderline anaemia — monitor; consider iron studies if persists
+
+### Plan (P)
+1. INVESTIGATION: Iron studies (serum ferritin, iron, TIBC) — to evaluate borderline anaemia; repeat FBC in 3 months.
+
+2. MEDICATION: Sertraline 50mg orally once daily (morning, with food). To increase to 100mg after 2 weeks if tolerated. Duration: minimum 24 months (2nd episode).
+
+3. NON-PHARMACOLOGICAL: 
+   a) Psychoeducation: provide written information sheet (DOH depression leaflet)
+   b) Sleep hygiene: fixed 7am wake time, no screens 1h before bed
+   c) Behavioural activation: restart one pleasurable activity weekly
+   d) 4-7-8 breathing technique — demonstrated in clinic
+   e) Thought diary — provide template
+
+4. REFERRAL: 
+   a) Clinical Psychologist for CBT (HA GOPC list)
+   b) Medical Social Worker — carer support, son's SEN resources
+   c) Psychiatry if no response to 2 antidepressant trials or suicidality develops
+
+5. SICK LEAVE: MC for 1 week to reduce stressors; review occupational function at follow-up.
+
+6. SAFETY NET: Safety plan given — Samaritan Befrienders HK 2389-2222 (24h). Patient to attend A&E if active suicidal ideation develops. Husband briefed with patient's consent.
+
+7. FOLLOW-UP: Review in 2 weeks (medication side effects + adherence). Monthly thereafter.
+
+### Prescription
+- **Drug**: Sertraline hydrochloride
+- **Preparation**: Tablets
+- **Dose**: 50mg
+- **Route**: Oral
+- **Frequency**: Once daily (morning)
+- **Duration**: 4 weeks (review)
+- **Quantity**: 28 tablets
+
+**Notes**: Take with food. Do not stop suddenly. Allow 2-4 weeks for effect. Review in 2 weeks.
+
+**Tips**:
+- Write "50mg" NOT "50.0mg" or "50 mg"
+- Write "Once daily" NOT "QD" or "qd" or "OD"
+- Use generic name "Sertraline" NOT brand name "Zoloft" alone
+- Specify route: "Oral" or "by mouth" NOT just "tab"
+- Always write quantity: "28 tablets"
+- Sign with FULL NAME printed + GMC/HK registration number + date
+- Write patient full name, DOB, ID number on prescription
+- A fatally wrong dose = 0 marks for entire prescription section
 
