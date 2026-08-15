@@ -151,3 +151,38 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription Writing
 
+### Subjective (S)
+Ms Cheung Mei Ling (F/25), teacher, presents with 1-day history of vomiting (×3) and watery diarrhoea (×5) starting 12 hours after eating raw oysters at a buffet. Reports mild diffuse abdominal cramps and dizziness on standing. No blood or mucus in stool. No fever. Able to keep small sips of water down. PMH: Nil. NKDA. Social: Non-smoker. Lives alone.
+
+### Objective (O)
+Vitals: Temp 36.9°C, HR 100 bpm, BP 110/70 mmHg (supine) dropping to 95/60 mmHg (standing) - mild postural hypotension.
+General: Appears tired, mucous membranes slightly dry. Capillary refill time < 2 seconds.
+Abdomen: Soft, non-distended. Mild generalized tenderness, no guarding or rebound tenderness. Hyperactive bowel sounds.
+PR: Deferred (no red flags).
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Acute Gastroenteritis with mild dehydration.
+Evidence: Acute onset vomiting and diarrhoea after suspicious food intake, hyperactive bowel sounds, signs of mild dehydration (tachycardia, postural BP drop, dry mucosa).
+
+NOT: Inflammatory bowel disease (acute onset, clear trigger), Appendicitis (no localized RIF pain, no guarding).
+
+### Plan (P)
+1. FLUID REPLACEMENT: Oral Rehydration Salts (ORS). Advised to dissolve 1 sachet in 250mL water and drink slowly after each loose stool.
+2. SYMPTOMATIC RELIEF: Metoclopramide 10mg TDS PRN for nausea/vomiting. Hyoscine butylbromide (Buscopan) 10mg TDS PRN for abdominal cramps.
+3. DIET: Advised to stick to bland, easily digestible foods (BRAT diet - bananas, rice, applesauce, toast) when appetite returns. Avoid dairy and greasy foods temporarily.
+4. SICK LEAVE: Granted 2 days sick leave for rest and recovery.
+5. SAFETY NET: Return to A&E immediately if unable to tolerate any fluids, severe abdominal pain, high fever, or blood in stool.
+
+### Prescription
+- **Drug**: Oral Rehydration Salts (ORS)
+- **Preparation**: Sachet
+- **Dose**: 1 sachet dissolved in 250mL water
+- **Route**: Oral
+- **Frequency**: After each loose stool
+- **Duration**: 3 days
+- **Quantity**: 10 sachets
+
+**Tips**:
+- Specify dilution instructions clearly
+- Advise taking after each loose stool
+

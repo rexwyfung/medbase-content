@@ -169,3 +169,76 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription Writing
 
+### Subjective (S)
+Mr Cheung Kwok Wai (M/58), retired, presents with 2-month history of polyuria, polydipsia (drinking >4L/day), nocturia (×3/night), fatigue, and unintentional weight loss of 4kg. Blurred vision (intermittent). No genital candidiasis. No tingling of feet.
+PMH: Nil significant. No known DM, HTN. Random glucose 3 years ago was normal.
+Medications: Nil. NKDA.
+Social: Retired civil servant. Married. Sedentary. BMI 28.4 (overweight). Diet: rice 3 times daily, sweet drinks (1-2 cans soda/day), no exercise. Non-smoker. Occasional alcohol.
+FH: Father had T2DM. Mother had hypertension. Maternal grandmother died of "kidney failure".
+
+### Objective (O)
+Vitals: BP 138/86 mmHg, HR 82 bpm, Weight 82kg, Height 170cm, BMI 28.4 kg/m². 
+Appearance: Alert, well-nourished but overweight. Acanthosis nigricans (neck).
+Cardiovascular/Respiratory: Normal.
+Neurological: Decreased vibration sense bilaterally (toes). Monofilament test: absent at 2/10 sites bilaterally.
+Feet: No ulcers, callus present under 1st MTP joints bilaterally.
+Fundoscopy: Background diabetic retinopathy — microaneurysms and dot haemorrhages bilaterally.
+Investigations (today): Random glucose 18.6 mmol/L. Urine dipstick: glucose 3+, protein 1+, no ketones. HbA1c 78 mmol/mol (9.3%). eGFR 72 mL/min/1.73m². K+ 4.2 mmol/L. Total cholesterol 6.2 mmol/L, LDL 4.1 mmol/L. Urine ACR: 8 mg/mmol (microalbuminuria).
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus (HbA1c 78 mmol/mol; random glucose 18.6 with symptoms = diagnostic without need for repeat)
+
+COMPLICATIONS ALREADY PRESENT (IMPORTANT — distinguish from new diagnosis):
+• Diabetic retinopathy (background — bilateral microaneurysms + dot haemorrhages) → ophthalmology URGENT referral
+• Peripheral neuropathy (reduced vibration sense, monofilament deficit) → podiatry referral
+• Diabetic nephropathy stage A2 (microalbuminuria ACR 8 mg/mmol; eGFR 72 preserved but start ACEi/ARB)
+
+COMORBIDITIES:
+• Hypertension (BP 138/86 — target <130/80 in DM)
+• Dyslipidaemia (LDL 4.1 — statin indicated)
+• Overweight (BMI 28.4)
+
+### Plan (P)
+1. INVESTIGATIONS: Fasting lipid profile (LDL, HDL, TG); 24h urine protein; kidney USS; ECG. Repeat HbA1c in 3 months.
+
+2. GLYCAEMIC CONTROL:
+   a) Metformin 500mg twice daily with meals → titrate to 1g twice daily over 4 weeks.
+   b) Given HbA1c 78 + complications: consider early dual therapy — add SGLT2i (Empagliflozin 10mg OD) — cardiorenal protective benefit, eGFR 72 (safe; stop if eGFR <30).
+   c) MNT: dietitian referral; reduce simple carbohydrates, portion control, replace sweet drinks with water.
+
+3. CARDIOVASCULAR RISK:
+   a) ACEi: Perindopril 4mg OD (for microalbuminuria + HTN in DM) — check K+ and creatinine at 2 weeks.
+   b) Statin: Atorvastatin 20mg nocte (dyslipidaemia + DM = high CVD risk regardless of absolute risk score).
+   c) BP target: <130/80 mmHg.
+
+4. COMPLICATIONS MANAGEMENT:
+   a) Ophthalmology: URGENT referral (background retinopathy — needs formal slit lamp + fundus photography every 6-12 months).
+   b) Podiatry: referral for neuropathy assessment + foot care education + custom insoles.
+   c) Urine ACR: repeat in 3 months; if confirmed microalbuminuria, start ACEi.
+
+5. LIFESTYLE: 150 min/week moderate exercise; target 5% weight reduction.
+6. EDUCATION: Diabetes nurse educator referral; sick day rules; hypoglycaemia recognition.
+7. SAFETY NET: Ketoacidosis warning signs (vomiting, abdominal pain, rapid breathing) → A&E immediately. Blood glucose monitoring at home.
+8. FOLLOW-UP: 2 weeks (K+ + creatinine after starting perindopril); 3 months (HbA1c + full annual review).
+
+### Prescription
+- **Drug**: Metformin hydrochloride
+- **Preparation**: Tablets
+- **Dose**: 500mg
+- **Route**: Oral
+- **Frequency**: Twice daily (with meals)
+- **Duration**: 28 days (review)
+- **Quantity**: 56 tablets
+
+**Notes**: Take with breakfast and dinner. May cause nausea initially — improves with food. Do not use if eGFR <30 mL/min. Sick day rules: stop if vomiting/dehydrated.
+
+**Tips**:
+- "500mg" NOT "500 mg" (no space before unit in HK convention)
+- "Metformin hydrochloride" (full generic name) NOT "Glucophage"
+- "Twice daily" NOT "BD" or "BID"
+- "Oral" route must be stated
+- "56 tablets" (2/day × 28 days)
+- State "with meals" to reduce GI side effects
+- Do NOT write "mcg" or "μg" — write "micrograms" in full
+- Fatal error example: Metformin 5000mg (10× overdose) = 0 marks for prescription
+

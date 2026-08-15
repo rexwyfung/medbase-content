@@ -149,3 +149,37 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription Writing
 
+### Subjective (S)
+Mr Wong Wai Kin (M/45), office worker, presents with a 2-week history of painless bright red bleeding per rectum (PR) during defecation. Blood is seen on the toilet paper and dripping into the bowl. Reports a reducible lump protruding from the anus after bowel movements. Mild anal itchiness. No abdominal pain, no change in bowel habits, no weight loss. PMH: Chronic constipation. NKDA. Social: Non-smoker.
+
+### Objective (O)
+Vitals: BP 125/80 mmHg, HR 76 bpm, afebrile.
+Abdomen: Soft, non-tender, no palpable masses.
+Perianal Inspection: No skin tags, no fissures, no external haemorrhoids visible at rest.
+Digital Rectal Examination (DRE): Normal anal tone. Soft bulges felt at 3, 7, and 11 o'clock positions. No hard masses. Trace of bright red blood on the glove.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Second-degree internal haemorrhoids.
+Evidence: Painless bright red PR bleeding, prolapsing lump that reduces spontaneously (or with manual reduction), soft bulges on DRE.
+
+NOT: Colorectal cancer (no change in bowel habit, no weight loss, no hard mass, but needs consideration given age).
+
+### Plan (P)
+1. LIFESTYLE ADVICE: High fiber diet, increased fluid intake, avoid straining during defecation, avoid sitting on the toilet for prolonged periods.
+2. MEDICATION: Prescribed topical haemorrhoidal ointment (e.g., Proctosedyl) BD and PRN after bowel movements for 1 week. Prescribed Fybogel (Ispaghula husk) 1 sachet BD to treat underlying constipation.
+3. REFERRAL: Referred to Surgical Outpatient Clinic (SOPD) for consideration of banding or further investigation (e.g., sigmoidoscopy/colonoscopy) given his age and PR bleeding.
+4. SAFETY NET: Return if massive bleeding, severe pain (suggesting thrombosis), or systemic symptoms.
+
+### Prescription
+- **Drug**: Proctosedyl (or similar haemorrhoidal ointment)
+- **Preparation**: Ointment
+- **Dose**: Apply a small amount
+- **Route**: Topical / Intra-rectal
+- **Frequency**: Twice daily (BD) and after bowel movements
+- **Duration**: 1 week
+- **Quantity**: 1 tube (15g)
+
+**Tips**:
+- Specify topical application
+- Include instructions for use after bowel movements
+

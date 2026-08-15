@@ -152,3 +152,38 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription Writing
 
+### Subjective (S)
+Madam Wong Ah Mui (F/68), retired, attends clinic to review results of a recent DEXA scan. She is completely asymptomatic. No history of fragility fractures. Menopause at age 50. Diet is low in calcium (does not drink milk). Does not exercise regularly. No smoking, no alcohol. PMH: Hypertension. NKDA.
+
+### Objective (O)
+Vitals: BP 130/80 mmHg, HR 72 bpm, Height 155 cm, Weight 50 kg, BMI 20.8 kg/m².
+General: Looks well. No obvious kyphosis (dowager's hump).
+Mobility: Timed Up and Go (TUG) test < 10 seconds (low fall risk). Gait is steady.
+Investigations: DEXA scan shows T-score of -2.8 at the lumbar spine and -2.0 at the total hip.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Osteoporosis.
+Evidence: DEXA T-score ≤ -2.5 at the lumbar spine.
+
+Risk factors: Postmenopausal, low calcium intake, lack of weight-bearing exercise.
+
+### Plan (P)
+1. EDUCATION: Explained the DEXA results and the increased risk of fractures. Discussed fall prevention strategies at home (e.g., removing rugs, good lighting).
+2. LIFESTYLE: Advised a calcium-rich diet and regular weight-bearing exercises (e.g., brisk walking, Tai Chi).
+3. MEDICATION: Prescribed Alendronate 70mg weekly. Counseled extensively on administration (take on empty stomach, full glass of water, remain upright for 30 mins). Prescribed Calcium Carbonate + Vitamin D3 daily supplement.
+4. DENTAL: Advised to maintain good oral hygiene and inform dentist about Alendronate before any dental procedures (risk of ONJ).
+5. FOLLOW-UP: Review in 3 months to check medication compliance and side effects.
+
+### Prescription
+- **Drug**: Alendronate
+- **Preparation**: Tablet
+- **Dose**: 70 mg
+- **Route**: Oral
+- **Frequency**: Once a week
+- **Duration**: 12 weeks
+- **Quantity**: 12 tablets
+
+**Tips**:
+- Specify ONCE A WEEK dosing
+- Include strict administration instructions (empty stomach, upright, water)
+

@@ -164,3 +164,62 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription
 
+### Subjective (S)
+Master Chan Siu Ming (M/8), brought by mother, with 3-week flare of atopic eczema affecting face (cheeks) and bilateral antecubital fossae. Severe itch disrupting sleep (waking 3-4 times/night). Using aqueous cream only. PMH: Atopic eczema since age 2. Asthma (salbutamol PRN). Allergic rhinitis. FH: Father has eczema. NKDA. No recent food changes, no new pets, mother changed washing powder 1 month ago (coincided with start of flare — potential trigger). Non-smoker family (no passive smoke exposure). Currently using: Aqueous cream (insufficient). No TCS prescribed in past.
+
+### Objective (O)
+Vitals: Afebrile, HR 92 bpm, RR 18/min.
+Skin:
+  - Face: bilateral cheek erythema, mild excoriation, no scaling. Perioral region clear.
+  - Bilateral antecubital fossae: lichenified, erythematous, excoriated plaques (chronic scratching). Mild oozing at left antecubital fossa.
+  - No generalised pustules, no punched-out vesicles (eczema herpeticum excluded).
+  - No yellow crusting (no overt secondary bacterial infection currently).
+SCORAD (estimated): 35 (moderate severity — based on area + intensity + sleep loss).
+No lymphadenopathy. Chest clear (asthma stable — no current wheeze).
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Atopic eczema, moderate severity (SCORAD ~35), currently uninfected flare.
+Potential trigger: Change in washing powder 1 month ago.
+Atopic triad confirmed: Eczema + Asthma + Allergic rhinitis.
+
+NOT INFECTED CURRENTLY: No frank yellow crusting or pustules; mild oozing may represent serous exudate rather than infection. Monitor closely.
+NO ECZEMA HERPETICUM: No punched-out vesicles, no fever.
+
+### Plan (P)
+1. EMOLLIENT (CORNERSTONE): Replace aqueous cream with Diprobase cream (paraffin-based, no SLS, fragrance-free). Apply generously after every bath and at bedtime (at least 3 times daily). Target ≥250g/week in a child this size. Bath: use Diprobase in bath, lukewarm water, 5-10 min, pat dry gently.
+
+2. TCS FOR FACE: Hydrocortisone 1% cream — apply once daily to affected cheek areas until clear (maximum 2 weeks at a time). Mild-potency appropriate for facial use in children. Step down immediately when improved.
+
+3. TCS FOR BODY (antecubital fossae): Clobetasone butyrate 0.05% cream (Eumovate) — apply once daily to affected areas for up to 2 weeks. Moderate potency — appropriate for body flexures in children.
+
+4. ITCH/SLEEP: Chlorphenamine (chlorpheniramine) 4mg at bedtime — sedating antihistamine; helps sleep disruption from itch. Do not use in daytime (sedation).
+
+5. TRIGGER: Advise mother to switch back to original washing powder (or use fragrance-free, dermatologically tested alternative). Use non-biological detergent. Rinse clothes twice.
+
+6. SAFETY NET:
+   a) Yellow crusting/increased weeping → return for antibiotics (secondary Staph. aureus infection).
+   b) Fever + multiple punched-out blisters anywhere → A&E URGENTLY (eczema herpeticum — IV aciclovir).
+
+7. FOLLOW-UP: 2-4 weeks. If no improvement with step 2-3 treatment → dermatology referral (consider patch testing, phototherapy, topical tacrolimus, or biologics such as dupilumab).
+
+### Prescription
+- **Drug**: Hydrocortisone
+- **Preparation**: Cream 1%
+- **Dose**: Apply thin layer to affected facial skin
+- **Route**: Topical
+- **Frequency**: Once daily
+- **Duration**: 14 days (review)
+- **Quantity**: 30g tube
+
+**Notes**: Apply thin layer to affected areas of face only. Do not apply to eyelids. Apply emollient (Diprobase) 15 minutes before applying this cream. Stop when rash clears. Do not use for more than 2 consecutive weeks on face.
+
+**Tips**:
+- "Hydrocortisone 1% cream" — state the strength AND formulation (cream vs ointment)
+- "Topical" route — NOT "apply" without specifying route
+- Finger Tip Unit (FTU): 1 FTU = ~0.5g — use to guide quantity. For child's face: 1 FTU per application
+- "30g" — quantity must be stated
+- NEVER prescribe potent TCS (betamethasone, clobetasol) for the FACE
+- "Once daily" NOT "OD" — avoid abbreviations in prescriptions
+- Document: "For face only" to prevent accidental use on incorrect site
+- Eczema herpeticum: TCS are CONTRAINDICATED — do NOT prescribe TCS if blistering/HSV eczema suspected
+

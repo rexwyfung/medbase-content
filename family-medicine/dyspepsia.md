@@ -165,3 +165,66 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription
 
+### Subjective (S)
+Mr Ng Chi Man (M/45), office worker, presents with 3-month history of epigastric pain (burning/aching, worse after meals), bloating, belching. Ibuprofen 400mg TDS for chronic lower back pain (6 months). No haematemesis, melaena, dysphagia, weight loss, or palpable mass. No vomiting. PMH: Chronic LBP (no formal diagnosis). Medications: Ibuprofen 400mg TDS (×6 months). NKDA. Social: Non-smoker. Occasional beer. Office stress. FH: Uncle had gastric cancer (paternal uncle, age 72 — confirmed by patient).
+
+### Objective (O)
+Vitals: BP 122/78 mmHg, HR 76 bpm, Weight 73kg, BMI 23.8.
+Appearance: Well, no pallor, no jaundice.
+Abdomen: Soft. Mild epigastric tenderness (no guarding/rigidity). No hepatosplenomegaly. No palpable mass. Murphy's sign negative. Bowel sounds normal.
+PR: Deferred (no symptoms suggesting rectal pathology; no melaena reported).
+H. pylori Urea Breath Test (UBT): POSITIVE (done 2 weeks after stopping NSAIDs, off PPI).
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: H. pylori-associated peptic ulcer disease (likely duodenal given age, positive UBT, NSAID use, classic symptoms; no OGD performed as no alarm features)
+CONTRIBUTING FACTOR: NSAID (ibuprofen) use — direct mucosal injury + inhibit prostaglandin-mediated mucosal protection
+
+Note: Family history of gastric cancer (uncle) — will need more vigilance; if eradication fails or symptoms persist → OGD.
+
+COMORBIDITY: Chronic lower back pain — needs separate management plan (physiotherapy, paracetamol).
+
+### Plan (P)
+1. H. PYLORI ERADICATION (14-day triple therapy):
+   a) Omeprazole 20mg twice daily
+   b) Amoxicillin 1g twice daily  
+   c) Clarithromycin 500mg twice daily
+   All taken together twice daily with food for 14 days.
+
+2. STOP IBUPROFEN: Advise to stop ibuprofen immediately.
+
+3. ALTERNATIVE ANALGESIA FOR BACK PAIN:
+   a) Paracetamol 1g four times daily (regular schedule) for back pain
+   b) Topical diclofenac gel (topical NSAIDs have less GI risk)
+   c) Physiotherapy referral for LBP
+
+4. PPI MAINTENANCE: After eradication course — Omeprazole 20mg once daily for further 4 weeks (ulcer healing).
+
+5. CONFIRM ERADICATION: Arrange UBT 4 weeks after completing antibiotics. IMPORTANT: Stop PPI 2 weeks before UBT (otherwise false negative).
+
+6. LIFESTYLE: Avoid alcohol during treatment; avoid coffee/spicy food; regular small meals; avoid lying flat after meals; stress management.
+
+7. SAFETY NET: Attend A&E urgently if: haematemesis (vomiting blood), melaena (black tarry stools), sudden severe abdominal pain (perforation), dizziness/collapse (haemorrhage).
+
+8. FOLLOW-UP: 6 weeks (confirm symptom resolution + UBT result). If symptoms persist/recur after confirmed eradication → OGD urgently given family history.
+
+### Prescription
+- **Drug**: Triple Therapy Pack (H. pylori eradication)
+- **Preparation**: Multiple drugs — prescribe separately
+- **Dose**: See notes
+- **Route**: Oral
+- **Frequency**: Twice daily (with food)
+- **Duration**: 14 days
+- **Quantity**: See individual drugs
+
+**Notes**: Rx 1: Omeprazole 20mg capsules — 1 capsule twice daily × 14 days (28 capsules). Rx 2: Amoxicillin 500mg capsules — 2 capsules twice daily × 14 days (56 capsules). Rx 3: Clarithromycin 500mg tablets — 1 tablet twice daily × 14 days (28 tablets). Take all three together twice daily with food. Complete full course. Common SEs: diarrhoea, metallic taste, nausea. If penicillin allergic: substitute metronidazole 400mg twice daily for amoxicillin.
+
+**Tips**:
+- Write each drug as a SEPARATE prescription — do not combine on one prescription
+- "Amoxicillin" NOT "Amoxycillin" (UK vs US spelling — HK follows BNF)
+- "500mg" NOT "500 mg" or ".5g"
+- "Clarithromycin" generic NOT "Klacid" alone
+- Check for penicillin allergy before amoxicillin — potentially fatal if not checked
+- State "with food" for all triple therapy drugs
+- "Twice daily" NOT "BD"
+- Never abbreviate "micrograms" to "mcg" or "μg" in prescriptions
+

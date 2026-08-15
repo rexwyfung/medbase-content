@@ -147,3 +147,37 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription Writing
 
+### Subjective (S)
+Ms Chan Yan Ting (F/28), clerk, presents with a 2-day history of right eye redness, grittiness, and yellowish discharge. Woke up this morning with the eyelids stuck together. Left eye started getting red today. No significant eye pain, no photophobia, no blurring of vision. Does not wear contact lenses. Recent URTI symptoms (runny nose) 3 days ago. PMH: Nil. NKDA.
+
+### Objective (O)
+Vitals: Afebrile.
+Visual Acuity: 6/6 in both eyes.
+Eyes: Bilateral conjunctival injection (right > left), predominantly in the fornices. Purulent discharge present at the medial canthus of the right eye. Cornea is clear bilaterally. Pupils are equal and reactive to light (PEARL). No ciliary flush.
+Lymph nodes: No pre-auricular lymphadenopathy.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Acute Bacterial Conjunctivitis.
+Evidence: Purulent discharge, eyelids stuck together in the morning, bilateral involvement (sequential), normal vision, no severe pain or photophobia.
+
+NOT: Acute angle-closure glaucoma (no severe pain, no blurred vision, pupils reactive), Keratitis (cornea clear, no photophobia).
+
+### Plan (P)
+1. MEDICATION: Prescribed Chloramphenicol 0.5% eye drops, 1 drop to both eyes QID for 5-7 days (continue for 48 hours after resolution).
+2. HYGIENE ADVICE: Advised to wash hands frequently, avoid touching/rubbing eyes, do not share towels or pillows. Clean discharge with cooled boiled water and cotton wool.
+3. SICK LEAVE: Granted 2 days sick leave to prevent spread at work.
+4. SAFETY NET: Return immediately if vision becomes blurred, severe eye pain develops, photophobia occurs, or no improvement after 3 days.
+
+### Prescription
+- **Drug**: Chloramphenicol
+- **Preparation**: Eye drops (0.5%)
+- **Dose**: 1 drop to both eyes
+- **Route**: Topical (Ophthalmic)
+- **Frequency**: Four times daily (QID)
+- **Duration**: 1 week
+- **Quantity**: 1 bottle (10mL)
+
+**Tips**:
+- Specify which eye(s) - e.g., both eyes (Guttae OU)
+- Specify frequency (QID)
+

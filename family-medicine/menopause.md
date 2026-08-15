@@ -152,3 +152,39 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription Writing
 
+### Subjective (S)
+Madam Lam Shuk Yee (F/51), presents with a 6-month history of irregular menses (cycles varying from 20 to 60 days) and frequent hot flushes (5-6 times a day), especially at night, causing poor sleep. Reports vaginal dryness and mild dyspareunia. Mood is slightly irritable but no severe depression. LMP was 2 months ago. PMH: Nil. NKDA. Social: Non-smoker. Married.
+
+### Objective (O)
+Vitals: BP 120/75 mmHg, HR 76 bpm, BMI 23 kg/m².
+General: Looks well, comfortable at rest.
+Abdomen: Soft, non-tender. No palpable pelvic masses.
+Breast: Normal, no lumps (mammogram 6 months ago was normal).
+Pelvic exam: Deferred (pap smear up to date and normal).
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Perimenopausal symptoms.
+Evidence: Age 51, irregular menses, vasomotor symptoms (hot flushes, night sweats), urogenital atrophy symptoms (vaginal dryness).
+
+NOT: Thyroid disease (no weight loss, tremor, or goitre, though TFT can be checked if in doubt).
+
+### Plan (P)
+1. EDUCATION: Explained that these are normal perimenopausal symptoms. Discussed lifestyle modifications for hot flushes (layered clothing, cool environment, avoiding spicy foods/caffeine).
+2. HRT COUNSELING: Discussed the risks and benefits of Hormone Replacement Therapy (HRT). Patient has an intact uterus, so combined HRT (estrogen + progestogen) is required to prevent endometrial hyperplasia. Patient opted to try non-hormonal methods first.
+3. MEDICATION: Prescribed topical vaginal estrogen cream (e.g., Premarin cream) for vaginal dryness and dyspareunia. Prescribed water-based lubricants.
+4. BONE HEALTH: Advised adequate calcium and vitamin D intake, and weight-bearing exercise.
+5. FOLLOW-UP: Review in 3 months. If vasomotor symptoms remain intolerable, will reconsider systemic HRT.
+
+### Prescription
+- **Drug**: Conjugated Estrogens (e.g., Premarin)
+- **Preparation**: Vaginal Cream (0.625mg/g)
+- **Dose**: 0.5 g
+- **Route**: Intravaginal
+- **Frequency**: Twice a week (after initial daily loading phase if prescribed)
+- **Duration**: 3 months
+- **Quantity**: 1 tube (42.5g)
+
+**Tips**:
+- Specify intravaginal route
+- Ensure patient understands it is for local symptoms only
+

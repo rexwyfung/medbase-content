@@ -169,3 +169,74 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription
 
+### Subjective (S)
+Mr Fong Wai Keung (M/38), delivery driver, presents with 6-week history of lower back pain following lifting heavy boxes at work. Pain radiates to right buttock but NOT below knee. Constant dull ache (6/10), sharp on movement. Morning stiffness <30 minutes. Relieved by lying flat and heat; worsened by sitting and bending. Paracetamol and naproxen (PRN) partial relief. Has been resting at home — not improved. Off work for 6 weeks. Worried about job security. PMH: Nil. No previous back injuries. NKDA. Social: Delivery driver 8 years. Married with 2 children. Non-smoker. Non-drinker. Financially stressed due to sick leave. No red flag symptoms (no saddle anaesthesia, no urinary/bowel dysfunction, no bilateral leg weakness, no night sweats/weight loss, no fever, no thoracic pain).
+
+### Objective (O)
+Vitals: BP 124/80 mmHg, HR 72 bpm, BMI 26.2. Afebrile.
+Gait: Antalgic, slightly favouring left leg.
+Spine:
+  - Inspection: Reduced lumbar lordosis; mild lateral tilt to left
+  - Palpation: L4-L5 paraspinal muscle tenderness bilaterally (R>L). No midline bony tenderness (no fracture concern).
+  - ROM: Flexion 50° (limited by pain); extension 20° (mildly reduced); lateral flexion symmetric.
+  - SLR: Negative bilaterally at 80° — no pain radiation below knee.
+Neurological: Power 5/5 all lower limb groups. Reflexes: knee 2+, ankle 2+ bilaterally. Sensation intact L3, L4, L5, S1 dermatomes. No saddle anaesthesia.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Non-specific mechanical low back pain (NSLBP) with right gluteal referred pain
+Evidence: Occupational trigger; no neurological deficit; negative SLR; no red flags; paraspinal muscular tenderness; duration 6 weeks (subacute).
+NOT radiculopathy (pain does not radiate below knee; SLR negative; neurology intact).
+
+YELLOW FLAGS IDENTIFIED (psychosocial risk factors for chronification):
+• Fear-avoidance behaviour (afraid to move; extensive bed rest)
+• Work-related anxiety and catastrophising ("worried I'll never return to work")
+• Financial stress (dependent on income from delivery work)
+• 6 weeks without appropriate physiotherapy (contributing to chronification risk)
+
+### Plan (P)
+1. PHYSIOTHERAPY: Urgent referral for active physiotherapy (graded exercise, core strengthening, manual therapy). Address fear-avoidance directly.
+
+2. MEDICATIONS:
+   a) Naproxen 500mg orally twice daily with food × 2 weeks (anti-inflammatory phase)
+   b) Omeprazole 20mg orally once daily (GI protection with NSAID)
+   c) Paracetamol 1g orally four times daily (regular schedule)
+   d) Topical diclofenac sodium 1% gel — apply to lower back three times daily
+
+3. LIFESTYLE ADVICE:
+   a) STAY ACTIVE: Walking 20-30 min daily; gentle stretching; do NOT rest in bed
+   b) Heat pack to lower back for 15-20 minutes, up to 3 times daily
+   c) Correct lifting technique: bend knees, keep back straight, hold load close to body
+
+4. OCCUPATIONAL HEALTH: Referral for return-to-work planning; consider modified duties (light deliveries initially); workplace ergonomic assessment.
+
+5. PSYCHOLOGICAL: Psychoeducation about back pain (most resolves with activity, NOT rest); address yellow flags; consider pain management programme referral if chronifying.
+
+6. SICK LEAVE: Medical certificate issued × 2 weeks. Review at 2 weeks. If improving — facilitate graded return to work with modified duties.
+
+7. INVESTIGATIONS: Not indicated currently (no red flags, <6 weeks). If no improvement at 6 weeks total → Lumbar spine X-ray. MRI only if neurological deficit develops.
+
+8. SAFETY NET: Return to A&E IMMEDIATELY if: saddle anaesthesia (numbness around bottom/genitals), urinary retention or incontinence, bilateral leg weakness, high fever with back pain (infection). These are surgical emergencies.
+
+9. FOLLOW-UP: 2 weeks.
+
+### Prescription
+- **Drug**: Naproxen sodium
+- **Preparation**: Tablets
+- **Dose**: 500mg
+- **Route**: Oral
+- **Frequency**: Twice daily (with food)
+- **Duration**: 14 days
+- **Quantity**: 28 tablets
+
+**Notes**: Take with food or milk to reduce stomach upset. Do not take on empty stomach. Stop if stomach pain develops. Co-prescribed with omeprazole for gastric protection.
+
+**Tips**:
+- "500mg" NOT "500 mg" or ".5g" or "500MG"
+- "Naproxen sodium" (generic) NOT "Naprosyn" alone
+- "Twice daily" NOT "BD" or "BID"
+- "Oral" route must be stated
+- State "with food" — reduces GI risk
+- Always co-prescribe PPI when prescribing NSAIDs for >1 week
+- "28 tablets" — quantity must be stated
+- NSAID contraindicated in: active PUD, severe renal failure (eGFR<30), pregnancy (3rd trimester), aspirin-sensitive asthma — CHECK BEFORE PRESCRIBING
+

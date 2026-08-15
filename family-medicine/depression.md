@@ -178,3 +178,76 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription Writing
 
+### Subjective (S)
+Mrs Chan Siu Mei (F/42) presents with a 2-month history of low mood, tearfulness, anhedonia (unable to enjoy mahjong with friends), early morning waking at 4am, fatigue, and poor concentration. Precipitated by son's recent diagnosis of learning difficulties. 
+PMH: Post-natal depression 10 years ago (resolved with SSRI).
+Medications: Nil regular. NKDA.
+Social: Married, housewife, 1 child (son, age 10 with learning difficulties). Parents increasingly unwell. Non-smoker. Occasional social alcohol. Christian.
+FH: Mother with depression ("nerves"). No FH of suicide.
+PHQ-9 Score: 16/27 (moderately severe depression). No active suicidal ideation.
+
+### Objective (O)
+Vitals: BP 118/76 mmHg, HR 78 bpm, RR 16/min, SpO2 98% RA, Temp 36.5°C, BMI 21.5 kg/m²
+Appearance: Slightly dishevelled, tearful during consultation, maintains minimal eye contact
+Mental State Exam: Alert and oriented. Speech: normal rate and tone. Mood: "low". Affect: depressed, congruent. Thought: no suicidal ideation, no thought disorder, no psychotic features. Cognition: intact. Insight: present — acknowledges needing help.
+Physical: Cardiovascular, respiratory, abdominal examinations unremarkable. No signs of thyroid disease.
+Investigations: TFT (TSH 2.1 mIU/L, fT4 14.2 pmol/L — normal), FBC (Hb 12.8 g/dL — borderline low; MCV 85 fL — normocytic), B12 and folate normal, fasting glucose 4.8 mmol/L.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Major Depressive Disorder, Moderate (ICD-10: F32.1 / DSM-5)
+Supporting: PHQ-9 16/27; core symptoms ≥2 weeks; functional impairment; biological features (early morning waking); second episode (previous PND)
+
+DIFFERENTIAL DIAGNOSES:
+1. Adjustment Disorder with depressed mood — less likely given severity and full MDD criteria met
+2. Hypothyroidism — excluded: TFT normal
+3. Anaemia contributing to fatigue — borderline Hb 12.8; likely nutritional; contributing factor not primary cause
+
+COMORBIDITIES/COMPLICATIONS:
+• Carer burden and psychosocial stressors (son's SEN, parent care)
+• Social isolation
+• Borderline anaemia — monitor; consider iron studies if persists
+
+### Plan (P)
+1. INVESTIGATION: Iron studies (serum ferritin, iron, TIBC) — to evaluate borderline anaemia; repeat FBC in 3 months.
+
+2. MEDICATION: Sertraline 50mg orally once daily (morning, with food). To increase to 100mg after 2 weeks if tolerated. Duration: minimum 24 months (2nd episode).
+
+3. NON-PHARMACOLOGICAL: 
+   a) Psychoeducation: provide written information sheet (DOH depression leaflet)
+   b) Sleep hygiene: fixed 7am wake time, no screens 1h before bed
+   c) Behavioural activation: restart one pleasurable activity weekly
+   d) 4-7-8 breathing technique — demonstrated in clinic
+   e) Thought diary — provide template
+
+4. REFERRAL: 
+   a) Clinical Psychologist for CBT (HA GOPC list)
+   b) Medical Social Worker — carer support, son's SEN resources
+   c) Psychiatry if no response to 2 antidepressant trials or suicidality develops
+
+5. SICK LEAVE: MC for 1 week to reduce stressors; review occupational function at follow-up.
+
+6. SAFETY NET: Safety plan given — Samaritan Befrienders HK 2389-2222 (24h). Patient to attend A&E if active suicidal ideation develops. Husband briefed with patient's consent.
+
+7. FOLLOW-UP: Review in 2 weeks (medication side effects + adherence). Monthly thereafter.
+
+### Prescription
+- **Drug**: Sertraline hydrochloride
+- **Preparation**: Tablets
+- **Dose**: 50mg
+- **Route**: Oral
+- **Frequency**: Once daily (morning)
+- **Duration**: 4 weeks (review)
+- **Quantity**: 28 tablets
+
+**Notes**: Take with food. Do not stop suddenly. Allow 2-4 weeks for effect. Review in 2 weeks.
+
+**Tips**:
+- Write "50mg" NOT "50.0mg" or "50 mg"
+- Write "Once daily" NOT "QD" or "qd" or "OD"
+- Use generic name "Sertraline" NOT brand name "Zoloft" alone
+- Specify route: "Oral" or "by mouth" NOT just "tab"
+- Always write quantity: "28 tablets"
+- Sign with FULL NAME printed + GMC/HK registration number + date
+- Write patient full name, DOB, ID number on prescription
+- A fatally wrong dose = 0 marks for entire prescription section
+

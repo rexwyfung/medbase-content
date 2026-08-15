@@ -168,3 +168,62 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription
 
+### Subjective (S)
+Miss Yip Wing Shan (F/28), accountant, presents with 3-month history of recurrent paroxysmal episodes: sudden onset palpitations, chest tightness, dyspnoea, bilateral hand/foot tingling (paraesthesia), dizziness, intense fear, and sense of impending death. Episodes peak within 10 minutes and resolve within 20-30 minutes. Episodes began during accountancy busy season (deadline period). Now occurring 2-3 times/week, including unpredictably outside work. Attends A&E twice — ECG, troponin, CXR, echo, 24h Holter all normal. Now avoids going to work (missed 10 days in past 3 weeks). Anticipatory anxiety between episodes (constant worry about when the next attack will occur). PMH: Nil. No previous psychiatric history. NKDA. Social: Non-smoker. 2-3 cups coffee/day. Non-drinker. Single. Lives with parents. GAD-7: 14/21 (moderate-severe). PHQ-9: 8/27 (mild-moderate).
+
+### Objective (O)
+Vitals: BP 118/74 mmHg, HR 88 bpm (sinus rhythm), RR 20/min, SpO2 99% RA. Temp 36.7°C.
+General: Alert, visibly anxious, fidgety. Mild tremor of hands (not thyroid-related — likely anxious state).
+Cardiovascular: Regular rate, no murmurs. Peripheral pulses present. No oedema.
+Respiratory: Clear bilaterally.
+Thyroid: No goitre, no lid lag, no exophthalmos.
+Neurological: No focal deficits. Normal cranial nerves. Hyperventilation can be provoked by asking patient to breathe rapidly for 90 seconds — reproduces tingling (hyperventilation test — positive).
+Investigations ordered: TFT (TSH 1.8 mIU/L — normal), FBC (normal), fasting glucose 4.9 mmol/L (normal), ECG (sinus rhythm, no delta wave/WPW, no long QT).
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Panic Disorder with early agoraphobic features (DSM-5)
+Evidence: Recurrent unexpected panic attacks (≥2); anticipatory anxiety ×3 months; behavioural change (work avoidance); cardiac/thyroid/metabolic causes excluded; hyperventilation test reproduces symptoms; GAD-7 14/21.
+
+COMORBIDITY: Mild-moderate depression (PHQ-9 8/27) — monitor; unlikely to need separate antidepressant if SSRI started for panic (dual benefit).
+
+NOT: Cardiac arrhythmia (multiple cardiac workups normal), hyperthyroidism (TFT normal), SVT (Holter normal), hypoglycaemia (fasting glucose normal).
+
+### Plan (P)
+1. PSYCHOEDUCATION: Explain panic disorder mechanism — fight/flight alarm system; physical symptoms are real but not dangerous; prognosis excellent with treatment. Written information provided (DoH anxiety leaflet).
+
+2. MEDICATION: Escitalopram 5mg orally once daily for 1 week, then increase to 10mg once daily.
+   Counselling: Anxiety may worsen in first 1-2 weeks (warn patient); do not stop abruptly; allow 4-6 weeks for full anxiolytic effect. Take in the morning (insomnia potential side effect).
+   DO NOT PRESCRIBE BENZODIAZEPINES (e.g. diazepam, lorazepam, alprazolam) as regular treatment.
+
+3. NON-PHARMACOLOGICAL:
+   a) CBT referral (8-12 sessions): interoceptive exposure (facing feared sensations), cognitive restructuring (correcting catastrophic thoughts)
+   b) Diaphragmatic breathing (4-7-8 technique — demonstrated in clinic)
+   c) STOP avoidance: return to work gradual — start 3 days/week; increase over 3 weeks
+   d) Caffeine reduction: limit to 1 cup/day maximum (caffeine directly triggers panic)
+   e) Regular aerobic exercise (reduces anxiety sensitivity)
+   f) No alcohol (alcohol rebound worsens anxiety)
+
+4. SAFETY NET: If mood becomes very low, or thoughts of self-harm → Samaritan Befrienders HK 2389-2222 (24h); or attend A&E.
+
+5. FOLLOW-UP: 2 weeks (medication review — side effects, anxiety level). Then monthly. GAD-7 and PHQ-9 monthly to track progress.
+
+### Prescription
+- **Drug**: Escitalopram oxalate
+- **Preparation**: Tablets
+- **Dose**: 5mg (week 1), then 10mg
+- **Route**: Oral
+- **Frequency**: Once daily (morning)
+- **Duration**: 4 weeks (review)
+- **Quantity**: 35 tablets (7 × 5mg + 28 × 10mg)
+
+**Notes**: Week 1: 5mg once daily in morning. From Week 2: 10mg once daily in morning. Allow 4-6 weeks for full effect. Do not stop abruptly. Anxiety may temporarily worsen in first 2 weeks — this is expected.
+
+**Tips**:
+- "Escitalopram oxalate" or "Escitalopram" (generic) NOT "Lexapro" alone
+- "5mg" then "10mg" — write as two separate prescriptions (or clearly staged in notes)
+- "Once daily" NOT "OD"
+- "Morning" — specify timing (reduces insomnia side effect)
+- Do NOT prescribe benzodiazepines (diazepam, lorazepam, alprazolam) as regular treatment for anxiety — prescribing these without appropriate safeguards is a serious clinical error
+- Check QT prolongation: escitalopram can prolong QT — use caution with other QT-prolonging drugs; check ECG if cardiac concern
+- "Oral" route must be stated
+

@@ -170,3 +170,51 @@ SAFETY NET:
 
 ## Station 4 — Records & Prescription: OA Knee
 
+### Subjective (S)
+Mrs Ng, 68F. OA bilateral knees review.
+Right knee pain VAS 7/10. Paracetamol 1g PRN "sometimes 2-3 per day, not helping".
+Cannot walk >10 min without pain. Stopped Tai Chi. Lives alone — concerned about function.
+Comorbidities: HTN (on amlodipine), CKD 3 (eGFR 38), ex-peptic ulcer.
+
+### Objective (O)
+BMI 32.1  BP 136/84
+Right knee: medial JL tenderness, crepitus ++, small effusion (positive bulge sign)
+Left knee: mild medial JL tenderness, no effusion
+ROM: right 0–105°, left 0–120°. No varus/valgus deformity (yet)
+No synovitis of small joints. CRP 8 (mild elevation — consistent with OA)
+eGFR 38 (stable), Cr 142
+
+### Assessment (A)
+Bilateral knee OA (right symptomatic with effusion). Inadequate analgesia — paracetamol used PRN/subtherapeutic.
+NSAID contraindicated (CKD, PUD hx, HTN). 
+Plan: optimise paracetamol dosing, add topical diclofenac, physiotherapy referral, consider IA steroid for right knee effusion.
+
+### Plan (P)
+1. Paracetamol 1g QDS REGULARLY (not PRN) — advise consistent dosing for OA
+2. Topical diclofenac 1% gel TDS–QDS right knee (minimal systemic absorption — safer in CKD)
+3. Right knee intra-articular triamcinolone 40mg injection today (effusion present)
+4. Physiotherapy referral: quadriceps strengthening, gait training
+5. Weight management programme referral (BMI 32)
+6. Encourage Tai Chi return (safe — explain exercise is protective for OA)
+7. Walking stick (right hand for right knee OA) if needed for stability
+8. Orthopaedic referral: if no improvement in 3 months (TKR consideration)
+9. Review in 6 weeks: pain VAS, function, effusion
+
+### Prescription
+- **Drug**: Paracetamol (Acetaminophen)
+- **Preparation**: Film-coated tablet 500mg
+- **Dose**: 1000 mg (2 tablets)
+- **Route**: Oral
+- **Frequency**: Four times daily (every 6 hours), regularly
+- **Duration**: 4 weeks then review
+- **Quantity**: 224 tablets (2 boxes of 112)
+
+**Notes**: Take REGULARLY — not just for severe pain. Maximum 4g/24 hours. Take with food if GI upset. Do not take additional paracetamol-containing products (cold remedies, compound analgesics — risk of overdose). Reduced dose if eGFR <30.
+
+**Tips**:
+- For OA: write "REGULAR" dosing — PRN is subtherapeutic
+- Maximum 4g/day in healthy adults; reduce in liver disease or chronic alcohol use
+- Always warn about other paracetamol-containing OTC products
+- Paracetamol is the SAFEST analgesic in CKD (unlike NSAIDs or opioids)
+- Do not confuse with "acetaminophen" (US name) — same drug
+

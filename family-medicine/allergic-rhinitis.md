@@ -174,3 +174,43 @@ SAFETY NET:
 
 ## Station 4 — Records & Prescription: Allergic Rhinitis
 
+### Subjective (S)
+Alvin, 28M. 3/12 f/u persistent AR. 
+Nasal congestion, sneezing mornings worse. Sleep disrupted 3-4×/week.
+On INCS (mometasone × 6 weeks) — some improvement but still morning congestion.
+Asthma well-controlled (ACT 23/25). No eye symptoms. Work affected by congestion.
+
+### Objective (O)
+No allergic shiners, pale/boggy inferior turbinates bilaterally. Clear rhinorrhoea.
+Chest: clear, no wheeze. Peak flow 98% predicted.
+Skin prick test results: HDM 8mm wheal (positive), cockroach 5mm (positive).
+
+### Assessment (A)
+Persistent moderate-severe allergic rhinitis, HDM-sensitised. Partial response to INCS.
+Step up: add oral antihistamine. Discuss allergen immunotherapy candidacy.
+
+### Plan (P)
+1. Continue mometasone nasal spray, counsel on technique (spray toward ear not septum)
+2. Add bilastine 20mg OD (non-sedating — suitable for work)
+3. Saline nasal rinse daily (Sterimar or homemade: 1 tsp salt/500ml boiled water)
+4. HDM avoidance measures (written leaflet provided)
+5. Refer allergy clinic: discuss SLIT (Acarizax/Actair) — suitable candidate: young, HDM-monosensitised, persistent moderate-severe
+6. Review in 6 weeks
+
+### Prescription
+- **Drug**: Mometasone furoate
+- **Preparation**: Nasal spray 50 mcg/actuation
+- **Dose**: 100 mcg (2 sprays each nostril)
+- **Route**: Intranasal
+- **Frequency**: Once daily (morning)
+- **Duration**: 3 months (then review)
+- **Quantity**: 1 bottle (140 actuations)
+
+**Notes**: Spray toward outer wall of nose (not septum). Tilt head slightly forward. Prime pump before first use (10 actuations). Rinse nozzle after use. Full effect in 1–2 weeks.
+
+**Tips**:
+- Write number of sprays per nostril AND total dose (avoids confusion)
+- Specify "each nostril" explicitly — some candidates write ambiguous doses
+- INCS are first-line even in pregnant patients (budesonide preferred in pregnancy)
+- Document technique counselling in notes
+

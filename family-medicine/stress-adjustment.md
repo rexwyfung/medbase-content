@@ -152,3 +152,37 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription Writing
 
+### Subjective (S)
+Mr Wong Kin Ming (M/40), IT professional, presents with 1-month history of insomnia (difficulty falling asleep), irritability, and poor concentration. Stressor: impending company layoffs announced 6 weeks ago. Worried about finances and paying mortgage. No low mood, no anhedonia, no early morning waking. No suicidal ideation. No alcohol abuse. PMH: Nil. NKDA. Social: Married, 1 child. Non-smoker. Occasional social drinking.
+
+### Objective (O)
+Vitals: BP 120/80 mmHg, HR 76 bpm, afebrile.
+Appearance: Alert, cooperative, appears slightly tense but easily engaged.
+Mental State Exam: Euthymic mood, congruent affect. Speech normal rate and tone. Thought content: focused on job security and financial worries. No psychotic features. Cognition intact. Insight present.
+Physical: Unremarkable.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Adjustment Disorder with anxious mood (ICD-10: F43.2)
+Evidence: Identifiable stressor (layoffs); symptoms within 1 month of stressor; marked distress but does not meet criteria for Major Depressive Disorder or Generalized Anxiety Disorder.
+
+NOT: Major Depressive Disorder (no pervasive low mood or anhedonia).
+
+### Plan (P)
+1. PSYCHOEDUCATION: Validated feelings. Explained that this is a normal reaction to an abnormal stressor. Discussed sleep hygiene (avoid screens before bed, regular sleep schedule).
+2. MEDICATION: Zopiclone 7.5mg tablet — 1 tablet NOCTE PRN for insomnia. Short course (max 1 week) to avoid dependence.
+3. NON-PHARMACOLOGICAL: Advised stress management techniques (deep breathing, exercise). Encouraged seeking social support from family.
+4. FOLLOW-UP: Review in 2 weeks to monitor symptoms and sleep.
+
+### Prescription
+- **Drug**: Zopiclone
+- **Preparation**: Tablet
+- **Dose**: 7.5 mg
+- **Route**: Oral
+- **Frequency**: Once daily at night, when required (PRN) for insomnia
+- **Duration**: 7 days
+- **Quantity**: 7 tablets
+
+**Tips**:
+- Specify PRN for insomnia
+- Limit duration to 1 week to prevent dependence
+

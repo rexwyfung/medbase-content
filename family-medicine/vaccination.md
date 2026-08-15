@@ -152,3 +152,34 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription Writing
 
+### Subjective (S)
+Mr David Smith (M/66), retired, attends clinic for a routine health check and asks about vaccinations. He has hypertension and type 2 diabetes (well-controlled). He received the seasonal influenza vaccine 1 month ago. He has never received a pneumococcal vaccine or shingles vaccine. No history of severe allergic reactions to vaccines. NKDA.
+
+### Objective (O)
+Vitals: BP 130/80 mmHg, HR 72 bpm, afebrile.
+General: Well-looking, no signs of acute illness.
+Chest: Clear, no wheeze or crackles.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Health maintenance / Adult Vaccination counseling.
+Evidence: Age > 65, chronic medical conditions (DM), eligible for pneumococcal and herpes zoster vaccination.
+
+### Plan (P)
+1. COUNSELING (Pneumococcal): Explained the risk of invasive pneumococcal disease. Recommended the 15-valent pneumococcal conjugate vaccine (PCV15) followed by the 23-valent pneumococcal polysaccharide vaccine (PPSV23) one year later (or a single dose of PCV20 if available/preferred). Patient agreed to PCV15 today.
+2. COUNSELING (Herpes Zoster): Discussed the risk of shingles and post-herpetic neuralgia. Recommended the recombinant zoster vaccine (RZV, Shingrix) - 2 doses, 2-6 months apart. Patient wishes to consider and return next time.
+3. ADMINISTRATION: Administered PCV15 0.5mL IM into the left deltoid after obtaining verbal consent. Observed for 15 minutes post-vaccination; no adverse reactions.
+4. FOLLOW-UP: Scheduled appointment in 1 year for PPSV23, and advised he can book for the Shingles vaccine anytime.
+
+### Prescription
+- **Drug**: 15-valent Pneumococcal Conjugate Vaccine (PCV15)
+- **Preparation**: Pre-filled syringe
+- **Dose**: 0.5 mL
+- **Route**: Intramuscular (IM)
+- **Frequency**: Single dose
+- **Duration**: Stat
+- **Quantity**: 1 dose
+
+**Tips**:
+- Specify the exact type of vaccine (e.g., PCV15)
+- Specify Intramuscular (IM) route
+

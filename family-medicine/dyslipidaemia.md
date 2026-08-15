@@ -168,3 +168,80 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription
 
+### Subjective (S)
+Mr Chan Kwong Ho (M/50), office manager, presents following occupational health check results. Fasting lipid profile: Total cholesterol 7.2 mmol/L, LDL 4.8 mmol/L, HDL 0.9 mmol/L, TG 3.1 mmol/L. No chest pain, no exertional dyspnoea, no palpitations, no peripheral oedema, no claudication. PMH: Nil. No DM, no HTN (BP today 136/84 — borderline). NKDA. Medications: Nil regular. Social: Non-smoker. 2-3 glasses wine daily (exceeds recommended limit). Office job (sedentary). BMI 27.8. Diet: High in red meat and dairy; limited vegetables. FH: Father died of MI at 48 (premature CVD, <55 years). Mother alive, well. No siblings known to have heart disease. QRISK3 calculated today: 18.4% (high — based on age/sex/BP/lipids/family history).
+
+### Objective (O)
+Vitals: BP 136/84 mmHg, HR 78 bpm, BMI 27.8 kg/m².
+Cardiovascular: Normal heart sounds. No murmurs. JVP not elevated. No peripheral oedema. Peripheral pulses palpable. No carotid bruits.
+Skin: No xanthelasma (eyelids clear). No tendon xanthomata (Achilles and extensor tendons examined — none palpated).
+Eyes: No corneal arcus visible to naked eye (below age 50 threshold for significance; above 50 can be normal — noted for record).
+Abdomen: No hepatomegaly. No splenomegaly.
+Investigations ordered:
+  TFT: TSH 2.4 mIU/L (normal — secondary hypothyroidism excluded)
+  HbA1c: 38 mmol/mol (normal — DM excluded)
+  LFTs: All within normal limits (safe to start statin)
+  Fasting glucose: 5.4 mmol/L (normal)
+  ECG: Sinus rhythm, no ischaemic changes
+  QRISK3: 18.4% 10-year CVD risk (HIGH — statin indicated)
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Mixed dyslipidaemia (elevated LDL + TG, reduced HDL) — likely familial hypercholesterolaemia phenotype (LDL 4.8 + paternal premature MI at 48 — Simon Broome criteria: possible FH)
+QRISK3: 18.4% (HIGH — statin therapy indicated)
+
+SECONDARY CAUSES EXCLUDED: Hypothyroidism (TSH normal), DM (HbA1c normal), significant hepatic disease (LFT normal).
+
+MODIFIABLE RISK FACTORS:
+• Elevated TG (3.1 — likely alcohol-related; daily wine consumption)
+• Low HDL (0.9 — sedentary lifestyle + alcohol)
+• Overweight (BMI 27.8)
+• Borderline hypertension (136/84 — monitor)
+
+### Plan (P)
+1. STATIN THERAPY: Atorvastatin 40mg orally once daily at bedtime.
+   Target LDL: <1.8 mmol/L (given QRISK3 18.4% = high CVD risk, per ESC 2021 guidelines).
+   Counsel: Bedtime preferred (cholesterol synthesis peaks at night). Avoid grapefruit/grapefruit juice. Report muscle pain (especially if severe or accompanied by dark urine). Statin-related myopathy rare but important.
+
+2. LIVER FUNCTION: Recheck LFTs at 3 months (statin-induced hepatitis — rare; stop if ALT >3× ULN).
+
+3. LIFESTYLE:
+   a) Mediterranean diet: increase oily fish (salmon, mackerel), legumes, vegetables; reduce red meat, processed food, dairy fat; increase soluble fibre (oats, beans)
+   b) Exercise: 150-300 min/week moderate intensity
+   c) ALCOHOL REDUCTION: Aim <14 units/week (currently excessive — main driver of elevated TG 3.1 + low HDL). Reducing alcohol is potentially the most impactful single intervention.
+   d) Weight: Target BMI <25 (lose ~4kg)
+   e) Plant stanols: Flora pro.activ 2g/day (reduces LDL 10-15%)
+
+4. HYPERTRIGLYCERIDAEMIA (TG 3.1): Primary management through alcohol reduction. If TG remains >3.0 after alcohol reduction + lifestyle → add omega-3 fatty acids (EPA/DHA) 2-4g/day.
+
+5. FH WORKUP: Refer to Lipid Clinic for formal FH evaluation (Dutch Lipid Clinic Network score; LP(a) level; genetic testing if indicated). Recommend cascade screening for first-degree relatives (children — 50% risk of FH).
+
+6. BLOOD PRESSURE: BP 136/84 — monitor. If confirmed on repeat measurement → assess need for antihypertensive (target <130/80 in high CVD risk).
+
+7. FOLLOW-UP: 
+   a) 6-8 weeks: Fasting lipid profile + LFT (response to statin; hepatotoxicity check)
+   b) 3 months: Full review — lipids, BP, lifestyle changes, weight, alcohol
+   c) Annually thereafter if stable
+
+8. SAFETY NET: Return/A&E if chest pain, palpitations, severe muscle pain (rhabdomyolysis — dark urine, pain, weakness). Do not stop statin without discussing first.
+
+### Prescription
+- **Drug**: Atorvastatin calcium
+- **Preparation**: Tablets
+- **Dose**: 40mg
+- **Route**: Oral
+- **Frequency**: Once daily at bedtime
+- **Duration**: Long-term (review at 3 months)
+- **Quantity**: 30 tablets
+
+**Notes**: Take at bedtime (cholesterol synthesis peaks at night). Avoid grapefruit juice. Report muscle pain, weakness, or dark urine immediately (signs of rare but serious muscle breakdown). Do not stop without consulting doctor. Recheck LFTs and lipids in 6-8 weeks.
+
+**Tips**:
+- "Atorvastatin calcium" or "Atorvastatin" (generic) NOT "Lipitor" alone
+- "40mg" NOT "40 mg" or "40MG"
+- "Once daily at bedtime" — specify TIMING (important for mechanism)
+- "Oral" route — state it
+- "30 tablets" — quantity stated
+- IMPORTANT DRUG INTERACTIONS: Simvastatin (NOT atorvastatin) + clarithromycin → rhabdomyolysis. Atorvastatin + gemfibrozil → increased myopathy risk.
+- AVOID GRAPEFRUIT JUICE — CYP3A4 inhibitor — applies mainly to simvastatin/lovastatin but advise with atorvastatin too
+- Dose: 10mg = low-intensity; 20-40mg = moderate; 40-80mg = HIGH intensity. Choose appropriately based on CVD risk.
+

@@ -151,3 +151,38 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription Writing
 
+### Subjective (S)
+Mr Cheung Wai Ming (M/48), asymptomatic, attends for a routine health screening review. No polyuria, polydipsia, or unexplained weight loss. No chest pain, shortness of breath, or visual changes. No history of hypertension or diabetes. PMH: Nil. NKDA. Social: Smokes 10 cigarettes/day for 20 years. Occasional alcohol. Sedentary lifestyle. FH: Father has Hypertension and suffered a stroke at age 65.
+
+### Objective (O)
+Vitals: BP 138/88 mmHg (average of 2 readings), HR 76 bpm, BMI 27.5 kg/m² (Overweight/Obese for Asian).
+General: Comfortable, no distress.
+CVS: Normal heart sounds, no murmurs. Peripheral pulses intact.
+Investigations (Screening results): Fasting plasma glucose 6.5 mmol/L. Total Cholesterol 5.8 mmol/L, LDL 3.6 mmol/L, HDL 1.0 mmol/L, Triglycerides 2.2 mmol/L. Renal and liver function normal.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: 1. Impaired Fasting Glucose (Pre-diabetes). 2. Borderline Hypertension. 3. Dyslipidemia. 4. Overweight.
+Evidence: Fasting glucose between 6.1-6.9 mmol/L; BP 130-139/85-89 mmHg; elevated LDL/TG; BMI > 25.
+
+High cardiovascular risk profile (smoking, family history, metabolic syndrome features).
+
+### Plan (P)
+1. EDUCATION: Explained the results and the concept of pre-diabetes and metabolic syndrome. Discussed his high cardiovascular risk.
+2. LIFESTYLE: Advised strict lifestyle modifications: weight loss (target 5-10%), DASH diet (low salt, low fat), regular aerobic exercise (150 mins/week).
+3. SMOKING CESSATION: Strongly advised to quit smoking. Offered referral to smoking cessation clinic.
+4. INVESTIGATIONS: Ordered an Oral Glucose Tolerance Test (OGTT) to definitively rule out or diagnose Diabetes Mellitus.
+5. FOLLOW-UP: Review in 2 weeks for OGTT results and to re-check blood pressure. No medications started today; will decide based on OGTT and BP trend.
+
+### Prescription
+- **Drug**: Laboratory Orders (No medication prescribed yet)
+- **Preparation**: Diagnostic Test
+- **Dose**: N/A
+- **Route**: N/A
+- **Frequency**: Once
+- **Duration**: N/A
+- **Quantity**: N/A
+
+**Tips**:
+- Order Oral Glucose Tolerance Test (OGTT)
+- Specify fasting and 2-hour post-load glucose
+

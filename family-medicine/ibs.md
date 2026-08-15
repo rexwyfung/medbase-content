@@ -169,3 +169,47 @@ SAFETY NET:
 
 ## Station 4 — Records & Prescription: IBS
 
+### Subjective (S)
+Ms Lam, 32F. IBS-M review. 
+Low FODMAP diet 6 weeks: bloating much improved, 60% better. 
+Still crampy lower abdominal pain — mebeverine only partially effective.
+PHQ-9=12 (moderate depression). Sleep disturbed — takes 1–2hrs to fall asleep.
+No red flags. LMP 2 weeks ago (regular cycles). No rectal bleeding.
+
+### Objective (O)
+Wt 58kg  BMI 21.5  BP 108/68  HR 76
+Abdomen: soft, mild tenderness LIF and RIF, no guarding, no organomegaly, normal bowel sounds
+PR: deferred (normal FIT test result 3 months ago)
+Stool calprotectin: 28 mcg/g (normal <50 — IBD less likely)
+
+### Assessment (A)
+IBS-M, persistent pain despite mebeverine + dietary modification.
+Comorbid moderate depression (PHQ-9=12) — gut-brain axis likely perpetuating both.
+Plan to add low-dose amitriptyline (gut analgesic + sleep benefit) and refer CBT/psychology.
+
+### Plan (P)
+1. Add amitriptyline 10mg ON for 2 weeks, increase to 25mg ON if tolerated
+2. Continue mebeverine 135mg TDS before meals
+3. Continue low FODMAP — dietitian referral for reintroduction phase guidance
+4. Psychology referral: CBT for IBS + depression
+5. Monitor PHQ-9 in 4–6 weeks; consider adding SSRI if depression not improving
+6. Reassure: IBS does not cause bowel cancer, does not shorten life
+7. Review in 6 weeks
+
+### Prescription
+- **Drug**: Amitriptyline
+- **Preparation**: Film-coated tablet
+- **Dose**: 10 mg
+- **Route**: Oral
+- **Frequency**: Once daily at night
+- **Duration**: 6 months minimum, review at 4–6 weeks
+- **Quantity**: 56 tablets
+
+**Notes**: Low dose for IBS pain — NOT antidepressant dose. Sedating — take at night. Common SE: dry mouth, constipation. Avoid alcohol. Advise 6 weeks for full effect. Do not stop abruptly.
+
+**Tips**:
+- Document indication clearly: "IBS pain (visceral analgesia) — not for depression"
+- Amitriptyline doses differ by indication: IBS 10–50mg ON vs depression 75–150mg OD
+- Warn about driving impairment — do not drive until response established
+- Check ECG if age >65 or cardiac history before starting TCA
+

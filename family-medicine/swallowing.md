@@ -142,3 +142,30 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription
 
+### Subjective (S)
+Patient presents with symptoms of Swallowing & Nutrition.
+
+### Objective (O)
+Vitals stable. Physical examination findings consistent with Swallowing & Nutrition.
+
+### Assessment (A)
+Primary Diagnosis: Swallowing & Nutrition
+
+### Plan (P)
+1. Start appropriate medication.
+2. Lifestyle advice.
+3. Follow-up in 4 weeks.
+
+### Prescription
+- **Drug**: Standard Medication for Swallowing & Nutrition
+- **Preparation**: Tablets
+- **Dose**: Standard dose
+- **Route**: Oral
+- **Frequency**: Daily
+- **Duration**: 28 days
+- **Quantity**: 28 tablets
+
+**Tips**:
+- Write clearly
+- Specify route
+

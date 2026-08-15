@@ -153,3 +153,37 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription Writing
 
+### Subjective (S)
+Ms Lee Sze Man (F/30), presents with a 2-hour history of a generalized, intensely itchy rash. It started 30 minutes after eating a seafood buffet (shrimp, crab). The rash is moving around her body. No shortness of breath, no wheezing. No lip, tongue, or throat swelling. No dizziness or syncope. No previous similar episodes. PMH: Nil. NKDA.
+
+### Objective (O)
+Vitals: BP 110/70 mmHg, HR 85 bpm, RR 16/min, SpO2 99% on room air.
+Skin: Generalized erythematous, raised, edematous plaques (wheals) of varying sizes on the trunk and limbs. Blanchable. No target lesions.
+HEENT: No facial, lip, or tongue angioedema. Uvula midline, airway patent.
+Chest: Clear to auscultation bilaterally, no wheeze.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Acute Urticaria (likely IgE-mediated food allergy to seafood).
+Evidence: Acute onset of wheals shortly after eating seafood, intense pruritus.
+
+NOT: Anaphylaxis (no respiratory compromise, no hypotension, no mucosal involvement).
+
+### Plan (P)
+1. MEDICATION: Prescribed Cetirizine 10mg daily for 1 week to control symptoms. May add a sedating antihistamine (e.g., Chlorpheniramine) at night if sleep is disturbed by itch.
+2. ALLERGEN AVOIDANCE: Advised strict avoidance of all shellfish and seafood until allergy testing can be done.
+3. SAFETY NET (CRITICAL): Educated on the signs of anaphylaxis (difficulty breathing, swelling of face/throat, dizziness). Advised to call 999 or go to the nearest A&E immediately if these occur.
+4. FOLLOW-UP: Review in 1 week. Consider referral to Immunology/Allergy clinic for formal testing if needed.
+
+### Prescription
+- **Drug**: Cetirizine
+- **Preparation**: Tablet
+- **Dose**: 10 mg
+- **Route**: Oral
+- **Frequency**: Once daily (OM)
+- **Duration**: 7 days
+- **Quantity**: 7 tablets
+
+**Tips**:
+- Prescribe a non-sedating H1 antihistamine
+- Specify once daily dosing
+

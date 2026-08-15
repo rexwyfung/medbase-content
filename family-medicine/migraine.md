@@ -168,3 +168,69 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription
 
+### Subjective (S)
+Miss Yuen Hoi Ling (F/30), secondary school teacher, 2-year history of recurrent headaches — approx. 6 attacks/month, each lasting 12-24 hours. Character: right-sided, throbbing, moderate-severe (7/10), associated nausea, photophobia, and phonophobia. Worsened by movement; relieved by dark quiet room and sleep. NO aura. Prodrome: yawning + food craving (reported in retrospect). Currently taking Ibuprofen 400mg 1-2 tabs almost daily (estimated 20 days/month). This has been occurring ×3 months. No menstrual correlation identified. PMH: Nil. NKDA. Social: Non-smoker. Occasional wine (weekends). Regular coffee (2 cups/day). Sleep: irregular (marking periods + early morning teaching). FH: Mother has migraine. Worried about brain tumour (stated explicitly).
+
+### Objective (O)
+Vitals: BP 112/72 mmHg, HR 74 bpm, afebrile.
+General: Alert, comfortable at time of consultation (not in acute attack).
+Neurological:
+  Cranial nerves: CN II-XII all intact (visual acuity 6/6 bilaterally; visual fields full to confrontation).
+  Fundoscopy: Discs sharp bilaterally (no papilloedema).
+  Motor: Power 5/5 all limbs; reflexes 2+ symmetric; no pronator drift.
+  Sensory: Intact to light touch and vibration.
+  Cerebellar: No dysmetria, no dysdiadochokinesia; Romberg negative.
+  Gait: Normal.
+Neck: No meningism. Cranial percussion non-tender.
+Temporal arteries: Non-tender, pulsatile (temporal arteritis excluded — appropriate in >50y; not the concern here).
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: 
+1. Migraine without aura (ICHD-3 criteria fully met: ≥5 attacks; 12-24h duration; unilateral+pulsating+severe+movement aggravation; nausea+photophobia+phonophobia; normal neurology)
+2. Probable Medication Overuse Headache (MOH) — ibuprofen use >15 days/month × 3 months
+
+NOT: Intracranial tumour (normal neurological examination, no papilloedema, no red flags, no progressive pattern); tension-type headache (pulsating, severe, nausea/photophobia, activity aggravation = migraine not TTH); subarachnoid haemorrhage (not thunderclap onset, not "worst headache of life").
+
+RISK FACTORS FOR MOH: Oestrogen combined OCP (does not apply — not on OCP), daily analgesic use (confirmed).
+
+### Plan (P)
+1. STOP IBUPROFEN (MOH treatment): Withdraw ibuprofen gradually over 2-4 weeks. Warn: headache may temporarily worsen for 4-6 weeks during withdrawal — this is expected and not a sign of deterioration. Bridge with paracetamol 1g PRN if needed during withdrawal (paracetamol has lower MOH risk than NSAIDs/triptans).
+
+2. ACUTE MIGRAINE TREATMENT (replace ibuprofen):
+   a) Sumatriptan 50mg oral tablet — take at ONSET of headache (not during aura; not waiting until severe). Maximum 2 doses in 24h (100mg total oral). Do NOT use >10 days/month (will cause MOH).
+   b) Metoclopramide 10mg oral — take simultaneously with sumatriptan (reduces nausea, enhances sumatriptan absorption).
+   c) Rest in dark, quiet room.
+
+3. PROPHYLAXIS (indicated — ≥4 attacks/month, significant disability):
+   Propranolol 40mg twice daily. Increase to 80mg twice daily after 4 weeks if tolerated and insufficient response.
+   Counsel: Takes 4-8 weeks for full effect. Do not stop abruptly. Monitor HR and BP. Avoid in asthma.
+
+4. TRIGGER MANAGEMENT: Headache diary (track: date, severity, duration, triggers, medications used). Aim for regular sleep, regular meals, limit caffeine (max 1 cup/day; avoid cold-turkey withdrawal). Manage work stress.
+
+5. INVESTIGATIONS: CT Head NOT indicated (normal neurology, typical history, no red flags, age <50 — imaging has very low yield and risks unnecessary radiation). If atypical features develop → reconsider.
+
+6. SAFETY NET: "If you have the worst headache of your life — sudden, severe, within seconds — go to A&E immediately (possible SAH). If any headache is accompanied by fever, stiff neck, or rash — also A&E. If you develop weakness, speech problems, or vision loss — call 999."
+
+7. FOLLOW-UP: 4-6 weeks. Review headache diary, sumatriptan response, propranolol tolerance. Adjust prophylaxis dose at 3 months.
+
+### Prescription
+- **Drug**: Sumatriptan succinate
+- **Preparation**: Tablets
+- **Dose**: 50mg
+- **Route**: Oral
+- **Frequency**: At onset of migraine attack (PRN)
+- **Duration**: PRN (use maximum 10 days/month)
+- **Quantity**: 12 tablets
+
+**Notes**: Take 1 tablet at FIRST sign of migraine headache. Do NOT take during aura — wait for headache to begin. If headache returns after 2h, may take one further tablet (max 2 tablets = 100mg in 24h). DO NOT use more than 10 days/month (risk of medication overuse headache). CONTRAINDICATED in ischaemic heart disease, uncontrolled hypertension, stroke, Raynaud's disease, peripheral vascular disease.
+
+**Tips**:
+- "Sumatriptan succinate" (generic) NOT "Imigran" alone
+- "50mg" — most patients start with 50mg; some need 100mg
+- "Oral" route — state it (available as SC, nasal spray, wafer)
+- "PRN" (as required) — state the indication: "at onset of migraine"
+- "12 tablets" — prescribe limited quantity (monitor for overuse)
+- CONTRAINDICATIONS: Cardiovascular disease, uncontrolled HTN — CHECK BEFORE PRESCRIBING
+- SEROTONIN SYNDROME risk if combined with SSRIs/SNRIs — rare but important
+- Pregnancy: Category C — avoid in pregnancy; use paracetamol instead
+

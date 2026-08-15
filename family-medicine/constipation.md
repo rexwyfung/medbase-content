@@ -150,3 +150,36 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription Writing
 
+### Subjective (S)
+Madam Chan Siu Ling (F/60), retired, presents with a 3-month history of constipation. Bowel opening every 3-4 days, stools are hard and pellet-like, requires straining. No PR bleeding, no melena. No abdominal pain, no vomiting. No unintentional weight loss. Diet is low in fiber (rarely eats vegetables/fruit), fluid intake ~3 cups/day. PMH: Hypertension on Amlodipine 5mg daily (stable for years). No new medications. NKDA.
+
+### Objective (O)
+Vitals: BP 130/80 mmHg, HR 72 bpm, afebrile.
+Abdomen: Soft, non-distended, non-tender. No palpable abdominal mass. Bowel sounds present and normal.
+Digital Rectal Examination (DRE): Normal anal tone. Rectal vault is empty. No palpable rectal mass. No blood on the glove.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Chronic functional constipation.
+Evidence: Infrequent, hard stools with straining, poor dietary habits (low fiber, low fluid). Normal physical exam.
+
+NOT: Colorectal cancer (no red flags like bleeding, weight loss, or palpable mass, though screening is still indicated due to age).
+
+### Plan (P)
+1. LIFESTYLE ADVICE: Advised to increase dietary fiber (vegetables, fruits, whole grains) and fluid intake (at least 6-8 glasses of water daily). Encouraged regular physical activity.
+2. MEDICATION: Prescribed Lactulose syrup 15mL BD for 2 weeks to soften stools.
+3. SCREENING: Arranged Faecal Immunochemical Test (FIT) for colorectal cancer screening, as she is 60 years old.
+4. FOLLOW-UP: Review in 4 weeks to assess response to lifestyle changes and medication, and to check FIT result.
+
+### Prescription
+- **Drug**: Lactulose
+- **Preparation**: Syrup (3.3g/5mL)
+- **Dose**: 15 mL
+- **Route**: Oral
+- **Frequency**: Twice daily (BD)
+- **Duration**: 2 weeks
+- **Quantity**: 420 mL
+
+**Tips**:
+- Specify volume in mL
+- Prescribe an osmotic laxative
+

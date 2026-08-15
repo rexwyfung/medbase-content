@@ -169,3 +169,63 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription
 
+### Subjective (S)
+Miss Chan Wai Ling (F/26), office worker, presents with 2-day history of dysuria, urinary frequency (every 30-60 min), suprapubic discomfort, and urgency. No fever, no rigors, no loin pain, no vomiting. No macroscopic haematuria. No vaginal discharge. Sexually active (stable partner ×6 months). LMP 2 weeks ago (regular). No previous UTIs. PMH: Nil. NKDA. Not pregnant (urine hCG negative today). G6PD status: not known. Social: Non-smoker. Occasional alcohol. Drinks 1-1.5L fluid/day (increasing today).
+
+### Objective (O)
+Vitals: Temp 36.8°C (afebrile), BP 114/72 mmHg, HR 78 bpm.
+Abdomen: Mild suprapubic tenderness. NO loin/renal angle tenderness bilaterally. No organomegaly.
+Urinalysis (clinic dipstick):
+  Nitrites: +++ (gram-negative bacteria strongly suggested)
+  Leucocytes: +++ (pyuria)
+  Blood: + (microscopic haematuria — common in cystitis)
+  Glucose: Negative
+  Protein: Negative
+  pH: 6.0
+Pregnancy test (urine hCG): NEGATIVE
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Uncomplicated Acute Cystitis (bacterial UTI — most likely E. coli)
+Evidence: Classic triad (dysuria + frequency + suprapubic pain); dipstick positive (nitrites+++ + leucocytes+++); afebrile (no systemic features); non-pregnant; no structural abnormality; no upper tract signs.
+
+NOT: Pyelonephritis (no fever, no loin pain, afebrile); STI (no discharge, stable partner, no urethritis pattern); interstitial cystitis (chronic pattern — first episode).
+
+### Plan (P)
+1. ANTIBIOTIC: Nitrofurantoin 100mg modified release (MR) twice daily × 5 days.
+   Take with food. Urine may turn dark brown — normal and harmless. Complete full course.
+   ⚠️ Check G6PD status at next visit (nitrofurantoin causes haemolytic anaemia in G6PD deficiency).
+
+2. MSU: Midstream urine sent for MC&S (microscopy, culture, sensitivity). Will receive result in 48-72h. If organisms resistant to nitrofurantoin → will contact patient and change antibiotic.
+
+3. SYMPTOMATIC RELIEF: Paracetamol 500mg-1g PRN for suprapubic discomfort. Phenazopyridine not routinely used in HK (colours urine orange — patient education if prescribed elsewhere).
+
+4. HYDRATION: Increase fluid intake to 2-3L water/day — flushes bladder. Avoid caffeine and alcohol (irritants).
+
+5. HYGIENE ADVICE: Wipe front to back. Void after sexual intercourse. Avoid bubble baths/perfumed products near urethra.
+
+6. SAFETY NET: Return/A&E if: fever develops, rigors, loin/back pain, vomiting (pyelonephritis — needs escalation). If no improvement after 48h of antibiotics.
+
+7. FOLLOW-UP: MSU result in 48-72h (phone review). Return if recurrence (≥2 in 6 months → recurrent UTI workup including renal USS, STI screen, cystoscopy referral).
+
+### Prescription
+- **Drug**: Nitrofurantoin
+- **Preparation**: Modified-release capsules (macrocrystalline)
+- **Dose**: 100mg
+- **Route**: Oral
+- **Frequency**: Twice daily (with food)
+- **Duration**: 5 days
+- **Quantity**: 10 capsules
+
+**Notes**: Take with food to reduce nausea. Urine will turn dark yellow/brown — this is harmless. Complete full course even if symptoms resolve. Do not use if eGFR <30 mL/min or G6PD deficiency.
+
+**Tips**:
+- "Nitrofurantoin" (generic) NOT "Macrobid" alone
+- Specify "modified release" (MR) — different from standard release (different dosing)
+- "100mg" NOT "100 mg"
+- "Twice daily" NOT "BD"
+- "Oral" route must be stated
+- "With food" — must be specified
+- "10 capsules" (2/day × 5 days)
+- CONTRAINDICATIONS to check: eGFR <30 (renal failure — check U&E), G6PD deficiency, term pregnancy, history of nitrofurantoin lung toxicity
+- In pregnancy: safe in 1st/2nd trimester; AVOID at term (≥36 weeks) — risk of neonatal haemolysis
+

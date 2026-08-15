@@ -166,3 +166,67 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription
 
+### Subjective (S)
+Mrs Ho Mei Lan (F/35), nurse, presents with 3-day sore throat, mucopurulent nasal discharge (yellow-green — viral, NOT bacterial indicator per se), mild cough (non-productive), low-grade fever (38.1°C). No dysphagia, odynophagia, drooling, trismus, ear pain, neck stiffness. PMH: Nil. NKDA. Social: Works as ward nurse. Non-smoker. Married, no dependants unwell. Vaccinated (flu vaccine last year — now October, due for current season's vaccine). No recent travel. No sick contacts reported but works in hospital setting.
+
+### Objective (O)
+Vitals: Temp 38.1°C, HR 90 bpm, BP 116/72 mmHg, RR 18/min, SpO2 99% RA.
+Oropharynx: Mildly injected tonsils and pharyngeal wall. No exudate. Uvula central, no deviation. No peritonsillar swelling.
+Ears: Tympanic membranes clear bilaterally — no signs of acute otitis media.
+Nose: Mild mucosal erythema, clear/yellow discharge. No sinus tenderness.
+Neck: Superficial small cervical lymph nodes — NOT tender. No rigidity. No meningism.
+Chest: Clear bilaterally. No wheeze, no crackles.
+Centor Score: 1/4 (temperature only — no exudate, no tender LN, cough present → absent of cough criterion not met).
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Viral Upper Respiratory Tract Infection (acute pharyngitis/rhinitis) — most likely
+Supporting: Centor score 1 (low probability of Group A Streptococcus); clear/mild tonsil injection without exudate; cough present; self-limiting course; no complications.
+
+DIFFERENTIAL DIAGNOSES:
+• Group A Streptococcal pharyngitis — low probability (Centor 1; no exudate; cough present); does not warrant antibiotics
+• Influenza — possible (fever, myalgia, sudden onset often more severe in flu); manage symptomatically regardless
+• Infectious mononucleosis — less likely (no marked lymphadenopathy, no splenomegaly at this stage)
+
+NO ANTIBIOTICS INDICATED.
+
+### Plan (P)
+1. SYMPTOMATIC TREATMENT:
+   a) Paracetamol 500mg — 2 tablets (1g) four times daily (maximum 4g/day) for fever and sore throat pain
+   b) Ibuprofen 400mg three times daily with food (if no GI/renal contraindications)
+   c) Warm salt water gargling (0.5 tsp salt in 250mL warm water) × several times daily
+   d) Adequate hydration (aim 2L fluid/day); soft diet if swallowing painful
+   e) Throat lozenges (benzocaine) for symptomatic relief
+
+2. NO ANTIBIOTICS: Viral URTI; Centor 1; not indicated. Antibiotic prescribing would not reduce duration, may cause adverse effects (GI upset, allergic reaction, resistance).
+
+3. DELAYED PRESCRIPTION (offered and accepted): Phenoxymethylpenicillin 500mg four times daily × 10 days — given with instruction to fill and take ONLY if not improving or worsening after 72 hours from today.
+
+4. OCCUPATIONAL ADVICE: Advise to stay home while febrile. May return to work when afebrile for 24 hours and feeling well enough.
+
+5. OPPORTUNISTIC: Current season influenza vaccine offered (October — flu season approaching). Patient to book when recovered.
+
+6. SAFETY NET: Return urgently/A&E if: fever persists >7 days, increasing difficulty swallowing/breathing, drooling (quinsy), unilateral throat swelling, neck stiffness (meningism), rash (scarlet fever).
+
+7. FOLLOW-UP: PRN — return if not improving in 7 days.
+
+### Prescription
+- **Drug**: Paracetamol
+- **Preparation**: Tablets
+- **Dose**: 500mg (take 2 tablets = 1g per dose)
+- **Route**: Oral
+- **Frequency**: Four times daily (every 6 hours)
+- **Duration**: 7 days (or until symptoms resolve)
+- **Quantity**: 56 tablets
+
+**Notes**: Take 2 tablets (1g) at a time. Maximum 8 tablets (4g) in 24 hours. Do not exceed stated dose. Avoid alcohol.
+
+**Tips**:
+- "Paracetamol" (generic) NOT "Panadol" alone
+- "500mg tablets" — specify strength per tablet
+- Dose = "2 tablets (1g)" to make maximum dose clear
+- "Four times daily" or "every 6 hours" NOT "QDS" or "QID"
+- "Oral" route must be stated
+- WARNING: Maximum paracetamol dose = 4g/day (8×500mg tablets). Writing >4g/day = potentially fatal prescription = 0 marks
+- If writing 1g tablets: "1 tablet four times daily" — never write "2 tablets" for 1g tabs without specifying the strength
+- "56 tablets" (8/day × 7 days)
+

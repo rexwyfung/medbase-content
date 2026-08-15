@@ -152,3 +152,38 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription Writing
 
+### Subjective (S)
+Mr Chan Kwok Keung (M/55), taxi driver, presents with a 2-month history of right shoulder pain and stiffness. Pain is worse at night and when lying on the right side. Difficulty reaching his back pocket or combing his hair. No history of trauma. No neck pain, no radiation of pain to the hand, no numbness or weakness. PMH: Type 2 Diabetes Mellitus (HbA1c 8.2%). NKDA.
+
+### Objective (O)
+Vitals: BP 135/85 mmHg, HR 78 bpm, afebrile.
+Right Shoulder: No swelling, no erythema. No focal point tenderness.
+Range of Motion (ROM): Active and passive ROM globally restricted. Flexion limited to 90°, abduction limited to 80°, external rotation severely limited to 10°.
+Neurological: Upper limb sensation, power, and reflexes are intact and symmetrical. Radial pulse normal.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Adhesive Capsulitis (Frozen Shoulder) of the right shoulder.
+Evidence: Insidious onset, global restriction of both active and passive ROM (especially external rotation), associated with Diabetes Mellitus.
+
+NOT: Rotator cuff tear (passive ROM is usually preserved in tears), Cervical radiculopathy (no neck pain, no neurological deficits).
+
+### Plan (P)
+1. EDUCATION: Explained the natural history of frozen shoulder (freezing, frozen, thawing phases) and that it is self-limiting but can take 1-2 years to resolve.
+2. MEDICATION: Prescribed Naproxen 250mg BD PC for 2 weeks for pain relief and inflammation.
+3. REFERRAL: Referred to Physiotherapy for gentle stretching and range of motion exercises.
+4. DM CONTROL: Advised that better glycemic control may help; scheduled a separate visit to optimize diabetes management.
+5. FOLLOW-UP: Review in 4 weeks to assess pain and ROM.
+
+### Prescription
+- **Drug**: Naproxen
+- **Preparation**: Tablet
+- **Dose**: 250 mg
+- **Route**: Oral
+- **Frequency**: Twice daily (BD) after meals
+- **Duration**: 2 weeks
+- **Quantity**: 28 tablets
+
+**Tips**:
+- Specify "after meals" (PC) to reduce GI side effects
+- Prescribe an NSAID for inflammatory pain
+

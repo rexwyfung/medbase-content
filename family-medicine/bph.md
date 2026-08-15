@@ -169,3 +169,52 @@ SAFETY NET:
 
 ## Station 4 — Records & Prescription: BPH
 
+### Subjective (S)
+Mr Chan, 67M. BPH review. 
+On tamsulosin 0.4mg OD × 3 months. IPSS improved: 16 → 11 (moderate).
+Nocturia reduced: 3 → 2/night. Less hesitancy. Still aware of incomplete emptying.
+No haematuria. No postural dizziness. No ejaculatory dysfunction reported (not sexually active).
+PSA 4.8 ng/mL — urology referral made.
+
+### Objective (O)
+BP 128/76  HR 68  No postural drop
+Abdomen: soft, no palpable bladder, no flank tenderness
+DRE: enlarged prostate (estimated 40mL), smooth, no nodules, no tenderness
+Urinalysis: no haematuria, no nitrites, no leucocytes
+Renal function: Cr 88, eGFR 72 (stable)
+Post-void residual (by bladder scan): 85mL (normal <100mL)
+
+### Assessment (A)
+BPH, moderate LUTS (IPSS 11). Partial response to tamsulosin.
+Prostate ~40mL → consider adding 5-ARI (dutasteride) for combination therapy.
+PSA 4.8 — urology referral pending (elevated for age, BPH most likely cause, exclude Ca).
+
+### Plan (P)
+1. Continue tamsulosin 0.4mg MR OD
+2. ADD dutasteride 0.5mg OD (large prostate 40mL, partial response to alpha-blocker alone)
+   → Inform: 3–6 months for effect; PSA will halve — interpret accordingly
+   → SE: ED, reduced libido, gynaecomastia (usually transient)
+3. Lifestyle: reduce evening fluids after 6pm, limit caffeine, avoid alcohol
+4. Bladder diary provided
+5. Urology referral for PSA 4.8 (mpMRI prostate ± biopsy)
+6. Annual FBC, U&E, PSA (adjust for dutasteride ×2), IPSS score
+7. Review in 6 months (or earlier if symptoms worsen or urologist advice)
+
+### Prescription
+- **Drug**: Tamsulosin hydrochloride
+- **Preparation**: Modified-release capsule 0.4mg
+- **Dose**: 0.4 mg
+- **Route**: Oral
+- **Frequency**: Once daily (30 min after the same meal each day)
+- **Duration**: Ongoing, review in 6 months
+- **Quantity**: 90 capsules
+
+**Notes**: Swallow whole — do not crush or chew MR capsule. Take 30 min after same meal daily. Warn: first-dose postural hypotension — rise slowly from sitting/lying. Retrograde ejaculation possible. IMPORTANT: inform ophthalmologist before cataract surgery (intraoperative floppy iris syndrome).
+
+**Tips**:
+- Must write "Modified-release" or "MR" — plain tamsulosin has different pharmacokinetics
+- Common error: not specifying timing relative to meals
+- CRITICAL counselling: cataract surgery warning — examiners test this
+- Alpha-blockers LOWER blood pressure — caution in patients on antihypertensives
+- Do NOT prescribe tamsulosin with sildenafil without careful discussion (BP drop risk)
+

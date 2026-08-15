@@ -152,3 +152,38 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription Writing
 
+### Subjective (S)
+Mr Lee Chun Ho (M/35), asymptomatic, attends clinic to review results of a pre-employment health check. Found to be HBsAg positive. He is anxious and worried about liver cancer. No history of jaundice, dark urine, or abdominal pain. No family history of Hepatocellular Carcinoma (HCC) or cirrhosis. PMH: Nil. NKDA. Social: Non-smoker. Does not consume alcohol. Married, wife's HBV status unknown.
+
+### Objective (O)
+Vitals: BP 120/80 mmHg, HR 72 bpm, afebrile.
+General: Comfortable, no scleral icterus, no jaundice.
+Skin: No spider naevi, no palmar erythema (no stigmata of chronic liver disease).
+Abdomen: Soft, non-tender. Liver edge not palpable, no splenomegaly. No ascites.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Chronic Hepatitis B carrier (newly diagnosed).
+Evidence: HBsAg positive on screening, asymptomatic, normal physical examination.
+
+Needs further evaluation to determine the phase of chronic HBV infection (e.g., immune tolerant, immune active, inactive carrier) and to assess for liver damage.
+
+### Plan (P)
+1. REASSURANCE & EDUCATION: Explained the natural history of HBV. Reassured that many carriers live normal lives with regular monitoring. Emphasized that he does not have liver cancer now.
+2. INVESTIGATIONS: Ordered baseline blood tests: Complete Blood Count (CBC), Liver Function Test (LFT - ALT/AST), Renal Function Test (RFT), Alpha-fetoprotein (AFP), HBV DNA viral load, HBeAg, and anti-HBe. Ordered Ultrasound Abdomen to check for cirrhosis or HCC.
+3. FAMILY SCREENING: Advised his wife and immediate family members to get tested for HBsAg and anti-HBs, and to get vaccinated if negative.
+4. LIFESTYLE: Advised to continue avoiding alcohol to protect the liver.
+5. FOLLOW-UP: Review in 4 weeks with all investigation results to decide on the need for antiviral therapy (e.g., Entecavir/Tenofovir) or regular surveillance.
+
+### Prescription
+- **Drug**: Laboratory Orders (No medication prescribed yet)
+- **Preparation**: Blood tests & Imaging
+- **Dose**: N/A
+- **Route**: N/A
+- **Frequency**: Once
+- **Duration**: N/A
+- **Quantity**: N/A
+
+**Tips**:
+- Order LFT, AFP, HBV DNA, HBeAg/anti-HBe
+- Order USG Abdomen
+

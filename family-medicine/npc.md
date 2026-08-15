@@ -150,3 +150,38 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription Writing
 
+### Subjective (S)
+Mr Lam Chi Keung (M/50), construction worker, presents with a 2-month history of a painless lump on the left side of his neck. He also reports left-sided hearing loss, a blocked feeling in the left ear, and occasional blood-tinged sputum in the mornings. No fever, no weight loss, no night sweats. PMH: Nil. NKDA. Social: Smokes 20 cigarettes/day for 30 years. Occasional alcohol. FH: Brother had Nasopharyngeal Carcinoma (NPC).
+
+### Objective (O)
+Vitals: BP 130/80 mmHg, HR 76 bpm, afebrile.
+Neck: A 3x3 cm hard, non-tender, relatively fixed lymph node palpable in the left upper deep cervical chain (Level II). No overlying skin changes.
+ENT: Left tympanic membrane appears dull with reduced mobility (suggestive of middle ear effusion). Nasal cavity clear anteriorly. Oropharynx clear.
+Cranial Nerves: Intact. No facial numbness or diplopia.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Suspected Nasopharyngeal Carcinoma (NPC) with left cervical lymph node metastasis and left middle ear effusion.
+Evidence: Classic triad of neck mass, unilateral ear symptoms (effusion due to Eustachian tube blockage), and blood-tinged sputum. High-risk demographic (Southern Chinese male, family history).
+
+NOT: Reactive lymphadenopathy (node is hard, fixed, and painless; duration > 1 month).
+
+### Plan (P)
+1. URGENT REFERRAL: Urgent referral to Ear, Nose, and Throat (ENT) specialist for nasoendoscopy and biopsy of the nasopharynx.
+2. INVESTIGATIONS: Ordered EBV serology (EBV DNA / VCA IgA) as a tumor marker. Fine Needle Aspiration (FNA) of the neck node may be considered by ENT.
+3. COUNSELING: Explained the suspicion of a tumor in the post-nasal space. Advised the patient on the importance of attending the urgent ENT appointment.
+4. SMOKING CESSATION: Strongly advised to stop smoking immediately.
+5. FOLLOW-UP: Ensure patient has received the ENT appointment date before leaving the clinic.
+
+### Prescription
+- **Drug**: Urgent ENT Referral
+- **Preparation**: Referral Letter
+- **Dose**: N/A
+- **Route**: N/A
+- **Frequency**: Once
+- **Duration**: N/A
+- **Quantity**: 1 letter
+
+**Tips**:
+- Write a comprehensive referral letter detailing red flags
+- Mark as URGENT
+

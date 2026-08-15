@@ -147,3 +147,38 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription Writing
 
+### Subjective (S)
+Ms Wong Pui Sze (F/32), presents with a 3-month history of progressive fatigue, lethargy, and occasional dizziness on standing. She reports heavy menstrual bleeding (menorrhagia) for the past year, using 6-8 fully soaked pads per day during her period which lasts 7 days. No dark stools, no PR bleeding. Diet is normal, eats meat. PMH: Nil. NKDA.
+
+### Objective (O)
+Vitals: BP 110/70 mmHg, HR 90 bpm, afebrile.
+General: Pale conjunctivae and palmar creases. No jaundice.
+CVS: Tachycardia, soft ejection systolic murmur at the left sternal edge (flow murmur).
+Abdomen: Soft, non-tender. No hepatosplenomegaly.
+Investigations (from previous visit): Hb 8.5 g/dL (Low), MCV 72 fL (Low), MCH 24 pg (Low). Ferritin 8 ng/mL (Low).
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Iron Deficiency Anemia (IDA) secondary to menorrhagia.
+Evidence: Microcytic hypochromic anemia with low ferritin, clear history of heavy menstrual loss.
+
+NOT: Thalassemia trait (ferritin would be normal/high), GI bleeding (no symptoms, young age, obvious menstrual cause).
+
+### Plan (P)
+1. MEDICATION: Prescribed oral Ferrous Sulphate 200mg BD for 3 months. Counseled on side effects (black stools, constipation, nausea) and to take with vitamin C (e.g., orange juice) to enhance absorption, avoiding tea/coffee/milk at the same time.
+2. REFERRAL: Referred to Gynecology clinic for evaluation and management of menorrhagia (e.g., ultrasound pelvis to rule out fibroids).
+3. DIET: Advised iron-rich diet (red meat, dark green leafy vegetables).
+4. FOLLOW-UP: Review in 4 weeks with a repeat Complete Blood Count (CBC) to check for Hb response (expect ~1-2 g/dL rise in 4 weeks).
+
+### Prescription
+- **Drug**: Ferrous Sulphate
+- **Preparation**: Tablet
+- **Dose**: 200 mg
+- **Route**: Oral
+- **Frequency**: Twice daily (BD)
+- **Duration**: 4 weeks (initial supply)
+- **Quantity**: 56 tablets
+
+**Tips**:
+- Specify iron preparation and dose
+- Include counseling on absorption (vitamin C, avoid tea/milk)
+

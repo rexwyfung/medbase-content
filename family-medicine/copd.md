@@ -171,3 +171,48 @@ SAFETY NET:
 
 ## Station 4 — Records & Prescription: COPD Maintenance Rx
 
+### Subjective (S)
+Mr Wong, 65M. 3/12 follow-up COPD review.
+MRC dyspnoea scale: Grade 3 → Grade 2 since starting tiotropium 1/12 ago.
+CAT score: 18 → 14. No exacerbations in past 3 months.
+Still SOB on moderate exertion. Good adherence with HandiHaler technique confirmed.
+No haemoptysis, chest pain, ankle swelling. Sleep good.
+
+### Objective (O)
+BP 138/82  HR 74  RR 16  SpO2 94% (RA)  Wt 72kg  BMI 24
+Chest: barrel-shaped, ↓ breath sounds bilaterally, no wheeze at rest, no crackles
+No peripheral oedema. JVP not elevated.
+Peak flow: 280 (predicted 480). Spirometry: FEV1/FVC 0.58, FEV1 62% pred (GOLD 2)
+
+### Assessment (A)
+COPD GOLD 2, Group B. Partial response to LAMA monotherapy.
+CAT improving but still ≥10. Step up to LAMA/LABA combination warranted.
+No current indication for ICS (eosinophils pending, no frequent exacerbations).
+
+### Plan (P)
+1. Step up: add formoterol (LABA) — prescribe Ultibro Breezhaler (indacaterol/glycopyrronium) OD
+2. Refer pulmonary rehabilitation programme (8 weeks)
+3. Influenza vaccine today; check pneumococcal vaccination status
+4. COPD action plan written: prednisolone 30mg × 5d + antibiotics if purulent sputum
+5. Annual spirometry; check FBC for polycythaemia (Hct pending)
+6. Screen depression: PHQ-2 → PHQ-9 if positive
+7. Review in 3 months with CAT score and any exacerbation diary
+
+### Prescription
+- **Drug**: Tiotropium bromide
+- **Preparation**: Inhalation powder, hard capsule
+- **Dose**: 18 mcg (1 capsule)
+- **Route**: Inhalation via HandiHaler device
+- **Frequency**: Once daily
+- **Duration**: Ongoing (maintenance)
+- **Quantity**: 30 capsules + 1 HandiHaler device
+
+**Notes**: Instruct patient on correct HandiHaler technique. Pierce capsule, exhale fully, inhale deeply and fast, hold 10 seconds. Rinse mouth after. CAUTION: do not swallow capsule.
+
+**Tips**:
+- Write drug name in CAPITALS for inhalers to avoid dispensing errors
+- Always specify the DEVICE (HandiHaler, Turbuhaler, Accuhaler, pMDI)
+- Document inhaler technique check at every visit
+- Tiotropium is LAMA — contraindicated in narrow-angle glaucoma, prostatic hypertrophy
+- Do NOT prescribe LAMA + SAMA simultaneously (redundant anticholinergics)
+

@@ -148,3 +148,39 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription Writing
 
+### Subjective (S)
+Master Chan Ka Lok (M/4), brought by mother. Right ear pain for 2 days, crying and pulling at ear. Fever up to 38.5°C. Preceding runny nose and mild cough for 4 days. Reduced appetite but drinking fluids well. No vomiting. Mother worried about his hearing. PMH: Fully immunized. No previous ear infections. NKDA. Social: Attends kindergarten. Lives with parents, non-smokers.
+
+### Objective (O)
+Vitals: Temp 38.2°C, HR 110 bpm, RR 24/min.
+Ears: Right tympanic membrane (TM) is bulging, intensely erythematous, with loss of the normal light reflex and landmarks. Left TM is normal, pearly grey.
+Throat: Mildly erythematous, no tonsillar exudate.
+Neck: Small, mobile, non-tender cervical lymph nodes.
+Chest: Clear bilaterally, no wheeze or crackles.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Acute Otitis Media (AOM), Right ear.
+Evidence: Acute onset of ear pain, fever, bulging and erythematous TM, preceded by URTI symptoms.
+
+NOT: Otitis Externa (no pain on pulling pinna, ear canal normal).
+
+### Plan (P)
+1. SYMPTOMATIC RELIEF: Paracetamol syrup 250mg/5mL, 6mL (assuming 16kg weight, ~15mg/kg) Q6H PRN for pain and fever.
+2. MANAGEMENT STRATEGY: Watchful waiting for 48 hours, as child is >2 years old, unilateral AOM, and not severely ill.
+3. DELAYED PRESCRIPTION: Amoxicillin syrup provided. Advised mother to fill and start ONLY if symptoms do not improve after 48 hours or if they worsen.
+4. REASSURANCE: Reassured mother that transient hearing reduction is common during infection but usually resolves fully.
+5. SAFETY NET: Return immediately if swelling behind the ear (mastoiditis), lethargy, or persistent high fever.
+
+### Prescription
+- **Drug**: Paracetamol
+- **Preparation**: Syrup (250mg/5mL)
+- **Dose**: 6 mL
+- **Route**: Oral
+- **Frequency**: Every 6 hours when required (PRN) for pain or fever
+- **Duration**: 5 days
+- **Quantity**: 100 mL
+
+**Tips**:
+- Calculate dose based on weight (e.g., 15mg/kg)
+- Specify PRN for pain/fever
+

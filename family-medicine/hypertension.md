@@ -174,3 +174,76 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription Writing
 
+### Subjective (S)
+Mr Lee Wai Ming (M/55), taxi driver, referred by nurse for elevated BP found on routine check.
+BP 158/96 mmHg on 2 occasions (today and 2 weeks ago). Asymptomatic — no headache, visual changes, chest pain, dyspnoea, palpitations, haematuria, or oedema.
+PMH: Nil significant. No DM, dyslipidaemia, CVD, renal disease.
+Medications: Nil regular. No NSAIDs, decongestants. NKDA.
+Social: Works as taxi driver (shift work); sedentary occupation. Married. Non-smoker. Occasional beer (3-4 cans/week). Diet: irregular, high in takeaway food.
+FH: Father died of "heart attack" at 62. Mother has hypertension, on 2 medications.
+
+### Objective (O)
+Vitals: BP Right arm 158/96 mmHg, Left arm 154/94 mmHg. HR 78 bpm regular. BMI 27.3 kg/m² (overweight). Waist circumference 96 cm.
+Cardiovascular: Heart sounds I+II normal, no murmurs. JVP not elevated. No peripheral oedema. Peripheral pulses palpable bilaterally.
+Fundoscopy: Grade 1 hypertensive retinopathy (mild AV nicking bilaterally).
+Abdomen: No renal bruits. No masses. No pulsatile aortic mass.
+Respiratory: Clear.
+Investigations (today): Urinalysis — trace protein, no blood, no glucose. Spot urine PCR: 28mg/mmol (mildly elevated; normal <30). ECG: sinus rhythm, no LVH by voltage criteria. Random cholesterol 5.8 mmol/L. Random glucose 6.1 mmol/L.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Essential Hypertension, Stage 2 (BP ≥160/100 or 140-159/90-99 + target organ damage)
+Evidence: Bilateral BP 155-158/94-96 mmHg; Grade 1 hypertensive retinopathy; mildly elevated urine PCR; overweight.
+No evidence of secondary HTN (no renal bruits, no features of phaeochromocytoma/Conn's).
+
+COMPLICATIONS NOTED:
+• Grade 1 hypertensive retinopathy (earliest target organ damage)
+• Overweight (BMI 27.3; contributing factor)
+
+COMORBIDITIES TO INVESTIGATE:
+• Possible impaired fasting glucose (random 6.1 — needs fasting glucose or HbA1c to confirm)
+• Dyslipidaemia (total cholesterol 5.8 — needs fasting lipid profile + QRISK3)
+
+### Plan (P)
+1. INVESTIGATIONS: 
+   a) Fasting lipid profile (LDL, HDL, TG) + fasting glucose / HbA1c
+   b) U&E + creatinine (eGFR baseline before antihypertensive)  
+   c) Serum potassium (before prescribing ACEi/ARB)
+   d) 24h urine PCR (formal proteinuria quantification)
+   e) HBPM: advise home blood pressure monitoring; log morning + evening readings for 7 days before next visit
+   f) Ophthalmology referral for formal fundus photography
+
+2. MEDICATION: Amlodipine 5mg orally once daily.
+
+3. LIFESTYLE:
+   a) DASH diet: reduce salt <6g/day; increase fruit/vegetables
+   b) Exercise: 30 min brisk walk ≥5 days/week
+   c) Weight reduction: target BMI <25 (lose ~5kg initially)
+   d) Limit alcohol: <14 units/week; space alcohol-free days
+   e) Stress management: pacing between taxi shifts
+
+4. SAFETY NET: Return to A&E if sudden severe headache, visual loss, chest pain, weakness/numbness, confusion — hypertensive emergency.
+
+5. FOLLOW-UP: 2 weeks (BP recheck + U&E after starting amlodipine). Then monthly until target <130/80 mmHg achieved.
+
+6. OPPORTUNISTIC: FIT test arranged (CRCSP — age 55, within target range). Brief smoking cessation advice reinforced (non-smoker — maintain). Flu vaccine offered.
+
+### Prescription
+- **Drug**: Amlodipine besylate
+- **Preparation**: Tablets
+- **Dose**: 5mg
+- **Route**: Oral
+- **Frequency**: Once daily
+- **Duration**: 28 days (review)
+- **Quantity**: 28 tablets
+
+**Notes**: Take at the same time each day. May cause ankle swelling — elevate legs if occurs. Do not stop without doctor advice.
+
+**Tips**:
+- Write "5mg" NOT "5.0mg"
+- "Amlodipine" (generic) NOT "Norvasc" alone
+- "Once daily" NOT "OD" or "QD"
+- Specify route: "Oral"
+- Include quantity: "28 tablets"
+- Sign with full name + registration number + date
+- Write patient name + DOB + ID number
+

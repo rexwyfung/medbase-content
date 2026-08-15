@@ -139,3 +139,30 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription
 
+### Subjective (S)
+Patient presents with symptoms of Dementia.
+
+### Objective (O)
+Vitals stable. Physical examination findings consistent with Dementia.
+
+### Assessment (A)
+Primary Diagnosis: Dementia
+
+### Plan (P)
+1. Start appropriate medication.
+2. Lifestyle advice.
+3. Follow-up in 4 weeks.
+
+### Prescription
+- **Drug**: Standard Medication for Dementia
+- **Preparation**: Tablets
+- **Dose**: Standard dose
+- **Route**: Oral
+- **Frequency**: Daily
+- **Duration**: 28 days
+- **Quantity**: 28 tablets
+
+**Tips**:
+- Write clearly
+- Specify route
+

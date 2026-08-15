@@ -166,3 +166,49 @@ SAFETY NET:
 
 ## Station 4 — Records & Prescription: Herpes Zoster
 
+### Subjective (S)
+Mrs Ho, 68F. Herpes zoster T5–T6 right, presented day 2 of rash. On methotrexate (RA).
+Prodrome: 3 days burning pain right chest before rash.
+Rash: right chest/back, does not cross midline, vesicular. No eye involvement, no ear symptoms.
+Pain VAS 7/10. Anxious about duration and "nerve damage".
+
+### Objective (O)
+Afebrile (36.8°C). HR 76. BP 136/82
+Right T5–T6 dermatome: erythematous base with clustered vesicles (some pustular), extending from chest to back, not crossing midline. No skin break/secondary infection.
+Eyes: visual acuity normal bilaterally, no periorbital rash, no conjunctivitis. Hutchinson sign: NEGATIVE.
+Ears: no vesicles in ear canal or pinna. No facial weakness. CN VII: intact bilaterally.
+Renal function: Cr 72, eGFR 82 (good — safe for valaciclovir).
+
+### Assessment (A)
+Herpes zoster, T5–T6 right (uncomplicated — no ophthalmic, no Ramsay Hunt). Immunosuppressed (MTX). Treat with antivirals regardless of 72h window due to immunosuppression. High PHN risk: age 68, immunosuppressed, high pain score.
+
+### Plan (P)
+1. Valaciclovir 1g TDS × 7 days (antiviral — immunosuppressed → treat regardless of >72h)
+2. Paracetamol 1g QDS regularly for pain
+3. Gabapentin 300mg ON × 1 week, then 300mg BD × 1 week, then 300mg TDS if tolerated
+   (prophylactic neuropathic pain management — prevent/reduce PHN severity)
+4. Rash care: calamine lotion, non-adherent dressing, keep dry
+5. Contagious precautions until fully crusted: avoid pregnant contacts, immunocompromised
+6. Shingrix vaccination counselling: second dose in future (not during acute episode)
+7. MONITOR: PHN at 3 months — if pain persists, treat actively
+8. Inform rheumatology re: MTX during VZV reactivation
+9. Review in 2 weeks (or sooner if: fever, eye symptoms, ear symptoms, worsening)
+
+### Prescription
+- **Drug**: Valaciclovir
+- **Preparation**: Film-coated tablet 500mg
+- **Dose**: 1000 mg (2 × 500mg tablets)
+- **Route**: Oral
+- **Frequency**: Three times daily (every 8 hours)
+- **Duration**: 7 days
+- **Quantity**: 42 tablets
+
+**Notes**: Take with or without food. Ensure adequate fluid intake (≥1.5L/day) — risk of nephrotoxicity if dehydrated. Most effective if started within 72 hours of rash onset. In immunosuppressed patients: treat regardless of timing. Complete full 7-day course even if rash improving. SE: headache, nausea, renal impairment (monitor if CKD).
+
+**Tips**:
+- Valaciclovir 1g TDS is preferred over aciclovir 800mg 5x/day (compliance and bioavailability)
+- Specify "every 8 hours" — not just TDS, for consistent antiviral levels
+- In immunosuppressed: treat even after 72-hour window
+- Check renal function before prescribing — reduce dose if eGFR <50
+- Antiviral does NOT prevent PHN — it reduces risk and severity; gabapentin early may also help
+

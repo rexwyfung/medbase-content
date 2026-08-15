@@ -172,3 +172,47 @@ SAFETY NET:
 
 ## Station 4 — Records & Prescription: Stable Angina
 
+### Subjective (S)
+Mr Ho, 55M. Follow-up after cardiology review — confirmed stable angina, no intervention needed.
+Exercise stress test: positive at 7 METs, mild inferolateral ST depression. Echo: EF 58%, no WMA.
+Symptoms CCS Class II: angina on moderate exertion, limiting some activities. 1 GTN use in past week.
+
+### Objective (O)
+BP 142/88  HR 68  RR 14  SpO2 98%  Wt 82kg  BMI 27.5
+ECG: SR, LVH by voltage criteria, no acute ischaemia
+Lipids: LDL 2.8, HDL 0.9, TG 2.1. HbA1c 7.2%. FBG 8.1
+
+### Assessment (A)
+Stable angina (CCS II). Suboptimal risk factor control: BP >130/80, LDL >1.8, HbA1c >7%.
+Initiate secondary prevention medications.
+
+### Plan (P)
+1. Aspirin 100mg OD (with food)
+2. Rosuvastatin 40mg ON (high-intensity — LDL target <1.8 or >50% reduction)
+3. Bisoprolol 5mg OD (heart rate target 55–60 bpm)
+4. Ramipril 5mg OD (BP control + cardioprotection)
+5. GTN spray: counsel on use — sit, 1 spray, wait 5 min, 2nd spray, if pain persists call 999
+6. Optimise DM: metformin 850mg BD if not already on; refer DM nurse
+7. BP target <130/80: increase ramipril to 10mg if tolerated in 4 weeks
+8. Smoking cessation urgently — offer NRT + varenicline
+9. Cardiac rehab referral
+10. Review in 6 weeks with repeat lipids, BP diary
+
+### Prescription
+- **Drug**: Glyceryl trinitrate (GTN)
+- **Preparation**: Sublingual spray 400 mcg/actuation
+- **Dose**: 400 mcg (1 spray)
+- **Route**: Sublingual
+- **Frequency**: PRN for angina; may repeat after 5 min if no relief
+- **Duration**: Ongoing (PRN)
+- **Quantity**: 1 bottle (200 actuations)
+
+**Notes**: Sit before use. Spray under tongue, do not inhale. If 2 sprays do not relieve pain within 10 min, call emergency services. Headache and dizziness are common side effects. Do not take with sildenafil/tadalafil (risk of severe hypotension). Store upright, protect from light.
+
+**Tips**:
+- Always document GTN counselling in the notes (examiner will ask)
+- Write "PRN" clearly — not a regular medication
+- Common exam error: forgetting to counsel on NOT taking with PDE5 inhibitors (Viagra)
+- GTN loses potency after opening — replace every 8 weeks even if not empty
+- Also consider isosorbide mononitrate (ISMN) regular for frequent angina
+

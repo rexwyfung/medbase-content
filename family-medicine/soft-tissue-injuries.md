@@ -151,3 +151,39 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription Writing
 
+### Subjective (S)
+Mr Ho Ka Chun (M/22), university student, presents with right ankle pain after twisting it during a basketball game 2 hours ago. It was an inversion injury. Pain is 6/10. He was able to bear weight and walk off the court, and walked into the clinic with a slight limp. No other injuries. PMH: Nil. NKDA.
+
+### Objective (O)
+Vitals: BP 120/75 mmHg, HR 80 bpm, afebrile.
+Right Ankle: Mild swelling over the lateral malleolus, specifically over the anterior talofibular ligament (ATFL). No bruising yet.
+Palpation: Tenderness over the ATFL. NO bony tenderness over the posterior edge or tip of the lateral malleolus, medial malleolus, base of 5th metatarsal, or navicular bone.
+ROM: Active and passive inversion is painful. Plantarflexion and dorsiflexion are relatively preserved.
+Neurovascular: Distal pulses (DP, PT) present. Sensation intact.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Right Ankle Sprain (Grade 1-2, likely ATFL).
+Evidence: Inversion injury, localized swelling and tenderness over ATFL, able to bear weight.
+
+NOT: Ankle fracture (Ottawa Ankle Rules are negative: able to bear weight for 4 steps, no bony tenderness in specified zones). X-ray is NOT indicated.
+
+### Plan (P)
+1. INVESTIGATIONS: Explained that an X-ray is not needed based on clinical examination (Ottawa rules).
+2. MANAGEMENT: Advised PRICE principles (Protect, Rest, Ice, Compress, Elevate) and to avoid HARM (Heat, Alcohol, Running, Massage) for the first 72 hours.
+3. MEDICATION: Prescribed Ibuprofen 400mg TDS PC for pain and inflammation. Paracetamol 1g Q6H PRN for breakthrough pain.
+4. SUPPORT: Provided an elastic tubular bandage (Tubigrip) for compression and support.
+5. FOLLOW-UP: Advised to return if pain worsens, unable to bear weight, or no improvement in 1-2 weeks. Consider physiotherapy if symptoms persist.
+
+### Prescription
+- **Drug**: Ibuprofen
+- **Preparation**: Tablet
+- **Dose**: 400 mg
+- **Route**: Oral
+- **Frequency**: Three times daily (TDS) after meals
+- **Duration**: 5 days
+- **Quantity**: 15 tablets
+
+**Tips**:
+- Specify "after meals" (PC)
+- Prescribe an NSAID for acute soft tissue injury
+

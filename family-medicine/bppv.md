@@ -168,3 +168,49 @@ SAFETY NET:
 
 ## Station 4 — Records & Prescription: BPPV
 
+### Subjective (S)
+Mrs Yu, 70F. BPPV — 2nd visit. Epley performed last week — initial improvement then BPPV recurred.
+Fall at home yesterday — tripped on bathroom mat during vertiginous episode. No head injury, no LOC.
+Currently on temazepam 10mg ON (for 3 years), amlodipine 10mg OD.
+Lives alone, 3rd floor walkup. Daughter visits weekly.
+
+### Objective (O)
+BP lying 148/84 → standing 136/76 (postural drop 12 systolic — borderline significant)
+HR 74. No orthostatic symptoms elicited
+Dix-Hallpike LEFT positive: rotatory nystagmus toward left ear, latency 2s, duration 10s, fatigable — left posterior canal BPPV
+Neurological: cranial nerves intact, cerebellar — no finger-nose dysmetria, gait slightly cautious but no ataxia
+TUG test: 14 seconds (HIGH FALLS RISK — >12s)
+
+### Assessment (A)
+Left posterior canal BPPV, recurrent. High falls risk: TUG 14s, elderly, lives alone, postural drop on amlodipine, temazepam (↑↑ falls risk).
+Priority: Epley today (left-sided); deprescribe temazepam; OT home assessment; physiotherapy referral.
+
+### Plan (P)
+1. Epley manoeuvre (left-sided) performed today — recurrence less likely after correct side confirmed
+2. Self-Epley instructions given for home use if recurrence
+3. DEPRESCRIBE temazepam: 5mg ON × 2 weeks → then discuss CBT-I or melatonin alternative
+4. Review amlodipine: BP 148/84 lying — maintain for now; recheck if symptomatic postural drop
+5. Physiotherapy referral: balance training, Tai Chi for falls prevention
+6. OT referral: home safety visit — bathroom grab rails, mat removal, lighting
+7. Medical alert device discussion with daughter
+8. Falls prevention programme referral
+9. Self-Epley written instructions given; review in 4 weeks
+
+### Prescription
+- **Drug**: Prochlorperazine
+- **Preparation**: Tablet 5mg
+- **Dose**: 5 mg
+- **Route**: Oral
+- **Frequency**: Three times daily (maximum 5 days only)
+- **Duration**: 5 days maximum for acute vertigo
+- **Quantity**: 15 tablets
+
+**Notes**: For acute nausea/vomiting from vertigo ONLY. Do not take for more than 5 days. IMPORTANT: does not treat BPPV — continue Epley exercises. SE: drowsiness, postural hypotension, falls risk (use with extreme caution in elderly). If dizziness worsens or new neurological symptoms develop — attend A&E immediately.
+
+**Tips**:
+- ALWAYS limit duration: 5 days maximum — vestibular compensation is blocked by prolonged use
+- NEVER prescribe for BPPV long-term (Epley is the treatment, not medication)
+- Extreme caution in elderly: increased falls, sedation, extrapyramidal effects
+- Document that Epley was performed and patient was taught self-Epley
+- Betahistine is NOT recommended for BPPV (it is for Menière's disease)
+

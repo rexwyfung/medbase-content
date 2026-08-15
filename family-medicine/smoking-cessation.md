@@ -168,3 +168,67 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription
 
+### Subjective (S)
+Mr Tsang Wai Ming (M/48), engineer, presents after chest X-ray (done for pre-operative workup) showing mild emphysematous changes bilaterally. He is a current smoker — 20 cigarettes/day × 25 years (25 pack-years). Occasional morning cough (productive, white sputum). Mild dyspnoea on exertion (MRC Grade 2 — breathless on hills/stairs but not on flat). No haemoptysis. No significant weight loss. Multiple previous quit attempts (3 total — longest maintained 3 weeks; relapsed due to stress). Wife has been asking him to quit for years. PMH: Nil significant. NKDA. Social: Engineer (office + site work). Married, 2 adult children. Drinks 2-3 beers/weekend. Non-drug user. Fagerström FTND: 7/10 (high nicotine dependence — smokes first cigarette within 5 minutes of waking).
+
+### Objective (O)
+Vitals: BP 128/82 mmHg, HR 78 bpm, RR 16/min, SpO2 96% RA. BMI 23.8.
+General: No tar staining of fingers (though may have worn off). Mild perioral perioral wrinkling.
+Chest:
+  Inspection: Mild barrel chest (AP:lateral diameter increased slightly).
+  Percussion: Hyper-resonant bilaterally (air trapping).
+  Auscultation: Prolonged expiratory phase. Mild wheeze at end expiration. Reduced breath sounds at bases.
+  No crackles (no superimposed infection).
+CVS: Normal.
+CXR (reviewed today): Bilateral hyperlucency; flattened diaphragms; prominent lung markings centrally — consistent with mild emphysema. No mass. No consolidation.
+Exhaled CO (clinic): 18 ppm (active smoking confirmed).
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Active tobacco dependence (FTND 7/10 — high; ICD-10 F17.2)
+PROBABLE COPD (GOLD Stage 1-2 — to be confirmed with spirometry): based on emphysematous CXR changes, barrel chest, hyperinflation, prolonged expiration, reduced breath sounds, SpO2 96%, 25 pack-year history, MRC 2 dyspnoea. Formal diagnosis requires spirometry (FEV1/FVC <0.7 post-bronchodilator).
+
+HISTORY OF MULTIPLE FAILED QUIT ATTEMPTS: likely requires pharmacological support.
+
+### Plan (P)
+1. SMOKING CESSATION: Varenicline (Champix) titration:
+   - Days 1-3: 0.5mg once daily
+   - Days 4-7: 0.5mg twice daily
+   - Day 8 onwards: 1mg twice daily × 12 weeks total
+   Set quit date: Day 8-14 after starting (smoke during first week — this is intentional).
+   Take with food and water. Report any mood changes, depression, or unusual thoughts immediately.
+
+2. SPIROMETRY: Refer for formal spirometry with bronchodilator reversibility testing — to confirm/exclude COPD and stage severity (GOLD classification).
+
+3. PULMONOLOGY REFERRAL: Refer to chest physician for COPD evaluation and management planning.
+
+4. LIFESTYLE: Exercise 30 min/day (reduces cravings; weight management post-cessation). Avoid alcohol during quit attempt (lowers resolve). Dietary advice for expected 2-3kg weight gain post-cessation.
+
+5. HK SMOKING CESSATION RESOURCES: Refer to HA Smoking Cessation Clinic. Provide COSH Quitline 1833-1833. SmokeFree HK website.
+
+6. CO MONITORING: Repeat exhaled CO at 4-week follow-up (target <10 ppm = quit confirmed).
+
+7. CVD RISK: QRISK3 calculation (25 pack-years = major CVD risk factor). Consider statin if 10-year risk >10%.
+
+8. FOLLOW-UP: 2 weeks (varenicline tolerance, quit date progress). Monthly × 6 months. Annual spirometry if COPD confirmed.
+
+### Prescription
+- **Drug**: Varenicline tartrate
+- **Preparation**: Tablets
+- **Dose**: See staged dosing below
+- **Route**: Oral
+- **Frequency**: As per titration schedule
+- **Duration**: 12 weeks (assess at 12 weeks for extension)
+- **Quantity**: 84 × 0.5mg tablets + 168 × 1mg tablets (standard 12-week pack)
+
+**Notes**: WEEK 1-3 TITRATION: Days 1-3: 0.5mg once daily. Days 4-7: 0.5mg twice daily. Day 8 onward: 1mg twice daily. Set quit date on Day 8-14. Take with food and full glass of water. Report immediately: depression, agitation, suicidal thoughts. AVOID in pregnancy and severe renal failure (eGFR <30 — reduce dose). ALCOHOL: avoid during quit attempt.
+
+**Tips**:
+- "Varenicline tartrate" (generic) NOT "Champix" alone
+- STAGED dosing MUST be clearly written — 0.5mg OD / 0.5mg BD / 1mg BD — with timing
+- "Oral" route — state it
+- "With food" — MUST be stated (reduces nausea)
+- CRITICAL: Warn about neuropsychiatric side effects — note in prescription
+- "12 weeks" — state duration
+- Contraindications: Pregnancy (Category B — avoid in pregnancy), eGFR <30 (reduce to 1mg OD max), history of serious psychiatric disorder (caution)
+- Drug interaction: No major interactions but caution with warfarin (INR may change with smoking cessation itself — not due to varenicline)
+

@@ -165,3 +165,51 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription
 
+### Subjective (S)
+Miss Lam Siu Wan (F/24), university student, presents with 6-month history of episodic wheeze, nocturnal cough (waking twice/week), and chest tightness on exercise. Using salbutamol 4-5 times/week. PMH: Childhood eczema (mild). Allergic rhinitis (not treated). NKDA. Social: Non-smoker. Lives in hall of residence (potentially dusty). Cat at home. FH: Mother has asthma. Spirometry (today): FEV1/FVC 0.68 (obstructed); FEV1 74% predicted. Post-salbutamol: FEV1 improved by 380mL (15.4%) → reversible airflow obstruction.
+
+### Objective (O)
+Vitals: HR 82 bpm, RR 16/min, SpO2 98% RA. 
+Appearance: No respiratory distress at rest.
+Chest: No accessory muscle use. Percussion resonant. Auscultation: mild expiratory wheeze bilaterally on forced expiration. Air entry equal.
+ENT: Pale, boggy inferior turbinates (allergic rhinitis). No polyps.
+Skin: No active eczema.
+PEFR: 360 L/min (76% predicted for height/age/sex).
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Bronchial Asthma (partially controlled, GINA Step 1→2)
+Evidence: Classic symptoms (nocturnal cough, wheeze, chest tightness); spirometry confirms reversible airflow obstruction (FEV1/FVC 0.68; FEV1 +15.4% post-BD); personal atopic history (eczema, allergic rhinitis); maternal history.
+Severity: Partially controlled (salbutamol use >3×/week; nocturnal symptoms ×2/week).
+
+COMORBIDITY: Allergic rhinitis (untreated — "one airway" relationship; treating rhinitis improves asthma control).
+
+### Plan (P)
+1. STEP 2 THERAPY: Beclomethasone dipropionate 100mcg/dose pMDI — 1 puff twice daily (regular preventer). Continue salbutamol 100mcg/dose PRN.
+2. SPACER: Provide Volumatic spacer device — demonstrate technique; request patient demonstrate back.
+3. ALLERGIC RHINITIS: Mometasone furoate intranasal spray 50mcg — 2 sprays each nostril once daily.
+4. ASTHMA ACTION PLAN: Written personalised plan (green/amber/red zones based on symptoms + PEFR).
+5. TRIGGER AVOIDANCE: Dust mite covers, minimise cat exposure (or re-home if possible), no smoking environments.
+6. LIFESTYLE: Regular exercise (swimming preferred — warm, humid environment); weight monitoring.
+7. SAFETY NET: Emergency action plan — if PEFR <50% or symptoms severe despite 10 puffs salbutamol → call 999.
+8. FOLLOW-UP: 4-6 weeks (technique check, symptom review, PEFR diary review, ACT score).
+
+### Prescription
+- **Drug**: Beclomethasone dipropionate
+- **Preparation**: Pressurised metered-dose inhaler (pMDI)
+- **Dose**: 100 micrograms per actuation
+- **Route**: Inhalation
+- **Frequency**: One puff twice daily (morning and evening)
+- **Duration**: 28 days (review)
+- **Quantity**: 1 inhaler (200 doses)
+
+**Notes**: Use with Volumatic spacer. Shake before use. Rinse mouth and gargle with water after each use (prevents oral candidiasis). Regular preventer — do NOT use as reliever.
+
+**Tips**:
+- Write "100 micrograms" NOT "100mcg" or "100μg"
+- "Inhalation" route — NOT "inhale" or "per mouth"
+- "Beclomethasone dipropionate" (generic) NOT "Clenil Modulite" alone
+- State "per actuation" — important for inhalers
+- "Twice daily" NOT "BD"
+- Always specify spacer device use in notes
+- For LABA+ICS combinations: NEVER prescribe LABA (salmeterol) without ICS — risk of LABA-related asthma death
+

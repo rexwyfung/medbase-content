@@ -156,3 +156,42 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription Writing
 
+### Subjective (S)
+Ms Lee Ka Yan (F/30), marketing executive, presents with 1-month history of palpitations, hand tremors, and unintentional weight loss of 3kg despite increased appetite. Reports heat intolerance and frequent sweating. Bowel movements increased to 2-3 times/day (not watery). No eye pain or visual changes. No neck pain. PMH: Nil. NKDA. Social: Non-smoker. Occasional alcohol. FH: Aunt has "thyroid problem".
+
+### Objective (O)
+Vitals: BP 130/70 mmHg, HR 110 bpm (regular), Temp 36.8°C, BMI 19.5 kg/m².
+General: Anxious appearance, restless.
+Hands: Fine tremor in outstretched hands. Warm, sweaty palms.
+Neck: Diffuse, smooth, non-tender goitre. No palpable nodules. Thyroid bruit present.
+Eyes: Mild lid retraction. No exophthalmos, no ophthalmoplegia.
+CVS: Tachycardia, regular rhythm. No murmurs.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Hyperthyroidism (Thyrotoxicosis) — highly suspicious of Graves' disease.
+Evidence: Classic symptoms (weight loss, increased appetite, heat intolerance, palpitations), signs (tachycardia, tremor, diffuse goitre with bruit).
+
+DIFFERENTIAL DIAGNOSES:
+• Toxic multinodular goitre (less likely given smooth goitre and age)
+• Thyroiditis (less likely given no neck pain)
+
+### Plan (P)
+1. INVESTIGATIONS: TFT (TSH, free T4, free T3), TRAb (TSH receptor antibodies) to confirm Graves', CBC, LFT (baseline before starting antithyroid drugs).
+2. SYMPTOMATIC CONTROL: Propranolol 10mg TDS for palpitations and tremor.
+3. DEFINITIVE TREATMENT: Carbimazole 15mg daily (starting dose pending TFT results, but can start if clinically severe and TFT delayed, though usually wait for TFT. For this station, assume TFT confirmed hyperthyroidism).
+4. SAFETY NET: Warned about agranulocytosis risk with Carbimazole — must stop drug and attend A&E immediately if sore throat, mouth ulcers, or fever develop.
+5. FOLLOW-UP: 4 weeks with blood test results.
+
+### Prescription
+- **Drug**: Propranolol
+- **Preparation**: Tablet
+- **Dose**: 10 mg
+- **Route**: Oral
+- **Frequency**: Three times daily (TDS)
+- **Duration**: 4 weeks
+- **Quantity**: 84 tablets
+
+**Tips**:
+- Prescribe beta-blocker for symptom control
+- Specify TDS frequency
+

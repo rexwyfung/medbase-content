@@ -163,3 +163,52 @@ SAFETY NET:
 
 ## Station 4 — Records & Prescription: CRC Screening
 
+### Subjective (S)
+Mr Lam, 55M. Health maintenance visit.
+Asymptomatic — no rectal bleeding, no change in bowel habit, no weight loss.
+FH: brother dx rectal cancer age 58. No other 1st-degree relatives with CRC.
+PMH: nil significant. Non-smoker, minimal alcohol. BMI 24. Exercise 3×/week.
+No current medications.
+
+### Objective (O)
+BP 122/78  HR 68  BMI 24
+Abdomen: soft, non-tender, no organomegaly, no palpable mass
+PR: normal tone, no mass, no blood on glove
+FIT: not done yet (planned)
+Other health maintenance: BP, glucose, lipids all normal (from last year)
+
+### Assessment (A)
+55M for CRC screening counselling. HIGH RISK due to 1st-degree relative (brother) with CRC at age 58 (<60). Colonoscopy indicated (not FIT alone). Counselled regarding procedure, benefits, and alternatives.
+
+### Plan (P)
+1. Colonoscopy referral (high-risk FH — not eligible for FIT alone under CRCSS)
+   → Refer to endoscopy centre; explain bowel prep, procedure, sedation options
+   → Target: within 2 months
+2. If colonoscopy reveals adenoma: follow-up per endoscopist (usually 3–5 year surveillance)
+3. Consider Lynch syndrome genetics referral if colonoscopy shows multiple/hereditary pattern polyps
+4. OTHER SCREENING (opportunistic):
+   → BP: 122/78 normal — check annually
+   → Glucose/HbA1c: normal — recheck at 45 if wt gain
+   → Lipids: normal — recheck in 5 years
+   → Skin cancer awareness counselling
+5. Lifestyle maintenance: exercise ✓, BMI 24 ✓, encourage Mediterranean diet (reduces CRC risk)
+6. Document family history in records; update when available
+
+### Prescription
+- **Drug**: Sodium picosulfate with magnesium citrate
+- **Preparation**: Oral powder (sachets) for bowel preparation
+- **Dose**: 1 sachet
+- **Route**: Oral (dissolved in water)
+- **Frequency**: Sachet 1 at 5pm the day before; Sachet 2 at 6am on procedure day
+- **Duration**: One-time use (pre-colonoscopy bowel prep)
+- **Quantity**: 2 sachets (Picolax or Citrafleet)
+
+**Notes**: Dissolve each sachet in 150mL cold water. Drink additional 1.5L clear fluids after each sachet. Clear fluid diet from day before: water, clear soup, black tea/coffee, apple juice (no pulp). Nothing by mouth from midnight before afternoon colonoscopy (or 6 hours before procedure). Expect watery diarrhoea. CAUTION: renal impairment, cardiac failure, IBD (use with caution/specialist advice).
+
+**Tips**:
+- Always prescribe with clear written instructions — complex two-dose regimen
+- Document that colonoscopy referral letter was sent and patient counselled
+- Check anticoagulants/antiplatelets — inform endoscopist (may need to stop pre-procedure)
+- Aspirin: can usually continue; warfarin: bridge to LMWH or stop; DOAC: stop 24–48h before
+- Note: bowel prep is prescribed by the hospital/clinic — may not need GP Rx in practice
+

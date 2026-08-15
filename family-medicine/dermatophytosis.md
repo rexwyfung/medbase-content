@@ -154,3 +154,36 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription Writing
 
+### Subjective (S)
+Mr Chan Tai Man (M/20), university student and wrestler, presents with an itchy rash on his right forearm for 2 weeks. He applied an over-the-counter hydrocortisone cream for the past 5 days, which initially reduced the redness but the rash has now spread and become more inflamed. No other lesions. No systemic symptoms. PMH: Asthma (well-controlled). NKDA.
+
+### Objective (O)
+Vitals: Afebrile.
+Skin (Right Forearm): A 5cm annular (ring-shaped) erythematous plaque. The border is raised, scaly, and well-demarcated. The center shows partial clearing but is somewhat erythematous and studded with small pustules (likely due to steroid use).
+Other areas: Scalp, feet, and groin are clear. Nails are normal.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Tinea Corporis (Ringworm), exacerbated by topical corticosteroids (Tinea Incognito).
+Evidence: Annular scaly plaque, history of wrestling (contact sport), worsening after steroid application.
+
+NOT: Nummular eczema (usually multiple, very itchy, responds well to steroids), Psoriasis (thicker silvery scales, usually extensor surfaces).
+
+### Plan (P)
+1. EDUCATION: Explained the fungal nature of the infection and how the steroid cream worsened it by suppressing local immunity.
+2. MEDICATION: Advised to STOP the hydrocortisone cream immediately. Prescribed topical Terbinafine 1% cream, apply BD for 2 weeks (and continue for 1 week after clinical clearing).
+3. HYGIENE ADVICE: Advised not to share towels or sports equipment. Wash wrestling gear in hot water. Keep the area clean and dry.
+4. FOLLOW-UP: Return in 2-3 weeks if the rash does not improve or continues to spread.
+
+### Prescription
+- **Drug**: Terbinafine
+- **Preparation**: Cream (1%)
+- **Dose**: Apply a thin layer to the affected area and 2cm of surrounding normal skin
+- **Route**: Topical
+- **Frequency**: Twice daily (BD)
+- **Duration**: 2 weeks
+- **Quantity**: 1 tube (15g)
+
+**Tips**:
+- Specify topical route
+- Include instructions to apply to surrounding normal skin
+

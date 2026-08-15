@@ -141,3 +141,30 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription
 
+### Subjective (S)
+Patient presents with symptoms of Stroke.
+
+### Objective (O)
+Vitals stable. Physical examination findings consistent with Stroke.
+
+### Assessment (A)
+Primary Diagnosis: Stroke
+
+### Plan (P)
+1. Start appropriate medication.
+2. Lifestyle advice.
+3. Follow-up in 4 weeks.
+
+### Prescription
+- **Drug**: Standard Medication for Stroke
+- **Preparation**: Tablets
+- **Dose**: Standard dose
+- **Route**: Oral
+- **Frequency**: Daily
+- **Duration**: 28 days
+- **Quantity**: 28 tablets
+
+**Tips**:
+- Write clearly
+- Specify route
+

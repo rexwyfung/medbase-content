@@ -170,3 +170,50 @@ SAFETY NET:
 
 ## Station 4 — Records & Prescription: Gout
 
+### Subjective (S)
+Mr Tang, 52M. Acute gout right first MTP joint.
+Onset 2 nights ago, woken by severe pain, unable to walk. 3rd attack this year.
+No fever. Not on any gout treatment currently. SUA 580 µmol/L (from last week).
+PMH: HTN (on HCTZ 25mg), no CKD, no PUD. NKDA.
+Alcohol: 2–3 beers daily. Diet: frequent red meat and seafood.
+
+### Objective (O)
+Right first MTP joint: erythema, warmth, exquisite tenderness (even bedsheet contact painful), swelling ++
+No fever (37.1°C). No tophi. No other joint involvement.
+BP 148/92 (HCTZ — worsened by diuretic effect dehydration?)
+SUA 580 µmol/L. Renal function: Cr 88, eGFR 76 (normal). No joint aspiration done.
+
+### Assessment (A)
+Acute gout, right first MTP joint (podagra). 3rd attack this year — ULT indicated when attack settles.
+Hyperuricaemia (580 µmol/L) — exacerbated by HCTZ, excess alcohol, purine-rich diet.
+Plan: acute treatment today; arrange HLA-B*58:01 test before ULT initiation; switch HCTZ → losartan when attack settled.
+
+### Plan (P)
+1. Colchicine 500mcg TDS × 7 days (acute attack — adequate renal function)
+2. Naproxen 500mg BD × 5 days + omeprazole 20mg OD (avoid if renal function worsens)
+3. Elevate foot, rest, ice pack (wrapped in cloth) 15 min TDS
+4. Adequate hydration: 2L/day (avoid alcohol completely until attack resolved)
+5. Arrange HLA-B*58:01 test (Han Chinese — before starting allopurinol)
+6. After attack settles: start allopurinol 50mg OD + colchicine prophylaxis
+7. Switch HCTZ → losartan 50mg OD (dual benefit: BP + uricosuric)
+8. Dietary advice: reduce alcohol, limit red meat/seafood/organ meats
+9. Urgent review in 1 week (or sooner if worsening — rule out septic arthritis if fever develops)
+
+### Prescription
+- **Drug**: Colchicine
+- **Preparation**: Tablet 500 mcg
+- **Dose**: 500 mcg (1 tablet)
+- **Route**: Oral
+- **Frequency**: Three times daily
+- **Duration**: 7 days (acute attack) then review
+- **Quantity**: 21 tablets
+
+**Notes**: Start as soon as possible — most effective if taken within 24 hours of attack onset. Take with food to reduce GI side effects. STOP and call doctor if severe diarrhoea, nausea, vomiting or muscle weakness occurs. Do NOT take with macrolide antibiotics (clarithromycin) or statins without monitoring — risk of toxicity. Reduce dose in kidney disease.
+
+**Tips**:
+- Modern dosing: 500mcg BD-TDS (NOT the old "1mg then 500mcg hourly until diarrhoea" — dangerous)
+- Low-dose colchicine is equally effective with far fewer GI side effects
+- Document renal function before prescribing (adjust dose if CKD)
+- IMPORTANT drug interaction: clarithromycin + colchicine → fatal colchicine toxicity
+- Colchicine also used for prophylaxis: 500mcg OD–BD for 6 months when starting ULT
+

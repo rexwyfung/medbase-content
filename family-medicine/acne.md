@@ -155,3 +155,36 @@ SAFETY NET:
 
 ## Station 4 — Medical Record + Prescription Writing
 
+### Subjective (S)
+Master Jason Wong (M/16), student, presents with worsening facial acne for the past 6 months. He has been using over-the-counter Benzoyl Peroxide 5% gel for 3 months with minimal improvement. He feels embarrassed and it affects his self-esteem. No acne on chest or back. No joint pain. PMH: Nil. NKDA.
+
+### Objective (O)
+Vitals: Afebrile.
+Skin (Face): Multiple open and closed comedones on the forehead, nose, and cheeks. Moderate number of erythematous papules and pustules. No deep nodules or cysts. Mild post-inflammatory hyperpigmentation. No scarring.
+Skin (Chest/Back): Clear.
+
+### Assessment (A)
+PRIMARY DIAGNOSIS: Moderate papulopustular Acne Vulgaris.
+Evidence: Presence of comedones, papules, and pustules without cysts or scarring. Failed initial topical monotherapy.
+
+NOT: Severe nodulocystic acne (no cysts/nodules).
+
+### Plan (P)
+1. MEDICATION (TOPICAL): Prescribed Adapalene 0.1% gel (a topical retinoid). Advised to apply a thin layer to the entire affected area at night. Warned about initial skin irritation and sun sensitivity.
+2. MEDICATION (ORAL): Prescribed oral Doxycycline 100mg daily for 8 weeks to target inflammation and C. acnes. Counseled to take with a full glass of water, remain upright for 30 mins (to prevent esophagitis), and avoid taking with milk/antacids. Warned about photosensitivity.
+3. SKIN CARE: Advised to use a gentle, non-comedogenic cleanser twice daily. Avoid scrubbing or picking at lesions. Use oil-free sunscreen.
+4. FOLLOW-UP: Review in 6-8 weeks, as acne treatments take time to show significant results.
+
+### Prescription
+- **Drug**: Doxycycline
+- **Preparation**: Capsule
+- **Dose**: 100 mg
+- **Route**: Oral
+- **Frequency**: Once daily
+- **Duration**: 8 weeks
+- **Quantity**: 56 capsules
+
+**Tips**:
+- Specify oral antibiotic for moderate acne
+- Include crucial counseling points (upright, water, photosensitivity)
+

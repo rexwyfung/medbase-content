@@ -171,3 +171,49 @@ SAFETY NET:
 
 ## Station 4 — Records & Prescription: Obesity
 
+### Subjective (S)
+Mr Fong, 45M. Obesity/weight management review.
+Weight 88kg → 84.5kg in 3 months (−3.5kg, −4%). 
+On dietary changes only — no medication yet. Reduced takeaway from 5 to 2/week.
+Comorbidities: DM2 (HbA1c 7.8%), HTN (BP 138/86), OSA (CPAP compliant).
+Motivated: wants to stop insulin in future. Still busy but doing 20 min walk × 4/week.
+
+### Objective (O)
+Wt 84.5kg  BMI 29.8  WC 93cm (↓ from 98)
+BP 134/82  HR 72
+Fasting glucose 7.8  HbA1c 7.4% (↓ from 7.8%)
+Lipids: LDL 2.6, HDL 1.1, TG 1.8 (improving)
+Liver: ALT 42 (normal)
+
+### Assessment (A)
+Obesity with metabolic syndrome showing good response to lifestyle modification — 4% weight loss, HbA1c improving. Continue progress. Consider adding orlistat to enhance further weight loss.
+
+### Plan (P)
+1. Positive reinforcement: "4% weight loss in 3 months is excellent — this is already improving your diabetes."
+2. Continue lifestyle: target 30 min moderate exercise × 5/week
+3. Consider orlistat 120mg TDS (with main meals containing fat) — counsel on GI SE
+4. Dietitian referral for structured eating plan and calorie deficit
+5. Discuss bariatric surgery option (BMI 29.8 + DM, HTN — borderline criteria): refer bariatric clinic for counselling
+6. DM review: HbA1c improving — check if insulin dose reduction possible
+7. BP: add/adjust antihypertensive if BP remains >130/80
+8. Annual: waist circumference, HbA1c, lipids, BP, liver function
+9. Review in 3 months with weight diary
+
+### Prescription
+- **Drug**: Orlistat
+- **Preparation**: Capsule 120mg
+- **Dose**: 120 mg
+- **Route**: Oral
+- **Frequency**: Three times daily (with each main meal containing fat); omit if meal is fat-free
+- **Duration**: 3 months initially; continue if ≥5% weight loss achieved by 3 months
+- **Quantity**: 90 capsules
+
+**Notes**: Must follow low-fat diet (<30% of calories from fat). If dose missed or meal contains no fat — omit that dose. SE: oily stools, faecal urgency, flatulence (less with low-fat diet). Take multivitamin 2 hours after orlistat (fat-soluble vitamin absorption reduced). Monitor LFTs.
+
+**Tips**:
+- Specify "with each main meal" — not just "TDS"
+- Counsel on low-fat diet requirement upfront (SE are directly related to fat intake)
+- Document that patient was counselled on GI side effects
+- Stop if no ≥5% weight loss by 3 months (insufficient responder)
+- Orlistat reduces absorption of fat-soluble drugs — monitor warfarin, levothyroxine, AED levels
+
