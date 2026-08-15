@@ -84,6 +84,7 @@
 * **Digital Rectal Examination (DRE):** ↓ or absent anal sphincter tone.
 * **Motor/Sensory:** Bilateral lower limb neurological deficits.
 * **Autonomic:** Painless urinary retention (palpable bladder).
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/4c43fb418be015b2749814fe9b6065e6.png)
 
 ## 4. Orthopaedic Classification Systems
 
