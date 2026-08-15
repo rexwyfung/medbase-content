@@ -12,6 +12,7 @@
 * **Definition:** Narrowing of spinal canal, lateral recess, or intervertebral foramen.
 * **Epidemiology:** >60 yrs; most common reason for spinal surgery in elderly.
 * **Pathophysiology:** Degenerative cascade → disc desiccation → loss of disc height → facet hypertrophy + **ligamentum flavum (黃韌帶)** buckling.
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/5d02de346ed155335c2ef44cc8f1cc03.png)
 
 ### Spondylolisthesis (脊椎滑脫) Definition & MOI
 * **Definition:** Forward translation of one vertebra over another.
