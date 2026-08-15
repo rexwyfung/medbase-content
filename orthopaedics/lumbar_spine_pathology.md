@@ -208,7 +208,8 @@
 ## 10. Examiner's Pearls
 
 * Viva Question: How do you clinically differentiate Neurogenic Claudication from Vascular Claudication? Answer: Neurogenic (Spinal Stenosis) improves with lumbar flexion (sitting, walking uphill) and pain radiates proximal to distal. Vascular improves simply with standing still and pain radiates distal to proximal.
-* Viva Question: What is the "Shopping Cart Sign"? Answer: A classic presentation of lumbar spinal stenosis where the patient experiences relief of leg pain by leaning forward over a shopping cart, which flexes the spine, buckling the ligamentum flavum posteriorly and opening up the spinal canal. ![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/7f3cfd8ff5d5e67913e13329e780bb65.png)
+* Viva Question: What is the "Shopping Cart Sign"? Answer: A classic presentation of lumbar spinal stenosis where the patient experiences relief of leg pain by leaning forward over a shopping cart, which flexes the spine, buckling the ligamentum flavum posteriorly and opening up the spinal canal.
+	![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/7f3cfd8ff5d5e67913e13329e780bb65.png)
 * Trap: Assuming an L4/L5 disc herniation compresses the L4 nerve root. Pearl: A typical posterolateral L4/L5 disc herniation spares the exiting L4 root and compresses the TRAVERSING L5 root.
 * Pitfall: Discharging a patient with severe back pain and bilateral sciatica without doing a DRE. Always perform a PR examination to assess anal tone and perineal sensation to rule out Cauda Equina Syndrome; failure to document this is a major medicolegal disaster.
 * Trap: Relying solely on a positive Straight Leg Raise (SLR) to diagnose a disc herniation. Pearl: The Crossed-SLR test (pain in the affected leg when raising the asymptomatic leg) is much more SPECIFIC for a large, extruded disc herniation than a standard SLR.
