@@ -139,9 +139,9 @@
 * **Goal:** Halt curve progression (Does NOT correct existing deformity).
 * **Mechanism:** 3-point pressure system applied to the apex of the curve.
 * **Types:**
-* **Boston Brace (TLSO):** Underarm brace for thoracolumbar/lumbar curves (worn 18-23 hrs/day).
-* **Providence Brace:** Night-time only hyper-corrective brace.
-* **Milwaukee Brace (CTLSO):** For high thoracic curves (apex >T8) - rarely used now due to poor compliance.
+	* **Boston Brace (TLSO):** Underarm brace for thoracolumbar/lumbar curves (worn 18-23 hrs/day).
+	* **Providence Brace:** Night-time only hyper-corrective brace.
+	* **Milwaukee Brace (CTLSO):** For high thoracic curves (apex >T8) - rarely used now due to poor compliance.
 
 ### Operative: Posterior Spinal Fusion (PSF) (後路脊柱融合術)
 * **Indications:** Cobb >45°-50°, severe truncal shift, unresponsive to bracing.
