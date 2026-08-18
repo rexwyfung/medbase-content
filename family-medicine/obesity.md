@@ -1,219 +1,80 @@
-# Obesity Management
+# Obesity (肥胖症)
 
-## General
+## 1. Definition & Epidemiology (定義與流行病學)
+- **Definition**: A chronic, complex disease characterized by excessive adiposity (fat accumulation) that impairs health. It is defined clinically using the Body Mass Index (BMI).
+- **Epidemiology**: A global pandemic. In Hong Kong, over 50% of adults are overweight or obese. It is a major driver of preventable morbidity and mortality.
 
-**Examiner's Pearl**: Asian BMI cutoffs: overweight ≥23 kg/m², obese ≥27.5 kg/m² (lower than WHO due to higher adiposity at lower BMI in Asians)
-**Answer**: 亞裔BMI截斷值：超重≥23 kg/m²，肥胖≥27.5 kg/m²（低於WHO，因亞裔相同BMI時體脂率更高）
+## 2. Classification & Measurement (分類與測量)
+### Body Mass Index (BMI)
+Calculated as Weight (kg) / Height (m)².
+**Asian-specific criteria (WHO/Western Pacific Region)** are used in Hong Kong due to higher cardiovascular risk at lower BMIs compared to Caucasians:
+- **Underweight**: < 18.5
+- **Normal Range**: 18.5 - 22.9
+- **Overweight**: 23.0 - 24.9
+- **Obese Class I**: 25.0 - 29.9
+- **Obese Class II**: ≥ 30.0
 
-**Examiner's Pearl**: Waist circumference risk: men >90cm, women >80cm (Asian cutoffs — metabolic risk)
-**Answer**: 腰圍風險：男性>90cm，女性>80cm（亞裔截斷值——代謝風險）
+### Waist Circumference (Central/Visceral Adiposity)
+Visceral fat (fat around internal organs) is more metabolically active and dangerous than subcutaneous fat. It is a better predictor of cardiovascular risk than BMI alone.
+- **High Risk (Asian criteria)**:
+  - Men: ≥ 90 cm (35.5 inches)
+  - Women: ≥ 80 cm (31.5 inches)
 
-**Examiner's Pearl**: 5–10% weight loss improves most metabolic comorbidities: BP, HbA1c, lipids, sleep apnoea, joint pain
-**Answer**: 體重減輕5–10%改善大多數代謝合併症：血壓、HbA1c、血脂、睡眠呼吸暫停、關節疼痛
+## 3. Etiology & Pathophysiology (病因與病理生理學)
+Obesity is not simply a lack of willpower; it is a complex interplay of factors:
+- **Energy Imbalance**: Caloric intake exceeds energy expenditure. Driven by the modern "obesogenic environment" (easy access to high-calorie, ultra-processed foods and sedentary lifestyles).
+- **Genetics**: High heritability (40-70%). Polygenic inheritance influences appetite, metabolism, and fat distribution. Rare monogenic causes exist (e.g., leptin deficiency, MC4R mutations).
+- **Endocrine/Medical Causes (Secondary Obesity - rare but important to rule out)**: Hypothyroidism, Cushing's syndrome, Polycystic Ovary Syndrome (PCOS), Hypothalamic damage.
+- **Medications**: Atypical antipsychotics (e.g., Olanzapine), Corticosteroids, Insulin, Sulfonylureas, some Antidepressants (e.g., Mirtazapine), Antiepileptics (e.g., Valproate).
+- **Psychological/Behavioral**: Stress, depression, binge eating disorder, poor sleep duration/quality.
 
-**Examiner's Pearl**: Pharmacotherapy: orlistat (BMI ≥30 or ≥27.5 with comorbidity); newer: GLP-1 agonists (semaglutide/liraglutide) — not yet subsidised in HK public
-**Answer**: 藥物治療：奧利司他（BMI≥30或≥27.5伴合併症）；新型：GLP-1激動劑（司美格魯肽/利拉魯肽）——香港公立醫院尚未資助
+## 4. Complications (The "Sick Fat" and "Fat Mass" Diseases) (併發症)
+Obesity affects almost every organ system.
+- **Metabolic/Cardiovascular ("Sick Fat" - Adiposopathy)**:
+  - Type 2 Diabetes Mellitus (insulin resistance).
+  - Hypertension.
+  - Dyslipidemia (High TG, Low HDL).
+  - Coronary Artery Disease, Stroke, Heart Failure.
+  - Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD, formerly NAFLD), which can progress to cirrhosis.
+- **Mechanical/Structural ("Fat Mass" effects)**:
+  - Obstructive Sleep Apnea (OSA).
+  - Osteoarthritis (especially knees and hips).
+  - Gastroesophageal Reflux Disease (GERD).
+  - Urinary stress incontinence.
+- **Oncological**: Increased risk of numerous cancers (e.g., breast (postmenopausal), endometrial, colorectal, kidney, esophageal adenocarcinoma).
+- **Psychosocial**: Depression, stigma, reduced quality of life.
 
-**Examiner's Pearl**: Bariatric surgery (BMI ≥32.5 Asian, ≥35 Western with comorbidities or BMI ≥37.5): most effective long-term; sleeve gastrectomy, RYGB
-**Answer**: 減重手術（BMI≥32.5亞裔，≥35西方伴合併症或BMI≥37.5）：長期最有效；袖狀胃切除術、胃繞道手術
+## 5. Clinical Evaluation (臨床評估)
+- **History**: Weight history (onset, previous weight loss attempts), dietary habits, physical activity, psychological status, medications, family history.
+- **Physical Examination**: BMI, waist circumference, blood pressure. Look for signs of secondary causes (e.g., moon facies/striae for Cushing's, goiter for hypothyroidism) or complications (acanthosis nigricans indicating insulin resistance).
+- **Investigations (Screening for Comorbidities)**:
+  - Fasting glucose or HbA1c (Diabetes).
+  - Fasting lipid profile (Dyslipidemia).
+  - Liver function tests (ALT/AST for MASLD).
+  - U&Es, Uric acid (Gout).
+  - TFTs (TSH) if hypothyroidism is suspected.
 
-**Examiner's Pearl**: 5As of obesity counselling: Ask permission, Assess, Advise, Agree, Assist (avoid weight stigma — use non-judgmental language)
-**Answer**: 肥胖諮詢的5As：詢問許可、評估、建議、同意、協助（避免體重歧視——使用非評判性語言）
+## 6. Management (治療與管理)
+The goal is not just weight loss, but health improvement. Even a **5-10% weight loss** yields significant clinical benefits (improves glycemic control, BP, and lipids).
 
-## Station 1 — Management Interview
+### 1. Lifestyle Interventions (Foundation for all)
+- **Dietary Modification**: Create a caloric deficit (e.g., 500-750 kcal/day deficit). No single diet is universally superior; adherence is key. Emphasize whole foods, lean proteins, vegetables; reduce ultra-processed foods and sugary drinks.
+- **Physical Activity**: Aim for ≥ 150 mins/week of moderate-intensity aerobic exercise, plus resistance training. Exercise is crucial for *maintaining* weight loss and preserving muscle mass.
+- **Behavioral Therapy**: Self-monitoring (food diaries, regular weighing), stimulus control, goal setting, stress management.
 
-**Scenario**: Mr Lam, 45M, IT manager. Presents for a routine check-up. BMI is 35 (Class II Obesity). He has a sedentary lifestyle, eats takeout for most meals, and feels tired all the time. He snores loudly at night. He wants a "quick fix" weight loss pill.
+### 2. Pharmacological Therapy
+- *Indications*: BMI ≥ 30, OR BMI ≥ 27 with obesity-related comorbidities (e.g., HTN, DM2, OSA), who have not met weight loss goals with lifestyle changes alone. (Note: Asian BMI thresholds for medication may be lower, e.g., ≥ 27.5 or ≥ 25 with comorbidities).
+- **GLP-1 Receptor Agonists**: Currently the most effective class.
+  - *Semaglutide (Wegovy)* and *Liraglutide (Saxenda)*: Injectable. Suppress appetite and delay gastric emptying. Can achieve 10-15% weight loss. Side effects: GI upset (nausea, vomiting, diarrhea).
+  - *Tirzepatide (Zepbound)*: Dual GIP/GLP-1 agonist. Even more potent (up to 20% weight loss).
+- **Orlistat (Xenical)**: Lipase inhibitor. Blocks absorption of ~30% of dietary fat. Side effects: Steatorrhea (oily spotting, flatus with discharge), fat-soluble vitamin deficiency.
+- **Phentermine/Topiramate**: Combination of a stimulant and an antiepileptic.
 
-### Section 1 — Assessment (20%): 4P + BATHE + ICE
-4P FRAMEWORK:
-- Predisposing: Sedentary occupation (IT manager), middle age.
-- Precipitating: Gradual weight gain over years due to caloric surplus.
-- Perpetuating: Reliance on high-calorie takeout food, lack of physical activity, possible Obstructive Sleep Apnea (OSA) causing fatigue and preventing exercise.
-- Protective: Seeking medical advice, motivated to lose weight (even if looking for a quick fix).
-
-BATHE (EXACT SCRIPTS):
-- Background: "I see your BMI is 35. You mentioned feeling tired all the time and eating mostly takeout. How is your weight and fatigue affecting your daily life and work?"
-- Affect: "How do you feel about your current weight and energy levels?"
-- Trouble: "What is the most difficult part about trying to eat healthier or exercise with your busy schedule?"
-- Handling: "Have you tried any diets or weight loss methods in the past? What happened?"
-- Empathy: "It is incredibly hard to find the energy to exercise or cook when you are working long hours and feeling exhausted all the time. I understand why you are looking for a straightforward solution."
-
-ICE (EXACT SCRIPTS):
-- Ideas: "What do you think is the main reason you have gained this weight over the years?"
-- Concerns: "Are you worried about how this weight might affect your long-term health, like your heart or blood sugar?"
-- Expectations: "You mentioned wanting a weight loss pill. What were you hoping the medication would do for you, and how fast were you expecting results?"
-
-### Section 2 — Problem Identification (10%)
-PHYSICAL:
-- Obesity (Class II, BMI 35).
-- High suspicion of Obstructive Sleep Apnea (OSA) given loud snoring, fatigue, and obesity.
-- High risk for Metabolic Syndrome (need to check BP, lipids, glucose).
-
-PSYCHOLOGICAL:
-- Frustration with previous failed weight loss attempts.
-- Desire for a "magic pill" rather than lifestyle modification.
-
-SOCIAL:
-- Occupational barriers (sedentary desk job, long hours).
-
-BARRIERS:
-- Misconception that medication alone will solve the problem without dietary changes.
-- Untreated OSA causing profound fatigue, making exercise nearly impossible.
-
-### Section 3 — RAPRIOP Management (50%)
-REASSURE:
-"You have taken a very important first step by coming in today. Obesity is a complex medical condition, not just a lack of willpower. We can absolutely work together to get your weight down and your energy up."
-
-ADVICE (EXACT SCRIPTS):
-- "Regarding the weight loss pill: There are medications that can help, but they are not magic. They only work if you also change your diet. If you take a pill but keep eating high-calorie takeout, you will not lose weight."
-- "I am actually very concerned about your loud snoring and constant fatigue. I suspect you have Sleep Apnea, where your breathing stops briefly during sleep. This ruins your sleep quality, makes you exhausted, and actually changes your hormones to make you gain weight."
-- "We need to tackle the diet first. Try to replace one takeout meal a day with a healthy, home-cooked meal or a salad. Cut out all sugary drinks."
-
-PRESCRIBE:
-- No weight loss medication prescribed today. The focus must be on investigating the sleep apnea and establishing a baseline lifestyle plan first.
-
-REFER:
-- Dietitian for a realistic, sustainable meal plan that fits his busy IT schedule.
-- Respiratory/Sleep Medicine for a Sleep Study (Polysomnography) to confirm OSA.
-
-INVESTIGATE:
-- Fasting blood glucose/HbA1c, lipid profile, liver function (to check for fatty liver), and thyroid function (to rule out hypothyroidism causing weight gain).
-- Sleep study for OSA.
-
-OBSERVE:
-- Monitor weight, BMI, and blood pressure.
-
-PLAN:
-- Follow up in 1 month to review blood tests, sleep study results, and see how the dietary changes are going. We can discuss weight loss medications (like GLP-1 agonists) at that time if appropriate.
-
-SAFETY NET:
-"If you ever wake up gasping for air and feel chest pain, or if you feel so sleepy during the day that you are falling asleep while driving, please go to the A&E or stop driving immediately."
-
-### Section 4 — CIPS Communication Skills (20%)
-CHUNK AND CHECK:
-Explain the link between snoring, sleep apnea, and weight gain, then ask, "Does it make sense why I want to investigate your sleep before we just prescribe a weight loss pill?"
-
-ICE:
-Directly address his expectation for a "quick fix" by validating his frustration with his weight, but firmly explaining the medical reality of weight management and the danger of untreated sleep apnea.
-
-PATIENT-CENTRED:
-"I know you wanted a pill today, but are you willing to see the dietitian and do the sleep test first, so we can fix the root causes of your fatigue and weight gain?"
-
-SIGNPOSTING:
-"First, let's talk about why a pill alone won't work, and then we will discuss the sleep issue which I think is the real hidden problem here."
-
-## Station 3 — FM Primary Care Consultation
-
-**Scenario**: Patient presents for a check-up. He is significantly overweight, feels tired all the time, snores loudly, and wants a pill to help him lose weight quickly.
-
-### Find Reason (×0.5)
-OPEN QUESTION:
-"You mentioned you are looking for help with weight loss and feeling tired. Can you tell me more about your typical day and how you are feeling?"
-
-ACTIVE LISTENING:
-Allow the patient to describe their lifestyle and fatigue without interrupting.
-
-### Define Problem + Systems Review (×2.5)
-ASSESS LIFESTYLE & DIET:
-- "Can you walk me through what you eat on a normal day?"
-- "How much physical activity or exercise do you get in a week?"
-- "Have you tried any diets before? What happened?"
-
-SCREEN FOR OBSTRUCTIVE SLEEP APNEA (OSA - MUST ASK):
-- "You mentioned loud snoring. Has anyone ever told you that you stop breathing for a few seconds while you sleep?"
-- "Do you wake up feeling unrefreshed, or with a morning headache?"
-- "Do you ever fall asleep during the day, like when sitting in a meeting or driving?"
-
-SCREEN FOR METABOLIC COMPLICATIONS:
-- "Do you find yourself feeling very thirsty or needing to pee often?" (Diabetes)
-- "Have you ever had chest pain or shortness of breath?" (Heart disease)
-
-PHYSICAL EXAM:
-- Measure Height, Weight, and calculate BMI.
-- Measure Blood Pressure (use appropriate large cuff size).
-- Examine the throat (Mallampati score) and neck circumference for OSA risk.
-
-### ICE (Ideas, Concerns, Expectations) (×0.5)
-IDEAS:
-"What do you think is the main barrier stopping you from losing weight?"
-
-CONCERNS:
-"Are you worried about any specific health problems related to your weight?"
-
-EXPECTATIONS:
-"You mentioned wanting a weight loss pill. How did you expect the medication to work for you?"
-
-### Diagnosis & Explanation (×0.5)
-DIAGNOSIS:
-"Based on your BMI, you have Class II Obesity. More importantly, your loud snoring and severe fatigue strongly suggest you have Obstructive Sleep Apnea."
-
-EXPLANATION:
-"Sleep Apnea means the tissues in your throat collapse while you sleep, blocking your airway. Your brain has to constantly wake you up slightly to breathe. This means you never get deep sleep, which leaves you exhausted and actually changes your metabolism, making it harder to lose weight."
-
-CHECK UNDERSTANDING:
-"Does that explanation make sense to you?"
-
-### Management + RICE (×1.0)
-REASSURE:
-"This is a very common combination of problems, and we have clear steps to tackle both the weight and the sleep issues."
-
-INVESTIGATE:
-"I will arrange a full set of blood tests to check your sugar, cholesterol, and thyroid. I am also referring you for a Sleep Study to confirm the sleep apnea."
-
-PLAN:
-"I am not prescribing a weight loss pill today. Pills only work alongside diet changes, and right now, your sleep apnea needs urgent attention. I will refer you to a dietitian to start working on a sustainable meal plan."
-
-ADVICE:
-"Start by cutting out all sugary drinks and replacing one takeout meal a day with something healthy. If you feel sleepy during the day, do not drive."
-
-SAFETY NET:
-"If you ever wake up gasping for air with severe chest pain, go to the A&E immediately."
-
-## Station 4 — Records & Prescription: Obesity
-
-### Subjective (S)
-Mr Fong, 45M. Obesity/weight management review.
-Weight 88kg → 84.5kg in 3 months (−3.5kg, −4%). 
-On dietary changes only — no medication yet. Reduced takeaway from 5 to 2/week.
-Comorbidities: DM2 (HbA1c 7.8%), HTN (BP 138/86), OSA (CPAP compliant).
-Motivated: wants to stop insulin in future. Still busy but doing 20 min walk × 4/week.
-
-### Objective (O)
-Wt 84.5kg  BMI 29.8  WC 93cm (↓ from 98)
-BP 134/82  HR 72
-Fasting glucose 7.8  HbA1c 7.4% (↓ from 7.8%)
-Lipids: LDL 2.6, HDL 1.1, TG 1.8 (improving)
-Liver: ALT 42 (normal)
-
-### Assessment (A)
-Obesity with metabolic syndrome showing good response to lifestyle modification — 4% weight loss, HbA1c improving. Continue progress. Consider adding orlistat to enhance further weight loss.
-
-### Plan (P)
-1. Positive reinforcement: "4% weight loss in 3 months is excellent — this is already improving your diabetes."
-2. Continue lifestyle: target 30 min moderate exercise × 5/week
-3. Consider orlistat 120mg TDS (with main meals containing fat) — counsel on GI SE
-4. Dietitian referral for structured eating plan and calorie deficit
-5. Discuss bariatric surgery option (BMI 29.8 + DM, HTN — borderline criteria): refer bariatric clinic for counselling
-6. DM review: HbA1c improving — check if insulin dose reduction possible
-7. BP: add/adjust antihypertensive if BP remains >130/80
-8. Annual: waist circumference, HbA1c, lipids, BP, liver function
-9. Review in 3 months with weight diary
-
-### Prescription
-- **Drug**: Orlistat
-- **Preparation**: Capsule 120mg
-- **Dose**: 120 mg
-- **Route**: Oral
-- **Frequency**: Three times daily (with each main meal containing fat); omit if meal is fat-free
-- **Duration**: 3 months initially; continue if ≥5% weight loss achieved by 3 months
-- **Quantity**: 90 capsules
-
-**Notes**: Must follow low-fat diet (<30% of calories from fat). If dose missed or meal contains no fat — omit that dose. SE: oily stools, faecal urgency, flatulence (less with low-fat diet). Take multivitamin 2 hours after orlistat (fat-soluble vitamin absorption reduced). Monitor LFTs.
-
-**Tips**:
-- Specify "with each main meal" — not just "TDS"
-- Counsel on low-fat diet requirement upfront (SE are directly related to fat intake)
-- Document that patient was counselled on GI side effects
-- Stop if no ≥5% weight loss by 3 months (insufficient responder)
-- Orlistat reduces absorption of fat-soluble drugs — monitor warfarin, levothyroxine, AED levels
-
+### 3. Bariatric Surgery (Metabolic Surgery)
+- The most effective and durable treatment for severe obesity. Induces significant weight loss and often remission of Type 2 Diabetes.
+- *Indications (General guidelines, may vary locally)*:
+  - BMI ≥ 40.
+  - BMI ≥ 35 with severe obesity-related comorbidities (e.g., poorly controlled DM2, severe OSA).
+  - Asian criteria often lower these thresholds by 2.5 kg/m² (e.g., BMI ≥ 37.5, or ≥ 32.5 with comorbidities).
+- *Procedures*: Sleeve Gastrectomy (most common), Roux-en-Y Gastric Bypass.
+- *Post-op*: Requires lifelong nutritional supplementation (Vitamins B12, D, Iron, Calcium) and monitoring.

@@ -1,216 +1,72 @@
-# Allergic Rhinitis
+# Allergic Rhinitis (過敏性鼻炎 / 鼻敏感)
 
-## General
+## 1. Definition & Epidemiology (定義與流行病學)
+- **Definition**: An IgE-mediated inflammatory disorder of the nasal mucosa triggered by exposure to an allergen.
+- **Epidemiology**: Extremely common, affecting 10-30% of adults and up to 40% of children globally. High prevalence in Hong Kong. Significantly impacts quality of life, sleep, and work/school performance.
+- **Atopic March**: Strongly associated with other atopic diseases (asthma, atopic dermatitis). Up to 40% of patients with allergic rhinitis have asthma, and >80% of asthmatics have allergic rhinitis.
 
-**Examiner's Pearl**: ARIA classification: intermittent (<4 days/week OR <4 weeks) vs persistent; mild vs moderate-severe
-**Answer**: ARIA分類：間歇性（<4天/週或<4週）vs 持續性；輕度 vs 中重度
+## 2. Classification (分類)
+Traditionally classified by timing, but ARIA (Allergic Rhinitis and its Impact on Asthma) guidelines classify by frequency and severity:
+- **Frequency**:
+  - *Intermittent*: Symptoms < 4 days/week OR < 4 consecutive weeks.
+  - *Persistent*: Symptoms ≥ 4 days/week AND ≥ 4 consecutive weeks.
+- **Severity**:
+  - *Mild*: Normal sleep, no impairment of daily activities/work/school, symptoms present but not troublesome.
+  - *Moderate-Severe*: One or more of: abnormal sleep, impairment of daily activities/work/school, troublesome symptoms.
 
-**Examiner's Pearl**: Common HK allergens: house dust mite (HDM), cockroach, cat/dog dander, mould
-**Answer**: 香港常見過敏原：塵蟎、蟑螂、貓/狗皮屑、黴菌
+## 3. Pathophysiology (病理生理學)
+- **Sensitization**: Initial exposure to an allergen (e.g., dust mite feces, pollen, animal dander) leads to the production of allergen-specific IgE antibodies, which bind to mast cells and basophils.
+- **Early-Phase Reaction (Minutes)**: Re-exposure causes cross-linking of IgE, leading to mast cell degranulation and release of preformed mediators, primarily **Histamine**. This causes immediate symptoms: sneezing, itching, rhinorrhea, and nasal congestion (via vasodilation and increased vascular permeability).
+- **Late-Phase Reaction (Hours)**: Infiltration of inflammatory cells (eosinophils, basophils, T-cells) driven by cytokines and leukotrienes. This sustains the inflammation and is primarily responsible for chronic **nasal congestion** and nasal hyperreactivity.
 
-**Examiner's Pearl**: First-line: intranasal corticosteroid (INCS) — mometasone, fluticasone; onset 3–7 days
-**Answer**: 一線治療：鼻內皮質類固醇（INCS）——莫米松、氟替卡松；起效3–7天
+## 4. Clinical Features (臨床特徵)
+- **Classic Symptoms**:
+  - Rhinorrhea (流鼻水 - clear, watery anterior discharge; postnasal drip).
+  - Sneezing (打噴嚏 - often in paroxysms).
+  - Nasal itching (鼻痕癢).
+  - Nasal congestion/obstruction (鼻塞 - often the most bothersome symptom).
+- **Associated Symptoms**:
+  - Ocular: Itchy, red, watery eyes (Allergic conjunctivitis).
+  - Palatal/Throat/Ear itching.
+  - Fatigue, poor sleep, snoring.
+- **Physical Examination Signs**:
+  - "Allergic shiners": Dark circles under the eyes (venous pooling).
+  - "Allergic salute": Transverse nasal crease from repetitive upward rubbing of the nose.
+  - Anterior rhinoscopy: Swollen, pale, bluish, or boggy nasal turbinates with clear secretions.
 
-**Examiner's Pearl**: Antihistamines: 2nd gen (cetirizine, loratadine, bilastine) non-sedating; for mild/PRN
-**Answer**: 抗組織胺：第二代（西替利嗪、氯雷他定、比拉斯汀）不鎮靜；適用於輕度/按需
+## 5. Diagnosis & Investigations (診斷與檢查)
+- Diagnosis is primarily clinical, based on a characteristic history of symptoms upon allergen exposure.
+- **Allergy Testing**: Not routinely required for diagnosis, but useful if the diagnosis is unclear, to identify specific triggers for avoidance, or before initiating allergen immunotherapy.
+  - **Skin Prick Testing (SPT)**: Gold standard. Fast, sensitive, and cost-effective. Must stop antihistamines for several days prior.
+  - **Serum Specific IgE (e.g., RAST/ImmunoCAP)**: Blood test. Useful if SPT cannot be performed (e.g., severe eczema, cannot stop antihistamines).
 
-**Examiner's Pearl**: Allergen immunotherapy (AIT): 3-year course; only disease-modifying treatment for AR
-**Answer**: 過敏原免疫治療（AIT）：3年療程；唯一改變AR疾病進程的治療
+## 6. Management (治療與管理)
+### 1. Allergen Avoidance (Environmental Control)
+- **House Dust Mites (Most common perennial trigger)**: Wash bedding in hot water (>60°C) weekly, use allergen-impermeable mattress/pillow covers, remove carpets, maintain humidity < 50%.
+- **Pets**: Keep pets out of the bedroom, wash pets regularly.
+- **Pollen**: Keep windows closed during high pollen seasons.
 
-**Examiner's Pearl**: Comorbidities: asthma (united airways — treat both), sinusitis, conjunctivitis, adenoidal hypertrophy
-**Answer**: 合併症：哮喘（統一氣道——同時治療）、鼻竇炎、結膜炎、腺樣體肥大
+### 2. Pharmacological Therapy
+Treatment is stepped up based on severity and frequency of symptoms.
+- **Intranasal Corticosteroids (INCS - 噴鼻式類固醇)**:
+  - *Efficacy*: **The most effective single maintenance therapy** for all symptoms of allergic rhinitis, especially nasal congestion. First-line for persistent or moderate-severe symptoms.
+  - *Examples*: Fluticasone (輔舒酮), Mometasone, Budesonide.
+  - *Counseling*: Must be used regularly (daily) for maximum effect; onset of action takes days to weeks. Teach correct technique (point away from the nasal septum to avoid epistaxis/perforation).
+- **Oral Antihistamines (口服抗組織胺)**:
+  - *Efficacy*: Good for sneezing, itching, and rhinorrhea, but **poor for nasal congestion**. First-line for mild, intermittent symptoms.
+  - *Choice*: Second-generation (e.g., Cetirizine, Loratadine, Fexofenadine) are preferred as they are less sedating and have fewer anticholinergic side effects than first-generation (e.g., Chlorpheniramine).
+- **Intranasal Antihistamines**:
+  - *Examples*: Azelastine, Olopatadine.
+  - *Efficacy*: Rapid onset of action (< 30 mins). Can be combined with INCS for severe cases.
+- **Leukotriene Receptor Antagonists (LTRA)**:
+  - *Example*: Montelukast (孟魯司特).
+  - *Use*: Alternative or add-on therapy. Particularly useful in patients with concomitant asthma.
+- **Decongestants (Oral or Topical)**:
+  - *Topical* (e.g., Oxymetazoline): Very effective for acute congestion, but **strictly limit use to < 3-5 days** to prevent rhinitis medicamentosa (severe rebound congestion).
+  - *Oral* (e.g., Pseudoephedrine): Avoid in hypertension, BPH, glaucoma.
+- **Nasal Saline Irrigation**: Safe, inexpensive adjunct to clear mucus and allergens.
 
-## Station 1 — Management Interview
-
-**Scenario**: Ms Lee, 22F, university student. Presents with chronic sneezing, runny nose, and itchy, watery eyes for the past 3 months. It is worse in the mornings and when she is in the library. It is affecting her concentration for upcoming exams. She has been using over-the-counter sedating antihistamines which make her too sleepy to study.
-
-### Section 1 — Assessment (20%): 4P + BATHE + ICE
-4P FRAMEWORK:
-- Predisposing: Atopic tendency (possible history of eczema or asthma).
-- Precipitating: Exposure to dust mites (worse in mornings/bed) or old books/dust in the library.
-- Perpetuating: Use of sedating antihistamines causing daytime somnolence, stress from exams.
-- Protective: Seeking medical help to find a non-sedating solution.
-
-BATHE (EXACT SCRIPTS):
-- Background: "You mentioned your nose and eyes have been bothering you for 3 months. How is this affecting your daily life and your studies?"
-- Affect: "How do you feel when you are trying to study but you can't stop sneezing and your eyes are watering?"
-- Trouble: "What is the most frustrating part? Is it the sneezing itself, or the sleepiness from the medication?"
-- Handling: "Besides the medication that makes you sleepy, how else have you tried to manage these symptoms?"
-- Empathy: "It must be incredibly stressful to be dealing with this right before your exams. It is hard enough to study without feeling sleepy and constantly blowing your nose."
-
-ICE (EXACT SCRIPTS):
-- Ideas: "What do you think is triggering these allergies, especially in the mornings and at the library?"
-- Concerns: "Are you worried that this will ruin your exam performance?"
-- Expectations: "What were you hoping I could prescribe today to help you study better?"
-
-### Section 2 — Problem Identification (10%)
-PHYSICAL:
-- Allergic Rhinitis (likely dust mite or environmental allergen).
-- Allergic Conjunctivitis.
-
-PSYCHOLOGICAL:
-- High stress and anxiety regarding upcoming university exams.
-
-SOCIAL:
-- Impaired academic performance due to symptoms and medication side effects.
-
-BARRIERS:
-- Reliance on inappropriate over-the-counter medication (first-generation antihistamines).
-- Lack of environmental control measures.
-
-### Section 3 — RAPRIOP Management (50%)
-REASSURE:
-"Your symptoms are classic for Allergic Rhinitis. The good news is we have excellent medications that will stop the sneezing and itching without making you sleepy at all, so you can focus on your exams."
-
-ADVICE (EXACT SCRIPTS):
-- "Your immune system is overreacting to harmless things like dust mites in your bed or dust in the library. This releases a chemical called histamine, which causes the itching and sneezing."
-- "To reduce dust mites, wash your bedsheets in hot water (above 60°C) every week. Try to keep your room well-ventilated and avoid fluffy carpets or stuffed animals on your bed."
-- "When you are in the library, try to avoid the dusty, older book sections if possible."
-
-PRESCRIBE:
-- "I will prescribe a Second-Generation Antihistamine tablet (e.g., Cetirizine or Loratadine). You take it once a day. It blocks the allergy but does NOT cross into your brain, so it will not make you sleepy."
-- "I will also prescribe a Steroid Nasal Spray (e.g., Fluticasone). This is the most effective treatment. It reduces the inflammation directly in your nose. It is very safe because very little gets into your body."
-- "I can also give you some anti-allergy eye drops for the itchy eyes."
-
-REFER:
-- Not required currently.
-
-INVESTIGATE:
-- Clinical diagnosis. No allergy testing (IgE/skin prick) needed at this stage unless symptoms are completely uncontrolled by medication.
-
-OBSERVE:
-- Monitor symptom control and impact on studies.
-
-PLAN:
-- Follow up in 2-4 weeks to see if the new medications are working and if you are able to study effectively.
-
-SAFETY NET:
-"If you develop a high fever, thick green discharge from one side of your nose, or severe facial pain, come back as you might have developed a sinus infection."
-
-### Section 4 — CIPS Communication Skills (20%)
-CHUNK AND CHECK:
-Explain how the steroid nasal spray works locally and safely, then ask, "Does it make sense why this nasal spray is safe to use every day, unlike the ones you buy over the counter for colds?"
-
-ICE:
-Directly address her concern about exam performance by explicitly prescribing non-sedating medications.
-
-PATIENT-CENTRED:
-"I know exams are stressful. Are you comfortable trying the nasal spray and the non-drowsy tablet starting today?"
-
-SIGNPOSTING:
-"First, let's talk about how to reduce the dust in your environment, and then we will discuss the medications that won't make you sleepy."
-
-## Station 3 — FM Primary Care Consultation
-
-**Scenario**: Patient presents with chronic sneezing, a runny nose, and itchy eyes for several months. It is worse in the mornings.
-
-### Find Reason (×0.5)
-OPEN QUESTION:
-"You mentioned having a lot of sneezing and itchy eyes. Can you tell me more about when this happens and how it affects you?"
-
-ACTIVE LISTENING:
-Allow the patient to describe their allergy symptoms without interrupting.
-
-### Define Problem + Systems Review (×2.5)
-ASSESS RHINITIS SYMPTOMS:
-- "Is your nose runny or blocked? What color is the mucus?" (Should be clear).
-- "Are your eyes itchy, red, or watery?"
-- "Do you have an itchy throat or ears?"
-- "Is it worse at any particular time of day, like when you wake up?"
-
-SCREEN FOR TRIGGERS:
-- "Do you have pets at home?"
-- "Is your home dusty or damp?"
-- "Does it get worse when you go outside during certain seasons?"
-
-SCREEN FOR ATOPY:
-- "Do you have a history of asthma or eczema?"
-
-SCREEN FOR RED FLAGS (SINUSITIS / POLYPS):
-- "Do you have any pain or pressure in your face?"
-- "Have you lost your sense of smell?"
-- "Is the discharge only coming from one side of your nose, or is it thick and green?"
-
-PHYSICAL EXAM:
-- Inspect nasal mucosa (looking for pale, boggy turbinates).
-- Check eyes for conjunctival injection.
-- Palpate sinuses for tenderness.
-
-### ICE (Ideas, Concerns, Expectations) (×0.5)
-IDEAS:
-"What do you think you are allergic to?"
-
-CONCERNS:
-"Are you worried about relying on medication long-term?"
-
-EXPECTATIONS:
-"What were you hoping I could prescribe to help you today?"
-
-### Diagnosis & Explanation (×0.5)
-DIAGNOSIS:
-"Based on your symptoms, you have Allergic Rhinitis, commonly known as hay fever or nasal allergies."
-
-EXPLANATION:
-"Your immune system is mistaking harmless things, like dust mites in your bed, for a threat. It releases chemicals that cause inflammation, making your nose run and your eyes itch."
-
-CHECK UNDERSTANDING:
-"Does that explanation make sense to you?"
-
-### Management + RICE (×1.0)
-REASSURE:
-"This is very common and we have excellent treatments that can control the symptoms completely."
-
-INVESTIGATE:
-"We do not need to do allergy blood tests right now. We usually try medication first to see if it controls the problem."
-
-PLAN:
-"I will prescribe a non-drowsy antihistamine tablet to take daily, and a steroid nasal spray. The nasal spray is the most important part—it reduces the inflammation directly in your nose."
-
-ADVICE:
-"Wash your bedsheets in hot water weekly to kill dust mites. Try to keep your windows closed if pollen is high. Use the nasal spray every day, not just when you feel bad."
-
-SAFETY NET:
-"If you get severe facial pain, a high fever, or thick green mucus, come back as it might be a sinus infection."
-
-## Station 4 — Records & Prescription: Allergic Rhinitis
-
-### Subjective (S)
-Alvin, 28M. 3/12 f/u persistent AR. 
-Nasal congestion, sneezing mornings worse. Sleep disrupted 3-4×/week.
-On INCS (mometasone × 6 weeks) — some improvement but still morning congestion.
-Asthma well-controlled (ACT 23/25). No eye symptoms. Work affected by congestion.
-
-### Objective (O)
-No allergic shiners, pale/boggy inferior turbinates bilaterally. Clear rhinorrhoea.
-Chest: clear, no wheeze. Peak flow 98% predicted.
-Skin prick test results: HDM 8mm wheal (positive), cockroach 5mm (positive).
-
-### Assessment (A)
-Persistent moderate-severe allergic rhinitis, HDM-sensitised. Partial response to INCS.
-Step up: add oral antihistamine. Discuss allergen immunotherapy candidacy.
-
-### Plan (P)
-1. Continue mometasone nasal spray, counsel on technique (spray toward ear not septum)
-2. Add bilastine 20mg OD (non-sedating — suitable for work)
-3. Saline nasal rinse daily (Sterimar or homemade: 1 tsp salt/500ml boiled water)
-4. HDM avoidance measures (written leaflet provided)
-5. Refer allergy clinic: discuss SLIT (Acarizax/Actair) — suitable candidate: young, HDM-monosensitised, persistent moderate-severe
-6. Review in 6 weeks
-
-### Prescription
-- **Drug**: Mometasone furoate
-- **Preparation**: Nasal spray 50 mcg/actuation
-- **Dose**: 100 mcg (2 sprays each nostril)
-- **Route**: Intranasal
-- **Frequency**: Once daily (morning)
-- **Duration**: 3 months (then review)
-- **Quantity**: 1 bottle (140 actuations)
-
-**Notes**: Spray toward outer wall of nose (not septum). Tilt head slightly forward. Prime pump before first use (10 actuations). Rinse nozzle after use. Full effect in 1–2 weeks.
-
-**Tips**:
-- Write number of sprays per nostril AND total dose (avoids confusion)
-- Specify "each nostril" explicitly — some candidates write ambiguous doses
-- INCS are first-line even in pregnant patients (budesonide preferred in pregnancy)
-- Document technique counselling in notes
-
+### 3. Allergen Immunotherapy (AIT - 脫敏治療)
+- The only disease-modifying treatment that can alter the natural course of the disease.
+- Involves administering increasing doses of the specific allergen (Subcutaneous SCIT or Sublingual SLIT) to induce immune tolerance.
+- Indicated for severe, persistent allergic rhinitis not controlled by optimal pharmacotherapy, or for patients who wish to avoid long-term medication. Requires a commitment of 3-5 years.

@@ -1,185 +1,72 @@
-# Adult Vaccination
+# Adult Vaccination (成人疫苗接種)
 
-## General
+## 1. Principles of Adult Vaccination (成人疫苗接種原則)
+- **Rationale**: Immunity from childhood vaccines can wane over time. Adults are at risk for different diseases based on age, occupation, lifestyle, travel, and underlying health conditions. Vaccination prevents significant morbidity, mortality, and healthcare costs.
+- **Types of Vaccines**:
+  - **Live Attenuated Vaccines**: Contain a weakened version of the living virus/bacteria. Elicit a strong, long-lasting immune response.
+    - *Examples*: MMR (Measles, Mumps, Rubella), Varicella (Chickenpox), Zostavax (older Shingles vaccine), Yellow Fever, Oral Polio.
+    - *Contraindications*: **Immunocompromised individuals** (e.g., HIV with low CD4, chemotherapy, high-dose steroids) and **Pregnant women** (due to theoretical risk to the fetus).
+  - **Inactivated/Recombinant/Subunit/mRNA Vaccines**: Contain killed pathogens or specific protein/genetic components. Cannot cause the disease.
+    - *Examples*: Influenza (injectable), Pneumococcal, Hepatitis A/B, Tdap, HPV, Shingrix (recombinant Shingles), COVID-19.
+    - *Safety*: Generally safe for immunocompromised and pregnant patients.
 
-**Examiner's Pearl**: Influenza: Annually for all >6 months, especially elderly, pregnant, chronic illness, healthcare workers.
-**Answer**: 流感：所有>6個月的人士每年接種，特別是長者、孕婦、慢性病患者、醫護人員。
+## 2. Routine Adult Vaccinations (Hong Kong Context) (常規成人疫苗)
 
-**Examiner's Pearl**: Pneumococcal: PCV15/20 or PCV13+PPSV23 for elderly ≥65 or high-risk individuals.
-**Answer**: 肺炎球菌：≥65歲長者或高危人士接種PCV15/20或PCV13+PPSV23。
+### A. Seasonal Influenza Vaccine (季節性流感疫苗)
+- **Recommendation**: Annual vaccination for **ALL individuals aged ≥ 6 months**, unless contraindicated.
+- **High-Priority Groups (Government Subsidized/Free in HK)**:
+  - Elderly (≥ 50 years).
+  - Children (6 months to < 18 years).
+  - Pregnant women (safe in all trimesters, protects mother and provides passive immunity to infant).
+  - Healthcare workers.
+  - Individuals with chronic medical conditions (e.g., asthma, COPD, diabetes, heart disease, immunocompromised).
+- **Timing**: Usually administered in Autumn (Oct/Nov) before the winter peak season.
 
-**Examiner's Pearl**: Herpes Zoster (Shingles): Recombinant zoster vaccine (Shingrix) preferred, 2 doses for ≥50 years.
-**Answer**: 帶狀疱疹（生蛇）：首選重組帶狀疱疹疫苗（Shingrix），≥50歲接種2劑。
+### B. Pneumococcal Vaccine (肺炎球菌疫苗)
+- **Target Disease**: *Streptococcus pneumoniae* (causes pneumonia, meningitis, bacteremia).
+- **Types**:
+  - **PCV13 / PCV15 / PCV20 (Pneumococcal Conjugate Vaccine)**: Induces a T-cell dependent response, creating mucosal immunity and immunological memory.
+  - **PPSV23 (Pneumococcal Polysaccharide Vaccine)**: Covers more serotypes but induces a T-cell independent response (no memory, efficacy wanes).
+- **Recommendations (HK CHP Guidelines for High-Risk Adults)**:
+  - High-risk conditions include: History of invasive pneumococcal disease, immunocompromised states (HIV, asplenia, chronic renal failure, cancer), and chronic illnesses (cardiac, pulmonary, liver disease, diabetes).
+  - **Standard Regimen for High-Risk**: One dose of PCV15 (or PCV13), followed by one dose of PPSV23 one year later. (If PPSV23 was given first, wait 1 year before giving PCV15).
+  - **Elderly (≥ 65 years) without high-risk conditions**: Government provides one dose of PPSV23 (or PCV15/13 if preferred by patient/doctor).
 
-**Examiner's Pearl**: HPV: For females and males, ideally before sexual debut. Catch-up available.
-**Answer**: HPV：適用於女性和男性，最好在首次性行為前接種。可補種。
+### C. Herpes Zoster (Shingles) Vaccine (帶狀疱疹疫苗)
+- **Recommendation**: Recommended for adults **≥ 50 years old** to prevent shingles and postherpetic neuralgia (PHN).
+- **Vaccine of Choice**: **Shingrix (Recombinant Zoster Vaccine - RZV)**.
+  - Two doses, 2-6 months apart.
+  - Highly efficacious (>90%).
+  - **Safe for immunocompromised patients** (as it is not a live virus).
+  - Recommended even if the patient has had a prior episode of shingles or previously received the older Zostavax vaccine.
 
-## Station 1 — Management Interview
+### D. Human Papillomavirus (HPV) Vaccine (人類乳頭瘤病毒疫苗)
+- **Target Disease**: Cervical cancer, anogenital cancers, oropharyngeal cancer, and genital warts.
+- **Vaccine**: 9-valent HPV vaccine (Gardasil 9).
+- **Recommendations**:
+  - Routine vaccination for girls and boys at age 11-12 (part of HK Childhood Immunisation Programme for girls).
+  - **Catch-up vaccination**: Recommended for females and males up to age 26 if not adequately vaccinated.
+  - Adults aged 27-45: Shared clinical decision-making based on risk of new HPV exposure.
+  - *Note*: Most effective if given before the onset of sexual activity, but still provides benefit afterward.
 
-**Scenario**: A 65-year-old man with a history of COPD comes in for a routine check-up. He asks if he needs any vaccinations for the upcoming winter.
+### E. Tetanus, Diphtheria, Pertussis (Tdap / Td) (破傷風、白喉、百日咳)
+- **Recommendation**:
+  - All adults should receive a Tdap booster if they did not receive one as an adolescent.
+  - **Pregnancy**: A Tdap dose is recommended during **EVERY pregnancy** (ideally between 27-36 weeks gestation) to maximize maternal antibody transfer to the fetus, protecting the infant from pertussis before they are old enough to be vaccinated.
+  - Wound management: Td booster if > 5 years since last dose for dirty wounds, or > 10 years for clean wounds.
 
-### Section 1 — Assessment (20%): 4P + BATHE + ICE
-PHYSICAL (4P):
-- Presenting complaint: Inquiry about adult vaccinations.
-- Precipitating factors: Upcoming winter, age (65), underlying COPD.
-- Pattern: Preventive care.
-- Palliation/Provocation: N/A.
+### F. Hepatitis B Vaccine (乙型肝炎疫苗)
+- **Recommendation**: Routine for all infants. Catch-up for unvaccinated adults at risk:
+  - Healthcare workers.
+  - Household contacts/sexual partners of HBsAg-positive persons.
+  - Patients with chronic liver disease, HIV, or on hemodialysis.
+  - Men who have sex with men (MSM), persons with multiple sexual partners.
+- **Screening**: Check HBsAg, Anti-HBs, and Anti-HBc before vaccinating adults to ensure they are not already infected or immune.
 
-BATHE:
-- Background: "You're here for a routine check-up and asked about vaccines. How has your COPD been lately?"
-- Affect: "How do you feel about getting vaccinations?"
-- Trouble: "Is there anything specific worrying you about the upcoming winter?"
-- Handling: "Have you had the flu or pneumonia vaccines in the past?"
-- Empathy: "It's great that you are being proactive about protecting your health, especially with your COPD."
-
-ICE:
-- Ideas: "Which vaccines were you thinking you might need?"
-- Concerns: "Are you worried about any side effects from the vaccines?"
-- Expectations: "Were you hoping to get the vaccines today if they are recommended?"
-
-### Section 2 — Problem Identification (10%)
-PHYSICAL:
-- High-risk patient (age ≥65, COPD) requiring immunization against Influenza, Pneumococcus, and potentially COVID-19 and Herpes Zoster.
-
-PSYCHOLOGICAL:
-- Proactive health-seeking behavior, potential minor anxiety about side effects.
-
-SOCIAL:
-- Need to prevent severe respiratory illnesses that could lead to hospitalization.
-
-BARRIERS:
-- Vaccine hesitancy or misconceptions about vaccine safety.
-
-### Section 3 — RAPRIOP Management (50%)
-REASSURE:
-"Because you are 65 and have COPD, getting vaccinated is one of the best things you can do to protect your lungs and stay out of the hospital this winter."
-
-ADVICE (EXACT SCRIPTS):
-- "I strongly recommend the seasonal Influenza (flu) vaccine. You should get this every year."
-- "You also need the Pneumococcal vaccine to protect against severe bacterial pneumonia. There are two types (PCV15/20 and PPSV23), and we will check your records to see which one you need."
-- "We should also ensure your COVID-19 boosters are up to date."
-- "Have you considered the Shingles (Herpes Zoster) vaccine? It is recommended for adults over 50 to prevent a painful rash."
-
-PRESCRIBE:
-- Administer or prescribe the recommended vaccines (Influenza, Pneumococcal) after checking for contraindications (e.g., severe allergies).
-
-REFER:
-- Not needed unless there is a complex immunological issue.
-
-INVESTIGATE:
-- Review vaccination records (e.g., eHealth).
-
-OBSERVE:
-- Observe for 15 minutes post-vaccination for any immediate allergic reactions.
-
-PLAN:
-- Schedule a follow-up if multiple doses are needed (e.g., Shingles vaccine requires 2 doses).
-
-### Section 4 — CIPS Communication Skills (20%)
-CHUNK AND CHECK:
-Explain the different vaccines recommended, then ask: "Just to make sure I explained it clearly, which vaccines are we planning to give you today?"
-
-ICE:
-Directly address his proactive question by providing clear, tailored recommendations based on his age and medical history.
-
-PATIENT-CENTRED:
-"I know getting multiple shots can make your arm sore. We can do them today, or spread them out over a couple of visits if you prefer."
-
-SIGNPOSTING:
-"First, let's review your vaccination records, and then we will discuss which vaccines are most important for you right now."
-
-## Station 3 — FM Primary Care Consultation
-
-**Scenario**: A 65-year-old man with a history of COPD comes in for a routine check-up. He asks if he needs any vaccinations for the upcoming winter.
-
-### Find Reason (×0.5)
-OPEN QUESTION:
-"You asked about vaccinations for the winter. What made you think about getting vaccinated today?"
-
-ACTIVE LISTENING:
-Listen for his understanding of his risk factors (age, COPD) and any specific concerns about winter illnesses.
-
-### Define Problem + Systems Review (×2.5)
-ASSESS VACCINATION HISTORY:
-- "Have you ever had the flu vaccine before? Did you have any bad reactions?"
-- "Have you ever had a vaccination against pneumonia?"
-- "Are your COVID-19 vaccinations up to date?"
-
-SCREEN FOR CONTRAINDICATIONS:
-- "Are you currently feeling unwell or do you have a fever today?"
-- "Have you ever had a severe allergic reaction (anaphylaxis) to any vaccine or egg products?"
-- "Do you have any conditions that weaken your immune system, or are you taking steroids or chemotherapy?"
-
-ASSESS COPD STATUS:
-- "How has your breathing been lately? Have you had any recent flare-ups or needed antibiotics?"
-
-PHYSICAL EXAM:
-- Check temperature to ensure no acute febrile illness.
-- Brief chest auscultation to assess baseline COPD status.
-
-### ICE (Ideas, Concerns, Expectations) (×0.5)
-IDEAS:
-"Which vaccines were you thinking you might need?"
-
-CONCERNS:
-"Are you worried about any side effects from the vaccines?"
-
-EXPECTATIONS:
-"Were you hoping to get the vaccines today if they are recommended?"
-
-### Diagnosis & Explanation (×0.5)
-DIAGNOSIS:
-"Because you are over 65 and have COPD, you are at a higher risk of getting severe complications from respiratory infections like the flu and pneumonia."
-
-EXPLANATION:
-"Vaccines work by showing your immune system a harmless part of the virus or bacteria. This trains your body to fight off the real infection if you are exposed to it later, keeping your lungs safe."
-
-CHECK UNDERSTANDING:
-"Does this make sense to you?"
-
-### Management + RICE (×1.0)
-REASSURE:
-"The vaccines are very safe and are the best way to protect yourself."
-
-PLAN:
-"I recommend we give you the seasonal flu vaccine and the pneumococcal vaccine today. We can also discuss the shingles vaccine for a future visit."
-
-ADVICE:
-"It's normal to have a sore arm or feel a bit tired or achy for a day or two after the injections. You can take Paracetamol if needed."
-
-SAFETY NET:
-"If you develop a high fever, a severe rash, or have any difficulty breathing after you leave, please seek medical attention immediately."
-
-## Station 4 — Medical Record + Prescription Writing
-
-### Subjective (S)
-Mr David Smith (M/66), retired, attends clinic for a routine health check and asks about vaccinations. He has hypertension and type 2 diabetes (well-controlled). He received the seasonal influenza vaccine 1 month ago. He has never received a pneumococcal vaccine or shingles vaccine. No history of severe allergic reactions to vaccines. NKDA.
-
-### Objective (O)
-Vitals: BP 130/80 mmHg, HR 72 bpm, afebrile.
-General: Well-looking, no signs of acute illness.
-Chest: Clear, no wheeze or crackles.
-
-### Assessment (A)
-PRIMARY DIAGNOSIS: Health maintenance / Adult Vaccination counseling.
-Evidence: Age > 65, chronic medical conditions (DM), eligible for pneumococcal and herpes zoster vaccination.
-
-### Plan (P)
-1. COUNSELING (Pneumococcal): Explained the risk of invasive pneumococcal disease. Recommended the 15-valent pneumococcal conjugate vaccine (PCV15) followed by the 23-valent pneumococcal polysaccharide vaccine (PPSV23) one year later (or a single dose of PCV20 if available/preferred). Patient agreed to PCV15 today.
-2. COUNSELING (Herpes Zoster): Discussed the risk of shingles and post-herpetic neuralgia. Recommended the recombinant zoster vaccine (RZV, Shingrix) - 2 doses, 2-6 months apart. Patient wishes to consider and return next time.
-3. ADMINISTRATION: Administered PCV15 0.5mL IM into the left deltoid after obtaining verbal consent. Observed for 15 minutes post-vaccination; no adverse reactions.
-4. FOLLOW-UP: Scheduled appointment in 1 year for PPSV23, and advised he can book for the Shingles vaccine anytime.
-
-### Prescription
-- **Drug**: 15-valent Pneumococcal Conjugate Vaccine (PCV15)
-- **Preparation**: Pre-filled syringe
-- **Dose**: 0.5 mL
-- **Route**: Intramuscular (IM)
-- **Frequency**: Single dose
-- **Duration**: Stat
-- **Quantity**: 1 dose
-
-**Tips**:
-- Specify the exact type of vaccine (e.g., PCV15)
-- Specify Intramuscular (IM) route
-
+## 3. Vaccinations in Special Populations (特殊人群)
+- **Pregnancy**:
+  - **Recommended**: Influenza (any trimester), Tdap (every pregnancy, 3rd trimester), COVID-19.
+  - **Contraindicated**: ALL live vaccines (MMR, Varicella). If a woman is non-immune to Rubella, vaccinate *postpartum*.
+- **Asplenia (e.g., post-splenectomy, sickle cell disease)**:
+  - High risk for overwhelming post-splenectomy infection (OPSI) from encapsulated bacteria.
+  - **Crucial Vaccines**: Pneumococcal (PCV15 + PPSV23), Meningococcal (MenACWY and MenB), and Haemophilus influenzae type b (Hib).

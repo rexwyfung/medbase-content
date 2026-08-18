@@ -1,171 +1,70 @@
-# Swallowing & Nutrition
+# Swallowing Difficulties (Dysphagia) (吞嚥困難)
 
-## General
+## 1. Definition & Classification (定義與分類)
+- **Definition**: Difficulty in moving food or liquid from the mouth to the stomach. It is a symptom of an underlying disease, not a diagnosis itself.
+- **Odynophagia**: Painful swallowing (often implies mucosal inflammation/ulceration, e.g., severe esophagitis).
+- **Classification**: Dysphagia is broadly divided into two anatomical/functional categories:
+  1. **Oropharyngeal Dysphagia (Transfer Dysphagia)**: Difficulty initiating a swallow. The problem lies in the mouth, pharynx, or upper esophageal sphincter.
+  2. **Esophageal Dysphagia**: Difficulty passing food down the esophagus after a successful swallow. Often described as food "getting stuck" in the chest.
 
-## Station 1 — Management Interview
+## 2. Oropharyngeal Dysphagia (口咽性吞嚥困難)
+- **Pathophysiology**: Usually due to neuromuscular dysfunction affecting the coordination of the tongue, pharynx, and larynx.
+- **Clinical Features**:
+  - Difficulty initiating the swallow.
+  - **Coughing, choking, or spluttering immediately upon swallowing**.
+  - Nasal regurgitation (food/liquid coming out of the nose).
+  - Drooling, poor bolus formation.
+  - Dysarthria (slurred speech) or a "wet/gurgly" voice after swallowing.
+- **Etiology**:
+  - **Neurological (Most common)**: **Stroke (CVA)**, Parkinson's disease, Dementia, Multiple Sclerosis, Amyotrophic Lateral Sclerosis (ALS), Myasthenia Gravis.
+  - **Structural**: Head and neck cancers (e.g., pharyngeal carcinoma), Zenker's diverticulum (a pouch in the upper esophagus causing regurgitation of undigested food and halitosis), severe cervical osteophytes.
 
-**Scenario**: An 82-year-old man with advanced Parkinson's disease is brought in by his helper. He has been coughing frequently during meals and has had two episodes of chest infections in the past 6 months. He has lost weight.
+## 3. Esophageal Dysphagia (食道性吞嚥困難)
+- **Pathophysiology**: Due to mechanical obstruction or motility disorders of the esophagus.
+- **Clinical Features**:
+  - Sensation of food sticking in the lower neck or retrosternal area *after* swallowing has been initiated.
+  - May be accompanied by regurgitation of undigested food, heartburn, or weight loss.
+- **Etiology - Mechanical Obstruction (Dysphagia primarily to SOLIDS)**:
+  - **Esophageal Cancer**: Progressive dysphagia (solids first, then liquids), significant weight loss, older age. **Red flag.**
+  - **Peptic Stricture**: Narrowing due to chronic acid reflux (GERD). History of long-standing heartburn.
+  - **Eosinophilic Esophagitis (EoE)**: Allergic inflammation of the esophagus. Common in young men with a history of atopy (asthma, eczema). Often presents with sudden food impaction.
+  - **Esophageal Web/Ring**: e.g., Schatzki ring.
+- **Etiology - Motility Disorders (Dysphagia to BOTH SOLIDS AND LIQUIDS from the onset)**:
+  - **Achalasia**: Failure of the lower esophageal sphincter (LES) to relax and absent esophageal peristalsis. Presents with dysphagia to solids and liquids, regurgitation, and chest pain. "Bird's beak" appearance on barium swallow.
+  - **Esophageal Spasm**: Uncoordinated contractions. Presents with dysphagia and severe, non-cardiac chest pain.
+  - **Scleroderma**: Fibrosis of the lower esophagus leading to absent peristalsis and severe GERD.
 
-### Section 1 — Assessment (20%): 4P + BATHE + ICE
-PHYSICAL (4P):
-- Presenting complaint: Coughing during meals, recurrent chest infections, weight loss.
-- Precipitating factors: Advanced Parkinson's disease causing dysphagia.
-- Pattern: Progressive worsening.
-- Palliation/Provocation: Eating/drinking provokes coughing.
+## 4. Assessment & Red Flags (評估與紅旗症狀)
+- **History**:
+  - Differentiate Oropharyngeal vs. Esophageal (coughing/choking vs. food sticking).
+  - Differentiate Solids vs. Liquids (mechanical vs. motility).
+  - Progression: Is it intermittent or progressively worsening?
+- **Red Flags (Require urgent investigation, usually Endoscopy)**:
+  - **Progressive dysphagia**.
+  - **Unintentional weight loss**.
+  - **Hematemesis or Melena** (GI bleeding).
+  - **Iron deficiency anemia**.
+  - **Age > 50 years with new onset symptoms**.
+  - **Hoarseness** (suggests recurrent laryngeal nerve involvement by a tumor).
 
-BATHE (Address patient and helper):
-- Background: "I hear you've been coughing a lot when you eat. How long has this been happening?"
-- Affect: "How does it feel to have trouble eating your meals?"
-- Trouble: "What is the most difficult part of meal times now?"
-- Handling: "Have you tried changing the type of food you eat to make it easier?"
-- Empathy: "It must be very frustrating and scary to cough so much when you are just trying to eat."
+## 5. Investigations (檢查)
+- **For Oropharyngeal Dysphagia**:
+  - **Videofluoroscopic Swallowing Study (VFSS) / Modified Barium Swallow**: The gold standard. A speech therapist and radiologist observe the patient swallowing barium-coated foods of different consistencies under X-ray. It identifies aspiration and guides dietary modifications.
+  - **Fiberoptic Endoscopic Evaluation of Swallowing (FEES)**: An endoscope is passed through the nose to visualize the pharynx and larynx during swallowing.
+- **For Esophageal Dysphagia**:
+  - **Upper GI Endoscopy (OGD - 胃鏡)**: The investigation of choice for suspected mechanical obstruction. Allows direct visualization, biopsy of tumors, and therapeutic dilation of strictures.
+  - **Barium Swallow**: Useful for identifying motility disorders (like Achalasia), strictures, or Zenker's diverticulum before endoscopy.
+  - **Esophageal Manometry**: The gold standard for diagnosing motility disorders (e.g., Achalasia, Esophageal spasm) by measuring pressures within the esophagus.
 
-ICE:
-- Ideas: "Why do you think you are coughing when you swallow?"
-- Concerns: "Are you worried about getting another chest infection or losing more weight?"
-- Expectations: "What were you hoping we could do today to make eating safer and easier?"
-
-### Section 2 — Problem Identification (10%)
-PHYSICAL:
-- Dysphagia secondary to advanced Parkinson's disease. High risk of aspiration pneumonia (evidenced by recurrent chest infections) and malnutrition (weight loss).
-
-PSYCHOLOGICAL:
-- Distress and anxiety during meal times.
-
-SOCIAL:
-- Caregiver burden for the helper.
-
-BARRIERS:
-- Progressive nature of the underlying neurological disease.
-
-### Section 3 — RAPRIOP Management (50%)
-REASSURE:
-"The coughing is happening because your Parkinson's disease is affecting the muscles in your throat. We have specialists who can help find the safest consistency of food and drink for you."
-
-ADVICE (EXACT SCRIPTS):
-- "When you eat, make sure you are sitting completely upright. Do not eat while lying down."
-- "Take small bites and eat slowly. Make sure you have swallowed completely before taking the next bite."
-- "We may need to add thickener to your drinks, as thin liquids like water are often the hardest to swallow safely."
-
-PRESCRIBE:
-- Optimize Parkinson's disease medications (e.g., Levodopa) to ensure best possible motor function during meals.
-- Prescribe nutritional supplements if indicated for weight loss.
-
-REFER:
-- URGENT referral to Speech and Language Therapist (ST) for a formal swallowing assessment.
-- Refer to Dietitian for nutritional optimization.
-
-INVESTIGATE:
-- Chest X-ray to check for current aspiration pneumonia.
-- Blood tests (FBC, Renal function, Albumin) to assess nutritional status and infection.
-
-OBSERVE:
-- Monitor weight, chest symptoms, and ability to tolerate modified diet.
-
-PLAN:
-- Review in 1-2 weeks after the Speech Therapist assessment to discuss their recommendations.
-
-### Section 4 — CIPS Communication Skills (20%)
-CHUNK AND CHECK:
-Explain the feeding advice to the helper and patient, then ask: "Just to make sure I explained it clearly, what position should he be in when he is eating?"
-
-ICE:
-Address the concern about chest infections by explaining the link between the coughing (aspiration) and the infections, and how the Speech Therapist will help prevent this.
-
-PATIENT-CENTRED:
-Ensure the patient is included in the discussion, even if the helper is providing the history. "I know this is difficult for you, and we want to make eating enjoyable and safe again."
-
-SIGNPOSTING:
-"First, let's talk about how to make eating safer right now, and then we will discuss the referrals to the specialists."
-
-## Station 3 — FM Primary Care Consultation
-
-**Scenario**: An 82-year-old man with advanced Parkinson's disease is brought in by his helper. He has been coughing frequently during meals and has had two episodes of chest infections in the past 6 months. He has lost weight.
-
-### Find Reason (×0.5)
-OPEN QUESTION:
-"I see you are here because of coughing during meals and some recent chest infections. Can you and your helper tell me more about what happens when you eat?"
-
-ACTIVE LISTENING:
-Listen for signs of aspiration (coughing, choking, wet voice) and the impact on his nutrition (weight loss).
-
-### Define Problem + Systems Review (×2.5)
-ASSESS DYSPHAGIA (Swallowing difficulty):
-- "Does he cough more with liquids (like water or soup) or with solid foods?" (Neurological dysphagia often worse with liquids).
-- "Does his voice sound 'wet' or gurgly after he drinks?"
-- "Does he ever feel like food gets stuck in his throat?"
-
-ASSESS COMPLICATIONS:
-- "Has he had a fever, shortness of breath, or been coughing up green phlegm recently?" (Signs of active aspiration pneumonia).
-- "How much weight has he lost, and over what time period?"
-
-REVIEW PARKINSON'S STATUS:
-- "Are his Parkinson's symptoms (tremor, stiffness) well controlled? Does he take his medication before meals?"
-
-PHYSICAL EXAM:
-- Check vital signs (temperature, respiratory rate, oxygen saturation).
-- Auscultate the chest for crepitations (signs of pneumonia).
-- Brief neurological exam focusing on bulbar function (speech, tongue movement, gag reflex if appropriate).
-
-### ICE (Ideas, Concerns, Expectations) (×0.5)
-IDEAS:
-"Why do you think you are coughing when you swallow?"
-
-CONCERNS:
-"Are you worried about getting another chest infection or losing more weight?"
-
-EXPECTATIONS:
-"What were you hoping we could do today to make eating safer and easier?"
-
-### Diagnosis & Explanation (×0.5)
-DIAGNOSIS:
-"Because of your Parkinson's disease, the muscles that control swallowing are not working properly. This is causing food and drink to go down the wrong pipe into your lungs, instead of your stomach."
-
-EXPLANATION:
-"When food or liquid enters the lungs, it causes you to cough. If bacteria get into the lungs this way, it causes the chest infections you've been having, which we call aspiration pneumonia."
-
-CHECK UNDERSTANDING:
-"Does it make sense why the swallowing problem is causing the chest infections?"
-
-### Management + RICE (×1.0)
-REASSURE:
-"We have specialists who can assess exactly what is going wrong and recommend the safest way for you to eat and drink."
-
-PLAN:
-"I am referring you urgently to a Speech Therapist. They might recommend adding a special powder to thicken your drinks. I will also arrange a chest X-ray today to check your lungs."
-
-ADVICE:
-"Until you see the therapist, please sit completely upright when eating. Eat slowly, take small bites, and do not talk while chewing or swallowing."
-
-SAFETY NET:
-"If you develop a fever, start breathing heavily, or feel very unwell, you must go to the A&E immediately, as this could be another serious chest infection."
-
-## Station 4 — Medical Record + Prescription
-
-### Subjective (S)
-Patient presents with symptoms of Swallowing & Nutrition.
-
-### Objective (O)
-Vitals stable. Physical examination findings consistent with Swallowing & Nutrition.
-
-### Assessment (A)
-Primary Diagnosis: Swallowing & Nutrition
-
-### Plan (P)
-1. Start appropriate medication.
-2. Lifestyle advice.
-3. Follow-up in 4 weeks.
-
-### Prescription
-- **Drug**: Standard Medication for Swallowing & Nutrition
-- **Preparation**: Tablets
-- **Dose**: Standard dose
-- **Route**: Oral
-- **Frequency**: Daily
-- **Duration**: 28 days
-- **Quantity**: 28 tablets
-
-**Tips**:
-- Write clearly
-- Specify route
-
+## 6. Management & Complications (治療與管理)
+- **Complications**: The most serious complication of oropharyngeal dysphagia is **Aspiration Pneumonia** (food/liquid entering the lungs). Malnutrition and dehydration are also major risks.
+- **Management of Oropharyngeal Dysphagia**:
+  - **Speech and Language Therapy (SALT)**: Crucial for assessment and management.
+  - **Dietary Modification**: Thickening liquids (to prevent them from spilling into the airway too quickly) and modifying solid food textures (pureed, minced).
+  - **Postural Adjustments**: "Chin tuck" maneuver during swallowing to protect the airway.
+  - **Enteral Feeding**: If oral feeding is unsafe (high risk of aspiration) or inadequate, a Nasogastric (NG) tube or Percutaneous Endoscopic Gastrostomy (PEG) tube may be required.
+- **Management of Esophageal Dysphagia**:
+  - *Esophageal Cancer*: Surgery, chemotherapy, radiotherapy, or palliative stenting.
+  - *Peptic Stricture*: Endoscopic balloon dilation and high-dose PPI therapy.
+  - *Achalasia*: Endoscopic pneumatic dilation, surgical myotomy (Heller myotomy), or Botulinum toxin injection into the LES.
+  - *Eosinophilic Esophagitis*: Topical swallowed corticosteroids (e.g., Fluticasone), dietary elimination therapy, endoscopic dilation if strictures are present.

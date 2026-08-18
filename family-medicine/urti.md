@@ -1,232 +1,60 @@
-# Upper Respiratory Tract Infection (URTI)
+# Upper Respiratory Tract Infection (URTI) (上呼吸道感染)
 
-## General
+## 1. Definition & Epidemiology (定義與流行病學)
+- **Definition**: Acute infection involving the upper respiratory tract, including the nose, sinuses, pharynx, or larynx. Common terms include the "common cold" (coryza), pharyngitis, tonsillitis, and sinusitis.
+- **Epidemiology**: The most common acute illness in the outpatient setting. Adults average 2-4 episodes per year; children average 6-8 episodes. Incidence peaks in winter.
 
-**Examiner's Pearl**: Aetiology: viral in >90% (rhinovirus, influenza, RSV, adenovirus) — antibiotics NOT indicated for most
-**Answer**: 病因：>90%為病毒性（鼻病毒、流感、RSV、腺病毒）——大多數不適合用抗生素
+## 2. Etiology (病因)
+- **Viral (Majority, >80%)**: Rhinovirus (most common), Coronavirus, Adenovirus, Influenza virus, Parainfluenza virus, Respiratory Syncytial Virus (RSV).
+- **Bacterial (Minority)**: Group A Beta-Hemolytic Streptococcus (GABHS / *Streptococcus pyogenes*) is the most important bacterial cause of pharyngitis/tonsillitis due to the risk of complications. Other bacteria (*S. pneumoniae*, *H. influenzae*, *M. catarrhalis*) can cause acute otitis media or acute bacterial rhinosinusitis.
 
-**Examiner's Pearl**: Centor Score (for bacterial pharyngitis/strep throat): 1 point each for Exudate, Lymphadenopathy (tender cervical), Absence of cough, Temperature >38°C. Score 0-1: no antibiotics; 2-3: consider swab/antibiotics; 4: antibiotics
-**Answer**: Centor評分（細菌性咽炎/鏈球菌咽喉）：以下各得1分：滲出液、頸部淋巴結腫痛、無咳嗽、體溫>38°C。0-1分：不需要抗生素；2-3分：考慮咽拭子/抗生素；4分：抗生素
+## 3. Clinical Features (臨床特徵)
+Symptoms vary depending on the specific anatomical site involved:
+- **Common Cold (Coryza)**: Nasal congestion, rhinorrhea (clear, purulent, or green - color does *not* reliably distinguish viral from bacterial), sneezing, sore throat, mild cough, low-grade fever, malaise.
+- **Pharyngitis / Tonsillitis**: Sore throat, odynophagia (painful swallowing), fever, enlarged/exudative tonsils, tender cervical lymphadenopathy.
+- **Rhinosinusitis**: Facial pain/pressure (worse on bending forward), nasal congestion, purulent nasal discharge, anosmia/hyposmia.
+- **Laryngitis**: Hoarseness, loss of voice, dry cough.
 
-**Examiner's Pearl**: If antibiotics needed (Centor ≥3-4 with high clinical suspicion of GAS): Phenoxymethylpenicillin (penicillin V) 500mg QDS × 10 days OR Amoxicillin 500mg TDS × 7 days. If penicillin allergic: Clarithromycin 500mg BD × 5 days
-**Answer**: 若需要抗生素（Centor ≥3-4，高度臨床懷疑A組鏈球菌）：苯氧甲基青黴素500mg每日四次×10天或阿莫西林500mg每日三次×7天。青黴素過敏：克拉黴素500mg每日兩次×5天
+## 4. Assessment & Diagnosis (評估與診斷)
+Diagnosis is primarily clinical. The key challenge is differentiating viral from bacterial infections to avoid unnecessary antibiotic use.
 
-**Examiner's Pearl**: Complications of GAS: suppurative (quinsy/peritonsillar abscess, otitis media) and non-suppurative (rheumatic fever, post-strep GN) — RARE but justify treatment
-**Answer**: A組鏈球菌並發症：化膿性（扁桃體周膿腫、中耳炎）和非化膿性（風濕熱、鏈球菌後腎小球腎炎）——罕見但是治療理由
+### Differentiating Viral vs. Bacterial Pharyngitis (Centor Criteria)
+Used to estimate the probability that pharyngitis is streptococcal (GABHS), guiding testing and treatment.
+- **Criteria (1 point each)**:
+  1. Fever (History or >38.0°C).
+  2. Tonsillar exudates or swelling.
+  3. Tender anterior cervical lymphadenopathy.
+  4. Absence of cough.
+- **Scoring & Action**:
+  - 0-1 points: Very low risk of GABHS. No testing, no antibiotics.
+  - 2-3 points: Moderate risk. Consider Rapid Antigen Detection Test (RADT) or throat culture. Treat if positive.
+  - 4 points: High risk. Consider empirical antibiotics or test and treat.
 
-**Examiner's Pearl**: Symptomatic treatment: paracetamol/NSAIDs (fever/pain), adequate hydration, steam inhalation, saline nasal rinse, throat lozenges
-**Answer**: 對症治療：對乙酰氨基酚/非甾體抗炎藥（發燒/疼痛）、充足水分、蒸汽吸入、生理鹽水鼻腔沖洗、喉糖
+### Red Flags (Complications requiring urgent referral)
+- **Peritonsillar Abscess (Quinsy)**: Severe unilateral throat pain, trismus (difficulty opening mouth), "hot potato" voice, uvular deviation.
+- **Epiglottitis**: Drooling, stridor, tripod position, severe respiratory distress. (Do not examine throat if suspected in children).
+- **Pneumonia**: High fever, tachypnea, focal chest signs (crackles, bronchial breathing), pleuritic chest pain.
 
-**Examiner's Pearl**: Antibiotic stewardship: do NOT prescribe antibiotics for viral URTI — delayed prescription strategy is appropriate if patient insists (fill only if not improving in 48-72h)
-**Answer**: 抗生素管理：不要對病毒性上呼吸道感染處方抗生素——若患者堅持，延遲處方策略是適當的（僅在48-72小時未改善時填寫）
+## 5. Management (治療與管理)
+### Symptomatic Relief (First-line for all URTIs)
+- **Analgesics/Antipyretics**: Paracetamol or NSAIDs (e.g., Ibuprofen) for fever, sore throat, and myalgia.
+- **Decongestants**: Oral (Pseudoephedrine) or topical (Xylometazoline nasal spray - use for max 3-5 days to avoid rhinitis medicamentosa/rebound congestion).
+- **Antihistamines**: First-generation (e.g., Chlorpheniramine) may help with rhinorrhea and sneezing (often combined with decongestants).
+- **Cough Suppressants / Expectorants**: Dextromethorphan (suppressant), Guaifenesin (expectorant). Evidence for efficacy is weak, but often used for symptomatic relief. Honey (in children >1 year) is effective for nocturnal cough.
+- **Throat Lozenges / Sprays**: Containing local anesthetics (e.g., Benzocaine) or antiseptics.
 
-## Station 1 — Management Interview
+### Antibiotic Therapy (Only when indicated)
+**DO NOT prescribe antibiotics for the common cold.**
+- **Streptococcal Pharyngitis/Tonsillitis** (Confirmed or high Centor score):
+  - *Goal*: Prevent acute rheumatic fever and suppurative complications (abscess).
+  - *First-line*: Penicillin V (Phenoxymethylpenicillin) for 10 days, or Amoxicillin.
+  - *Penicillin allergy*: Macrolides (e.g., Azithromycin, Clarithromycin).
+- **Acute Bacterial Rhinosinusitis**:
+  - Consider antibiotics only if symptoms are severe (fever >39°C + purulent discharge), persistent (>10 days without improvement), or worsening after initial improvement ("double sickening").
+  - *First-line*: Amoxicillin or Amoxicillin-Clavulanate.
 
-**Scenario**: Mrs Chan brings her 5-year-old son, Tommy. He has had a runny nose, cough, and mild fever for 3 days. He is eating and playing normally. Mrs Chan is demanding antibiotics so he can go back to school faster.
-
-### Section 1 — Assessment (20%): 4P + BATHE + ICE
-4P FRAMEWORK:
-- Predisposing: Age 5 (frequent viral infections common), attending kindergarten.
-- Precipitating: Exposure to respiratory viruses at school.
-- Perpetuating: Mother's anxiety, misconception that antibiotics cure all infections.
-- Protective: Child is active, eating well, well-hydrated, no respiratory distress.
-
-BATHE (EXACT SCRIPTS):
-- Background: "Tommy has had a cough and fever for 3 days. How has he been doing at home otherwise?"
-- Affect: "How are you feeling about Tommy being sick? It must be stressful for you."
-- Trouble: "What is the most difficult part of managing his illness right now?"
-- Handling: "How have you been managing his fever and cough at home so far?"
-- Empathy: "It is always worrying when our children are sick, and I understand you want him to get better as quickly as possible."
-
-ICE (EXACT SCRIPTS):
-- Ideas: "What do you think is causing Tommy's cough and fever?"
-- Concerns: "You mentioned wanting antibiotics. Are you worried this might turn into pneumonia?"
-- Expectations: "You are hoping antibiotics will speed up his recovery so he can go back to school, is that right?"
-
-### Section 2 — Problem Identification (10%)
-PHYSICAL:
-- Upper Respiratory Tract Infection (URTI), highly likely viral.
-- No signs of bacterial infection (no ear tugging, clear chest, no purulent tonsils).
-- No signs of respiratory distress (no chest indrawing, normal respiratory rate).
-
-PSYCHOLOGICAL:
-- Parental anxiety regarding the child's illness and recovery speed.
-
-SOCIAL:
-- Pressure for the child to return to school (potential childcare issues for working parents).
-
-BARRIERS:
-- Strong parental misconception that antibiotics are a "quick fix" for colds.
-- Potential conflict if the doctor refuses to prescribe antibiotics.
-
-### Section 3 — RAPRIOP Management (50%)
-REASSURE:
-"I have examined Tommy thoroughly. His chest is completely clear, his ears look fine, and he is active and hydrated. This is a simple viral cold."
-
-ADVICE (EXACT SCRIPTS):
-- "Regarding antibiotics: Antibiotics only kill bacteria. Tommy has a virus. Giving him antibiotics will not make him better any faster. In fact, it can cause diarrhea and make bacteria resistant to drugs in the future."
-- "A viral cough can easily last for 1 to 2 weeks. It is the body's way of clearing the virus out."
-- "Keep him well-hydrated. Offer plenty of water or clear soups. Ensure he gets plenty of rest."
-
-PRESCRIBE:
-- "I will prescribe some Paracetamol syrup for his fever and discomfort, and a mild syrup to soothe his throat."
-- "I will give him a medical certificate for 2 more days to rest at home so he doesn't spread the virus at school."
-
-REFER:
-- Not required.
-
-INVESTIGATE:
-- No investigations needed for a simple viral URTI.
-
-OBSERVE:
-- Advise the mother to monitor his fluid intake and breathing at home.
-
-PLAN:
-- No routine follow-up needed unless symptoms worsen.
-
-SAFETY NET:
-"If Tommy stops drinking fluids, becomes very lethargic, has difficulty breathing, or if the fever lasts more than 5 days, please bring him back immediately or go to the A&E."
-
-### Section 4 — CIPS Communication Skills (20%)
-CHUNK AND CHECK:
-Explain why antibiotics do not work for viruses, then ask, "Does it make sense why I am not prescribing antibiotics for Tommy today?"
-
-ICE:
-Directly address her demand for antibiotics by validating her desire for a quick recovery, but firmly explaining the medical evidence against it.
-
-PATIENT-CENTRED:
-"I know it is hard to see him coughing. What if we try the soothing syrup and rest for two days, and if he is not improving, you can bring him back?"
-
-SIGNPOSTING:
-"First, let's talk about what is causing his symptoms, and then we will discuss the best way to help him recover."
-
-## Station 3 — FM Primary Care Consultation
-
-**Scenario**: Patient presents with a sore throat, runny nose, and mild cough for 3 days. No fever. Wants medication to cure it quickly.
-
-### Find Reason (×0.5)
-OPEN QUESTION:
-"You mentioned having a sore throat and a cough. Can you tell me more about how you have been feeling?"
-
-ACTIVE LISTENING:
-Allow the patient to list their symptoms without interrupting.
-
-### Define Problem + Systems Review (×2.5)
-ASSESS URTI SYMPTOMS:
-- "When did the sore throat start? Is it painful to swallow?"
-- "Is the cough dry or are you coughing up phlegm? What color is the phlegm?"
-- "Have you had a fever or chills?"
-
-SCREEN FOR RED FLAGS (BACTERIAL INFECTION / COMPLICATIONS):
-- "Are you having any difficulty breathing or shortness of breath?"
-- "Do you have any severe pain in your face or ears?"
-- "Are you coughing up any blood?"
-- "Have you noticed any swollen glands in your neck?"
-
-PHYSICAL EXAM:
-- Examine throat for erythema or exudate (tonsillitis).
-- Check cervical lymph nodes.
-- Auscultate lungs to ensure they are clear.
-
-### ICE (Ideas, Concerns, Expectations) (×0.5)
-IDEAS:
-"What do you think is causing this cold?"
-
-CONCERNS:
-"Are you worried about it turning into something worse, like bronchitis?"
-
-EXPECTATIONS:
-"You mentioned wanting a quick cure. Were you hoping for antibiotics today?"
-
-### Diagnosis & Explanation (×0.5)
-DIAGNOSIS:
-"Based on your symptoms and my examination, you have a viral Upper Respiratory Tract Infection, commonly known as a cold."
-
-EXPLANATION:
-"This is caused by a virus. Your immune system is currently fighting it off, which is why you have a runny nose and cough. The cough is your body's way of clearing the virus out of your airways."
-
-CHECK UNDERSTANDING:
-"Does that make sense to you?"
-
-### Management + RICE (×1.0)
-REASSURE:
-"This is very common and your body will clear it naturally within a week or two."
-
-ADVICE (ANTIBIOTIC STEWARDSHIP):
-"Because this is a virus, antibiotics will not work and will not cure you faster. They only kill bacteria."
-
-PLAN:
-"I will prescribe some symptomatic relief medications: lozenges for your throat, a syrup for the cough, and Paracetamol for any aches."
-
-ADVICE:
-"Drink plenty of water, get lots of rest, and wash your hands frequently to avoid spreading it."
-
-SAFETY NET:
-"If you develop a high fever, start coughing up blood, or have difficulty breathing, please come back immediately."
-
-## Station 4 — Medical Record + Prescription
-
-### Subjective (S)
-Mrs Ho Mei Lan (F/35), nurse, presents with 3-day sore throat, mucopurulent nasal discharge (yellow-green — viral, NOT bacterial indicator per se), mild cough (non-productive), low-grade fever (38.1°C). No dysphagia, odynophagia, drooling, trismus, ear pain, neck stiffness. PMH: Nil. NKDA. Social: Works as ward nurse. Non-smoker. Married, no dependants unwell. Vaccinated (flu vaccine last year — now October, due for current season's vaccine). No recent travel. No sick contacts reported but works in hospital setting.
-
-### Objective (O)
-Vitals: Temp 38.1°C, HR 90 bpm, BP 116/72 mmHg, RR 18/min, SpO2 99% RA.
-Oropharynx: Mildly injected tonsils and pharyngeal wall. No exudate. Uvula central, no deviation. No peritonsillar swelling.
-Ears: Tympanic membranes clear bilaterally — no signs of acute otitis media.
-Nose: Mild mucosal erythema, clear/yellow discharge. No sinus tenderness.
-Neck: Superficial small cervical lymph nodes — NOT tender. No rigidity. No meningism.
-Chest: Clear bilaterally. No wheeze, no crackles.
-Centor Score: 1/4 (temperature only — no exudate, no tender LN, cough present → absent of cough criterion not met).
-
-### Assessment (A)
-PRIMARY DIAGNOSIS: Viral Upper Respiratory Tract Infection (acute pharyngitis/rhinitis) — most likely
-Supporting: Centor score 1 (low probability of Group A Streptococcus); clear/mild tonsil injection without exudate; cough present; self-limiting course; no complications.
-
-DIFFERENTIAL DIAGNOSES:
-• Group A Streptococcal pharyngitis — low probability (Centor 1; no exudate; cough present); does not warrant antibiotics
-• Influenza — possible (fever, myalgia, sudden onset often more severe in flu); manage symptomatically regardless
-• Infectious mononucleosis — less likely (no marked lymphadenopathy, no splenomegaly at this stage)
-
-NO ANTIBIOTICS INDICATED.
-
-### Plan (P)
-1. SYMPTOMATIC TREATMENT:
-   a) Paracetamol 500mg — 2 tablets (1g) four times daily (maximum 4g/day) for fever and sore throat pain
-   b) Ibuprofen 400mg three times daily with food (if no GI/renal contraindications)
-   c) Warm salt water gargling (0.5 tsp salt in 250mL warm water) × several times daily
-   d) Adequate hydration (aim 2L fluid/day); soft diet if swallowing painful
-   e) Throat lozenges (benzocaine) for symptomatic relief
-
-2. NO ANTIBIOTICS: Viral URTI; Centor 1; not indicated. Antibiotic prescribing would not reduce duration, may cause adverse effects (GI upset, allergic reaction, resistance).
-
-3. DELAYED PRESCRIPTION (offered and accepted): Phenoxymethylpenicillin 500mg four times daily × 10 days — given with instruction to fill and take ONLY if not improving or worsening after 72 hours from today.
-
-4. OCCUPATIONAL ADVICE: Advise to stay home while febrile. May return to work when afebrile for 24 hours and feeling well enough.
-
-5. OPPORTUNISTIC: Current season influenza vaccine offered (October — flu season approaching). Patient to book when recovered.
-
-6. SAFETY NET: Return urgently/A&E if: fever persists >7 days, increasing difficulty swallowing/breathing, drooling (quinsy), unilateral throat swelling, neck stiffness (meningism), rash (scarlet fever).
-
-7. FOLLOW-UP: PRN — return if not improving in 7 days.
-
-### Prescription
-- **Drug**: Paracetamol
-- **Preparation**: Tablets
-- **Dose**: 500mg (take 2 tablets = 1g per dose)
-- **Route**: Oral
-- **Frequency**: Four times daily (every 6 hours)
-- **Duration**: 7 days (or until symptoms resolve)
-- **Quantity**: 56 tablets
-
-**Notes**: Take 2 tablets (1g) at a time. Maximum 8 tablets (4g) in 24 hours. Do not exceed stated dose. Avoid alcohol.
-
-**Tips**:
-- "Paracetamol" (generic) NOT "Panadol" alone
-- "500mg tablets" — specify strength per tablet
-- Dose = "2 tablets (1g)" to make maximum dose clear
-- "Four times daily" or "every 6 hours" NOT "QDS" or "QID"
-- "Oral" route must be stated
-- WARNING: Maximum paracetamol dose = 4g/day (8×500mg tablets). Writing >4g/day = potentially fatal prescription = 0 marks
-- If writing 1g tablets: "1 tablet four times daily" — never write "2 tablets" for 1g tabs without specifying the strength
-- "56 tablets" (8/day × 7 days)
-
+### Patient Education & Safety Netting
+- Explain the natural history: Colds last 7-10 days; cough can linger for 2-3 weeks.
+- Explain why antibiotics are not needed for viral infections (no benefit, risk of side effects, antimicrobial resistance).
+- Advise adequate hydration and rest.
+- **Safety Net**: Instruct the patient to return if symptoms worsen significantly, fever persists >3 days, they develop difficulty breathing, or symptoms last >2 weeks.

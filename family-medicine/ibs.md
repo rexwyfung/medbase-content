@@ -1,215 +1,80 @@
-# Irritable Bowel Syndrome
+# Irritable Bowel Syndrome (IBS) (腸易激綜合症)
 
-## General
+## 1. Definition & Epidemiology (定義與流行病學)
+- **Definition**: A functional gastrointestinal disorder characterized by chronic, recurrent abdominal pain associated with altered bowel habits (diarrhea, constipation, or both), in the absence of any detectable structural or biochemical abnormalities.
+- **Epidemiology**: Very common, affecting 10-15% of the population. More common in women (2:1 ratio) and typically presents in young adulthood (< 50 years). A major cause of work absenteeism and reduced quality of life.
 
-**Examiner's Pearl**: Rome IV criteria: recurrent abdominal pain ≥1 day/week × 3 months, with ≥2: related to defecation; change in stool frequency; change in stool form
-**Answer**: Rome IV標準：腹痛≥1天/週×3個月，伴≥2項：與排便相關；大便頻率改變；大便形態改變
+## 2. Pathophysiology (病理生理學)
+The exact cause is unknown, but it is considered a disorder of gut-brain interaction (DGBI). Key mechanisms include:
+- **Visceral Hypersensitivity**: Enhanced perception of normal gut function (e.g., normal gas or distension is felt as pain).
+- **Altered Gastrointestinal Motility**: Accelerated transit (IBS-D) or delayed transit (IBS-C).
+- **Brain-Gut Axis Dysregulation**: Abnormal central processing of visceral pain signals. Strongly linked to psychosocial factors (stress, anxiety, depression, history of trauma).
+- **Post-Infectious IBS**: Can develop after an episode of acute infectious gastroenteritis.
+- **Altered Gut Microbiome (Dysbiosis)** and low-grade mucosal inflammation.
 
-**Examiner's Pearl**: IBS subtypes: IBS-C (constipation), IBS-D (diarrhoea), IBS-M (mixed), IBS-U (unclassified)
-**Answer**: IBS亞型：IBS-C（便秘型）、IBS-D（腹瀉型）、IBS-M（混合型）、IBS-U（未分類）
+## 3. Clinical Features & Diagnosis (臨床特徵與診斷)
+Diagnosis is clinical, based on symptom criteria and the exclusion of alarm features.
 
-**Examiner's Pearl**: Red flag symptoms (exclude organic pathology): rectal bleeding, unintentional weight loss, nocturnal symptoms, family history CRC, age >50 new onset
-**Answer**: 紅旗症狀（排除器質性病變）：直腸出血、非意圖性體重減輕、夜間症狀、CRC家族史、50歲後新發
+### Rome IV Criteria (Diagnostic Standard)
+Recurrent abdominal pain, on average, at least 1 day per week in the last 3 months, associated with two or more of the following criteria:
+1. Related to defecation (pain may increase or decrease).
+2. Associated with a change in the frequency of stool.
+3. Associated with a change in the form (appearance) of stool.
 
-**Examiner's Pearl**: Positive diagnosis — do not over-investigate. FBC, CRP, coeliac serology, stool calprotectin sufficient
-**Answer**: 正面診斷——不要過度調查。FBC、CRP、乳糜瀉血清學、糞便鈣衛蛋白已足夠
+### Subtypes (Based on predominant stool form using Bristol Stool Scale)
+- **IBS-C**: Constipation predominant (hard/lumpy stools >25% of bowel movements).
+- **IBS-D**: Diarrhea predominant (loose/watery stools >25% of bowel movements).
+- **IBS-M**: Mixed bowel habits.
+- **IBS-U**: Unclassified.
 
-**Examiner's Pearl**: Low FODMAP diet: effective in 70%; trial 4–8 weeks, then reintroduction phase
-**Answer**: 低FODMAP飲食：70%有效；試驗4–8週，然後重新引入階段
+### Associated Symptoms
+- Bloating and abdominal distension (very common).
+- Passage of mucus per rectum.
+- Feeling of incomplete evacuation.
+- Extra-intestinal symptoms: Fatigue, fibromyalgia, headache, backache, dyspareunia, urinary frequency.
 
-**Examiner's Pearl**: Gut-brain axis: high rates of anxiety/depression comorbidity; treat both; antidepressants have gut effects
-**Answer**: 腸腦軸：高比率焦慮/抑鬱合併症；同時治療；抗抑鬱藥有腸道作用
+## 4. Assessment & Red Flags (評估與紅旗症狀)
+The goal is to confidently diagnose IBS while ruling out organic diseases (e.g., Inflammatory Bowel Disease, Colorectal Cancer, Celiac Disease, Microscopic Colitis).
+- **Red Flags (ALARM symptoms - 必須轉介專科或內視鏡檢查)**:
+  - Age of onset > 50 years.
+  - Rectal bleeding or melena.
+  - Unintentional weight loss.
+  - Nocturnal symptoms (waking from sleep to defecate - highly suggestive of organic disease).
+  - Family history of colorectal cancer, IBD, or celiac disease.
+  - Palpable abdominal or rectal mass.
+  - Iron deficiency anemia or elevated inflammatory markers (CRP/ESR).
 
-## Station 1 — Management Interview
+### Investigations (Keep to a minimum if typical symptoms and no red flags)
+- **Basic Bloods**: CBC (rule out anemia), CRP/ESR (rule out inflammation).
+- **Celiac Serology**: Tissue transglutaminase (tTG) IgA antibodies (recommended for all IBS-D and IBS-M patients).
+- **Stool Tests**:
+  - Fecal Calprotectin: To differentiate IBS from IBD (Inflammatory Bowel Disease). Normal in IBS; elevated in IBD.
+  - Stool culture/O&P: Only if travel history or acute onset (suspect post-infectious).
+- **Colonoscopy**: Indicated ONLY if red flags are present, age > 50, or severe/refractory symptoms.
 
-**Scenario**: Ms Cheung, 28F, accountant. Presents with 6 months of intermittent lower abdominal cramps, bloating, and alternating diarrhea and constipation. Symptoms are worse during tax season and improve after opening her bowels. No weight loss or blood in stool. She is worried about bowel cancer as her uncle recently passed away from it.
+## 5. Management (治療與管理)
+Management is symptom-directed and requires a strong therapeutic patient-physician relationship.
 
-### Section 1 — Assessment (20%): 4P + BATHE + ICE
-4P FRAMEWORK:
-- Predisposing: Young female, highly stressful occupation (accountant).
-- Precipitating: High stress periods (tax season), specific dietary triggers.
-- Perpetuating: Anxiety about bowel cancer, hypervigilance to bowel sensations.
-- Protective: No red flags (no bleeding, no weight loss, no nocturnal symptoms), symptoms relieve with defecation.
+### 1. Lifestyle and Dietary Modifications (First-line)
+- **Education & Reassurance**: Validate symptoms but reassure the patient that IBS is benign and does not lead to cancer or IBD.
+- **Dietary Changes**:
+  - Regular meals, adequate hydration, limit caffeine and alcohol.
+  - **Low FODMAP Diet**: (Fermentable Oligosaccharides, Disaccharides, Monosaccharides, and Polyols). Highly effective for reducing bloating and pain. Should be implemented under the guidance of a dietitian (elimination phase followed by systematic reintroduction).
+  - Soluble fiber (e.g., Psyllium/Ispaghula husk) can help both IBS-C and IBS-D. Avoid insoluble fiber (bran), which can worsen bloating.
 
-BATHE (EXACT SCRIPTS):
-- Background: "You mentioned having these stomach cramps and unpredictable bowel habits for 6 months. How is this affecting your work, especially during tax season?"
-- Affect: "How do you feel when you get these sudden cramps and have to rush to the toilet?"
-- Trouble: "What is the most difficult part of dealing with these stomach issues?"
-- Handling: "How have you been trying to manage the pain and the bloating so far?"
-- Empathy: "It must be incredibly stressful to deal with this unpredictable pain, especially when you are already under so much pressure at work."
+### 2. Pharmacological Therapy (Symptom-targeted)
+- **For Abdominal Pain/Spasms**:
+  - Antispasmodics: Hyoscine butylbromide (Buscopan), Mebeverine, Peppermint oil. Take 30 mins before meals.
+- **For IBS-C (Constipation)**:
+  - Osmotic laxatives: Polyethylene glycol (PEG / Macrogol), Lactulose (may worsen bloating).
+  - Secretagogues (if refractory): Linaclotide, Lubiprostone.
+- **For IBS-D (Diarrhea)**:
+  - Antidiarrheals: Loperamide (Imodium) - use PRN or prophylactically before stressful events.
+  - Bile acid sequestrants: Cholestyramine (for bile acid malabsorption, which mimics IBS-D).
+- **Neuromodulators (For refractory pain and global symptoms)**:
+  - Tricyclic Antidepressants (TCAs, e.g., Amitriptyline 10-25mg at night): Excellent for pain and IBS-D (due to anticholinergic/constipating side effects).
+  - SSRIs (e.g., Citalopram, Fluoxetine): Useful if comorbid anxiety/depression, or for IBS-C (can accelerate transit).
 
-ICE (EXACT SCRIPTS):
-- Ideas: "What do you think is causing your stomach to act up like this?"
-- Concerns: "You mentioned your uncle passed away from bowel cancer. Are you worried that these symptoms mean you might have it too?"
-- Expectations: "What were you hoping we could do today to help you manage these symptoms and ease your worries?"
-
-### Section 2 — Problem Identification (10%)
-PHYSICAL:
-- Irritable Bowel Syndrome (IBS) - mixed type.
-- Must explicitly rule out Inflammatory Bowel Disease (IBD) and Colorectal Cancer (no red flags present).
-
-PSYCHOLOGICAL:
-- Severe health anxiety (cancer phobia) triggered by family history.
-- Occupational stress exacerbating the gut-brain axis.
-
-SOCIAL:
-- Impact on work productivity and social outings due to fear of needing a toilet urgently.
-
-BARRIERS:
-- Difficulty accepting a functional diagnosis (IBS) instead of a structural one.
-
-### Section 3 — RAPRIOP Management (50%)
-REASSURE:
-"I have examined your tummy and listened to your history. You have absolutely no danger signs for bowel cancer. Your symptoms are classic for Irritable Bowel Syndrome (IBS), which is a sensitive gut, not a diseased gut."
-
-ADVICE (EXACT SCRIPTS):
-- "Your brain and your gut are closely connected. When you are stressed during tax season, your brain sends stress signals to your gut, making the muscles spasm. This causes the cramps and the unpredictable bowel movements."
-- "I want you to keep a 'Food and Symptom Diary'. Write down what you eat and how your stomach feels. This helps us identify trigger foods, like dairy, caffeine, or certain carbohydrates (FODMAPs)."
-- "Try to eat regular meals, chew your food slowly, and find ways to de-stress, like yoga or deep breathing."
-
-PRESCRIBE:
-- "I will prescribe an anti-spasmodic medication (e.g., Mebeverine or Hyoscine). Take this 20 minutes before meals to stop the gut muscles from cramping."
-- "I will also give you medication to help regulate your bowel movements depending on whether you are having diarrhea or constipation that day."
-
-REFER:
-- Dietitian for a low-FODMAP diet trial if symptom diary shows food triggers.
-
-INVESTIGATE:
-- Basic blood tests (FBC to rule out anemia, CRP to rule out inflammation, Coeliac screen) to be absolutely certain it is not IBD or Coeliac disease.
-
-OBSERVE:
-- Monitor symptom patterns using the diary.
-
-PLAN:
-- Follow up in 1 month to review the diary and blood test results.
-
-SAFETY NET:
-"If you ever notice blood in your stool, start losing weight without trying, or if the pain wakes you up from sleep at night, come back immediately."
-
-### Section 4 — CIPS Communication Skills (20%)
-CHUNK AND CHECK:
-Explain the gut-brain connection, then ask, "Does it make sense how your stress at work is physically causing your stomach to cramp?"
-
-ICE:
-Directly address her fear of bowel cancer by explicitly stating the absence of red flags and explaining why her uncle's history (if older) does not necessarily put her at high risk right now.
-
-PATIENT-CENTRED:
-"Are you willing to try keeping the food diary for a month so we can figure out exactly what is upsetting your stomach?"
-
-SIGNPOSTING:
-"First, let's talk about why we can safely say this isn't cancer, and then we will discuss how to calm your sensitive gut."
-
-## Station 3 — FM Primary Care Consultation
-
-**Scenario**: Patient presents with abdominal cramps, bloating, and unpredictable bowel movements (sometimes diarrhea, sometimes constipation) for the past 6 months. She is very stressed at work.
-
-### Find Reason (×0.5)
-OPEN QUESTION:
-"You mentioned having stomach cramps and unpredictable bowel movements. Can you tell me more about what you have been experiencing?"
-
-ACTIVE LISTENING:
-Allow the patient to describe their gastrointestinal symptoms without interrupting.
-
-### Define Problem + Systems Review (×2.5)
-ASSESS IBS SYMPTOMS (ROME IV CRITERIA):
-- "How often do you get this abdominal pain? Is it at least once a week?"
-- "Does the pain get better or worse after you open your bowels?"
-- "Have you noticed a change in how often you go to the toilet, or what the stool looks like?"
-- "Do you feel bloated or full of gas?"
-
-SCREEN FOR RED FLAGS (CANCER / IBD - MUST ASK):
-- "Have you ever seen any blood in your stool, or is it ever black and tarry?"
-- "Have you lost any weight without trying?"
-- "Does the pain or the need to go to the toilet ever wake you up from sleep at night?"
-- "Do you have a family history of bowel cancer or inflammatory bowel disease?"
-
-SCREEN FOR TRIGGERS:
-- "Does stress make it worse?"
-- "Have you noticed any specific foods that trigger it, like dairy or spicy food?"
-
-PHYSICAL EXAM:
-- Palpate abdomen for tenderness or masses.
-- Perform a Digital Rectal Examination (DRE) if indicated (usually not needed for classic IBS in young patients without red flags, but mention considering it).
-
-### ICE (Ideas, Concerns, Expectations) (×0.5)
-IDEAS:
-"What do you think is causing your stomach to be so unpredictable?"
-
-CONCERNS:
-"Are you worried about something serious like bowel cancer?"
-
-EXPECTATIONS:
-"What were you hoping we could do to help your stomach today?"
-
-### Diagnosis & Explanation (×0.5)
-DIAGNOSIS:
-"Based on your symptoms and the fact that you have no danger signs, you have Irritable Bowel Syndrome, or IBS."
-
-EXPLANATION:
-"IBS means your gut is structurally normal, but it is highly sensitive. The nerves in your gut overreact to normal things like food digestion or stress. This causes the muscles to spasm, leading to cramps, bloating, and changes in your bowel habits."
-
-CHECK UNDERSTANDING:
-"Does that explanation make sense to you?"
-
-### Management + RICE (×1.0)
-REASSURE:
-"This is a very common condition. It is uncomfortable, but it will never turn into cancer or damage your bowels."
-
-INVESTIGATE:
-"I will order some basic blood tests just to be 100% sure there is no hidden inflammation or anemia, but I expect them to be normal."
-
-PLAN:
-"I will prescribe an anti-spasmodic tablet to take before meals to stop the cramps. We can also use medications to help with the diarrhea or constipation when they happen."
-
-ADVICE:
-"Keep a food diary to identify your triggers. Try to manage your work stress, as the brain and gut are closely linked. Eat regular meals and chew your food well."
-
-SAFETY NET:
-"If you ever see blood in your stool, lose weight without trying, or if the pain wakes you up at night, please come back immediately."
-
-## Station 4 — Records & Prescription: IBS
-
-### Subjective (S)
-Ms Lam, 32F. IBS-M review. 
-Low FODMAP diet 6 weeks: bloating much improved, 60% better. 
-Still crampy lower abdominal pain — mebeverine only partially effective.
-PHQ-9=12 (moderate depression). Sleep disturbed — takes 1–2hrs to fall asleep.
-No red flags. LMP 2 weeks ago (regular cycles). No rectal bleeding.
-
-### Objective (O)
-Wt 58kg  BMI 21.5  BP 108/68  HR 76
-Abdomen: soft, mild tenderness LIF and RIF, no guarding, no organomegaly, normal bowel sounds
-PR: deferred (normal FIT test result 3 months ago)
-Stool calprotectin: 28 mcg/g (normal <50 — IBD less likely)
-
-### Assessment (A)
-IBS-M, persistent pain despite mebeverine + dietary modification.
-Comorbid moderate depression (PHQ-9=12) — gut-brain axis likely perpetuating both.
-Plan to add low-dose amitriptyline (gut analgesic + sleep benefit) and refer CBT/psychology.
-
-### Plan (P)
-1. Add amitriptyline 10mg ON for 2 weeks, increase to 25mg ON if tolerated
-2. Continue mebeverine 135mg TDS before meals
-3. Continue low FODMAP — dietitian referral for reintroduction phase guidance
-4. Psychology referral: CBT for IBS + depression
-5. Monitor PHQ-9 in 4–6 weeks; consider adding SSRI if depression not improving
-6. Reassure: IBS does not cause bowel cancer, does not shorten life
-7. Review in 6 weeks
-
-### Prescription
-- **Drug**: Amitriptyline
-- **Preparation**: Film-coated tablet
-- **Dose**: 10 mg
-- **Route**: Oral
-- **Frequency**: Once daily at night
-- **Duration**: 6 months minimum, review at 4–6 weeks
-- **Quantity**: 56 tablets
-
-**Notes**: Low dose for IBS pain — NOT antidepressant dose. Sedating — take at night. Common SE: dry mouth, constipation. Avoid alcohol. Advise 6 weeks for full effect. Do not stop abruptly.
-
-**Tips**:
-- Document indication clearly: "IBS pain (visceral analgesia) — not for depression"
-- Amitriptyline doses differ by indication: IBS 10–50mg ON vs depression 75–150mg OD
-- Warn about driving impairment — do not drive until response established
-- Check ECG if age >65 or cardiac history before starting TCA
-
+### 3. Psychological Therapies
+- Highly effective for patients with severe symptoms or significant psychological distress.
+- Cognitive Behavioral Therapy (CBT), Gut-directed Hypnotherapy.

@@ -1,188 +1,72 @@
-# Gastroenteritis
+# Acute Gastroenteritis (急性腸胃炎)
 
-## General
+## 1. Definition & Epidemiology (定義與流行病學)
+- **Definition**: Inflammation of the stomach and intestines, typically presenting with acute onset of diarrhea (≥3 loose/watery stools in 24 hours), with or without nausea, vomiting, fever, or abdominal pain.
+- **Epidemiology**: Extremely common globally. A major cause of morbidity and mortality in young children in developing countries (due to dehydration). In developed countries, it is usually a mild, self-limiting illness.
 
-**Examiner's Pearl**: Viral (Norovirus, Rotavirus) is most common; bacterial (Salmonella, Campylobacter) if bloody/severe.
-**Answer**: 病毒性（諾如病毒、輪狀病毒）最常見；如果帶血/嚴重，則為細菌性（沙門氏菌、彎曲桿菌）。
+## 2. Etiology (病因)
+### Viral (Most Common, >70%)
+- **Norovirus (諾如病毒)**: The leading cause of acute gastroenteritis in adults and children. Highly contagious, often causes outbreaks in closed settings (cruise ships, nursing homes, schools). Characterized by prominent vomiting.
+- **Rotavirus (輪狀病毒)**: Historically the most common cause of severe dehydrating diarrhea in infants/young children, but incidence has dropped significantly due to routine vaccination.
+- **Adenovirus, Astrovirus**.
 
-**Examiner's Pearl**: Mainstay of treatment is oral rehydration therapy (ORT).
-**Answer**: 主要治療方法是口服補液療法（ORT）。
+### Bacterial (More likely to cause severe/bloody diarrhea)
+- **Campylobacter jejuni (空腸彎曲菌)**: Most common bacterial cause. Associated with undercooked poultry. Can cause bloody diarrhea. (Post-infection complication: Guillain-Barré syndrome).
+- **Salmonella (沙門氏菌)**: Associated with eggs, poultry, reptiles.
+- **Escherichia coli (E. coli - 大腸桿菌)**:
+  - *ETEC (Enterotoxigenic)*: Traveler's diarrhea.
+  - *STEC/EHEC (Shiga toxin-producing / Enterohemorrhagic, e.g., O157:H7)*: Causes bloody diarrhea. **DO NOT give antibiotics**, as it increases the risk of Hemolytic Uremic Syndrome (HUS).
+- **Shigella (志賀氏菌)**: Causes dysentery (bloody, mucoid stools with severe cramps and tenesmus). Highly contagious.
+- **Vibrio cholerae (霍亂弧菌)**: Profuse "rice-water" stools, rapid severe dehydration.
+- **Staphylococcus aureus / Bacillus cereus**: Toxin-mediated food poisoning. Very rapid onset (1-6 hours) of prominent vomiting after eating pre-formed toxins (e.g., in mayonnaise, fried rice).
 
-**Examiner's Pearl**: Assess dehydration: capillary refill, skin turgor, mucous membranes, urine output.
-**Answer**: 評估脫水情況：微血管充盈、皮膚彈性、黏膜、尿量。
+### Parasitic (Prolonged symptoms > 1-2 weeks)
+- **Giardia lamblia (賈第鞭毛蟲)**: Contaminated water (camping/hiking). Foul-smelling, greasy, floating stools (steatorrhea).
+- **Entamoeba histolytica (溶組織內阿米巴)**: Amebic dysentery.
 
-**Examiner's Pearl**: Avoid anti-motility agents (loperamide) in dysentery or children.
-**Answer**: 痢疾或兒童避免使用止瀉藥（洛哌丁胺）。
+## 3. Clinical Evaluation & Red Flags (臨床評估與紅旗症狀)
+The primary goal is to assess the degree of dehydration and identify cases needing investigation or specific treatment.
+- **History**: Onset, frequency/volume of stools and vomiting, presence of blood/mucus in stool, fever, abdominal pain, sick contacts, recent travel, antibiotic use (risk for *C. difficile*), food history.
+- **Assessment of Dehydration (Crucial)**:
+  - *Mild*: Normal mental status, normal thirst, moist mucous membranes, normal tears, normal cap refill.
+  - *Moderate*: Irritable/restless, thirsty, dry mucous membranes, decreased tears, slightly prolonged cap refill, decreased urine output.
+  - *Severe*: Lethargic/unconscious, unable to drink, deeply sunken eyes, very dry mucous membranes, prolonged cap refill (>2s), tachycardia, hypotension, anuria. **Medical Emergency.**
+- **Red Flags (Require investigation/admission)**:
+  - Severe dehydration or inability to tolerate oral fluids.
+  - Bloody diarrhea (Dysentery).
+  - High fever (>39°C).
+  - Severe, localized abdominal pain (rule out appendicitis, ischemia).
+  - Prolonged symptoms (>7-14 days).
+  - Vulnerable patients (infants <3 months, elderly, immunocompromised, pregnant).
 
-## Station 1 — Management Interview
+## 4. Investigations (檢查)
+- **Usually NOT required** for acute, watery diarrhea of < 7 days duration without red flags.
+- **Stool Culture & Sensitivity (MC&S)**: Indicated for bloody diarrhea, severe illness, prolonged symptoms, immunocompromised patients, or outbreak investigations.
+- **Stool for Ova & Parasites (O&P)**: If travel history or prolonged symptoms (>2 weeks).
+- **Clostridioides difficile toxin assay**: If recent antibiotic use or hospitalization.
+- **Blood tests (U&Es, CBC)**: If severe dehydration to check for acute kidney injury (AKI) and electrolyte imbalances (hypokalemia, hypernatremia).
 
-**Scenario**: A 25-year-old woman presents with vomiting and watery diarrhoea for 1 day after eating seafood. She feels dizzy when standing.
+## 5. Management (治療與管理)
+### 1. Rehydration (The Cornerstone of Therapy)
+- **Oral Rehydration Therapy (ORT - 口服補液治療)**: First-line for mild to moderate dehydration. Use Oral Rehydration Salts (ORS) solutions, which contain specific ratios of glucose and sodium to maximize intestinal absorption via the SGLT1 cotransporter.
+  - *Avoid*: Plain water, sugary drinks (apple juice, soda), or sports drinks, as their high osmolarity can worsen diarrhea.
+- **Intravenous (IV) Rehydration**: Indicated for severe dehydration, shock, or inability to tolerate oral fluids (intractable vomiting). Use Isotonic fluids (e.g., Normal Saline or Hartmann's solution).
 
-### Section 1 — Assessment (20%): 4P + BATHE + ICE
-PHYSICAL (4P):
-- Presenting complaint: Vomiting and watery diarrhoea for 1 day, dizziness on standing.
-- Precipitating factors: Eating seafood.
-- Pattern: Acute onset.
-- Palliation/Provocation: Unable to tolerate oral fluids.
+### 2. Diet
+- Continue breastfeeding in infants.
+- Resume an age-appropriate, normal diet as soon as rehydration is achieved. The "BRAT" diet (bananas, rice, applesauce, toast) is no longer strictly recommended, as it lacks adequate nutrition. Avoid high-fat and high-sugar foods initially.
 
-BATHE:
-- Background: "You have been having vomiting and diarrhoea since eating seafood. How many times have you vomited or had diarrhoea today?"
-- Affect: "How are you feeling overall with all this fluid loss?"
-- Trouble: "What is the most bothersome symptom right now? The nausea, the diarrhoea, or the dizziness?"
-- Handling: "Have you been able to drink any water or keep any food down?"
-- Empathy: "It sounds like a miserable 24 hours. Food poisoning can make you feel incredibly weak and unwell."
+### 3. Pharmacological Therapy
+- **Antiemetics**: Ondansetron (昂丹司瓊 - 5-HT3 antagonist) can be used (especially in children) to stop vomiting and facilitate oral rehydration.
+- **Antimotility Agents (e.g., Loperamide / Imodium)**:
+  - *Use*: Can reduce stool frequency in adults with mild/moderate watery diarrhea.
+  - *Contraindications*: **DO NOT USE in bloody diarrhea (dysentery) or high fever**, as it can prolong infection and increase the risk of toxic megacolon or HUS. Do not use in young children.
+- **Antibiotics**:
+  - Generally **NOT recommended** for acute gastroenteritis, as most are viral, and even bacterial cases are usually self-limiting.
+  - *Indications*: Severe disease (sepsis), specific pathogens (e.g., Shigella, severe Campylobacter, Giardia, C. difficile), or vulnerable hosts (immunocompromised).
+  - *Empirical therapy* (if indicated, e.g., severe traveler's diarrhea): Azithromycin or Ciprofloxacin.
 
-ICE:
-- Ideas: "Do you think it was definitely the seafood, or did anyone else you ate with get sick?"
-- Concerns: "You mentioned feeling dizzy. Are you worried about dehydration?"
-- Expectations: "What were you hoping we could do for you today? Do you need a medical certificate for work?"
-
-### Section 2 — Problem Identification (10%)
-PHYSICAL:
-- Acute gastroenteritis, likely viral or foodborne bacterial (e.g., Vibrio, Salmonella).
-- Mild to moderate dehydration (dizziness on standing).
-
-PSYCHOLOGICAL:
-- Distress and discomfort from acute symptoms.
-
-SOCIAL:
-- Inability to work or perform daily activities.
-
-BARRIERS:
-- Inability to tolerate oral rehydration due to severe nausea/vomiting.
-
-### Section 3 — RAPRIOP Management (50%)
-REASSURE:
-"This will pass, and you do not need antibiotics for this type of food poisoning. It is your body's way of clearing the infection."
-
-ADVICE (EXACT SCRIPTS):
-- "Drink oral rehydration salts (ORS) to replace lost fluids and electrolytes. Sip it slowly if you feel nauseous."
-- "Eat bland, easily digestible foods like plain rice, toast, or bananas when you feel hungry. Avoid dairy, spicy, or greasy foods for a few days."
-- "Practice good hand hygiene to prevent spreading it to others."
-
-PRESCRIBE:
-- "I will prescribe some anti-emetics to help you keep fluids down, and some medication to reduce the stomach cramps."
-- Give sick leave certificate.
-
-REFER:
-- Not needed currently.
-
-INVESTIGATE:
-- None required unless symptoms persist or red flags develop.
-
-OBSERVE:
-- Monitor hydration status and urine output.
-
-PLAN:
-- Review if symptoms do not improve in 48 hours.
-
-### Section 4 — CIPS Communication Skills (20%)
-CHUNK AND CHECK:
-Explain the importance of hydration, then ask: "Just to make sure I explained it clearly, how will you take the oral rehydration salts?"
-
-ICE:
-Directly address her dizziness by explaining it is a sign of mild dehydration and will improve with fluids.
-
-PATIENT-CENTRED:
-"I know it's hard to drink when you feel nauseous. Let's focus on taking small sips frequently rather than drinking a lot at once."
-
-SIGNPOSTING:
-"First, let's talk about how to keep you hydrated, and then we will discuss the medications to help with the nausea and cramps."
-
-## Station 3 — FM Primary Care Consultation
-
-**Scenario**: A 25-year-old woman presents with vomiting and watery diarrhoea for 1 day after eating seafood. She feels dizzy when standing.
-
-### Find Reason (×0.5)
-OPEN QUESTION:
-"You mentioned you've been vomiting and having diarrhoea. Can you tell me more about when this started?"
-
-ACTIVE LISTENING:
-Listen for frequency of vomiting/diarrhoea, nature of stool, and associated symptoms like dizziness.
-
-### Define Problem + Systems Review (×2.5)
-ASSESS SYMPTOMS:
-- "How many times have you vomited or had diarrhoea today?"
-- "Are you able to keep any fluids down?"
-- "Do you have a fever or abdominal cramps?"
-
-RED FLAGS:
-- "Is there any blood or mucus in your stool?" (Dysentery)
-- "Have you had a high fever?"
-- "Are you experiencing severe, constant abdominal pain?" (Appendicitis, bowel ischemia)
-- "Have you travelled recently or been on antibiotics?"
-
-PHYSICAL EXAM:
-- Assess hydration: Capillary refill, mucous membranes, skin turgor, heart rate, blood pressure (postural drop for dizziness).
-- Abdominal exam: Tenderness, guarding, bowel sounds.
-
-### ICE (Ideas, Concerns, Expectations) (×0.5)
-IDEAS:
-"Do you think it was definitely the seafood, or did anyone else you ate with get sick?"
-
-CONCERNS:
-"You mentioned feeling dizzy. Are you worried about dehydration?"
-
-EXPECTATIONS:
-"What were you hoping we could do for you today? Do you need a medical certificate for work?"
-
-### Diagnosis & Explanation (×0.5)
-DIAGNOSIS:
-"You have acute gastroenteritis, commonly known as food poisoning or a stomach bug. The dizziness is a sign of mild dehydration from the fluid loss."
-
-EXPLANATION:
-"The infection irritates your stomach and intestines, causing them to expel everything. This is your body's way of getting rid of the bug. It is usually self-limiting and gets better in a few days. The most important thing is to replace the fluids and salts you are losing."
-
-CHECK UNDERSTANDING:
-"Does this make sense to you?"
-
-### Management + RICE (×1.0)
-REASSURE:
-"This will pass, and you do not need antibiotics for this type of food poisoning."
-
-PLAN:
-"I will prescribe some anti-emetics to help you keep fluids down, and some medication to reduce the stomach cramps. I will also give you a sick leave certificate."
-
-ADVICE:
-"Drink oral rehydration salts (ORS) to replace lost fluids and electrolytes. Sip it slowly if you feel nauseous. Eat bland, easily digestible foods when you feel hungry."
-
-SAFETY NET:
-"Go to the A&E if you cannot keep any fluids down for 12 hours, if you notice blood in your stool, if you develop a high fever, or if the abdominal pain becomes severe and constant."
-
-## Station 4 — Medical Record + Prescription Writing
-
-### Subjective (S)
-Ms Cheung Mei Ling (F/25), teacher, presents with 1-day history of vomiting (×3) and watery diarrhoea (×5) starting 12 hours after eating raw oysters at a buffet. Reports mild diffuse abdominal cramps and dizziness on standing. No blood or mucus in stool. No fever. Able to keep small sips of water down. PMH: Nil. NKDA. Social: Non-smoker. Lives alone.
-
-### Objective (O)
-Vitals: Temp 36.9°C, HR 100 bpm, BP 110/70 mmHg (supine) dropping to 95/60 mmHg (standing) - mild postural hypotension.
-General: Appears tired, mucous membranes slightly dry. Capillary refill time < 2 seconds.
-Abdomen: Soft, non-distended. Mild generalized tenderness, no guarding or rebound tenderness. Hyperactive bowel sounds.
-PR: Deferred (no red flags).
-
-### Assessment (A)
-PRIMARY DIAGNOSIS: Acute Gastroenteritis with mild dehydration.
-Evidence: Acute onset vomiting and diarrhoea after suspicious food intake, hyperactive bowel sounds, signs of mild dehydration (tachycardia, postural BP drop, dry mucosa).
-
-NOT: Inflammatory bowel disease (acute onset, clear trigger), Appendicitis (no localized RIF pain, no guarding).
-
-### Plan (P)
-1. FLUID REPLACEMENT: Oral Rehydration Salts (ORS). Advised to dissolve 1 sachet in 250mL water and drink slowly after each loose stool.
-2. SYMPTOMATIC RELIEF: Metoclopramide 10mg TDS PRN for nausea/vomiting. Hyoscine butylbromide (Buscopan) 10mg TDS PRN for abdominal cramps.
-3. DIET: Advised to stick to bland, easily digestible foods (BRAT diet - bananas, rice, applesauce, toast) when appetite returns. Avoid dairy and greasy foods temporarily.
-4. SICK LEAVE: Granted 2 days sick leave for rest and recovery.
-5. SAFETY NET: Return to A&E immediately if unable to tolerate any fluids, severe abdominal pain, high fever, or blood in stool.
-
-### Prescription
-- **Drug**: Oral Rehydration Salts (ORS)
-- **Preparation**: Sachet
-- **Dose**: 1 sachet dissolved in 250mL water
-- **Route**: Oral
-- **Frequency**: After each loose stool
-- **Duration**: 3 days
-- **Quantity**: 10 sachets
-
-**Tips**:
-- Specify dilution instructions clearly
-- Advise taking after each loose stool
-
+## 6. Prevention (預防)
+- Strict hand hygiene (soap and water is essential for Norovirus and *C. difficile*, as alcohol gels are less effective against them).
+- Safe food preparation and water precautions (especially when traveling).
+- Rotavirus vaccination for infants.

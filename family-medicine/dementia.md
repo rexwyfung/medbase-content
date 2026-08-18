@@ -1,168 +1,72 @@
-# Dementia
+# Dementia (認知障礙症 / 腦退化症)
 
-## General
+## 1. Definition & Epidemiology (定義與流行病學)
+- **Definition**: An acquired, progressive, and global decline in cognitive function (memory, language, executive function, visuospatial skills) that is severe enough to **interfere with daily life and independence**. It occurs with a clear sensorium (unlike delirium).
+- **Epidemiology**: The prevalence increases exponentially with age. It is a major cause of disability and dependency among older adults worldwide.
 
-## Station 1 — Management Interview
+## 2. Major Subtypes & Pathophysiology (主要亞型與病理生理學)
+Dementia is an umbrella term; there are several specific diseases that cause it.
 
-**Scenario**: A 75-year-old woman is brought in by her son. He reports she has been increasingly forgetful over the past year, repeatedly asking the same questions, and recently got lost walking back from the local market. She insists she is fine.
+### 1. Alzheimer's Disease (AD - 阿茲海默症)
+- **Most common cause** (60-80%).
+- *Pathology*: Extracellular **Amyloid plaques** and intracellular **Neurofibrillary tangles** (tau protein), leading to neuronal death and brain atrophy (especially in the hippocampus/temporal lobes).
+- *Clinical Features*: Insidious onset, gradual progression. **Short-term memory loss** is the hallmark early symptom (forgetting recent conversations/events). Later involves language (aphasia), visuospatial deficits (getting lost), and executive dysfunction.
 
-### Section 1 — Assessment (20%): 4P + BATHE + ICE
-PHYSICAL (4P):
-- Presenting complaint: Memory loss, repetitive questioning, getting lost (spatial disorientation).
-- Precipitating factors: Aging, possible neurodegenerative process.
-- Pattern: Gradual decline over 1 year.
-- Palliation/Provocation: N/A.
+### 2. Vascular Dementia (VaD - 血管性認知障礙症)
+- **Second most common cause**.
+- *Pathology*: Brain damage due to cerebrovascular disease (multiple cortical infarcts, strategic single infarct, or chronic small vessel disease).
+- *Clinical Features*: Often has a **stepwise progression** (sudden decline followed by a plateau). Strongly associated with cardiovascular risk factors (Hypertension, Diabetes, Smoking). Prominent executive dysfunction and psychomotor slowing. Focal neurological signs may be present.
 
-BATHE (Address both patient and son):
-- Background: "Your son mentioned you got lost coming back from the market. Can you tell me what happened?"
-- Affect: "How does it feel when people say you are forgetting things?"
-- Trouble: "What is the most frustrating part of this for you and your family?"
-- Handling: "How are you managing at home with cooking and taking your medications?"
-- Empathy: "It can be very upsetting to feel like your memory isn't as sharp as it used to be."
+### 3. Lewy Body Dementia (LBD - 路易氏體認知障礙症)
+- *Pathology*: Abnormal deposits of alpha-synuclein (Lewy bodies) in the cortex.
+- *Clinical Features*: **Fluctuating cognition** (variations in alertness/attention), recurrent detailed **visual hallucinations**, and spontaneous **Parkinsonism** (rigidity, bradykinesia). *Extreme sensitivity to antipsychotic medications* (can cause severe rigidity/neuroleptic malignant syndrome).
 
-ICE:
-- Ideas: "What do you think is causing this forgetfulness?"
-- Concerns: "Are you worried about losing your independence?"
-- Expectations: "What were you hoping we could do today to help with your memory?"
+### 4. Frontotemporal Dementia (FTD - 額顳葉認知障礙症)
+- *Pathology*: Degeneration of the frontal and temporal lobes.
+- *Clinical Features*: Tends to present at a **younger age** (50s-60s). Memory is often preserved initially. Two main variants:
+  - *Behavioral variant*: Early changes in personality, disinhibition, loss of empathy, apathy, hyperorality.
+  - *Language variant (Primary Progressive Aphasia)*: Early decline in language skills.
 
-### Section 2 — Problem Identification (10%)
-PHYSICAL:
-- Suspected Dementia (likely Alzheimer's given the gradual onset and presentation). Need to rule out reversible causes of cognitive impairment (e.g., B12 deficiency, hypothyroidism, depression).
+## 3. Clinical Evaluation & Differential Diagnosis (臨床評估與鑑別診斷)
+- **History**: Crucial to get a collateral history from a family member/caregiver. Assess the timeline, specific cognitive deficits, and impact on ADLs (Activities of Daily Living - bathing, dressing) and IADLs (Instrumental ADLs - managing finances, medications, cooking).
+- **Cognitive Assessment Tools**:
+  - **MMSE (Mini-Mental State Examination)**: Traditional screening tool.
+  - **MoCA (Montreal Cognitive Assessment)**: More sensitive for mild cognitive impairment and executive dysfunction.
+- **Differential Diagnosis (The "3 Ds")**:
+  - **Dementia**: Chronic, progressive, clear consciousness.
+  - **Delirium (譫妄)**: Acute onset, fluctuating course, **altered level of consciousness/inattention**. Often triggered by infection (UTI, pneumonia), medications, or metabolic disturbances. *Delirium can superimpose on dementia.*
+  - **Depression (Pseudodementia)**: Can mimic dementia in the elderly (apathy, poor concentration). Patients often highlight their memory problems ("I don't know" answers), whereas dementia patients may try to hide them.
+- **Reversible Causes of Cognitive Impairment (Must rule out)**:
+  - Hypothyroidism (check TSH).
+  - Vitamin B12 deficiency.
+  - Neurosyphilis.
+  - Subdural hematoma.
+  - Normal Pressure Hydrocephalus (Triad: cognitive impairment, magnetic gait, urinary incontinence).
 
-PSYCHOLOGICAL:
-- Lack of insight (anosognosia) from the patient. Caregiver stress for the son.
+## 4. Investigations (檢查)
+- **Bloods**: CBC, U&Es, LFTs, Calcium, Glucose, TSH, Vitamin B12, Folate.
+- **Neuroimaging**: **CT or MRI of the brain** is recommended for all new diagnoses to rule out structural causes (tumors, subdural hematoma) and assess for patterns of atrophy (e.g., medial temporal lobe in AD) or vascular disease.
 
-SOCIAL:
-- Safety concerns (getting lost, cooking hazards, medication mismanagement).
+## 5. Management (治療與管理)
+There is currently no cure for most types of dementia. Management focuses on symptom control, maximizing quality of life, and supporting caregivers.
 
-BARRIERS:
-- Patient's denial of the problem, making assessment and intervention difficult.
+### 1. Pharmacological Therapy (For Alzheimer's Disease)
+- **Acetylcholinesterase Inhibitors (AChEIs)**:
+  - *Examples*: Donepezil, Rivastigmine, Galantamine.
+  - *Indication*: Mild to moderate Alzheimer's (and LBD).
+  - *Mechanism*: Increase acetylcholine levels in the brain. They do not stop disease progression but may temporarily stabilize or slightly improve cognitive symptoms.
+  - *Side effects*: GI upset (nausea, diarrhea), bradycardia, vivid dreams.
+- **NMDA Receptor Antagonist**:
+  - *Example*: Memantine.
+  - *Indication*: Moderate to severe Alzheimer's.
+  - *Mechanism*: Protects neurons from glutamate-induced excitotoxicity.
 
-### Section 3 — RAPRIOP Management (50%)
-REASSURE:
-"I know it's distressing to talk about memory problems. We are going to do some tests to find out exactly what is causing this, and there is a lot of support available for both of you."
+### 2. Management of BPSD (Behavioral and Psychological Symptoms of Dementia)
+- BPSD includes agitation, aggression, wandering, psychosis, and sleep disturbances.
+- **Non-pharmacological interventions are FIRST-LINE**: Identify and treat underlying triggers (pain, infection/UTI, constipation, dehydration, environmental overstimulation). Use redirection, validation therapy, and music therapy.
+- **Pharmacological**: Use only if symptoms are severe, distressing, or pose a danger.
+  - *Antipsychotics* (e.g., Quetiapine, Risperidone): Use with extreme caution. They carry a "black box" warning for increased mortality (stroke, cardiovascular events) in elderly patients with dementia. Avoid in LBD.
 
-ADVICE (EXACT SCRIPTS):
-- "For safety, please do not let your mother cook alone or go out unaccompanied until we have completed our assessments."
-- "Keep a routine at home, and use calendars and clocks to help with orientation."
-- "Ensure she has an identification card with your contact number on her at all times when she goes out."
-
-PRESCRIBE:
-- No specific dementia medications (e.g., Donepezil) should be started in primary care before a formal diagnosis by a specialist.
-
-REFER:
-- Refer to a Memory Clinic or Geriatrician for formal cognitive assessment and diagnosis.
-- Refer to Medical Social Worker (MSW) for community support services (e.g., day care center) and caregiver support.
-
-INVESTIGATE:
-- Perform a brief cognitive test in clinic (e.g., MMSE or MoCA).
-- Blood tests to rule out reversible causes: FBC, Renal function, Liver function, Thyroid function (TFT), Vitamin B12, Folate.
-
-OBSERVE:
-- Monitor cognitive decline, behavioral changes, and caregiver stress.
-
-PLAN:
-- Review in 2-4 weeks with blood test results and to check on the specialist referral status.
-
-### Section 4 — CIPS Communication Skills (20%)
-CHUNK AND CHECK:
-Explain the safety advice to the son, then ask: "Just to make sure we are on the same page, what steps will you take to ensure your mother is safe at home and when going out?"
-
-ICE:
-Address the patient's denial gently but firmly involve the son in safety planning. "I hear that you feel fine, but your son is worried, so it's best we do a thorough check."
-
-PATIENT-CENTRED:
-Ensure the patient is included in the conversation, not just talking 'over' her to the son. Maintain eye contact with her.
-
-SIGNPOSTING:
-"First, I'm going to ask you a few simple memory questions, and then we will discuss arranging some blood tests."
-
-## Station 3 — FM Primary Care Consultation
-
-**Scenario**: A 75-year-old woman is brought in by her son. He reports she has been increasingly forgetful over the past year, repeatedly asking the same questions, and recently got lost walking back from the local market. She insists she is fine.
-
-### Find Reason (×0.5)
-OPEN QUESTION:
-"Hello to both of you. Your son arranged this appointment today. Can you tell me what has been happening recently with your memory?"
-
-ACTIVE LISTENING:
-Listen to both the patient's perspective (often minimizing) and the son's collateral history regarding the memory loss and getting lost.
-
-### Define Problem + Systems Review (×2.5)
-ASSESS COGNITIVE DECLINE (Collateral history from son is crucial):
-- "How long have you noticed these memory problems?" (Gradual vs sudden onset).
-- "Does she forget recent events or things from the past?" (Short-term memory usually affected first).
-- "Has she had any trouble managing her finances, cooking, or taking her medications?" (Impact on Activities of Daily Living - ADLs).
-- "Has her personality changed, or has she been seeing things that aren't there?" (Lewy Body or Frontotemporal dementia signs).
-
-SCREEN FOR REVERSIBLE CAUSES / DELIRIUM:
-- "Has she had any recent infections, like a urine infection or a cough?"
-- "Have there been any recent changes to her medications?"
-- "Has she been feeling unusually sad or withdrawn?" (Pseudodementia from depression).
-
-PHYSICAL EXAM:
-- Brief neurological exam to rule out focal signs (e.g., previous stroke).
-- Perform a cognitive screening test (e.g., Mini-Mental State Examination - MMSE or Montreal Cognitive Assessment - MoCA) if time permits, or ask orientation questions (Time, Place, Person).
-
-### ICE (Ideas, Concerns, Expectations) (×0.5)
-IDEAS:
-"What do you think is causing this forgetfulness?"
-
-CONCERNS:
-"Are you worried about losing your independence?"
-
-EXPECTATIONS:
-"What were you hoping we could do today to help with your memory?"
-
-### Diagnosis & Explanation (×0.5)
-DIAGNOSIS:
-"Based on what you've both told me, I am concerned that you are experiencing significant memory loss, which could be an early sign of dementia."
-
-EXPLANATION:
-"Dementia is a condition where the brain slowly stops working as well as it used to. It affects memory, thinking, and the ability to find your way around, which explains why you got lost coming back from the market."
-
-CHECK UNDERSTANDING:
-"I know this is difficult to hear. Do you understand why we need to do more tests to be sure?"
-
-### Management + RICE (×1.0)
-REASSURE:
-"You are not alone in this. We will refer you to specialists who can help, and we will arrange support for you and your family."
-
-PLAN:
-"I am going to order some blood tests to make sure there isn't a simple, treatable cause for your memory loss, like a vitamin deficiency. I will also refer you to the Memory Clinic for a full assessment."
-
-ADVICE:
-"For now, safety is the priority. Please do not go out alone, and your son should help manage your medications and cooking."
-
-SAFETY NET:
-"If she becomes suddenly confused, agitated, or unwell, please bring her to the A&E, as this could be a sign of an infection causing delirium."
-
-## Station 4 — Medical Record + Prescription
-
-### Subjective (S)
-Patient presents with symptoms of Dementia.
-
-### Objective (O)
-Vitals stable. Physical examination findings consistent with Dementia.
-
-### Assessment (A)
-Primary Diagnosis: Dementia
-
-### Plan (P)
-1. Start appropriate medication.
-2. Lifestyle advice.
-3. Follow-up in 4 weeks.
-
-### Prescription
-- **Drug**: Standard Medication for Dementia
-- **Preparation**: Tablets
-- **Dose**: Standard dose
-- **Route**: Oral
-- **Frequency**: Daily
-- **Duration**: 28 days
-- **Quantity**: 28 tablets
-
-**Tips**:
-- Write clearly
-- Specify route
-
+### 3. Caregiver Support & Advance Care Planning
+- Dementia takes a massive toll on caregivers. Provide education, connect them with support groups, and arrange respite care.
+- **Advance Care Planning (ACP)**: Discuss future medical care preferences (e.g., feeding tubes, resuscitation) early in the disease process while the patient still has the capacity to make decisions. Arrange Enduring Power of Attorney.

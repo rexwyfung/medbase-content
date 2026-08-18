@@ -1,189 +1,54 @@
-# Soft Tissue Injuries (Sprains/Strains)
+# Soft Tissue Injuries (軟組織損傷)
 
-## General
+## 1. Definition & Classification (定義與分類)
+- **Definition**: Injuries to the non-bony structures of the musculoskeletal system, including muscles, tendons, ligaments, fascia, and skin.
+- **Classification**:
+  - **Sprain (扭傷)**: Injury to a **ligament** (connects bone to bone). Common in ankles, knees, and wrists.
+  - **Strain (拉傷)**: Injury to a **muscle or tendon** (connects muscle to bone). Common in hamstrings, calves, and back.
+  - **Contusion (Bruise - 挫傷)**: Direct blunt trauma causing capillary rupture and bleeding into the tissues (hematoma).
+  - **Tendinopathy**: Chronic overuse injury of a tendon (e.g., Achilles tendinopathy, tennis elbow).
 
-**Examiner's Pearl**: Sprain = ligament injury; Strain = muscle/tendon injury.
-**Answer**: 扭傷 = 韌帶損傷；拉傷 = 肌肉/肌腱損傷。
+## 2. Grading of Sprains and Strains (分級)
+- **Grade I (Mild)**: Stretching or microscopic tearing of fibers. Mild pain, minimal swelling, no loss of function, joint is stable.
+- **Grade II (Moderate)**: Partial tearing of fibers. Moderate pain, swelling, ecchymosis (bruising), some loss of function, mild to moderate joint instability.
+- **Grade III (Severe)**: Complete rupture of the ligament or muscle/tendon. Severe pain (though sometimes painless if completely severed), significant swelling and bruising, complete loss of function, significant joint instability.
 
-**Examiner's Pearl**: Ottawa Ankle Rules determine the need for X-ray in ankle injuries.
-**Answer**: 渥太華足踝規則決定足踝損傷是否需要X光檢查。
+## 3. Clinical Evaluation & Red Flags (臨床評估與紅旗症狀)
+- **History**: Mechanism of injury (e.g., inversion injury for ankle sprain, sudden acceleration for hamstring strain), audibility of a "pop" or "snap" (suggests complete rupture), ability to bear weight immediately after the injury.
+- **Physical Examination**:
+  - Inspection: Swelling, bruising, deformity.
+  - Palpation: Point of maximum tenderness (helps localize the injured structure).
+  - Range of Motion (ROM): Active and passive.
+  - Special Tests: To assess joint stability (e.g., Anterior Drawer test for ankle/knee ligaments).
+- **Red Flags (Require urgent imaging or referral)**:
+  - **Inability to bear weight** (take 4 steps) immediately and in the clinic (Ottawa Ankle Rules).
+  - **Bone tenderness** (e.g., over the malleoli, navicular, or base of the 5th metatarsal in ankle injuries).
+  - **Gross deformity** (suggests fracture or dislocation).
+  - **Neurovascular compromise** (numbness, tingling, pale/cold extremity, absent pulses distal to the injury).
+  - **Suspected complete tendon rupture** (e.g., Achilles tendon rupture - positive Thompson test).
 
-**Examiner's Pearl**: Management: PRICE (Protect, Rest, Ice, Compress, Elevate) or POLICE (Protect, Optimal Loading, Ice, Compress, Elevate).
-**Answer**: 管理：PRICE（保護、休息、冰敷、加壓、抬高）或POLICE（保護、適當負荷、冰敷、加壓、抬高）。
+## 4. Investigations (檢查)
+- **X-rays**: The primary investigation to rule out fractures. Use clinical decision rules (like the Ottawa Ankle/Knee Rules) to determine if X-rays are necessary, reducing unnecessary radiation and cost.
+- **Ultrasound**: Excellent for evaluating superficial tendons (e.g., Achilles, rotator cuff) and muscles for tears or fluid collections.
+- **MRI**: The gold standard for detailed imaging of soft tissues (ligaments, menisci, deep tendons). Usually reserved for severe injuries (Grade III), suspected surgical cases, or when symptoms persist despite conservative management.
 
-**Examiner's Pearl**: Avoid HARM in first 48-72 hrs: Heat, Alcohol, Running, Massage.
-**Answer**: 首48-72小時避免HARM：熱敷、酒精、跑步、按摩。
+## 5. Management: Acute Phase (急性期治療)
+The traditional RICE protocol has been updated to **PEACE & LOVE** for soft tissue injuries.
 
-## Station 1 — Management Interview
+### PEACE (Immediate Care - First 1-3 days)
+- **P**rotect: Unload or restrict movement for 1-3 days to minimize bleeding and prevent further injury. Use crutches or a brace if necessary.
+- **E**levate: Elevate the injured limb higher than the heart to promote venous return and reduce swelling.
+- **A**void anti-inflammatories: NSAIDs (e.g., Ibuprofen) and ice may inhibit the natural, necessary inflammatory phase of tissue healing. Paracetamol is preferred for pain relief.
+- **C**ompress: Use elastic bandages or taping to reduce tissue hemorrhage and swelling.
+- **E**ducate: Educate the patient on the natural healing process and the benefits of an active approach.
 
-**Scenario**: A 25-year-old man twisted his right ankle while playing basketball yesterday. It is swollen and painful, but he can walk on it with a limp. He wants an X-ray.
+### LOVE (Subacute/Rehabilitation Phase - After 3 days)
+- **L**oad: Let pain guide the gradual return to normal activities. Optimal loading promotes tissue repair and remodeling.
+- **O**ptimism: Psychological factors strongly influence recovery. Encourage a positive outlook.
+- **V**ascularization: Pain-free cardiovascular activity (e.g., stationary cycling) increases blood flow to repairing tissues.
+- **E**xercise: Restore mobility, strength, and proprioception. Physical therapy is crucial for preventing recurrent injuries (especially for ankle sprains).
 
-### Section 1 — Assessment (20%): 4P + BATHE + ICE
-PHYSICAL (4P):
-- Presenting complaint: Right ankle pain and swelling.
-- Precipitating factors: Twisted ankle playing basketball yesterday.
-- Pattern: Acute injury.
-- Palliation/Provocation: Pain worse on weight-bearing, better with rest.
-
-BATHE:
-- Background: "You twisted your ankle playing basketball yesterday. How much pain are you in right now?"
-- Affect: "How is this injury affecting your plans for the week?"
-- Trouble: "What is the most difficult thing for you to do right now?"
-- Handling: "Have you put any ice on it or taken any painkillers?"
-- Empathy: "It's really frustrating to get injured, especially when you enjoy playing sports."
-
-ICE:
-- Ideas: "What do you think has happened inside your ankle?"
-- Concerns: "You mentioned wanting an X-ray. Are you worried that it might be broken?"
-- Expectations: "What were you hoping we could do for you today besides the X-ray?"
-
-### Section 2 — Problem Identification (10%)
-PHYSICAL:
-- Acute right ankle sprain (soft tissue injury). Need to apply Ottawa Ankle Rules to determine if X-ray is necessary.
-
-PSYCHOLOGICAL:
-- Anxiety about a potential fracture.
-
-SOCIAL:
-- Temporary limitation in mobility and sports participation.
-
-BARRIERS:
-- Patient expectation for an X-ray which may not be clinically indicated.
-
-### Section 3 — RAPRIOP Management (50%)
-REASSURE:
-"Based on my examination, you have a sprained ankle, which means you have stretched or torn the ligaments. The good news is, according to our clinical rules, it is highly unlikely to be broken, so an X-ray is not needed."
-
-ADVICE (EXACT SCRIPTS):
-- "For the first 48-72 hours, remember the RICE protocol: Rest, Ice, Compression, and Elevation."
-- "Apply an ice pack wrapped in a towel for 15-20 minutes every few hours to reduce swelling."
-- "Keep your ankle elevated above the level of your heart when resting."
-- "Avoid HARM: Heat, Alcohol, Running, and Massage for the first few days as they can increase swelling."
-
-PRESCRIBE:
-- "I will prescribe some painkillers like Paracetamol or Ibuprofen to help with the pain and inflammation."
-- Provide an elastic bandage for compression.
-
-REFER:
-- Refer to physiotherapy if symptoms persist after a few weeks or for rehabilitation before returning to sports.
-
-INVESTIGATE:
-- No X-ray required if Ottawa Ankle Rules are negative (able to bear weight for 4 steps, no bony tenderness at malleoli, navicular, or base of 5th metatarsal).
-
-OBSERVE:
-- Monitor swelling and pain.
-
-PLAN:
-- Review in 1-2 weeks if not improving.
-
-### Section 4 — CIPS Communication Skills (20%)
-CHUNK AND CHECK:
-Explain the RICE protocol, then ask: "Just to make sure I explained it clearly, how often will you apply the ice pack?"
-
-ICE:
-Directly address his request for an X-ray by explaining the Ottawa Ankle Rules and why an X-ray would not change the management of a sprain.
-
-PATIENT-CENTRED:
-"I know you were hoping for an X-ray to be sure. Are you comfortable with this plan to treat it as a sprain first?"
-
-SIGNPOSTING:
-"First, let's talk about why an X-ray isn't necessary right now, and then we will discuss how you can treat the sprain at home."
-
-## Station 3 — FM Primary Care Consultation
-
-**Scenario**: A 25-year-old man twisted his right ankle while playing basketball yesterday. It is swollen and painful, but he can walk on it with a limp. He wants an X-ray.
-
-### Find Reason (×0.5)
-OPEN QUESTION:
-"You mentioned you twisted your ankle playing basketball. Can you tell me exactly how it happened?"
-
-ACTIVE LISTENING:
-Listen for the mechanism of injury (e.g., inversion) and immediate symptoms.
-
-### Define Problem + Systems Review (×2.5)
-ASSESS SYMPTOMS:
-- "Did you hear a pop or crack when it happened?"
-- "Were you able to walk on it immediately after the injury?"
-- "Can you walk on it now, even if it's painful?"
-
-RED FLAGS (Fracture):
-- "Is the pain so severe that you cannot put any weight on it at all?"
-- "Is there any numbness or tingling in your foot?"
-
-PHYSICAL EXAM (Apply Ottawa Ankle Rules):
-- Inspect for swelling, bruising, and deformity.
-- Palpate the posterior edge of the lateral and medial malleoli (lower 6cm).
-- Palpate the base of the 5th metatarsal and the navicular bone.
-- Assess ability to bear weight for 4 steps.
-
-### ICE (Ideas, Concerns, Expectations) (×0.5)
-IDEAS:
-"What do you think has happened inside your ankle?"
-
-CONCERNS:
-"You mentioned wanting an X-ray. Are you worried that it might be broken?"
-
-EXPECTATIONS:
-"What were you hoping we could do for you today besides the X-ray?"
-
-### Diagnosis & Explanation (×0.5)
-DIAGNOSIS:
-"You have a sprained ankle. Because you can walk on it and there is no tenderness on the specific bones I pressed, it is highly unlikely to be broken. Therefore, an X-ray is not necessary."
-
-EXPLANATION:
-"A sprain means the ligaments, which are the strong bands holding your bones together, have been stretched or slightly torn. This causes the swelling and pain."
-
-CHECK UNDERSTANDING:
-"Does this make sense to you?"
-
-### Management + RICE (×1.0)
-REASSURE:
-"Sprains are very common and heal well with time and proper care."
-
-PLAN:
-"I will prescribe some painkillers to help with the discomfort and give you a bandage for support."
-
-ADVICE:
-"Follow the RICE protocol: Rest, Ice, Compression, and Elevation. Avoid Heat, Alcohol, Running, and Massage for the first few days."
-
-SAFETY NET:
-"If the pain gets significantly worse, if you become completely unable to put weight on it, or if it's not improving after a week, please come back."
-
-## Station 4 — Medical Record + Prescription Writing
-
-### Subjective (S)
-Mr Ho Ka Chun (M/22), university student, presents with right ankle pain after twisting it during a basketball game 2 hours ago. It was an inversion injury. Pain is 6/10. He was able to bear weight and walk off the court, and walked into the clinic with a slight limp. No other injuries. PMH: Nil. NKDA.
-
-### Objective (O)
-Vitals: BP 120/75 mmHg, HR 80 bpm, afebrile.
-Right Ankle: Mild swelling over the lateral malleolus, specifically over the anterior talofibular ligament (ATFL). No bruising yet.
-Palpation: Tenderness over the ATFL. NO bony tenderness over the posterior edge or tip of the lateral malleolus, medial malleolus, base of 5th metatarsal, or navicular bone.
-ROM: Active and passive inversion is painful. Plantarflexion and dorsiflexion are relatively preserved.
-Neurovascular: Distal pulses (DP, PT) present. Sensation intact.
-
-### Assessment (A)
-PRIMARY DIAGNOSIS: Right Ankle Sprain (Grade 1-2, likely ATFL).
-Evidence: Inversion injury, localized swelling and tenderness over ATFL, able to bear weight.
-
-NOT: Ankle fracture (Ottawa Ankle Rules are negative: able to bear weight for 4 steps, no bony tenderness in specified zones). X-ray is NOT indicated.
-
-### Plan (P)
-1. INVESTIGATIONS: Explained that an X-ray is not needed based on clinical examination (Ottawa rules).
-2. MANAGEMENT: Advised PRICE principles (Protect, Rest, Ice, Compress, Elevate) and to avoid HARM (Heat, Alcohol, Running, Massage) for the first 72 hours.
-3. MEDICATION: Prescribed Ibuprofen 400mg TDS PC for pain and inflammation. Paracetamol 1g Q6H PRN for breakthrough pain.
-4. SUPPORT: Provided an elastic tubular bandage (Tubigrip) for compression and support.
-5. FOLLOW-UP: Advised to return if pain worsens, unable to bear weight, or no improvement in 1-2 weeks. Consider physiotherapy if symptoms persist.
-
-### Prescription
-- **Drug**: Ibuprofen
-- **Preparation**: Tablet
-- **Dose**: 400 mg
-- **Route**: Oral
-- **Frequency**: Three times daily (TDS) after meals
-- **Duration**: 5 days
-- **Quantity**: 15 tablets
-
-**Tips**:
-- Specify "after meals" (PC)
-- Prescribe an NSAID for acute soft tissue injury
-
+## 6. Complications (併發症)
+- **Chronic Instability**: Especially common after severe or repeated ankle sprains, leading to recurrent "giving way."
+- **Chronic Pain / Tendinopathy**: Failure of the tissue to heal properly, leading to disorganized collagen and chronic pain.
+- **Compartment Syndrome**: A rare but limb-threatening complication of severe contusions or crush injuries, where swelling within a fascial compartment compromises blood flow.

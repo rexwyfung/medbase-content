@@ -1,214 +1,69 @@
-# Colorectal Cancer Screening
+# Colorectal Cancer (CRC) Screening (大腸癌篩查)
 
-## General
+## 1. Epidemiology & Rationale for Screening (流行病學與篩查理據)
+- **Epidemiology**: Colorectal cancer is one of the most common cancers globally and consistently ranks among the top two most common cancers in Hong Kong (in both incidence and mortality).
+- **Rationale**:
+  - **Long Preclinical Phase**: Most CRCs develop slowly over 10-15 years from benign precancerous lesions (adenomatous polyps) through the adenoma-carcinoma sequence.
+  - **Detectability**: These polyps and early-stage cancers often bleed microscopically, which can be detected by stool tests. They can also be visualized and removed during endoscopy.
+  - **Curability**: Early-stage CRC (Stage I/II) is highly curable with surgery alone. Removing precancerous polyps prevents cancer from developing entirely.
+  - **Asymptomatic**: Early CRC and polyps are usually asymptomatic. Once symptoms appear (rectal bleeding, change in bowel habit, weight loss, anemia), the disease is often advanced.
 
-**Examiner's Pearl**: HK CRCSS (2016–): FIT (faecal immunochemical test) biennially for average-risk 50–75 years; positive FIT → colonoscopy within 3 months
-**Answer**: 香港大腸癌篩查計劃（2016年起）：平均風險50–75歲人群每兩年進行FIT（大便免疫化學測試）；FIT陽性→3個月內進行結腸鏡檢查
+## 2. Screening Modalities (篩查方法)
+There are two main categories of screening tests: stool-based tests (detect signs of cancer) and structural exams (detect cancer and polyps).
 
-**Examiner's Pearl**: FIT positive rate ~9% → colonoscopy; cancer detection rate ~2% of positive FIT; adenoma detection ~40% of positive FIT
-**Answer**: FIT陽性率約9%→結腸鏡；FIT陽性中癌症檢出率約2%；FIT陽性中腺瘤檢出率約40%
+### A. Stool-Based Tests
+- **Fecal Immunochemical Test (FIT - 大便隱血測試)**:
+  - *Mechanism*: Uses antibodies to specifically detect human hemoglobin in the stool.
+  - *Advantages*: Non-invasive, cheap, no dietary or medication restrictions required before testing (unlike the older Guaiac FOBT), specific for lower GI bleeding (hemoglobin from the upper GI tract is degraded before reaching the colon).
+  - *Disadvantages*: Lower sensitivity for detecting precancerous polyps compared to colonoscopy. Must be repeated annually or biennially.
+  - *Action*: A positive FIT result MUST be followed up with a colonoscopy.
 
-**Examiner's Pearl**: High-risk: FH of CRC (1st degree <60 yo), Lynch syndrome, FAP, IBD ≥8–10 years — earlier/more frequent colonoscopy
-**Answer**: 高風險：CRC家族史（60歲前一級親屬）、林奇綜合症、FAP、IBD≥8–10年——更早/更頻繁的結腸鏡檢查
+### B. Structural Exams
+- **Colonoscopy (大腸內窺鏡)**:
+  - *Mechanism*: Direct visualization of the entire colon and rectum using a flexible endoscope.
+  - *Advantages*: The **Gold Standard**. It is both diagnostic and therapeutic (polyps can be biopsied or removed via polypectomy during the same procedure). High sensitivity and specificity. Needs to be done only every 10 years if normal.
+  - *Disadvantages*: Invasive, requires bowel preparation (drinking laxatives), requires sedation/anesthesia, small risk of serious complications (perforation, bleeding), expensive.
+- **CT Colonography (Virtual Colonoscopy)**:
+  - *Mechanism*: CT scan of the abdomen and pelvis after the colon is inflated with air.
+  - *Advantages*: Less invasive than colonoscopy, no sedation required.
+  - *Disadvantages*: Still requires bowel preparation. If polyps are found, a therapeutic colonoscopy is still required. Involves radiation exposure.
 
-**Examiner's Pearl**: CRC alarm symptoms → urgent colonoscopy (not FIT): rectal bleeding, change in bowel habit >6 weeks, iron deficiency anaemia, palpable mass
-**Answer**: CRC警示症狀→緊急結腸鏡（不是FIT）：直腸出血、排便習慣改變>6週、缺鐵性貧血、可觸及腫塊
+## 3. Screening Guidelines (Hong Kong Context) (篩查指引)
+The Hong Kong Government runs the **Colorectal Cancer Screening Programme**.
 
-**Examiner's Pearl**: Colonoscopy: gold standard — visualises entire colon, biopsy/polypectomy possible; bowel prep required
-**Answer**: 結腸鏡：金標準——可視化整個結腸，可活檢/息肉切除；需要腸道準備
+### Average-Risk Individuals
+Defined as having NO personal history of CRC or polyps, NO family history of CRC, and NO inflammatory bowel disease.
+- **Age**: Screening is recommended for individuals aged **50 to 75 years**.
+- **Method**:
+  - **First-line (Government Programme)**: **FIT every 1 to 2 years**. If positive, refer for Colonoscopy.
+  - **Alternative**: Colonoscopy every 10 years (often chosen by patients in the private sector).
 
-**Examiner's Pearl**: Singapore/HK preferred: FIT is non-invasive, cheap, effective for average-risk (USPSTF recommends multiple modalities including FIT, colonoscopy q10y, CT colonography)
-**Answer**: 新加坡/香港偏好：FIT無創、廉價、對平均風險有效（USPSTF建議多種方法包括FIT、每10年結腸鏡、CT結腸鏡）
+### High-Risk Individuals
+Screening must start earlier and use colonoscopy.
+- **Family History**:
+  - *One first-degree relative (FDR)* diagnosed with CRC at age < 60, OR *two or more FDRs* diagnosed at any age:
+    - Start colonoscopy at age 40, or 10 years younger than the earliest diagnosis in the family (whichever is earlier). Repeat every 5 years.
+  - *One FDR* diagnosed at age ≥ 60:
+    - Start screening at age 40 using standard modalities (FIT or Colonoscopy).
+- **Personal History of Adenomatous Polyps**:
+  - Requires surveillance colonoscopy. The interval (1, 3, 5, or 10 years) depends on the number, size, and histology (e.g., villous features, high-grade dysplasia) of the polyps removed.
+- **Personal History of Inflammatory Bowel Disease (Ulcerative Colitis or Crohn's Colitis)**:
+  - High risk of dysplasia. Requires regular surveillance colonoscopies with multiple random biopsies, usually starting 8-10 years after disease onset.
+- **Hereditary Syndromes**:
+  - *Familial Adenomatous Polyposis (FAP)*: 100% risk of CRC. Start annual sigmoidoscopy/colonoscopy at age 10-12. Prophylactic colectomy is usually required.
+  - *Lynch Syndrome (HNPCC)*: High risk of CRC and other cancers (endometrial, ovarian). Start colonoscopy at age 20-25, repeat every 1-2 years.
 
-## Station 1 — Management Interview
+## 4. Clinical Approach to a Positive FIT (FIT陽性的處理)
+- A positive FIT means blood was detected in the stool. It does NOT mean the patient definitely has cancer. Common causes of a positive FIT include hemorrhoids, anal fissures, polyps, and CRC.
+- **Mandatory Next Step**: The patient must be referred for a **Colonoscopy** to identify the source of bleeding.
+- Do NOT repeat the FIT test to "confirm" it. A single positive test warrants investigation.
+- Do NOT assume the bleeding is just from known hemorrhoids without ruling out proximal lesions via colonoscopy.
 
-**Scenario**: Mr Lee, 55M, asymptomatic. Presents for a routine check-up. He received a letter from the government about the Colorectal Cancer Screening Programme. He is hesitant because he feels perfectly healthy, has no family history, and is terrified of having a colonoscopy.
-
-### Section 1 — Assessment (20%): 4P + BATHE + ICE
-4P FRAMEWORK:
-- Predisposing: Age 55 (target age for screening).
-- Precipitating: Received government invitation letter.
-- Perpetuating: Fear of colonoscopy (pain, complications), misconception that asymptomatic = no cancer.
-- Protective: Attended the clinic to discuss it, no family history, no red flag symptoms.
-
-BATHE (EXACT SCRIPTS):
-- Background: "You mentioned receiving the letter about the Colorectal Cancer Screening Programme. How do you feel about participating in this programme?"
-- Affect: "How do you feel when you think about the possibility of having a colonoscopy?"
-- Trouble: "What is the main thing holding you back from joining the screening? Is it the fear of the procedure, or feeling that it's unnecessary?"
-- Handling: "Have you discussed this with your family or friends who might have done it?"
-- Empathy: "It is completely normal to feel anxious about medical procedures like a colonoscopy, especially when you feel perfectly healthy right now."
-
-ICE (EXACT SCRIPTS):
-- Ideas: "Why do you think the government recommends this screening even for people who feel completely healthy?"
-- Concerns: "You mentioned being terrified of a colonoscopy. What exactly worries you the most about it? Is it the pain, the preparation, or the risks?"
-- Expectations: "What information can I provide today to help you make a decision about joining the programme?"
-
-### Section 2 — Problem Identification (10%)
-PHYSICAL:
-- Eligible for Colorectal Cancer Screening (Age 50-75, asymptomatic).
-- Needs assessment to ensure no exclusion criteria (e.g., existing symptoms, recent colonoscopy).
-
-PSYCHOLOGICAL:
-- Anxiety and fear regarding invasive procedures (colonoscopy).
-
-SOCIAL:
-- Public health engagement (preventative medicine).
-
-BARRIERS:
-- Lack of understanding of the natural history of colorectal cancer (polyps take years to become cancer and are asymptomatic).
-- Fear of the secondary screening step (colonoscopy) preventing participation in the primary step (FIT test).
-
-### Section 3 — RAPRIOP Management (50%)
-REASSURE:
-"It is great that you feel healthy, and having no family history lowers your risk. However, colorectal cancer is one of the most common cancers in Hong Kong. The goal of screening is to catch it before you have any symptoms."
-
-ADVICE (EXACT SCRIPTS):
-- "Colorectal cancer usually starts as a small, harmless growth called a polyp. It takes years for a polyp to turn into cancer. During this time, you will feel completely normal. If we wait until you have symptoms like bleeding or weight loss, the cancer is usually already advanced."
-- "The screening programme does NOT start with a colonoscopy. The first step is a simple, painless stool test called FIT (Faecal Immunochemical Test) that you do at home. It looks for tiny, invisible traces of blood in your stool."
-- "If the FIT test is normal, you just repeat it in 2 years. You only need to consider a colonoscopy if the FIT test is positive (shows blood). Even then, a positive test often just means you have polyps or hemorrhoids, not necessarily cancer."
-- "If you do need a colonoscopy, it is done under sedation, so you will be asleep and won't feel pain."
-
-PRESCRIBE:
-- Issue the FIT (Faecal Immunochemical Test) tubes and explain how to collect the samples (usually 2 samples on different days).
-
-REFER:
-- Referral for Colonoscopy is ONLY made if the FIT test returns positive.
-
-INVESTIGATE:
-- FIT test (primary screening modality).
-
-OBSERVE:
-- Await FIT test results.
-
-PLAN:
-- "Take these tubes home, collect the samples as instructed, and drop them off at the designated collection point. We will contact you when the results are ready."
-
-SAFETY NET:
-"Even if you join the screening, if you ever notice visible blood in your stool, experience a sudden change in your bowel habits, or have unexplained weight loss, do not wait for the next screening—come back to see a doctor immediately."
-
-### Section 4 — CIPS Communication Skills (20%)
-CHUNK AND CHECK:
-Explain that the first step is just a stool test, not a colonoscopy, then ask, "Does it make you feel more comfortable knowing that we start with a simple test at home?"
-
-ICE:
-Directly address his fear of the colonoscopy by separating it from the initial screening step, and explaining the use of sedation if it eventually becomes necessary.
-
-PATIENT-CENTRED:
-"You are in complete control. Even if the stool test is positive, you can still decide at that time whether you want to proceed with the colonoscopy. Are you willing to at least do the stool test first?"
-
-SIGNPOSTING:
-"First, let's talk about why screening is important even when you feel healthy, and then I will explain exactly how the simple stool test works."
-
-## Station 3 — FM Primary Care Consultation
-
-**Scenario**: Patient presents to discuss the Colorectal Cancer Screening Programme. He is asymptomatic but hesitant to join because he fears having a colonoscopy.
-
-### Find Reason (×0.5)
-OPEN QUESTION:
-"You are here to discuss the Colorectal Cancer Screening Programme. Can you tell me what your thoughts are about it so far?"
-
-ACTIVE LISTENING:
-Allow the patient to express their fears and hesitations without interrupting.
-
-### Define Problem + Systems Review (×2.5)
-ASSESS ELIGIBILITY & EXCLUSIONS:
-- "Have you ever been diagnosed with colorectal cancer or polyps?"
-- "Have you had a colonoscopy in the past 10 years, or a stool blood test in the past 2 years?"
-- "Do you have any close family members (parents, siblings) who had bowel cancer?"
-
-SCREEN FOR RED FLAGS (SYMPTOMS REQUIRING URGENT REFERRAL, NOT SCREENING):
-- "Have you noticed any blood in your stool recently?"
-- "Has there been a recent change in your bowel habits, like new constipation or diarrhea?"
-- "Have you lost any weight without trying?"
-- "Do you have any unexplained stomach pain?"
-
-PHYSICAL EXAM:
-- Generally not required for asymptomatic screening enrollment unless red flags are identified (in which case, examine abdomen and perform DRE).
-
-### ICE (Ideas, Concerns, Expectations) (×0.5)
-IDEAS:
-"Why do you think it might be unnecessary to do the screening if you feel healthy?"
-
-CONCERNS:
-"You mentioned being afraid of a colonoscopy. What part of it worries you the most?"
-
-EXPECTATIONS:
-"What information do you need from me today to help you decide whether to join?"
-
-### Diagnosis & Explanation (×0.5)
-DIAGNOSIS:
-"You are perfectly healthy with no symptoms, which makes you the ideal candidate for screening."
-
-EXPLANATION:
-"Bowel cancer starts as a small polyp that grows very slowly over many years. During this time, it causes no symptoms at all. The goal of screening is to find these polyps and remove them before they ever turn into cancer."
-
-CHECK UNDERSTANDING:
-"Does it make sense why we want to test you while you still feel completely healthy?"
-
-### Management + RICE (×1.0)
-REASSURE:
-"You do not need a colonoscopy today. The screening programme is designed to be as easy and non-invasive as possible."
-
-INVESTIGATE:
-"The first step is simply a Faecal Immunochemical Test (FIT). It is a small tube you use at home to collect a tiny sample of your stool. It checks for hidden blood."
-
-PLAN:
-"If the stool test is normal, you are done, and we just repeat it in 2 years. You only need to consider a colonoscopy if the stool test finds blood."
-
-ADVICE:
-"Even if you need a colonoscopy later, it is done with medication to make you sleep, so you won't feel pain. But for now, let's just focus on the simple stool test."
-
-SAFETY NET:
-"Whether you join the programme or not, if you ever see blood in your stool or lose weight without trying, you must come back to see a doctor immediately."
-
-## Station 4 — Records & Prescription: CRC Screening
-
-### Subjective (S)
-Mr Lam, 55M. Health maintenance visit.
-Asymptomatic — no rectal bleeding, no change in bowel habit, no weight loss.
-FH: brother dx rectal cancer age 58. No other 1st-degree relatives with CRC.
-PMH: nil significant. Non-smoker, minimal alcohol. BMI 24. Exercise 3×/week.
-No current medications.
-
-### Objective (O)
-BP 122/78  HR 68  BMI 24
-Abdomen: soft, non-tender, no organomegaly, no palpable mass
-PR: normal tone, no mass, no blood on glove
-FIT: not done yet (planned)
-Other health maintenance: BP, glucose, lipids all normal (from last year)
-
-### Assessment (A)
-55M for CRC screening counselling. HIGH RISK due to 1st-degree relative (brother) with CRC at age 58 (<60). Colonoscopy indicated (not FIT alone). Counselled regarding procedure, benefits, and alternatives.
-
-### Plan (P)
-1. Colonoscopy referral (high-risk FH — not eligible for FIT alone under CRCSS)
-   → Refer to endoscopy centre; explain bowel prep, procedure, sedation options
-   → Target: within 2 months
-2. If colonoscopy reveals adenoma: follow-up per endoscopist (usually 3–5 year surveillance)
-3. Consider Lynch syndrome genetics referral if colonoscopy shows multiple/hereditary pattern polyps
-4. OTHER SCREENING (opportunistic):
-   → BP: 122/78 normal — check annually
-   → Glucose/HbA1c: normal — recheck at 45 if wt gain
-   → Lipids: normal — recheck in 5 years
-   → Skin cancer awareness counselling
-5. Lifestyle maintenance: exercise ✓, BMI 24 ✓, encourage Mediterranean diet (reduces CRC risk)
-6. Document family history in records; update when available
-
-### Prescription
-- **Drug**: Sodium picosulfate with magnesium citrate
-- **Preparation**: Oral powder (sachets) for bowel preparation
-- **Dose**: 1 sachet
-- **Route**: Oral (dissolved in water)
-- **Frequency**: Sachet 1 at 5pm the day before; Sachet 2 at 6am on procedure day
-- **Duration**: One-time use (pre-colonoscopy bowel prep)
-- **Quantity**: 2 sachets (Picolax or Citrafleet)
-
-**Notes**: Dissolve each sachet in 150mL cold water. Drink additional 1.5L clear fluids after each sachet. Clear fluid diet from day before: water, clear soup, black tea/coffee, apple juice (no pulp). Nothing by mouth from midnight before afternoon colonoscopy (or 6 hours before procedure). Expect watery diarrhoea. CAUTION: renal impairment, cardiac failure, IBD (use with caution/specialist advice).
-
-**Tips**:
-- Always prescribe with clear written instructions — complex two-dose regimen
-- Document that colonoscopy referral letter was sent and patient counselled
-- Check anticoagulants/antiplatelets — inform endoscopist (may need to stop pre-procedure)
-- Aspirin: can usually continue; warfarin: bridge to LMWH or stop; DOAC: stop 24–48h before
-- Note: bowel prep is prescribed by the hospital/clinic — may not need GP Rx in practice
-
+## 5. Red Flags (Symptoms requiring urgent referral, NOT screening)
+Screening is for *asymptomatic* individuals. If a patient presents with symptoms, they need diagnostic investigation (urgent colonoscopy), not a screening FIT.
+- Change in bowel habit (especially looser stools or increased frequency) lasting > 4-6 weeks.
+- Rectal bleeding (blood mixed with stool or on the surface).
+- Unexplained iron deficiency anemia.
+- Palpable abdominal or rectal mass.
+- Unintentional weight loss.
+- Tenesmus (feeling of incomplete emptying).

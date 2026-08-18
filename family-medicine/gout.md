@@ -1,219 +1,77 @@
-# Gout
+# Gout (痛風)
 
-## General
+## 1. Definition & Epidemiology (定義與流行病學)
+- **Definition**: An inflammatory arthritis caused by the deposition of monosodium urate (MSU) crystals in joints and periarticular tissues, resulting from chronic hyperuricemia.
+- **Epidemiology**: The most common inflammatory arthritis in men. Prevalence increases with age and is rising globally due to dietary changes and obesity. More common in men; women are relatively protected until post-menopause (estrogen promotes uric acid excretion).
 
-**Examiner's Pearl**: Gout = MSU crystal deposition; hyperuricaemia (SUA >420 µmol/L men, >360 women) is necessary but not sufficient
-**Answer**: 痛風=單鈉尿酸鹽晶體沉積；高尿酸血症（男性SUA>420 µmol/L，女性>360）是必要條件但非充分條件
+## 2. Pathophysiology (病理生理學)
+- **Hyperuricemia**: Serum uric acid (SUA) > 420 µmol/L (7.0 mg/dL). Uric acid is the end-product of purine metabolism. Hyperuricemia results from:
+  - **Underexcretion (90% of cases)**: Reduced renal clearance (e.g., due to CKD, genetics, or medications like thiazide diuretics, low-dose aspirin).
+  - **Overproduction (10% of cases)**: High purine diet, alcohol, cell turnover (e.g., myeloproliferative disorders, tumor lysis syndrome), genetic enzyme defects (e.g., Lesch-Nyhan syndrome).
+- **Crystal Deposition**: When SUA exceeds the solubility limit, MSU crystals precipitate in synovial fluid and tissues.
+- **Inflammation**: Crystals are phagocytosed by macrophages, triggering the inflammasome (NLRP3) and releasing pro-inflammatory cytokines (IL-1β), leading to a massive influx of neutrophils and an acute, intensely painful flare.
 
-**Examiner's Pearl**: Classic presentation: podagra (first MTP joint) 50%; exquisitely tender, warm, swollen, red; nocturnal onset
-**Answer**: 典型表現：足痛風（第一跖趾關節）50%；極度觸痛、溫熱、腫脹、紅；夜間發作
+## 3. Clinical Features (臨床特徵)
+The disease progresses through four stages:
+1. **Asymptomatic Hyperuricemia**: High SUA but no symptoms.
+2. **Acute Gouty Arthritis (Gout Flare)**:
+   - **Onset**: Extremely rapid, often peaking within 12-24 hours. Often starts at night or early morning.
+   - **Symptoms**: Intensely painful, hot, red, swollen, and exquisitely tender joint. Even the weight of a bedsheet is intolerable.
+   - **Sites**: **First metatarsophalangeal (MTP) joint** is the most common (Podagra - ~50% of first attacks). Other common sites: midfoot, ankle, knee. Usually monoarticular initially.
+   - **Triggers**: Alcohol binge, large purine-rich meal (seafood, red meat), trauma, surgery, dehydration, initiation of urate-lowering therapy (ULT), or acute medical illness.
+   - **Resolution**: Self-limiting over 1-2 weeks even without treatment, followed by an intercritical period.
+3. **Intercritical Gout**: Asymptomatic periods between flares.
+4. **Chronic Tophaceous Gout**: Develops after years of poorly controlled hyperuricemia.
+   - **Tophi**: Chalky deposits of MSU crystals surrounded by granulomatous inflammation. Found in joints, cartilage (pinna of ear), tendons (Achilles), and bursae (olecranon). Can cause joint destruction and deformity.
+   - Chronic, persistent joint pain and stiffness (polyarticular).
 
-**Examiner's Pearl**: Acute attack Rx: NSAIDs (if no contraindication) OR colchicine 500mcg BD-TDS OR prednisolone 30–40mg OD × 5–7 days
-**Answer**: 急性發作治療：NSAIDs（如無禁忌）或秋水仙鹼500mcg每日2–3次或強的松30–40mg每日×5–7天
+## 4. Diagnosis & Investigations (診斷與檢查)
+- **Joint Aspiration (Arthrocentesis)**: The **gold standard** for diagnosis.
+  - Synovial fluid analysis under polarized light microscopy shows **negatively birefringent, needle-shaped MSU crystals** (yellow when parallel to the compensator axis).
+  - Also crucial to rule out Septic Arthritis (fluid will have very high WBC count, >50,000/µL, and positive culture). Gout and infection can coexist.
+- **Serum Uric Acid (SUA)**:
+  - Useful for long-term monitoring, but **NOT diagnostic during an acute flare**. SUA can be normal or even low during an acute attack (due to acute phase reactants increasing renal excretion). Check SUA 2-4 weeks *after* the flare resolves.
+- **Imaging**:
+  - **X-ray**: Early disease shows soft tissue swelling. Late disease shows classic "punched-out" erosions with overhanging edges (rat-bite erosions) and preserved joint space.
+  - **Ultrasound**: Highly sensitive. May show the "double contour sign" (crystal deposition on the cartilage surface) or tophi.
 
-**Examiner's Pearl**: Do NOT start or stop urate-lowering therapy (ULT) during acute attack — mobilises crystals and prolongs flare
-**Answer**: 急性發作期間不要開始或停止降尿酸治療（ULT）——會使晶體移動並延長發作
+## 5. Management: Acute Flare (急性發作治療)
+Goal: Rapidly reduce inflammation and pain. **Do NOT start Urate-Lowering Therapy (ULT) during an acute flare** (it can prolong or worsen the attack by mobilizing tissue urate). If the patient is already on ULT, **do not stop it**.
 
-**Examiner's Pearl**: ULT indication: ≥2 attacks/year, tophi, urate nephropathy, SUA >540 µmol/L; target SUA <360 µmol/L (or <300 if tophi)
-**Answer**: ULT適應症：每年≥2次發作、痛風石、尿酸性腎病、SUA>540 µmol/L；目標SUA<360 µmol/L（有痛風石則<300）
+- **First-line options** (Choose based on patient comorbidities):
+  1. **NSAIDs**: e.g., Indomethacin, Naproxen, Celecoxib. Use at maximum dose for a few days, then taper. Avoid in CKD, active peptic ulcer, heart failure.
+  2. **Colchicine (秋水仙鹼)**: Most effective if started within 24-36 hours of onset. Dose: 1mg stat, then 0.5mg 1 hour later (low-dose regimen is as effective as high-dose and has fewer side effects). Side effects: Diarrhea, nausea. Reduce dose in CKD.
+  3. **Corticosteroids**: Oral (Prednisolone 30-35mg/day for 3-5 days), Intra-articular injection (excellent if only 1-2 large joints are involved and infection is ruled out), or IM injection. Preferred if NSAIDs/Colchicine are contraindicated (e.g., severe CKD).
 
-**Examiner's Pearl**: Allopurinol: start LOW (50–100mg), titrate slowly q4w to target SUA; start only when acute attack settled + colchicine prophylaxis
-**Answer**: 別嘌醇：低劑量開始（50–100mg），每4週緩慢調整至目標SUA；只在急性發作平息後+秋水仙鹼預防下開始
+## 6. Management: Chronic Gout (預防與長期管理)
+Goal: Prevent flares, dissolve tophi, and prevent joint destruction by lowering SUA to target.
 
-## Station 1 — Management Interview
+### Indications for Urate-Lowering Therapy (ULT)
+- ≥ 2 acute flares per year.
+- Presence of tophi.
+- Radiographic damage attributable to gout.
+- Uric acid kidney stones.
+- Consider if 1 flare + CKD stage ≥ 3, SUA > 540 µmol/L, or very young age of onset.
 
-**Scenario**: Mr Ng, 55M. Presents with a sudden, exquisitely painful, red, hot, and swollen right big toe that woke him up last night. He attended a seafood and beer buffet two days ago. He cannot bear weight on the foot. He wants antibiotics for the "infection".
+### Target Serum Uric Acid
+- **Target**: **< 360 µmol/L** (6.0 mg/dL) for most patients.
+- **Target**: **< 300 µmol/L** (5.0 mg/dL) for patients with severe disease (tophi, frequent flares, joint damage) to speed up crystal dissolution.
 
-### Section 1 — Assessment (20%): 4P + BATHE + ICE
-4P FRAMEWORK:
-- Predisposing: Age 55, male, likely underlying hyperuricemia.
-- Precipitating: High purine meal (seafood) and alcohol (beer) binge 2 days ago.
-- Perpetuating: Dehydration from alcohol, lack of long-term uric acid control.
-- Protective: Classic presentation (1st MTP joint), seeking immediate medical help.
+### Pharmacological Therapy (ULT)
+- **Allopurinol (別嘌醇)**: First-line Xanthine Oxidase Inhibitor (XOI).
+  - *Dosing*: Start low (e.g., 100mg/day, or 50mg if CKD) and titrate up every 2-4 weeks until SUA target is reached. Maximum dose 900mg/day.
+  - *Side effects*: Rash, GI upset.
+  - *Severe Adverse Effect*: **Allopurinol Hypersensitivity Syndrome (AHS)** / SJS / TEN. High mortality. Strongly associated with the **HLA-B*5801 allele**, which is common in Han Chinese. **Screening for HLA-B*5801 is highly recommended in Hong Kong before starting Allopurinol.**
+- **Febuxostat (非布司他)**: Second-line XOI. Used if Allopurinol is contraindicated (e.g., HLA-B*5801 positive) or not tolerated. Does not require dose adjustment in mild/moderate CKD. Caution in patients with severe cardiovascular disease.
+- **Uricosurics (e.g., Probenecid, Benzbromarone)**: Increase renal excretion. Second-line or add-on. Contraindicated if history of uric acid stones or severe CKD.
 
-BATHE (EXACT SCRIPTS):
-- Background: "You mentioned your big toe suddenly became incredibly painful and swollen last night. How is this affecting your ability to walk and work today?"
-- Affect: "How do you feel about this sudden, severe pain hitting you out of nowhere?"
-- Trouble: "What is the most difficult part of dealing with this right now? Is it the pain, or the inability to walk?"
-- Handling: "How have you been trying to manage the pain since last night? Have you taken any painkillers?"
-- Empathy: "Gout pain is notoriously one of the most severe pains a person can experience. It must be agonizing to not even be able to put weight on your foot."
+### Prophylaxis during ULT Initiation
+- Initiating ULT causes rapid shifts in SUA, which frequently triggers acute flares.
+- **Crucial step**: Co-prescribe prophylaxis (low-dose Colchicine 0.5mg daily/BD, or low-dose NSAID) when starting ULT. Continue for 3-6 months.
 
-ICE (EXACT SCRIPTS):
-- Ideas: "You mentioned wanting antibiotics. Do you think you have cut your toe or caught a bacterial infection?"
-- Concerns: "Are you worried that this might spread or cause permanent damage to your joint?"
-- Expectations: "What were you hoping we could do today to stop this severe pain?"
-
-### Section 2 — Problem Identification (10%)
-PHYSICAL:
-- Acute Gouty Arthritis (Podagra).
-- Must rule out Septic Arthritis (though classic history of seafood/beer makes gout highly likely).
-
-PSYCHOLOGICAL:
-- Distress due to severe, acute pain.
-
-SOCIAL:
-- Temporary immobility affecting work and daily life.
-- Dietary habits (high purine intake, alcohol consumption).
-
-BARRIERS:
-- Misconception that the redness and swelling must equal a bacterial infection requiring antibiotics.
-- Lack of understanding of the chronic nature of hyperuricemia.
-
-### Section 3 — RAPRIOP Management (50%)
-REASSURE:
-"I have examined your toe. While it looks very red and angry, it is NOT a bacterial infection. You do not need antibiotics. This is a classic attack of Gout, and we have excellent medications to stop the pain quickly."
-
-ADVICE (EXACT SCRIPTS):
-- "Gout is caused by too much uric acid in your blood. When the levels get too high, the acid forms sharp, needle-like crystals in your joint. The seafood and beer you had are very high in purines, which turn into uric acid, triggering this attack."
-- "Right now, you need to rest the foot and keep it elevated. Drink plenty of water to help flush the uric acid out of your kidneys."
-- "Avoid alcohol, especially beer, and high-purine foods like organ meats and shellfish to prevent future attacks."
-
-PRESCRIBE:
-- "I will prescribe a strong anti-inflammatory medication (NSAID like Naproxen or Indomethacin) or Colchicine. You need to take this immediately. It will dissolve the inflammation and the pain should improve significantly within 24 hours."
-- (Note: Do NOT start Allopurinol during an acute attack as it can worsen the flare).
-
-REFER:
-- Not required currently.
-
-INVESTIGATE:
-- Check serum Uric Acid level (though it may be falsely normal during an acute attack, it serves as a baseline).
-- Check renal function (Creatinine) before prescribing high-dose NSAIDs.
-
-OBSERVE:
-- Monitor pain resolution.
-
-PLAN:
-- Follow up in 2-4 weeks when the attack has completely settled. We will recheck your uric acid level then and discuss starting a daily medication (Allopurinol) to prevent future attacks.
-
-SAFETY NET:
-"If the redness starts spreading rapidly up your foot, if you develop a high fever, or if the pain does not improve with the medication, go to the A&E immediately as we must ensure it is not a severe joint infection."
-
-### Section 4 — CIPS Communication Skills (20%)
-CHUNK AND CHECK:
-Explain the "needle-like crystals" analogy, then ask, "Does it make sense why antibiotics won't work for these crystals, and why we need a strong anti-inflammatory instead?"
-
-ICE:
-Directly address his demand for antibiotics by explaining the true pathology of gout, validating the severity of the inflammation but correcting the treatment approach.
-
-PATIENT-CENTRED:
-"I know the pain is unbearable right now. Are you comfortable taking this strong anti-inflammatory medication with food to protect your stomach, instead of the antibiotics?"
-
-SIGNPOSTING:
-"First, let's talk about why this isn't an infection, and then we will discuss the specific medication that will dissolve these painful crystals."
-
-## Station 3 — FM Primary Care Consultation
-
-**Scenario**: Patient presents with a sudden, extremely painful, red, and swollen big toe. He attended a seafood buffet a couple of days ago.
-
-### Find Reason (×0.5)
-OPEN QUESTION:
-"You mentioned your big toe is very painful and swollen. Can you tell me exactly when and how this started?"
-
-ACTIVE LISTENING:
-Allow the patient to describe the acute onset of pain without interrupting.
-
-### Define Problem + Systems Review (×2.5)
-ASSESS GOUT SYMPTOMS:
-- "Did the pain start suddenly, perhaps waking you up at night?"
-- "Is the joint red, hot to the touch, and swollen?"
-- "Is it so sensitive that even a bedsheet touching it causes severe pain?"
-- "Have you ever had an attack like this before?"
-
-SCREEN FOR TRIGGERS:
-- "What have you been eating and drinking over the last few days? Any seafood, red meat, or alcohol?"
-- "Have you started any new medications recently, like water pills (diuretics)?"
-
-SCREEN FOR RED FLAGS (SEPTIC ARTHRITIS - MUST ASK):
-- "Have you had any fevers, chills, or felt shivery?"
-- "Did you have any cuts, scrapes, or injuries to the toe before this started?"
-
-PHYSICAL EXAM:
-- Inspect the joint for severe erythema, swelling, and tophi (white nodules).
-- Gently palpate to confirm extreme tenderness and warmth.
-- Check temperature to rule out systemic fever.
-
-### ICE (Ideas, Concerns, Expectations) (×0.5)
-IDEAS:
-"What do you think is causing this sudden swelling and pain?"
-
-CONCERNS:
-"Are you worried that it might be a serious infection?"
-
-EXPECTATIONS:
-"What were you hoping I could prescribe to stop the pain today?"
-
-### Diagnosis & Explanation (×0.5)
-DIAGNOSIS:
-"Based on your symptoms and the recent seafood buffet, you are having an acute attack of Gout."
-
-EXPLANATION:
-"Gout happens when there is too much uric acid in your blood. Foods like seafood and alcohol break down into uric acid. When the levels get too high, the acid forms sharp crystals inside your joint, causing severe inflammation, redness, and pain."
-
-CHECK UNDERSTANDING:
-"Does that explanation make sense to you?"
-
-### Management + RICE (×1.0)
-REASSURE:
-"This is not a bacterial infection, so you don't need antibiotics. We have specific medications that work very fast to dissolve this inflammation."
-
-INVESTIGATE:
-"I will arrange a blood test to check your uric acid level and kidney function, but we will start treatment immediately."
-
-PLAN:
-"I will prescribe a strong anti-inflammatory medication (like Naproxen or Colchicine). Take it right away. The pain should improve significantly within a day."
-
-ADVICE:
-"Rest the foot and keep it elevated. Drink lots of water to flush out the uric acid. Avoid alcohol and high-purine foods like seafood and organ meats."
-
-SAFETY NET:
-"If you develop a high fever, or if the redness starts spreading rapidly up your foot, go to the A&E immediately as it could be an infection."
-
-## Station 4 — Records & Prescription: Gout
-
-### Subjective (S)
-Mr Tang, 52M. Acute gout right first MTP joint.
-Onset 2 nights ago, woken by severe pain, unable to walk. 3rd attack this year.
-No fever. Not on any gout treatment currently. SUA 580 µmol/L (from last week).
-PMH: HTN (on HCTZ 25mg), no CKD, no PUD. NKDA.
-Alcohol: 2–3 beers daily. Diet: frequent red meat and seafood.
-
-### Objective (O)
-Right first MTP joint: erythema, warmth, exquisite tenderness (even bedsheet contact painful), swelling ++
-No fever (37.1°C). No tophi. No other joint involvement.
-BP 148/92 (HCTZ — worsened by diuretic effect dehydration?)
-SUA 580 µmol/L. Renal function: Cr 88, eGFR 76 (normal). No joint aspiration done.
-
-### Assessment (A)
-Acute gout, right first MTP joint (podagra). 3rd attack this year — ULT indicated when attack settles.
-Hyperuricaemia (580 µmol/L) — exacerbated by HCTZ, excess alcohol, purine-rich diet.
-Plan: acute treatment today; arrange HLA-B*58:01 test before ULT initiation; switch HCTZ → losartan when attack settled.
-
-### Plan (P)
-1. Colchicine 500mcg TDS × 7 days (acute attack — adequate renal function)
-2. Naproxen 500mg BD × 5 days + omeprazole 20mg OD (avoid if renal function worsens)
-3. Elevate foot, rest, ice pack (wrapped in cloth) 15 min TDS
-4. Adequate hydration: 2L/day (avoid alcohol completely until attack resolved)
-5. Arrange HLA-B*58:01 test (Han Chinese — before starting allopurinol)
-6. After attack settles: start allopurinol 50mg OD + colchicine prophylaxis
-7. Switch HCTZ → losartan 50mg OD (dual benefit: BP + uricosuric)
-8. Dietary advice: reduce alcohol, limit red meat/seafood/organ meats
-9. Urgent review in 1 week (or sooner if worsening — rule out septic arthritis if fever develops)
-
-### Prescription
-- **Drug**: Colchicine
-- **Preparation**: Tablet 500 mcg
-- **Dose**: 500 mcg (1 tablet)
-- **Route**: Oral
-- **Frequency**: Three times daily
-- **Duration**: 7 days (acute attack) then review
-- **Quantity**: 21 tablets
-
-**Notes**: Start as soon as possible — most effective if taken within 24 hours of attack onset. Take with food to reduce GI side effects. STOP and call doctor if severe diarrhoea, nausea, vomiting or muscle weakness occurs. Do NOT take with macrolide antibiotics (clarithromycin) or statins without monitoring — risk of toxicity. Reduce dose in kidney disease.
-
-**Tips**:
-- Modern dosing: 500mcg BD-TDS (NOT the old "1mg then 500mcg hourly until diarrhoea" — dangerous)
-- Low-dose colchicine is equally effective with far fewer GI side effects
-- Document renal function before prescribing (adjust dose if CKD)
-- IMPORTANT drug interaction: clarithromycin + colchicine → fatal colchicine toxicity
-- Colchicine also used for prophylaxis: 500mcg OD–BD for 6 months when starting ULT
-
+### Lifestyle Modifications
+- Weight loss if obese.
+- Diet: Limit purine-rich foods (red meat, organ meats, certain seafood like shellfish/sardines). Limit high-fructose corn syrup (sweetened beverages).
+- Alcohol: Restrict intake, especially beer and spirits (wine is less strongly associated).
+- Hydration: Drink plenty of water.
+- Review medications: Consider switching thiazide diuretics or losartan (which is uniquely uricosuric) if appropriate.

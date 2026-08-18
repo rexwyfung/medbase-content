@@ -1,189 +1,65 @@
-# Dermatophytosis (Tinea/Fungal Infection)
+# Dermatophytosis (Tinea / Fungal Skin Infections) (皮癬菌病 / 真菌感染)
 
-## General
+## 1. Definition & Epidemiology (定義與流行病學)
+- **Definition**: Superficial fungal infections of the keratinized tissues (skin, hair, and nails) caused by a group of fungi known as dermatophytes (genera *Trichophyton*, *Microsporum*, and *Epidermophyton*).
+- **Epidemiology**: Extremely common worldwide, especially in warm, humid climates like Hong Kong. Transmission occurs via direct contact with infected humans (anthropophilic), animals (zoophilic), or soil (geophilic), or indirectly via fomites (towels, floors, shoes).
 
-**Examiner's Pearl**: Tinea corporis (body), cruris (groin), pedis (feet), unguium (nails).
-**Answer**: 體癬（身體）、股癬（腹股溝）、足癬（腳）、甲癬（指甲）。
+## 2. Clinical Classification & Features (臨床分類與特徵)
+Dermatophyte infections are classified clinically by the body site involved (Tinea + Latin name of body part).
 
-**Examiner's Pearl**: Presentation: Annular, scaly plaques with active raised borders and central clearing.
-**Answer**: 表現：環狀、鱗屑性斑塊，邊緣活躍隆起，中央消退。
+- **Tinea Corporis (Ringworm of the body - 體癬)**:
+  - Affects the trunk and limbs.
+  - Classic presentation: Annular (ring-shaped), erythematous, scaly plaques with a **raised, active, advancing border** and central clearing. Pruritic (itchy).
+- **Tinea Cruris (Jock itch - 股癬)**:
+  - Affects the groin and inner thighs. Often spares the scrotum/penis (unlike Candidiasis).
+  - Erythematous, scaly plaques with a sharp, raised border. Very itchy. Often associated with concurrent Tinea Pedis (autoinoculation from putting on underwear over infected feet).
+- **Tinea Pedis (Athlete's foot - 足癬)**:
+  - Affects the feet. Most common dermatophytosis.
+  - Three main types:
+    1. *Interdigital*: Maceration, scaling, and fissuring between the toes (most common between 4th and 5th toes).
+    2. *Moccasin (Hyperkeratotic)*: Diffuse, fine, silvery scaling on the soles and lateral borders of the feet. Often chronic and asymptomatic.
+    3. *Vesiculobullous*: Inflammatory vesicles/bullae on the instep or soles.
+- **Tinea Capitis (Scalp ringworm - 頭癬)**:
+  - Affects the scalp and hair shafts. Primarily seen in children.
+  - Presents as patches of alopecia (hair loss) with scaling, "black dots" (broken hairs at the scalp surface), or a severe inflammatory mass called a **Kerion** (boggy, purulent plaque that can lead to permanent scarring alopecia).
+- **Tinea Unguium (Onychomycosis - 灰甲 / 甲癬)**:
+  - Fungal infection of the nail plate or bed.
+  - Nails become thickened, discolored (yellow/brown), brittle, and show subungual hyperkeratosis (debris under the nail) and onycholysis (separation of nail from bed).
 
-**Examiner's Pearl**: Diagnosis: Clinical, skin scraping for KOH preparation.
-**Answer**: 診斷：臨床診斷，刮取皮屑進行KOH檢查。
+## 3. Diagnosis (診斷)
+- Often diagnosed clinically based on the characteristic appearance (annular lesions with active borders).
+- **KOH Preparation (氫氧化鉀塗片檢查)**: The most rapid and cost-effective diagnostic test. Skin scrapings from the active border (or nail clippings/hair) are treated with 10-20% KOH to dissolve keratin. Under a microscope, branching, septate hyphae confirm a dermatophyte infection.
+- **Fungal Culture**: Takes weeks to grow. Used if the diagnosis is uncertain, the infection is resistant to treatment, or for Tinea Capitis/Unguium to identify the specific organism.
+- **Wood's Lamp**: Ultraviolet light. Some *Microsporum* species (causing Tinea Capitis) fluoresce green, but most common dermatophytes do not fluoresce.
 
-**Examiner's Pearl**: Treatment: Topical antifungals (Clotrimazole, Terbinafine) for 2-4 weeks. Oral antifungals for hair/nail involvement or extensive disease.
-**Answer**: 治療：外用抗真菌藥（克霉唑、特比萘芬）2-4週。如果累及毛髮/指甲或病情廣泛，則口服抗真菌藥。
+## 4. Differential Diagnosis (鑑別診斷)
+- **Tinea Corporis**: Nummular eczema (usually no central clearing), Psoriasis (thicker silvery scale, extensor surfaces), Pityriasis rosea (herald patch, Christmas tree distribution).
+- **Tinea Cruris**: Candidiasis (beefy red, satellite pustules, involves scrotum), Erythrasma (bacterial, coral-red fluorescence under Wood's lamp).
+- **Tinea Pedis**: Contact dermatitis (from shoes/socks), Dyshidrotic eczema (pompholyx).
 
-## Station 1 — Management Interview
+## 5. Management (治療與管理)
+### 1. Topical Antifungals (First-line for localized Tinea Corporis, Cruris, Pedis)
+- **Classes**:
+  - *Allylamines* (e.g., **Terbinafine** / 特比萘芬 cream): Fungicidal. Generally preferred as they require shorter treatment courses (1-2 weeks) and have higher cure rates.
+  - *Azoles* (e.g., Clotrimazole, Miconazole, Ketoconazole): Fungistatic. Require longer treatment (2-4 weeks).
+- **Application**: Apply to the lesion and 1-2 cm of normal skin beyond the active border. Continue for 1-2 weeks *after* clinical clearing to prevent relapse.
+- **Tinea Incognito**: A misdiagnosed fungal infection treated inappropriately with topical corticosteroids. The steroid suppresses inflammation, altering the classic appearance (loses the active border, becomes diffuse) while the fungus proliferates deeply. **Never use combination steroid/antifungal creams (e.g., Lotrisone) as first-line therapy.**
 
-**Scenario**: A 20-year-old male student complains of an itchy, red, ring-shaped rash on his groin and inner thighs for 2 weeks. He plays football regularly.
+### 2. Systemic (Oral) Antifungals
+- **Indications**:
+  - **Tinea Capitis**: Topical therapy is ineffective because it cannot penetrate the hair shaft. Oral therapy is mandatory.
+  - **Tinea Unguium (Onychomycosis)**: Topical therapy has very low cure rates. Oral therapy is required for clearance (often 6 weeks for fingernails, 12 weeks for toenails).
+  - Extensive, severe, or refractory Tinea Corporis/Pedis.
+- **Medications**:
+  - **Oral Terbinafine**: First-line for dermatophytes (especially onychomycosis).
+  - **Oral Itraconazole**: Alternative, broader spectrum.
+  - **Oral Griseofulvin**: Traditional first-line for Tinea Capitis in children (especially *Microsporum* species).
+- **Monitoring**: Oral antifungals (especially Terbinafine and Itraconazole) carry a risk of hepatotoxicity. Baseline Liver Function Tests (LFTs) are recommended, and monitoring is required for prolonged courses.
 
-### Section 1 — Assessment (20%): 4P + BATHE + ICE
-PHYSICAL (4P):
-- Presenting complaint: Itchy, red, ring-shaped rash on groin (Tinea Cruris).
-- Precipitating factors: Sweating from playing football, tight clothing.
-- Pattern: Spreading over 2 weeks.
-- Palliation/Provocation: Worse with sweating and friction.
-
-BATHE:
-- Background: "You've had this itchy rash for 2 weeks. How is it affecting your daily activities?"
-- Affect: "How does having this rash make you feel?"
-- Trouble: "What is the most bothersome part? The itchiness or the appearance?"
-- Handling: "Have you tried putting any creams or lotions on it?"
-- Empathy: "It must be very uncomfortable and annoying, especially when you are trying to play sports."
-
-ICE:
-- Ideas: "What do you think might have caused this rash?"
-- Concerns: "Are you worried that it might be something serious or contagious?"
-- Expectations: "What were you hoping we could do today to get rid of it?"
-
-### Section 2 — Problem Identification (10%)
-PHYSICAL:
-- Tinea Cruris (Jock Itch) - a fungal skin infection. Need to check for concurrent Tinea Pedis (Athlete's foot).
-
-PSYCHOLOGICAL:
-- Embarrassment or discomfort due to the location of the rash.
-
-SOCIAL:
-- Impact on sports participation.
-
-BARRIERS:
-- Non-compliance with continuing treatment after symptoms resolve (leading to recurrence).
-
-### Section 3 — RAPRIOP Management (50%)
-REASSURE:
-"This is a very common fungal infection, often called 'jock itch'. It is easily treatable with antifungal creams and is not a sign of poor hygiene."
-
-ADVICE (EXACT SCRIPTS):
-- "Keep the area clean and dry. Dry yourself thoroughly after showering, especially in the groin area."
-- "Wear loose-fitting, cotton underwear and avoid tight clothing to reduce sweating and friction."
-- "Change your clothes and shower as soon as possible after playing football."
-- "Do not share towels or clothes with others to prevent spreading it."
-
-PRESCRIBE:
-- "I will prescribe an antifungal cream (e.g., Terbinafine or Clotrimazole). Apply it twice a day to the rash and the normal skin around it."
-- "CRITICAL: You must continue using the cream for 1-2 weeks AFTER the rash has completely disappeared to ensure the fungus is fully eradicated."
-
-REFER:
-- Not needed unless resistant to treatment.
-
-INVESTIGATE:
-- Usually a clinical diagnosis. Skin scraping for fungal culture only if diagnosis is uncertain or treatment fails.
-
-OBSERVE:
-- Monitor for resolution of the rash.
-
-PLAN:
-- Review in 2-4 weeks if the rash does not improve or spreads.
-
-### Section 4 — CIPS Communication Skills (20%)
-CHUNK AND CHECK:
-Explain how long to use the cream, then ask: "Just to make sure I explained it clearly, how long will you keep applying the cream after the rash is gone?"
-
-ICE:
-Directly address his concern about contagion by explaining how it spreads and how to prevent it (not sharing towels).
-
-PATIENT-CENTRED:
-"I know it's annoying to keep using the cream when you feel better, but it's the best way to stop it from coming back."
-
-SIGNPOSTING:
-"First, let's talk about how to care for your skin to prevent this, and then we will discuss the cream you need to use."
-
-## Station 3 — FM Primary Care Consultation
-
-**Scenario**: A 20-year-old male student complains of an itchy, red, ring-shaped rash on his groin and inner thighs for 2 weeks. He plays football regularly.
-
-### Find Reason (×0.5)
-OPEN QUESTION:
-"You mentioned having an itchy rash on your groin. Can you tell me more about when it started and how it looks?"
-
-ACTIVE LISTENING:
-Listen for the description of the rash (ring-shaped, spreading) and exacerbating factors (sweating).
-
-### Define Problem + Systems Review (×2.5)
-ASSESS SYMPTOMS:
-- "Is the rash spreading or getting larger?"
-- "Is it itchy all the time, or worse at certain times?"
-- "Do you have a similar rash anywhere else, like on your feet (athlete's foot) or body?"
-
-RED FLAGS:
-- "Is the area very painful, hot to touch, or oozing pus?" (Secondary bacterial infection)
-- "Do you have a fever?"
-
-RISK FACTORS:
-- "Do you sweat a lot during football?"
-- "Do you wear tight underwear or sports gear?"
-- "Have you used any steroid creams on it?" (Can worsen fungal infections - Tinea Incognito)
-
-PHYSICAL EXAM:
-- Inspect the rash: Look for annular (ring-shaped) erythematous plaques with a scaly, active border and central clearing in the groin/inner thighs.
-- Check the feet (between toes) and nails for concurrent fungal infection.
-
-### ICE (Ideas, Concerns, Expectations) (×0.5)
-IDEAS:
-"What do you think might have caused this rash?"
-
-CONCERNS:
-"Are you worried that it might be something serious or contagious?"
-
-EXPECTATIONS:
-"What were you hoping we could do today to get rid of it?"
-
-### Diagnosis & Explanation (×0.5)
-DIAGNOSIS:
-"You have a fungal skin infection called Tinea Cruris, commonly known as 'jock itch'."
-
-EXPLANATION:
-"Fungus loves warm, moist environments. When you sweat during football and wear tight clothes, it creates the perfect condition for the fungus to grow on your skin, causing the red, itchy rings."
-
-CHECK UNDERSTANDING:
-"Does this make sense to you?"
-
-### Management + RICE (×1.0)
-REASSURE:
-"This is very common in athletes and is easily treated with the right cream."
-
-PLAN:
-"I will prescribe an antifungal cream for you to apply twice a day."
-
-ADVICE:
-"Keep the area dry, wear loose cotton underwear, and shower immediately after sports. It is crucial that you keep using the cream for 2 weeks AFTER the rash disappears to kill all the fungus."
-
-SAFETY NET:
-"If the rash spreads significantly, becomes very painful, hot, or starts oozing pus, please come back and see me."
-
-## Station 4 — Medical Record + Prescription Writing
-
-### Subjective (S)
-Mr Chan Tai Man (M/20), university student and wrestler, presents with an itchy rash on his right forearm for 2 weeks. He applied an over-the-counter hydrocortisone cream for the past 5 days, which initially reduced the redness but the rash has now spread and become more inflamed. No other lesions. No systemic symptoms. PMH: Asthma (well-controlled). NKDA.
-
-### Objective (O)
-Vitals: Afebrile.
-Skin (Right Forearm): A 5cm annular (ring-shaped) erythematous plaque. The border is raised, scaly, and well-demarcated. The center shows partial clearing but is somewhat erythematous and studded with small pustules (likely due to steroid use).
-Other areas: Scalp, feet, and groin are clear. Nails are normal.
-
-### Assessment (A)
-PRIMARY DIAGNOSIS: Tinea Corporis (Ringworm), exacerbated by topical corticosteroids (Tinea Incognito).
-Evidence: Annular scaly plaque, history of wrestling (contact sport), worsening after steroid application.
-
-NOT: Nummular eczema (usually multiple, very itchy, responds well to steroids), Psoriasis (thicker silvery scales, usually extensor surfaces).
-
-### Plan (P)
-1. EDUCATION: Explained the fungal nature of the infection and how the steroid cream worsened it by suppressing local immunity.
-2. MEDICATION: Advised to STOP the hydrocortisone cream immediately. Prescribed topical Terbinafine 1% cream, apply BD for 2 weeks (and continue for 1 week after clinical clearing).
-3. HYGIENE ADVICE: Advised not to share towels or sports equipment. Wash wrestling gear in hot water. Keep the area clean and dry.
-4. FOLLOW-UP: Return in 2-3 weeks if the rash does not improve or continues to spread.
-
-### Prescription
-- **Drug**: Terbinafine
-- **Preparation**: Cream (1%)
-- **Dose**: Apply a thin layer to the affected area and 2cm of surrounding normal skin
-- **Route**: Topical
-- **Frequency**: Twice daily (BD)
-- **Duration**: 2 weeks
-- **Quantity**: 1 tube (15g)
-
-**Tips**:
-- Specify topical route
-- Include instructions to apply to surrounding normal skin
-
+### 3. Prevention & Hygiene
+- Keep skin dry and clean (fungi thrive in warm, moist environments).
+- Dry thoroughly between toes after bathing.
+- Wear breathable footwear and cotton socks. Change socks daily.
+- Avoid walking barefoot in public showers/locker rooms.
+- Do not share towels, clothing, or hairbrushes.
+- Treat concurrent Tinea Pedis to prevent recurrent Tinea Cruris.

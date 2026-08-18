@@ -1,184 +1,74 @@
-# Anemia
+# Anemia (貧血)
 
-## General
+## 1. Definition & Epidemiology (定義與流行病學)
+- **Definition**: A reduction in the total circulating red blood cell (RBC) mass, clinically indicated by a decrease in Hemoglobin (Hb) concentration or Hematocrit (Hct) below the normal range for age and sex.
+  - WHO criteria for adults: Hb < 13.0 g/dL in men; Hb < 12.0 g/dL in non-pregnant women.
+- **Epidemiology**: Extremely common globally. Iron deficiency is the most prevalent cause worldwide.
 
-**Examiner's Pearl**: Defined by low hemoglobin. Most common cause worldwide is iron deficiency.
-**Answer**: 定義為血紅蛋白偏低。全球最常見的原因是缺鐵。
+## 2. Clinical Features (臨床特徵)
+Symptoms depend on the severity, rate of onset, and the patient's cardiopulmonary reserve.
+- **General Symptoms of Tissue Hypoxia**: Fatigue, weakness, lethargy, exertional dyspnea, palpitations, dizziness, headache.
+- **Signs**: Pallor (check conjunctivae, palmar creases, nail beds), tachycardia, flow murmur.
+- **Specific Signs based on etiology**:
+  - *Iron Deficiency*: Koilonychia (spoon nails), angular stomatitis, glossitis, pica (craving non-food items like ice or dirt).
+  - *B12 Deficiency*: Neurological signs (peripheral neuropathy, subacute combined degeneration of the cord - loss of proprioception/vibration), glossitis (beefy red tongue), jaundice (due to ineffective erythropoiesis).
+  - *Hemolysis*: Jaundice, splenomegaly, dark urine.
 
-**Examiner's Pearl**: Investigate cause based on MCV (microcytic, normocytic, macrocytic).
-**Answer**: 根據平均紅血球體積（MCV）調查原因（小細胞性、正細胞性、大細胞性）。
+## 3. Classification by Mean Corpuscular Volume (MCV) (按平均紅血球體積分類)
+The most practical approach to diagnosing the cause of anemia is based on the MCV (RBC size).
 
-## Station 1 — Management Interview
+### Microcytic Anemia (MCV < 80 fL)
+Defect in hemoglobin synthesis.
+- **Iron Deficiency Anemia (IDA - 缺鐵性貧血)**: The most common cause.
+  - *Causes*: Blood loss (GI bleed, menorrhagia), increased demand (pregnancy), poor absorption (Celiac disease), poor diet.
+  - *Labs*: Low Ferritin (most specific), Low Serum Iron, High TIBC (Total Iron Binding Capacity), Low Transferrin Saturation.
+- **Thalassemia (地中海貧血)**: Genetic defect in globin chain synthesis. Very common in Southeast Asia/Hong Kong.
+  - *Features*: Usually asymptomatic trait.
+  - *Labs*: Normal or High Ferritin, Normal Iron. Diagnosed by Hemoglobin pattern on HPLC/Electrophoresis.
+- **Anemia of Chronic Disease (ACD)**: Can be microcytic or normocytic.
+- **Sideroblastic Anemia**: Rare defect in heme synthesis.
 
-**Scenario**: A 35-year-old woman complains of feeling tired all the time, dizzy when standing up, and having heavy menstrual periods. Her recent blood test shows Iron Deficiency Anemia (Hb 9.5 g/dL).
+### Normocytic Anemia (MCV 80-100 fL)
+- **Acute Blood Loss**.
+- **Anemia of Chronic Disease (ACD - 慢性疾病貧血)**: Secondary to chronic inflammation, infection, or malignancy. Hepcidin traps iron in macrophages, making it unavailable for erythropoiesis.
+  - *Labs*: Normal/High Ferritin, Low Serum Iron, Low TIBC.
+- **Chronic Kidney Disease (CKD)**: Decreased Erythropoietin (EPO) production.
+- **Bone Marrow Failure**: Aplastic anemia, infiltration (leukemia, myeloma).
+- **Hemolytic Anemia (early/mild)**: Destruction of RBCs.
 
-### Section 1 — Assessment (20%): 4P + BATHE + ICE
-PHYSICAL (4P):
-- Presenting complaint: Fatigue, dizziness, heavy periods.
-- Precipitating factors: Menorrhagia leading to iron deficiency.
-- Pattern: Chronic, worsening over months.
-- Palliation/Provocation: Exertion worsens fatigue.
+### Macrocytic Anemia (MCV > 100 fL)
+- **Megaloblastic (Defect in DNA synthesis)**:
+  - **Vitamin B12 Deficiency**: Causes include Pernicious Anemia (autoimmune destruction of parietal cells/intrinsic factor), strict vegan diet, terminal ileum disease (Crohn's, resection).
+  - **Folate Deficiency**: Causes include poor diet (alcoholics), increased demand (pregnancy, hemolysis), medications (Methotrexate).
+  - *Blood film*: Hypersegmented neutrophils, macro-ovalocytes.
+- **Non-Megaloblastic**:
+  - Alcohol excess.
+  - Liver disease.
+  - Hypothyroidism.
+  - Reticulocytosis (reticulocytes are larger than mature RBCs, so a massive release due to hemolysis or bleeding raises the MCV).
+  - Medications (e.g., Hydroxyurea).
 
-BATHE:
-- Background: "You've been feeling very tired and dizzy recently. How is this affecting your work and daily life?"
-- Affect: "How does feeling exhausted all the time make you feel emotionally?"
-- Trouble: "What is the most difficult part of dealing with this fatigue?"
-- Handling: "Have you been taking any vitamins or changing your diet to try and help?"
-- Empathy: "It must be very frustrating to feel like you have no energy to get through the day."
+## 4. Assessment & Investigations (評估與檢查)
+- **History**: Bleeding history (menstrual, GI - melena/hematochezia), diet (vegan?), alcohol intake, family history (Thalassemia), chronic diseases, medications.
+- **Initial Investigations**:
+  - Complete Blood Count (CBC) with RBC indices (MCV, MCH).
+  - Peripheral Blood Smear (Film): Essential for evaluating RBC morphology.
+  - Reticulocyte Count: Assesses bone marrow response. High = marrow is working (hemolysis or bleeding). Low = marrow failure or lack of building blocks (iron/B12).
+- **Targeted Investigations (based on MCV)**:
+  - *Microcytic*: Iron studies (Ferritin, Iron, TIBC). If IDA is confirmed in a man or postmenopausal woman, **GI endoscopy (OGD and Colonoscopy) is mandatory** to rule out GI malignancy.
+  - *Macrocytic*: Serum B12, Serum Folate, TFTs, LFTs.
 
-ICE:
-- Ideas: "Did you suspect that your heavy periods might be related to your tiredness?"
-- Concerns: "Are you worried about the blood test results or what might be causing the anemia?"
-- Expectations: "What were you hoping we could do today to help you get your energy back?"
-
-### Section 2 — Problem Identification (10%)
-PHYSICAL:
-- Iron Deficiency Anemia, likely secondary to menorrhagia. Need to investigate the cause of heavy periods.
-
-PSYCHOLOGICAL:
-- Frustration and low mood secondary to chronic fatigue.
-
-SOCIAL:
-- Impact on work productivity and quality of life.
-
-BARRIERS:
-- Potential gastrointestinal side effects from oral iron supplements.
-
-### Section 3 — RAPRIOP Management (50%)
-REASSURE:
-"Your blood test confirms you have iron deficiency anemia, which explains why you feel so tired and dizzy. This is very common in women with heavy periods, and it is easily treatable."
-
-ADVICE (EXACT SCRIPTS):
-- "Increase iron-rich foods in your diet, such as red meat, dark green leafy vegetables, and beans."
-- "Vitamin C helps your body absorb iron, so try drinking a glass of orange juice with your meals."
-- "Avoid drinking tea or coffee with your meals, as they can block iron absorption."
-
-PRESCRIBE:
-- "I will prescribe iron tablets (e.g., Ferrous Sulphate) for you to take daily. It's best to take them on an empty stomach, but if they upset your stomach, you can take them with food."
-- Discuss options for managing heavy periods (e.g., Tranexamic acid, hormonal contraceptives) if appropriate.
-
-REFER:
-- Refer to a gynecologist for further investigation of menorrhagia (e.g., fibroids) if indicated.
-
-INVESTIGATE:
-- Pelvic ultrasound to investigate the cause of heavy menstrual bleeding.
-
-OBSERVE:
-- Monitor for side effects of iron tablets (constipation, black stools, nausea).
-
-PLAN:
-- Review in 4 weeks with a repeat blood test (FBC) to check if the hemoglobin level is rising.
-
-### Section 4 — CIPS Communication Skills (20%)
-CHUNK AND CHECK:
-Explain how to take the iron tablets and dietary advice, then ask: "Just to make sure I explained it clearly, what foods or drinks should you avoid when taking your iron tablets?"
-
-ICE:
-Directly address her fatigue by explaining the link between her heavy periods, iron loss, and lack of energy.
-
-PATIENT-CENTRED:
-"I know iron tablets can sometimes cause stomach upset or constipation. If that happens, let me know and we can adjust the dose or try a different type."
-
-SIGNPOSTING:
-"First, let's talk about how to treat the anemia with medication and diet, and then we will discuss what we can do about your heavy periods."
-
-## Station 3 — FM Primary Care Consultation
-
-**Scenario**: A 35-year-old woman complains of feeling tired all the time, dizzy when standing up, and having heavy menstrual periods. Her recent blood test shows Iron Deficiency Anemia (Hb 9.5 g/dL).
-
-### Find Reason (×0.5)
-OPEN QUESTION:
-"We have your blood test results back, but first, can you tell me more about the tiredness and dizziness you've been experiencing?"
-
-ACTIVE LISTENING:
-Listen for the severity of the fatigue, the nature of the dizziness (postural), and the menstrual history.
-
-### Define Problem + Systems Review (×2.5)
-ASSESS SYMPTOMS (Anemia):
-- "Do you ever feel short of breath, especially when walking up stairs?"
-- "Have you noticed your heart racing or pounding?" (Palpitations)
-
-ASSESS MENSTRUAL HISTORY (Menorrhagia):
-- "How many days does your period usually last?"
-- "How often do you need to change your pads or tampons on the heaviest days? Do you pass large blood clots?"
-- "Have you noticed any bleeding between your periods or after sex?"
-
-RED FLAGS (GI Bleeding / Malignancy):
-- "Have you noticed any blood in your stool, or has your stool been black and tarry?"
-- "Have you had any unexplained weight loss or severe abdominal pain?"
-
-PHYSICAL EXAM:
-- Check conjunctivae and palmar creases for pallor.
-- Check pulse (tachycardia) and blood pressure (postural drop).
-- Abdominal exam to check for masses (e.g., enlarged fibroid uterus).
-
-### ICE (Ideas, Concerns, Expectations) (×0.5)
-IDEAS:
-"Did you suspect that your heavy periods might be related to your tiredness?"
-
-CONCERNS:
-"Are you worried about the blood test results or what might be causing the anemia?"
-
-EXPECTATIONS:
-"What were you hoping we could do today to help you get your energy back?"
-
-### Diagnosis & Explanation (×0.5)
-DIAGNOSIS:
-"Your blood test shows your hemoglobin is 9.5, which means you have iron deficiency anemia. This is almost certainly caused by the heavy bleeding during your periods."
-
-EXPLANATION:
-"Hemoglobin is the protein in your red blood cells that carries oxygen around your body. It needs iron to be made. Because you are losing a lot of blood, your iron stores are depleted, leading to less oxygen reaching your muscles and brain, causing the fatigue and dizziness."
-
-CHECK UNDERSTANDING:
-"Does this make sense to you?"
-
-### Management + RICE (×1.0)
-REASSURE:
-"This is a very common problem and we can easily treat it to get your energy levels back up."
-
-PLAN:
-"I will prescribe iron tablets to replenish your stores. We also need to arrange an ultrasound scan of your pelvis to see why your periods are so heavy."
-
-ADVICE:
-"Take the iron tablets with orange juice to help absorption, and avoid tea or coffee with meals. Be aware that the tablets might make your stool turn black, which is normal."
-
-SAFETY NET:
-"If you experience severe dizziness, fainting, or chest pain, or if you notice blood in your stool, please seek medical attention immediately."
-
-## Station 4 — Medical Record + Prescription Writing
-
-### Subjective (S)
-Ms Wong Pui Sze (F/32), presents with a 3-month history of progressive fatigue, lethargy, and occasional dizziness on standing. She reports heavy menstrual bleeding (menorrhagia) for the past year, using 6-8 fully soaked pads per day during her period which lasts 7 days. No dark stools, no PR bleeding. Diet is normal, eats meat. PMH: Nil. NKDA.
-
-### Objective (O)
-Vitals: BP 110/70 mmHg, HR 90 bpm, afebrile.
-General: Pale conjunctivae and palmar creases. No jaundice.
-CVS: Tachycardia, soft ejection systolic murmur at the left sternal edge (flow murmur).
-Abdomen: Soft, non-tender. No hepatosplenomegaly.
-Investigations (from previous visit): Hb 8.5 g/dL (Low), MCV 72 fL (Low), MCH 24 pg (Low). Ferritin 8 ng/mL (Low).
-
-### Assessment (A)
-PRIMARY DIAGNOSIS: Iron Deficiency Anemia (IDA) secondary to menorrhagia.
-Evidence: Microcytic hypochromic anemia with low ferritin, clear history of heavy menstrual loss.
-
-NOT: Thalassemia trait (ferritin would be normal/high), GI bleeding (no symptoms, young age, obvious menstrual cause).
-
-### Plan (P)
-1. MEDICATION: Prescribed oral Ferrous Sulphate 200mg BD for 3 months. Counseled on side effects (black stools, constipation, nausea) and to take with vitamin C (e.g., orange juice) to enhance absorption, avoiding tea/coffee/milk at the same time.
-2. REFERRAL: Referred to Gynecology clinic for evaluation and management of menorrhagia (e.g., ultrasound pelvis to rule out fibroids).
-3. DIET: Advised iron-rich diet (red meat, dark green leafy vegetables).
-4. FOLLOW-UP: Review in 4 weeks with a repeat Complete Blood Count (CBC) to check for Hb response (expect ~1-2 g/dL rise in 4 weeks).
-
-### Prescription
-- **Drug**: Ferrous Sulphate
-- **Preparation**: Tablet
-- **Dose**: 200 mg
-- **Route**: Oral
-- **Frequency**: Twice daily (BD)
-- **Duration**: 4 weeks (initial supply)
-- **Quantity**: 56 tablets
-
-**Tips**:
-- Specify iron preparation and dose
-- Include counseling on absorption (vitamin C, avoid tea/milk)
-
+## 5. Management (治療與管理)
+Treatment must be directed at the **underlying cause**, not just the low hemoglobin.
+- **Iron Deficiency Anemia**:
+  - Treat the cause of bleeding!
+  - **Oral Iron Replacement**: Ferrous sulfate or Ferrous fumarate.
+    - *Counseling*: Take on an empty stomach with Vitamin C (orange juice) to enhance absorption. Avoid taking with tea, coffee, calcium, or antacids.
+    - *Side effects*: Constipation, black stools, nausea.
+  - IV Iron: Indicated if oral iron is not tolerated, poorly absorbed, or if rapid replacement is needed.
+- **Vitamin B12 Deficiency**:
+  - Intramuscular (IM) Hydroxocobalamin injections (loading doses followed by maintenance every 1-3 months). High-dose oral B12 can be used for dietary deficiency.
+- **Folate Deficiency**:
+  - Oral Folic Acid (5mg daily).
+  - *Crucial Rule*: **Always check B12 levels before giving Folate.** Giving folate to a B12-deficient patient will correct the anemia but can precipitate irreversible neurological damage.
+- **Anemia of Chronic Disease**: Treat the underlying inflammatory condition. EPO injections may be used in CKD.

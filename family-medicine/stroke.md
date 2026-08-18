@@ -1,170 +1,67 @@
-# Stroke
+# Stroke (Cerebrovascular Accident - CVA) (中風)
 
-## General
+## 1. Definition & Epidemiology (定義與流行病學)
+- **Definition**: A rapidly developing clinical syndrome of focal (or global) disturbance of cerebral function, lasting > 24 hours or leading to death, with no apparent cause other than a vascular origin.
+- **TIA (Transient Ischemic Attack - 短暫性腦缺血發作)**: A transient episode of neurological dysfunction caused by focal brain, spinal cord, or retinal ischemia, **without acute infarction**. Symptoms typically resolve within 1-2 hours (historically defined as < 24 hours). TIA is a major warning sign for an impending stroke.
+- **Epidemiology**: A leading cause of adult disability and mortality worldwide. Incidence increases significantly with age.
 
-## Station 1 — Management Interview
+## 2. Classification & Pathophysiology (分類與病理生理學)
+Strokes are broadly divided into two main types:
 
-**Scenario**: A 70-year-old man had an ischemic stroke 3 months ago, leaving him with mild right-sided weakness. He is here for a follow-up. He is feeling frustrated with his slow recovery and is not taking his blood pressure medication regularly.
+### 1. Ischemic Stroke (缺血性中風) - ~85% of cases
+Caused by an occlusion of a cerebral blood vessel, leading to cerebral infarction.
+- **Thrombotic (Atherosclerosis)**: Plaque buildup in large arteries (e.g., Carotid, Middle Cerebral Artery) ruptures, forming a local clot.
+- **Embolic**: A clot forms elsewhere and travels to the brain. Most commonly **Cardiogenic** (due to **Atrial Fibrillation**, valvular disease, or recent MI).
+- **Lacunar (Small Vessel Disease)**: Occlusion of small penetrating arteries deep in the brain, strongly associated with chronic hypertension and diabetes.
 
-### Section 1 — Assessment (20%): 4P + BATHE + ICE
-PHYSICAL (4P):
-- Presenting complaint: Post-stroke follow-up, right-sided weakness, medication non-adherence.
-- Precipitating factors: Underlying hypertension, atherosclerosis.
-- Pattern: Chronic recovery phase.
-- Palliation/Provocation: Physiotherapy helps, but progress is slow.
+### 2. Hemorrhagic Stroke (出血性中風) - ~15% of cases
+Caused by the rupture of a blood vessel.
+- **Intracerebral Hemorrhage (ICH - 腦出血)**: Bleeding directly into the brain parenchyma. Most commonly due to uncontrolled chronic hypertension (rupture of Charcot-Bouchard microaneurysms) or Cerebral Amyloid Angiopathy in the elderly.
+- **Subarachnoid Hemorrhage (SAH - 蛛網膜下腔出血)**: Bleeding into the subarachnoid space. Usually due to a ruptured berry aneurysm. Presents with a sudden, "thunderclap" headache.
 
-BATHE:
-- Background: "It's been 3 months since your stroke. How have things been going at home?"
-- Affect: "You mentioned feeling frustrated. How is this affecting your mood overall?"
-- Trouble: "What is the most difficult thing for you to do now because of the weakness?"
-- Handling: "I see you haven't been taking your blood pressure pills regularly. Can you tell me more about that?"
-- Empathy: "Recovering from a stroke takes a lot of time and hard work. It is completely normal to feel frustrated when things aren't moving as fast as you'd like."
+## 3. Clinical Features (臨床特徵)
+Symptoms depend on the vascular territory involved.
+- **FAST Recognition**: **F**ace drooping, **A**rm weakness, **S**peech difficulty, **T**ime to call emergency services.
+- **Anterior Circulation (Carotid/Middle Cerebral Artery - MCA)**: Most common.
+  - Contralateral hemiparesis and hemisensory loss (face and arm > leg).
+  - Aphasia (if the dominant hemisphere, usually left, is affected).
+  - Hemianopia (visual field cut).
+  - Neglect (if the non-dominant hemisphere is affected).
+- **Posterior Circulation (Vertebrobasilar)**:
+  - "Crossed" signs (ipsilateral cranial nerve deficits + contralateral motor/sensory deficits).
+  - Cerebellar signs (ataxia, nystagmus, vertigo).
+  - Visual field defects (occipital lobe).
+  - Dysphagia, dysarthria.
+- **Lacunar Syndromes**: Pure motor stroke (internal capsule), pure sensory stroke (thalamus), ataxic hemiparesis. No cortical signs (no aphasia, no neglect, no visual field cuts).
 
-ICE:
-- Ideas: "Why do you think it's hard to remember or want to take your blood pressure medication?"
-- Concerns: "Are you worried that you might have another stroke?"
-- Expectations: "What were you hoping we could do today to help with your recovery?"
+## 4. Assessment & Acute Management (評估與急性治療)
+**"Time is Brain."** Acute stroke is a medical emergency.
+- **Initial Assessment**: ABCs, check capillary blood glucose (hypoglycemia can mimic a stroke).
+- **Urgent Neuroimaging**: **Non-contrast CT Head** is the crucial first step. Its primary purpose is to **rule out hemorrhage** before giving clot-busting drugs. (Early ischemic changes may not be visible on CT for several hours). MRI is more sensitive for acute ischemia but takes longer.
+- **Acute Ischemic Stroke Treatment**:
+  - **Thrombolysis (IV Alteplase / tPA)**: Can be given if the patient presents within **4.5 hours** of symptom onset, and there is no hemorrhage on CT and no other contraindications (e.g., recent surgery, active bleeding).
+  - **Endovascular Thrombectomy (EVT)**: Mechanical clot retrieval via catheter. Highly effective for Large Vessel Occlusions (LVO, e.g., proximal MCA) if performed within 6-24 hours of onset in selected patients.
+  - **Aspirin**: 300mg given immediately (if hemorrhage is ruled out and tPA is not given/completed).
+- **Acute Hemorrhagic Stroke Treatment**:
+  - Reverse anticoagulation if applicable.
+  - Strict blood pressure control to prevent hematoma expansion.
+  - Neurosurgical consultation (for possible evacuation or external ventricular drain if hydrocephalus develops).
 
-### Section 2 — Problem Identification (10%)
-PHYSICAL:
-- Post-ischemic stroke with residual hemiparesis. Poorly controlled hypertension due to non-adherence, increasing the risk of a recurrent stroke.
+## 5. Secondary Prevention (二次預防)
+Crucial to prevent recurrence. Depends on the etiology of the ischemic stroke.
+- **Antiplatelet Therapy**: For non-cardioembolic strokes. Clopidogrel monotherapy, or Aspirin + Dipyridamole. (Short-term Dual Antiplatelet Therapy - DAPT with Aspirin + Clopidogrel for 21 days may be used for high-risk TIA or minor stroke).
+- **Anticoagulation**: For **cardioembolic strokes (Atrial Fibrillation)**. DOACs (Direct Oral Anticoagulants, e.g., Apixaban, Rivaroxaban) or Warfarin. *Do not use antiplatelets for AF-related strokes.*
+- **Blood Pressure Control**: Target < 130/80 mmHg. (Note: In the *acute* phase of ischemic stroke, BP is often allowed to run high to maintain cerebral perfusion, unless giving tPA).
+- **Lipid Management**: High-intensity Statin (e.g., Atorvastatin) regardless of baseline cholesterol levels.
+- **Carotid Endarterectomy / Stenting**: Indicated for symptomatic severe (>70%) carotid artery stenosis.
+- **Lifestyle**: Smoking cessation, diabetes control, diet, exercise.
 
-PSYCHOLOGICAL:
-- Frustration, potential post-stroke depression.
-
-SOCIAL:
-- Impact on daily activities and independence.
-
-BARRIERS:
-- Medication non-adherence (need to explore if it's due to side effects, forgetfulness, or lack of understanding).
-
-### Section 3 — RAPRIOP Management (50%)
-REASSURE:
-"You have already made progress since the stroke, even if it feels slow. Recovery can continue for many months or even years. We are here to support you."
-
-ADVICE (EXACT SCRIPTS):
-- "Taking your blood pressure medication every single day is the most important thing you can do to prevent having another stroke."
-- "Please continue with your physiotherapy exercises at home. Consistency is key to regaining your strength."
-- "Eat a healthy diet low in salt and fat, and try to stay as active as possible."
-
-PRESCRIBE:
-- Review current medications (antiplatelets, statins, antihypertensives). Simplify the regimen if forgetfulness is an issue (e.g., combination pills, pill box).
-- Consider screening for and treating post-stroke depression if indicated.
-
-REFER:
-- Continue Physiotherapy (PT) and Occupational Therapy (OT).
-- Refer to a stroke support group for emotional support.
-
-INVESTIGATE:
-- Check Blood Pressure.
-- Fasting lipid profile and HbA1c to monitor risk factors.
-
-OBSERVE:
-- Monitor BP control, neurological recovery, and mood.
-
-PLAN:
-- Review in 1 month to check blood pressure and medication adherence.
-
-### Section 4 — CIPS Communication Skills (20%)
-CHUNK AND CHECK:
-Explain the importance of blood pressure control, then ask: "Just to make sure I explained it clearly, why is it so crucial that you take your blood pressure medication every day?"
-
-ICE:
-Directly address his frustration by validating his feelings and focusing on the positive steps he can control (medication, exercises).
-
-PATIENT-CENTRED:
-"Let's figure out a way to make taking your pills easier. Would a daily pill organizer box help, or setting an alarm on your phone?"
-
-SIGNPOSTING:
-"First, let's talk about your blood pressure and your medications, and then we will discuss how your physiotherapy is going."
-
-## Station 3 — FM Primary Care Consultation
-
-**Scenario**: A 70-year-old man had an ischemic stroke 3 months ago, leaving him with mild right-sided weakness. He is here for a follow-up. He is feeling frustrated with his slow recovery and is not taking his blood pressure medication regularly.
-
-### Find Reason (×0.5)
-OPEN QUESTION:
-"It's been 3 months since your stroke. How have you been managing at home, and what brings you in today?"
-
-ACTIVE LISTENING:
-Listen for his frustrations regarding his physical limitations and his reasons for not taking his medication.
-
-### Define Problem + Systems Review (×2.5)
-ASSESS STROKE RECOVERY:
-- "How is the strength in your right arm and leg compared to a month ago?"
-- "Are you able to walk around the house safely? Do you use a walking stick?"
-- "Are you having any trouble speaking, swallowing, or remembering things?"
-
-ASSESS MEDICATION ADHERENCE:
-- "I noticed your blood pressure is a bit high today. You mentioned you haven't been taking your pills regularly. Do they make you feel unwell, or is it just hard to remember?"
-
-SCREEN FOR DEPRESSION (Post-stroke):
-- "Have you been feeling down, depressed, or hopeless recently?"
-- "Have you lost interest in doing things you used to enjoy?"
-
-PHYSICAL EXAM:
-- Measure Blood Pressure.
-- Focused neurological exam: Assess power (0-5 scale) in right upper and lower limbs, check tone (spasticity), and observe gait.
-
-### ICE (Ideas, Concerns, Expectations) (×0.5)
-IDEAS:
-"Why do you think it's hard to remember or want to take your blood pressure medication?"
-
-CONCERNS:
-"Are you worried that you might have another stroke?"
-
-EXPECTATIONS:
-"What were you hoping we could do today to help with your recovery?"
-
-### Diagnosis & Explanation (×0.5)
-DIAGNOSIS:
-"You are in the recovery phase of your stroke. Your blood pressure is currently too high because you haven't been taking your medication."
-
-EXPLANATION:
-"High blood pressure is the biggest risk factor for having another stroke. It puts too much pressure on the blood vessels in your brain. Taking your medication every day keeps that pressure down and protects your brain."
-
-CHECK UNDERSTANDING:
-"Does it make sense why we are so focused on your blood pressure?"
-
-### Management + RICE (×1.0)
-REASSURE:
-"It is normal for recovery to feel slow. The brain takes a long time to heal and rewire itself. You are doing the right things by going to physiotherapy."
-
-PLAN:
-"We need to get your blood pressure back under control. Let's set up a pill box to help you remember your medication. I also want you to continue your exercises."
-
-ADVICE:
-"Please take your blood pressure pill every morning with your breakfast. Do not stop taking it even if you feel fine, because high blood pressure usually has no symptoms."
-
-SAFETY NET:
-"If you suddenly experience new weakness, numbness, difficulty speaking, or a severe headache, you must call 999 immediately, as these could be signs of another stroke."
-
-## Station 4 — Medical Record + Prescription
-
-### Subjective (S)
-Patient presents with symptoms of Stroke.
-
-### Objective (O)
-Vitals stable. Physical examination findings consistent with Stroke.
-
-### Assessment (A)
-Primary Diagnosis: Stroke
-
-### Plan (P)
-1. Start appropriate medication.
-2. Lifestyle advice.
-3. Follow-up in 4 weeks.
-
-### Prescription
-- **Drug**: Standard Medication for Stroke
-- **Preparation**: Tablets
-- **Dose**: Standard dose
-- **Route**: Oral
-- **Frequency**: Daily
-- **Duration**: 28 days
-- **Quantity**: 28 tablets
-
-**Tips**:
-- Write clearly
-- Specify route
-
+## 6. Rehabilitation & Complications (康復與併發症)
+- **Multidisciplinary Team (MDT)**: Physiotherapy (PT) for motor recovery/mobility, Occupational Therapy (OT) for activities of daily living (ADLs), Speech and Language Therapy (SALT) for aphasia and dysphagia.
+- **Complications**:
+  - **Dysphagia (Swallowing difficulty)**: High risk of aspiration pneumonia. Requires formal swallowing assessment (NBM until assessed).
+  - Deep Vein Thrombosis (DVT) / Pulmonary Embolism (PE) due to immobility.
+  - Pressure ulcers.
+  - Post-stroke depression.
+  - Seizures.
+  - Spasticity and contractures.

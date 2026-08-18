@@ -1,185 +1,74 @@
-# Haemorrhoids
+# Hemorrhoids (Piles) (痔瘡)
 
-## General
+## 1. Definition & Anatomy (定義與解剖學)
+- **Definition**: Symptomatic enlargement and distal displacement of the normal anal cushions. These cushions are composed of blood vessels (arteriovenous plexuses), smooth muscle, and connective tissue.
+- **Anatomy & Classification**: The dentate (pectinate) line divides the anal canal.
+  - **Internal Hemorrhoids (內痔)**: Originate *above* the dentate line. Covered by columnar epithelium (visceral innervation). They are typically **painless** (unless complicated by prolapse and strangulation) and bleed.
+  - **External Hemorrhoids (外痔)**: Originate *below* the dentate line. Covered by squamous epithelium (somatic innervation). They are highly sensitive and can be very **painful**, especially if they thrombose.
 
-**Examiner's Pearl**: Enlarged vascular cushions in the anal canal. Common cause of painless bright red rectal bleeding.
-**Answer**: 肛管內血管墊腫大。是無痛性鮮紅色直腸出血的常見原因。
+## 2. Etiology & Risk Factors (病因與危險因素)
+The exact cause is debated, but it involves the deterioration of the connective tissue supporting the anal cushions, leading to their downward displacement and venous engorgement.
+- **Increased intra-abdominal pressure**:
+  - Straining during defecation (due to constipation).
+  - Pregnancy (increased pressure and hormonal changes relaxing tissues).
+  - Chronic cough.
+  - Heavy lifting.
+- **Other factors**: Low-fiber diet, prolonged sitting on the toilet, aging (weakening of supporting tissues).
 
-**Examiner's Pearl**: Management involves lifestyle changes (fiber, fluids) and topical treatments; surgery for severe cases.
-**Answer**: 治療包括改變生活方式（纖維、水分）和局部治療；嚴重病例需手術。
+## 3. Clinical Features (臨床特徵)
+### Internal Hemorrhoids
+- **Painless Rectal Bleeding**: The most common symptom. Typically bright red blood seen on toilet paper, dripping into the bowl after defecation, or coating the stool (not mixed in).
+- **Prolapse**: A sensation of a lump protruding from the anus during defecation.
+- **Pruritus Ani (Anal itching)**: Due to mucus discharge from the prolapsed mucosa irritating the perianal skin.
+- **Fecal Incontinence/Soiling**: Mild leakage due to impaired closure of the anal sphincter by the prolapsed tissue.
+- **Pain**: Only occurs if the internal hemorrhoid prolapses, becomes trapped by the anal sphincter, and undergoes strangulation and necrosis.
 
-## Station 1 — Management Interview
+### External Hemorrhoids
+- Often asymptomatic unless thrombosed.
+- **Thrombosed External Hemorrhoid**: Sudden onset of severe, excruciating perianal pain associated with a tense, bluish, tender, palpable lump at the anal verge.
 
-**Scenario**: A 40-year-old man complains of bright red blood on the toilet paper after passing stool for the past week. He also feels a lump near his anus that is itchy and uncomfortable. He is worried about bowel cancer.
+## 4. Grading of Internal Hemorrhoids (內痔分級)
+Guides management decisions.
+- **Grade I**: Bleed, but do not prolapse outside the anal canal.
+- **Grade II**: Prolapse during defecation but reduce spontaneously.
+- **Grade III**: Prolapse during defecation and require manual reduction (pushing them back in).
+- **Grade IV**: Permanently prolapsed and cannot be manually reduced.
 
-### Section 1 — Assessment (20%): 4P + BATHE + ICE
-PHYSICAL (4P):
-- Presenting complaint: Bright red rectal bleeding, perianal lump, itching, discomfort.
-- Precipitating factors: Constipation, straining during bowel movements.
-- Pattern: Intermittent over 1 week.
-- Palliation/Provocation: Worse during and after defecation.
+## 5. Assessment & Red Flags (評估與紅旗症狀)
+- **History**: Characterize the bleeding (color, relation to stool), pain, prolapse, bowel habits (constipation).
+- **Red Flags (Require urgent investigation, e.g., Colonoscopy, to rule out Colorectal Cancer)**:
+  - Age > 50 with new-onset rectal bleeding.
+  - Dark red blood or blood mixed *with* the stool (suggests a more proximal source).
+  - Change in bowel habits (e.g., new onset diarrhea or constipation, tenesmus).
+  - Unintentional weight loss.
+  - Family history of colorectal cancer or IBD.
+  - Iron deficiency anemia.
+- **Physical Examination**:
+  - Visual inspection of the perianal area (look for external hemorrhoids, skin tags, fissures, prolapse).
+  - **Digital Rectal Examination (DRE)**: Essential to rule out low rectal masses. Note: Uncomplicated internal hemorrhoids are soft and often *cannot* be felt on DRE.
+  - **Anoscopy/Proctoscopy**: The definitive way to visualize and grade internal hemorrhoids in the clinic.
 
-BATHE:
-- Background: "You've noticed blood and a lump for a week. How are your bowel movements generally?"
-- Affect: "How is this affecting your daily life and mood?"
-- Trouble: "What is the most bothersome part? The bleeding, the lump, or the worry?"
-- Handling: "Have you tried any creams or changed your diet?"
-- Empathy: "It is very alarming to see blood in the toilet, and it's completely understandable that you are worried."
+## 6. Management (治療與管理)
+### 1. Conservative Management (First-line for all grades, definitive for Grades I & II)
+- **Dietary Modification**: High-fiber diet (25-30g/day) and adequate fluid intake to soften stools and prevent straining.
+- **Fiber Supplements**: Psyllium husk (Ispaghula).
+- **Bowel Habits**: Avoid prolonged sitting on the toilet (no reading/phones). Do not delay the urge to defecate.
+- **Symptomatic Relief**:
+  - Warm Sitz baths (sitting in warm water for 10-15 mins) to relax the sphincter and relieve pain.
+  - Topical treatments: Creams/suppositories containing local anesthetics (Lidocaine), mild astringents, or low-dose corticosteroids (e.g., Proctosedyl, Anusol). Use for short courses (< 1-2 weeks) to avoid skin thinning.
+  - Oral Phlebotonics (e.g., Daflon / Micronized purified flavonoid fraction): May help reduce bleeding and acute symptoms by improving venous tone.
 
-ICE:
-- Ideas: "What do you think might be causing the bleeding and the lump?"
-- Concerns: "You mentioned bowel cancer. Do you have a family history of it?"
-- Expectations: "What were you hoping we could do today to investigate this and relieve your symptoms?"
+### 2. Office-Based Procedures (For Grades I, II, and some III)
+If conservative measures fail.
+- **Rubber Band Ligation (RBL - 橡皮圈結紮術)**: The most common and effective non-surgical treatment. A tight rubber band is placed at the base of the internal hemorrhoid, cutting off its blood supply. The tissue sloughs off in a few days, leaving a scar that fixes the tissue to the underlying muscle.
+- **Sclerotherapy**: Injection of a chemical irritant to cause fibrosis.
+- **Infrared Coagulation**.
 
-### Section 2 — Problem Identification (10%)
-PHYSICAL:
-- Symptomatic haemorrhoids (piles). Need to rule out colorectal malignancy, especially given his anxiety.
+### 3. Surgical Management (For Grade IV, refractory Grade III, or severe symptoms)
+- **Hemorrhoidectomy (Excisional)**: Surgical removal of the hemorrhoidal tissue. The most definitive treatment but associated with significant postoperative pain and a longer recovery.
+- **Stapled Hemorrhoidopexy**: Uses a circular stapler to excise a ring of mucosa above the hemorrhoids, pulling the prolapsed tissue back up and cutting off its blood supply. Less painful than excision.
+- **Hemorrhoidal Artery Ligation (HAL)**: Doppler-guided ligation of the feeding arteries.
 
-PSYCHOLOGICAL:
-- High anxiety regarding colorectal cancer.
-
-SOCIAL:
-- Discomfort affecting sitting and daily activities.
-
-BARRIERS:
-- Embarrassment discussing or examining the perianal area.
-
-### Section 3 — RAPRIOP Management (50%)
-REASSURE:
-"Bright red blood on the toilet paper and a lump are classic signs of haemorrhoids, which are swollen blood vessels. While we must always be careful, your symptoms do not sound like typical bowel cancer."
-
-ADVICE (EXACT SCRIPTS):
-- "The most important thing is to avoid constipation and straining. Drink plenty of water and eat high-fiber foods like fruits, vegetables, and whole grains."
-- "Do not spend too much time sitting on the toilet, and go as soon as you feel the urge."
-- "You can take warm baths (Sitz baths) for 10-15 minutes a few times a day to soothe the area and reduce swelling."
-
-PRESCRIBE:
-- "I will prescribe a topical haemorrhoid cream or suppository containing a mild steroid and local anesthetic to reduce the swelling and relieve the itching."
-- Prescribe a gentle laxative (e.g., Macrogol) if constipation is an issue.
-
-REFER:
-- Refer to a surgeon for further evaluation (e.g., sigmoidoscopy/colonoscopy) or treatment (e.g., rubber band ligation) if symptoms persist, or to definitively rule out higher lesions.
-
-INVESTIGATE:
-- Digital Rectal Examination (DRE) and proctoscopy in the clinic to confirm haemorrhoids.
-- FBC to check for anemia if bleeding is significant.
-
-OBSERVE:
-- Monitor bleeding and size of the lump.
-
-PLAN:
-- Review in 2-4 weeks to assess response to conservative management.
-
-### Section 4 — CIPS Communication Skills (20%)
-CHUNK AND CHECK:
-Explain the dietary advice, then ask: "Just to make sure I explained it clearly, what changes will you make to your diet to prevent constipation?"
-
-ICE:
-Directly address his fear of cancer by explaining the difference between haemorrhoid bleeding (bright red, on paper) and cancer bleeding (often mixed with stool, darker), while still offering appropriate referral for peace of mind.
-
-PATIENT-CENTRED:
-"I know it can be embarrassing to talk about this, but it's a very common problem and we see it all the time."
-
-SIGNPOSTING:
-"First, I need to do a quick examination to confirm it's a haemorrhoid, and then we will discuss the creams and lifestyle changes to treat it."
-
-## Station 3 — FM Primary Care Consultation
-
-**Scenario**: A 40-year-old man complains of bright red blood on the toilet paper after passing stool for the past week. He also feels a lump near his anus that is itchy and uncomfortable. He is worried about bowel cancer.
-
-### Find Reason (×0.5)
-OPEN QUESTION:
-"You mentioned seeing blood on the toilet paper and feeling a lump. Can you tell me more about when this happens?"
-
-ACTIVE LISTENING:
-Listen for the relationship of bleeding to bowel movements and the nature of the lump.
-
-### Define Problem + Systems Review (×2.5)
-ASSESS SYMPTOMS (Bleeding & Lump):
-- "Is the blood bright red and just on the paper, or is it mixed in with the stool?"
-- "Does the lump go back inside on its own, or do you have to push it back in?"
-- "Is the lump painful, or just itchy and uncomfortable?"
-
-RED FLAGS (Colorectal Cancer):
-- "Have you noticed any change in your bowel habits, like persistent diarrhea or constipation?"
-- "Have you had any unexplained weight loss or abdominal pain?"
-- "Is there a family history of bowel cancer?"
-
-RISK FACTORS:
-- "Do you often have to strain when you go to the toilet?"
-- "Is your diet low in fiber?"
-
-PHYSICAL EXAM:
-- Abdominal exam to check for masses.
-- Inspect the perianal area for external haemorrhoids, skin tags, or fissures.
-- Digital Rectal Examination (DRE) to feel for internal masses or haemorrhoids.
-
-### ICE (Ideas, Concerns, Expectations) (×0.5)
-IDEAS:
-"What do you think might be causing the bleeding and the lump?"
-
-CONCERNS:
-"You mentioned bowel cancer. Do you have a family history of it?"
-
-EXPECTATIONS:
-"What were you hoping we could do today to investigate this and relieve your symptoms?"
-
-### Diagnosis & Explanation (×0.5)
-DIAGNOSIS:
-"Based on your symptoms and my examination, you have haemorrhoids, also known as piles. There are no signs of cancer."
-
-EXPLANATION:
-"Haemorrhoids are simply swollen blood vessels inside or just outside the back passage. When you strain on the toilet, these vessels engorge with blood and can bleed or bulge out, causing the lump and the bright red blood."
-
-CHECK UNDERSTANDING:
-"Does this make sense to you?"
-
-### Management + RICE (×1.0)
-REASSURE:
-"This is a very common condition and is not dangerous. It usually responds well to simple treatments and diet changes."
-
-PLAN:
-"I will prescribe a cream to soothe the itching and reduce the swelling. If it doesn't improve, I can refer you to a specialist to consider minor procedures to remove them."
-
-ADVICE:
-"The key is to avoid constipation. Drink plenty of water, eat high-fiber foods, and don't strain on the toilet. Warm baths can also help soothe the area."
-
-SAFETY NET:
-"If the bleeding becomes heavy, if the blood is dark and mixed with stool, or if the lump becomes extremely painful, please seek medical attention immediately."
-
-## Station 4 — Medical Record + Prescription Writing
-
-### Subjective (S)
-Mr Wong Wai Kin (M/45), office worker, presents with a 2-week history of painless bright red bleeding per rectum (PR) during defecation. Blood is seen on the toilet paper and dripping into the bowl. Reports a reducible lump protruding from the anus after bowel movements. Mild anal itchiness. No abdominal pain, no change in bowel habits, no weight loss. PMH: Chronic constipation. NKDA. Social: Non-smoker.
-
-### Objective (O)
-Vitals: BP 125/80 mmHg, HR 76 bpm, afebrile.
-Abdomen: Soft, non-tender, no palpable masses.
-Perianal Inspection: No skin tags, no fissures, no external haemorrhoids visible at rest.
-Digital Rectal Examination (DRE): Normal anal tone. Soft bulges felt at 3, 7, and 11 o'clock positions. No hard masses. Trace of bright red blood on the glove.
-
-### Assessment (A)
-PRIMARY DIAGNOSIS: Second-degree internal haemorrhoids.
-Evidence: Painless bright red PR bleeding, prolapsing lump that reduces spontaneously (or with manual reduction), soft bulges on DRE.
-
-NOT: Colorectal cancer (no change in bowel habit, no weight loss, no hard mass, but needs consideration given age).
-
-### Plan (P)
-1. LIFESTYLE ADVICE: High fiber diet, increased fluid intake, avoid straining during defecation, avoid sitting on the toilet for prolonged periods.
-2. MEDICATION: Prescribed topical haemorrhoidal ointment (e.g., Proctosedyl) BD and PRN after bowel movements for 1 week. Prescribed Fybogel (Ispaghula husk) 1 sachet BD to treat underlying constipation.
-3. REFERRAL: Referred to Surgical Outpatient Clinic (SOPD) for consideration of banding or further investigation (e.g., sigmoidoscopy/colonoscopy) given his age and PR bleeding.
-4. SAFETY NET: Return if massive bleeding, severe pain (suggesting thrombosis), or systemic symptoms.
-
-### Prescription
-- **Drug**: Proctosedyl (or similar haemorrhoidal ointment)
-- **Preparation**: Ointment
-- **Dose**: Apply a small amount
-- **Route**: Topical / Intra-rectal
-- **Frequency**: Twice daily (BD) and after bowel movements
-- **Duration**: 1 week
-- **Quantity**: 1 tube (15g)
-
-**Tips**:
-- Specify topical application
-- Include instructions for use after bowel movements
-
+### 4. Management of Thrombosed External Hemorrhoid
+- **Within 72 hours of onset**: Excision of the clot under local anesthesia provides rapid pain relief.
+- **After 72 hours**: The pain is usually already peaking and will begin to subside. Conservative management (Sitz baths, analgesia) is preferred, as the clot will slowly resorb over weeks, often leaving a residual skin tag.

@@ -1,253 +1,72 @@
-# Depression
-
-## General
-
-**Examiner's Pearl**: PHQ-2 ≥3 → proceed to PHQ-9; PHQ-9 ≥10 = moderate depression warranting treatment
-**Answer**: PHQ-2 ≥3 → 進行PHQ-9；PHQ-9 ≥10 = 中度抑鬱，需要治療
-
-**Examiner's Pearl**: Core symptoms (≥2 weeks): low mood, anhedonia, anergia (SIG E CAPS mnemonic)
-**Answer**: 核心症狀（≥2週）：情緒低落、失去興趣、疲乏（SIG E CAPS記憶法）
-
-**Examiner's Pearl**: Always assess suicide risk: ideation → plan → intent → means → past attempts
-**Answer**: 必須評估自殺風險：意念→計劃→意圖→手段→過去嘗試
-
-**Examiner's Pearl**: First-line: SSRI (e.g. sertraline 50mg OD) + NDI; minimum 6 months after remission
-**Answer**: 一線治療：SSRI（如舍曲林50mg每日）+ 非藥物治療；緩解後最少6個月
-
-**Examiner's Pearl**: HK crisis line: Samaritans 2389-2222 (24h); Suicide Prevention Services 2382-0000
-**Answer**: 香港危機熱線：撒瑪利亞防止自殺會 2389-2222（24小時）；防止自殺服務 2382-0000
-
-**Examiner's Pearl**: Genogram: map 3 generations; identify family mental health history, support, stressors
-**Answer**: 家譜圖：繪製三代；識別家族精神健康史、支援及壓力源
-
-## Station 1 — Management Interview
-
-**Scenario**: Ms Lee, 45F, presents with 1 month of severe low mood, early morning awakening, and 5kg weight loss. She is going through a messy divorce and fears losing custody of her children. She is reluctant to take medication because she fears addiction.
-
-### Section 1 — Assessment (20%): 4P + BATHE + ICE
-4P FRAMEWORK:
-- Predisposing: Female gender, age 45, possible family history of mood disorders, previous episodes of postpartum depression.
-- Precipitating: Recent messy divorce, acute stress regarding child custody, potential financial instability.
-- Perpetuating: Lack of social support, severe insomnia (early morning awakening), poor diet (weight loss), potential alcohol use as coping mechanism.
-- Protective: Willingness to seek medical help, strong attachment to her children, no current active suicidal ideation with intent.
-
-BATHE (EXACT SCRIPTS):
-- Background: "I understand you have been feeling very low for the past month. Can you tell me more about what has been happening in your life recently with the divorce?"
-- Affect: "How is this low mood and the stress of the custody battle affecting you emotionally on a day-to-day basis?"
-- Trouble: "Out of everything you are dealing with right now, what is the single most difficult part for you to handle?"
-- Handling: "How have you been trying to cope with these overwhelming feelings and the lack of sleep?"
-- Empathy: "I can see how incredibly heavy this burden is for you. It is completely understandable that you are feeling exhausted and depressed given everything you are going through."
-
-ICE (EXACT SCRIPTS):
-- Ideas: "What do you think is the main cause of you feeling this way? Do you feel it is entirely the situation, or do you feel something physical has changed?"
-- Concerns: "You mentioned being afraid of medication. Are you worried about addiction, or are you worried that this diagnosis might affect your custody case?"
-- Expectations: "What were you hoping I could do for you today? Were you looking for counseling, a medical certificate for rest, or just someone to talk to?"
-
-### Section 2 — Problem Identification (10%)
-PHYSICAL: 
-- Severe insomnia (specifically early morning awakening, a hallmark of biological depression).
-- Significant weight loss (5kg in 1 month) indicating severe loss of appetite.
-- Severe fatigue and potential psychomotor retardation. 
-- Need to rule out organic causes like hypothyroidism or anemia.
-
-PSYCHOLOGICAL: 
-- Major Depressive Episode. 
-- Core symptoms present: pervasive low mood, anhedonia. 
-- Cognitive symptoms: poor concentration, potential feelings of worthlessness or inappropriate guilt regarding the divorce.
-
-SOCIAL: 
-- Impending divorce and acute custody battle.
-- Potential financial instability and risk of losing housing.
-- Single parenting stress with depleted energy levels.
-
-RISK ASSESSMENT (CRITICAL): 
-- Must explicitly assess suicide risk (ideation, plan, intent).
-- Must assess risk of self-harm or harm to others (specifically the children).
-
-BARRIERS: 
-- Stigma against psychiatric medication.
-- Fear of addiction to antidepressants.
-- Fear that a psychiatric diagnosis will be used against her in family court.
-
-### Section 3 — RAPRIOP Management (50%)
-REASSURE: 
-"You are not alone in this. Depression is a recognized medical condition, not a personal failure or a sign of weakness. It is highly treatable, and seeking help shows you are a responsible mother."
-
-ADVICE (EXACT SCRIPTS):
-- "Depression affects the chemicals in your brain, like serotonin, which regulate mood, sleep, and appetite. It is like a battery that has been completely drained by stress."
-- "Try to maintain a very simple daily routine. Do not force yourself to do too much. Even a 15-minute walk outside in the sunlight can help reset your sleep cycle."
-- "Avoid using alcohol to help you sleep. It might make you fall asleep faster, but it disrupts your deep sleep and actually worsens depression chemicals in the brain."
-
-PRESCRIBE:
-- "I strongly recommend starting an antidepressant called Sertraline (an SSRI) at 50mg daily. It helps restore the chemical balance in your brain."
-- "I want to be very clear: these medications are NOT addictive. They are not like sleeping pills or tranquilizers. You will not get hooked on them."
-- "However, it takes 2 to 4 weeks to start working. In the first few days, you might feel a bit nauseous or have a mild headache. Please do not stop taking it suddenly; we will monitor you closely."
-
-REFER:
-- Refer to Clinical Psychologist for Cognitive Behavioral Therapy (CBT) to help process the divorce.
-- Refer to Medical Social Worker (MSW) for financial assistance, housing advice, and legal aid resources.
-
-INVESTIGATE:
-- Check Thyroid Function Test (TFT) and Complete Blood Count (CBC) to rule out organic causes of fatigue and weight loss.
-
-OBSERVE:
-- Monitor mood objectively using the PHQ-9 questionnaire at each visit.
-
-PLAN:
-- Review in 1 to 2 weeks to check for side effects of the medication, assess compliance, and re-evaluate suicide risk.
-
-SAFETY NET: 
-"If you ever feel that life is not worth living, or if you have any thoughts of harming yourself or your children, you must promise me you will go to the Accident and Emergency department immediately, or call the 24-hour suicide prevention hotline."
-
-### Section 4 — CIPS Communication Skills (20%)
-CHUNK AND CHECK: 
-Explain the medication timeline and side effects, then ask, "Just to make sure I explained it clearly, when should you expect the medication to actually start improving your mood?"
-
-ICE: 
-Directly address her fear of medication addiction and clarify the difference between SSRIs and benzodiazepines. Address her fear regarding the custody battle by explaining that seeking treatment is viewed positively by courts.
-
-PATIENT-CENTRED: 
-"Between starting the medication today or seeing a counselor first, which option feels more comfortable for you to begin with?"
-
-SIGNPOSTING: 
-"First, I need to ask you a few difficult but standard questions about your safety, and then we will talk about the specific treatments we can offer to help you feel better."
-
-## Station 3 — FM Primary Care Consultation
-
-**Scenario**: Patient presents with extreme fatigue, inability to concentrate at work, and crying spells for the past 6 weeks. She has stopped seeing her friends.
-
-### Find Reason (×0.5)
-OPEN QUESTION: 
-"You mentioned you have been feeling extremely tired and tearful lately. Can you tell me more about how you have been feeling in your own words?"
-
-ACTIVE LISTENING: 
-Allow the patient to vent without interrupting. Note their body language, eye contact, psychomotor retardation, and tone of voice.
-
-### Define Problem + Systems Review (×2.5)
-ASSESS CORE SYMPTOMS (SIGECAPS FRAMEWORK):
-- Sleep: "Are you having trouble falling asleep, or are you waking up very early in the morning and unable to go back to sleep?"
-- Interest: "Have you lost interest in hobbies you used to enjoy? Have you stopped seeing your friends?"
-- Guilt: "Do you find yourself feeling excessively guilty or blaming yourself for things out of your control?"
-- Energy: "How is your energy level? Do you feel physically drained even after resting?"
-- Concentration: "Have you had trouble focusing on tasks at work, like reading emails or following a meeting?"
-- Appetite: "Has your appetite changed? Have you lost or gained a significant amount of weight recently?"
-- Psychomotor: "Do you feel restless and agitated, or do you feel like your movements and thoughts are severely slowed down?"
-- Suicide (CRITICAL): "Have things ever gotten so bad that you felt life wasn't worth living? Have you had any thoughts of ending your life? Do you have a plan?"
-
-SCREEN FOR BIPOLAR (MANIA): 
-"Have you ever had periods where you felt extremely energetic, needed very little sleep, and had racing thoughts for several days in a row?"
-
-SCREEN FOR ORGANIC CAUSES: 
-"Do you feel cold all the time? Is your hair falling out? Are your periods unusually heavy?" (Screening for Hypothyroidism and Anemia).
-
-### ICE (Ideas, Concerns, Expectations) (×0.5)
-IDEAS: 
-"What do you think is the root cause of this exhaustion and crying? Do you think it is stress, or something physical?"
-
-CONCERNS: 
-"Are you worried that you are going crazy, or that this feeling will never get better?"
-
-EXPECTATIONS: 
-"What kind of support were you hoping to get from me today? Are you open to discussing medication or therapy?"
-
-### Diagnosis & Explanation (×0.5)
-DIAGNOSIS: 
-"Based on what you have told me, the severe fatigue, crying spells, and loss of interest indicate that you are experiencing a Major Depressive Episode."
-
-EXPLANATION: 
-"This is a recognized medical condition where severe stress has overwhelmed your brain's ability to regulate mood chemicals. It is not a sign of weakness, and it is not something you can just 'snap out of'. It requires medical treatment just like asthma or diabetes."
-
-CHECK UNDERSTANDING: 
-"How do you feel about hearing this diagnosis? Does it make sense to you?"
-
-### Management + RICE (×1.0)
-REASSURE: 
-"The good news is that depression is highly treatable. Most people recover fully and regain their energy with the right combination of talking therapy and medication."
-
-INVESTIGATE: 
-"I would like to run some basic blood tests today to ensure your thyroid and blood count are normal, as problems there can mimic depression."
-
-PLAN: 
-"We can start a medication called an SSRI today to help rebuild those mood chemicals. I also want to connect you with a clinical psychologist for counseling."
-
-ADVICE: 
-"Please do not make any major life decisions, like quitting your job or moving house, while you are feeling this way. Focus on taking it one day at a time and being kind to yourself."
-
-SAFETY NET: 
-"If you have any thoughts of suicide or self-harm, you must promise me you will go to the emergency room or call the crisis hotline immediately. You can always reach out for help."
-
-## Station 4 — Medical Record + Prescription Writing
-
-### Subjective (S)
-Mrs Chan Siu Mei (F/42) presents with a 2-month history of low mood, tearfulness, anhedonia (unable to enjoy mahjong with friends), early morning waking at 4am, fatigue, and poor concentration. Precipitated by son's recent diagnosis of learning difficulties. 
-PMH: Post-natal depression 10 years ago (resolved with SSRI).
-Medications: Nil regular. NKDA.
-Social: Married, housewife, 1 child (son, age 10 with learning difficulties). Parents increasingly unwell. Non-smoker. Occasional social alcohol. Christian.
-FH: Mother with depression ("nerves"). No FH of suicide.
-PHQ-9 Score: 16/27 (moderately severe depression). No active suicidal ideation.
-
-### Objective (O)
-Vitals: BP 118/76 mmHg, HR 78 bpm, RR 16/min, SpO2 98% RA, Temp 36.5°C, BMI 21.5 kg/m²
-Appearance: Slightly dishevelled, tearful during consultation, maintains minimal eye contact
-Mental State Exam: Alert and oriented. Speech: normal rate and tone. Mood: "low". Affect: depressed, congruent. Thought: no suicidal ideation, no thought disorder, no psychotic features. Cognition: intact. Insight: present — acknowledges needing help.
-Physical: Cardiovascular, respiratory, abdominal examinations unremarkable. No signs of thyroid disease.
-Investigations: TFT (TSH 2.1 mIU/L, fT4 14.2 pmol/L — normal), FBC (Hb 12.8 g/dL — borderline low; MCV 85 fL — normocytic), B12 and folate normal, fasting glucose 4.8 mmol/L.
-
-### Assessment (A)
-PRIMARY DIAGNOSIS: Major Depressive Disorder, Moderate (ICD-10: F32.1 / DSM-5)
-Supporting: PHQ-9 16/27; core symptoms ≥2 weeks; functional impairment; biological features (early morning waking); second episode (previous PND)
-
-DIFFERENTIAL DIAGNOSES:
-1. Adjustment Disorder with depressed mood — less likely given severity and full MDD criteria met
-2. Hypothyroidism — excluded: TFT normal
-3. Anaemia contributing to fatigue — borderline Hb 12.8; likely nutritional; contributing factor not primary cause
-
-COMORBIDITIES/COMPLICATIONS:
-• Carer burden and psychosocial stressors (son's SEN, parent care)
-• Social isolation
-• Borderline anaemia — monitor; consider iron studies if persists
-
-### Plan (P)
-1. INVESTIGATION: Iron studies (serum ferritin, iron, TIBC) — to evaluate borderline anaemia; repeat FBC in 3 months.
-
-2. MEDICATION: Sertraline 50mg orally once daily (morning, with food). To increase to 100mg after 2 weeks if tolerated. Duration: minimum 24 months (2nd episode).
-
-3. NON-PHARMACOLOGICAL: 
-   a) Psychoeducation: provide written information sheet (DOH depression leaflet)
-   b) Sleep hygiene: fixed 7am wake time, no screens 1h before bed
-   c) Behavioural activation: restart one pleasurable activity weekly
-   d) 4-7-8 breathing technique — demonstrated in clinic
-   e) Thought diary — provide template
-
-4. REFERRAL: 
-   a) Clinical Psychologist for CBT (HA GOPC list)
-   b) Medical Social Worker — carer support, son's SEN resources
-   c) Psychiatry if no response to 2 antidepressant trials or suicidality develops
-
-5. SICK LEAVE: MC for 1 week to reduce stressors; review occupational function at follow-up.
-
-6. SAFETY NET: Safety plan given — Samaritan Befrienders HK 2389-2222 (24h). Patient to attend A&E if active suicidal ideation develops. Husband briefed with patient's consent.
-
-7. FOLLOW-UP: Review in 2 weeks (medication side effects + adherence). Monthly thereafter.
-
-### Prescription
-- **Drug**: Sertraline hydrochloride
-- **Preparation**: Tablets
-- **Dose**: 50mg
-- **Route**: Oral
-- **Frequency**: Once daily (morning)
-- **Duration**: 4 weeks (review)
-- **Quantity**: 28 tablets
-
-**Notes**: Take with food. Do not stop suddenly. Allow 2-4 weeks for effect. Review in 2 weeks.
-
-**Tips**:
-- Write "50mg" NOT "50.0mg" or "50 mg"
-- Write "Once daily" NOT "QD" or "qd" or "OD"
-- Use generic name "Sertraline" NOT brand name "Zoloft" alone
-- Specify route: "Oral" or "by mouth" NOT just "tab"
-- Always write quantity: "28 tablets"
-- Sign with FULL NAME printed + GMC/HK registration number + date
-- Write patient full name, DOB, ID number on prescription
-- A fatally wrong dose = 0 marks for entire prescription section
-
+# Depression (抑鬱症)
+
+## 1. Definition & Epidemiology (定義與流行病學)
+- **Definition**: A mood disorder characterized by a persistent feeling of sadness and loss of interest, lasting for at least 2 weeks, causing significant impairment in daily functioning.
+- **Epidemiology**: Lifetime prevalence is approximately 10-15%. More common in females (2:1 ratio). In Hong Kong, it often presents with somatic symptoms (e.g., unexplained fatigue, chronic pain, gastrointestinal distress) rather than purely emotional complaints, due to cultural stigma.
+
+## 2. Pathophysiology (病理生理學)
+- **Monoamine Hypothesis**: Deficiency or imbalance of key neurotransmitters in the brain, specifically serotonin (5-HT), norepinephrine (NE), and dopamine (DA).
+- **Neuroendocrine Dysregulation**: Hyperactivity of the hypothalamic-pituitary-adrenal (HPA) axis, leading to elevated cortisol levels.
+- **Neuroplasticity**: Decreased brain-derived neurotrophic factor (BDNF) leading to neuronal atrophy in the hippocampus and prefrontal cortex.
+- **Psychosocial Factors**: Adverse childhood experiences, chronic stress, lack of social support, and maladaptive cognitive schemas (Beck's cognitive triad: negative views about oneself, the world, and the future).
+
+## 3. Clinical Features (臨床特徵)
+Diagnosis requires ≥5 symptoms present during the same 2-week period, representing a change from previous functioning; at least one of the symptoms must be (1) depressed mood or (2) loss of interest/pleasure.
+- **Core Symptoms**:
+  - Depressed mood most of the day, nearly every day.
+  - Markedly diminished interest or pleasure in all, or almost all, activities (Anhedonia - 快感缺乏).
+- **Somatic & Cognitive Symptoms (SIG E CAPS)**:
+  - **S**leep: Insomnia (typically early morning awakening) or hypersomnia.
+  - **I**nterest: Loss of interest (Anhedonia).
+  - **G**uilt: Feelings of worthlessness or excessive/inappropriate guilt.
+  - **E**nergy: Fatigue or loss of energy (Anergia - 疲乏).
+  - **C**oncentration: Diminished ability to think or concentrate, or indecisiveness.
+  - **A**ppetite: Significant weight loss when not dieting or weight gain, or decrease/increase in appetite.
+  - **P**sychomotor: Psychomotor agitation or retardation (observable by others).
+  - **S**uicide: Recurrent thoughts of death, recurrent suicidal ideation without a specific plan, or a suicide attempt/plan.
+
+## 4. Assessment & Investigations (評估與檢查)
+- **Screening**:
+  - **PHQ-2**: Initial screening. Score ≥3 prompts full PHQ-9.
+  - **PHQ-9**: Severity assessment. Score 5-9 (Mild), 10-14 (Moderate), 15-19 (Moderately Severe), 20-27 (Severe). Score ≥10 generally warrants treatment.
+- **Suicide Risk Assessment (CRITICAL)**:
+  - Ideation (Thoughts of self-harm/suicide).
+  - Plan (Specific method, time, place).
+  - Intent (Determination to carry out the plan).
+  - Means (Access to lethal methods, e.g., hoarding pills, access to high places).
+  - Past attempts (Strongest predictor of future suicide).
+  - Protective factors (Family, religion, children).
+- **Rule out organic causes**:
+  - **Blood tests**: TFTs (rule out hypothyroidism), Vitamin B12/Folate, LFTs, U&Es, CBC (rule out anemia).
+  - **Medication review**: Steroids, beta-blockers, oral contraceptives, isotretinoin.
+- **Rule out Bipolar Disorder**: Always ask about past manic/hypomanic episodes (elevated mood, decreased need for sleep, grandiosity, impulsive behavior) before starting antidepressants to avoid inducing mania.
+
+## 5. Management (治療與管理)
+Adopt a biopsychosocial approach.
+
+### Biological (Pharmacological)
+- **First-line**: Selective Serotonin Reuptake Inhibitors (SSRIs).
+  - Examples: Sertraline (舍曲林) 50mg OD, Fluoxetine (氟西汀) 20mg OD, Escitalopram (艾司西酞普蘭) 10mg OD.
+  - **Counseling points**:
+    - Takes 2-4 weeks to see clinical effect; side effects (nausea, GI upset, headache, increased anxiety initially) usually appear first but are transient.
+    - Risk of sexual dysfunction.
+    - **Duration**: Continue for at least 6-9 months *after* full remission for a first episode to prevent relapse. For recurrent episodes, maintenance therapy for ≥2 years or lifelong may be needed.
+    - Do not stop abruptly (risk of discontinuation syndrome).
+- **Second-line**: SNRIs (e.g., Venlafaxine, Duloxetine), Mirtazapine (good for insomnia and poor appetite), TCAs (e.g., Amitriptyline - caution with overdose toxicity and anticholinergic effects).
+
+### Psychological
+- **Cognitive Behavioral Therapy (CBT - 認知行為治療)**: First-line psychological treatment. Focuses on identifying and challenging cognitive distortions and behavioral activation.
+- **Interpersonal Therapy (IPT)**: Focuses on interpersonal conflicts, role transitions, and grief.
+- **Counseling/Supportive Therapy**: Active listening, validation, problem-solving.
+
+### Social
+- **Sick Leave**: Provide adequate rest if occupational stress is a major perpetuating factor or if symptoms severely impair functioning.
+- **Referrals**: Medical Social Worker (MSW) for financial/housing issues, Clinical Psychologist (CP) for therapy.
+- **Crisis Resources**: Provide hotlines (e.g., Samaritans 2389-2222, Suicide Prevention Services 2382-0000).
+
+## 6. Complications & Red Flags (併發症與紅旗症狀)
+- **Red Flags requiring urgent psychiatric referral/A&E**:
+  - Active suicidal ideation with a specific plan and intent.
+  - Psychotic symptoms (hallucinations, delusions - e.g., nihilistic delusions).
+  - Severe psychomotor retardation leading to refusal to eat/drink (risk of dehydration/starvation).
+  - High risk of harm to others (e.g., infanticide risk in severe postpartum depression).

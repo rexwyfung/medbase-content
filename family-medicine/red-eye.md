@@ -1,183 +1,68 @@
-# Red Eye
+# The Red Eye (紅眼症)
 
-## General
+## 1. Definition & Approach (定義與評估方法)
+- **Definition**: "Red eye" is a cardinal sign of ocular inflammation. It is a symptom, not a diagnosis, caused by vasodilation of the superficial conjunctival or deeper episcleral/scleral blood vessels.
+- **Clinical Approach**: The primary goal in primary care is to differentiate benign, self-limiting conditions (like simple conjunctivitis) from **vision-threatening emergencies** that require immediate ophthalmology referral.
 
-**Examiner's Pearl**: Common presentation; crucial to differentiate benign (conjunctivitis) from sight-threatening (acute glaucoma, keratitis, uveitis).
-**Answer**: 常見症狀；區分良性（結膜炎）和威脅視力的疾病（急性青光眼、角膜炎、葡萄膜炎）至關重要。
+## 2. Red Flags (Vision-Threatening Signs - 視覺威脅的紅旗症狀)
+The presence of ANY of these requires urgent referral:
+- **Reduced visual acuity** (not corrected by blinking or pinhole).
+- **Severe, deep eye pain** (especially if it radiates or causes nausea/vomiting).
+- **Photophobia** (severe sensitivity to light, indicating ciliary spasm/corneal involvement).
+- **Ciliary flush** (a ring of red/violaceous vessels around the cornea, indicating deep inflammation).
+- **Corneal opacity** (cloudiness, ulcer, or infiltrate).
+- **Pupillary abnormalities** (fixed, irregular, mid-dilated, or unreactive pupil).
+- **Hypopyon** (pus in the anterior chamber) or **Hyphema** (blood in the anterior chamber).
+- **Proptosis** (bulging eye) or restricted eye movement.
+- **Worsening symptoms** despite 48 hours of empirical treatment.
+- **Contact lens wearers** (high risk for severe *Pseudomonas* corneal ulcers).
 
-**Examiner's Pearl**: Red flags: severe pain, photophobia, reduced visual acuity, ciliary flush, pupil abnormalities.
-**Answer**: 危險信號：劇痛、畏光、視力下降、睫狀體充血、瞳孔異常。
+## 3. Common Benign Causes (常見良性病因)
+### Conjunctivitis (結膜炎)
+Inflammation of the conjunctiva. Visual acuity is normal, pupils are normal, and there is no severe pain or photophobia.
+- **Viral Conjunctivitis**:
+  - *Cause*: Most commonly Adenovirus. Highly contagious.
+  - *Features*: Watery discharge, gritty/burning sensation, often starts in one eye and spreads to the other within days. Often accompanied by URTI symptoms and preauricular lymphadenopathy.
+  - *Management*: Supportive (cold compresses, artificial tears). Strict hygiene to prevent spread.
+- **Bacterial Conjunctivitis**:
+  - *Cause*: *Staph aureus*, *Strep pneumoniae*, *H. influenzae*.
+  - *Features*: **Purulent (thick, yellow/green) discharge**, eyes "glued shut" in the morning.
+  - *Management*: Topical antibiotic drops (e.g., Chloramphenicol, Ofloxacin).
+- **Allergic Conjunctivitis**:
+  - *Features*: **Intense itching** is the hallmark. Bilateral, watery discharge, chemosis (swelling of the conjunctiva), history of atopy.
+  - *Management*: Avoid allergens, topical antihistamines/mast cell stabilizers (e.g., Olopatadine), artificial tears.
 
-## Station 1 — Management Interview
+### Subconjunctival Hemorrhage (結膜下出血)
+- *Features*: Sharply demarcated area of bright red blood beneath the conjunctiva. Completely painless, normal vision.
+- *Causes*: Spontaneous, minor trauma, heavy coughing/sneezing, hypertension, bleeding disorders.
+- *Management*: Reassurance. Resolves spontaneously in 1-2 weeks.
 
-**Scenario**: A 25-year-old man complains of a red, itchy, and watery right eye for 2 days. He woke up with his eyelids stuck together. His colleague had pink eye last week.
+### Dry Eye Syndrome (乾眼症)
+- *Features*: Bilateral, gritty, burning, or "foreign body" sensation. Paradoxical tearing can occur.
+- *Management*: Artificial tears (lubricating drops/ointments).
 
-### Section 1 — Assessment (20%): 4P + BATHE + ICE
-PHYSICAL (4P):
-- Presenting complaint: Red, itchy, watery right eye, sticky discharge in the morning.
-- Precipitating factors: Contact with sick colleague.
-- Pattern: Acute onset, 2 days.
-- Palliation/Provocation: Rubbing makes it worse.
+## 4. Vision-Threatening Causes (Require Urgent Referral) (需緊急轉介的嚴重病因)
+### Acute Angle-Closure Glaucoma (AACG - 急性閉角型青光眼)
+- *Pathophysiology*: Sudden blockage of aqueous humor drainage, leading to a rapid, dangerous spike in Intraocular Pressure (IOP).
+- *Features*: **Severe, deep eye pain**, headache, nausea/vomiting, **halos around lights**, blurred vision.
+- *Signs*: **Ciliary flush**, **cloudy/steamy cornea**, **mid-dilated, fixed, unreactive pupil**, eye feels "rock hard" on palpation.
+- *Management*: Medical emergency. Requires immediate IOP-lowering medications (IV Acetazolamide, topical beta-blockers, Pilocarpine) and definitive laser peripheral iridotomy.
 
-BATHE:
-- Background: "You've had this red eye for 2 days. How is it affecting your work or daily life?"
-- Affect: "How bothersome is the itching and discharge?"
-- Trouble: "What is the most uncomfortable part of this for you?"
-- Handling: "Have you tried using any eye drops from the pharmacy?"
-- Empathy: "It's very annoying and uncomfortable to have an eye infection, especially when it's sticky in the morning."
+### Microbial Keratitis / Corneal Ulcer (角膜炎 / 角膜潰瘍)
+- *Pathophysiology*: Infection of the cornea, often secondary to epithelial breakdown.
+- *Risk Factors*: **Contact lens use** (especially sleeping in them), trauma, dry eyes.
+- *Features*: Severe pain, photophobia, tearing, reduced vision.
+- *Signs*: **Corneal opacity/infiltrate** (white spot on the cornea), stains with fluorescein.
+- *Management*: Urgent ophthalmology referral for corneal scraping (culture) and intensive, frequent topical fortified antibiotics. **Never prescribe topical steroids for a red eye without an ophthalmologist's evaluation.**
 
-ICE:
-- Ideas: "Do you think you caught this from your colleague?"
-- Concerns: "Are you worried about your vision or spreading it to your family?"
-- Expectations: "What were you hoping we could do today to clear it up?"
+### Acute Anterior Uveitis / Iritis (急性前葡萄膜炎)
+- *Pathophysiology*: Inflammation of the iris and ciliary body. Often associated with systemic autoimmune diseases (e.g., HLA-B27 conditions like Ankylosing Spondylitis).
+- *Features*: Dull, aching eye pain, **severe photophobia**, blurred vision.
+- *Signs*: **Ciliary flush**, small/irregular pupil (due to synechiae - iris sticking to the lens), cells and flare in the anterior chamber (seen on slit lamp).
+- *Management*: Urgent referral. Treated with topical steroids and cycloplegics (to dilate the pupil and prevent synechiae).
 
-### Section 2 — Problem Identification (10%)
-PHYSICAL:
-- Acute infective conjunctivitis (likely viral or bacterial). Need to rule out sight-threatening conditions (e.g., keratitis, acute glaucoma, uveitis).
-
-PSYCHOLOGICAL:
-- Discomfort and mild anxiety about contagion.
-
-SOCIAL:
-- Risk of spreading infection at work or home.
-
-BARRIERS:
-- Difficulty instilling eye drops correctly.
-
-### Section 3 — RAPRIOP Management (50%)
-REASSURE:
-"You have conjunctivitis, commonly known as pink eye. It is an infection of the outer layer of your eye. Your vision is normal, and it usually clears up completely within a week or two."
-
-ADVICE (EXACT SCRIPTS):
-- "This is highly contagious. Wash your hands frequently with soap and water, especially after touching your face."
-- "Do not share towels, pillows, or eye makeup with anyone."
-- "Clean the sticky discharge from your eye using cotton wool dipped in cooled boiled water, wiping from the inside corner to the outside."
-- "If you wear contact lenses, stop wearing them immediately until the infection is completely gone."
-
-PRESCRIBE:
-- "I will prescribe some antibiotic eye drops (e.g., Chloramphenicol) to treat the infection. Use them 4 times a day for 5-7 days."
-- Provide a sick leave certificate if necessary to prevent spread at work.
-
-REFER:
-- Refer to an ophthalmologist urgently if red flags develop (pain, photophobia, reduced vision).
-
-INVESTIGATE:
-- Usually a clinical diagnosis. Eye swabs are rarely needed unless it is severe or not responding to treatment.
-
-OBSERVE:
-- Monitor for resolution of redness and discharge.
-
-PLAN:
-- Review in 3-5 days if symptoms do not improve or if they worsen.
-
-### Section 4 — CIPS Communication Skills (20%)
-CHUNK AND CHECK:
-Explain how to clean the eye and use the drops, then ask: "Just to make sure I explained it clearly, how will you clean your eye before putting the drops in?"
-
-ICE:
-Directly address his concern about spreading it by emphasizing the hygiene measures (handwashing, not sharing towels).
-
-PATIENT-CENTRED:
-"I know it's hard not to rub your eye when it's itchy, but rubbing can spread the infection to your other eye."
-
-SIGNPOSTING:
-"First, let's talk about how to stop this spreading to others, and then we will discuss the eye drops you need to use."
-
-## Station 3 — FM Primary Care Consultation
-
-**Scenario**: A 25-year-old man complains of a red, itchy, and watery right eye for 2 days. He woke up with his eyelids stuck together. His colleague had pink eye last week.
-
-### Find Reason (×0.5)
-OPEN QUESTION:
-"You mentioned your right eye is red and itchy. Can you tell me more about when it started and how it feels?"
-
-ACTIVE LISTENING:
-Listen for the nature of the discharge, itching, and potential exposure to sick contacts.
-
-### Define Problem + Systems Review (×2.5)
-ASSESS SYMPTOMS:
-- "Is there any discharge? Is it watery, yellow, or green?"
-- "Are your eyelids stuck together when you wake up?"
-- "Is the other eye affected at all?"
-
-RED FLAGS (Sight-threatening conditions):
-- "Are you experiencing any actual pain in the eye, rather than just grittiness or itching?" (Keratitis, Glaucoma, Uveitis)
-- "Has your vision become blurred or decreased?"
-- "Are you sensitive to light (photophobia)?"
-- "Do you wear contact lenses?" (High risk for Pseudomonas keratitis)
-
-PHYSICAL EXAM:
-- Check Visual Acuity (VA) in both eyes (crucial first step).
-- Inspect the eye: Look for conjunctival injection (redness), discharge, and eyelid swelling.
-- Check pupil size and reactivity (should be normal in conjunctivitis).
-- Fluorescein staining if corneal abrasion or ulcer is suspected (especially in contact lens wearers).
-
-### ICE (Ideas, Concerns, Expectations) (×0.5)
-IDEAS:
-"Do you think you caught this from your colleague?"
-
-CONCERNS:
-"Are you worried about your vision or spreading it to your family?"
-
-EXPECTATIONS:
-"What were you hoping we could do today to clear it up?"
-
-### Diagnosis & Explanation (×0.5)
-DIAGNOSIS:
-"You have infective conjunctivitis, which is an infection of the clear membrane covering the white part of your eye."
-
-EXPLANATION:
-"It is very contagious and you likely caught it from your colleague. The infection causes the blood vessels to swell, making the eye look red, and produces the sticky discharge you see in the morning."
-
-CHECK UNDERSTANDING:
-"Does this make sense to you?"
-
-### Management + RICE (×1.0)
-REASSURE:
-"Your vision is perfectly fine, and this condition usually clears up completely without any lasting damage."
-
-PLAN:
-"I will prescribe some antibiotic eye drops to help clear the infection faster. I will also give you a sick leave certificate to prevent spreading it at work."
-
-ADVICE:
-"Wash your hands frequently, do not share towels, and do not wear contact lenses until the infection is gone. Clean the discharge with cooled boiled water."
-
-SAFETY NET:
-"If you start experiencing severe eye pain, if the light hurts your eyes, or if your vision becomes blurry, you must seek medical attention immediately."
-
-## Station 4 — Medical Record + Prescription Writing
-
-### Subjective (S)
-Ms Chan Yan Ting (F/28), clerk, presents with a 2-day history of right eye redness, grittiness, and yellowish discharge. Woke up this morning with the eyelids stuck together. Left eye started getting red today. No significant eye pain, no photophobia, no blurring of vision. Does not wear contact lenses. Recent URTI symptoms (runny nose) 3 days ago. PMH: Nil. NKDA.
-
-### Objective (O)
-Vitals: Afebrile.
-Visual Acuity: 6/6 in both eyes.
-Eyes: Bilateral conjunctival injection (right > left), predominantly in the fornices. Purulent discharge present at the medial canthus of the right eye. Cornea is clear bilaterally. Pupils are equal and reactive to light (PEARL). No ciliary flush.
-Lymph nodes: No pre-auricular lymphadenopathy.
-
-### Assessment (A)
-PRIMARY DIAGNOSIS: Acute Bacterial Conjunctivitis.
-Evidence: Purulent discharge, eyelids stuck together in the morning, bilateral involvement (sequential), normal vision, no severe pain or photophobia.
-
-NOT: Acute angle-closure glaucoma (no severe pain, no blurred vision, pupils reactive), Keratitis (cornea clear, no photophobia).
-
-### Plan (P)
-1. MEDICATION: Prescribed Chloramphenicol 0.5% eye drops, 1 drop to both eyes QID for 5-7 days (continue for 48 hours after resolution).
-2. HYGIENE ADVICE: Advised to wash hands frequently, avoid touching/rubbing eyes, do not share towels or pillows. Clean discharge with cooled boiled water and cotton wool.
-3. SICK LEAVE: Granted 2 days sick leave to prevent spread at work.
-4. SAFETY NET: Return immediately if vision becomes blurred, severe eye pain develops, photophobia occurs, or no improvement after 3 days.
-
-### Prescription
-- **Drug**: Chloramphenicol
-- **Preparation**: Eye drops (0.5%)
-- **Dose**: 1 drop to both eyes
-- **Route**: Topical (Ophthalmic)
-- **Frequency**: Four times daily (QID)
-- **Duration**: 1 week
-- **Quantity**: 1 bottle (10mL)
-
-**Tips**:
-- Specify which eye(s) - e.g., both eyes (Guttae OU)
-- Specify frequency (QID)
-
+### Scleritis (鞏膜炎)
+- *Pathophysiology*: Deep inflammation of the sclera. Strongly associated with systemic autoimmune diseases (e.g., Rheumatoid Arthritis).
+- *Features*: **Severe, boring eye pain** that radiates to the face/head and wakes the patient at night.
+- *Signs*: Deep, violaceous (purplish) redness that does *not* blanch with topical phenylephrine.
+- *Management*: Urgent referral. Requires systemic NSAIDs or immunosuppressants. (Note: *Episcleritis* is a milder, superficial inflammation that is usually benign and self-limiting).
