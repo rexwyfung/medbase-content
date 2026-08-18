@@ -30,11 +30,13 @@
 * **Posterior Tibial (PT) Artery**: Supplies plantar aspect (medial/lateral plantar arteries).
 * **Anterior Tibial (AT) / Dorsalis Pedis (DP) Artery**: Supplies dorsum of foot.
 * **Peroneal Artery**: Supplies lateral heel.
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/2fccf93986cabdf72ca3a1643625ebf3.png)
 
 ### Foot Biomechanics and Deforming Forces
 * **Intrinsic Muscle Wasting**: Lumbricals & interossei weakness → unopposed Extensor Digitorum Longus (EDL) & Flexor Digitorum Longus (FDL) → **Claw Toes (爪狀趾)**.
 * **Altered Pressure distribution**: Plantar fat pad migrates distally → prominent **Metatarsal Heads (蹠骨頭)** → ↑ peak plantar pressure.
 * **Charcot Arthropathy (夏科氏關節病)**: Midfoot collapse → **Rocker-bottom foot (搖椅底足)** → midfoot plantar ulceration.
+![image|600](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/9dd75ec086fb8e13ada9860713b5424d.png)
 
 ## 3. Clinical Assessment
 
@@ -65,6 +67,7 @@
   * **10g Semmes-Weinstein Monofilament (單絲測試)**: Tests protective sensation (test 10 sites per foot).
   * **128Hz Tuning Fork**: Tests vibration sense (early loss in DM neuropathy).
   * **Ankle Jerk Reflex**: Often absent.
+![image|200](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/42d356c63189657ce95afdf04165e802.png)
 
 ## 4. Orthopaedic Classification Systems
 
@@ -78,13 +81,17 @@
 | **4** | Localized gangrene (e.g., forefoot or heel) |
 | **5** | Extensive gangrene of the entire foot |
 
+![image|600](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/acd35dc74057f2a4bea5dbcbcb1590c2.png)
+
 ### University of Texas (UT) Diabetic Wound Classification
-| Grade | Depth | Stage A (Uninfected) | Stage B (Infected) | Stage C (Ischemic) | Stage D (Infected + Ischemic) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **0** | Pre-/post-ulcer | 0A | 0B | 0C | 0D |
-| **1** | Superficial | 1A | 1B | 1C | 1D |
-| **2** | Tendon/Capsule | 2A | 2B | 2C | 2D |
-| **3** | Bone/Joint | 3A | 3B | 3C | 3D |
+| Grade | Depth           | Stage A (Uninfected) | Stage B (Infected) | Stage C (Ischemic) | Stage D (Infected + Ischemic) |
+| :---- | :-------------- | :------------------- | :----------------- | :----------------- | :---------------------------- |
+| **0** | Pre-/post-ulcer | 0A                   | 0B                 | 0C                 | 0D                            |
+| **1** | Superficial     | 1A                   | 1B                 | 1C                 | 1D                            |
+| **2** | Tendon/Capsule  | 2A                   | 2B                 | 2C                 | 2D                            |
+| **3** | Bone/Joint      | 3A                   | 3B                 | 3C                 | 3D                            |
+
+![image|650](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/9d8c22f9ecd27a5a4209b17e0564aacc.png)
 
 ### WIfI (Wound, Ischemia, foot Infection) Classification
 * Estimates 1-year amputation risk and benefit of revascularization.
@@ -98,16 +105,23 @@
 * **Vascular**: **Mönckeberg's arteriosclerosis (蒙克伯格動脈硬化)** (medial calcification of vessels).
 * **Deformity**: Charcot changes (destruction, subluxation, dislocation, debris).
 * **Soft Tissue**: Gas tracking (indicates gas-forming organisms e.g., *Clostridium* or *Bacteroides*).
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/b2daca93042656f08f087a71204ba499.png)
 
 ### Advanced Foot Ulcer Imaging
 * **MRI without contrast**: Gold standard for early OM (marrow edema, low T1, high T2/STIR) and deep abscess localization.
 * **Vascular Imaging**: Duplex Ultrasound, CT Angiography (CTA), or MR Angiography (MRA) to map arterial tree for intervention.
 * **White Blood Cell (WBC) Scan**: Indicated if MRI contraindicated (e.g., pacemaker) or to distinguish Charcot from OM.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/31b2e3cb097b2818d5dbe87664ed11d2.png)
 
 ### Bedside Vascular Investigations
-* **Ankle-Brachial Index (ABI)**: Normal 0.9-1.3. <0.9 = PAD. >1.3 = heavily calcified, incompressible vessels (common in DM, yields false negative).
-* **Toe-Brachial Pressure Index (TBPI)**: Digital vessels less prone to calcification. Normal >0.7. <0.2 = severe ischemia.
-* **Transcutaneous Oximetry (TcPO2)**: Predicts healing potential (>40 mmHg heals well; <20 mmHg will not heal).
+* **Ankle-Brachial Index (ABI)**:
+	* Normal 0.9-1.3. <0.9 = PAD.
+	* 1.3 = heavily calcified, incompressible vessels (common in DM, yields false negative).
+* **Toe-Brachial Pressure Index (TBPI)**:
+	* Digital vessels less prone to calcification.
+	* Normal >0.7. <0.2 = severe ischemia.
+* **Transcutaneous Oximetry (TcPO2)**:
+	* Predicts healing potential (>40 mmHg heals well; <20 mmHg will not heal).
 
 ## 6. Initial ED Management
 
@@ -129,20 +143,22 @@
 ## 7. Definitive Management Algorithm
 
 ### Definitive Non-Operative Management Algorithm
-| Intervention | Indications / Details |
-| :--- | :--- |
-| **Advanced Wound Care** | Wagner 1-2, non-infected, adequate vascularity. Silver-impregnated, negative pressure wound therapy (NPWT/VAC) after debridement. |
-| **Total Contact Cast (TCC)** | Gold standard for offloading plantar neuropathic ulcers (Wagner 1-2). Forces compliance, distributes pressure evenly. |
-| **Removable Cast Walkers** | Aircast/CAM boot. Used if TCC contraindicated (e.g., heavy exudate, daily dressing needed, active infection). |
-| **Endocrine Optimization** | Aggressive control of HbA1c, lipids, and hypertension. |
+| Intervention                 | Indications / Details                                                                                                                    |
+| :--------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
+| **Advanced Wound Care**      | - Wagner 1-2, non-infected, adequate vascularity.<br>- Silver-impregnated, negative pressure wound therapy (NPWT/VAC) after debridement. |
+| **Total Contact Cast (TCC)** | - Gold standard for offloading plantar neuropathic ulcers (Wagner 1-2).<br>- Forces compliance, distributes pressure evenly.             |
+| **Removable Cast Walkers**   | - Aircast/CAM boot.<br>- Used if TCC contraindicated (e.g., heavy exudate, daily dressing needed, active infection).                     |
+| **Endocrine Optimization**   | Aggressive control of HbA1c, lipids, and hypertension.                                                                                   |
+
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/d90c5c32dbbb75488f830b9bca0042db.png)
 
 ### Definitive Operative Management Algorithm
-| Surgical Domain | Techniques & Indications |
-| :--- | :--- |
-| **Orthopaedic (Debridement / Excision)** | **Radical Debridement**: Excision of all infected bone (OM) and soft tissue.<br>**Ostectomy**: Shaving prominent metatarsal heads / exostoses causing internal pressure.<br>**Tendo-Achilles Lengthening (TAL)**: Corrects equinus to ↓ forefoot pressure. |
-| **Orthopaedic (Amputations)** | **Minor**: Toe amputation, Ray amputation, Transmetatarsal Amputation (TMA). Done for localized gangrene/OM.<br>**Major**: Below Knee Amputation (BKA) or Above Knee Amputation (AKA). Done for overwhelming sepsis, unsalvageable ischemia (Wagner 5), or severe loss of function. |
-| **Vascular (Revascularization)** | **Endovascular Angioplasty/Stenting**: For focal stenoses.<br>**Open Bypass**: e.g., Fem-Pop or Fem-Distal bypass (using reversed saphenous vein graft) for long-segment occlusions. *Must be done BEFORE definitive orthopaedic closure/amputation if ischemia is present.* |
-| **Plastics (Wound Coverage)** | **Split Skin Graft (SSG)**: For large, clean, granulating beds.<br>**Local/Free Flaps**: Required over exposed bone/tendon. |
+| Surgical Domain                          | Techniques & Indications                                                                                                                                                                                                                                                                |
+| :--------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Orthopaedic (Debridement / Excision)** | **Radical Debridement**: Excision of all infected bone (OM) and soft tissue.<br><br>**Ostectomy**: Shaving prominent metatarsal heads / exostoses causing internal pressure.<br><br>**Tendo-Achilles Lengthening (TAL)**: Corrects equinus to ↓ forefoot pressure.                      |
+| **Orthopaedic (Amputations)**            | **Minor**: Toe amputation, Ray amputation, Transmetatarsal Amputation (TMA). Done for localized gangrene/OM.<br><br>**Major**: Below Knee Amputation (BKA) or Above Knee Amputation (AKA). Done for overwhelming sepsis, unsalvageable ischemia (Wagner 5), or severe loss of function. |
+| **Vascular (Revascularization)**         | **Endovascular Angioplasty/Stenting**: For focal stenoses.<br><br>**Open Bypass**: e.g., Fem-Pop or Fem-Distal bypass (using reversed saphenous vein graft) for long-segment occlusions. *Must be done BEFORE definitive orthopaedic closure/amputation if ischemia is present.*        |
+| **Plastics (Wound Coverage)**            | **Split Skin Graft (SSG)**: For large, clean, granulating beds.<br><br>**Local/Free Flaps**: Required over exposed bone/tendon.                                                                                                                                                         |
 
 ## 8. Rehabilitation Protocol
 
