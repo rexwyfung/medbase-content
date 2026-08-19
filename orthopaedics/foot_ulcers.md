@@ -105,7 +105,7 @@
 * **Vascular**: **Mönckeberg's arteriosclerosis (蒙克伯格動脈硬化)** (medial calcification of vessels).
 * **Deformity**: Charcot changes (destruction, subluxation, dislocation, debris).
 * **Soft Tissue**: Gas tracking (indicates gas-forming organisms e.g., *Clostridium* or *Bacteroides*).
-![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/b2daca93042656f08f087a71204ba499.png)
+![image|600](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/b2daca93042656f08f087a71204ba499.png)
 
 ### Advanced Foot Ulcer Imaging
 * **MRI without contrast**: Gold standard for early OM (marrow edema, low T1, high T2/STIR) and deep abscess localization.
