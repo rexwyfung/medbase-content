@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orthopaedics/foot_ulcers.md",
+                "file": "orthopaedics/soft_tissue_infections_surgical_emergencies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "foot_ulcers"
+              "title": "soft_tissue_infections_surgical_emergencies"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "66363fc3827fce5f",
   "lastOpenFiles": [
+    "orthopaedics/foot_ulcers.md",
     "family-medicine/bph.md",
     "orthopaedics/scoliosis.md",
     "orthopaedics/lumbar_spine_pathology.md",
@@ -222,7 +223,6 @@
     "family-medicine/otitis-media.md",
     "family-medicine/osteoporosis.md",
     "family-medicine/obesity.md",
-    "family-medicine/oa-knee.md",
     "family-medicine",
     "orthopaedics",
     "emergency-medicine",
