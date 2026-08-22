@@ -9,15 +9,15 @@
 
 ### Mechanism of Injury (MOI) for High Energy Trauma
 * **Direct Trauma:**
-* **Crush Injury:** High mass, low velocity → severe soft tissue degloving (Morel-Lavallée lesion) & ischemia.
-* **High-Velocity Penetrating:** Gunshot wounds (kinetic energy cavitation).
-* **Motor Vehicle Collision (MVC):** Pedestrian vs. car, motorcycle crash.
-* **Fall From Height:** > 3 meters → axial loading forces.
+	* **Crush Injury:** High mass, low velocity → severe soft tissue degloving (Morel-Lavallée lesion) & ischemia.
+	* **High-Velocity Penetrating:** Gunshot wounds (kinetic energy cavitation).
+	* **Motor Vehicle Collision (MVC):** Pedestrian vs. car, motorcycle crash.
+	* **Fall From Height:** > 3 meters → axial loading forces.
 
 ### Epidemiology of High Energy Trauma
 * **Bimodal Distribution:**
-* **Peak 1:** Young males (20-30s) → RTAs, sports, industrial accidents.
-* **Peak 2:** Elderly (osteoporotic #) → lower energy but catastrophic tissue envelope failure.
+	* **Peak 1:** Young males (20-30s) → RTAs, sports, industrial accidents.
+	* **Peak 2:** Elderly (osteoporotic #) → lower energy but catastrophic tissue envelope failure.
 * **Most Common Open # Site:** Tibial diaphysis (subcutaneous anteromedial border).
 
 ## 2. Applied Orthopaedic Anatomy & Biomechanics
