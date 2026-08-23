@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "66716d3c5ad30d7e",
+            "id": "2c875cfd52d668ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orthopaedics/high_energy_trauma_open_fractures.md",
+                "file": "orthopaedics/common_hand_injuries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "high_energy_trauma_open_fractures"
+              "title": "common_hand_injuries"
             }
           }
         ],
@@ -232,9 +232,10 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "66716d3c5ad30d7e",
+  "active": "2c875cfd52d668ef",
   "lastOpenFiles": [
     "orthopaedics/hip_fractures.md",
+    "orthopaedics/high_energy_trauma_open_fractures.md",
     "orthopaedics/ankle_lower_limb_fractures.md",
     "orthopaedics/soft_tissue_infections_surgical_emergencies.md",
     "orthopaedics/foot_ulcers.md",
@@ -259,7 +260,6 @@
     "family-medicine/soft-tissue-injuries.md",
     "family-medicine/smoking-cessation.md",
     "family-medicine/red-eye.md",
-    "family-medicine/otitis-media.md",
     "family-medicine",
     "orthopaedics",
     "emergency-medicine",

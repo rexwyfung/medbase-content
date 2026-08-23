@@ -8,11 +8,15 @@
 * **MOI (Flexor):** Sharp penetrating trauma (glass, knife), heavy machinery crush
 * **MOI (Extensor - Mallet Finger):** Sudden forced flexion of extended DIPJ (e.g., catching basketball)
 * **MOI (Jersey Finger):** Sudden forced extension of actively flexing digit (FDP avulsion)
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/d01457e7ade7f7a279002757d816fd03.png)
 
 ### Scaphoid Fracture (舟骨骨折) Clinical Definition & MOI
 * **Definition:** # of carpal scaphoid bone
-* **Epidemiology:** Most common carpal # (70-80%), young males (15-30 yrs)
+* **Epidemiology:**
+	* Most common carpal # (70-80%).
+	* Young males (15-30 yrs).
 * **MOI:** Fall on outstretched hand (FOOSH) with wrist extended & radially deviated
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/7af28cf534514267035122e0171f08ff.png)
 
 ### Base of Thumb Fractures (拇指基部骨折) Clinical Definition & MOI
 * **Definition:** Intra-articular # at 1st carpometacarpal joint (CMCJ)
@@ -25,15 +29,18 @@
 * **Blood Supply:** Retrograde flow via **dorsal carpal branch** of **radial artery**
 * **Entry Point:** Enters at distal pole & waist → flows proximally
 * **Biomechanics:** Proximal pole relies entirely on intraosseous retrograde flow → ↑↑ risk of Avascular Necrosis (AVN) in proximal pole #
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/9d4b5bf275458681a48acc52024313d8.png)
 
 ### Flexor Tendon Anatomy & Nutrition
 * **Anatomy:** Flexor Digitorum Superficialis (FDS) bifurcates (Camper's Chiasm) to insert on middle phalanx; Flexor Digitorum Profundus (FDP) passes through chiasm to insert on distal phalanx
 * **Blood Supply:** Vincula longa & brevia
 * **Nutrition:** Synovial diffusion (imbibition) + vascular perfusion
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/5495b501f67b19a8ebff5b89fd9c12b0.png)
 
 ### Base of Thumb Biomechanics (Bennett's Deforming Forces)
 * **Shaft Fragment:** Pulled proximally, dorsally & radially by **Abductor Pollicis Longus (APL)** & **Extensor Pollicis Longus (EPL)**
 * **Base (Volar-Ulnar) Fragment:** Held strictly in place by **Anterior Oblique Ligament (AOL)**
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/2b2024de0dfaa38010c8c3b390e4569c.png)
 
 ## 3. Clinical Assessment
 
@@ -43,11 +50,13 @@
 * **Move (FDS Test):** Hold all non-tested digits in full extension (neutralizes FDP) → ask patient to flex PIPJ of tested digit
 * **Move (FDP Test):** Isolate PIPJ of tested digit in extension → ask patient to flex DIPJ
 * **NV Exam:** Test two-point discrimination for **digital nerves** (often cut with flexor tendons)
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/fb236eea78ea6856161509e259a9d8ee.png)
 
 ### Mallet Finger (槌狀指) Clinical Assessment
 * **Look:** DIPJ resting in flexion (droop)
 * **Feel:** Dorsal DIPJ tenderness +/- palpable bony fragment (bony mallet)
 * **Move:** Inability to actively extend DIPJ; full passive extension possible
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/6617942f727fba1bca36e375886e807f.png)
 
 ### Scaphoid Fracture Clinical Assessment
 * **Look:** Snuffbox swelling
@@ -55,17 +64,20 @@
 * **Feel:** +ve Scaphoid tubercle tenderness (volar aspect)
 * **Move:** Pain on active wrist extension
 * **Special Test:** +ve Axial compression pain (axial load applied through 1st metacarpal)
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/214f1cb065e298acd18aff1c7faae2cb.png)
 
 ## 4. Orthopaedic Classification Systems
 
 ### Flexor Tendon Verdan's Zones Classification
-| Zone | Location | Eponym/Note |
-| :--- | :--- | :--- |
-| **I** | Distal to FDS insertion | FDP injury only |
-| **II** | Distal palmar crease to FDS insertion | **"No Man's Land"** (FDS & FDP in same tight sheath → ↑ adhesion risk) |
-| **III** | Lumbrical origin (Palm) | Good prognosis |
-| **IV** | Carpal tunnel | Frequently involves median nerve |
-| **V** | Proximal to carpal tunnel | Forearm volar compartment |
+| Zone    | Location                              | Eponym/Note                                                            |
+| :------ | :------------------------------------ | :--------------------------------------------------------------------- |
+| **I**   | Distal to FDS insertion               | FDP injury only                                                        |
+| **II**  | Distal palmar crease to FDS insertion | **"No Man's Land"** (FDS & FDP in same tight sheath → ↑ adhesion risk) |
+| **III** | Lumbrical origin (Palm)               | Good prognosis                                                         |
+| **IV**  | Carpal tunnel                         | Frequently involves median nerve                                       |
+| **V**   | Proximal to carpal tunnel             | Forearm volar compartment                                              |
+
+![image|250](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/168577e54976963eefa22f65f4bf6c4e.png)
 
 ### Extensor Tendon Zones Classification
 | Zone | Anatomical Landmark | Typical Injury |
@@ -77,19 +89,25 @@
 | **V** | MCP Joint | "Fight Bite" (Human bite) |
 | **VI** | Metacarpals | Laceration |
 
+![image|250](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/bb8745dcdabcb0e0294f371d8d6ebbc2.png)
+
 ### Scaphoid Fracture Herbert Classification
-| Type | Description | Stability |
-| :--- | :--- | :--- |
-| **A** | Acute stable (A1: Tubercle, A2: Incomplete waist) | Stable |
-| **B** | Acute unstable (B1: Distal oblique, B2: Complete waist, B3: Proximal pole, B4: Trans-scaphoid perilunate # dislocation) | Unstable |
-| **C** | Delayed union | Unstable |
-| **D** | Established non-union (D1: Fibrous, D2: Pseudarthrosis) | Unstable |
+| Type  | Description                                                                                                             | Stability |
+| :---- | :---------------------------------------------------------------------------------------------------------------------- | :-------- |
+| **A** | Acute stable (A1: Tubercle, A2: Incomplete waist)                                                                       | Stable    |
+| **B** | Acute unstable (B1: Distal oblique, B2: Complete waist, B3: Proximal pole, B4: Trans-scaphoid perilunate # dislocation) | Unstable  |
+| **C** | Delayed union                                                                                                           | Unstable  |
+| **D** | Established non-union (D1: Fibrous, D2: Pseudarthrosis)                                                                 | Unstable  |
+
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/9a96c3a34d9d211eb635493b10737d60.png)
 
 ### Base of Thumb Fractures Classification
 | Type | Description |
 | :--- | :--- |
 | **Bennett's #** | Intra-articular, 2-part # (Volar-ulnar fragment stays + shaft displaces) |
 | **Rolando #** | Intra-articular, 3-part (Y or T shaped) or comminuted # |
+
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/2e0bad5c38db1ab1a24eba5da084098c.png)
 
 ## 5. Radiological Investigations
 
@@ -101,6 +119,7 @@
   * Semi-pronated oblique view
 * **MRI Wrist:** Gold standard for occult # (100% sensitivity at 24 hrs)
 * **CT Wrist:** Used to assess fracture union, comminution, humpback deformity
+![image|600](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/58ba819470598893c898be6a0b745195.png)
 
 ### Base of Thumb Fractures Radiological Investigations
 * **AP & Lateral Thumb Views:** True AP (Robert's view) evaluates CMCJ congruency
@@ -108,6 +127,7 @@
 
 ### Mallet Finger Radiological Investigations
 * **True Lateral Finger X-ray:** Differentiates tendinous mallet vs bony mallet; assesses % of articular surface involved in avulsion fragment
+![image|250](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/7baaef3f87ae601db7cf54d145918b86.png)
 
 ## 6. Initial ED Management
 
@@ -117,15 +137,18 @@
 * **Closure:** Loose temporary skin sutures in ED (Do NOT explore/repair tendon in ED)
 * **Splinting:** Dorsal blocking splint (wrist 30° flexion, MCP 70° flexion, IP neutral)
 * **Medications:** Tetanus prophylaxis + IV Augmentin
+![image|250](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3b1f96d265ed4fb97b77dc16f38e1059.png)
 
 ### Suspected Scaphoid Fracture Initial ED Management
 * **Indication:** Clinical signs +ve but normal initial X-ray (Occult #)
 * **Splinting:** Thumb spica backslab (Include IP joint to immobilize thumb)
 * **Follow-up:** Ortho OPD in 10-14 days for repeat clinical exam & X-ray
+![image|250](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/2ae6ddfd8b0a795544f235900f165257.png)
 
 ### Closed Hand Fractures Initial ED Management
 * **Mallet Finger:** Apply Stack splint (or Zimmer splint) locking DIPJ in continuous slight hyperextension
 * **Bennett/Rolando #:** Thumb spica backslab + strict elevation + ice
+![image|250](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/9e0faa06cd84efb548670904a0ba1de8.png)
 
 ## 7. Definitive Management Algorithm
 
@@ -137,21 +160,26 @@
 | **Late Presentation (>3 wks)** | 2-stage tendon reconstruction (Silastic rod → Tendon graft) |
 
 * **Surgical Principle:** Modified Kessler core suture (4-6 strands using 3-0/4-0 non-absorbable) + epitendinous continuous suture (6-0)
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/7a6f251c3ac260dc0d6c2664e5a5fa36.png)
 
 ### Scaphoid Fracture Definitive Management Algorithm
-| Fracture Type | Definitive Management |
-| :--- | :--- |
-| **Undisplaced Waist / Distal #** | Non-op: Cast immobilization (Thumb spica cast) for 6-12 wks |
-| **Displaced >1 mm** | Operative: Percutaneous or Open reduction + Herbert screw fixation |
-| **Proximal Pole #** | Operative: Herbert screw fixation (High AVN risk) |
-| **Scaphoid Non-Union** | Operative: Bone grafting (vascularized vs non-vascularized) + ORIF |
+| Fracture Type                    | Definitive Management                                              |
+| :------------------------------- | :----------------------------------------------------------------- |
+| **Undisplaced Waist / Distal #** | Non-op: Cast immobilization (Thumb spica cast) for 6-12 wks        |
+| **Displaced >1 mm**              | Operative: Percutaneous or Open reduction + Herbert screw fixation |
+| **Proximal Pole #**              | Operative: Herbert screw fixation (High AVN risk)                  |
+| **Scaphoid Non-Union**           | Operative: Bone grafting (vascularized vs non-vascularized) + ORIF |
+
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/faed275e8a05185a9fef31cda59779ee.png)
 
 ### Base of Thumb Fractures Definitive Management Algorithm
-| Fracture Type | Definitive Management |
-| :--- | :--- |
-| **Bennett's (Small fragment, reducible)** | Closed Reduction Percutaneous Pinning (CRPP) with K-wires |
-| **Bennett's (Large fragment, step-off >1mm)**| Open Reduction Internal Fixation (ORIF) with mini-screws |
-| **Rolando (Severe Comminution)** | External fixation +/- limited internal fixation |
+| Fracture Type                                 | Definitive Management                                     |
+| :-------------------------------------------- | :-------------------------------------------------------- |
+| **Bennett's (Small fragment, reducible)**     | Closed Reduction Percutaneous Pinning (CRPP) with K-wires |
+| **Bennett's (Large fragment, step-off >1mm)** | Open Reduction Internal Fixation (ORIF) with mini-screws  |
+| **Rolando (Severe Comminution)**              | External fixation +/- limited internal fixation           |
+
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/088a91a9aa8571d9e1a30d812d99539f.png)
 
 ## 8. Rehabilitation Protocol
 
@@ -159,6 +187,7 @@
 * **Protocol:** Early Active Motion (EAM) or Early Controlled Passive Motion (Kleinert / Modified Duran)
 * **Kleinert Protocol:** Dynamic splint. Rubber band attached to nail pulls digit into passive flexion; patient actively extends against band tension.
 * **Timeline:** Splint continuously for 6 weeks → active ROM exercises → normal lifting at 10-12 weeks
+![image|200](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/e568a16e46720167457d98dafa988355.png)
 
 ### Mallet Finger Rehabilitation Protocol
 * **Splinting:** Stack splint for strictly **6-8 weeks** continuously
