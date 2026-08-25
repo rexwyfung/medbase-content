@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orthopaedics/common_hand_injuries.md",
+                "file": "orthopaedics/carpal_tunnel_syndrome.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "common_hand_injuries"
+              "title": "carpal_tunnel_syndrome"
             }
           }
         ],
@@ -106,7 +106,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -121,8 +124,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -234,6 +236,9 @@
   },
   "active": "2c875cfd52d668ef",
   "lastOpenFiles": [
+    "orthopaedics/primary_malignant_bone_tumours.md",
+    "orthopaedics/carpal_tunnel_syndrome.md",
+    "orthopaedics/common_hand_injuries.md",
     "orthopaedics/hip_fractures.md",
     "orthopaedics/high_energy_trauma_open_fractures.md",
     "orthopaedics/ankle_lower_limb_fractures.md",
@@ -242,7 +247,6 @@
     "family-medicine/bph.md",
     "orthopaedics/scoliosis.md",
     "orthopaedics/lumbar_spine_pathology.md",
-    "orthopaedics/common_hand_injuries.md",
     "orthopaedics/common_hand_elective_conditions.md",
     "orthopaedics/cervical_spine_pathology.md",
     "family-medicine/anemia.md",
@@ -258,8 +262,6 @@
     "family-medicine/stroke.md",
     "family-medicine/stress-adjustment.md",
     "family-medicine/soft-tissue-injuries.md",
-    "family-medicine/smoking-cessation.md",
-    "family-medicine/red-eye.md",
     "family-medicine",
     "orthopaedics",
     "emergency-medicine",
