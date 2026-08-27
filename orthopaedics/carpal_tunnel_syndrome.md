@@ -71,6 +71,7 @@
 * **Durkan's Test:** Direct manual compression over carpal tunnel for 30s. Most sensitive/specific.
 * **Phalen's Test:** Wrist maximally flexed for 60s → reproduces paresthesia.
 * **Tinel's Sign:** Tapping over median nerve at wrist crease → electric shock sensation distally.
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/d6950351820b12a2cf9e55b9c48c039b.png)
 
 ## 4. Orthopaedic Classification Systems (Eponyms & Grading)
 ### Electrodiagnostic Severity Grading of CTS
@@ -93,6 +94,7 @@
 * **X-ray Wrist (AP/Lat):** Usually normal. Rule out structural causes (OA, prior distal radius #, carpal malalignment).
 * **Ultrasound (US):** ↑ Cross-sectional area of median nerve proximal to tunnel (>10mm²).
 * **MRI Wrist:** Rarely indicated. Use if suspected Space Occupying Lesion (SOL) or atypical presentation.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/d08dcdbcbaff73905db2a32f6fca5e05.png)
 
 ## 6. Initial ED Management (Reduction, Splinting/Casting, Traction)
 ### Acute CTS (Trauma Setting) Initial Management
@@ -100,6 +102,7 @@
 * **Immediate Action:** Urgent closed reduction of fracture/dislocation.
 * **Splinting:** Apply volar slab in neutral wrist position.
 * **Monitoring:** Serial NV exams. If symptoms fail to resolve post-reduction → requires urgent operative decompression.
+![image|200](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/db7d9e281240607dc8aec6757c6334e2.png)
 
 ### Chronic CTS Initial Conservative Management
 * **Splinting:** Nocturnal wrist-resting splint (wrist in neutral position to maximize tunnel volume).
@@ -108,21 +111,26 @@
 
 ## 7. Definitive Management Algorithm (Non-Operative vs. Operative Indications & Techniques)
 ### CTS Management Algorithm
-| Modality | Indications |
-| :--- | :--- |
-| **Conservative** | Mild-to-moderate symptoms, intermittent numbness, pregnancy (usually resolves post-partum). |
-| **Operative** | Severe symptoms, failure of conservative Rx (>3-6 months), thenar atrophy, constant numbness, acute CTS post-trauma. |
+| Modality         | Indications                                                                                                                                 |
+| :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Conservative** | - Mild-to-moderate symptoms.<br>- Intermittent numbness.<br>- Pregnancy (usually resolves post-partum).                                     |
+| **Operative**    | - Severe symptoms. <br>- Failure of conservative Rx (>3-6 months).<br>- Thenar atrophy.<br>- Constant numbness.<br>- Acute CTS post-trauma. |
 
 ### Operative Technique: Open Carpal Tunnel Release (OCTR)
 * **Incision:** Longitudinal incision in line with 3rd webspace (safe zone), staying ulnar to palmar crease to avoid recurrent motor branch.
 * **Target:** Complete division of **Transverse Carpal Ligament (腕橫韌帶)** under direct vision.
-* **Structures to Protect:** Recurrent motor branch (radial side), Palmar cutaneous branch (radial/proximal), Superficial palmar arch (distal).
+* **Structures to Protect:**
+	* Recurrent motor branch (radial side).
+	* Palmar cutaneous branch (radial/proximal).
+	* Superficial palmar arch (distal).
+![image|250](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/74d1c3fbd414676bdd848c6ac1143d18.png)![image|250](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/67b4c5499928de6d4b3663fc11511d3a.png)
 
 ### Operative Technique: Endoscopic Carpal Tunnel Release (ECTR)
 * **Approach:** Single (Agee) or double (Chow) portal.
 * **Pros:** Less immediate post-op pain, faster return to work.
 * **Cons:** Higher risk of incomplete release and iatrogenic nerve/vessel injury.
 * **Contraindications:** Stiff wrist, previous CTR, anatomical variants, acute post-traumatic CTS.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/be81af8e496476bb0ff293f1bedadc75.png)
 
 ## 8. Rehabilitation Protocol
 ### Post-Operative CTS Rehabilitation
