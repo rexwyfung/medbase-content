@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orthopaedics/carpal_tunnel_syndrome.md",
+                "file": "orthopaedics/medial_lateral_epicondylitis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "carpal_tunnel_syndrome"
+              "title": "medial_lateral_epicondylitis"
             }
           }
         ],
@@ -284,6 +284,10 @@
   },
   "active": "09f599030697cf03",
   "lastOpenFiles": [
+    "orthopaedics/hand_osteoarthritis.md",
+    "orthopaedics/ganglion_cyst.md",
+    "orthopaedics/carpal_tunnel_syndrome.md",
+    "orthopaedics/medial_lateral_epicondylitis.md",
     "orthopaedics/knee_arthritis.md",
     "paediatrics/scfe.md",
     "orthopaedics/paediatric_musculoskeletal_injury.md",
@@ -292,7 +296,6 @@
     "orthopaedics/common_hand_injuries.md",
     "orthopaedics/cervical_spine_pathology.md",
     "orthopaedics/common_hand_elective_conditions.md",
-    "orthopaedics/carpal_tunnel_syndrome.md",
     "orthopaedics/primary_malignant_bone_tumours.md",
     "orthopaedics/hip_fractures.md",
     "orthopaedics/high_energy_trauma_open_fractures.md",
@@ -307,9 +310,6 @@
     "family-medicine/allergic-rhinitis.md",
     "family-medicine/acne.md",
     "family-medicine/vaccination.md",
-    "family-medicine/uti.md",
-    "family-medicine/urticaria.md",
-    "family-medicine/urti.md",
     "family-medicine",
     "orthopaedics",
     "emergency-medicine",
