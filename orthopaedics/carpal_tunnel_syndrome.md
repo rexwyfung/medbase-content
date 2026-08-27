@@ -1,110 +1,141 @@
 # Carpal Tunnel Syndrome (腕管綜合症)
 
-## 1. Clinical Definition, Mechanism & Epidemiology
+## 1. Clinical Definition, Mechanism of Injury (MOI) & Epidemiology
+### CTS Clinical Definition
+* **Definition:** Compressive neuropathy of **Median Nerve (正中神經)** within the rigid fibro-osseous carpal tunnel at the wrist.
+* **Hallmark:** Ischemic compression → focal demyelination → axonal loss (if prolonged).
 
-### Definition
-* **Carpal Tunnel Syndrome (CTS)** is compression of the **median nerve** beneath the transverse carpal ligament at the wrist.
-* It is the most common upper-limb entrapment neuropathy.
+### CTS Epidemiology
+* **Prevalence:** Most common compressive neuropathy.
+* **Demographics:** F:M ratio = 3:1. Peak age 40-60 yrs.
+* **Laterality:** Bilateral in >50% cases.
 
-### Risk Factors & Associations
-* Female sex, pregnancy, obesity, diabetes mellitus, hypothyroidism, rheumatoid arthritis, chronic kidney disease and amyloidosis.
-* Repetitive wrist flexion/extension and vibration exposure may aggravate symptoms, but occupational causation should be assessed carefully.
-* Consider an alternative or additional diagnosis when symptoms extend proximal to the elbow or involve the little finger.
+### CTS Etiology & Risk Factors
+* **Idiopathic:** Most common (synovial hypertrophy).
+* **Systemic/Endocrine:** Diabetes Mellitus (DM), Hypothyroidism, Pregnancy, Acromegaly, Amyloidosis.
+* **Inflammatory:** Rheumatoid Arthritis (RA), Gout.
+* **Trauma:** Distal radius # (Colles'), carpal dislocation (Lunate/Perilunate).
+* **Anatomical/SOL:** Ganglion cyst, lipoma, anomalous muscle belly.
 
-## 2. Applied Orthopaedic Anatomy & Pathophysiology
+## 2. Applied Orthopaedic Anatomy & Biomechanics
+### Carpal Tunnel Boundaries
+* **Roof:** **Transverse Carpal Ligament (腕橫韌帶)** / Flexor Retinaculum.
+  * Attachments: Scaphoid tuberosity & Trapezium ridge (radial) → Pisiform & Hook of Hamate (ulnar).
+* **Floor/Walls:** Concave arch of carpal bones.
 
-### Carpal Tunnel Anatomy
-* **Roof:** Transverse carpal ligament (flexor retinaculum).
-* **Floor and walls:** Carpal bones forming a concave osteofibrous tunnel.
-* **Contents:** Median nerve plus nine flexor tendons (FDS, FDP and FPL).
-* The palmar cutaneous branch of the median nerve travels superficial to the flexor retinaculum, so sensation over the thenar eminence is usually spared.
+### Carpal Tunnel Contents
+* **Total Structures:** 10 structures pass through the tunnel.
+* **Tendons (9):**
+  * 4 × Flexor Digitorum Superficialis (FDS)
+  * 4 × Flexor Digitorum Profundus (FDP)
+  * 1 × Flexor Pollicis Longus (FPL)
+* **Nerve (1):** **Median Nerve (正中神經)** (volar & radial to superficial flexor tendons).
 
-### Pathophysiology
-* Raised tunnel pressure causes venous congestion, intraneural oedema, focal demyelination and, in advanced disease, axonal loss and thenar wasting.
+### Median Nerve Motor Supply (LOAF)
+| Muscle | Nerve Branch | Action Tested |
+| :--- | :--- | :--- |
+| **L**umbricals (1st & 2nd) | Terminal Motor | Flex MCPJ, Extend IPJ (Index/Middle) |
+| **O**pponens pollicis | Recurrent Motor Branch | Thumb opposition |
+| **A**bductor pollicis brevis | Recurrent Motor Branch | Palmar abduction of thumb |
+| **F**lexor pollicis brevis (superficial) | Recurrent Motor Branch | Thumb MCPJ flexion |
+
+### Median Nerve Sensory Supply & Branches
+* **Digital Branches:** Sensation to palmar aspect of radial 3.5 digits.
+* **Palmar Cutaneous Branch (PCB):** Sensation to base of thenar eminence.
+  * **Crucial Anatomy:** Branches ~5cm PROXIMAL to carpal tunnel, runs *outside* (superficial to) the flexor retinaculum.
+  * **Clinical Implication:** Sensation over **Thenar Eminence (大魚際)** is SPARED in CTS.
 
 ## 3. Clinical Assessment
+### CTS History & Symptoms
+* **Sensory:** Numbness, tingling in radial 3.5 digits. Wakes patient at night (nocturnal pain). "Flicking sign" +ve (shakes hand to relieve symptoms).
+* **Motor:** Clumsiness, dropping objects, difficulty buttoning shirts.
+* **Radiation:** Pain may radiate proximally to forearm/shoulder.
 
-### Symptoms
-* Nocturnal or activity-related paraesthesia, numbness or burning in the thumb, index, middle and radial half of the ring finger.
-* Patients may shake or hang the hand to relieve symptoms (flick sign).
-* Weak pinch or grip, dropping objects and clumsiness suggest motor involvement.
+### CTS Physical Examination: Look & Feel
+* **Look:** **Thenar atrophy** (late sign).
+* **Feel:** 
+  * Normal sensation over thenar eminence.
+  * ↓ 2-point discrimination (>5mm) in radial 3.5 digits (late/severe sign).
+  * Semmes-Weinstein monofilament testing (sensitive for early sensory loss).
 
-### Examination
-* Inspect for thenar wasting and compare both hands.
-* Test light touch, two-point discrimination and thumb opposition/abduction.
-* **Tinel sign:** Percussion over the carpal tunnel reproduces paraesthesia.
-* **Phalen test:** Sustained wrist flexion for up to 60 seconds reproduces symptoms.
-* **Durkan compression test:** Direct pressure over the tunnel reproduces symptoms and is often more sensitive.
-* Document cervical spine, proximal median nerve and ulnar nerve findings to identify double-crush or alternative pathology.
+### CTS Physical Examination: Move & Special Tests
+* **Move:** Weakness in thumb palmar abduction (test APB - point thumb to ceiling).
+* **Durkan's Test:** Direct manual compression over carpal tunnel for 30s. Most sensitive/specific.
+* **Phalen's Test:** Wrist maximally flexed for 60s → reproduces paresthesia.
+* **Tinel's Sign:** Tapping over median nerve at wrist crease → electric shock sensation distally.
 
-## 4. Differential Diagnosis & Severity
-
-### Differential Diagnosis
-* Cervical radiculopathy (especially C6), brachial plexopathy and proximal median neuropathy.
-* Diabetic polyneuropathy, ulnar neuropathy and thumb carpometacarpal osteoarthritis.
-* Pronator syndrome is usually associated with forearm pain and less prominent nocturnal symptoms.
-
-### Clinical Severity
-* **Mild:** Intermittent sensory symptoms without objective deficit.
-* **Moderate:** Persistent sensory loss or abnormal nerve conduction with preserved thenar strength.
-* **Severe:** Thenar weakness/atrophy, constant numbness, sensory loss or denervation on testing.
-
-## 5. Investigations
-
-### Electrodiagnostic Testing
-* Nerve-conduction studies (NCS) and electromyography (EMG) confirm median neuropathy at the wrist, grade severity and exclude cervical radiculopathy or polyneuropathy.
-* Test the contralateral side or additional nerves when the presentation is atypical.
-
-### Imaging & Blood Tests
-* Ultrasound can demonstrate median-nerve enlargement and structural lesions, and is useful when NCS is unavailable or discordant.
-* Plain radiographs are not routine; obtain them for trauma, arthritis or suspected bony mass.
-* Check glucose/HbA1c and thyroid function when clinically indicated.
-
-## 6. Initial Conservative Management
-
-* Explain activity modification and avoid sustained wrist flexion or forceful gripping.
-* Use a neutral-position night wrist splint for 6-12 weeks; avoid prolonged immobilisation in flexion.
-* Treat contributing conditions such as diabetes, hypothyroidism, inflammatory arthritis or pregnancy-related oedema.
-* A local corticosteroid injection can provide short-term relief and is useful diagnostically, but recurrence is common and repeated injections carry tendon/nerve risks.
-
-## 7. Definitive Management Algorithm
-
-| Situation | Recommended management |
+## 4. Orthopaedic Classification Systems (Eponyms & Grading)
+### Electrodiagnostic Severity Grading of CTS
+| Grade | Neurophysiological Findings |
 | :--- | :--- |
-| Mild intermittent symptoms | Night splint, education and review. |
-| Persistent symptoms despite splinting or moderate NCS changes | Consider corticosteroid injection or elective decompression after shared decision-making. |
-| Severe NCS abnormality, thenar wasting, motor deficit or constant sensory loss | Prompt carpal tunnel release; do not delay for repeated injections. |
-| Atypical symptoms or space-occupying lesion | Further imaging and specialist assessment. |
+| **Mild** | Prolonged sensory latency ONLY. Normal motor latency. |
+| **Moderate** | Prolonged sensory latency + prolonged motor latency. |
+| **Severe** | Prolonged latencies + decreased amplitudes (axonal loss) OR absent responses. Fibrillations on EMG. |
 
-### Carpal Tunnel Release
-* Open release divides the transverse carpal ligament under direct vision.
-* Endoscopic release may allow earlier scar recovery in selected patients but has a learning curve and risk of incomplete release or nerve injury.
-* Confirm complete decompression and protect the recurrent motor branch and palmar cutaneous branch.
+## 5. Radiological Investigations
+### CTS Electrodiagnostic Studies (Nerve Conduction/EMG)
+* **Role:** Gold standard for diagnosis & grading. Differentiates CTS from cervical radiculopathy.
+* **Nerve Conduction Studies (NCS):**
+  * ↑ Latency (demyelination).
+  * ↓ Amplitude (axonal loss).
+  * ↓ Conduction velocity across wrist.
+* **Electromyography (EMG):** Shows denervation (fibrillation potentials) in thenar muscles (late).
+
+### CTS Imaging Modalities
+* **X-ray Wrist (AP/Lat):** Usually normal. Rule out structural causes (OA, prior distal radius #, carpal malalignment).
+* **Ultrasound (US):** ↑ Cross-sectional area of median nerve proximal to tunnel (>10mm²).
+* **MRI Wrist:** Rarely indicated. Use if suspected Space Occupying Lesion (SOL) or atypical presentation.
+
+## 6. Initial ED Management (Reduction, Splinting/Casting, Traction)
+### Acute CTS (Trauma Setting) Initial Management
+* **Indication:** Acute CTS secondary to trauma (e.g., displaced distal radius #, perilunate dislocation).
+* **Immediate Action:** Urgent closed reduction of fracture/dislocation.
+* **Splinting:** Apply volar slab in neutral wrist position.
+* **Monitoring:** Serial NV exams. If symptoms fail to resolve post-reduction → requires urgent operative decompression.
+
+### Chronic CTS Initial Conservative Management
+* **Splinting:** Nocturnal wrist-resting splint (wrist in neutral position to maximize tunnel volume).
+* **Pharmacology:** Short course NSAIDs (limited efficacy).
+* **Injection:** Corticosteroid injection into carpal tunnel (diagnostic & therapeutic). Good short-term relief, high recurrence rate.
+
+## 7. Definitive Management Algorithm (Non-Operative vs. Operative Indications & Techniques)
+### CTS Management Algorithm
+| Modality | Indications |
+| :--- | :--- |
+| **Conservative** | Mild-to-moderate symptoms, intermittent numbness, pregnancy (usually resolves post-partum). |
+| **Operative** | Severe symptoms, failure of conservative Rx (>3-6 months), thenar atrophy, constant numbness, acute CTS post-trauma. |
+
+### Operative Technique: Open Carpal Tunnel Release (OCTR)
+* **Incision:** Longitudinal incision in line with 3rd webspace (safe zone), staying ulnar to palmar crease to avoid recurrent motor branch.
+* **Target:** Complete division of **Transverse Carpal Ligament (腕橫韌帶)** under direct vision.
+* **Structures to Protect:** Recurrent motor branch (radial side), Palmar cutaneous branch (radial/proximal), Superficial palmar arch (distal).
+
+### Operative Technique: Endoscopic Carpal Tunnel Release (ECTR)
+* **Approach:** Single (Agee) or double (Chow) portal.
+* **Pros:** Less immediate post-op pain, faster return to work.
+* **Cons:** Higher risk of incomplete release and iatrogenic nerve/vessel injury.
+* **Contraindications:** Stiff wrist, previous CTR, anatomical variants, acute post-traumatic CTS.
 
 ## 8. Rehabilitation Protocol
+### Post-Operative CTS Rehabilitation
+* **Day 0-14:** Bulky dressing. Encourage immediate active finger & thumb ROM to prevent tendon tethering. Avoid heavy lifting.
+* **Week 2:** Suture removal. Initiate scar massage and desensitization.
+* **Week 2-6:** Nerve and tendon gliding exercises. Gradual grip strengthening.
+* **Return to Work (HA Context):** Light duties at 2-3 weeks, heavy manual labor at 6-8 weeks.
 
-* Elevate the hand and encourage finger, thumb and elbow movement immediately after surgery.
-* Keep the wound clean and dry; review for wound healing and suture removal according to local protocol.
-* Begin gentle wrist range of motion when comfortable; avoid heavy gripping and loading until the wound is healed and symptoms permit.
-* Persistent numbness after severe CTS may improve slowly because axonal recovery takes months.
-
-## 9. Complications & Prognosis
-
-### Disease Complications
-* Permanent sensory loss, loss of protective sensation and thenar muscle wasting if untreated.
-* Reduced grip and pinch strength and impaired hand function.
-
-### Treatment Complications
-* Pillar pain, scar tenderness, wound infection, stiffness and incomplete release.
-* Injury to the median nerve, its recurrent motor branch or palmar cutaneous branch is rare but serious.
-* Complex regional pain syndrome and recurrence are uncommon.
-
-### Prognosis
-* Nocturnal paraesthesia usually improves early after decompression; severe longstanding nerve damage may not fully reverse.
+## 9. Orthopaedic Complications
+### Surgical Complications of Carpal Tunnel Release
+* **Incomplete Release:** Most common cause of persistent symptoms (usually missed distal portion of TCL).
+* **Pillar Pain:** Pain over thenar/hypothenar eminences. Very common. Usually resolves by 3-6 months.
+* **Nerve Injury:**
+  * **Recurrent Motor Branch:** "Million Dollar Nerve". Radial side injury → loss of thumb opposition.
+  * **Palmar Cutaneous Branch:** Incision too far radial/proximal → painful neuroma.
+* **Bowstringing of Flexor Tendons:** Secondary to over-resection of retinaculum and early heavy lifting.
+* **CRPS (Complex Regional Pain Syndrome):** Rare but severe complication.
 
 ## 10. Examiner's Pearls
-
-* **Viva Question:** Which sensory area is usually spared in CTS? **Answer:** Sensation over the thenar eminence, because the palmar cutaneous branch passes superficial to the carpal tunnel.
-* **Viva Question:** Which finding warrants early surgical referral? **Answer:** Thenar wasting or weakness, constant numbness, or severe NCS abnormalities.
-* **Trap:** Calling any hand paraesthesia CTS. **Pearl:** Symptoms in the little finger, neck pain, or a proximal sensory level should prompt assessment for ulnar neuropathy, cervical radiculopathy or another diagnosis.
-* **Pitfall:** Repeating steroid injections in severe CTS. **Pearl:** Injections are temporary treatment and must not delay decompression when there is motor deficit or axonal loss.
+* Viva Question: How do you clinically differentiate Carpal Tunnel Syndrome from a C6 cervical radiculopathy? Answer: In CTS, sensation over the thenar eminence is spared (Palmar Cutaneous Branch branches proximal to tunnel), whereas C6 radiculopathy involves the entire dermatome including the thenar eminence. Neck pain and +ve Spurling's test also point to C6.
+* Viva Question: Which physical examination test for CTS is the most sensitive and specific? Answer: Durkan's test (Carpal compression test).
+* Trap: Assuming thenar atrophy is an early sign of CTS. Pearl: Thenar atrophy is a late sign indicating irreversible axonal damage; surgery should ideally be performed before it develops.
+* Trap: Using Phalen's test in a patient with severe baseline wrist arthritis. Pearl: Phalen's requires maximum wrist flexion, which may be impossible or cause joint pain (false positive) in arthritic wrists. Rely on Durkan's or Tinel's.
+* Pitfall: Making the surgical incision too far radially during an open carpal tunnel release. This risks injury to the Palmar Cutaneous Branch (causing a painful neuroma) or the Recurrent Motor Branch of the median nerve (causing loss of thumb opposition).

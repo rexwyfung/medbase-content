@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orthopaedics/carpal_tunnel_syndrome.md",
+                "file": "orthopaedics/common_hand_injuries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "carpal_tunnel_syndrome"
+              "title": "common_hand_injuries"
+            }
+          },
+          {
+            "id": "e460276fb2dba293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paediatrics/scfe.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "scfe"
+            }
+          },
+          {
+            "id": "09f599030697cf03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "orthopaedics/knee_arthritis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "knee_arthritis"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -234,11 +282,17 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "2c875cfd52d668ef",
+  "active": "09f599030697cf03",
   "lastOpenFiles": [
-    "orthopaedics/primary_malignant_bone_tumours.md",
-    "orthopaedics/carpal_tunnel_syndrome.md",
+    "paediatrics/scfe.md",
+    "orthopaedics/paediatric_musculoskeletal_injury.md",
+    "orthopaedics/paediatric_deformities.md",
+    "orthopaedics/pelvic_acetabular_fractures.md",
     "orthopaedics/common_hand_injuries.md",
+    "orthopaedics/cervical_spine_pathology.md",
+    "orthopaedics/common_hand_elective_conditions.md",
+    "orthopaedics/carpal_tunnel_syndrome.md",
+    "orthopaedics/primary_malignant_bone_tumours.md",
     "orthopaedics/hip_fractures.md",
     "orthopaedics/high_energy_trauma_open_fractures.md",
     "orthopaedics/ankle_lower_limb_fractures.md",
@@ -247,8 +301,6 @@
     "family-medicine/bph.md",
     "orthopaedics/scoliosis.md",
     "orthopaedics/lumbar_spine_pathology.md",
-    "orthopaedics/common_hand_elective_conditions.md",
-    "orthopaedics/cervical_spine_pathology.md",
     "family-medicine/anemia.md",
     "family-medicine/anxiety.md",
     "family-medicine/allergic-rhinitis.md",
@@ -258,10 +310,6 @@
     "family-medicine/urticaria.md",
     "family-medicine/urti.md",
     "family-medicine/thyroid-disease.md",
-    "family-medicine/swallowing.md",
-    "family-medicine/stroke.md",
-    "family-medicine/stress-adjustment.md",
-    "family-medicine/soft-tissue-injuries.md",
     "family-medicine",
     "orthopaedics",
     "emergency-medicine",
