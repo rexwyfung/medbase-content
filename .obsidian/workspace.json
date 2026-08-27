@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orthopaedics/knee_arthritis.md",
+                "file": "orthopaedics/carpal_tunnel_syndrome.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "knee_arthritis"
+              "title": "carpal_tunnel_syndrome"
             }
           }
         ],
@@ -284,6 +284,7 @@
   },
   "active": "09f599030697cf03",
   "lastOpenFiles": [
+    "orthopaedics/knee_arthritis.md",
     "paediatrics/scfe.md",
     "orthopaedics/paediatric_musculoskeletal_injury.md",
     "orthopaedics/paediatric_deformities.md",
@@ -309,7 +310,6 @@
     "family-medicine/uti.md",
     "family-medicine/urticaria.md",
     "family-medicine/urti.md",
-    "family-medicine/thyroid-disease.md",
     "family-medicine",
     "orthopaedics",
     "emergency-medicine",

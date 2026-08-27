@@ -22,6 +22,7 @@
 * **Roof:** **Transverse Carpal Ligament (腕橫韌帶)** / Flexor Retinaculum.
   * Attachments: Scaphoid tuberosity & Trapezium ridge (radial) → Pisiform & Hook of Hamate (ulnar).
 * **Floor/Walls:** Concave arch of carpal bones.
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/e0d1cb40de08d7af4a459ada35197bb4.png)
 
 ### Carpal Tunnel Contents
 * **Total Structures:** 10 structures pass through the tunnel.
@@ -30,6 +31,7 @@
   * 4 × Flexor Digitorum Profundus (FDP)
   * 1 × Flexor Pollicis Longus (FPL)
 * **Nerve (1):** **Median Nerve (正中神經)** (volar & radial to superficial flexor tendons).
+![image|600](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/5aa08388bc6222b9bb93f3eadab2e025.png)
 
 ### Median Nerve Motor Supply (LOAF)
 | Muscle | Nerve Branch | Action Tested |
@@ -39,15 +41,21 @@
 | **A**bductor pollicis brevis | Recurrent Motor Branch | Palmar abduction of thumb |
 | **F**lexor pollicis brevis (superficial) | Recurrent Motor Branch | Thumb MCPJ flexion |
 
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/b922264a3b996b874b7016c85fc0f645.png)
+
 ### Median Nerve Sensory Supply & Branches
 * **Digital Branches:** Sensation to palmar aspect of radial 3.5 digits.
 * **Palmar Cutaneous Branch (PCB):** Sensation to base of thenar eminence.
   * **Crucial Anatomy:** Branches ~5cm PROXIMAL to carpal tunnel, runs *outside* (superficial to) the flexor retinaculum.
   * **Clinical Implication:** Sensation over **Thenar Eminence (大魚際)** is SPARED in CTS.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/9f4eac99762b6e57a33baf4d27a18925.png)
 
 ## 3. Clinical Assessment
 ### CTS History & Symptoms
-* **Sensory:** Numbness, tingling in radial 3.5 digits. Wakes patient at night (nocturnal pain). "Flicking sign" +ve (shakes hand to relieve symptoms).
+* **Sensory:**
+	* Numbness, tingling in radial 3.5 digits.
+	* Wakes patient at night (nocturnal pain).
+	* "Flicking sign" +ve (shakes hand to relieve symptoms).
 * **Motor:** Clumsiness, dropping objects, difficulty buttoning shirts.
 * **Radiation:** Pain may radiate proximally to forearm/shoulder.
 
