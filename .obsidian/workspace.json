@@ -4,107 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2619d12e5c015c50",
+        "id": "3a3c3e281d898dfe",
         "type": "tabs",
         "children": [
           {
-            "id": "0b772f0c9bbf66f0",
+            "id": "8ad467caef3332dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "orthopaedics/hip_fractures.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "hip_fractures"
-            }
-          },
-          {
-            "id": "2c875cfd52d668ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "orthopaedics/common_hand_injuries.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "common_hand_injuries"
-            }
-          },
-          {
-            "id": "e460276fb2dba293",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "paediatrics/scfe.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "scfe"
-            }
-          },
-          {
-            "id": "09f599030697cf03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "orthopaedics/medial_lateral_epicondylitis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "medial_lateral_epicondylitis"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,8 +81,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "notebook-navigator",
-              "title": "Notebook Navigator"
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
             }
           }
         ]
@@ -282,22 +195,22 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "09f599030697cf03",
+  "active": "8ad467caef3332dc",
   "lastOpenFiles": [
+    "orthopaedics/hip_fractures.md",
+    "orthopaedics/common_hand_injuries.md",
+    "paediatrics/scfe.md",
+    "orthopaedics/medial_lateral_epicondylitis.md",
     "orthopaedics/hand_osteoarthritis.md",
     "orthopaedics/ganglion_cyst.md",
     "orthopaedics/carpal_tunnel_syndrome.md",
-    "orthopaedics/medial_lateral_epicondylitis.md",
     "orthopaedics/knee_arthritis.md",
-    "paediatrics/scfe.md",
     "orthopaedics/paediatric_musculoskeletal_injury.md",
     "orthopaedics/paediatric_deformities.md",
     "orthopaedics/pelvic_acetabular_fractures.md",
-    "orthopaedics/common_hand_injuries.md",
     "orthopaedics/cervical_spine_pathology.md",
     "orthopaedics/common_hand_elective_conditions.md",
     "orthopaedics/primary_malignant_bone_tumours.md",
-    "orthopaedics/hip_fractures.md",
     "orthopaedics/high_energy_trauma_open_fractures.md",
     "orthopaedics/ankle_lower_limb_fractures.md",
     "orthopaedics/soft_tissue_infections_surgical_emergencies.md",

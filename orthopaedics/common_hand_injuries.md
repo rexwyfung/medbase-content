@@ -1,4 +1,4 @@
-	# Common Hand Injuries (常見手部創傷)
+# Common Hand Injuries (常見手部創傷)
 
 ## 1. Clinical Definition, Mechanism of Injury (MOI) & Epidemiology
 
