@@ -63,22 +63,26 @@
 	* Identifies **rotational deformity** (structural vs. postural).
 * **Scoliometer measurement:** Angle of Trunk Rotation (ATR). **ATR >7°** warrants radiological workup.
 	* Assess overall spinal ROM & hamstring tightness.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/5498d5044abbef745249b0a2ae5de6bd.png)
 
 ### Scoliosis Neurovascular (NV) Status
 * **Motor & Sensory:** Screen upper/lower limbs.
 * **Reflexes:** Deep tendon reflexes, Babinski sign, Clonus (rule out UMN lesions).
 * **Abdominal Reflexes:** Asymmetric/absent reflexes are a red flag for **Syringomyelia (脊髓空洞症)** or **Arnold-Chiari malformation**.
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3d4e978ed07a834633dd2582d920197c.png)
 
 ## 4. Orthopaedic Classification Systems (Eponyms & Grading)
 
 ### Lenke Classification System for AIS
 * Used to define curve types and guide surgical fusion levels.
 
-| Component | Description | Grading / Types |
-| :--- | :--- | :--- |
-| **1. Curve Type** | Based on major/minor structural curves. | **1:** Main Thoracic (MT)<br>**2:** Double Thoracic (DT)<br>**3:** Double Major (DM)<br>**4:** Triple Major (TM)<br>**5:** Thoracolumbar/Lumbar (TL/L)<br>**6:** TL/L-MT (TL/L > MT) |
-| **2. Lumbar Spine Modifier** | Position of Center Sacral Vertical Line (CSVL) to apical lumbar vertebra. | **A:** CSVL between pedicles.<br>**B:** CSVL touches apical pedicle.<br>**C:** CSVL medial to apical pedicle. |
-| **3. Sagittal Thoracic Modifier** | Measured from T5-T12 on lateral radiograph. | **- (Hypo):** <10°<br>**N (Normal):** 10-40°<br>**+ (Hyper):** >40° |
+| Component                         | Description                                                               | Grading / Types                                                                                                                                                                      |
+| :-------------------------------- | :------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Curve Type**                 | Based on major/minor structural curves.                                   | **1:** Main Thoracic (MT)<br>**2:** Double Thoracic (DT)<br>**3:** Double Major (DM)<br>**4:** Triple Major (TM)<br>**5:** Thoracolumbar/Lumbar (TL/L)<br>**6:** TL/L-MT (TL/L > MT) |
+| **2. Lumbar Spine Modifier**      | Position of Center Sacral Vertical Line (CSVL) to apical lumbar vertebra. | **A:** CSVL between pedicles.<br>**B:** CSVL touches apical pedicle.<br>**C:** CSVL medial to apical pedicle.                                                                        |
+| **3. Sagittal Thoracic Modifier** | Measured from T5-T12 on lateral radiograph.                               | **- (Hypo):** <10°<br>**N (Normal):** 10-40°<br>**+ (Hyper):** >40°                                                                                                                  |
+
+![image|600](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3ff6132309a08e8938fb43684d72ebc1.png)
 
 ### Risser Grading System for Skeletal Maturity
 * Assesses ossification of the **iliac apophysis** (starts ASIS → PSIS).
