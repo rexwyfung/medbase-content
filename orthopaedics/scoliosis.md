@@ -62,7 +62,7 @@
 	* Knees straight, feet together, bend forward 90° at waist.
 	* Identifies **rotational deformity** (structural vs. postural).
 * **Scoliometer measurement:** Angle of Trunk Rotation (ATR). **ATR >7°** warrants radiological workup.
-	* Assess overall spinal ROM & hamstring tightness.
+* Assess overall spinal ROM & hamstring tightness.
 ![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/5498d5044abbef745249b0a2ae5de6bd.png)
 
 ### Scoliosis Neurovascular (NV) Status
