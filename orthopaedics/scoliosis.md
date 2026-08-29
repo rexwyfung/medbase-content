@@ -101,6 +101,7 @@
 ### Triradiate Cartilage Status
 * **Open:** Peak Height Velocity (PHV) not yet reached.
 * **Closed:** Corresponds to Risser 1.
+![image|350](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/cc5450a72db2feb16259eac935790f14.png)
 
 ## 5. Radiological Investigations
 
@@ -109,6 +110,7 @@
 	* **PA view:** Preferred over AP in HKHA to **↓ breast/thyroid radiation** in young females.
 * **EOS Imaging System:** Ultra-low dose biplanar X-ray (standard in modern HKHA centres).
 * **Side-bending films:** Assess curve flexibility (determines structural vs. non-structural curves in Lenke classification).
+![image|250](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/336d4e212d16c2d332b6db7730dfdb14.png)
 
 ### Cobb Angle (柯布氏角) Measurement
 * **Step 1:** Identify superior end vertebra (most tilted superiorly).
@@ -153,6 +155,7 @@
 	* **Boston Brace (TLSO):** Underarm brace for thoracolumbar/lumbar curves (worn 18-23 hrs/day).
 	* **Providence Brace:** Night-time only hyper-corrective brace.
 	* **Milwaukee Brace (CTLSO):** For high thoracic curves (apex >T8) - rarely used now due to poor compliance.
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/61d26c5b2408b7fa6629e29640c6895a.png)
 
 ### Operative: Posterior Spinal Fusion (PSF) (後路脊柱融合術)
 * **Indications:** Cobb >45°-50°, severe truncal shift, unresponsive to bracing.
@@ -163,6 +166,7 @@
 * **Pedicle screw** insertion (Freehand vs. Navigation/Robotic-assisted).
 * **Rod derotation:** Translates coronal deformity into normal sagittal kyphosis/lordosis.
 	* Decortication and bone grafting (autograft/allograft) for solid arthrodesis.
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3ba9cc851e664dd868be4451b941f722.png)
 
 ## 8. Rehabilitation Protocol
 
