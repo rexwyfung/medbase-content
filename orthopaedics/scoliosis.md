@@ -27,6 +27,7 @@
 * **Apical Vertebra (頂椎):** Most rotated & laterally deviated vertebra; least tilted.
 * **End Vertebrae (端椎):** Most tilted vertebrae at superior & inferior ends of the curve.
 * **Pedicles (椎弓根):** Asymmetric in AIS; narrower on the **concave** side (crucial for pedicle screw placement).
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/11e2dd00374f98b4c5175ce23228f103.png)
 
 ### Scoliosis Pathobiomechanics (Hueter-Volkmann Principle)
 * Altered mechanical loading dictates bone growth:
@@ -34,17 +35,23 @@
 	* **Convex side:** ↑ Tension → **↑ epiphyseal growth**.
 	* **Result:** Structural wedging of vertebral bodies and discs.
 * **Axial Rotation Biomechanics:** Ribs pushed posteriorly on convex side → **rib hump (肋骨突出)**; ribs pushed anteriorly on concave side → ↓ thoracic volume.
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/5a2ea8db5171e934900ef07869492576.png)
 
 ## 3. Clinical Assessment
 
 ### Scoliosis Look (Inspection)
-* **General:** Café-au-lait spots/axillary freckling (NF1), sacral dimple/hairy patch (Spina bifida/spinal dysraphism), pes cavus, stigmata of Marfan.
+* **General:**
+	* Café-au-lait spots/axillary freckling (NF1).
+	* Sacral dimple/hairy patch (Spina bifida/spinal dysraphism).
+	* Pes cavus.
+	* Stigmata of Marfan.
 * **Standing from Behind:**
 	* Asymmetric shoulder height.
 	* Asymmetric scapular prominence (convex side).
 	* Waist crease asymmetry / flank asymmetry.
 	* Pelvic tilt / apparent leg length discrepancy.
 	* Coronal decompensation (plumb line from C7 spinous process does not bisect gluteal cleft).
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/4826cc8289f293ddd7c9ba64e774cd11.png)![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/f1cb354b6126d34c85dbfac7f3e0fe7f.png)
 
 ### Scoliosis Feel (Palpation)
 * **Spinous processes:** Trace for coronal deviation.
