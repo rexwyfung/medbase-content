@@ -165,7 +165,7 @@
 	* Facetectomies (release & prepare for fusion).
 * **Pedicle screw** insertion (Freehand vs. Navigation/Robotic-assisted).
 * **Rod derotation:** Translates coronal deformity into normal sagittal kyphosis/lordosis.
-	* Decortication and bone grafting (autograft/allograft) for solid arthrodesis.
+* Decortication and bone grafting (autograft/allograft) for solid arthrodesis.
 ![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3ba9cc851e664dd868be4451b941f722.png)
 
 ## 8. Rehabilitation Protocol
