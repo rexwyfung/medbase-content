@@ -60,6 +60,7 @@
 	* Midline spinous process tenderness.
 	* Paraspinous muscle spasm.
 	* Trapezius trigger points.
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/565e391872116743e7cd180ed711b7c1.png)
 
 ### Physical Assessment: Move & Provocative Signs
 * **Range of Motion (ROM)**: Flexion, extension, lateral flexion, rotation (record restrictions & pain reproduction).
