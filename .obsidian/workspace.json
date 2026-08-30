@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orthopaedics/scoliosis.md",
+                "file": "orthopaedics/cervical_spine_pathology.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "scoliosis"
+              "title": "cervical_spine_pathology"
             }
           }
         ]
@@ -211,6 +211,7 @@
   },
   "active": "8ad467caef3332dc",
   "lastOpenFiles": [
+    "orthopaedics/scoliosis.md",
     "orthopaedics/hip_fractures.md",
     "orthopaedics/common_hand_injuries.md",
     "paediatrics/scfe.md",
@@ -230,7 +231,6 @@
     "orthopaedics/soft_tissue_infections_surgical_emergencies.md",
     "orthopaedics/foot_ulcers.md",
     "family-medicine/bph.md",
-    "orthopaedics/scoliosis.md",
     "orthopaedics/lumbar_spine_pathology.md",
     "family-medicine/anemia.md",
     "family-medicine/anxiety.md",
