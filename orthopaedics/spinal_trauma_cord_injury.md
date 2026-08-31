@@ -26,22 +26,32 @@
 * **Anterior Column:** Anterior Longitudinal Ligament (ALL) + anterior 2/3 of vertebral body & annulus fibrosus.
 * **Middle Column:** Posterior 1/3 of vertebral body & annulus fibrosus + Posterior Longitudinal Ligament (PLL). *Crucial for stability.*
 * **Posterior Column:** Posterior bony arch (pedicles, laminae, facets, spinous processes) + posterior ligamentous complex (PLC: supraspinous, interspinous ligaments, ligamentum flavum, facet capsules).
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/2195c2a82a5662fbd79e736658667cb5.png)
 
 ### Vascular Anatomy of the Spinal Cord
 * **Anterior Spinal Artery (ASA):** Supplies anterior 2/3 of cord (motor tracts, spinothalamic tracts).
 * **Posterior Spinal Arteries (PSA):** Supplies posterior 1/3 of cord (dorsal columns: proprioception/vibration).
 * **Artery of Adamkiewicz:** Major radicular artery arising T9-T12 (usually left side). Damage during thoracolumbar surgery → anterior cord syndrome (paraplegia).
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a70f17072cdbffae9e6aba728aa25e25.png)
 
 ## 3. Clinical Assessment
 
 ### Physical Inspection (Look)
 * **Skin:** Bruising (e.g., seatbelt sign), abrasions, lacerations over spine.
-* **Alignment:** Visible deformity, kyphosis, hematoma swelling.
+* **Alignment:**
+	* Visible deformity.
+	* Kyphosis.
+	* Hematoma swelling.
 * **Respiration:** Diaphragmatic breathing (indicates C-spine injury clearing phrenic nerve C3-5 but intercostal paralysis).
 
 ### Palpation (Feel)
-* **Midline:** Bony tenderness over spinous processes, palpable step-off, widening of interspinous gaps (indicates PLC disruption).
-* **Paraspinal:** Muscle spasm, tenderness.
+* **Midline:**
+	* Bony tenderness over spinous processes.
+	* Palpable step-off.
+	* Widening of interspinous gaps (indicates PLC disruption).
+* **Paraspinal:**
+	* Muscle spasm.
+	* Tenderness.
 
 ### Range of Motion (Move)
 * **STRICTLY CONTRAINDICATED:** Do not assess active/passive ROM in acute trauma until spine is formally cleared clinically (NEXUS/Canadian C-spine rules) and radiologically.
@@ -50,23 +60,25 @@
 * **Motor:** Myotome testing (C5-T1, L2-S1) graded 0-5.
 * **Sensory:** Dermatome mapping (pinprick & light touch).
 * **Reflexes:** Deep tendon reflexes (biceps, triceps, brachioradialis, knee, ankle), plantar response (Babinski).
+![image|650](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/c7aa28ffd58e5db283723568dd55e0c6.png)
 
 ### Per Rectal (PR) Assessment
 * **Mandatory in all suspected SCI.**
 * **Anal Sphincter Tone:** Voluntary contraction assesses sacral motor sparing (S4-S5).
 * **Perianal Sensation:** Assesses sacral sensory sparing.
 * **Bulbocavernosus Reflex (BCR):** Squeeze glans penis/pull Foley catheter while feeling anal sphincter contraction. Absent BCR = Spinal Shock.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/1c524e7f5eb1511056e0534c6b223ec4.png)
 
 ## 4. Orthopaedic Classification Systems
 
 ### ASIA Impairment Scale (AIS) Grading
-| Grade | Definition (Sacral segments S4-S5 dictate Complete vs Incomplete) |
-| :--- | :--- |
-| **A** | **Complete:** No motor or sensory function preserved in S4-S5. |
-| **B** | **Incomplete (Sensory):** Sensory but NO motor function preserved below neurological level + includes S4-S5. |
+| Grade | Definition (Sacral segments S4-S5 dictate Complete vs Incomplete)                                                                  |
+| :---- | :--------------------------------------------------------------------------------------------------------------------------------- |
+| **A** | **Complete:** No motor or sensory function preserved in S4-S5.                                                                     |
+| **B** | **Incomplete (Sensory):** Sensory but NO motor function preserved below neurological level + includes S4-S5.                       |
 | **C** | **Incomplete (Motor Non-functional):** Motor function preserved below level, >50% of key muscles below level have muscle grade <3. |
-| **D** | **Incomplete (Motor Functional):** Motor function preserved below level, ≥50% of key muscles below level have muscle grade ≥3. |
-| **E** | **Normal:** Motor and sensory functions are normal. |
+| **D** | **Incomplete (Motor Functional):** Motor function preserved below level, ≥50% of key muscles below level have muscle grade ≥3.     |
+| **E** | **Normal:** Motor and sensory functions are normal.                                                                                |
 
 ### Incomplete Spinal Cord Syndromes
 | Syndrome | Pathoanatomy | Clinical Features |
@@ -75,24 +87,30 @@
 | **Anterior Cord (前脊髓症候群)** | Hyperflexion, burst #, ASA occlusion. | Bilateral loss of motor, pain & temperature. Preserved proprioception/vibration (dorsal columns intact). Worst prognosis. |
 | **Brown-Séquard (半切症候群)** | Hemisection of cord (penetrating trauma). | Ipsilateral loss of motor & proprioception. Contralateral loss of pain & temperature. |
 
+![image|650](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/f5c51a650be37de3a650d6317c54d973.png)
+
 ### Thoracolumbar Injury Classification and Severity Score (TLICS)
-| Component | Criteria & Points |
-| :--- | :--- |
-| **Morphology** | Compression (1), Burst (2), Translation/Rotation (3), Distraction (4) |
-| **Neurology** | Intact (0), Root (2), Complete cord (2), Incomplete cord (3), Cauda equina (3) |
-| **PLC Status** | Intact (0), Suspected/Indeterminate (2), Injured (3) |
+| Component      | Criteria & Points                                                              |
+| :------------- | :----------------------------------------------------------------------------- |
+| **Morphology** | Compression (1), Burst (2), Translation/Rotation (3), Distraction (4)          |
+| **Neurology**  | Intact (0), Root (2), Complete cord (2), Incomplete cord (3), Cauda equina (3) |
+| **PLC Status** | Intact (0), Suspected/Indeterminate (2), Injured (3)                           |
 
 ### Denis Classification of Fractures
 * **Compression #:** Anterior column fails in compression. Middle column intact.
 * **Burst #:** Anterior & Middle columns fail in compression.
 * **Seat-belt (Flexion-Distraction) #:** Anterior fails in compression, Middle & Posterior fail in tension.
 * **Fracture-Dislocation:** Failure of all 3 columns in shear/rotation.
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/d37ea0bcf1e368b0a7a3641d876e90f8.png)
 
 ## 5. Radiological Investigations
 
 ### Plain Radiographs (X-rays)
 * **Views:** AP, Lateral, Odontoid (open mouth).
-* **Utility:** Rapid initial screen if CT unavailable. Cervical lateral view must visualize down to C7-T1 junction (swimmer's view if obscured by shoulders).
+* **Utility:**
+	* Rapid initial screen if CT unavailable.
+	* Cervical lateral view must visualize down to C7-T1 junction (swimmer's view if obscured by shoulders).
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/41de3b377138a9eacd20c6f830e4e3b5.png)
 
 ### Computed Tomography (CT) Trauma Spine
 * **Gold Standard for Bony Injury:** Fast, high sensitivity for fractures.
@@ -103,12 +121,16 @@
 * **Gold Standard for Soft Tissue & Cord:** Indicated for any neurological deficit, unexplained pain, or suspected ligamentous injury.
 * **STIR Sequence:** Highly sensitive for bone marrow edema and PLC disruption.
 * **T2 Sequence:** Best for cord edema, contusion, transection, or epidural hematoma.
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/c451a66948ad87d2563fa57f6d7677c9.png)
 
 ## 6. Initial ED Management
 
 ### ATLS & Acute Immobilization Protocol
 * **Airway/Breathing:** Intubate early for high C-spine injuries (C3-5 phrenic nerve involvement) with strict manual in-line stabilization (MILS).
-* **Immobilization:** Rigid cervical collar, sandbags, tape. Strict log-rolling (minimum 4-5 staff) to maintain spine in neutral alignment. Remove scoop stretcher early to prevent pressure sores.
+* **Immobilization:**
+	* Rigid cervical collar, sandbags, tape.
+	* Strict log-rolling (minimum 4-5 staff) to maintain spine in neutral alignment.
+	* Remove scoop stretcher early to prevent pressure sores.
 * **Catheterization:** Insert Foley catheter to prevent bladder distension (neurogenic bladder).
 
 ### Hemodynamic Optimization (Neuroprotection)
@@ -118,7 +140,9 @@
 
 ### High-Dose Corticosteroid Protocol
 * **Status:** Highly controversial (NASCIS III trials).
-* **HK HA Reality:** Routinely avoided due to ↑ risks of sepsis, pneumonia, and GI bleeding. Only administered if explicitly directed by senior spine consultant in highly specific windows (<8 hrs).
+* **HK HA Reality:**
+	* Routinely avoided due to ↑ risks of sepsis, pneumonia, and GI bleeding.
+	* Only administered if explicitly directed by senior spine consultant in highly specific windows (<8 hrs).
 
 ## 7. Definitive Management Algorithm
 
@@ -128,19 +152,34 @@
 * **TLICS ≥ 5:** Operative management.
 
 ### Non-Operative Management Techniques
-* **Indications:** Stable # (e.g., wedge compression <50% height loss, no PLC injury), neurologically intact, poor surgical candidate.
-* **Cervical:** Hard collar (e.g., Philadelphia, Aspen) x 6-12 weeks. Halo vest for select C1/C2 #.
-* **Thoracolumbar:** TLSO (Thoracolumbosacral orthosis) or Jewett hyperextension brace. Early mobilization within brace parameters.
+* **Indications:**
+	* Stable # (e.g., wedge compression <50% height loss, no PLC injury).
+	* Neurologically intact.
+	* Poor surgical candidate.
+* **Cervical:**
+	* Hard collar (e.g., Philadelphia, Aspen) x 6-12 weeks.
+	* Halo vest for select C1/C2 #.
+* **Thoracolumbar:**
+	* TLSO (Thoracolumbosacral orthosis) or Jewett hyperextension brace.
+	* Early mobilization within brace parameters.
 
 ### Operative Management Indications
-* **Neurological:** Progressive neurological deficit, epidural hematoma.
-* **Biomechanical:** Unstable fracture (Denis 3-column disruption, PLC torn), highly displaced burst # with severe canal compromise.
-* **Polytrauma:** Need for early mobilization to manage severe chest/abdominal injuries.
+* **Neurological:**
+	* Progressive neurological deficit.
+	* Epidural hematoma.
+* **Biomechanical:**
+	* Unstable fracture (Denis 3-column disruption, PLC torn).
+	* Highly displaced burst # with severe canal compromise.
+* **Polytrauma:**
+	* Need for early mobilization to manage severe chest/abdominal injuries.
 
 ### Surgical Principles & Techniques
 * **Goal:** Decompression of neural elements + reduction of deformity + rigid stabilization/fusion.
 * **Anterior Approach:** Direct decompression of anterior canal elements (e.g., corpectomy + strut graft + anterior plating for burst #).
-* **Posterior Approach:** Pedicle screw fixation + rod construct + posterolateral fusion. Excellent for realignment and tension band restoration. Laminectomy done for direct posterior decompression.
+* **Posterior Approach:**
+	* Pedicle screw fixation + rod construct + posterolateral fusion.
+	* Excellent for realignment and tension band restoration.
+	* Laminectomy done for direct posterior decompression.
 
 ## 8. Rehabilitation Protocol
 
@@ -157,14 +196,28 @@
 ## 9. Orthopaedic Complications
 
 ### Spinal Shock vs. Neurogenic Shock
-* **Spinal Shock:** Transient physiological cord concussive state. Flaccid paralysis, areflexia, loss of autonomic control below injury level. *Ends when Bulbocavernosus Reflex (BCR) returns (24-48 hrs).*
-* **Neurogenic Shock:** Hemodynamic state from loss of sympathetic tone (T6 or higher injuries). Triad of **Hypotension, Bradycardia, Peripheral Vasodilation**.
+* **Spinal Shock:**
+	* Transient physiological cord concussive state.
+	* Flaccid paralysis, areflexia, loss of autonomic control below injury level.
+	* *Ends when Bulbocavernosus Reflex (BCR) returns (24-48 hrs).*
+* **Neurogenic Shock:**
+	* Hemodynamic state from loss of sympathetic tone (T6 or higher injuries).
+	* Triad of **Hypotension, Bradycardia, Peripheral Vasodilation**.
 
 ### Autonomic Dysreflexia (自主神經反射異常)
 * **Onset:** Occurs AFTER spinal shock resolves in patients with injuries at or above **T6**.
 * **Pathophysiology:** Noxious stimuli below injury (e.g., distended bladder, fecal impaction) triggers massive uncompensated sympathetic surge.
-* **Symptoms:** Severe pounding headache, severe hypertension, bradycardia, profuse sweating/flushing *above* lesion level.
-* **Management:** Medical emergency! Sit patient upright (orthostatic drop), find and remove trigger (uncamp catheter, check bowel), use rapid-onset antihypertensives (Nifedipine) if persists.
+* **Symptoms:**
+	* Severe pounding headache.
+	* Severe hypertension.
+	* Bradycardia.
+	* Profuse sweating/flushing *above* lesion level.
+* **Management:**
+	* Medical emergency!
+	* Sit patient upright (orthostatic drop).
+	* Find and remove trigger (uncamp catheter, check bowel).
+	* Use rapid-onset antihypertensives (Nifedipine) if persists.
+![image|600](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/1f0ed43a5080a8a690b5e657baee23da.png)
 
 ### Systemic Complications of Paralysis
 * **Skin:** Pressure ulcers (ischial tuberosity, sacrum, heels) → osteomyelitis.
