@@ -68,7 +68,7 @@
 ### Scoliosis Neurovascular (NV) Status
 * **Motor & Sensory:** Screen upper/lower limbs.
 * **Reflexes:** Deep tendon reflexes, Babinski sign, Clonus (rule out UMN lesions).
-* **Abdominal Reflexes:** Asymmetric/absent reflexes are a red flag for **Syringomyelia (脊髓空洞症)** or **Arnold-Chiari malformation**.
+	* **Abdominal Reflexes:** Asymmetric/absent reflexes are a red flag for **Syringomyelia (脊髓空洞症)** or **Arnold-Chiari malformation**.
 ![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3d4e978ed07a834633dd2582d920197c.png)
 
 ## 4. Orthopaedic Classification Systems (Eponyms & Grading)

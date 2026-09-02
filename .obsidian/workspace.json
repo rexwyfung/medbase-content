@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orthopaedics/spinal_trauma_cord_injury.md",
+                "file": "orthopaedics/medial_lateral_epicondylitis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "spinal_trauma_cord_injury"
-            }
-          },
-          {
-            "id": "c762861fe773cc2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "orthopaedics/cervical_spine_pathology.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cervical_spine_pathology"
+              "title": "medial_lateral_epicondylitis"
             }
           }
         ]
@@ -235,15 +211,17 @@
   },
   "active": "6c4a003ef3b5a7cc",
   "lastOpenFiles": [
+    "orthopaedics/scoliosis.md",
     "orthopaedics/cervical_spine_pathology.md",
+    "paediatrics/scoliosis.md",
+    "orthopaedics/medial_lateral_epicondylitis.md",
+    "orthopaedics/hand_osteoarthritis.md",
+    "orthopaedics/hallux_valgus.md",
     "orthopaedics/spinal_trauma_cord_injury.md",
     "orthopaedics/high_energy_trauma_open_fractures.md",
-    "orthopaedics/scoliosis.md",
     "orthopaedics/hip_fractures.md",
     "orthopaedics/common_hand_injuries.md",
     "paediatrics/scfe.md",
-    "orthopaedics/medial_lateral_epicondylitis.md",
-    "orthopaedics/hand_osteoarthritis.md",
     "orthopaedics/ganglion_cyst.md",
     "orthopaedics/carpal_tunnel_syndrome.md",
     "orthopaedics/knee_arthritis.md",
@@ -259,8 +237,6 @@
     "orthopaedics/lumbar_spine_pathology.md",
     "family-medicine/anemia.md",
     "family-medicine/anxiety.md",
-    "family-medicine/allergic-rhinitis.md",
-    "family-medicine/acne.md",
     "family-medicine",
     "orthopaedics",
     "emergency-medicine",
