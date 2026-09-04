@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orthopaedics/medial_lateral_epicondylitis.md",
+                "file": "orthopaedics/peripheral_nerve_injuries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "medial_lateral_epicondylitis"
+              "title": "peripheral_nerve_injuries"
             }
           }
         ]
@@ -95,8 +95,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "notebook-navigator"
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
             }
           }
         ]
@@ -211,10 +211,10 @@
   },
   "active": "6c4a003ef3b5a7cc",
   "lastOpenFiles": [
+    "orthopaedics/medial_lateral_epicondylitis.md",
     "orthopaedics/scoliosis.md",
     "orthopaedics/cervical_spine_pathology.md",
     "paediatrics/scoliosis.md",
-    "orthopaedics/medial_lateral_epicondylitis.md",
     "orthopaedics/hand_osteoarthritis.md",
     "orthopaedics/hallux_valgus.md",
     "orthopaedics/spinal_trauma_cord_injury.md",
