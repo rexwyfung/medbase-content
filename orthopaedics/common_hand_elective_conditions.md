@@ -4,31 +4,55 @@
 
 ### Trigger Finger (扳機指) Definition & Epidemiology
 * **Definition**: Stenosing tenosynovitis of flexor tendons (FDS/FDP) at **A1 pulley**.
-* **Epidemiology**: F > M (2-6x). Peak age: 5th-6th decade.
-* **Risk Factors**: Diabetes Mellitus (DM), Rheumatoid Arthritis (RA), amyloidosis, repetitive gripping.
+* **Epidemiology**:
+	* F > M (2-6x).
+	* Peak age: 5th-6th decade.
+* **Risk Factors**:
+	* Diabetes Mellitus (DM).
+	* Rheumatoid Arthritis (RA)
+	* Amyloidosis.
+	* Repetitive gripping.
 * **Prognosis**: DM patients have higher recurrence rates & lower response to conservative Tx.
 
 ### De Quervain's Tenosynovitis (狄奎凡氏症/媽媽手) Definition & MOI
 * **Definition**: Stenosing tenosynovitis of **1st dorsal extensor compartment** of wrist.
 * **MOI**: Repetitive thumb abduction/extension combined with wrist ulnar deviation.
-* **Epidemiology**: F > M (10x). Common in postpartum women (lifting baby).
+* **Epidemiology**:
+	* F > M (10x).
+	* Common in postpartum women (lifting baby).
 
 ### Dupuytren's Contracture (掌腱膜攣縮症) Definition & Epidemiology
 * **Definition**: Benign, progressive fibroproliferative disorder of **palmar aponeurosis** → fixed flexion deformity.
-* **Epidemiology**: M > F. Common in Caucasian/Northern European descent.
-* **Risk Factors**: Genetics (Autosomal Dominant), ↑ Age, Smoking, Alcoholism, DM, Epilepsy (Phenytoin use).
+* **Epidemiology**:
+	* M > F.
+	* Common in Caucasian/Northern European descent.
+* **Risk Factors**:
+	* Genetics (Autosomal Dominant).
+	* ↑ Age.
+	* Smoking.
+	* Alcoholism.
+	* DM.
+	* Epilepsy (Phenytoin use).
 
 ## 2. Applied Orthopaedic Anatomy & Biomechanics
 
 ### Trigger Finger Applied Anatomy (A1 Pulley)
 * **Pulley System**: Annular (A1-A5) & Cruciate (C1-C3) pulleys hold tendons to phalanges.
-* **A1 Pulley**: Located volar to MCP joint. Arises from volar plate & base of proximal phalanx.
-* **Biomechanics**: Prevents bowstringing. Thickening of A1 pulley → mismatch between pulley size & tendon volume.
+* **A1 Pulley**:
+	* Located volar to MCP joint.
+	* Arises from volar plate & base of proximal phalanx.
+* **Biomechanics**:
+	* Prevents bowstringing.
+	* Thickening of A1 pulley → mismatch between pulley size & tendon volume.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/bc3d806a6814f117e252220e6027d8d4.png)
 
 ### De Quervain's Applied Anatomy (1st Dorsal Compartment)
 * **Contents**: **Abductor Pollicis Longus (APL)** & **Extensor Pollicis Brevis (EPB)**.
 * **Location**: Over radial styloid process.
-* **Anatomical Variants**: Multiple APL slips common (up to 80%). Separate EPB sub-compartment present in ~40% (causes Tx failure if missed).
+* **Anatomical Variants**:
+	* Multiple APL slips common (up to 80%).
+	* Separate EPB sub-compartment present in ~40% (causes Tx failure if missed).
+![image|350](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/27d1a169f1253024b7984220650c0d37.png)
 
 ### Dupuytren's Contracture Pathoanatomy (Cords & Bands)
 * **Normal Anatomy**: Normal fascial structures = **Bands**.
@@ -36,6 +60,7 @@
 * **Pretendinous Cord**: From pretendinous band → causes **MCP joint contracture**.
 * **Spiral Cord**: From spiral band, lateral digital sheet, natatory ligament → causes **PIP joint contracture**.
 * **NV Bundle Displacement**: Spiral cord displaces digital NV bundle **central & superficial** (highly vulnerable during surgery).
+![image|450](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/fec6c0c3521c98b31f79aeaa9ccf6bc3.png)
 
 ## 3. Clinical Assessment
 
@@ -51,11 +76,22 @@
 * **Special Tests**:
   * **Finkelstein's Test**: Passively stretch thumb into ulnar deviation → severe pain (+ve).
   * **Eichhoff's Test**: Patient clenches thumb in fist, examiner passively ulnar deviates wrist → pain (+ve).
+![image|200](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/4741fef1a53978926e7261329fd73a6b.png)
+
 
 ### Dupuytren's Contracture Clinical Assessment
-* **Look**: Palmar skin pits, palpable nodules, prominent longitudinal cords. Assess for ectopic disease: **Garrod's pads** (dorsal PIPJ), **Lederhose disease** (plantar fascia), **Peyronie's disease** (penis).
-* **Feel**: Firm, non-tender cords. Assess skin adherence.
-* **Move**: Fixed flexion deformity (FFD) of MCPJ and/or PIPJ. Unable to actively/passively extend.
+* **Look**:
+	* Palmar skin pits, palpable nodules, prominent longitudinal cords.
+	* Assess for ectopic disease:
+		* **Garrod's pads** (dorsal PIPJ).
+		* **Lederhose disease** (plantar fascia).
+		* **Peyronie's disease** (penis).
+* **Feel**:
+	* Firm, non-tender cords.
+	* Assess skin adherence.
+* **Move**:
+	* Fixed flexion deformity (FFD) of MCPJ and/or PIPJ.
+	* Unable to actively/passively extend.
 * **Special Test**: **Hueston's Tabletop Test**: Patient unable to place palm completely flat on table (+ve).
 
 ## 4. Orthopaedic Classification Systems
@@ -70,12 +106,14 @@
 | **IV** | Fixed deformity (locked in flexion or extension) |
 
 ### Tubiana Staging System for Dupuytren's Contracture
-| Stage | Total Flexion Deformity (Sum of MCPJ + PIPJ + DIPJ contractures) |
-| :--- | :--- |
-| **I** | $0^\circ - 45^\circ$ |
-| **II** | $45^\circ - 90^\circ$ |
-| **III** | $90^\circ - 135^\circ$ |
-| **IV** | $>135^\circ$ |
+| Stage   | Total Flexion Deformity (Sum of MCPJ + PIPJ + DIPJ contractures) |
+| :------ | :--------------------------------------------------------------- |
+| **I**   | 0° - 45°                                                         |
+| **II**  | 45° - 90°                                                        |
+| **III** | 90° - 135°                                                       |
+| **IV**  | >135°                                                            |
+
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/7005f10ccb4439bcbf02197e51e9f943.png)
 
 ## 5. Radiological Investigations
 
@@ -107,25 +145,27 @@
 ## 7. Definitive Management Algorithm
 
 ### Trigger Finger Definitive Management Options
-| Modality | Indications | Technique / Notes |
-| :--- | :--- | :--- |
-| **Corticosteroid Injection** | 1st-line Tx for Grade I-III | Into tendon sheath (NOT tendon substance). 50-80% success. Less effective in DM patients. Max 2-3 injections. |
-| **Open A1 Pulley Release** | Grade IV, failed injection, severe DM | Transverse/oblique incision at distal palmar crease. Divide A1 pulley. Immediate active ROM check intra-op. |
-| **Percutaneous Release** | Single digit, distinct nodule | Using 18G needle to divide pulley blind. Higher risk of digital nerve injury (esp. thumb/index). |
+| Modality                     | Indications                                     | Technique / Notes                                                                                                              |
+| :--------------------------- | :---------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------- |
+| **Corticosteroid Injection** | 1st-line Tx for Grade I-III                     | - Into tendon sheath (NOT tendon substance).<br>- 50-80% success.<br>- Less effective in DM patients.<br>- Max 2-3 injections. |
+| **Open A1 Pulley Release**   | - Grade IV<br>- Failed injection<br>- Severe DM | - Transverse/oblique incision at distal palmar crease.<br>- Divide A1 pulley.<br>- Immediate active ROM check intra-op.        |
+| **Percutaneous Release**     | - Single digit<br>- Distinct nodule             | - Using 18G needle to divide pulley blind.<br>- Higher risk of digital nerve injury (esp. thumb/index).                        |
+
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/0a6a068dbfeaef2d770b6f884a77d950.png)
 
 ### De Quervain's Definitive Management Options
-| Modality | Indications | Technique / Notes |
-| :--- | :--- | :--- |
-| **Corticosteroid Injection** | 1st-line Tx | Injected into 1st dorsal compartment. ~80% success rate. |
-| **Open Surgical Release** | Failed conservative/injections | Longitudinal/transverse incision over radial styloid. **MUST identify and release separate EPB sub-compartment**. Ensure SRN protection. |
+| Modality                     | Indications                    | Technique / Notes                                                                                                                                    |
+| :--------------------------- | :----------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Corticosteroid Injection** | 1st-line Tx                    | - Injected into 1st dorsal compartment.<br>- ~80% success rate.                                                                                      |
+| **Open Surgical Release**    | Failed conservative/injections | - Longitudinal/transverse incision over radial styloid.<br>- **MUST identify and release separate EPB sub-compartment**.<br>- Ensure SRN protection. |
 
 ### Dupuytren's Contracture Definitive Management Options
-| Modality | Indications | Technique / Notes |
-| :--- | :--- | :--- |
-| **Surgical Indications** | MCPJ contracture $>30^\circ$, ANY PIPJ contracture, +ve Tabletop test | Shared decision-making on technique based on age/comorbidities. |
-| **Needle Aponeurotomy** | MCPJ isolated cord, elderly, unfit for open Sx | Percutaneous division of cord with needle. High recurrence rate. |
-| **Open Limited Fasciectomy** | Standard of care in HK HA | Excision of pathological cords only. Z-plasty/Bruner incisions for skin lengthening. |
-| **Dermofasciectomy** | Severe recurrence, aggressive young onset | Resection of cord + overlying skin. Requires Full Thickness Skin Graft (FTSG). |
+| Modality                     | Indications                                                              | Technique / Notes                                                                    |
+| :--------------------------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------- |
+| **Surgical Indications**     | - MCPJ contracture >30°<br>- ANY PIPJ contracture<br>- +ve Tabletop test | Shared decision-making on technique based on age/comorbidities.                      |
+| **Needle Aponeurotomy**      | - MCPJ isolated cord<br>- Elderly<br>- Unfit for open Sx                 | Percutaneous division of cord with needle. High recurrence rate.                     |
+| **Open Limited Fasciectomy** | Standard of care in HK HA                                                | Excision of pathological cords only. Z-plasty/Bruner incisions for skin lengthening. |
+| **Dermofasciectomy**         | - Severe recurrence<br>- Aggressive young onset                          | Resection of cord + overlying skin. Requires Full Thickness Skin Graft (FTSG).       |
 
 ## 8. Rehabilitation Protocol
 
