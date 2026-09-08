@@ -66,6 +66,7 @@
 * **Hallux Valgus Angle (HVA)**: Angle between longitudinal axes of 1st MT and proximal phalanx.
 * **Intermetatarsal Angle (IMA)**: Angle between longitudinal axes of 1st MT and 2nd MT.
 * **Distal Metatarsal Articular Angle (DMAA)**: Angle between 1st MT axis and its distal articular surface (evaluates joint congruency).
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a7722af9bc666ab2f05e085cc34182bb.png)
 
 ### Hallux Valgus Severity Classification Table
 | Severity | HVA (Normal <15°) | IMA (Normal <9°) |
@@ -80,6 +81,7 @@
 * **Weight-bearing (WB) AP Foot**: Essential to assess true deformity under physiological load.
 * **Weight-bearing (WB) Lateral Foot**: Assess medial arch (pes planus), 1st TMTJ, and dorsal osteophytes.
 * **Sesamoid Skyline View**: Evaluates sesamoid subluxation and crista erosion.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/fbddcae07cf53adefb5200047c546af5.png)
 
 ### Hallux Valgus Radiological Findings
 * **Angles**: ↑ HVA, ↑ IMA, ↑ DMAA.
@@ -97,25 +99,37 @@
 * **Footwear Modification**: Wide, deep toe-box shoes, low heels (mainstay of conservative Rx in HK HA clinics).
 * **Orthoses**: Silicone toe spacers, bunion pads, medial arch supports (for pes planus). 
 * **Analgesia**: Oral NSAIDs or topical gels for bursitis flares.
+![image|200](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/0262a136c8c19280b4db786435afc17e.png)
 
 ## 7. Definitive Management Algorithm (Non-Operative vs. Operative)
 
 ### Hallux Valgus Operative Indications
 * **Primary Indication**: Intractable pain failing conservative treatment.
-* **Secondary Indication**: Difficulty fitting into standard footwear, recurrent skin breakdown.
-* **Contraindications**: **Purely cosmetic reasons** (absolute contraindication in HK HA), active infection, severe PVD, Charcot arthropathy.
+* **Secondary Indication**:
+	* Difficulty fitting into standard footwear.
+	* Recurrent skin breakdown.
+* **Contraindications**:
+	* **Purely cosmetic reasons** (absolute contraindication in HK HA).
+	* Active infection.
+	* Severe PVD.
+	* Charcot arthropathy.
 
 ### Hallux Valgus Soft Tissue Procedure
-* **Modified McBride Procedure**: Lateral release (release of adductor hallucis + lateral MTP capsule + deep transverse metatarsal ligament) + medial capsular plication. *Rarely done in isolation, usually combined with osteotomy.*
+* **Modified McBride Procedure**:
+	* Lateral release (release of adductor hallucis + lateral MTP capsule + deep transverse metatarsal ligament) + medial capsular plication.
+	* *Rarely done in isolation, usually combined with osteotomy.*
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/bd455aa9a1be65b626ed95519fc48649.png)
 
 ### Hallux Valgus Surgical Algorithm Table
-| Deformity Grade | Pathoanatomy | Preferred Surgical Procedure |
-| :--- | :--- | :--- |
-| **Mild** (IMA <13°) | Congruent/Subluxed MTPJ | **Chevron Osteotomy** (Distal 1st MT V-shaped cut) |
-| **Moderate** (IMA 13-20°) | Subluxed MTPJ | **Scarf Osteotomy** (Diaphyseal Z-shaped cut) |
-| **Severe** (IMA >20°) | Fixed Deformity | **Ludloff** (Proximal osteotomy) or **Lapidus** |
-| **Hypermobile 1st TMTJ** | Instability at base | **Lapidus Procedure** (1st TMTJ Arthrodesis) |
-| **Severe + 1st MTPJ OA** | Arthritis / RA | **1st MTPJ Arthrodesis** (Fusion) |
+| Deformity Grade           | Pathoanatomy            | Preferred Surgical Procedure                       |
+| :------------------------ | :---------------------- | :------------------------------------------------- |
+| **Mild** (IMA <13°)       | Congruent/Subluxed MTPJ | **Chevron Osteotomy** (Distal 1st MT V-shaped cut) |
+| **Moderate** (IMA 13-20°) | Subluxed MTPJ           | **Scarf Osteotomy** (Diaphyseal Z-shaped cut)      |
+| **Severe** (IMA >20°)     | Fixed Deformity         | **Ludloff** (Proximal osteotomy) or **Lapidus**    |
+| **Hypermobile 1st TMTJ**  | Instability at base     | **Lapidus Procedure** (1st TMTJ Arthrodesis)       |
+| **Severe + 1st MTPJ OA**  | Arthritis / RA          | **1st MTPJ Arthrodesis** (Fusion)                  |
+
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/0d9bb2c024d0d3c8b45e203da31e89f6.png)
 
 ## 8. Rehabilitation Protocol
 
@@ -123,6 +137,7 @@
 * **0-6 Weeks**: Heel-weight bearing ONLY using a **Darco shoe** (stiff-soled post-op shoe). No forefoot loading.
 * **6 Weeks**: X-ray check for bony union of osteotomy.
 * **6-12 Weeks**: Transition to wide toe-box trainers/sneakers. Full weight-bearing permitted based on radiological union.
+![image|200](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/cb755d0fdba2b6feeee32a1643241cc2.png)
 
 ### Hallux Valgus Post-Op Physiotherapy
 * **Early ROM**: Gentle active/passive 1st MTPJ ROM starts @ 1-2 weeks post-op to prevent severe stiffness.
