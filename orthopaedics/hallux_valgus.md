@@ -42,6 +42,7 @@
 * **Lesser Toes**: Overriding 2nd toe (crossover toe), hammer toe deformities (due to load transfer).
 * **Plantar Aspect**: **Transfer metatarsalgia** (callosities under 2nd/3rd MT heads).
 * **Hindfoot/Midfoot**: Look for associated **pes planus** or Achilles tightness.
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/da107b270cd57b99fd0ec8ea4cd8d76d.png)
 
 ### Hallux Valgus Feel (Palpation)
 * **Bunion**: Tenderness over medial eminence bursa.
@@ -52,10 +53,12 @@
 * **Reducibility**: Passively correct valgus to differentiate flexible vs. fixed deformity.
 * **Silfverskiöld Test**: Assess gastrocnemius tightness.
 * **1st TMTJ Mobility**: Assess for hypermobility in sagittal plane (indicates need for Lapidus procedure).
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/98dadee46bde39659a5d05d213e9f01c.png)![image|200](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/567008be499743dbb10e50b21ba8b4a1.png)
 
 ### Hallux Valgus Neurovascular (NV) Status
 * **Nerves**: Check sensation over medial aspect of great toe (compression of **dorsomedial cutaneous nerve**).
 * **Pulses**: Palpate **dorsalis pedis** & **posterior tibial** arteries (crucial before planning surgery/tourniqet use).
+![image|200](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/c9f5ccec9d9520236176192b505c42d2.png)
 
 ## 4. Orthopaedic Classification Systems (Eponyms & Grading)
 
