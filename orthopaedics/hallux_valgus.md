@@ -15,7 +15,9 @@
 
 ### Hallux Valgus Epidemiology
 * **Prevalence**: F > M (approx. 15:1 ratio in surgical cohorts).
-* **Age**: ↑ incidence with ↑ age (common in 5th-7th decades); juvenile variant exists but less common.
+* **Age**:
+	* ↑ incidence with ↑ age (common in 5th-7th decades).
+	* Juvenile variant exists but less common.
 
 ## 2. Applied Orthopaedic Anatomy & Biomechanics
 
@@ -23,12 +25,14 @@
 * **Sesamoid Bones**: **Tibial (medial)** and **Fibular (lateral)** sesamoids sit within the tendons of **flexor hallucis brevis (FHB)** beneath the 1st MT head.
 * **Crista**: Bony ridge on plantar 1st MT head separating the sesamoids; erodes in chronic valgus.
 * **Vascular Supply**: **1st MT head** blood supply relies heavily on the **capsular network** (via 1st dorsal metatarsal artery). 
+![image|350](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/4337dffe89d5ca64959f8c6f21a10631.png)
 
 ### Hallux Valgus Deforming Muscle Forces (Biomechanics)
 * **Adductor Hallucis**: Pulls proximal phalanx laterally + pulls fibular sesamoid laterally.
 * **Abductor Hallucis**: Slips plantar-ward; loses abducting power, acts as a plantarflexor → pronates the great toe.
 * **EHL & FHL Bowstringing**: With lateral deviation, **Extensor Hallucis Longus (EHL)** & **Flexor Hallucis Longus (FHL)** tendons bowstring laterally, exacerbating the valgus force.
 * **Medial Capsule**: Attenuates and stretches, allowing medial subluxation of the 1st MT head.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/95a0557cbb66407804e87e2554ef6e46.png)
 
 ## 3. Clinical Assessment
 

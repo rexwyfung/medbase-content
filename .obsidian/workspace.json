@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "common_hand_elective_conditions"
             }
+          },
+          {
+            "id": "0e78612d3dad7b31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "orthopaedics/hallux_valgus.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "hallux_valgus"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,8 +234,9 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "6c4a003ef3b5a7cc",
+  "active": "0e78612d3dad7b31",
   "lastOpenFiles": [
+    "orthopaedics/common_hand_elective_conditions.md",
     "orthopaedics/the_limping_child.md",
     "orthopaedics/tendinopathies_ankle_instability.md",
     "orthopaedics/spinal_trauma_cord_injury.md",
@@ -231,7 +257,6 @@
     "orthopaedics/distal_radius_upper_limb_fractures.md",
     "orthopaedics/common_shoulder_problems.md",
     "orthopaedics/common_hand_injuries.md",
-    "orthopaedics/common_hand_elective_conditions.md",
     "orthopaedics/avn_femoral_head.md",
     "orthopaedics/scoliosis.md",
     "orthopaedics/cervical_spine_pathology.md",
