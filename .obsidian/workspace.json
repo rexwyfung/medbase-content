@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "orthopaedics/the_limping_child.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "the_limping_child"
+            }
+          },
+          {
+            "id": "24d4902796588088",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "orthopaedics/avn_femoral_head.md",
                 "mode": "source",
                 "source": false,
@@ -29,30 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "avn_femoral_head"
-            }
-          },
-          {
-            "id": "84662f1e3f160098",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "orthopaedics/cervical_spine_pathology.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cervical_spine_pathology"
             }
           }
         ]
@@ -235,11 +235,11 @@
   },
   "active": "9a108b1e799b2bc5",
   "lastOpenFiles": [
-    "orthopaedics/cervical_spine_pathology.md",
     "orthopaedics/avn_femoral_head.md",
+    "orthopaedics/the_limping_child.md",
+    "orthopaedics/cervical_spine_pathology.md",
     "orthopaedics/common_hand_elective_conditions.md",
     "orthopaedics/hallux_valgus.md",
-    "orthopaedics/the_limping_child.md",
     "orthopaedics/tendinopathies_ankle_instability.md",
     "orthopaedics/spinal_trauma_cord_injury.md",
     "orthopaedics/spinal_infections.md",

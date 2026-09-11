@@ -33,15 +33,18 @@
 * 4 months to adult: Physis forms barrier. Dominant supply becomes **Medial Circumflex Femoral Artery (MCFA)** → lateral epiphyseal vessels. 
 * **Ligamentum Teres** artery (branch of obturator artery): Negligible contribution until age 8; does not prevent AVN.
 * SCFE complication: Stretching/tearing of MCFA retinacular branches → high risk of AVN.
+![image|650](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/60513ebaf178bc8a37faa47691c838e8.png)
 
 ### Biomechanics of Acetabular Development in DDH
 * Concentric reduction of femoral head provides essential mechanical stimulus for normal acetabular cartilage growth.
 * Eccentric loading / subluxation → dysplastic, shallow acetabulum, hypertrophied pulvinar, inverted limbus, and contracted **Psoas** tendon.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/4219b9c9d70f40c3b994383ecbd7ef9e.png)
 
 ### Biomechanics of Physis Failure in SCFE
 * Pubertal growth spurt → relative thinning of perichondrial ring & widening of the **Zone of Hypertrophy** in the physis.
 * Obesity ↑ axial mechanical shear stress.
 * Epiphysis remains anchored in acetabulum (via ligamentum teres). Femoral neck displaces **Anteriorly and Superiorly** relative to the head.
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/5efe8ce7fa3fe7bfcc6e4f49d309f554.png)
 
 ## 3. Clinical Assessment
 
@@ -51,6 +54,7 @@
 * Move: Limited hip abduction in flexion (<60° is abnormal).
 * **Barlow Test** (Provocative): Hip flexed & adducted → posterior force applied → palpable clunk as hip dislocates posteriorly.
 * **Ortolani Test** (Reductive): Hip flexed & abducted → anterior lifting force applied → palpable clunk as hip reduces into acetabulum.
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/3d00b0bbd716a64c6f5eda9f5e4e9738.png)
 
 ### Older Child DDH Physical Assessment (>6 Months)
 * Look: Waddling gait (bilateral), apparent short leg.
@@ -62,15 +66,22 @@
 ### Perthes Disease Physical Assessment
 * Look: Antalgic gait, limb shortening, thigh/calf muscle wasting.
 * Feel: Mild anterior hip/groin tenderness.
-* Move: Painless limp initially. Classical ↓ ROM in **Abduction** and **Internal Rotation (IR)**.
+* Move:
+	* Painless limp initially.
+	* Classical ↓ ROM in **Abduction** and **Internal Rotation (IR)**.
 * NV: Intact distal pulses and sensation.
 
 ### SCFE Physical Assessment
-* Look: Limping, out-toeing gait. Classic affected limb resting posture is shortened and externally rotated.
+* Look:
+	* Limping, out-toeing gait.
+	* Classic affected limb resting posture is shortened and externally rotated.
 * Feel: Pain localized to groin, anteromedial thigh, or referred to knee (via **Obturator Nerve**).
 * Move: Loss of IR, flexion, and abduction.
-* **Drehmann Sign**: Pathognomonic. Obligatory **External Rotation (ER)** of the hip during passive hip flexion.
+* **Drehmann Sign**:
+	* Pathognomonic.
+	* Obligatory **External Rotation (ER)** of the hip during passive hip flexion.
 * NV: Intact. Check for neurological deficits if endocrinopathy suspected.
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/307a051436b4e7cf8b33ed7d141ebd64.png)
 
 ## 4. Orthopaedic Classification Systems (Eponyms & Grading)
 
@@ -82,12 +93,16 @@
 | **Type III** | <43° | >77° | Subluxated, shallow acetabulum |
 | **Type IV** | Unmeasurable | Unmeasurable | Dislocated hip |
 
+![image|350](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/1c1ce6dee99be41768c618f73b96c828.png)
+
 ### Perthes Herring Lateral Pillar Classification System
-| Herring Group | Lateral Pillar Height (AP Radiograph) | Prognosis |
-| :--- | :--- | :--- |
-| **Group A** | 100% (No lateral pillar involvement) | Excellent |
-| **Group B** | >50% lateral pillar height maintained | Good (age <8), Fair (age >8) |
-| **Group C** | <50% lateral pillar height maintained | Poor |
+| Herring Group | Lateral Pillar Height (AP Radiograph) | Prognosis                    |
+| :------------ | :------------------------------------ | :--------------------------- |
+| **Group A**   | 100% (No lateral pillar involvement)  | Excellent                    |
+| **Group B**   | >50% lateral pillar height maintained | Good (age <8), Fair (age >8) |
+| **Group C**   | <50% lateral pillar height maintained | Poor                         |
+
+![image|600](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/240879a89e8141948518b968f039a54a.png)
 
 ### SCFE Loder Stability Classification System
 | Loder Classification | Definition | AVN Risk |
@@ -102,6 +117,8 @@
 | **Moderate** | 30° - 50° |
 | **Severe** | >50° |
 
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/e7439e2650cc4f9eb4a3b24e2911a576.png)
+
 ## 5. Radiological Investigations
 
 ### DDH Imaging Modalities & Radiographic Lines
@@ -112,6 +129,7 @@
 * Normal Head Position: Inner lower quadrant formed by intersecting lines.
 * **Shenton's Line**: Continuous arc from medial femoral neck to inferior border of superior pubic ramus. Broken in DDH.
 * Acetabular Index: Normal is <25° in children >6 months.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a5b8703fcd1902f62fcbdfea3dc63c8d.png)
 
 ### Perthes Radiographic Waldenström Stages
 * Required views: **AP and Frog-leg Lateral Pelvis**.
@@ -119,6 +137,7 @@
 * Stage 2 (Fragmentation): Epiphyseal fragmentation, **Crescent Sign** (subchondral radiolucency / microfracture).
 * Stage 3 (Reossification): New bone formation, healing of subchondral bone.
 * Stage 4 (Remodelling): Residual deformity (coxa magna, coxa plana).
+![image|650](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/4a1b59fc2a53bdc6afd61b8b217c8525.png)
 
 ### SCFE Radiographic Signs
 * Required views: **AP and Frog-leg Lateral Pelvis** (Must image bilateral hips).
@@ -126,6 +145,7 @@
 * **Trethowan's Sign**: +ve when Klein's line passes completely superior to the epiphysis (indicates slip).
 * "Ice cream slipping off cone": Classic appearance on Frog-leg lateral.
 * **Blanch Sign of Steel**: Crescent-shaped density at metaphysis (superimposition of displaced head over neck).
+![image](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/26f39205878ab3fbd80354def4b430e7.png)![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/f85da468a2bc0ae57d2e8d1f2547d53b.png)
 
 ## 6. Initial ED Management
 
@@ -145,25 +165,29 @@
 ## 7. Definitive Management Algorithm
 
 ### DDH Definitive Management Algorithm
-| Age Group | Definitive Management Indication / Technique |
-| :--- | :--- |
-| **0-6 Months** | **Non-Operative**: **Pavlik Harness** (maintains hip in flexion & abduction). 90% success rate. Strict weekly US monitoring. |
-| **6-18 Months** | **Operative**: **Closed Reduction + Hip Spica Cast**. Arthrogram used intra-op to confirm concentric reduction. If failed → Open Reduction. |
-| **>18 Months** | **Operative**: **Open Reduction** ± Femoral shortening osteotomy ± Pelvic osteotomy (Salter/Pemberton) to correct acetabular dysplasia. |
+| Age Group       | Definitive Management Indication / Technique                                                                                                               |
+| :-------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **0-6 Months**  | **Non-Operative**:<br>- **Pavlik Harness** (maintains hip in flexion & abduction).<br>- 90% success rate.<br>- Strict weekly US monitoring.                |
+| **6-18 Months** | **Operative**:<br>- **Closed Reduction + Hip Spica Cast**.<br>- Arthrogram used intra-op to confirm concentric reduction.<br>- If failed → Open Reduction. |
+| **>18 Months**  | **Operative**: **Open Reduction** ± Femoral shortening osteotomy ± Pelvic osteotomy (Salter/Pemberton) to correct acetabular dysplasia.                    |
+
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/b525c5f5ff6abed94e8f2ff2d73f6873.png)
 
 ### Perthes Definitive Management Algorithm
-| Age & Stage | Definitive Management Indication / Technique |
-| :--- | :--- |
-| **Age <8 & Herring A/B** | **Non-Operative**: Observation, activity modification, NSAIDs, physiotherapy (maintain ROM). |
-| **Age >8 or Herring B/C** | **Operative (Containment)**: Keep femoral head contained within acetabulum during fragmentation/healing. Proximal femoral varus osteotomy or pelvic osteotomy. |
-| **Late Deformity (Hinge Abduction)** | **Operative**: Valgus extension osteotomy to redirect deformed head away from acetabular rim. |
+| Age & Stage                          | Definitive Management Indication / Technique                                                                                                                             |
+| :----------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Age <8 & Herring A/B**             | **Non-Operative**:<br>- Observation.<br>- Activity modification.<br>- NSAIDs.<br>- Physiotherapy (maintain ROM).                                                         |
+| **Age >8 or Herring B/C**            | **Operative (Containment)**:<br>- Keep femoral head contained within acetabulum during fragmentation/healing.<br>- Proximal femoral varus osteotomy or pelvic osteotomy. |
+| **Late Deformity (Hinge Abduction)** | **Operative**: Valgus extension osteotomy to redirect deformed head away from acetabular rim.                                                                            |
+
+![image|350](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/385e51f87a716a9d3c582d9253208ce9.png)
 
 ### SCFE Definitive Management Algorithm
-| Slip Type | Definitive Management Indication / Technique |
-| :--- | :--- |
-| **Stable Slip** | **Operative**: **In Situ Single Screw Fixation**. Center of head, perpendicular to physis. NO attempt at reduction (↑ AVN risk). |
-| **Unstable Slip** | **Operative**: Urgent **In Situ Single Screw Fixation** ± capsulotomy to decompress joint hematoma (↓ AVN risk). Incidental gentle reduction may occur with positioning. |
-| **Prophylactic Contralateral Pinning** | Indicated in high-risk patients: Endocrinopathy, severe initial slip, poor follow-up compliance, age <10. |
+| Slip Type                              | Definitive Management Indication / Technique                                                                                                                                       |
+| :------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Stable Slip**                        | **Operative**:<br>- **In Situ Single Screw Fixation**.<br>- Center of head, perpendicular to physis.<br>- NO attempt at reduction (↑ AVN risk).                                    |
+| **Unstable Slip**                      | **Operative**:<br>- Urgent **In Situ Single Screw Fixation** ± capsulotomy to decompress joint hematoma (↓ AVN risk).<br>- Incidental gentle reduction may occur with positioning. |
+| **Prophylactic Contralateral Pinning** | Indicated in high-risk patients: Endocrinopathy, severe initial slip, poor follow-up compliance, age <10.                                                                          |
 
 ## 8. Rehabilitation Protocol
 
@@ -204,6 +228,7 @@
 * **Avascular Necrosis (AVN)**: Devastating complication. Highest risk in unstable slips or if aggressive forced reduction is attempted.
 * Femoroacetabular Impingement (FAI): Prominent anterior metaphyseal bump (Cam deformity) limits flexion/IR.
 * Leg length discrepancy (from premature physeal closure).
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/c68e489a6c540e80ff29c1863c45fb3a.png)
 
 ## 10. Examiner's Pearls
 
