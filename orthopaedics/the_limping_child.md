@@ -123,7 +123,7 @@
 
 ### DDH Imaging Modalities & Radiographic Lines
 * <6 months: **Ultrasound (US)**. Standard of care (femoral head unossified). Assesses morphology (Graf) and dynamic stability.
-* >6 months: **AP Pelvis X-ray**. 
+* \>6 months: **AP Pelvis X-ray**. 
 * **Hilgenreiner's Line**: Horizontal line through triradiate cartilages.
 * **Perkin's Line**: Vertical line through lateral margin of acetabular roof.
 * Normal Head Position: Inner lower quadrant formed by intersecting lines.
