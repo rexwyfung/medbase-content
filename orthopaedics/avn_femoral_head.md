@@ -29,8 +29,14 @@
 ### Vascular Supply of the Femoral Head
 * **Extracapsular Arterial Ring:** Formed by **medial circumflex femoral artery (MCFA)** & **lateral circumflex femoral artery (LCFA)**.
 * **Intracapsular Ascending Cervical Arteries:** Arise from ring → pierce capsule at base of neck.
-* **Lateral Epiphyseal Arteries (Retinacular Vessels):** Terminal branches of MCFA; supply superior & anterior weight-bearing dome. Most critical & most vulnerable to disruption.
-* **Artery of Ligamentum Teres:** Branch of **obturator artery**; negligible supply in adults.
+* **Lateral Epiphyseal Arteries (Retinacular Vessels):**
+	* Terminal branches of MCFA.
+	* Supply superior & anterior weight-bearing dome.
+	* Most critical & most vulnerable to disruption.
+* **Artery of Ligamentum Teres:**
+	* Branch of **obturator artery**.
+	* Negligible supply in adults.
+![image|650](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/60513ebaf178bc8a37faa47691c838e8.png)
 
 ### Biomechanics of Femoral Head Collapse
 * **Load Distribution:** Anterosuperior quadrant of femoral head transmits peak joint reactive forces (up to 3-4x body weight during gait).
@@ -53,30 +59,35 @@
 * **Special Test:** +ve Thomas test (fixed flexion deformity in advanced disease).
 
 ### Lower Limb Neurovascular Assessment Table
-| Nerve Root / Nerve | Motor Testing | Sensory Testing |
-| :--- | :--- | :--- |
-| **L2 (Femoral)** | Hip flexion (Iliopsoas) | Anterior mid-thigh |
-| **L3 (Femoral)** | Knee extension (Quadriceps) | Medial knee |
-| **L4 (Deep Peroneal)** | Ankle dorsiflexion (Tibialis Anterior) | Medial malleolus |
-| **L5 (Deep Peroneal)** | Great toe extension (EHL) | First dorsal web space |
-| **S1 (Tibial)** | Ankle plantarflexion (Gastrocnemius) | Lateral border of foot |
-| **Vascular** | Palpate **dorsalis pedis (DP)** & **posterior tibial (PT)** pulses | Capillary refill < 2 secs |
+| Nerve Root / Nerve     | Motor Testing                                                      | Sensory Testing           |
+| :--------------------- | :----------------------------------------------------------------- | :------------------------ |
+| **L2 (Femoral)**       | Hip flexion (Iliopsoas)                                            | Anterior mid-thigh        |
+| **L3 (Femoral)**       | Knee extension (Quadriceps)                                        | Medial knee               |
+| **L4 (Deep Peroneal)** | Ankle dorsiflexion (Tibialis Anterior)                             | Medial malleolus          |
+| **L5 (Deep Peroneal)** | Great toe extension (EHL)                                          | First dorsal web space    |
+| **S1 (Tibial)**        | Ankle plantarflexion (Gastrocnemius)                               | Lateral border of foot    |
+| **Vascular**           | Palpate **dorsalis pedis (DP)** & **posterior tibial (PT)** pulses | Capillary refill < 2 secs |
+
+![image|650](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/c7aa28ffd58e5db283723568dd55e0c6.png)
 
 ## 4. Orthopaedic Classification Systems
 
 ### Ficat & Arlet Classification System
-| Stage | Clinical Features | Radiographic (Plain Film) Findings | MRI/Bone Scan Findings |
-| :--- | :--- | :--- | :--- |
-| **Stage 0** | Asymptomatic | Normal | Normal MRI, ↓ uptake on Bone Scan |
-| **Stage I** | Groin pain | Normal | +ve MRI (edema), ↑ uptake on Bone Scan |
-| **Stage II** | Pain, ↓ ROM | Mixed sclerosis & cysts, diffuse osteopenia | +ve MRI (geographic defects) |
-| **Stage III** | Sudden ↑ pain | **Crescent sign** (軟骨下新月徵), subchondral collapse | +ve MRI |
-| **Stage IV** | Severe constant pain | Flattening of head, joint space narrowing, OA | +ve MRI, Acetabular changes |
+| Stage         | Clinical Features    | Radiographic (Plain Film) Findings               | MRI/Bone Scan Findings                 |
+| :------------ | :------------------- | :----------------------------------------------- | :------------------------------------- |
+| **Stage 0**   | Asymptomatic         | Normal                                           | Normal MRI, ↓ uptake on Bone Scan      |
+| **Stage I**   | Groin pain           | Normal                                           | +ve MRI (edema), ↑ uptake on Bone Scan |
+| **Stage II**  | Pain, ↓ ROM          | Mixed sclerosis & cysts, diffuse osteopenia      | +ve MRI (geographic defects)           |
+| **Stage III** | Sudden ↑ pain        | **Crescent sign** (軟骨下新月徵), subchondral collapse | +ve MRI                                |
+| **Stage IV**  | Severe constant pain | Flattening of head, joint space narrowing, OA    | +ve MRI, Acetabular changes            |
+
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/e9062960f412059816cecf4739498f99.png)
 
 ### Kerboul Angle (MRI Prognostic Grading)
 * **Measurement:** Combined necrotic angle on mid-coronal & mid-sagittal T1 MRI images.
 * **< 200°:** Low risk of collapse.
 * **> 200°:** High risk of collapse.
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/49f15e3dc3fed4d5a799c2e27fee12ee.png)
 
 ## 5. Radiological Investigations
 
@@ -85,6 +96,7 @@
 * **Early (Ficat II):** Patchy osteosclerosis, subchondral cysts.
 * **Intermediate (Ficat III):** **Crescent sign** (subchondral radiolucent line indicating impending collapse).
 * **Late (Ficat IV):** Femoral head flattening, loss of sphericity, joint space narrowing, osteophytes.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/7d7b28afab5ab73c11b17aaeb71fd432.png)
 
 ### Magnetic Resonance Imaging (MRI) Findings
 * **Sensitivity/Specificity:** Gold standard (~100% sensitive).
@@ -92,6 +104,7 @@
 * **T2-Weighted:** **Double-line sign** (雙線徵) - highly specific pathognomonic feature.
     * **Inner Line:** Hyperintense (vascularized granulation tissue).
     * **Outer Line:** Hypointense (sclerotic dead bone).
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/e450cf1b3e3265ed0e126c6724e71fdd.png)
 
 ## 6. Initial ED Management
 
@@ -114,7 +127,9 @@
 | **Post-Collapse (Ficat III-IV)** | Joint-Replacing Surgery | Total Hip Arthroplasty (THA) |
 
 ### Non-Operative Management Details
-* **Pharmacological:** Bisphosphonates (Alendronate) to ↓ osteoclast activity (debatable efficacy in HK guidelines but considered). Lipid-lowering statins (preventative for high-dose steroid users).
+* **Pharmacological:**
+	* Bisphosphonates (Alendronate) to ↓ osteoclast activity (debatable efficacy in HK guidelines but considered).
+	* Lipid-lowering statins (preventative for high-dose steroid users).
 * **Physical:** Protected weight-bearing (rarely curative, just delays inevitable).
 
 ### Joint-Preserving Operative Techniques (Pre-Collapse)
