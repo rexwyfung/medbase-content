@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "the_limping_child"
             }
+          },
+          {
+            "id": "547c976b98d82446",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "orthopaedics/septic_arthritis_osteomyelitis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "septic_arthritis_osteomyelitis"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -258,11 +282,11 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "ccf098552db1336d",
+  "active": "547c976b98d82446",
   "lastOpenFiles": [
+    "orthopaedics/the_limping_child.md",
     "orthopaedics/avn_femoral_head.md",
     "orthopaedics/hip_arthritis.md",
-    "orthopaedics/the_limping_child.md",
     "orthopaedics/cervical_spine_pathology.md",
     "orthopaedics/common_hand_elective_conditions.md",
     "orthopaedics/hallux_valgus.md",

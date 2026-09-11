@@ -6,22 +6,32 @@
 * **Definition:** Purulent infection of joint space (關節腔).
 * **Pathogenesis:** Rapid cartilage destruction via bacterial toxins & host inflammatory enzymes (metalloproteinases).
 * **MOI:** 
-* Hematogenous spread (most common).
-* Direct inoculation (trauma, intra-articular injection, surgery).
-* Contiguous spread (from adjacent OM).
+	* Hematogenous spread (most common).
+	* Direct inoculation (trauma, intra-articular injection, surgery).
+	* Contiguous spread (from adjacent OM).
 
 ### Osteomyelitis (OM) Clinical Definition
 * **Definition:** Infection of bone & bone marrow (骨髓).
 * **Pathogenesis:** Suppuration → ↑ intramedullary pressure → vascular thrombosis → bone necrosis (**sequestrum** 死骨) → reactive new bone formation (**involucrum** 包殼).
 * **MOI:** 
-* Hematogenous (mostly children).
-* Contiguous (e.g., diabetic foot ulcer).
-* Direct inoculation (e.g., open #).
+	* Hematogenous (mostly children).
+	* Contiguous (e.g., diabetic foot ulcer).
+	* Direct inoculation (e.g., open #).
 
 ### Epidemiology & Demographics
-* **SA:** Bimodal (children <3 yrs, adults >65 yrs). Most common in knee (adults) & hip (children).
-* **OM:** Bimodal. Children (long bone metaphysis). Adults (vertebrae).
-* **Risk Factors:** DM, RA, IVDU, immunosuppression, prosthetic joints, end-stage renal failure (HK HA prevalent).
+* **SA:**
+	* Bimodal (children <3 yrs, adults >65 yrs).
+	* Most common in knee (adults) & hip (children).
+* **OM:**
+	* Bimodal.
+	* Children (long bone metaphysis). Adults (vertebrae).
+* **Risk Factors:**
+	* DM.
+	* RA.
+	* IVDU.
+	* Immunosuppression.
+	* Prosthetic joints.
+	* End-stage renal failure (HK HA prevalent).
 
 ### Pathogen Epidemiology in Hong Kong
 * ***S. aureus*:** Most common overall (both SA & OM).
@@ -37,6 +47,7 @@
 * **Vascular Loops:** Nutrient artery ends in acute hairpin loops in metaphysis.
 * **Sluggish Flow:** ↓ blood velocity at loops → ideal nidus for bacterial deposition.
 * **Lack of Macrophages:** Metaphyseal capillaries lack active phagocytes.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/a6d2007ff1eb558710b7c3e02854857f.png)
 
 ### The Physis (Growth Plate) Barrier Effect
 * **Neonates (<1 yr):** Transphyseal blood vessels exist. OM rapidly spreads → SA.
@@ -47,26 +58,45 @@
 * **Anatomy:** Certain metaphyses lie completely within the joint capsule.
 * **Clinical Consequence:** Metaphyseal OM here erupts directly into joint → primary SA.
 * **High-Risk Joints:** 
-* **Hip** (Proximal femur).
-* **Shoulder** (Proximal humerus).
-* **Ankle** (Distal fibula/tibia).
-* **Elbow** (Proximal radius).
+	* **Hip** (Proximal femur).
+	* **Shoulder** (Proximal humerus).
+	* **Ankle** (Distal fibula/tibia).
+	* **Elbow** (Proximal radius).
 
 ## 3. Clinical Assessment
 
 ### Septic Arthritis (SA) Clinical Findings
-* **Look:** Gross swelling, severe erythema, joint held in position of maximal capacity (e.g., hip in flexion, abduction, external rotation). Pseudoparalysis in neonates.
-* **Feel:** Exquisite warmth (calor), palpable effusion, diffuse tenderness over entire joint capsule.
-* **Move:** **Pathognomonic:** Severe, excruciating pain with *any* passive micromotion. True ROM is zero.
+* **Look:**
+	* Gross swelling.
+	* Severe erythema.
+	* Joint held in position of maximal capacity (e.g., hip in flexion, abduction, external rotation).
+	* Pseudoparalysis in neonates.
+* **Feel:**
+	* Exquisite warmth (calor).
+	* Palpable effusion.
+	* Diffuse tenderness over entire joint capsule.
+* **Move:** **Pathognomonic:**
+	* Severe, excruciating pain with *any* passive micromotion.
+	* True ROM is zero.
 
 ### Osteomyelitis (OM) Clinical Findings
-* **Look:** Erythema, swelling. Chronic OM: draining sinus tracts, thickened deformed skin.
-* **Feel:** Exquisite, highly localized **point tenderness** over affected metaphysis. Calor +ve.
-* **Move:** Adjacent joint ROM usually preserved initially (differentiates from SA). Pain on weight-bearing.
+* **Look:**
+	* Erythema, swelling.
+	* Chronic OM: draining sinus tracts, thickened deformed skin.
+* **Feel:**
+	* Exquisite, highly localized **point tenderness** over affected metaphysis.
+	* Calor +ve.
+* **Move:**
+	* Adjacent joint ROM usually preserved initially (differentiates from SA).
+	* Pain on weight-bearing.
 
 ### Neurovascular (NV) Status Examination
-* **Vascular:** Assess distal pulses (dorsalis pedis, posterior tibial) & capillary refill. Rule out concurrent septic thromboembolism or compartment syndrome from profound swelling.
-* **Neurological:** Light touch & motor function. Crucial in vertebral OM / epidural abscess (assess for myelopathy, radiculopathy, sphincter tone).
+* **Vascular:**
+	* Assess distal pulses (dorsalis pedis, posterior tibial) & capillary refill.
+	* Rule out concurrent septic thromboembolism or compartment syndrome from profound swelling.
+* **Neurological:**
+	* Light touch & motor function.
+	* Crucial in vertebral OM / epidural abscess (assess for myelopathy, radiculopathy, sphincter tone).
 
 ## 4. Orthopaedic Classification Systems (Eponyms & Grading)
 
@@ -79,27 +109,31 @@
 | **Duration** | Acute (days/weeks), Subacute (weeks/months, Brodie's abscess), Chronic (necrotic bone present). |
 
 ### Cierny-Mader Classification for Osteomyelitis (Anatomic)
-| Stage | Anatomic Extent |
-| :--- | :--- |
-| **Stage 1** | Medullary (Endosteal). |
-| **Stage 2** | Superficial (Cortical surface). |
-| **Stage 3** | Localized (Full thickness cortical, stable). |
+| Stage       | Anatomic Extent                                   |
+| :---------- | :------------------------------------------------ |
+| **Stage 1** | Medullary (Endosteal).                            |
+| **Stage 2** | Superficial (Cortical surface).                   |
+| **Stage 3** | Localized (Full thickness cortical, stable).      |
 | **Stage 4** | Diffuse (Circumferential, mechanically unstable). |
 
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/7e97ec1035ea919d5860566507975fce.png)
+
 ### Cierny-Mader Classification for Osteomyelitis (Physiologic)
-| Host Grade | Description |
-| :--- | :--- |
-| **A** | Normal host (good immunity/vascularity). |
-| **B** | Compromised host (Systemic e.g., DM / Local e.g., poor vessels). |
-| **C** | Treatment worse than disease (Severe morbidity). |
+| Host Grade | Description                                                      |
+| :--------- | :--------------------------------------------------------------- |
+| **A**      | Normal host (good immunity/vascularity).                         |
+| **B**      | Compromised host (Systemic e.g., DM / Local e.g., poor vessels). |
+| **C**      | Treatment worse than disease (Severe morbidity).                 |
+
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/7e97ec1035ea919d5860566507975fce.png)
 
 ### Gächter Classification for Septic Arthritis (Arthroscopic)
-| Stage | Description |
-| :--- | :--- |
-| **I** | Opacity of fluid, redness, petechiae, normal cartilage. |
-| **II** | Fibrinous deposits, pus, normal cartilage. |
-| **III** | Thickening of synovial membrane, cartilage damage. |
-| **IV** | Extensive cartilage destruction, subchondral bone exposed. |
+| Stage   | Description                                                |
+| :------ | :--------------------------------------------------------- |
+| **I**   | Opacity of fluid, redness, petechiae, normal cartilage.    |
+| **II**  | Fibrinous deposits, pus, normal cartilage.                 |
+| **III** | Thickening of synovial membrane, cartilage damage.         |
+| **IV**  | Extensive cartilage destruction, subchondral bone exposed. |
 
 ## 5. Radiological Investigations 
 
@@ -149,18 +183,18 @@
 ## 7. Definitive Management Algorithm (Non-Operative vs. Operative)
 
 ### Septic Arthritis: Operative Management (Surgical Emergency)
-| Indication | Management Algorithm |
-| :--- | :--- |
-| **Native Joint SA** | Urgent **Irrigation & Debridement (I&D)**. Arthroscopic (knee/shoulder) vs Arthrotomy (hip/open washout). Copious saline (9L+). Synovectomy if severe. |
-| **Prosthetic Joint Infection (Acute <4 wks)** | **DAIR** (Debridement, Antibiotics, Implant Retention) + polyethylene liner exchange. |
-| **Prosthetic Joint Infection (Chronic >4 wks)** | **2-Stage Revision:** 1st stage (Remove implant, insert antibiotic PMMA cement spacer). 6 wks IV Abx. 2nd stage (Re-implantation). |
+| Indication                                      | Management Algorithm                                                                                                                                                    |
+| :---------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Native Joint SA**                             | - Urgent **Irrigation & Debridement (I&D)**.<br>- Arthroscopic (knee/shoulder) vs Arthrotomy (hip/open washout).<br>- Copious saline (9L+).<br>- Synovectomy if severe. |
+| **Prosthetic Joint Infection (Acute <4 wks)**   | **DAIR** (Debridement, Antibiotics, Implant Retention) + polyethylene liner exchange.                                                                                   |
+| **Prosthetic Joint Infection (Chronic >4 wks)** | **2-Stage Revision:** 1st stage (Remove implant, insert antibiotic PMMA cement spacer). 6 wks IV Abx. 2nd stage (Re-implantation).                                      |
 
 ### Acute Osteomyelitis Management
-| Approach | Details |
-| :--- | :--- |
-| **Non-Operative (Primary)** | IV Abx for 4-6 weeks (PICC line). Switch to PO Abx when CRP normalizes & clinical improvement. |
-| **Operative Indications** | 1. Failure of IV Abx after 48-72h. <br> 2. Subperiosteal abscess formation. <br> 3. Intra-articular extension (associated SA). |
-| **Surgical Technique** | Cortical windowing (drilling holes in cortex) to decompress medullary cavity and drain pus. |
+| Approach                    | Details                                                                                                                      |
+| :-------------------------- | :--------------------------------------------------------------------------------------------------------------------------- |
+| **Non-Operative (Primary)** | - IV Abx for 4-6 weeks (PICC line).<br>- Switch to PO Abx when CRP normalizes & clinical improvement.                        |
+| **Operative Indications**   | 1. Failure of IV Abx after 48-72h. <br>2. Subperiosteal abscess formation. <br>3. Intra-articular extension (associated SA). |
+| **Surgical Technique**      | Cortical windowing (drilling holes in cortex) to decompress medullary cavity and drain pus.                                  |
 
 ### Chronic Osteomyelitis Management (Operative)
 * **Principle 1: Radical Debridement:** Excise all necrotic bone/tissue until bleeding bone ("paprika sign").
