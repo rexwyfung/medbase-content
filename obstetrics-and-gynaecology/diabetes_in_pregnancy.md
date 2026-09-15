@@ -1,165 +1,133 @@
 # Diabetes in Pregnancy (妊娠糖尿病)
 
 ## 1. Clinical Definition, Gestational Context & Local Epidemiology
+### Definition of Diabetes Mellitus in Pregnancy
+* Fasting plasma glucose (PG) $\ge 7.0$ mmol/L `[cite: 1]`.
+* 2-hr PG $\ge 11.1$ mmol/L post-75g OGTT `[cite: 1]`.
+* Random PG $\ge 11.1$ mmol/L +ve symptoms `[cite: 1]`.
 
-### Diabetes in Pregnancy: Definitions & Classification
-* **Gestational diabetes mellitus (GDM, 妊娠糖尿病):** glucose intolerance first recognised during pregnancy
-* **Diabetes mellitus in pregnancy:** hyperglycaemia first detected in pregnancy but meeting overt diabetes criteria
-* HK prevalence ~**10-14%**
-* Usually diagnosed at **24-28 weeks** by universal **75 g OGTT**
+### Definition of Gestational Diabetes Mellitus (GDM)
+* WHO 2013 Criteria `[cite: 1]`.
+* Fasting PG $5.1 - 6.9$ mmol/L `[cite: 1]`.
+* 1-hr PG $\ge 10.0$ mmol/L post-75g OGTT `[cite: 1]`.
+* 2-hr PG $8.5 - 11.0$ mmol/L post-75g OGTT `[cite: 1]`.
 
-### Diagnostic Thresholds for the 75 g OGTT
-| Timing | GDM | Overt diabetes |
-| :--- | :--- | :--- |
-| Fasting | **5.1-6.9 mmol/L** | $\ge$ **7.0 mmol/L** |
-| 1 h post-glucose | $\ge$ **10.0 mmol/L** | — |
-| 2 h post-glucose | **8.5-11.0 mmol/L** | $\ge$ **11.1 mmol/L** |
+### Local Epidemiology in Hong Kong
+* HK prevalence: 10-14% `[cite: 1]`.
+* Correlates directly with T2DM prevalence `[cite: 1]`.
 
 ## 2. Pathophysiology, Endocrine Axis & Pelvic Anatomy (Maternal-Fetal Physiology)
+### Maternal Insulin Resistance
+* Progressive ↑ insulin resistance (up to 50% in late pregnancy) `[cite: 1]`.
+* Driven by ↑ maternal adipose tissue & placental hormones (hPL, **estrogen**, **progesterone**, **cortisol**) `[cite: 1]`.
 
-### Placental Hormonal Drive in GDM
-* **Human placental lactogen**, **progesterone**, **cortisol**, and placental cytokines cause progressive **insulin resistance**
-* Pancreatic beta-cell hyperplasia usually compensates
-* GDM occurs when insulin secretion is insufficient for the pregnancy-induced insulin resistance
-
-### Mechanism of Fetal Hyperinsulinaemia
-* Maternal glucose crosses the placenta; maternal insulin does **not**
-* Fetal pancreas can respond to hyperglycaemia from ~11-12 weeks
-* Chronic maternal hyperglycaemia → fetal **hyperinsulinaemia** → **macrosomia**
-* After delivery, maternal glucose supply stops but fetal insulin remains high → **neonatal hypoglycaemia**
+### Fetal Endocrine Response & Macrosomia
+* Maternal **insulin** does NOT cross placenta `[cite: 1]`.
+* Fetal pancreas responds to maternal hyperglycemia by 11-12 weeks GA `[cite: 1]`.
+* Fetal hyperinsulinemia → anabolism → Macrosomia (巨大兒) `[cite: 1]`.
 
 ## 3. Clinical Assessment (History, Abdominal, Speculum & Bimanual Exam Findings ONLY)
+### Maternal History & Risk Factor Assessment
+* Prev GDM or macrosomic baby `[cite: 1]`.
+* Prev recurrent miscarriage, Pre-eclampsia (先兆子癇), or unexplained Stillbirth (死產) `[cite: 1]`.
+* Known PCOS or long-term **corticosteroid** use `[cite: 1]`.
+* 1st-degree FHx of DM `[cite: 1]`.
+* Age $\ge 35$ or BMI $\ge 25$ `[cite: 1]`.
+* Symptoms of vulvovaginal infection (pruritus, discharge) or UTI `[cite: 1]`.
 
-### History Features Suggesting Diabetes in Pregnancy
-* Previous GDM, macrosomic baby, recurrent miscarriage, or pre-eclampsia
-* PCOS, long-term corticosteroids, or first-degree family history of diabetes
-* Advanced maternal age $\ge$ 35 years
-* BMI $\ge$ 25
-* Multiple pregnancy
-* Glycosuria on antenatal urine testing
-* Polyuria, polydipsia, fatigue, recurrent vulvovaginal candidiasis
-
-### Examination Findings in Diabetes in Pregnancy
-* **Abdomen:**
-  * Symphysiofundal height **> dates** if macrosomia or polyhydramnios
-  * Polyhydramnios may make fetal parts difficult to palpate
-* **Speculum:** usually normal; look for candidiasis
-* **Bimanual:** usually normal
+### Abdominal Examination Findings
+* Symphyseal fundal height (SFH) > GA (suggests LGA/macrosomia or Polyhydramnios (羊胎水過多)) `[cite: 1]`.
+* Palpable multiple fetal poles (multiple pregnancy is a risk factor) `[cite: 1]`.
 
 ## 4. Critical Differential Diagnoses & Clinical Staging
-
-### Classification & Differentials of Diabetes in Pregnancy
-| Diagnosis | Key Point |
-| :--- | :--- |
-| Type 1 DM | Pre-existing; ketoacidosis risk |
-| Type 2 DM | Pre-existing; insulin resistance |
-| Diabetes first detected in pregnancy | Meets overt diabetes criteria |
-| GDM | Mild-moderate hyperglycaemia detected on OGTT |
-
-### White Classification of Diabetes in Pregnancy
-* **A1:** diet-controlled GDM
-* **A2:** GDM requiring insulin or oral hypoglycaemic agent
-* **B-T:** pre-existing diabetes classified by age of onset, duration, and vascular complications
+### Differential Diagnoses for Glycosuria in Pregnancy
+* Gestational Diabetes Mellitus (GDM) `[cite: 1]`.
+* Pre-existing Type 1 or Type 2 DM `[cite: 1]`.
+* Physiological ↑ glomerular filtration rate (↓ renal threshold for glucose) `[cite: 1]`.
 
 ## 5. Key Investigations (Labs, Specific Ultrasound Criteria & CTG Tracings)
+### Laboratory Investigations & Screening
+* 75g Oral Glucose Tolerance Test (OGTT) at 24-28 weeks GA (universal screening preferred) `[cite: 1]`.
+* Urine dipstick: Glycosuria (2+ once or 1+ twice) `[cite: 1]`.
+* Capillary blood glucose monitoring (fasting, pre-meal, post-meal) `[cite: 1]`.
+* HbA1c (target $\le 6.5\%$) `[cite: 1]`.
 
-### Maternal Investigations in Diabetes in Pregnancy
-* **75 g oral glucose tolerance test**
-* HbA1c if overt diabetes suspected
-* CBC, renal function, urine PCR if pre-eclampsia/proteinuria suspected
-* Capillary glucose profile: fasting and 1-2 h postprandial
+### Antenatal Ultrasound Criteria
+* Assessment of fetal growth (Estimated Fetal Weight > 90th percentile for LGA) `[cite: 1]`.
+* Assessment of amniotic fluid volume (AFI > 25cm or MVP > 8cm for Polyhydramnios (羊胎水過多)) `[cite: 1]`.
 
-### Fetal Surveillance in Diabetes in Pregnancy
-* Growth scan every 2-4 weeks after diagnosis
-* **Large-for-gestational age:** EFW >90th centile
-* Disproportionately enlarged **abdominal circumference**
-* **Polyhydramnios:** AFI >25 cm
-* CTG if reduced fetal movements, insulin-treated, or poor glycaemic control
+### Cardiotocography (CTG) Tracings
+* Antenatal CTG for fetal well-being if poorly controlled `[cite: 1]`.
+* Intrapartum continuous CTG monitoring for fetus `[cite: 1]`.
 
 ## 6. Medical Management & Acute Stabilization (Pharmacology, Steroids, Resuscitation)
+### Dietary Control & Lifestyle Modification
+* Caloric intake: 30-35 kcal/kg/day (non-obese) or 25 kcal/kg/day (obese) `[cite: 1]`.
+* +300 kcal/day per fetus `[cite: 1]`.
+* 3 main meals + snacks (bedtime snack prevents hypoglycemia/starvation ketosis) `[cite: 1]`.
+* Regular exercise (30 mins post-meal walking) `[cite: 1]`.
 
-### Glycaemic Targets in Diabetes in Pregnancy
-* Fasting glucose $\le$ 5.0 mmol/L
-* 1 h post-meal $\le$ 7.8 mmol/L
-* 2 h post-meal $\le$ 6.7 mmol/L
+### Insulin Therapy Guidelines
+* Indicated if diet fails post-2 weeks OR initial fasting PG $\ge 7.0$ mmol/L (or 6.0-6.9 with macrosomia/polyhydramnios) `[cite: 1]`.
+* Regimen: Short-acting pre-meal + medium-acting bedtime `[cite: 1]`.
+* Safe in pregnancy (does not cross placenta) `[cite: 1]`.
 
-### Medical Management of Diabetes in Pregnancy
-* **All women:** dietitian referral and lifestyle modification
-* Carbohydrate-controlled diet:
-  * Non-obese: 30-35 kcal/kg/day
-  * Obese: ~25 kcal/kg/day
-* Post-meal walking ~30 minutes
-* **Insulin** if:
-  * Diet control fails after ~2 weeks
-  * Fasting glucose is markedly raised at diagnosis
-  * Ultrasound suggests macrosomia or polyhydramnios
-* Common regimen:
-  * Short-acting insulin before meals
-  * Intermediate-acting insulin at bedtime if fasting glucose remains high
-* **Metformin** may be used alone or with insulin if acceptable to the woman
+### Oral Hypoglycemic Agents (OHA)
+* **Metformin** preferred `[cite: 1]`.
+* Crosses placenta but safe alternative to **insulin** in 2nd/3rd trimester `[cite: 1]`.
+
+### Glycemic Targets
+| Target Type | Glucose Level |
+| :--- | :--- |
+| Fasting | $\le 5.3$ mmol/L `[cite: 1]` |
+| 2-hour Postprandial | $\le 6.8$ mmol/L `[cite: 1]` |
 
 ## 7. Definitive Management Algorithm (Timing/Mode of Delivery OR Gynaecological Surgery)
+### Timing of Delivery
+| Clinical Status | Recommended Timing |
+| :--- | :--- |
+| Diet controlled + no complications | ~40 weeks GA `[cite: 1]` |
+| Insulin controlled + no complications | 38-39 weeks GA `[cite: 1]` |
+| Suboptimal control / Complications | < 38 weeks GA (individualized) `[cite: 1]` |
 
-### Timing of Delivery in Diabetes in Pregnancy
-* Diet-controlled, uncomplicated GDM: aim for **40-41 weeks**
-* Insulin-treated or poorly controlled GDM: usually **38-40 weeks**
-* Deliver earlier if:
-  * Macrosomia with birth injury risk
-  * Pre-eclampsia
-  * Abnormal fetal surveillance
-  * Poor glycaemic control
-  * Stillbirth risk
-
-### Mode of Delivery in Diabetes in Pregnancy
-* Vaginal delivery appropriate if fetal growth and surveillance are normal
-* Consider caesarean section if:
-  * EFW **>4.5 kg**
-  * Previous shoulder dystocia
-  * Malpresentation
-  * Failed induction
-  * Other obstetric indications
-* Anticipate shoulder dystocia if EFW >4.0-4.5 kg
+### Mode of Delivery & Intrapartum Care
+* LSCS indicated if Estimated Fetal Weight $\ge 4.0 - 4.5$ kg to avoid shoulder dystocia `[cite: 1]`.
+* Diet therapy: No specific intrapartum measures `[cite: 1]`.
+* **Insulin** therapy: Hourly glucose monitoring + sliding scale **insulin** + 10% dextrose + **KCl** infusion `[cite: 1]`.
 
 ## 8. Post-partum/Post-operative Care, Contraception & Follow-up
+### Immediate Postpartum Glycemic Control
+* Placental hormone influence dissipates rapidly → ↓ insulin resistance `[cite: 1]`.
+* Diet therapy: Resume normal diet immediately `[cite: 1]`.
+* **Insulin** therapy: Monitor glucose 24-72 hours (risk of pre-existing DM) `[cite: 1]`.
 
-### Immediate Postpartum Care After GDM
-* Stop insulin immediately after delivery in pure GDM
-* Monitor neonatal blood glucose
-* Early breastfeeding to reduce neonatal hypoglycaemia
-* Watch for neonatal jaundice and respiratory distress
+### Lactation & Contraception
+* Breastfeeding strongly encouraged (improves maternal glucose metabolism) `[cite: 1]`.
+* Contraception: No specific CI due to GDM (factor in obesity if present) `[cite: 1]`.
 
-### Follow-up After Gestational Diabetes
-* Repeat **OGTT at 6-12 weeks postpartum**
-* If normal, lifelong diabetes screening at least every 1-3 years
-* Weight reduction, exercise, and breastfeeding reduce future type 2 DM risk
-* Pre-pregnancy counselling for future pregnancies
+### Long-Term Follow-up
+* Fasting PG or 75g OGTT at 6-8 weeks postpartum to exclude pre-existing DM `[cite: 1]`.
+* Yearly fasting PG or OGTT screening `[cite: 1]`.
 
 ## 9. Maternal, Fetal & Gynaecological Complications
+### Maternal Complications
+* Pre-eclampsia (先兆子癇) and Pregnancy-Induced Hypertension `[cite: 1]`.
+* Vulvovaginal / Urinary tract infections `[cite: 1]`.
+* Cephalopelvic disproportion (CPD) → ↑ operative delivery `[cite: 1]`.
+* Long-term progression to Type 2 DM `[cite: 1]`.
 
-### Maternal Complications of Diabetes in Pregnancy
-* Pre-eclampsia
-* Operative vaginal delivery
-* Caesarean section
-* Postpartum haemorrhage from uterine overdistension
-* Recurrent vulvovaginal candidiasis and UTI
-* Future type 2 diabetes mellitus
-
-### Fetal & Neonatal Complications of Diabetes in Pregnancy
-* Macrosomia
-* Shoulder dystocia
-* Birth injury: brachial plexus injury, clavicular fracture
-* Neonatal hypoglycaemia
-* Hyperbilirubinaemia
-* Polycythaemia
-* Respiratory distress syndrome
-* Stillbirth if poorly controlled
+### Fetal & Neonatal Complications
+* Macrosomia (巨大兒) → shoulder dystocia, birth trauma `[cite: 1]`.
+* Polyhydramnios (羊胎水過多) `[cite: 1]`.
+* Respiratory Distress Syndrome (RDS) (hyperinsulinemia suppresses surfactant) `[cite: 1]`.
+* Neonatal metabolic triad: Hypoglycemia, Hypocalcemia, Hypomagnesemia `[cite: 1]`.
+* Neonatal jaundice & polycythemia `[cite: 1]`.
+* Stillbirth (死產) if poorly controlled `[cite: 1]`.
+* Long-term: ↑ risk childhood obesity & DM `[cite: 1]`.
 
 ## 10. Examiner's Pearls
-
-* Viva Question: When would you start insulin rather than continue diet control in GDM? Answer: If fasting or postprandial glucose remains above target after ~2 weeks, or if macrosomia, polyhydramnios, or raised HbA1c suggests inadequate control.
-* Trap: Assuming estimated fetal weight >4.5 kg always mandates caesarean section. Pearl: Individualise mode of delivery using previous birth injury, maternal BMI, pelvic assessment, and predicted shoulder dystocia risk.
-* Pitfall: Failing to distinguish GDM from overt diabetes first detected in pregnancy. Overt diabetes needs retinopathy screening, early fetal surveillance, and higher congenital anomaly risk.
-* Viva Question: What maternal glucose target should be used intrapartum? Answer: Generally 4-7 mmol/L; avoid maternal hyperglycaemia to reduce neonatal hypoglycaemia.
-* Trap: Stopping all glucose monitoring after delivery. Pearl: Repeat OGTT at 6-12 weeks and arrange long-term diabetes screening.
-
-
+* Viva Question: What are the target glucose levels for a patient with Gestational Diabetes? Answer: Fasting $\le 5.3$ mmol/L and 2-hour postprandial $\le 6.8$ mmol/L `[cite: 1]`.
+* Trap: Assuming glycosuria in pregnancy always confirms GDM. Pearl: Physiological ↑ GFR lowers the renal threshold for glucose; however, persistent glycosuria (2+ once or 1+ twice) mandates an OGTT `[cite: 1]`.
+* Trap: Delaying insulin therapy if diet fails. Pearl: **Insulin** should be started immediately if diet fails after 2 weeks, or upfront if fasting glucose $\ge 7.0$ mmol/L `[cite: 1]`.
+* Pitfall: Allowing GDM mothers on insulin to reach 40 weeks GA. Deliver safely between 38-39 weeks to minimize stillbirth and macrosomia risks `[cite: 1]`.
+* Viva Question: What is the preferred oral hypoglycemic agent in GDM and does it cross the placenta? Answer: **Metformin** is preferred and it does cross the placenta, but it is considered a safe alternative to **insulin** `[cite: 1]`.
