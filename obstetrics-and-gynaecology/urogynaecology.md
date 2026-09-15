@@ -1,178 +1,192 @@
-# Urogynaecology (泌尿婦科)
+# Urogynaecology: Pelvic Organ Prolapse & Urinary Incontinence (泌尿婦科：骨盆腔器官脫垂與尿失禁)
 
 ## 1. Clinical Definition, Gestational Context & Local Epidemiology
 
-### Definitions
-* **Pelvic organ prolapse:** descent of anterior vaginal wall, posterior vaginal wall, uterus, or vaginal vault
-* **Stress urinary incontinence:** involuntary leakage with exertion, coughing, or sneezing
-* **Urge urinary incontinence:** involuntary leakage associated with urgency
-* **Mixed incontinence:** combined stress and urge components
-* **Overactive bladder:** urgency ± frequency, nocturia, with or without incontinence
+### Clinical Definitions
+* **Pelvic Organ Prolapse (骨盆腔器官脫垂)**: Descent of pelvic organs into the vagina
+* **Stress Urinary Incontinence (應力性尿失禁)**: Involuntary urine leakage on effort or exertion
+* **Urgency Urinary Incontinence (急迫性尿失禁)**: Involuntary urine leakage accompanied by urgency
+* **Mixed Urinary Incontinence (混合性尿失禁)**: Combination of stress and urgency incontinence
 
-### Clinical Significance
-* Common after childbirth and menopause
-* Major impact on quality of life, sexual function, and confidence
-* Often underreported because of embarrassment or belief that symptoms are normal
-* Oestrogen deficiency after menopause worsens pelvic floor and urethral support
+### Gestational Context & Local Epidemiology
+* ↑ Incidence in multiparous women
+* ↑ Risk associated with previous vaginal deliveries
+* Strongly associated with obesity and ageing
+* Commonly presents in post-menopausal women
 
 ## 2. Pathophysiology, Endocrine Axis & Pelvic Anatomy (Maternal-Fetal Physiology)
 
-### Pelvic Support Anatomy
-* **Level I:** uterosacral and cardinal ligaments suspend uterus and upper vagina
-* **Level II:** pubocervical fascia supports bladder and urethra
-* **Level III:** rectovaginal fascia and perineal body support rectum and distal vagina
-* Levator ani provides active muscular support
-* Endopelvic fascia provides passive support
+### Pelvic Anatomy: DeLancey's Levels of Support
+* Level I: Cardinal/uterosacral ligaments (apical support)
+* Level II: Pubocervical & rectovaginal fascia (anterior/posterior support)
+* Level III: Perineal body & superficial/deep perineal muscles (distal support)
 
-### Incontinence Mechanisms
-* **Stress incontinence:**
-  * Weak urethral sphincter
-  * Urethral hypermobility
-  * Loss of pelvic floor support
-* **Urge incontinence:**
-  * Detrusor overactivity
-  * Neurogenic bladder dysfunction
-  * Local irritation or inflammation
-* Oestrogen deficiency causes vaginal and urethral mucosal atrophy
+### Pathophysiology
+* Weakening of pelvic diaphragm (levator ani muscles)
+* Damage or avulsion to endopelvic fascia
+* Disruption of the perineal body during childbirth
+* ↑ Chronic intra-abdominal pressure (e.g., chronic cough, constipation)
+
+### Endocrine Axis
+* ↓ **Oestrogen** post-menopause → urogenital atrophy
+* ↓ Collagen synthesis → intrinsic tissue laxity
 
 ## 3. Clinical Assessment (History, Abdominal, Speculum & Bimanual Exam Findings ONLY)
 
-### History
-* Bulge, dragging, or pressure sensation
-* Urinary frequency, urgency, nocturia
-* Leakage with cough, laugh, or exercise
-* Hesitancy, poor stream, or incomplete emptying
-* Need to reduce prolapse to void
-* Constipation, straining, or splinting
+### Maternal History: Prolapse Symptoms
+* Sensation of vaginal lump/bulge
+* Dragging pelvic pain/heaviness
+* Splinting vagina/perineum to void or defaecate
 * Dyspareunia
-* Previous pelvic surgery or childbirth
 
-### Examination Findings
-* General:
-  * BMI
-  * Abdominal mass
-  * Neurological signs if indicated
-* Speculum:
-  * Anterior, posterior, or apical prolapse
-  * Vaginal mucosal atrophy
-  * Ulceration or bleeding
-* Bimanual:
-  * Uterine size and mobility
-  * Pelvic mass
-  * Cervical descent
-* Cough stress test in standing or lithotomy
-* Post-void residual urine assessment
+### Maternal History: Urinary Symptoms
+* Leakage with cough/sneeze (SUI)
+* Sudden compelling desire to pass urine (UUI)
+* ↑ Urinary frequency
+* Nocturia
+* Sensation of incomplete emptying
+
+### Abdominal Exam Findings
+* Presence of large pelvic masses (e.g., fibroids, ovarian cysts)
+* Scars from previous pelvic surgery
+
+### Speculum Exam Findings (Sims Speculum)
+* Anterior wall descent (Cystocele)
+* Posterior wall descent (Rectocele/Enterocele)
+* Apical descent (Uterine/Vault prolapse)
+* Vaginal mucosal ulceration
+* Vaginal atrophy
+
+### Bimanual Exam Findings
+* ↓ Pelvic floor muscle tone (Kegel squeeze strength)
+* Absence or presence of concurrent adnexal masses
+* Signs of atrophic vaginitis (萎縮性陰道炎)
 
 ## 4. Critical Differential Diagnoses & Clinical Staging
 
-### Differential Diagnosis
-| Symptom | Differential |
-| :--- | :--- |
-| **Bulge** | Cystocele, rectocele, enterocele, fibroid |
-| **Leakage** | Stress, urge, mixed, overflow incontinence |
-| **Frequency** | UTI, overactive bladder, diabetes |
-| **Voiding difficulty** | Prolapse, neurological disease, urethral stenosis |
-| **Pelvic pain** | Endometriosis, PID, bladder pain syndrome |
+### Critical Differential Diagnoses
+* Fibroid polyp (子宮肌瘤息肉)
+* Cervical malignancy (子宮頸癌)
+* Ovarian cyst (卵巢囊腫)
+* Urinary tract infection (UTI)
+* Neurogenic bladder (神經性膀胱)
 
-### POP-Q Staging
+### Clinical Staging: POP-Q System
 | Stage | Description |
 | :--- | :--- |
-| **0** | No prolapse |
-| **1** | Most distal point >1 cm above hymen |
-| **2** | Within 1 cm of hymen |
-| **3** | >1 cm below hymen but <TVL-2 cm |
-| **4** | Complete eversion |
+| **Stage 0** | No prolapse |
+| **Stage I** | Leading edge >1 cm above hymen (< -1 cm) |
+| **Stage II** | Leading edge $\le$ 1 cm above or below hymen (-1 to +1 cm) |
+| **Stage III** | Leading edge >1 cm below hymen |
+| **Stage IV** | Complete eversion (procidentia) |
 
 ## 5. Key Investigations (Labs, Specific Ultrasound Criteria & CTG Tracings)
 
-### Essential Tests
-* Urinalysis and urine culture
-* Post-void residual urine
-* Bladder diary
-* Pad test if quantification needed
-* Renal function if severe prolapse or recurrent UTI
+### Laboratory Investigations
+* **Urinalysis**: Exclude infection/haematuria
+* **Urine Culture**: Identify specific pathogens
 
-### Urodynamics
-Indications:
-* Before continence surgery
-* Mixed incontinence
-* Previous failed surgery
-* Neurological disease
-* Significant voiding dysfunction
+### Specific Criteria & Tracings (Urodynamics)
+* **Post-void Residual (PVR) Volume**:
+  * Normal volume: < 50-100 mL
+* **Urodynamic Stress Incontinence (USI) Tracing**:
+  * Leakage observed with ↑ intra-abdominal pressure
+  * Stable detrusor pressure
+* **Detrusor Overactivity Tracing**:
+  * Spontaneous detrusor contractions during filling phase
+  * Provoked detrusor contractions during filling phase
 
-### Imaging
-* Pelvic ultrasound to exclude uterine or ovarian mass
-* MRI if complex anatomy, urethral diverticulum, or suspected levator injury
-* Anorectal physiology if faecal incontinence
+### Diagnostic Tools
+* **Urinary Diary**:
+  * 3-day fluid intake charting
+  * Voiding frequency charting
+  * Leakage episodes charting
 
 ## 6. Medical Management & Acute Stabilization (Pharmacology, Steroids, Resuscitation)
 
-### Conservative Management
-* Supervised pelvic floor muscle training for ≥3-6 months
-* Weight reduction
-* Treat constipation and chronic cough
-* Avoid heavy lifting
-* Vaginal oestrogen if atrophic
-* Pessary fitting if surgery declined or unfit
+### Pharmacology: Urgency Urinary Incontinence (急迫性尿失禁)
+* **Antimuscarinics** (e.g., Oxybutynin, Tolterodine): ↓ detrusor contractions (Avoid in narrow-angle glaucoma)
+* **Beta-3 Agonists** (e.g., Mirabegron): Relaxes detrusor smooth muscle
 
-### Pharmacotherapy for Overactive Bladder
-* Bladder training
-* Antimuscarinics:
-  * Oxybutynin
-  * Solifenacin
-  * Trospium
-* Mirabegron if antimuscarinics unsuitable
-* Topical vaginal oestrogen if atrophy contributes
+### Pharmacology: Stress Urinary Incontinence (應力性尿失禁)
+* **Duloxetine (SNRI)**: ↑ urethral sphincter tone (second-line/off-label)
+
+### Pharmacology: Pelvic Organ Prolapse
+* **Topical Oestrogen**: Reverses vaginal atrophy
+* Prevents mucosal ulceration
+
+### Acute Stabilization
+* Manual reduction of incarcerated procidentia (with osmotic agents if oedematous)
+* Acute urinary catheterization for urinary retention
 
 ## 7. Definitive Management Algorithm (Timing/Mode of Delivery OR Gynaecological Surgery)
 
-### Stress Incontinence Surgery
-* Mid-urethral sling if conservative therapy fails
-* Colposuspension if recurrent or complex
-* Bulking agents if unfit for surgery
+### Definitive Management Algorithm: Conservative
+* **Lifestyle Modifications**:
+  * Weight loss
+  * Smoking cessation
+  * Chronic constipation management
+* **Pelvic Floor Muscle Training (PFMT)**:
+  * First-line for SUI and mild POP
+  * Physiotherapist-guided Kegel exercises
+* **Bladder Training**:
+  * Scheduled voiding
+  * Urge suppression techniques
+* **Vaginal Pessary (陰道子宮托)**:
+  * Ring pessary
+  * Gellhorn pessary
 
-### Prolapse Surgery
-* Anterior repair for cystocele
-* Posterior repair for rectocele or enterocele
-* Sacrocolpopexy for vault prolapse
-* Sacrospinous fixation for vaginal vault suspension
-* Hysterectomy if uterine prolapse and family complete
-* Concomitant continence surgery if occult stress incontinence
+### Definitive Management Algorithm: Gynaecological Surgery (POP)
+* **Vaginal Hysterectomy (陰道子宮切除術)** + **Pelvic Floor Repair (PFR)**
+* **Anterior Colporrhaphy** (前陰道壁修補術)
+* **Posterior Colporrhaphy** (後陰道壁修補術)
+* **Sacrospinous Fixation** (薦棘韌帶固定術)
+
+### Definitive Management Algorithm: Gynaecological Surgery (Incontinence)
+* **SUI**: Mid-urethral Sling (e.g., TVT, TOT) - Gold standard
+* **SUI**: Burch Colposuspension
+* **Refractory UUI**: Intra-vesical Botulinum toxin A (Botox) injections
+* **Refractory UUI**: Percutaneous Tibial Nerve Stimulation (PTNS)
 
 ## 8. Post-partum/Post-operative Care, Contraception & Follow-up
 
-### After Sling Surgery
-* Monitor voiding and residual urine
-* Avoid heavy lifting for 6 weeks
-* Review continence outcome
-* Assess for retention or erosion
+### Post-operative Care
+* Trial of Void (TOV) prior to discharge
+* Catheterization if PVR > 100 mL
+* Stool softeners to prevent straining
+* Oral analgesia
 
-### After Prolapse Surgery
-* Vaginal oestrogen if atrophic
-* Pelvic floor physiotherapy
-* Treat constipation
-* Long-term follow-up for recurrence
-* Counsel on sexual function
+### Contraception
+* Unaffected by urogynaecological procedures
+* Standard WHO medical eligibility criteria apply
+
+### Follow-up
+* Routine HA clinic assessment at 6-8 weeks post-op
+* Assess vaginal vault healing
+* Evaluate continence status objectively
+* Screen for vaginal mesh erosion/extrusion
 
 ## 9. Maternal, Fetal & Gynaecological Complications
 
-### Maternal Complications
-* Recurrent UTI
-* Urinary retention
-* Renal impairment in severe prolapse
-* Lymphoedema after extensive surgery
-* Mesh-related complications
+### Gynaecological Complications (Prolapse)
+* Vaginal mucosal ulceration
+* Vaginal bleeding
+* Hydronephrosis (due to ureteric kinking)
+* Recurrent UTIs
 
-### Gynaecological Complications
-* Recurrent prolapse
-* Dyspareunia
-* Vaginal stenosis
-* Bladder or bowel injury during surgery
+### Gynaecological Complications (Post-operative: Mid-urethral Slings)
+* Bladder or urethral perforation
+* Voiding dysfunction / retention
+* Mesh erosion or extrusion
+* De novo urgency
+
+### Gynaecological Complications (Post-operative: POP Repair)
+* Dyspareunia (due to excessive vaginal narrowing)
+* Recurrence of prolapse
+* Vault haematoma
 
 ## 10. Examiner's Pearls
 
-* Viva Question: What are the main types of urinary incontinence? Answer: Stress, urge, mixed, and overflow incontinence.
-* Trap: Offering immediate surgery for mild prolapse. Pearl: Start with pelvic floor training.
-* Pitfall: Missing urinary retention in severe prolapse. Check post-void residual.
-* Viva Question: When is urodynamics indicated? Answer: Before continence surgery, mixed incontinence, previous failed surgery, or neurological disease.
-* Pitfall: Failing to treat constipation before prolapse surgery. This increases recurrence.
+* Viva Question: How do you differentiate Stress Urinary Incontinence from Urgency Urinary Incontinence clinically? Answer: SUI is triggered by physical exertion without urge; UUI is leakage preceded by a sudden, compelling desire to pass urine.
+* Trap: Proceeding straight to surgery for SUI without attempting conservative measures. Pearl: A trial of Pelvic Floor Muscle Training (PFMT) for $\ge$ 3 months is ALWAYS first-line therapy for SUI.
+* Pitfall: Failing to exclude a UTI in a patient presenting with new-onset urinary incontinence. Treat the infection with appropriate antibiotics before diagnosing a primary overactive bladder or stress incontinence disorder.

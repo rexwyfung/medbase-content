@@ -2,287 +2,159 @@
 
 ## 1. Clinical Definition, Gestational Context & Local Epidemiology
 
-### Definitions and Reproductive Transition
-* **Climacteric:** physiological transition from reproductive to non-reproductive life
-* Includes:
-  * Perimenopause
-  * Menopause
-  * Postmenopause
-* **Menopause:** permanent amenorrhoea for **12 months** without another cause
-* Average age of natural menopause: **49-52 years**
-* **Premature ovarian insufficiency (POI):** menopause before **40 years**
+### Definition of Climacteric and Menopause
+* **Climacteric (更年期)**: Transitional phase from reproductive to non-reproductive state → encompassing perimenopause and early postmenopause.
+* **Menopause (絕經)**: Retrospective clinical diagnosis → exactly **12 consecutive months** of amenorrhea lacking pathological/physiological cause.
+* **Premature Ovarian Insufficiency (POI) (早發性卵巢功能衰竭)**: Menopause occurring at age <40 years.
+* **Perimenopause (圍絕經期)**: Period immediately prior to menopause + 1st year after menopause → characterized by endocrine fluctuations and irregular cycles.
 
-### Local Epidemiology
-* Common symptoms:
-  * Vasomotor symptoms
-  * Sleep disturbance
-  * Mood changes
-  * Genitourinary syndrome of menopause
-* Longer life expectancy means women spend ~one-third of life postmenopausal
-* Bone and cardiovascular prevention are important in Hong Kong’s ageing female population
+### Local Hong Kong Epidemiology
+* Average age of menopause in HK Chinese women: **51 years**.
+* Average duration of perimenopausal transition: 4-5 years.
+* Most common symptom prompting HA outpatient clinic attendance: Vasomotor symptoms (Hot flushes).
 
 ## 2. Pathophysiology, Endocrine Axis & Pelvic Anatomy (Maternal-Fetal Physiology)
 
-### Endocrine Transition
-* Perimenopause:
-  * Variable ovarian function
-  * Fluctuating oestradiol
-  * Elevated FSH
-* Menopause:
-  * Ovarian follicle depletion
-  * ↓ oestradiol
-  * ↓ inhibin B
-  * ↑ FSH and LH
-* Postmenopause:
-  * Persistent hypoestrogenism
+### Ovarian Follicular Depletion
+* Exhaustion of finite primordial follicle pool in **Ovaries (卵巢)**.
+* Remaining follicles demonstrate ↓ responsiveness to gonadotropins.
+* Granulosa cells undergo apoptosis → profound ↓ in **Inhibin B (抑制素B)** and **Anti-Müllerian Hormone (AMH)**.
 
-### Tissue Effects of Oestrogen Deficiency
-* Genitourinary:
-  * Vaginal dryness
-  * Thin vaginal epithelium
-  * Loss of rugae
-  * Dyspareunia
-  * Recurrent UTI
-* Bone:
-  * Increased osteoclast activity
-  * Rapid bone loss in first 5-10 years after menopause
-* Metabolic:
-  * Unfavourable lipid changes
-  * Increased visceral adiposity
-  * Increased insulin resistance
-* Cardiovascular:
-  * Loss of oestrogen-mediated vascular protection
+### Hypothalamic-Pituitary-Ovarian Axis Alterations
+* ↓ Inhibin B → loss of negative feedback on anterior pituitary.
+* Progressive ↑ **Follicle-Stimulating Hormone (FSH) (促卵泡激素)**.
+* Erratic, then eventually ↓ **Estradiol (E2) (雌二醇)** production.
+* Postmenopausal estrogen primarily derived from peripheral aromatization of adrenal androgens (androstenedione → estrone) in adipose tissue.
 
 ## 3. Clinical Assessment (History, Abdominal, Speculum & Bimanual Exam Findings ONLY)
 
-### Vasomotor Symptoms
-* Hot flushes
-* Night sweats
-* Sleep disturbance
-* Palpitations
+### Vasomotor and Menstrual History
+* Irregular menstrual bleeding: Changes in frequency, duration, or flow volume.
+* Vasomotor symptoms: Hot flushes (sudden heat in face/chest → spreading globally), night sweats.
+* Sleep disturbance and subsequent daytime fatigue.
 
-### Genitourinary Symptoms
-* Vaginal dryness
-| Dyspareunia
-* Reduced lubrication
-* Recurrent urinary tract infection
-* Urgency or frequency
-* Urinary incontinence
+### Urogenital and Psychological History
+* **Genitourinary Syndrome of Menopause (GSM) (絕經期泌尿生殖系統綜合症)**: Vaginal dryness, dyspareunia, pruritus vulvae.
+* Urinary symptoms: Urgency, frequency, recurrent UTI, stress/urge incontinence.
+* Mood alterations: Irritability, anxiety, depressive symptoms, ↓ libido, cognitive changes (memory lapses).
 
-### Psychological and Cognitive Symptoms
-* Mood swings
-* Irritability
-* Anxiety
-* Low mood
-* Poor concentration
-* Fatigue
-* Reduced libido
+### Speculum Examination Findings
+* **Atrophic Vaginitis (萎縮性陰道炎)**: Pale, smooth, thin, shiny vaginal mucosa.
+* Loss of normal vaginal rugae.
+* Presence of mucosal petechiae or contact bleeding.
+* Scanty, watery, or absent vaginal secretions.
+* Retracted, flush, or stenotic cervical os.
 
-### Examination
-* Skin changes:
-  * Dryness
-  * Reduced elasticity
-* Breast examination
-* Blood pressure, BMI, waist circumference
-* Speculum:
-  * Pale, smooth, shiny vagina
-  * Loss of rugae
-  * Petechiae
-  * Dryness
-* Bimanual:
-  * Atrophic vagina
-  * Small uterus
-  * Exclude pelvic mass or prolapse
+### Bimanual Pelvic Examination Findings
+* Uterus: Decreased in size, firm consistency, restricted mobility (due to ligamentous atrophy).
+* Ovaries: Non-palpable. 
+* Adnexa: Absence of fullness/tenderness.
 
 ## 4. Critical Differential Diagnoses & Clinical Staging
 
-### Differential Diagnosis of Amenorrhoea
-* Pregnancy
-* Thyroid dysfunction
-* Hyperprolactinaemia
-* POI
-* PCOS
-* Asherman syndrome
-* Hypothalamic amenorrhoea
+### STRAW+10 (Stages of Reproductive Aging Workshop) Staging
+| Stage | Nomenclature | Menstrual Characteristics | Endocrine Profile |
+| :--- | :--- | :--- | :--- |
+| **-2** | Early Perimenopause | Variable cycle length (≥7 days diff from normal) | ↑ FSH (variable) |
+| **-1** | Late Perimenopause | Interval of amenorrhea ≥60 days | ↑ FSH (consistent) |
+| **0** | **Menopause** | Final Menstrual Period (FMP) | N/A |
+| **+1a/b/c** | Early Postmenopause | First 6 years post-FMP | ↑↑ FSH, ↓↓ Estradiol |
+| **+2** | Late Postmenopause | >6 years post-FMP until death | Stabilized elevated FSH |
 
-### Differential Diagnosis of Vasomotor Symptoms
-* Thyrotoxicosis
-* Anxiety/panic disorder
-* Carcinoid syndrome
-* Phaeochromocytoma
-* Medication side effects
-
-### Differential Diagnosis of Postmenopausal Bleeding
-* Atrophic vaginitis
-* Endometrial polyp
-* Endometrial hyperplasia
-* Endometrial cancer
-* Cervical cancer
-* Hormone therapy effect
-
-### STRAW Staging Concept
-* Late reproductive stage: variable cycle length
-* Early menopause transition: persistent >7-day cycle difference
-* Late menopause transition: ≥60 days amenorrhoea
-* Early postmenopause: first 6 years
-* Late postmenopause: thereafter
+### Differential Diagnoses for Secondary Amenorrhea/Oligomenorrhea
+* Pregnancy (always exclude first).
+* Thyroid dysfunction (Hyper/Hypothyroidism).
+* Hyperprolactinemia (Pituitary micro/macroadenoma).
+* Polycystic Ovary Syndrome (PCOS) (多囊卵巢綜合症).
+* Endometrial pathology (Asherman's syndrome, TB endometritis).
 
 ## 5. Key Investigations (Labs, Specific Ultrasound Criteria & CTG Tracings)
 
-### Baseline Tests
-* FSH and oestradiol if diagnosis uncertain
-* TSH
-* CBC
-* Fasting glucose or HbA1c
-* Lipid profile
-| Liver function if HRT considered
-* Blood pressure and BMI
+### Endocrine Laboratory Investigations
+* **FSH**: >30 IU/L on two occasions (4-6 weeks apart) indicates ovarian failure (only strictly required for diagnosis if <45 years old).
+* **hCG**: Negative (to exclude pregnancy).
+* **Thyroid Function Tests (TSH, Free T4)**: To rule out thyroid etiology for menstrual irregularity/vasomotor symptoms.
+* **Prolactin**: If galactorrhea or secondary amenorrhea present.
 
-### Imaging
-* DXA bone densitometry if risk factors for osteoporosis:
-  * Age >65
-  * Early menopause
-  * Low BMI
-  * Previous fragility fracture
-  * Parental hip fracture
-  * Smoking
-  * Long-term corticosteroids
-* Pelvic ultrasound if abnormal bleeding, pelvic mass, or suspected POI with amenorrhoea
-* Mammography according to local breast screening programme
+### Transvaginal Ultrasound (TVS) Criteria
+* **Endometrial Thickness (ET)**: Normal postmenopausal ET ≤4 mm.
+* ET >4 mm + postmenopausal bleeding → requires urgent endometrial sampling.
+* Small, atrophic uterus with featureless ovaries (lacking dominant follicles).
 
-### Postmenopausal Bleeding Investigation
-* Transvaginal ultrasound
-* Endometrial sampling if:
-  * Endometrial thickness >4 mm
-  * Persistent bleeding
-  * Risk factors for endometrial cancer
-* Hysteroscopy if focal lesion or failed biopsy
+### Bone Mineral Density (BMD) Assessment
+* Dual-Energy X-ray Absorptiometry (DEXA).
+* T-score definition: 
+  * Normal: ≥ -1.0
+  * Osteopenia: -1.0 to -2.5
+  * **Osteoporosis**: ≤ -2.5.
 
 ## 6. Medical Management & Acute Stabilization (Pharmacology, Steroids, Resuscitation)
 
-### Lifestyle Measures
-* Regular weight-bearing exercise
-* Resistance training
-* Adequate calcium and vitamin D
-* Smoking cessation
-* Reduce alcohol and caffeine if hot flushes
-* Sleep hygiene
-| Weight control
+### Systemic Hormone Replacement Therapy (HRT) (荷爾蒙補充療法) Pharmacology
+* **Estrogen**: Systemic symptom relief (vasomotor, bone protection). Oral (Estradiol valerate), Transdermal patches, or Gels.
+* **Progestogen**: Strictly required if uterus is present to prevent endometrial hyperplasia. Oral (Medroxyprogesterone acetate, Norethisterone, Dydrogesterone) or Intrauterine (Levonorgestrel IUS - Mirena).
+* **Tibolone**: Synthetic steroid with mixed estrogenic, progestogenic, and androgenic properties.
 
-### Non-Hormonal Pharmacotherapy
-* Vasomotor symptoms:
-  * SSRIs/SNRIs
-  * Gabapentin
-  * Clonidine
-  * Fezolinetant in selected settings
-* Osteoporosis:
-  * Bisphosphonates
-  * Denosumab
-  * Selective oestrogen receptor modulators
-* Vaginal symptoms:
-  * Non-hormonal moisturisers
-  * Vaginal oestrogen if no contraindication
+### Local Urogenital Pharmacotherapy
+* **Topical Estrogen**: Vaginal creams, pessaries, or rings (e.g., Promestriene, Estriol). Efficacious for GSM without causing systemic endometrial proliferation.
+* Vaginal moisturizers and lubricants (non-hormonal) for dyspareunia.
 
-### Hormone Replacement Therapy
-* Most effective treatment for vasomotor symptoms
-* Types:
-  * Combined oestrogen-progestogen if uterus present
-  * Oestrogen-only if hysterectomy done
-* Routes:
-  * Oral
-  * Transdermal
-  * Vaginal ring/patch/gel
-  * Local vaginal oestrogen for genitourinary symptoms
-* Contraindications:
-  * Oestrogen-dependent cancer
-  * Unexplained vaginal bleeding
-  * Active VTE
-  | Severe liver disease
-  * History of breast cancer
-* Transdermal oestrogen may have lower VTE risk than oral
+### Non-Hormonal Pharmacological Alternatives
+* Vasomotor symptom management when HRT contraindicated:
+  * **SSRIs/SNRIs**: Venlafaxine, Paroxetine.
+  * **Gabapentin**: Anti-epileptic, effectively ↓ hot flushes.
+  * **Clonidine**: Alpha-2 agonist.
 
 ## 7. Definitive Management Algorithm (Timing/Mode of Delivery OR Gynaecological Surgery)
 
-### Management by Symptom Dominance
-* Vasomotor symptoms:
-  * HRT if no contraindication
-  * Non-hormonal alternatives if HRT unsuitable
-* Genitourinary symptoms:
-  * Local vaginal oestrogen first-line
-  * Moisturisers and lubricants
-* Osteoporosis:
-  * Lifestyle + calcium/vitamin D
-  * Bisphosphonates or denosumab if high fracture risk
-* Mood symptoms:
-  * CBT
-  * Antidepressants if moderate-severe depression
-  * Assess suicide risk
+### HRT Regimen Selection Algorithm
+| Patient Status | Recommended Regimen | Bleeding Pattern |
+| :--- | :--- | :--- |
+| **Uterus Absent** (Post-hysterectomy) | **Estrogen-only HRT** (Continuous) | Amenorrhea |
+| **Perimenopausal** (LMP <12 months ago) | **Sequential Combined HRT** (Daily Estrogen + Progestogen for 10-14 days/month) | Predictable withdrawal bleed |
+| **Postmenopausal** (LMP >12 months ago) | **Continuous Combined HRT** (Daily Estrogen + Daily Progestogen) OR Tibolone | Amenorrhea (spotting common in first 3-6 months) |
 
-### POI Management
-* Use HRT until at least age 50 unless contraindicated
-* Fertility counselling:
-  * Donor oocyte
-  * Adoption
-  * Fertility preservation if early POI risk before depletion
-* Address cardiovascular and bone risks
-
-### Postmenopausal Bleeding Pathway
-* Exclude pregnancy in perimenopause
-* Transvaginal ultrasound
-* Endometrial sampling if indicated
-* Hysteroscopy if focal lesion or persistent bleeding
-* Treat underlying cause:
-  * Atrophy: vaginal oestrogen
-  * Polyp: hysteroscopic polypectomy
-  | Hyperplasia: progestogen/LNG-IUS or hysterectomy
-  * Cancer: oncology referral
+### Absolute Contraindications to Systemic HRT
+* Undiagnosed vaginal bleeding.
+* Active or past history of **Breast Cancer (乳癌)**.
+* Active or past history of Estrogen-dependent cancer (e.g., Endometrial cancer).
+* Active or recent venous thromboembolism (VTE) / Deep Vein Thrombosis (DVT).
+* Active liver disease with abnormal LFTs.
+* Uncontrolled hypertension.
 
 ## 8. Post-partum/Post-operative Care, Contraception & Follow-up
 
-### Contraception in Perimenopause
-* Continue contraception for:
-  * 2 years after last period if age <50
-  * 1 year after last period if age ≥50
-* Preferred options:
-  * Levonorgestrel IUS
-  * Progestogen-only pill
-  * Condoms
-* Combined hormonal contraception usually avoided after 50 or if vascular risk factors
+### Perimenopausal Contraception Guidelines (FPAHK)
+* Contraception must be continued until absolute confirmation of menopause.
+* If menopause occurs **<50 years**: Continue contraception for **2 years** post-FMP.
+* If menopause occurs **>50 years**: Continue contraception for **1 year** post-FMP.
+* Non-hormonal barrier methods or Levonorgestrel IUS (Mirena) preferred. Combined Oral Contraceptives (COCs) generally avoided >35 yrs if smoking/obese due to VTE risk.
 
-### Long-term Follow-up
-* Annual BP, BMI, glucose, lipid assessment
-* Bone density monitoring if osteoporosis risk
-| Breast screening
-* Review HRT annually:
-  * Lowest effective dose
-  * Continue only if benefits outweigh risks
-* Assess cardiovascular and cognitive health
+### Routine Follow-up and Health Screening (MCHC)
+* Annual clinical evaluation of HRT efficacy and side effects.
+* Regular **Breast Screening**: Mammogram every 2 years for women aged 44-69.
+* Regular **Cervical Screening**: Smear test every 3 years.
+* Cardiovascular risk stratification: Annual BP monitoring, fasting glucose, and lipid profile.
 
 ## 9. Maternal, Fetal & Gynaecological Complications
 
-### Maternal and Systemic Complications
-* Osteoporosis
-* Fragility fracture
-* Ischaemic heart disease
-* Stroke
-* Diabetes/metabolic syndrome
-* Depression and anxiety
-* Sexual dysfunction
+### Skeletal Complications
+* **Osteoporosis (骨質疏鬆症)**: Accelerated trabecular bone loss due to ↑ osteoclast activity (loss of estrogen-mediated osteoclast inhibition).
+* ↑ Risk of fragility fractures (Colles' fracture, vertebral crush fractures, Neck of Femur fractures).
+
+### Cardiovascular and Neurocognitive Risks
+* **Cardiovascular Disease (心血管疾病)**: Loss of cardioprotective effect of estrogen → unfavorable lipid profile (↑ LDL, ↓ HDL, ↑ Triglycerides). Postmenopausal risk equates to male risk.
+* ↑ Risk of stroke and ischemic heart disease.
+* Potential association with early cognitive decline and Alzheimer's disease (complex/debated relationship).
 
 ### Gynaecological Complications
-* Genitourinary syndrome of menopause
-* Recurrent UTI
-* Urinary incontinence
-* Pelvic organ prolapse
-* Endometrial cancer risk if unopposed oestrogen used
+* Genital tract prolapse secondary to prolonged hypoestrogenism and pelvic floor atrophy.
+* Atrophic vaginitis leading to dyspareunia and relationship distress.
+* Postmenopausal Bleeding (PMB) requiring mandatory exclusion of endometrial malignancy.
 
 ## 10. Examiner's Pearls
 
-* Viva Question: How is menopause diagnosed? Answer: 12 months of amenorrhoea after age 45 without another cause.
-* Trap: Using combined oral contraceptive in a smoker over 35 years. Pearl: Choose progestogen-only or non-hormonal contraception.
-* Pitfall: Treating POI with calcium alone. Pearl: Systemic HRT is usually indicated until age 50.
-* Viva Question: When should contraception stop after menopause? Answer: 2 years after last period if <50, 1 year if ≥50.
-* Pitfall: Missing endometrial cancer in postmenopausal bleeding. Investigate even if symptoms suggest atrophy.
-* Trap: Using oral oestrogen in a woman with previous VTE. Pearl: Avoid systemic oestrogen; consider non-hormonal therapy.
-
-
+* Viva Question: How do you diagnose menopause in a 52-year-old woman presenting with 14 months of amenorrhea? Answer: It is a clinical retrospective diagnosis; no laboratory tests (FSH) are required for women >45 years with typical symptoms and 12 months of amenorrhea.
+* Trap: Prescribing estrogen-only HRT to a woman who still has her uterus to treat hot flushes. Pearl: Unopposed estrogen therapy in a woman with an intact uterus significantly increases the risk of endometrial hyperplasia and adenocarcinoma. Always prescribe continuous or sequential combined HRT.
+* Pitfall: Reassuring a postmenopausal woman that her new-onset vaginal bleeding is "just atrophic vaginitis" without investigation. Always investigate postmenopausal bleeding (PMB) with transvaginal ultrasound (to assess endometrial thickness) and endometrial biopsy to exclude endometrial cancer, regardless of a high clinical suspicion of atrophy.
+* Viva Question: When should continuous combined HRT be initiated instead of sequential combined HRT? Answer: Continuous combined HRT should only be started at least 12 months after the last menstrual period (postmenopausal) to avoid erratic breakthrough bleeding.

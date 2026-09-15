@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e9a955a95b024f5e",
+        "id": "38758e6b4c1fd3dd",
         "type": "tabs",
         "children": [
           {
-            "id": "e07288ace18892cb",
+            "id": "de2dd542a7c18264",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obstetrics-and-gynaecology/urogynaecology.md",
+                "file": "obstetrics-and-gynaecology/hypertensive_disorders_of_pregnancy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "urogynaecology"
+              "title": "hypertensive_disorders_of_pregnancy"
+            }
+          },
+          {
+            "id": "8cdd5381b3f0b301",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obstetrics-and-gynaecology/climacteric.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "climacteric"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,9 +234,17 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "e07288ace18892cb",
+  "active": "8cdd5381b3f0b301",
   "lastOpenFiles": [
     "obstetrics-and-gynaecology/hypertensive_disorders_of_pregnancy.md",
+    "obstetrics-and-gynaecology/ovarian_cancer.md",
+    "family-medicine/hypertension.md",
+    "obstetrics-and-gynaecology/urogynaecology.md",
+    "obstetrics-and-gynaecology/endometrial_cancer.md",
+    "obstetrics-and-gynaecology/vulvovaginal_cancer.md",
+    "obstetrics-and-gynaecology/subfertility.md",
+    "obstetrics-and-gynaecology/genital_tract_infection.md",
+    "obstetrics-and-gynaecology/cervical_cancer_and_screening.md",
     "obstetrics-and-gynaecology/benign_uterine_tumours.md",
     "obstetrics-and-gynaecology/benign_ovarian_tumours_pelvic_mass.md",
     "obstetrics-and-gynaecology/endometriosis.md",
@@ -225,19 +258,11 @@
     "obstetrics-and-gynaecology/multiple_pregnancy.md",
     "obstetrics-and-gynaecology/antepartum_haemorrhage.md",
     "obstetrics-and-gynaecology/malpresentation.md",
-    "obstetrics-and-gynaecology/endometrial_cancer.md",
     "obstetrics-and-gynaecology/abnormal_labour.md",
     "obstetrics-and-gynaecology/benign_vulvovaginal_cervical_conditions.md",
     "obstetrics-and-gynaecology/paediatric_and_adolescent_gynaecology.md",
     "obstetrics-and-gynaecology/clinical_approach_to_symptoms_in_pregnancy.md",
-    "obstetrics-and-gynaecology/pre_existing_and_coincidental_diseases_in_pregnancy.md",
     "obstetrics-and-gynaecology/Obs and Gyn Handbook - 20251229.pdf",
-    "orthopaedics/septic_arthritis_osteomyelitis.md",
-    "obstetrics-and-gynaecology/climacteric.md",
-    "obstetrics-and-gynaecology/vulvovaginal_cancer.md",
-    "obstetrics-and-gynaecology/ovarian_cancer.md",
-    "obstetrics-and-gynaecology/cervical_cancer_and_screening.md",
-    "obstetrics-and-gynaecology/subfertility.md",
     "obstetrics-and-gynaecology",
     "family-medicine",
     "orthopaedics",
