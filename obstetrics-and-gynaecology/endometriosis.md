@@ -2,181 +2,119 @@
 
 ## 1. Clinical Definition, Gestational Context & Local Epidemiology
 
-### Definition and Lesion Types
-* **Endometriosis:** endometrial-like tissue outside the uterine cavity
-* Common sites:
-  * Ovaries
-  * Pouch of Douglas
-  * Uterosacral ligaments
-  * Rectovaginal septum
-  * Bladder
-* **Endometrioma:** ovarian endometriotic cyst, “chocolate cyst”
-
-### Local Epidemiology
-* Affects ~2-10% of reproductive-age women
-* Found in up to 50% of subfertile women
-* Symptoms often begin in adolescence
+### Definition & Scope of Endometriosis
+* **Definition**: Presence of functional endometrial-like tissue (glands & stroma) outside the uterine cavity.
+* **Characteristics**: Estrogen-dependent, chronic inflammatory condition.
+* **Epidemiology**: Affects ~10% of reproductive-aged women; up to 50% in women with subfertility or chronic pelvic pain.
 
 ## 2. Pathophysiology, Endocrine Axis & Pelvic Anatomy (Maternal-Fetal Physiology)
 
-### Pathogenetic Theories
-* Retrograde menstruation
-* Coelomic metaplasia
-* Lymphatic/vascular spread
-* Stem cell theory
-* Immune dysregulation
+### Pathophysiology & Endocrine Drivers
+* **Sampson's Theory**: Retrograde menstruation → viable endometrial cells implant on peritoneal surfaces.
+* **Coelomic Metaplasia**: Transformation of multipotent peritoneal cells into endometrial tissue.
+* **Endocrine Axis**: ↑ localized aromatase activity → ↑ local estrogen production → stimulates lesion growth.
+* **Inflammatory Axis**: ↑ COX-2 activity → ↑ PGE2 → chronic pelvic inflammation & pain.
 
-### Inflammation and Pain Mechanism
-* Ectopic endometrium responds to ovarian hormones
-* Cyclical bleeding → inflammation
-* Dense adhesions and fibrosis
-* Deep infiltrating disease may involve rectum, ureter, or bladder
+### Pelvic Anatomy & Common Implantation Sites
+* **Most Common Sites**: Ovaries (Endometrioma / 巧克力囊腫), Pouch of Douglas (德氏陷凹), Uterosacral ligaments (子宮骶韌帶), Broad ligament.
+* **Extra-pelvic Sites**: Bowel, bladder, umbilicus, surgical scars (e.g., LSCS scar), pleural cavity (rare).
+* **Anatomical Sequelae**: Chronic inflammation → dense fibrous adhesions (骨盆腔沾黏) → distortion of pelvic anatomy & blocked fallopian tubes.
 
 ## 3. Clinical Assessment (History, Abdominal, Speculum & Bimanual Exam Findings ONLY)
 
-### Key Symptoms
-* **Dysmenorrhoea**
-* Deep dyspareunia
-* Chronic pelvic pain
-* Dyschezia
-* Cyclical urinary symptoms
-* Infertility
-* Fatigue
+### Characteristic Maternal History
+* **Classic 3Ds**: Dysmenorrhoea (痛經) (secondary, progressive), Dyspareunia (性交痛) (deep), Dyschezia (排便痛).
+* **Menstrual**: Heavy menstrual bleeding (Menorrhagia), cyclical pelvic pain.
+* **Other**: Subfertility, cyclical dysuria / haematuria (bladder involvement).
 
-### Examination Findings
-* Fixed retroverted uterus
-* Nodularity in pouch of Douglas
-* Tender uterosacral ligaments
-* Adnexal mass if endometrioma
-* Reduced uterine mobility
-* Rectal bleeding or haematuria if deep infiltrating disease
+### Abdominal & Speculum Examination Findings
+* **Abdominal**: Often normal; may reveal lower abdominal tenderness or palpable mass (if large endometrioma).
+* **Speculum**: Rarely visible bluish / powder-burn nodules in the posterior vaginal fornix.
 
-## 4. Critical Differential Diagnoses & Clinical Staging
+### Bimanual Examination Findings
+* **Uterus**: Fixed, retroverted uterus (子宮後傾) due to dense posterior adhesions.
+* **Adnexa**: Palpable, tender adnexal mass (ovarian endometrioma).
+* **Ligaments/Cul-de-sac**: Palpable nodularity & tenderness along uterosacral ligaments and Pouch of Douglas.
+* **Cervix**: Cervical excitation pain (+ve).
 
-### Differential Diagnosis
-* Adenomyosis
-* PID
-* Irritable bowel syndrome
-* Interstitial cystitis
-* Ovarian cancer
-* Ectopic pregnancy
-* Fibroid
+## 4. Critical Differential Diagnoses & Clinical Staging 
 
-### rASRM Staging
-* **Stage I:** minimal
-* **Stage II:** mild
-* **Stage III:** moderate
-* **Stage IV:** severe
-* Staging correlates poorly with pain severity
+### Key Differential Diagnoses
+* **Gynaecological**: Pelvic Inflammatory Disease (PID) (骨盆腔炎), Adenomyosis (子宮肌腺症), Ovarian cysts, Ectopic pregnancy.
+* **Non-Gynaecological**: Irritable Bowel Syndrome (IBS), Interstitial cystitis, Appendicitis.
+
+### ASRM Clinical Staging System for Endometriosis
+| Stage (FIGO/ASRM) | Severity | Anatomical Findings |
+|---|---|---|
+| I | Minimal | Isolated superficial lesions, no significant adhesions |
+| II | Mild | Superficial lesions <5cm scattered on peritoneum/ovaries, mild adhesions |
+| III | Moderate | Deep lesions + endometriomas on ovaries, dense adhesions |
+| IV | Severe | Large/multiple endometriomas, extensive dense adhesions, cul-de-sac obliteration |
 
 ## 5. Key Investigations (Labs, Specific Ultrasound Criteria & CTG Tracings)
 
-### Imaging Findings
-* Transvaginal ultrasound:
-  * Endometrioma: homogeneous low-level echoes, “ground glass” appearance
-  * No papillary projections
-  * Poor vascularity
-* MRI for deep infiltrating disease
-* Transrectal ultrasound or MRI if rectal involvement suspected
+### Laboratory Investigations
+* **Serum CA-125**: May be mildly ↑; non-specific diagnostic tool but useful for baseline & post-op monitoring.
 
-### Laparoscopy
-* Gold standard for diagnosis
-* Appearance:
-  * Powder-burn implants
-  * Red/flame lesions
-  * Chocolate cysts
-  * Adhesions
-* Biopsy confirms diagnosis
+### Transvaginal Ultrasound (TVS) Criteria
+* **Ovarian Endometrioma**: Unilocular cyst with homogeneous low-level echogenicity ("ground-glass" appearance).
+* **Mobility**: "Kissing ovaries" sign (bilateral endometriomas meeting in midline → indicates dense adhesions).
+* **Vascularity**: Avascular internal fluid; normal peripheral ovarian parenchyma blood flow.
+
+### Magnetic Resonance Imaging (MRI) Criteria
+* **Endometrioma**: T1 hyperintense + T2 hypointense ("shading sign").
+* **Deep Infiltrating Endometriosis (DIE)**: Hypointense fibrotic nodules infiltrating bowel/bladder/uterosacral ligaments.
 
 ## 6. Medical Management & Acute Stabilization (Pharmacology, Steroids, Resuscitation)
 
-### Pain Relief
-* NSAIDs
-* Paracetamol
-* Heat and lifestyle measures
+### Acute Analgesia & First-Line Medical Therapy
+* **Goal**: Pain relief & suppression of ovarian estrogen production (induce endometrial atrophy).
+* **Analgesia**: NSAIDs (e.g., Mefenamic acid) for dysmenorrhoea.
+* **First-Line Suppression**: Continuous Combined Oral Contraceptive Pills (COCP) (避孕藥) or continuous oral Progestogens (e.g., Norethisterone, Dienogest).
 
-### Hormonal Suppression
-* Combined oral contraceptive
-* Progestogens:
-  * Norethisterone
-  * Medroxyprogesterone
-  * Dienogest
-* Levonorgestrel intrauterine system
-* GnRH agonist ± add-back therapy for up to 6 months
+### Second-Line Medical Therapy (Specialist Prescribed)
+* **GnRH Agonists**: Goserelin / Leuprorelin (subcutaneous/IM) → downregulates HPO axis → pseudomenopause.
+* **Add-Back Therapy**: Low-dose HRT (estrogen + progestogen) MUST be given alongside GnRH agonists if used >6 months to prevent osteoporosis & severe vasomotor symptoms.
+* **Intrauterine Device**: Levonorgestrel-releasing IUS (Mirena) → provides direct endometrial atrophy.
 
 ## 7. Definitive Management Algorithm (Timing/Mode of Delivery OR Gynaecological Surgery)
 
-### Surgical Management
-* **Ovarian cystectomy** preferred over drainage/coagulation
-* Excision/ablation of implants
-* Adhesiolysis
-* Laparoscopy preferred
-* Hysterectomy with bilateral salpingo-oophorectomy if family complete and symptoms refractory
+### Surgical Diagnostic & Therapeutic Principles
+* **Gold Standard**: Laparoscopy (腹腔鏡) for definitive histological diagnosis & simultaneous treatment.
+* **Visual Appearance**: "Powder-burn" lesions, clear vesicles, or red flame-like lesions.
 
-### Fertility Management
-* Laparoscopic excision improves mild-moderate disease
-* Medical therapy does not improve fertility
-* Consider IVF if severe disease, tubal damage, male factor, or advanced maternal age
+### Conservative Surgical Management (Fertility Sparing)
+* **Goal**: Restore normal pelvic anatomy, excise lesions, preserve ovarian reserve.
+* **Techniques**: Laparoscopic excision/ablation of endometriotic implants, adhesiolysis.
+* **Endometrioma**: Laparoscopic cystectomy (stripping of cyst wall) is superior to ablation for ↓ recurrence and ↑ spontaneous pregnancy rates.
+
+### Definitive Surgical Management
+* **Indication**: Severe refractory symptoms, family completed, extensive pelvic involvement.
+* **Procedure**: Total Abdominal/Laparoscopic Hysterectomy + Bilateral Salpingo-Oophorectomy (TAHBSO) (全子宮及雙側卵巢輸卵管切除術).
 
 ## 8. Post-partum/Post-operative Care, Contraception & Follow-up
 
-### After Cystectomy
-* Monitor ovarian reserve
-* Adhesion prevention
-* Consider hormonal suppression to reduce recurrence
+### Post-Operative Care & Prevention of Recurrence
+* **Medical Continuation**: Immediate post-op initiation of COCP or LNG-IUS (Mirena) significantly ↓ risk of symptom & endometrioma recurrence if fertility is not immediately desired.
+* **Fertility Follow-up**: If subfertile, recommend early assisted reproductive technology (ART / IVF) post-surgery within 1-2 years due to high recurrence rate.
 
-### Long-term Follow-up
-* Symptom recurrence is common
-* Monitor renal function if ureteric involvement
-* Screen for ovarian cancer if atypical cyst
-* Psychological support and pain clinic referral if refractory
+### Long-Term Monitoring
+* **Review**: Annual clinical review for symptom recurrence.
+* **Imaging**: Serial TVS monitoring for asymptomatic recurrence of endometriomas.
 
 ## 9. Maternal, Fetal & Gynaecological Complications
 
-### Maternal Complications
-* Chronic pain
-* Depression and anxiety
-* Infertility
-* Recurrence after surgery
-* Ovarian reserve loss after cystectomy
+### Gynaecological & Fertility Complications
+* **Subfertility**: Distorted tubal anatomy, hostile inflammatory peritoneal fluid affecting sperm motility & oocyte quality.
+* **Acute Abdomen**: Spontaneous rupture of endometrioma or ovarian torsion.
+* **Oncological**: Mild ↑ risk of clear cell and endometrioid ovarian carcinomas.
 
-### Gynaecological Complications
-* Adhesions
-* Rectovaginal fistula after deep infiltrating surgery
-* Ureteric injury
-* Ovarian endometrioma rupture
-* Slightly increased clear cell ovarian cancer risk
+### Pregnancy-Related Complications
+* **Physiological Impact**: Symptoms typically improve during pregnancy due to high progesterone environment (decidualization of ectopic tissue).
+* **Rare Risks**: Spontaneous hemoperitoneum in pregnancy (SHiP), rupture of decidualized endometrioma.
 
-### Escalation and Decision Thresholds
-* Refer urgently if deep infiltrating disease involves ureter, rectum, or bladder
-* Offer MRI before surgery for nodularity beyond uterus or dyschezia
-* Start GnRH agonist only after excluding pregnancy; add back therapy if >6 months
-* Consider IVF rather than repeat surgery if AMH is low or age >35
-* Reassess pain if symptoms recur after 6 months of hormonal suppression
-
-* Start empirical hormonal therapy if history and examination are typical and imaging negative
-* Arrange MRI if deep infiltrating disease is suspected clinically or on ultrasound
-* Offer laparoscopy if symptoms persist despite first-line hormonal therapy
-* Preserve ovarian tissue during cystectomy; avoid bilateral surgery if possible
-* Refer to fertility clinic if pregnancy has not occurred after 12 months
-* Manage pain with a multidisciplinary approach, including gynaecology, pain service, and psychology
-
-* Consider endometriosis in adolescents with severe dysmenorrhoea unresponsive to NSAIDs
-* Deep infiltrating disease may present with dyschezia, haematochezia, or ureteric obstruction
-* Use MRI or transrectal ultrasound if rectovaginal nodularity is palpated
-* Check renal function and ultrasound if ureteric involvement is suspected
-* Do not assume a normal ultrasound excludes endometriosis
-* Counsel on fertility decline and consider earlier IVF if ovarian reserve is reduced
-* Suspect malignant transformation if an endometrioma enlarges after menopause
 ## 10. Examiner's Pearls
 
-* Viva Question: What is the characteristic ultrasound appearance of an endometrioma? Answer: Homogeneous low-level echoes with ground-glass appearance.
-* Trap: Using GnRH agonist long-term without add-back therapy. Pearl: Limit to 6 months or add back hormones.
-* Pitfall: Assuming medical treatment improves fertility. It suppresses disease but does not improve live birth rate.
-* Viva Question: Why is cystectomy preferred over drainage and coagulation? Answer: Lower recurrence and better symptom relief.
-* Pitfall: Forgetting ureteric involvement in deep infiltrating endometriosis. Assess renal tract before surgery.
-
-
-
-
-
+* Viva Question: What is the classic ultrasound appearance of an ovarian endometrioma? Answer: A unilocular cyst with homogeneous low-level echogenicity (ground-glass appearance) lacking internal vascularity.
+* Trap: Assuming a normal bimanual exam rules out endometriosis. Pearl: Deep infiltrating endometriosis may only present with subtle nodularity in the Pouch of Douglas or uterosacral ligaments, requiring careful palpation and high clinical suspicion based on patient history.
+* Pitfall: Performing simple drainage or fenestration of an endometrioma instead of full cystectomy. The recurrence rate is unacceptably high; complete stripping of the cyst wall (cystectomy) is the surgical standard to prevent recurrence while carefully preserving the underlying ovarian reserve.

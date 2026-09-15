@@ -2,197 +2,137 @@
 
 ## 1. Clinical Definition, Gestational Context & Local Epidemiology
 
-### Spectrum and Classification
-* **Gestational trophoblastic disease (GTD):** group of tumours derived from placental trophoblast
-* Benign forms:
-  * **Complete hydatidiform mole**
-  * **Partial hydatidiform mole**
-* Malignant forms:
-  * **Invasive mole**
-  * **Choriocarcinoma**
-  * **Placental site trophoblastic tumour**
+### Definition of Gestational Trophoblastic Disease
+* **Gestational Trophoblastic Disease (GTD):** Spectrum of premalignant & malignant conditions arising from aberrant placental trophoblasts.
+* **Premalignant:** Complete Hydatidiform Mole (完全性葡萄胎), Partial Hydatidiform Mole (部分性葡萄胎).
+* **Malignant (GTN - Gestational Trophoblastic Neoplasia):** Invasive Mole (侵蝕性葡萄胎), Choriocarcinoma (絨毛膜癌), Placental-Site Trophoblastic Tumour (PSTT), Epithelioid Trophoblastic Tumour (ETT).
 
-### Local Epidemiology
-* Incidence higher in Asia than Western countries
-* Complete mole:
-  * ~15% progress to gestational trophoblastic neoplasia (GTN)
-* Partial mole:
-  * ~0.5% progress to GTN
+### Local HK Epidemiology & Risk Factors
+* **Incidence:** ↑ in Asian populations (HK HA data: ~1 in 1000 pregnancies) vs Caucasian populations.
+* **Age Extremes:** ↑↑ risk in extremes of reproductive age (<20 yrs & >40 yrs).
+* **Past History:** 1-2% recurrence risk if prior hx of GTD.
+* **Nutritional Factors:** Associated with ↓ dietary carotene/vitamin A.
 
 ## 2. Pathophysiology, Endocrine Axis & Pelvic Anatomy (Maternal-Fetal Physiology)
 
-### Complete Mole Genetics
-* Diploid chromosomal complement, usually all paternal
-* Mechanism:
-  * Empty ovum fertilised by sperm with duplication
-  * Or dispermic fertilisation
-* Histology:
-  * Diffuse villous oedema
-  * Trophoblastic hyperplasia
-  * No fetal tissue
+### Genetic Pathogenesis of Complete Mole (完全性葡萄胎)
+* **Karyotype:** 46,XX (90%) or 46,XY (10%). Paternal origin ONLY (Androgenesis).
+* **Fertilization:** 1 empty egg (no maternal DNA) + 1 sperm (duplicates) OR + 2 sperms.
+* **Histology:** Diffuse trophoblastic hyperplasia, diffusely hydropic chorionic villi.
+* **Fetus:** Absent fetal tissue/RBCs. 
 
-### Partial Mole Genetics
-* Usually triploid
-* Mechanism:
-  * Normal ovum fertilised by two sperm
-* Histology:
-  * Focal trophoblastic proliferation
-  * Some fetal or placental tissue
+### Genetic Pathogenesis of Partial Mole (部分性葡萄胎)
+* **Karyotype:** Triploid 69,XXX, 69,XXY, or 69,XYY. 
+* **Fertilization:** 1 normal egg (23,X) + 2 sperms (Dispermy).
+* **Histology:** Focal trophoblastic hyperplasia, focal hydropic villi interspersed with normal villi.
+* **Fetus:** +ve fetal parts/fetal RBCs (usually non-viable, anomalies present).
 
-### hCG Pathophysiology
-* Trophoblastic proliferation → very high **hCG**
-* hCG mimics TSH → biochemical thyrotoxicosis
-* Bilateral theca lutein cysts due to ovarian hyperstimulation
+### Endocrine Axis & β-hCG Cross-Reactivity
+* **β-hCG Hypersecretion:** Massively ↑ β-hCG produced by hyperplastic syncytiotrophoblasts.
+* **Thyroid Axis Cross-Reactivity:** β-hCG α-subunit identical to TSH → mimics TSH → stimulates thyroid → biochemical/clinical hyperthyroidism.
+* **Ovarian Hyperstimulation:** ↑ β-hCG mimics LH → stimulates ovaries → massive bilateral Theca Lutein Cysts (黃體囊腫).
 
 ## 3. Clinical Assessment (History, Abdominal, Speculum & Bimanual Exam Findings ONLY)
 
-### Key History Features
-* Vaginal bleeding in early pregnancy
-* Uterus large for dates
-* Hyperemesis gravidarum
-* Passage of grape-like vesicles
-* Early pre-eclampsia before 20 weeks
-* No fetal movements
+### Maternal History & Symptomatology
+* **Bleeding:** Painless, irregular per vaginam (PV) bleeding in 1st/early 2nd trimester.
+* **Tissue Passage:** PV passage of grape-like vesicles (pathognomonic).
+* **GI Symptoms:** Hyperemesis gravidarum (妊娠劇吐) out of proportion to GA.
+* **Hyperthyroid Symptoms:** Palpitations, tremors, heat intolerance, weight loss.
 
-### Examination Findings
-* Uterus larger than gestational age
-* No fetal heartbeat
-* Bilateral adnexal masses if theca lutein cysts
-* Vaginal bleeding
-* Signs of hyperthyroidism:
-  * Tachycardia
-  * Tremor
-  * Warm peripheries
+### Abdominal Examination Findings
+* **Uterine Size:** SFH > GA (uterus larger than expected for dates in 50% of complete moles).
+* **Palpation:** Doughy/soft consistency of uterus.
+* **Auscultation:** Absent fetal heart (in complete mole).
+
+### Pelvic Speculum & Bimanual Exam Findings
+* **Speculum:** Blood/clots in vault, classic grape-like vesicles protruding through cervical os.
+* **Bimanual:** Boggy, enlarged uterus. 
+* **Adnexae:** Bilateral palpable, non-tender adnexal masses (Theca Lutein Cysts).
 
 ## 4. Critical Differential Diagnoses & Clinical Staging
 
-### Differential Diagnosis
-* Miscarriage
-* Multiple pregnancy
-* Fibroid with pregnancy
-* Ectopic pregnancy
-* Hyperemesis gravidarum
-* Ovarian hyperstimulation syndrome
+### Key Obstetric Differential Diagnoses
+* **Threatened/Incomplete Miscarriage (作小產/不完全流產):** Commonest cause of 1st trimester bleeding.
+* **Multiple Pregnancy (多胞胎):** Can cause ↑ SFH and ↑ hyperemesis.
+* **Fibroid in Pregnancy (妊娠期子宮肌瘤):** Causes ↑ SFH, possible pain (red degeneration).
 
-### GTN Classification
-* **Low-risk:** FIGO score <6
-* **High-risk:** FIGO score ≥7
-* FIGO anatomical stages:
-  * **Stage I:** confined to uterus
-  * **Stage II:** extends to genital structures
-  * **Stage III:** lung metastasis ± genital involvement
-  * **Stage IV:** other distant metastases
+### FIGO Anatomical Staging for GTN
+| Stage | FIGO Anatomical Criteria |
+| :--- | :--- |
+| **Stage I** | Disease strictly confined to the uterus. |
+| **Stage II** | Disease extends beyond uterus but limited to genital structures (adnexa, vagina, broad ligament). |
+| **Stage III** | Disease extends to the lungs (with or without genital tract involvement). |
+| **Stage IV** | Distant metastases (brain, liver, kidneys, GI tract). |
 
 ## 5. Key Investigations (Labs, Specific Ultrasound Criteria & CTG Tracings)
 
-### Maternal Tests
-* **Serum hCG**
-* CBC
-* Blood group and Rh status
-* Renal and liver function
-* TSH, free T4 if thyrotoxicosis suspected
-* Chest X-ray
+### Crucial Laboratory Investigations
+* **Serum β-hCG:** Massively ↑ quantitative level (often >100,000 mIU/mL).
+* **Thyroid Function Tests (TFTs):** ↑ Free T3/T4, ↓ TSH (transient thyrotoxicosis).
+* **Blood Type & Screen:** ABO, Rh status (for Anti-D allocation), crossmatch if heavy bleeding.
+* **Baseline CBP & LFT/RFT:** Assess anaemia, baseline for future chemo if GTN develops.
 
-### Ultrasound Findings
-* Enlarged uterus
-* “Snowstorm” appearance
-* No fetus in complete mole
-* Fetal parts may be present in partial mole
-* Bilateral theca lutein cysts
-* Increased vascularity on Doppler
+### Transvaginal Ultrasound (USG) Findings: Complete Mole
+* **Uterus:** "Snowstorm" (暴風雪) or "granular" appearance (echogenic mass with multiple diffuse anechoic cystic spaces).
+* **Fetus:** Absent fetal pole, absent amniotic sac.
+* **Ovaries:** Bilateral multilocular cystic masses (Theca Lutein Cysts).
+
+### Transvaginal Ultrasound (USG) Findings: Partial Mole
+* **Placenta:** Thickened, vacuolated placenta with focal cystic spaces (Swiss-cheese appearance).
+* **Fetus:** +ve fetal pole (often with severe FGR or structural anomalies), +ve amniotic fluid.
 
 ## 6. Medical Management & Acute Stabilization (Pharmacology, Steroids, Resuscitation)
 
-### Acute Stabilization
-* Correct anaemia
-* Treat haemorrhage
-* Manage thyrotoxicosis if severe
-* Stabilise before evacuation
+### Acute Resuscitation & Hemodynamic Stabilization
+* **IV Access:** Large-bore IV access (14G/16G).
+* **Fluid Resuscitation:** Rapid crystalloid infusion for hypovolaemic shock.
+* **Blood Products:** Transfuse packed RBCs if severe anaemia/active profuse haemorrhage.
 
-### Molar Pregnancy Evacuation
-* **Suction evacuation** is standard
-* Avoid uterotonic drugs before completion of evacuation
-  * Risk of tumour embolisation
-* Rh-negative women need **anti-D**
+### Pharmacological Control of Endocrine Complications
+* **Thyrotoxicosis Management:** Beta-blockers (e.g., Propranolol) to control HR/tremors + Anti-thyroid meds (PTU/Carbimazole) *before* anaesthesia to prevent Thyroid Storm.
+* **Anti-D Prophylaxis:** IM Anti-D Ig for all Rh-ve mothers (partial moles contain fetal RBCs).
 
 ## 7. Definitive Management Algorithm (Timing/Mode of Delivery OR Gynaecological Surgery)
 
-### Hydatidiform Mole
-* Suction evacuation
-* Histological confirmation
-* No routine chemotherapy if hCG falls appropriately
+### Surgical Evacuation Principles
+* **Timing:** Urgent Suction Evacuation (S&E) once hemodynamically/thyroid stable.
+* **Technique:** USG-guided S&E to ensure complete removal and minimize perforation risk.
+* **Uterotonic Timing (CRITICAL):** Syntocinon (Oxytocin) infusion MUST be started *during/after* cervical dilation & start of evacuation (prevents trophoblastic embolization to lungs).
+* **Sharp Curettage:** Avoid aggressive sharp curettage (↑ risk of perforation in thin, boggy uterus).
 
-### GTN Management
-* **Low-risk:** single-agent chemotherapy
-  * Methotrexate or actinomycin D
-* **High-risk:** combination chemotherapy
-  * EMA-CO regimen
-* Surgery if:
-  * Chemotherapy-resistant disease
-  * Severe haemorrhage
-  * Placental site trophoblastic tumour
+### Alternative Surgical Options
+* **Total Abdominal Hysterectomy (TAH):** Option for women >40 yrs with completed family. Eliminates local recurrence risk but DOES NOT eliminate distant GTN risk (follow-up still mandatory).
 
-## 8. Post-partum/Post-operative Care, Contraception & Follow-up
+## 8. Post-operative Care, Contraception & Follow-up
 
-### hCG Surveillance
-* Monitor hCG every 1-2 weeks until normal
-* Then monthly for **at least 6 months**
-* Avoid pregnancy until hCG normalises for 6 months
+### HK HA Strict β-hCG Follow-up Protocol
+* **Monitoring:** Serial quantitative serum/urine β-hCG levels.
+* **Frequency:** Biweekly until normal (3 consecutive normal readings), then monthly.
+* **Duration (Complete Mole):** Monthly for 6 months *after* normal.
+* **Duration (Partial Mole):** Monthly until normal, then check at 4 weeks post-normalization.
 
-### Contraception
-* Preferred:
-  * Progestogen-only pill
-  * Depo medroxyprogesterone acetate
-* Avoid IUCD until hCG normalises:
-  * Risk of perforation if invasive mole
-* Combined pill can be used once hCG is negative
+### Contraceptive Guidelines Post-Evacuation
+* **Strict Avoidance:** MUST avoid pregnancy during the entire follow-up period (new pregnancy obscures rising β-hCG of GTN).
+* **First-line Contraception:** Combined Oral Contraceptive Pill (COCP) safely started *after* β-hCG normalizes, or barrier methods (condoms) immediately.
+* **Contraindication:** Intrauterine Device (IUCD) strictly contraindicated until β-hCG normal (high risk of uterine perforation/infection in boggy uterus).
 
 ## 9. Maternal, Fetal & Gynaecological Complications
 
-### Maternal Complications
-* Persistent trophoblastic disease
-* GTN
-* Uterine perforation
-* Severe haemorrhage
-| Thyrotoxicosis
-* pulmonary metastases
-* Choriocarcinoma with distant spread
+### Acute Operative Complications
+* **Uterine Perforation (子宮穿孔):** ↑ risk due to soft, distended, vascular myometrium.
+* **Trophoblastic Embolization:** Massive deportation of trophoblasts to lungs → Acute Respiratory Distress Syndrome (ARDS) right after S&E.
+* **Thyroid Storm:** Triggered by surgery/anaesthesia in unoptimized hyperthyroid patient.
 
-### Gynaecological Complications
-* Uterine invasion
-* Hysterectomy if refractory disease
-* Subfertility
-* Recurrent GTD
+### Long-Term Oncological Complications
+* **Gestational Trophoblastic Neoplasia (GTN):** ~15-20% of complete moles and ~1-5% of partial moles progress to malignancy (Choriocarcinoma/Invasive Mole).
+* **Mets:** Spread to Lungs (80%), Vagina (30%), Pelvis (20%), Brain (10%), Liver (10%).
 
-### Escalation and Decision Thresholds
-* Avoid uterotonics before completing suction evacuation
-* Monitor hCG every 1-2 weeks until normal, then monthly for 6 months
-* Diagnose GTN if hCG plateaus or rises after evacuation
-* Use single-agent chemotherapy for FIGO score <6
-* Refer to trophoblastic centre if high-risk GTN, metastases, or choriocarcinoma
-
-* Refer all molar pregnancies to a dedicated trophoblastic follow-up service
-* Use suction evacuation and send tissue for histology
-* Avoid uterotonics before evacuation is complete
-* Monitor hCG every 1-2 weeks until negative, then monthly for 6 months
-* Diagnose GTN if hCG plateaus or rises after molar evacuation
-* Use single-agent chemotherapy for low-risk disease and EMA-CO for high-risk disease
-
-* Suspect molar pregnancy if uterus is large for dates, hCG is very high, or theca lutein cysts are present
-* Do not rely on ultrasound alone if partial mole is suspected; histology is required
-* Exclude coexisting fetus if ultrasound shows fetal parts with molar changes
-* Check thyroid function if there are signs of hyperthyroidism
-* Use effective contraception and avoid IUCD until hCG normalises
-* Refer to trophoblastic centre if hCG plateaus, rises, or metastases are found
 ## 10. Examiner's Pearls
 
-* Viva Question: What proportion of complete moles progress to GTN? Answer: ~15%.
-* Trap: Giving uterotonics before completing suction evacuation. Pearl: This may cause tumour embolisation.
-* Pitfall: Using an IUCD for contraception before hCG normalises. There is uterine perforation risk.
-* Viva Question: What is the minimum hCG surveillance period after molar pregnancy? Answer: At least 6 months after hCG normalises.
-* Pitfall: Forgetting anti-D in an Rh-negative woman after evacuation.
-
-
-
-
-
+* Viva Question: What are the WHO diagnostic criteria for post-molar Gestational Trophoblastic Neoplasia (GTN)?
+  Answer: β-hCG plateau for 4 measurements over 3 weeks, β-hCG rise >10% for 3 measurements over 2 weeks, or histological diagnosis of choriocarcinoma.
+* Trap: Giving oxytocin to induce cervical ripening *before* suction evacuation begins.
+  Pearl: Oxytocin must only be infused *during* or *after* the evacuation has started to prevent contractions from forcing trophoblastic tissue into the maternal venous circulation, causing pulmonary trophoblastic embolization.
+* Pitfall: Recommending an IUCD for reliable contraception immediately post-evacuation. Explain why this is wrong.
+  The post-molar uterus is extremely soft, boggy, and potentially invaded by trophoblasts, making the risk of catastrophic uterine perforation during IUCD insertion unacceptably high. Wait until β-hCG is zero and the uterus has fully involuted.

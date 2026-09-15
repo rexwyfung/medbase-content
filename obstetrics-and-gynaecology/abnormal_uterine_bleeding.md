@@ -1,202 +1,146 @@
-# Abnormal Uterine Bleeding (子宮異常出血)
+# Abnormal Uterine Bleeding (異常子宮出血)
 
 ## 1. Clinical Definition, Gestational Context & Local Epidemiology
 
-### FIGO Terminology
-* **Abnormal uterine bleeding (AUB):** abnormal regularity, frequency, duration, or volume of menstrual bleeding
-* **Heavy menstrual bleeding:** excessive volume affecting physical, emotional, or social wellbeing
-* **Intermenstrual bleeding:** bleeding between periods
-* **Postcoital bleeding:** bleeding after intercourse
-* **Irregular bleeding:** shortest-to-longest cycle variation ≥8-10 days
+### 2018 FIGO Menstrual Definitions
+| Parameter      | Normal Menstruation                      | Abnormal Uterine Bleeding (AUB)                                              |
+| :------------- | :--------------------------------------- | :--------------------------------------------------------------------------- |
+| **Frequency**  | 24–38 days                               | **Frequent:** <24 days <br> **Infrequent:** >38 days                         |
+| **Duration**   | $\le$ 8 days                             | **Prolonged:** >8 days                                                       |
+| **Regularity** | Variation $\le$ 7–9 days (age-dependent) | **Irregular:** Variation $\ge$ 8–10 days                                     |
+| **Volume**     | Patient-determined normal                | **Heavy Menstrual Bleeding (HMB):** Affects physical/emotional/social health |
 
-### Epidemiology and Clinical Burden
-* Common gynaecological complaint
-* Causes classified using **PALM-COEIN**
-* Exclude pregnancy in all reproductive-age women
+### Classification of AUB Chronicity
+* **Chronic AUB:** Present for majority of preceding 6 months.
+* **Acute AUB:** Acute episode of heavy bleeding requiring immediate intervention to minimize blood loss.
 
-## 2. Pathophysiology, Endocrine Axis & Pelvic Anatomy (Maternal-Fetal Physiology)
+### Abandoned Historical Terminology
+| Old Term | Modern FIGO Equivalent / Definition |
+| :--- | :--- |
+| **Menorrhagia / Hypermenorrhea** | Heavy Menstrual Bleeding (HMB) (>80ml/cycle) |
+| **Polymenorrhea** | Frequent menstrual bleeding (<21 days) |
+| **Metrorrhagia** | Irregular frequent menstruation |
+| **Oligomenorrhea** | Infrequent menstrual bleeding (39 days to 6 months) |
+| **Dysfunctional Uterine Bleeding (DUB)** | AUB-O (Ovulatory) or AUB-E (Endometrial) |
 
-### PALM Structural Causes
-* **Polyp**
-* **Adenomyosis**
-* **Leiomyoma**
-* **Malignancy and hyperplasia**
+## 2. Pathophysiology, Endocrine Axis & Pelvic Anatomy
 
-### COEIN Non-Structural Causes
-* **Coagulopathy**
-* **Ovulatory dysfunction**
-* **Endometrial**
-* **Iatrogenic**
-* **Not yet classified**
+### PALM-COEIN Classification System
+| PALM (Structural Causes) | COEIN (Non-Structural Causes) |
+| :--- | :--- |
+| **P**olyp (息肉) | **C**oagulopathy (凝血障礙) |
+| **A**denomyosis (子宮腺肌症) | **O**vulatory dysfunction (排卵障礙) |
+| **L**eiomyoma (子宮肌瘤) | **E**ndometrial (子宮內膜異常) |
+| **M**alignancy & hyperplasia (惡性腫瘤與增生) | **I**atrogenic (醫源性) <br> **N**ot yet classified (尚未分類) |
 
-### Hormonal Mechanisms
-* Anovulation → unopposed oestrogen → irregular shedding
-* Common in:
-  * Adolescents
-  * Perimenopause
-  * PCOS
-  * Thyroid disease
-* Progesterone deficiency → unstable endometrium
+### Dysfunctional Uterine Bleeding (DUB) Pathophysiology
+* **Anovulatory DUB:** Disruption of Hypothalamic-Pituitary-Ovarian (HPO) axis → chronic endometrial stimulation by unopposed estrogen. Most common at extremes of reproductive age.
+* **Ovulatory DUB:** Normal HPO axis → localized hemostatic & vasoconstrictive dysfunction within endometrial lining.
 
-## 3. Clinical Assessment (History, Abdominal, Speculum & Bimanual Exam Findings ONLY)
+## 3. Clinical Assessment
 
-### Menstrual History
-* Cycle regularity
-* Duration >8 days
-* Frequency <21 or >38 days
-* Clots >2.5 cm
-* Flooding
-* Sanitary product usage
-* Impact on daily activity
+### Targeted Maternal History
+* **Menstrual Hx:** LMP, cycle length/regularity, duration, flow volume (pad/tampon usage, presence of clots, flooding sensation).
+* **Bleeding Patterns:** Intermenstrual Bleeding (IMB), Postcoital Bleeding (PCB), Postmenopausal Bleeding (PMB).
+* **Associated Symptoms:** Dysmenorrhea, anemic symptoms (fatigue, dizziness).
+* **Risk Factors:** Exogenous hormones/herbs, anticoagulants, tamoxifen, antipsychotics.
+* **Family Hx:** Bleeding tendencies (e.g., von Willebrand disease), Hereditary Nonpolyposis Colorectal Cancer (HNPCC).
 
-### Associated History
-* Pelvic pain
-* Dyspareunia
-* Infertility
-* Weight change
-* Hirsutism
-* Bleeding disorder symptoms
-* Contraceptive or tamoxifen use
-* Family history of cancer
+### General & Abdominal Examination Findings
+* **General Signs:** Pallor (anemia), obesity, petechiae/ecchymoses (coagulopathy).
+* **Endocrine Signs:** 
+  * Hyperandrogenism: Acne, abnormal pubic hair distribution.
+  * Hyperprolactinemia: Visual field defects, galactorrhea.
+  * Thyroid dysfunction: Goiter, peripheral thyroid signs.
+* **Abdominal Signs:** Palpable pelvic/abdominal mass, hepatomegaly, splenomegaly.
 
-### Examination
-* Pallor
-* Abdominal mass
-* Uterine enlargement
-* Cervical lesion or polyp
-* Adnexal mass
-* Cervical excitation
+### Pelvic Examination Findings
+* **Speculum Exam:** Vulval/vaginal lesions, cervical pathology (polyps, ectropion, cervical cancer).
+* **Bimanual Exam:** Uterine size/contour (enlarged/bulky in fibroids/adenomyosis), adnexal masses (e.g., estrogen-secreting granulosa cell tumour).
 
 ## 4. Critical Differential Diagnoses & Clinical Staging
 
-### PALM-COEIN Differential
-| Category | Example |
-| :--- | :--- |
-| **Polyp** | Endometrial/cervical polyp |
-| **Adenomyosis** | Bulky tender uterus |
-| **Leiomyoma** | Submucosal fibroid |
-| **Malignancy** | Endometrial cancer |
-| **Coagulopathy** | von Willebrand disease |
-| **Ovulatory dysfunction** | PCOS, thyroid disease |
-| **Endometrial** | Primary endometrial disorder |
-| **Iatrogenic** | IUCD, hormonal therapy, anticoagulants |
+### Structural Causes (PALM) Differentials
+* **Cervix:** Cervical polyp, ectropion, cervical carcinoma.
+* **Myometrium:** Leiomyoma (fibroid), adenomyosis.
+* **Endometrium:** Endometrial polyp, endometrial hyperplasia, endometrial carcinoma.
+* **Ovary:** Granulosa theca cell tumour (estrogen-producing).
 
-### Red Flags
-* Postmenopausal bleeding
-* Persistent intermenstrual bleeding
-* Age >45 with new heavy bleeding
-* Obesity or PCOS
-* Family history of endometrial/colon cancer
+### Non-Structural & Systemic Causes (COEIN) Differentials
+* **Coagulopathy:** von Willebrand’s disease, prothrombin deficiency, quantitative/qualitative platelet disorders.
+* **Ovulatory Dysfunction:** PCOS, extremes of reproductive age, thyroid disorders, hyperprolactinemia.
+* **Iatrogenic:** Intrauterine Contraceptive Device (IUCD) complications, anticoagulants, exogenous hormones.
 
-## 5. Key Investigations (Labs, Specific Ultrasound Criteria & CTG Tracings)
+## 5. Key Investigations
 
-### Laboratory Tests
-* Pregnancy test
-* CBC and iron studies
-* Ferritin
-* TSH
-* Prolactin if oligomenorrhoea
-* Coagulation profile if suspected bleeding disorder
+### Bedside & Laboratory Investigations
+* **Urine:** Pregnancy test (hCG) to exclude pregnancy-related complications.
+* **Blood Tests:** Complete Blood Picture (CBP), Thyroid Function Test (TFT), Prolactin, Clotting profile, Iron profile.
+* **Microbiology:** Endocervical swab for *Chlamydia trachomatis* (specifically if IMB or PCB present).
+* **Cytology:** Cervical smear (Pap smear).
 
-### Imaging and Sampling
-* Transvaginal ultrasound
-* Saline infusion sonography if focal lesion suspected
-* Endometrial biopsy if:
-  * Age ≥45
-  * Persistent AUB
-  * PCOS or obesity
-  * Failed medical therapy
-* Hysteroscopy if:
-  * Focal lesion
-  * Failed biopsy
-  * Suspicious ultrasound
+### Endometrial Biopsy Indications
+* **Age criteria:** $\ge$ 40 years old.
+* **Symptom criteria:** Persistent IMB, failed medical treatment.
+* **Risk factors present:** PCOS, obesity, HNPCC family hx, unopposed estrogen use, Tamoxifen therapy.
 
-## 6. Medical Management & Acute Stabilization (Pharmacology, Steroids, Resuscitation)
+### Diagnostic Imaging & Hysteroscopy
+* **Transvaginal Ultrasound (USG):** Ideally performed during follicular phase. Assesses endometrial thickness, myometrial consistency, and focal lesions (submucosal fibroids, polyps).
+* **Saline Infusion Sonohysterogram:** Instillation of saline into cavity to clearly outline intracavity lesions.
+* **Hysteroscopy (宮腔鏡):** Gold standard for direct visualization and targeted biopsy of endometrial pathology.
 
-### Acute Heavy Bleeding
-* Tranexamic acid
-* NSAIDs if no contraindication
-* Oral progestogen
-* Combined oral contraceptive if stable and no contraindication
-* Blood transfusion if severe anaemia
+## 6. Medical Management & Acute Stabilization
 
-### Non-Acute Medical Options
-* **Levonorgestrel intrauterine system**
-* Combined oral contraceptive
-* Cyclical progestogen
-* NSAIDs
-* Tranexamic acid
-* Gonadotropin-releasing hormone agonist for short-term use
+### Acute Resuscitation & Non-Hormonal Agents
+* **Resuscitation:** Iron supplementation; blood transfusion if hemodynamically unstable/severe anemia.
+* **Antifibrinolytics (Tranexamic Acid):** Blocks plasminogen binding sites to prevent fibrin degradation. ↓ menstrual blood loss by 40–50%. SE: Nausea, dizziness.
+* **NSAIDs (Mefenamic Acid):** ↓ menstrual blood loss by up to 35%. First-line if coexisting dysmenorrhea. SE: Indigestion, diarrhea, peptic ulcers.
 
-## 7. Definitive Management Algorithm (Timing/Mode of Delivery OR Gynaecological Surgery)
+### Hormonal Pharmacotherapy
+* **Combined Oral Contraceptives (COCP):** Estrogen + Progestin ↓ FSH/LH. Good for concurrent dysmenorrhea/contraception. SE: VTE, stroke, mood changes, fluid retention.
+* **Oral Progestin (Norethisterone):** 15 mg daily from Day 5 to 26. Prevents estrogen-induced excessive endometrial growth.
+* **Levonorgestrel-Releasing Intrauterine System (LNG-IUS / Mirena):** Delivers direct hormone → endometrial atrophy. ↓ blood loss by 86% (3 months) and 97% (12 months). SE: Irregular spotting for >6 months, acne.
+* **Depot Medroxyprogesterone Acetate (DMPA):** Induces endometrial atrophy. SE: Weight gain, irregular bleeding, delayed return to fertility, ↓ bone mineral density (BMD).
+* **GnRH Agonists (GnRHa):** Downregulates GnRH receptors → profound hypoestrogenic state. SE: Menopausal symptoms, osteoporosis (if used >6 months).
 
-### Structural Cause Management
-* **Polyp:** hysteroscopic polypectomy
-* **Fibroid:** myomectomy or hysterectomy depending on fertility wishes
-* **Adenomyosis:** hormonal treatment or hysterectomy if refractory
-* **Hyperplasia/cancer:** endometrial sampling and definitive staging surgery
+## 7. Definitive Management Algorithm
 
-### Non-Structural Cause Management
-* Treat underlying systemic disease
-* LNG-IUS first-line for heavy menstrual bleeding
-* Hysterectomy if medical therapy fails and fertility not desired
+### Uterus-Sparing Gynaecological Procedures
+* **Endometrial Ablation (子宮內膜去除術):** Destroys endometrial lining. 
+  * **Indications:** Uterus $\le$ 10 weeks size, small fibroids <3 cm, completed family. 
+  * **Contraindications:** Desire for future fertility.
+* **Hysteroscopic Resection:** Targeted trans-cervical removal of endometrial polyps or submucosal fibroids.
+
+### Definitive Surgical Management
+* **Hysterectomy (子宮切除術):** Definitive cure for AUB.
+  * **Routes:** Vaginal, Laparoscopic, or Abdominal.
+  * **Considerations:** Permanent amenorrhea and absolute loss of fertility.
 
 ## 8. Post-partum/Post-operative Care, Contraception & Follow-up
 
-### After Hysteroscopic Surgery
-* Monitor bleeding and infection
-* Avoid tampons for 2 weeks
-* Follow-up histology
-* Consider LNG-IUS if fertility not desired
+### Contraceptive Integration & Follow-up
+* **LNG-IUS Follow-up:** Counsel patients that irregular bleeding/spotting is highly common for the first 6 months post-insertion before amenorrhea or oligomenorrhea establishes.
+* **COCP Surveillance:** Monitor BP and assess VTE risk factors at follow-up visits.
 
-### After Hysterectomy
-* Thromboprophylaxis
-* Ovarian conservation if appropriate
-* Hormone therapy if oophorectomy and symptoms
-* Long-term follow-up
+### Long-Term Medical Surveillance
+* **BMD Monitoring:** Required for patients on prolonged Depot MPA or GnRH agonists (>6 months) due to significant risk of secondary osteoporosis.
+* **Endometrial Protection:** Patients with chronic anovulation (e.g., PCOS) require cyclical progestogens to induce withdrawal bleeds, mitigating the risk of endometrial hyperplasia.
 
 ## 9. Maternal, Fetal & Gynaecological Complications
 
-### Maternal Complications
-* Iron deficiency anaemia
-* Poor quality of life
-* Chronic pelvic pain
-| Infertility
-* Endometrial cancer risk with unopposed oestrogen
+### Disease-Related Complications
+* **Hematological:** Severe iron-deficiency anemia, hypovolemia, hemodynamic instability.
+* **Oncological:** Missed progression of endometrial hyperplasia to endometrial adenocarcinoma if biopsy criteria are ignored.
 
-### Surgical Complications
-* Uterine perforation
-* Infection
-* Adhesions
-* Hysterectomy risks
+### Iatrogenic & Surgical Complications
+* **Hysteroscopy/Ablation Risks:** Uterine perforation, pelvic infection, thermal bowel injury, hematometra, vaginal discharge.
+* **Hysterectomy Risks:** Major operative morbidity including hemorrhage, visceral injury (bladder/ureter/bowel), vault prolapse, and psychological impact of fertility loss.
+* **Pharmacological SEs:** VTE (COCP), peptic ulcer disease (NSAIDs), profound hypoestrogenism (GnRHa).
 
-### Escalation and Decision Thresholds
-* Endometrial biopsy if age ≥45, persistent bleeding, PCOS, obesity, or failed medical therapy
-* Hysteroscopy if focal lesion, inadequate sample, or persistent intermenstrual bleeding
-* Use LNG-IUS first-line for heavy menstrual bleeding if uterus <10 cm
-* Transfuse if Hb <70 g/L or symptomatic severe anaemia
-* Investigate coagulopathy if heavy bleeding since menarche or family history
-
-* Use PALM-COEIN to structure investigation and management
-* Endometrial biopsy if age ≥45, persistent bleeding, obesity, PCOS, or failed therapy
-* Hysteroscopy if focal lesion or inadequate biopsy
-* LNG-IUS is first-line for heavy menstrual bleeding if no cavity distortion
-* Transfuse if Hb <70 g/L or symptomatic severe anaemia
-* Screen for coagulopathy in adolescents since menarche or family history
-
-* Cervical pathology can mimic endometrial bleeding, so inspect the cervix
-* Consider adenomyosis if the uterus is bulky, tender, and symmetrically enlarged
-* Use saline infusion sonography if ultrasound suggests focal lesion
-* A negative endometrial biopsy does not exclude focal polyp or cancer
 ## 10. Examiner's Pearls
 
-* Viva Question: What is the FIGO classification for AUB causes? Answer: PALM-COEIN.
-* Trap: Labeling heavy bleeding as “DUB” without excluding structural pathology. Pearl: Use PALM-COEIN.
-* Pitfall: Missing endometrial cancer in a woman >45 with new abnormal bleeding. Always consider biopsy.
-* Viva Question: What is first-line long-term medical treatment for heavy menstrual bleeding? Answer: Levonorgestrel intrauterine system.
-* Pitfall: Failing to screen for coagulopathy in adolescents since menarche.
-
-
-
-
-
+* Viva Question: What are the absolute indications for performing an endometrial biopsy in a patient with Abnormal Uterine Bleeding?
+* Answer: Age $\ge$ 40, persistent intermenstrual bleeding, failed medical treatment, or presence of high-risk factors (PCOS, obesity, HNPCC, unopposed estrogen, or tamoxifen use).
+* Trap: Continuing to use legacy terminology such as "Menorrhagia" or "Metrorrhagia" during case presentations.
+* Pearl: Strictly adopt the 2018 FIGO terminology (e.g., Heavy Menstrual Bleeding, Intermenstrual Bleeding) to ensure standardized, accurate clinical communication.
+* Pitfall: Recommending endometrial ablation for a young, nulliparous woman with HMB. Ablation permanently destroys the basal endometrial lining, causing severe intracavity adhesions, and is strictly contraindicated in any woman desiring future fertility.
