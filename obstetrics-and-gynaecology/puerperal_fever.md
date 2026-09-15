@@ -1,203 +1,160 @@
 # Puerperal Fever (產褥熱)
 
 ## 1. Clinical Definition, Gestational Context & Local Epidemiology
+### Clinical Definition of Puerperal Pyrexia
+* **Definition**: Temperature $\ge$ 38.0°C (100.4°F) maintained for 24h or occurring on two occasions during the first 14 days postpartum (excluding the first 24 hours).
+* **Severe Alert**: Puerperal sepsis remains a leading direct cause of maternal mortality.
 
-### Definition and Diagnostic Threshold
-* **Puerperal fever:** temperature ≥38.0°C within 14 days postpartum, excluding day 1 transient fever
-* Usually occurs after day 1
-* Common causes:
-  * Genital tract infection
-  * UTI
-  * Wound infection
-  * Mastitis
-  * Deep vein thrombosis
-  * Atelectasis
-
-### Local Epidemiology and Risk Factors
-* More common after:
-  * Caesarean section
-  * Prolonged rupture of membranes
-  * Chorioamnionitis
-  * Retained products
-  * Instrumental delivery
-  * Postpartum haemorrhage
-  * Anaemia
+### Local Epidemiology & Risk Factors
+* **HK Incidence**: Affects approximately 1-3% of normal vaginal deliveries and up to 10-15% of emergency lower segment caesarean sections.
+* **Obstetric Risk**: Prolonged rupture of membranes >18 hours
+* **Obstetric Risk**: Prolonged labour
+* **Obstetric Risk**: Frequent vaginal examinations
+* **Obstetric Risk**: Instrumental delivery
+* **Obstetric Risk**: Manual removal of placenta 
 
 ## 2. Pathophysiology, Endocrine Axis & Pelvic Anatomy (Maternal-Fetal Physiology)
+### Maternal Postpartum Physiological Susceptibility
+* **Immune Status**: Relative maternal immunosuppression persists into the puerperium.
+* **Genital Vulnerability**: The placental bed leaves a large raw surface open to bacterial colonization.
+* **Alkaline Shift**: Amniotic fluid and blood neutralize the acidic vaginal pH favoring pathogen overgrowth.
 
-### Endometritis Mechanism
-* Ascending polymicrobial infection from vagina/cervix
-* Placental bed wound after delivery
-* Mixed organisms:
-  * **Gardnerella vaginalis**
-  * **Peptostreptococcus**
-  * **Bacteroides**
-  * **E. coli**
-  * **Chlamydia trachomatis**
-
-### Post-Caesarean Infection
-* Uterine incision site infection
-* Wound haematoma
-* Fasciitis
-* Higher risk than vaginal delivery
+### Pelvic Anatomy & Bacterial Spread
+* **Ascending Mechanism**: Vaginal flora (e.g. **Group B Streptococcus (B型鏈球菌)**) ascend into the uterus.
+* **Tissue Invasion**: Progression leads to **Endometritis (子宮內膜炎)** and subsequently myometritis.
+* **Parametrial Spread**: Pathogens invade the broad ligament lymphatic network.
+* **Venous Dissemination**: Pelvic veins lack valves permitting spread to ovarian and internal iliac veins.
+* **Vascular Complication**: Endothelial damage triggers **Septic Pelvic Thrombophlebitis (盆腔膿毒性血栓性靜脈炎)**.
 
 ## 3. Clinical Assessment (History, Abdominal, Speculum & Bimanual Exam Findings ONLY)
+### Maternal History
+* **Symptom**: Fever onset timing
+* **Symptom**: Chills
+* **Symptom**: Rigors
+* **Symptom**: Dysuria
+* **Symptom**: Mastalgia
+* **Symptom**: Calf pain
 
-### History
-* Fever, chills
-* Foul-smelling lochia
-* Abdominal pain
-* Heavy or prolonged bleeding
-* Dysuria or urinary frequency
-* Breast pain or engorgement
-* Calf pain or swelling
-* Caesarean or episiotomy wound pain
+### Abdominal Examination Findings
+* **Fundus**: Subinvolution (子宮復舊不全) 
+* **Uterus**: Severe focal or generalized tenderness
+* **Surgical Scar**: Localized erythema
+* **Surgical Scar**: Tissue induration
+* **Surgical Scar**: Purulent exudate
 
-### Examination Findings
-* Fever, tachycardia
-* Uterine tenderness
-* Foul lochia
-* Cervical excitation
-* Abdominal wound erythema or discharge
-* Mastitis or breast abscess
-* Calf tenderness
+### Speculum & Bimanual Exam Findings
+* **Lochia**: Foul-smelling odour
+* **Lochia**: Purulent appearance
+* **Lochia**: Prolonged heavy red bleeding
+* **Perineum**: Episiotomy gaping
+* **Perineum**: Sloughing necrotic tissue
+* **Bimanual**: Boggy softened uterus
+* **Bimanual**: Cervical excitation pain
+* **Bimanual**: Palpable fluctuant adnexal mass
 
 ## 4. Critical Differential Diagnoses & Clinical Staging
+### The 7 W's of Postpartum Fever Differentials
+| Category | Primary Suspect | Key Clinical Differentiator |
+| :--- | :--- | :--- |
+| **Womb (Days 2-10)** | **Endometritis (子宮內膜炎)** | Subinvolution + foul lochia + uterine tenderness |
+| **Wound (Days 3-7)** | Surgical Site Infection | Localized erythema + fluctuance + gaping |
+| **Weaning (Days 3-14)**| **Mastitis (乳腺炎)** | Unilateral breast erythema + focal induration |
+| **Water (Days 1-3)** | Urinary Tract Infection | Dysuria + frequency + renal angle tenderness |
+| **Wind (Day 1)** | Respiratory Atelectasis | Post-GA status + basal lung crackles |
+| **Walking (Days 4+)** | **Deep Vein Thrombosis (深靜脈血栓)** | Unilateral calf swelling + pain + dyspnea |
+| **Wonder Drugs** | Drug Fever | Diagnosis of exclusion + resolves on cessation |
 
-### Differential Diagnosis by Source
-| Source | Features |
-| :--- | :--- |
-| **Endometritis** | Fever, uterine tenderness, foul lochia |
-| **Wound infection** | Erythema, discharge, wound pain |
-| **Mastitis** | Breast pain, fever, erythema |
-| **UTI** | Dysuria, frequency, loin pain |
-| **DVT** | Calf swelling, tenderness |
-| **Atelectasis** | Day 1 fever, poor cough |
-
-### Severe Sepsis Features
-* Hypotension
-* Tachycardia
-* Confusion
-* Oliguria
-* Elevated lactate
-* Multi-organ dysfunction
+### Clinical Staging of Sepsis
+* **Mild Stage**: Localized signs with stable vital parameters.
+* **Severe Sepsis**: Fever + tachycardia >100 bpm + tachypnea >20/min + altered mental state.
+* **Septic Shock (敗血性休克)**: Refractory hypotension requiring vasopressor support.
 
 ## 5. Key Investigations (Labs, Specific Ultrasound Criteria & CTG Tracings)
+### Essential Laboratory Investigations
+* **Complete Blood Count**: ↑ White cell count
+* **Complete Blood Count**: Left shift neutrophilia
+* **Sepsis Marker**: ↑ C-Reactive Protein
+* **Sepsis Marker**: ↑ Procalcitonin
+* **Sepsis Marker**: Serum Lactate >2 mmol/L 
+* **Coagulation Profile**: ↑ PT/APTT
+* **Coagulation Profile**: ↓ Platelet count
+* **Coagulation Profile**: ↓ Fibrinogen 
 
-### Essential Maternal Tests
-* CBC with differential
-* CRP
-* Blood cultures if high fever or sepsis
-* Urine culture
-* Endocervical and high vaginal swabs
-* Wound swab
-* Coagulation profile if sepsis
+### Microbiological Workup 
+* **Blood Test**: Two sets of peripheral blood cultures
+* **Genital Swab**: High Vaginal Swab for MC&S
+* **Genital Swab**: Endocervical Swab for MC&S
+* **Urine Test**: Midstream urine for MC&S
+* **Wound Swab**: Culture of purulent exudate
 
-### Ultrasound Findings
-* Retained products
-* Endometrial collection
-* Pelvic abscess
-* Wound haematoma
-* Ovarian vein thrombosis
+### Specific Ultrasound Criteria
+* **Transpelvic USG**: Echogenic intracavitary material
+* **Transpelvic USG**: Increased localized myometrial vascularity
+* **Transpelvic USG**: Free fluid collection in Pouch of Douglas
 
 ## 6. Medical Management & Acute Stabilization (Pharmacology, Steroids, Resuscitation)
+### Acute Sepsis Resuscitation (Sepsis Six Protocol)
+* **Step 1**: Administer high-flow oxygen targeting SpO2 >94%
+* **Step 2**: Obtain paired blood cultures prior to therapy
+* **Step 3**: Measure serum lactate to assess hypoperfusion
+* **Step 4**: Administer empirical broad-spectrum IV antibiotics
+* **Step 5**: Infuse rapid IV crystalloid fluid bolus
+* **Step 6**: Insert Foley catheter for strict hourly urine output monitoring
 
-### Sepsis Resuscitation
-* ABC approach
-* IV access and aggressive fluid resuscitation
-* Oxygen if hypoxic
-* Blood cultures before antibiotics
-* Early broad-spectrum antibiotics
-* Vasopressors if hypotension persists
-
-### Empirical Antibiotics for Endometritis
-* **Gentamicin + clindamycin**
-* Alternative:
-  * Piperacillin-tazobactam
-  * Carbapenem if severe sepsis
-* Continue until afebrile 24-48 hours
+### Pharmacological Management
+* **Endometritis 1st Line**: IV **Cefuroxime (頭孢呋辛)** + IV **Metronidazole (甲硝唑)**
+* **Endometritis Severe**: IV Piperacillin-Tazobactam (Tazocin)
+* **Penicillin Allergy**: IV Clindamycin + IV Gentamicin
+* **Mastitis Treatment**: PO Cloxacillin 
+* **Adjunctive Therapy**: IV **Syntocinon (催產素)** to promote involution
 
 ## 7. Definitive Management Algorithm (Timing/Mode of Delivery OR Gynaecological Surgery)
+### Surgical Source Control Principles
+* **Condition**: Retained Products of Conception
+* **Procedure**: Ultrasound-guided **Evacuation of Retained Products of Conception (ERPOC)**
+* **Timing**: Perform only after adequate IV antibiotic loading to prevent bacteremic showering
 
-### Source Control
-* Endometritis → antibiotics
-* Retained products → evacuation after antibiotic cover
-* Pelvic abscess → image-guided drainage or laparotomy
-* Wound infection → incision and drainage
-* Mastitis → antibiotics and drainage if abscess
+### Wound Complication Management
+* **Superficial Infection**: Open wound to drain pus
+* **Wound Care**: Pack with normal saline dressings
+* **Healing Method**: Allow healing by secondary intention
+* **Perineal Breakdown**: Surgical debridement of necrotic tissue
+* **Perineal Repair**: Delayed secondary resuturing once granulating
 
-### Surgical Indications
-* Uterine rupture
-* Necrotising fasciitis
-* Large pelvic abscess
-* Refractory sepsis
+### Deep Abscess Management
+* **Pelvic Abscess**: Transvaginal percutaneous drainage
+* **Pelvic Abscess**: CT-guided percutaneous drainage
+* **Thrombophlebitis**: Therapeutic Low Molecular Weight Heparin 
 
 ## 8. Post-partum/Post-operative Care, Contraception & Follow-up
+### Post-operative & Puerperal Care
+* **VTE Prophylaxis**: Early mobilization
+* **VTE Prophylaxis**: Low Molecular Weight Heparin administration
+* **Lactation Safety**: Encourage continued breastfeeding 
+* **Lactation Safety**: Prescribe lactation-safe antibiotics
 
-### Ongoing Postpartum Care
-* Monitor temperature, pulse, BP, urine output
-* Correct anaemia
-* Thromboprophylaxis
-* Support lactation if possible
-* Psychological support
-
-### Follow-up
-* Postnatal review after discharge
-* Wound assessment
-* Contraception discussion
-* Screen for retained products if persistent bleeding
+### Contraception & Follow-up
+* **Contraceptive Rule**: Delay intrauterine device insertion following recent postpartum sepsis
+* **Contraceptive Choice**: Progesterone-Only Pill
+* **Contraceptive Choice**: Barrier methods
+* **MCHC Follow-up**: Postnatal check at 6 weeks for involution assessment
+* **MCHC Follow-up**: Screen for **Postpartum Depression (產後抑鬱症)**
 
 ## 9. Maternal, Fetal & Gynaecological Complications
+### Severe Maternal Morbidity
+* **Acute Complication**: Septic shock with multi-organ failure
+* **Acute Complication**: Acute Respiratory Distress Syndrome 
+* **Acute Complication**: Acute Kidney Injury
+* **Haematological**: Disseminated Intravascular Coagulation 
+* **Haematological**: Severe secondary postpartum haemorrhage
 
-### Maternal Complications
-* Sepsis
-* Pelvic abscess
-* Septic thrombophlebitis
-* Septic shock
-* Hysterectomy
-* Maternal death
+### Long-Term Gynaecological Sequelae
+* **Structural**: **Asherman's Syndrome (宮腔粘連)** secondary to aggressive ERPOC
+* **Fertility**: Secondary infertility
+* **Pain Syndrome**: Chronic pelvic pain from adhesive disease
+* **Psychological**: Maternal bonding failure
 
-### Gynaecological Complications
-* Asherman’s syndrome after curettage
-* Chronic pelvic pain
-* Infertility from tubal damage
-
-### Escalation and Decision Thresholds
-* Start IV antibiotics within 1 hour if sepsis suspected
-* Escalate to ICU if hypotension, lactate >2 mmol/L, or confusion
-* Arrange pelvic ultrasound if fever persists >48 hours despite antibiotics
-* Drain abscess >5 cm or failed medical therapy
-* Re-examine lochia, wound, breasts, urine, and calves systematically before changing antibiotics
-
-* Screen for chorioamnionitis, endometritis, UTI, wound infection, mastitis, and VTE
-* Start empirical antibiotics after cultures, but do not delay >1 hour in sepsis
-* Use IV gentamicin and clindamycin for endometritis
-* Arrange pelvic ultrasound if fever persists despite 48 hours of antibiotics
-* Drain abscess if size >5 cm or if no clinical response
-* Reassess for retained products and uterine involution before discharge
-
-* Do not attribute fever to breast engorgement alone without excluding genital tract sepsis
-* Examine caesarean and perineal wounds systematically in every febrile postpartum woman
-* Consider septic pelvic thrombophlebitis if fever persists despite antibiotics and no abscess
-| Use CT or MRI if ultrasound does not identify a collection
-* Monitor lactate, urine output, and platelet count if sepsis is suspected
-* Do not delay antibiotics while awaiting culture results in severe sepsis
-* Consider endometritis if lochia is foul-smelling and uterus is tender
-
-* Check CRP and procalcitonin if sepsis is suspected
-* Arrange CT abdomen if ultrasound is inconclusive but fever persists
-* Consider duplex ultrasound if calf swelling suggests DVT
-* Check breast examination if fever occurs during lactation
 ## 10. Examiner's Pearls
-
-* Viva Question: What is the most likely diagnosis in fever with foul lochia and uterine tenderness? Answer: Endometritis.
-* Trap: Treating only with oral antibiotics in post-caesarean sepsis. Pearl: Use IV broad-spectrum therapy initially.
-* Pitfall: Missing pelvic abscess when fever persists despite antibiotics. Arrange pelvic imaging.
-* Viva Question: What is the first-line antibiotic combination for puerperal endometritis? Answer: Gentamicin plus clindamycin.
-* Pitfall: Failing to evacuate retained products when fever persists. Source control is essential.
-
-
-
-
-
-
+* Viva Question: What is the most common physiological cause of low-grade fever on postpartum day 1 versus a pathological cause on day 3? Answer: Day 1 is commonly reactionary due to dehydration and tissue trauma; Day 3 is most commonly endometritis or breast engorgement.
+* Trap: Assuming that an isolated fever in the first 24 hours postpartum immediately requires broad-spectrum IV antibiotics. Pearl: Low-grade fever in the first 24 hours is frequently a transient physiological response; monitor closely and initiate sepsis protocols if accompanied by tachycardia, rigors, or uterine tenderness.
+* Pitfall: Performing blind curettage on a highly inflamed septic postpartum uterus for retained products. A soft, infected myometrium is extremely prone to perforation; always ensure adequate IV antibiotic loading beforehand and utilize intraoperative ultrasound guidance.
