@@ -2,198 +2,178 @@
 
 ## 1. Clinical Definition, Gestational Context & Local Epidemiology
 
-### Definition and Severity Thresholds
-* **Primary PPH:** blood loss ≥500 mL within 24 hours of birth
-* **Severe PPH:** blood loss ≥1000 mL or clinical shock
-* **Secondary PPH:** excessive bleeding from 24 hours to 12 weeks postpartum
-* Major cause of maternal morbidity and mortality
+### Primary Postpartum Haemorrhage Clinical Definition
+* **Primary Postpartum Haemorrhage (原發性產後出血)**: Blood loss $\ge$ 500 ml from genital tract within first 24 hours postpartum.
+* Represents major cause of maternal morbidity/mortality globally and locally.
 
-### Key Epidemiology and Risk Prediction
-* Commonest cause: **uterine atony**
-* Risk factors:
-  * Prolonged labour
-  * Multiple pregnancy
-  * Macrosomia
-  * Grand multiparity
-  * Antepartum haemorrhage
-  * Chorioamnionitis
-  * Previous PPH
-* Use local risk assessment antenatally and intrapartum
+### Secondary Postpartum Haemorrhage Clinical Definition
+* **Secondary Postpartum Haemorrhage (繼發性產後出血)**: Excessive vaginal blood loss > 24 hours post-delivery up to 6 weeks postpartum.
+
+### Gestational Context & Risk Factors
+* **High-Risk Profiles**: 
+	* Induced labour
+	* Macrosomia (巨大兒)
+	* Grand multiparity
+	* Previous **Postpartum Haemorrhage (產後出血)**
+	* Retained placenta
+	* **Antepartum Haemorrhage (產前出血)**
 
 ## 2. Pathophysiology, Endocrine Axis & Pelvic Anatomy (Maternal-Fetal Physiology)
 
-### Uterine Atony Mechanism
-* Myometrial contraction compresses spiral arteries after placental separation
-* Failure of contraction → persistent placental site bleeding
-* Commonly caused by:
-  * Overdistended uterus
-  * Exhausted myometrium
-  * Anaesthesia
-  * Tocolytics
+### Pathophysiology of Primary Postpartum Haemorrhage
+* Normal haemostasis depends on myometrial contraction compressing spiral arteries.
+* **Uterine Atony (子宫收缩乏力)** accounts for 70% of primary cases → failure of myometrial fibres to contract/retract.
+* **Tissue**: Retained placenta prevents effective focal myometrial retraction.
+* **Trauma**: Lacerations of highly vascularized gravid cervix/vagina/perineum.
+* **Thrombin**: Depletion/dysfunction of coagulation factors → disseminated intravascular coagulation (DIC).
+* Rare physiological catastrophic failure: **Uterine Inversion (子宮內翻)**.
 
-### Genital Tract Trauma and Coagulopathy
-* Trauma causes bleeding from:
-  * Vagina
-  * Cervix
-  * Perineum
-  * Uterine incision
-* Coagulopathy may be caused by:
-  * Massive transfusion
-  * Placental abruption
-  * Sepsis
-  * Amniotic fluid embolism
+### Pathophysiology of Secondary Postpartum Haemorrhage
+* Infection/inflammation of decidua: **Endometritis (子宮内膜炎)**.
+* Necrosis and sloughing of **Retained Products of Conception (胎盤殘留)**.
+* Delayed shedding of eschar over placental bed.
+
+### Physiology of Normal Third Stage
+* Placental separation triggers:
+	* ↓ Uterine volume
+	* ↑ Uterine wall thickness
+	* Shearing forces at decidua spongiosa layer.
 
 ## 3. Clinical Assessment (History, Abdominal, Speculum & Bimanual Exam Findings ONLY)
 
-### Immediate History and Resuscitation Clues
-* Estimated blood loss
-* Rate of bleeding
-* Tone of uterus
-* Completeness of placenta
-* Instrumental or caesarean delivery
-* Anticoagulant use or bleeding disorder
+### Maternal History for Primary Postpartum Haemorrhage
+* G/P status, previous obstetrics history (prior PPH, macrosomia).
+* Details of current labour: length of 1st/2nd/3rd stages, use of oxytocics, operative delivery.
+* Symptoms of hypovolaemia: dizziness, palpitations, syncope.
 
-### Abdominal and Pelvic Findings
-* Soft, boggy uterus = **atony**
-* Fundal height higher than expected
-* Bleeding from genital tract tears
-* Cervical or vaginal lacerations
-* Uterine rupture if boggy, tender, or fetal parts easily palpable
+### Maternal History for Secondary Postpartum Haemorrhage
+* Onset, volume, and character of bleeding.
+* Presence of foul-smelling lochia (惡露).
+* Associated pelvic pain or fever.
+* Feeding history: use of lactation suppression drugs (affects return of menses).
+
+### Abdominal Examination Findings
+* **General**: Pallor, diaphoresis, altered sensorium.
+* **Vital Signs**: ↑ HR, ↓ BP, ↑ Capillary refill time (late signs of shock).
+* **Primary PPH Uterus**: Soft, boggy, poorly contracted, fundus higher than expected (e.g., above umbilicus).
+* **Secondary PPH Uterus**: Uterine tenderness, subinvolution (子宮復舊不全).
+
+### Speculum & Bimanual Examination Findings
+* **Speculum**: Active bleeding from cervical os, cervical/vaginal/perineal lacerations, vulvar/vaginal haematoma, foul discharge.
+* **Bimanual**: Uterine size/tenderness, open cervical os, palpable retained placental fragments, excitation tenderness (+ve in infection).
 
 ## 4. Critical Differential Diagnoses & Clinical Staging
 
-### Four-T Framework
-| Cause | Examples |
-| :--- | :--- |
-| **Tone** | Uterine atony |
-| **Trauma** | Cervical tear, vaginal tear, uterine rupture |
-| **Tissue** | Retained placenta, retained membranes |
-| **Thrombin** | Coagulopathy, DIC |
+### Aetiological Classification of Primary PPH (The 4 Ts)
 
-### Secondary PPH Differential
-* Retained products
-* Endometritis
-* Uterine involution failure
-* Genital tract trauma
-* Uterine arteriovenous malformation
-* Choriocarcinoma
+| Category | Pathology | Clinical Clues |
+| :--- | :--- | :--- |
+| **Tone (70%)** | **Uterine Atony (子宫收缩乏力)** | Boggy uterus, macrosomia, prolonged labour |
+| **Tissue (20%)** | **Retained Placenta (胎盤殘留)** | Incomplete placenta on inspection, USG +ve |
+| **Trauma (9%)** | Genital Tract Laceration / Haematoma | Firm uterus with ongoing bright red bleeding |
+| **Thrombin (1%)** | Coagulopathy / DIC | Non-clotting blood, bruising, petechiae |
+
+### Differential Diagnoses for Secondary Postpartum Haemorrhage
+
+| Diagnosis | Differentiating Features |
+| :--- | :--- |
+| **Endometritis (子宮内膜炎)** | Fever, uterine tenderness, foul lochia |
+| **Retained Products** | Open os, heavy bleeding, passage of tissue |
+| Normal Decidual Cast | Passed 7-10 days postpartum, transient spotting |
+| Early Menstruation | Normal uterus size, closed os, non-lactating |
 
 ## 5. Key Investigations (Labs, Specific Ultrasound Criteria & CTG Tracings)
 
-### Essential Maternal Tests
-* CBC
-* Clotting profile
-* Fibrinogen
-* Cross-match
-* Renal function and lactate if severe
-* Blood gas if shock
+### Acute Laboratory Investigations (Primary PPH)
+* **Type and Screen / Crossmatch**: Essential for massive transfusion protocol.
+* **Complete Blood Count (CBC)**: Baseline Hb/Hct, platelet count.
+* **Coagulation Profile**: PT, aPTT, fibrinogen, D-dimer.
+* **Renal & Liver Function**: Baseline for multiorgan failure assessment.
 
-### Ultrasound Findings
-* Retained products of conception
-* Uterine cavity echoes
-* Incomplete involution
-* Haematoma
-* Uterine rupture in selected cases
+### Diagnostic Investigations (Secondary PPH)
+* **Microbiology**: High vaginal swab (HVS), endocervical swab for C&S.
+* **Blood Cultures**: Indicated if high fever/sepsis suspected.
+* **Inflammatory Markers**: WBC with differential.
+
+### Specific Ultrasound Findings
+* **Pelvic USG**: Differentiates empty uterus (retained blood clots/decidua) vs. echogenic/vascular mass suggestive of retained products of gestation.
 
 ## 6. Medical Management & Acute Stabilization (Pharmacology, Steroids, Resuscitation)
 
-### Resuscitation Priorities
-* Call senior obstetrician, anaesthetist, haematologist
-* ABC approach
-* Two wide-bore IV cannulae
-* Crystalloid resuscitation
-* Early blood products
-* Catheterise bladder
-* Monitor vital signs and urine output
+### Acute Resuscitation Protocol
+* Multidisciplinary approach: Obstetrician, Anaesthetist, Midwives.
+* Lie flat, administer high-flow O2.
+* Insert x2 large-bore IV cannulae.
+* Infuse warmed crystalloids/colloids (avoid hypothermia).
+* Transfuse blood products: Frozen plasma, platelets, cryoprecipitate (Massive Transfusion Protocol).
+* Insert Foley catheter: Monitor hourly urine output.
 
-### Uterotonic Drug Algorithm
-* **Oxytocin 5 IU IV/IM**
-* **Ergometrine 0.25-0.5 mg IM/IV**
-  * Avoid in hypertension and pre-eclampsia
-* **Carboprost 250 µg IM** every 15 minutes, max 8 doses
-  * Avoid in asthma
-* **Misoprostol 800 µg sublingual/rectal**
-* **Tranexamic acid 1 g IV** early if severe bleeding
+### Pharmacological Management for Uterine Atony
+* **Syntocinon (Oxytocin / 催產素)**: IV bolus or continuous IV infusion.
+* **Carboprost (Prostaglandin F2$\alpha$)**: IM injection.
+* **Misoprostol (Prostaglandin E1)**: Rectal administration.
+* **Tranexamic Acid (TXA)**: Early IV administration to inhibit fibrinolysis and ↓ mortality.
+
+### Pharmacological Management for Secondary PPH
+* Broad-spectrum IV antibiotics for **Endometritis (子宮内膜炎)**.
+* IV fluid resuscitation if hypovolaemic.
+
+### Prophylactic Medical Management (Active Management of Third Stage)
+* Administer uterotonic (**Syntocinon** or Syntometrine) within 1 min of fetal delivery.
+* Controlled cord traction.
+* Delayed cord clamping $\ge$ 1 min (unless newborn requires resuscitation).
 
 ## 7. Definitive Management Algorithm (Timing/Mode of Delivery OR Gynaecological Surgery)
 
-### Mechanical and Surgical Management
-* Uterine massage
-* Bimanual compression
-* Balloon tamponade
-* Uterine compression sutures
-* Bilateral uterine artery ligation
-* Internal iliac artery ligation
-* Angiographic embolisation
-* Hysterectomy if life-threatening bleeding continues
+### Stepwise Algorithmic Management of Primary PPH
+* **Step 1: Mechanical**: Uterine massage and bimanual compression.
+* **Step 2: Medical**: Maximize uterotonics (Syntocinon → Misoprostol → Carboprost) + TXA.
+* **Step 3: Tamponade**: Intrauterine balloon tamponade (e.g., Bakri balloon).
+* **Step 4: Radiological**: Selective arterial embolization via angiography (if stable).
+* **Step 5: Surgical**: Laparotomy.
+	* Compression sutures (e.g., B-Lynch).
+	* Ligation of internal iliac arteries.
+	* **Hysterectomy (子宮切除術)** as life-saving last resort.
 
-### Retained Products Management
-* Manual removal of placenta
-* Evacuation of retained products
-* Antibiotic prophylaxis if infection risk
+### Surgical Management for Tissue & Trauma
+* **Retained Placenta**: Intraumbilical venous injection of Syntocinon (if stable) → Manual removal under anaesthesia.
+* **Trauma/Haematoma**: Direct surgical repair, evacuation of haematoma, achieving haemostasis under good lighting/anaesthesia.
+
+### Surgical Management for Secondary PPH
+* **Evacuation of Uterus (清宮手術)**: Indicated if retained products of gestation are suspected on USG and bleeding is heavy/ongoing despite medical therapy.
 
 ## 8. Post-partum/Post-operative Care, Contraception & Follow-up
 
-### Immediate Postpartum Monitoring
-* ICU if massive haemorrhage
-* Monitor:
-  * Vital signs
-  * Uterine tone
-  * Vaginal bleeding
-  * Urine output
-  * Coagulation status
-* Correct anaemia
-* Thromboprophylaxis
+### Intensive Care and Immediate Post-operative Monitoring
+* Admit to ICU/HDU for massive PPH.
+* Continuous monitoring: BP, HR, CVP (if indicated), SaO2, strict fluid balance.
+* Monitor for signs of secondary coagulopathy or septic shock.
+* Thromboprophylaxis assessment post-haemorrhage stabilization.
 
-### Follow-up and Future Pregnancy
-* Postnatal review
-* Fertility and contraception counselling
-* Screen for Sheehan’s syndrome if hypotension and lactation failure
-* High vigilance for recurrence in future pregnancy
+### Long-Term Follow-up & Contraception
+* **Iron Replacement**: Oral or IV iron for secondary anaemia.
+* **Contraception**: Progesterone-only pills or barrier methods. Avoid combined oral contraceptives initially due to thrombosis risk and interference with lactation.
+* Counsel regarding ↑ risk of PPH in future pregnancies.
 
 ## 9. Maternal, Fetal & Gynaecological Complications
 
-### Maternal Complications
-* Hypovolaemic shock
-* DIC
-* Acute kidney injury
-* Sheehan’s syndrome
-* Hysterectomy
-* Maternal death
+### Acute Maternal Complications
+* Hypovolaemic shock.
+* Disseminated Intravascular Coagulation (DIC).
+* Acute Kidney Injury (AKI) secondary to hypoperfusion.
+* Transfusion-related complications (TRALI, TACO).
+* Maternal death.
 
-### Neonatal and Gynaecological Complications
-* Neonatal consequences of maternal shock
-* Subfertility after hysterectomy
-* Asherman’s syndrome after curettage
-* Psychological trauma
+### Long-term Gynaecological Complications
+* **Asherman Syndrome (子宮腔粘連)**: ↑ risk of intrauterine adhesions following surgical evacuation of uterus for secondary PPH.
+* Sheehan Syndrome: Pituitary necrosis leading to panhypopituitarism (agalactorrhoea, amenorrhoea) secondary to severe hypovolaemic shock.
+* Psychosocial impact: Postpartum depression, PTSD.
 
-### Escalation and Decision Thresholds
-* Activate massive transfusion protocol if blood loss >1000 mL or shock
-* Give tranexamic acid 1 g IV early
-* Avoid ergometrine in hypertension and carboprost in asthma
-* Use balloon tamponade before laparotomy if atony persists after uterotonics
-* Consider hysterectomy if bleeding continues despite conservative surgery
-
-* Activate massive transfusion protocol if blood loss >1000 mL or shock
-* Give tranexamic acid 1 g IV early
-* Use oxytocin first-line; carboprost only if no asthma
-* Avoid ergometrine in hypertension or pre-eclampsia
-* Insert intrauterine balloon if bleeding persists after uterotonics
-* Move to laparotomy if balloon fails or genital tract trauma is suspected
-
-* Check placenta immediately after delivery for completeness
-* Examine cervix and vagina if bleeding persists despite firm uterus
-* Consider coagulopathy if bleeding is diffuse and oozing
-* Call gynaecology-oncology or interventional radiology early if bleeding continues
 ## 10. Examiner's Pearls
 
-* Viva Question: What is the first-line drug in severe PPH if the uterus remains atonic after oxytocin? Answer: Consider ergometrine if no hypertension, carboprost if no asthma, and tranexamic acid early.
-* Trap: Giving ergometrine in a woman with severe pre-eclampsia. Pearl: Use oxytocin and carboprost instead.
-* Pitfall: Delaying tranexamic acid until massive transfusion. Pearl: Give 1 g IV as early as possible.
-* Viva Question: When should balloon tamponade be used? Answer: After uterotonics fail, before laparotomy in atonic PPH.
-* Pitfall: Missing a cervical tear because attention is focused on uterine tone. Always inspect the cervix and vagina systematically.
-
-
-
-
-
+* Viva Question: What is the most common cause of primary postpartum haemorrhage and its initial physical management? Answer: Uterine atony; initial management is rubbing up the fundus (uterine massage) and bimanual compression.
+* Trap: Assuming ongoing bleeding is due to uterine atony when the uterus is firm and well-contracted. Pearl: Always inspect the lower genital tract for lacerations or haematoma if the uterus is well-contracted.
+* Viva Question: Which medication is contraindicated in the active management of the third stage for a patient with pre-eclampsia? Answer: Ergometrine (or Syntometrine), as it can cause severe hypertension and bronchospasm.
+* Pitfall: Delaying the administration of Tranexamic Acid (TXA). Early administration of TXA within the first 3 hours significantly reduces maternal mortality from bleeding.
+* Trap: Relying solely on ultrasound to definitively distinguish between retained products and infected blood clots in secondary PPH. Pearl: Correlate USG findings with clinical signs (fever, open os) and use broad-spectrum antibiotics promptly before planning surgical evacuation.
+* Viva Question: What is the severe long-term endocrine complication of massive primary PPH? Answer: Sheehan syndrome (postpartum pituitary necrosis).

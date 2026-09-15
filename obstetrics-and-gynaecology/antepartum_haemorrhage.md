@@ -14,10 +14,10 @@
 ### Pathophysiology of Placenta Praevia (胎盤前置)
 * Abnormal placental implantation in **lower uterine segment**.
 * Grading based on internal os relationship:
-* **Type I (Low-lying)**: Near internal os.
-* **Type II (Marginal)**: Reaching internal os.
-* **Type III (Partial)**: Partially covering internal os.
-* **Type IV (Complete)**: Completely covering internal os.
+	* **Type I (Low-lying)**: Near internal os.
+	* **Type II (Marginal)**: Reaching internal os.
+	* **Type III (Partial)**: Partially covering internal os.
+	* **Type IV (Complete)**: Completely covering internal os.
 
 ### Pathophysiology of Placental Abruption (胎盤早剝)
 * Premature separation of normally sited placenta.
@@ -34,20 +34,20 @@
 ### Maternal History Assessment
 * **Current Gestation**: GA, fetal movements (↓ implies distress).
 * **Bleeding Characteristics**:
-* Painless, unprovoked bleeding → heavily suggests **Placenta Praevia (胎盤前置)**.
-* Painful bleeding + uterine contractions → heavily suggests **Placental Abruption (胎盤早剝)**.
-* Small blood + mucus → **Show** (mucus plug dislodgement).
-* **Previous Obstetric Hx**: Prior APH, previous uterine scar/LSCS.
-* **Maternal Symptoms**: Dizziness, syncope (hypovolaemia).
+	* Painless, unprovoked bleeding → heavily suggests **Placenta Praevia (胎盤前置)**.
+	* Painful bleeding + uterine contractions → heavily suggests **Placental Abruption (胎盤早剝)**.
+	* Small blood + mucus → **Show** (mucus plug dislodgement).
+	* **Previous Obstetric Hx**: Prior APH, previous uterine scar/LSCS.
+	* **Maternal Symptoms**: Dizziness, syncope (hypovolaemia).
 
 ### Abdominal Examination Findings
 * **Vital Signs**: ↑ HR, ↓ BP, pallor (correlate with shock severity).
 * **Uterus**:
-* Tender, woody/hard, irritable → **Placental Abruption**.
-* Soft, non-tender → **Placenta Praevia**.
+	* Tender, woody/hard, irritable → **Placental Abruption**.
+	* Soft, non-tender → **Placenta Praevia**.
 * **Fetal Assessment**:
-* High presenting part / malpresentation → suggests **Placenta Praevia**.
-* Fetal HR auscultation.
+	* High presenting part / malpresentation → suggests **Placenta Praevia**.
+	* Fetal HR auscultation.
 
 ### Pelvic Examination Rules
 * **STRICT CONTRAINDICATION**: NO digital vaginal or rectal exam unless **Placenta Praevia** explicitly excluded (risk of catastrophic bleeding).
@@ -103,15 +103,15 @@
 
 ### Mode of Delivery Selection
 * **Lower Segment Caesarean Section (LSCS) (剖腹產)**:
-* **Placenta Praevia** (Type II-IV).
-* Fetal distress.
-* Moderate-to-severe **Placental Abruption**.
+	* **Placenta Praevia** (Type II-IV).
+	* Fetal distress.
+	* Moderate-to-severe **Placental Abruption**.
 * **Vaginal Delivery (陰道分娩)**:
-* APH of unknown origin.
-* Lower genital tract lesions.
-* Mild **Placental Abruption** w/o fetal compromise.
-* **Placenta Praevia** Type I w/o active bleeding.
-* **Placental Abruption** with Intrauterine Death (IUD).
+	* APH of unknown origin.
+	* Lower genital tract lesions.
+	* Mild **Placental Abruption** w/o fetal compromise.
+	* **Placenta Praevia** Type I w/o active bleeding.
+	* **Placental Abruption** with Intrauterine Death (IUD).
 
 ### Intrapartum Care
 * **NPO** (Nil per os).

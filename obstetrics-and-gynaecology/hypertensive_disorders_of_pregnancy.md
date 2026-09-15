@@ -21,6 +21,7 @@
 * Abnormal trophoblast invasion → impaired spiral artery remodelling → uteroplacental ischemia
 * Ischemic placenta releases anti-angiogenic factors → systemic maternal endothelial dysfunction
 * Endothelial damage → ↑ capillary permeability (oedema/proteinuria), ↑ vasoconstriction (HTN), microangiopathic haemolysis
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/769ce8c53da5c4ee52515df110042e49.png)
 
 ### Physiological Hemodynamic Shifts
 * Normal pregnancy: ↓ peripheral vascular resistance (PVR) via progesterone & prostaglandins

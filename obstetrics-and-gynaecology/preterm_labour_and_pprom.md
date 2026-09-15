@@ -1,169 +1,162 @@
-# Preterm Labour & PPROM (早產及胎膜早破)
+# Preterm Labour & PPROM (早產與未足月胎膜早破)
 
 ## 1. Clinical Definition, Gestational Context & Local Epidemiology
 
-### Definition of Preterm Labour
-*   Onset of regular painful uterine contractions bringing about progressive effacement and dilatation of cervix < 37 completed weeks GA.
+### Clinical Definitions
+* **Preterm Labour (早產)**: Onset of regular painful uterine contractions with progressive cervical effacement/dilatation <37 weeks GA.
+* **PPROM (未足月胎膜早破)**: Preterm Premature Rupture of Membranes. Rupture of fetal membranes <37 weeks GA before onset of regular contractions.
+* **Iatrogenic Preterm Birth**: Medically indicated preterm delivery (e.g., for severe Pre-eclampsia, FGR).
 
-### Definition of PPROM
-*   Prelabour Rupture of Membranes (胎膜早破).
-*   Rupture of amniotic membranes prior to onset of regular uterine contractions < 37 weeks GA.
-
-### Gestational Context & Local Epidemiology
-*   Major cause of perinatal morbidity & mortality.
-*   Two-thirds of preterm deliveries occur in women with no identifiable risk factors.
-*   Neonatal survival and morbidity correlate directly with GA at delivery.
+### Gestational Context & Epidemiology
+* Incidence: ~5-10% of pregnancies in HK.
+* GA Classification:
+  * Extreme preterm: <28 weeks
+  * Very preterm: 28 to <32 weeks
+  * Moderate to late preterm: 32 to <37 weeks
+* Accounts for >70% of perinatal mortality/morbidity.
+* 2/3 of preterm deliveries occur in women with no prior risk factors.
 
 ## 2. Pathophysiology, Endocrine Axis & Pelvic Anatomy (Maternal-Fetal Physiology)
 
-### Maternal-Fetal Endocrine Axis
-*   Premature activation of fetal hypothalamic-pituitary-adrenal (HPA) axis → ↑ fetal cortisol.
-*   ↓ placental progesterone production & ↑ oestrone/oestradiol production.
-*   Loss of progesterone-mediated myometrial quiescence.
+### Maternal-Fetal Endocrine Axis & Mediators
+* **Pathological Activation**: Premature activation of fetal HPA axis → ↑ fetal cortisol → ↓ placental progesterone → ↑ oestradiol.
+* **Inflammatory Cascade**: Infection/inflammation → activation of decidual macrophages → ↑ IL-1, IL-6, TNF-α → ↑ prostaglandin (PGE2, PGF2α) synthesis.
+* **Uterotonics**: Prostaglandins & oxytocin → ↑ myometrial intracellular Ca2+ → contraction.
 
-### Inflammatory & Infectious Pathway
-*   Ascending genital tract infection (e.g., Group B Streptococcus, Bacterial Vaginosis) → local inflammatory response.
-*   Release of inflammatory cytokines (IL-1, IL-6, TNF-a) in decidua/amnion.
-*   ↑ placental/myometrial prostaglandin synthesis → myometrial gap junction formation, intracellular Ca2+ release → uterine contractions.
-
-### Pelvic Anatomical Factors
-*   Cervical incompetence/weakness → premature ripening & shortening.
-*   Uterine overdistension (multiple pregnancies, polyhydramnios) → myometrial stretch receptors trigger reflex contractions.
+### Pelvic Anatomy & Cervical Factors
+* **Cervical Remodelling**: Inflammatory cytokines → collagen degradation via matrix metalloproteinases (MMPs) → loss of structural integrity → cervical shortening/effacement.
+* **Uterine Overdistension**: Multiple pregnancy or polyhydramnios → excessive myometrial stretch → upregulation of oxytocin receptors & gap junctions.
+* **Chorioamnionitis**: Ascending bacterial colonization from lower genital tract → weakening of chorioamniotic membranes → PPROM.
 
 ## 3. Clinical Assessment (History, Abdominal, Speculum & Bimanual Exam Findings ONLY)
 
 ### Maternal History
-*   G/P, LMP, GA/EDD.
-*   Lower abdominal cramping, backache, or pelvic pressure.
-*   Vaginal fluid leakage (sudden gush or continuous trickle).
-*   Vaginal bleeding / show (blood-stained mucus).
-*   Fetal movements (+ve/-ve).
-*   Past obstetric history: previous preterm birth, late miscarriage, cervical surgery (LEEP/cone biopsy).
-*   Infectious symptoms: fever, dysuria, abnormal vaginal discharge.
+* **Presenting Symptoms**: Regular rhythmic abdominal/pelvic pain, pelvic pressure, backache.
+* **Vaginal Symptoms**: Sudden gush of fluid (PPROM), continuous trickling, blood-stained mucus show, +ve/-ve frank bleeding.
+* **Risk Factors**: Previous preterm birth, multiple pregnancy, smoking, low SES, extremes of age.
+* **Medical/Obstetric History**: Known FGR, polyhydramnios, uterine anomalies, recent UTI or vaginal discharge.
 
 ### Abdominal Examination Findings
-*   Vital signs: maternal fever, tachycardia.
-*   Palpable regular uterine contractions (frequency, duration, intensity).
-*   Uterine tenderness (pathognomonic for chorioamnionitis or placental abruption).
-*   Symphyseal fundal height (SFH) assessment.
-*   Fetal lie & presentation (high incidence of malpresentation in preterm fetus).
+* **Vital Signs**: ↑ Temp, ↑ HR (suggestive of sepsis/chorioamnionitis).
+* **Palpation**: 
+  * SFH (assess growth/polyhydramnios).
+  * Fetal lie & presentation (high incidence of breech/transverse <37 wks).
+  * Uterine tone: Soft between contractions vs irritable/tender (suggests abruption or chorioamnionitis).
+* **Contractions**: Palpable, regular, assess frequency/duration (e.g., >4 in 20 mins).
 
-### Speculum Examination Findings
-*   Sterile speculum exam mandatory for suspected PPROM.
-*   Visual pooling of clear amniotic fluid in posterior vaginal fornix.
-*   Fluid leakage from cervical os upon coughing (+ve Valsalva/cough test).
-*   Visual assessment of cervical dilatation or prolapsed fetal membranes.
-
-### Bimanual Examination Findings
-*   Evaluate Bishop score parameters (dilatation, effacement, station, consistency, position).
-*   Strictly avoid digital examination if PPROM is established (↑ risk of ascending infection).
+### Speculum & Bimanual Examination Findings
+* **Sterile Speculum Exam (Crucial for PROM)**: 
+  * Direct visualization of amniotic fluid pooling in posterior fornix.
+  * Fluid leaking from cervical os upon coughing (Valsalva).
+  * Assess for cord prolapse (臍帶脫垂).
+* **Digital Vaginal Exam (Contraindicated if PROM unless in active labour)**: 
+  * Assess Bishop score (cervical dilatation, effacement, station, consistency, position).
+  * Rule out compound presentation.
 
 ## 4. Critical Differential Diagnoses & Clinical Staging
 
-### Differential Diagnoses Table
+### Critical Differential Diagnoses
+* **Obstetric**: Placental abruption (胎盤早剝), severe pre-eclampsia, Braxton-Hicks contractions, physiological round ligament pain.
+* **Gynaecological**: Ovarian cyst torsion/rupture, red degeneration of fibroid.
+* **Non-Obstetric**: UTI/Pyelonephritis, acute appendicitis, gastroenteritis, renal colic.
 
-| Presentation | Key Distinguishing Features |
-| :--- | :--- |
-| **Preterm Labour (早產)** | Regular painful contractions + progressive cervical changes < 37w GA |
-| **PPROM (胎膜早破)** | Membrane rupture + leakage of liquor without regular contractions < 37w GA |
-| **Braxton-Hicks Contractions** | Irregular, painless, short-lived contractions; NO cervical effacement/dilatation |
-| **Placental Abruption (胎盤早剝)** | Constant abdominal pain, woody hard & tender uterus, heavy vaginal bleeding |
-| **Chorioamnionitis (絨毛膜羊膜炎)** | Maternal fever, uterine tenderness, foul-smelling liquor, fetal tachycardia |
-| **Urinary Tract Infection** | Dysuria, frequency, flank tenderness, fever without progressive cervical changes |
-| **Symphysis Pubis Dysfunction** | Suprapubic/pelvic pain aggravated by weight-bearing; NO uterine contractions |
+### Bishop Score Staging
+| Parameter | 0 | 1 | 2 | 3 |
+| :--- | :--- | :--- | :--- | :--- |
+| **Dilatation (cm)** | 0 | 1-2 | 3-4 | 5-6 |
+| **Length of Cervix (cm)** | 3 | 2 | 1 | 0 |
+| **Consistency** | Firm | Medium | Soft | - |
+| **Position** | Posterior | Middle | Anterior | - |
+| **Station** | -3 | -2 | -1/0 | +1/+2 |
 
 ## 5. Key Investigations (Labs, Specific Ultrasound Criteria & CTG Tracings)
 
-### Maternal Laboratory Investigations
-*   Complete Blood Count (CBC): ↑ WBC, neutrophilia.
-*   C-Reactive Protein (CRP): ↑ levels suggest subclinical infection.
-*   High Vaginal Swab (HVS) & Low Vaginal/Rectal Swab: culture for Group B Streptococcus (GBS) & Bacterial Vaginosis.
-*   Mid-Stream Urine (MSU): microscopy & culture to exclude UTI/asymptomatic bacteriuria.
-
-### Fetal & Amniotic Fluid Tests
-*   Amniotic fluid pH testing (Nitrazine test) or biomarker detection (IGFBP-1/PAMG-1 via Actim PROM/AmniSure).
-*   Fetal Fibronectin (fFN) swab: high negative predictive value for preterm birth within 14 days.
+### Key Laboratory Investigations
+* **Microbiology**: High vaginal swab (HVS) & Low vaginal/rectal swab for GBS (B型鏈球菌). Endocervical swab (Chlamydia/Gonorrhoea). MSU (urinalysis/culture to rule out UTI).
+* **Blood Tests**: CBP (↑ WBC, ↓ Hb), CRP (baseline for infection), Type & Screen.
+* **Bedside Biochemical Markers**: AmniSure (detects PAMG-1) or Actim PROM (detects IGFBP-1) if pooling is equivocal. Fetal fibronectin (fFN) from posterior fornix to predict preterm birth risk.
 
 ### Specific Ultrasound Criteria
-*   Transvaginal ultrasound (TVUS) for cervical length: Short cervix defined as < 2.5 cm.
-*   Fetal biometry: Estimated fetal weight (EFW) to assess for Fetal Growth Restriction (FGR).
-*   Amniotic Fluid Index (AFI): diagnosis of oligohydramnios secondary to PPROM.
-*   Umbilical artery Doppler: reversed/absent end-diastolic flow if accompanied by FGR.
+* **Transvaginal Ultrasound (TVUS)**: 
+  * Cervical length assessment: <2.5cm is high risk for preterm birth.
+  * Funnelling of internal os.
+* **Transabdominal Ultrasound**: 
+  * EFW, biometry, amniotic fluid index (AFI) → rule out polyhydramnios/oligohydramnios.
+  * Fetal lie/presentation.
+  * Doppler studies (umbilical artery) if concurrent FGR suspected.
 
-### CTG Tracings
-*   Baseline fetal heart rate (FHR): fetal tachycardia (>160 bpm) highly indicative of chorioamnionitis or fetal hypoxia.
-*   Tocodynamometry: confirms frequency, duration, and regularity of uterine contractions.
+### CTG Tracings & Fetal Monitoring
+* **Tocodynamometry**: Quantify contraction frequency/regularity.
+* **Baseline HR**: Normal 110-160 bpm. Fetal tachycardia (>160 bpm) is an early sign of chorioamnionitis.
+* **Variability/Decelerations**: Look for reduced variability or variable decelerations (cord compression due to oligohydramnios in PPROM).
 
 ## 6. Medical Management & Acute Stabilization (Pharmacology, Steroids, Resuscitation)
 
-### Corticosteroid Prophylaxis
-*   **Betamethasone** 12 mg IM q24h x 2 doses (or **Dexamethasone**).
-*   Indicated < 34 weeks GA to promote fetal lung maturity.
-*   ↓ incidence of Respiratory Distress Syndrome (RDS), Intraventricular Haemorrhage (IVH), and Necrotizing Enterocolitis (NEC).
+### Acute Stabilization & Tocolysis
+* **Goal**: Delay delivery by 48 hrs to allow corticosteroid effect. 
+* **Contraindications to Tocolysis**: Chorioamnionitis, placental abruption, suspected fetal compromise, severe pre-eclampsia, stillbirth.
+* **First-line Tocolytics**: 
+  * **Nifedipine (CCB)**: PO. Side effects: maternal hypotension, tachycardia, flushing.
+  * **Atosiban (Oxytocin receptor antagonist)**: IV. Fewer cardiovascular side effects.
+* **Second-line Tocolytics**: 
+  * **Beta-sympathomimetics (Terbutaline / Salbutamol)**: IV/SC. Side effects: maternal tachycardia, hypotension, hypokalaemia, hyperglycaemia, pulmonary oedema.
 
-### Fetal Neuroprotection
-*   **IV Magnesium Sulphate (MgSO4)**.
-*   Indicated for imminent delivery between 24+0 and 29+6 weeks GA.
-*   Start 4 hours prior to anticipated birth to ↓ risk of cerebral palsy.
-*   Monitor maternal respiratory rate, patellar reflexes, and urine output (toxicity prevention).
+### Fetal Neuroprotection & Lung Maturity
+* **Corticosteroids (皮質類固醇)**: 
+  * Indication: GA < 34 weeks.
+  * Regimen: Dexamethasone or Betamethasone IM. Reduces RDS, NEC, IVH.
+* **Neuroprotection**: 
+  * **Magnesium Sulphate (MgSO4, 硫酸鎂)**: IV infusion.
+  * Indication: GA 24+0 to 29+6 weeks (established preterm labour).
+  * Timing: Start ideally 4 hrs before birth. Reduces risk of cerebral palsy.
 
-### Acute Tocolysis
-*   Goal: delay delivery by 48 hours to allow corticosteroid effect.
-*   **PO Nifedipine** (Calcium channel blocker). SE: hypotension, flushing, tachycardia.
-*   **IV Atosiban** (Oxytocin receptor antagonist). Preferred due to fewer maternal SEs.
-*   **IV Terbutaline/Salbutamol** (Beta-sympathomimetics). SE: tachycardia, hypokalemia, pulmonary edema.
-*   Contraindications for tocolysis: chorioamnionitis, placental abruption, stillbirth, or severe fetal compromise.
-
-### Antibiotic Prophylaxis
-*   **IV Penicillin** (or Ampicillin) intrapartum for GBS prophylaxis if: membrane rupture >18h, preterm labour, or maternal fever >38°C.
-*   If penicillin allergy: **IV Clindamycin**, **Erythromycin**, or **Vancomycin**.
-*   **PO Erythromycin** (for 10 days) strictly for PPROM to prolong latency period.
+### Antimicrobial Therapy
+* **PPROM Prophylaxis**: PO Erythromycin for 10 days (prolongs latency, reduces neonatal infection). Avoid Co-amoxiclav (↑ risk of neonatal NEC).
+* **GBS Prophylaxis**: IV Penicillin G in labour (or IV Clindamycin / Erythromycin if allergic; IV Vancomycin if resistant).
 
 ## 7. Definitive Management Algorithm (Timing/Mode of Delivery OR Gynaecological Surgery)
 
 ### Timing of Delivery Algorithm
-*   < 34 weeks GA: Expectant management. Tocolysis x 48h to facilitate steroids/MgSO4, then stop tocolytics. Deliver immediately if signs of chorioamnionitis or non-reassuring CTG.
-*   34 - 36+6 weeks GA: Individualized. Avoid tocolytics. Consider Induction of Labour (IOL) if PPROM or proceed with spontaneous delivery if in active labour.
-*   Active Labour (> 4cm dilated): Do not attempt tocolysis. Proceed to delivery.
+* **Uncomplicated PPROM**: Expectant management until 34-37 weeks (per HA protocol), monitor strictly for chorioamnionitis. Induce labour at 34-37 weeks.
+* **Preterm Labour with Intact Membranes**: Do not arrest labour if GA >34 weeks. Allow spontaneous progression.
+* **Complicated PPROM/Preterm Labour (e.g., clinical chorioamnionitis, abruption, fetal distress)**: Expedite delivery immediately regardless of GA.
 
 ### Mode of Delivery Principles
-*   In-utero transfer to a tertiary hospital with available Neonatal Intensive Care Unit (NICU) cots prior to delivery.
-*   Vaginal delivery (陰道分娩): preferred for stable, cephalic presentation.
-*   Instrumental delivery: Ventouse strictly contraindicated < 34 weeks (↑ risk of cephalohaematoma/IVH). Forceps preferred if required.
-*   Emergency Lower Segment Caesarean Section (LSCS) (剖腹產): indicated for fetal distress, cord prolapse, breech presentation, or failed progression.
+* **Vertex Presentation**: Aim for vaginal delivery. Use continuous electronic fetal heart monitoring (CFHM). Avoid routine episiotomy unless indicated.
+* **Breech Presentation**: LSCS (剖腹產) preferred for preterm breech to prevent head entrapment and birth trauma.
+* **In-Utero Transfer**: Transfer mother to tertiary unit with NICU cot availability BEFORE delivery if GA <32 weeks or BW <1500g.
 
 ## 8. Post-partum/Post-operative Care, Contraception & Follow-up
 
-### Immediate Post-partum & Neonatal Care
-*   Delayed cord clamping (≥ 1 minute) if neonate is vigorous, to ↓ anemia and need for blood transfusion.
-*   Mandatory paediatrician/neonatologist attendance at delivery for immediate resuscitation and NICU transfer.
-*   Active management of 3rd stage of labour to prevent Postpartum Haemorrhage (PPH).
+### Post-operative & Immediate Post-partum Care
+* **Third Stage**: Active management to prevent PPH (uterotonics).
+* **Delayed Cord Clamping**: Delay 1-3 minutes to improve neonatal haemodynamics and ↓ IVH, unless immediate neonatal resuscitation required.
+* **Maternal Monitoring**: Monitor Temp, HR, BP, Lochia, and uterine involution. Sepsis watch if PPROM.
 
-### Contraception & Future Follow-up
-*   Pre-pregnancy counseling for future pregnancies: high risk of recurrent preterm birth.
-*   Future pregnancy management: sequential cervical length surveillance, prophylactic cervical cerclage (宮頸環扎), or prophylactic progesterone therapy.
-*   Contraception: Progesterone-only methods (POP/Implant) or IUCD preferred if breastfeeding.
+### Contraception & Follow-up Plans
+* **Future Pregnancy Planning**: High risk of recurrence. Pre-pregnancy counseling advised.
+* **Prophylaxis in Next Pregnancy**: Consider serial TVUS cervical length monitoring. Options include prophylactic cervical cerclage (宮頸環扎) or vaginal Progesterone if history of spontaneous preterm birth or short cervix.
+* **Contraception**: Routine methods post-partum (POP, IUCD/IUS, Barrier).
 
 ## 9. Maternal, Fetal & Gynaecological Complications
 
-### Maternal Complications
-*   Chorioamnionitis (絨毛膜羊膜炎) and postpartum endometritis.
-*   Sepsis / Septic shock.
-*   Tocolytic side effects (e.g., beta-agonist induced pulmonary edema).
-*   Psychological trauma and postpartum depression (產後抑鬱症).
+### Maternal & Gynaecological Complications
+* **Infectious**: Clinical chorioamnionitis, postpartum endometritis, maternal sepsis.
+* **Procedural**: Operative delivery complications (LSCS risks, PPH).
+* **Psychosocial**: Anxiety, depression, bonding difficulties due to NICU admission.
 
 ### Fetal & Neonatal Complications
-*   Respiratory Distress Syndrome (RDS) due to surfactant deficiency.
-*   Intraventricular Haemorrhage (IVH).
-*   Necrotizing Enterocolitis (NEC).
-*   Neonatal sepsis (early-onset GBS infection).
-*   Cerebral palsy (腦痙攣), visual/hearing deficits, and long-term neurodevelopmental delay.
-*   Cord prolapse (臍帶脫垂) secondary to PPROM and unengaged presenting part.
+* **Respiratory**: Respiratory Distress Syndrome (RDS), bronchopulmonary dysplasia (BPD).
+* **Neurological**: Intraventricular haemorrhage (IVH), cerebral palsy, neurodevelopmental delay.
+* **Gastrointestinal**: Necrotizing enterocolitis (NEC).
+* **Infectious**: Neonatal sepsis (early onset GBS, E. coli).
+* **Other**: Retinopathy of prematurity (ROP), hypothermia, hypoglycaemia, jaundice.
 
 ## 10. Examiner's Pearls
 
-*   Viva Question: What is the primary clinical objective of administering acute tocolysis in preterm labour? Answer: To delay delivery by 48 hours to allow maximal efficacy of maternal corticosteroid administration and to facilitate in-utero transfer to a hospital with NICU facilities.
-*   Trap: Performing routine digital vaginal examinations on women presenting with suspected PPROM. Pearl: Strictly use a sterile speculum examination to confirm pooling of liquor and visually assess cervical dilatation to minimize the risk of ascending infection and chorioamnionitis.
-*   Pitfall: Attempting to use a Ventouse vacuum extractor for instrumental delivery in a 32-week preterm fetus. Ventouse is strictly contraindicated in fetuses < 34 weeks GA due to the extremely high risk of cephalohaematoma, subaponeurotic haemorrhage, and intracranial bleeding.
-*   Viva Question: When and why is intravenous Magnesium Sulphate indicated in preterm labour management? Answer: It is indicated for fetal neuroprotection in imminent preterm deliveries between 24+0 and 29+6 weeks GA, started 4 hours prior to birth, to significantly reduce the risk of cerebral palsy in the neonate.
-*   Trap: Prescribing broad-spectrum antibiotics like Co-amoxiclav for PPROM latency prolongation. Pearl: Prescribe oral Erythromycin for 10 days for PPROM; Co-amoxiclav is associated with an increased risk of neonatal Necrotizing Enterocolitis (NEC) and should be avoided in this specific context.
+* Viva Question: What are the absolute contraindications to tocolysis in preterm labour? Answer: Chorioamnionitis, placental abruption, fetal compromise/distress, stillbirth, and severe maternal disease dictating immediate delivery.
+* Trap: Assuming digital vaginal examination is part of the routine workup for PPROM. Pearl: Avoid digital vaginal examination in PPROM unless the patient is in established active labour, as it significantly increases the risk of ascending infection and chorioamnionitis.
+* Pitfall: Prescribing Co-amoxiclav for PPROM latency prophylaxis. This increases the risk of neonatal necrotizing enterocolitis (NEC). Use oral Erythromycin instead.
+* Viva Question: What is the exact GA window for MgSO4 administration for fetal neuroprotection according to the HKU O&G protocol? Answer: 24+0 to 29+6 weeks gestation for established preterm labour.
+* Trap: Using Nifedipine and Magnesium Sulphate concurrently without extreme caution. Pearl: Concurrent use of CCBs and MgSO4 can cause profound maternal hypotension and neuromuscular blockade; monitor vitals strictly if combined.
+* Pitfall: Waiting for steroid course to complete before delivering a fetus with chorioamnionitis. Chorioamnionitis requires immediate delivery and broad-spectrum antibiotics, regardless of corticosteroid administration timing.
