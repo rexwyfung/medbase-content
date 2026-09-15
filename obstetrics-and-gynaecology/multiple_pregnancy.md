@@ -1,213 +1,159 @@
-# Multiple Pregnancy (多胎妊娠)
+# Multiple Pregnancy (多胞胎)
 
 ## 1. Clinical Definition, Gestational Context & Local Epidemiology
 
-### Definition and Chorionicity-Based Classification
-* **Multiple pregnancy (多胎妊娠):** more than one fetus in the same uterus
-* Most commonly twins; higher-order multiples are less common
-* Classify by:
-  * **Zygosity:** monozygotic or dizygotic
-  * **Chorionicity:** monochorionic or dichorionic
-  * **Amnionicity:** monoamniotic or diamniotic
-* Standard clinical categories:
-  * **DCDA:** dichorionic diamniotic
-  * **MCDA:** monochorionic diamniotic
-  * **MCMA:** monochorionic monoamniotic
+### Definition & Classification
+* **Multiple Pregnancy (多胞胎):** Pregnancy with >1 gestation (twins, triplets).
+* **Monozygotic (MZ) (同卵):** Single zygote splitting → genetically identical.
+* **Dizygotic (DZ) (異卵):** Two separate eggs fertilized by two sperm → non-identical.
 
-### Local Epidemiology and Clinical Importance
-* Rising incidence due to **assisted reproductive technology**
-* Major driver of perinatal morbidity because of:
-  * Preterm birth
-  * Fetal growth restriction
-  * Pre-eclampsia
-  * Monochorionic complications
-* Chorionicity is the most important determinant of antenatal risk and surveillance
+### Local Epidemiology & Risk Factors
+* **Prevalence:** Rising globally and locally primarily due to Assisted Reproductive Technology (ART) including IVF/IUI.
+* **MZ Rate:** Relatively constant worldwide (~0.4%).
+* **DZ Risk Factors:** Dependent on maternal age, parity, race, heredity, and ovulation induction/ART.
+* **Higher-order multiples:** Strongly discouraged in local HK HA practices; guidelines limit embryo transfer (≤2) in IVF to reduce triplet+ pregnancies.
 
 ## 2. Pathophysiology, Endocrine Axis & Pelvic Anatomy (Maternal-Fetal Physiology)
 
-### Embryonic Splitting and Resulting Placentation
-* **Dizygotic twins:** two ova fertilised by two sperm → almost always **DCDA**
-* **Monozygotic twins:** one zygote splits
-  * Days 1-3 → **DCDA**
-  * Days 4-7 → **MCDA**
-  * Days 8-12 → **MCMA**
-  * Later → **conjoined twins**
+### Placental & Endocrine Physiology
+* **Hyperplacentosis:** ↑ placental mass → ↑ hCG, ↑ progesterone, ↑ estrogen → exaggerated maternal physiological adaptations.
+* **Hemodynamics:** Amplified plasma volume expansion → pronounced physiological anaemia (血液稀釋). ↑ cardiac output → ↑ cardiac stress.
+* **Vascular Anastomoses:** Exclusively in monochorionic (MC) placentas. Direct communication between fetal circulations (arterio-venous, arterio-arterial, veno-venous) → hemodynamic imbalances → Twin-Twin Transfusion Syndrome (TTTS) (雙胎輸血綜合徵).
 
-### Maternal Cardiovascular and Metabolic Adaptation
-* Greater uterine distension and plasma volume expansion
-* Increased cardiac output and oxygen demand
-* Higher risk of:
-  * Anaemia
-  * Pre-eclampsia
-  * Gestational diabetes
-  * Preterm labour
-  * Postpartum haemorrhage
-
-### Placental Vascular Anatomy in Monochorionic Twins
-* Shared placenta may contain vascular anastomoses
-* Unbalanced flow can cause:
-  * **Twin-twin transfusion syndrome (TTTS)**
-  * **Twin anaemia-polycythaemia sequence (TAPS)**
-  * Selective fetal growth restriction
-  * Co-twin demise
+### Uterine Anatomy & Mechanics
+* **Overdistension:** Rapid/excessive stretching of myometrial fibers → early activation of oxytocin receptors → preterm labour (PTL) (早產).
+* **Myometrial Exhaustion:** Post-delivery relative refractoriness to physiological contraction → severe uterine atony (子宮收縮乏力).
 
 ## 3. Clinical Assessment (History, Abdominal, Speculum & Bimanual Exam Findings ONLY)
 
-### History Suggesting Multiple Pregnancy
-* Assisted reproduction
-* Family history of twins
-* Hyperemesis or rapid uterine enlargement
-* Excessive abdominal distension
-* Breathlessness
-* Reduced fetal movements
-* Symptoms of preterm labour
+### Maternal History
+* **Symptoms:** Exaggerated pregnancy signs (Hyperemesis Gravidarum, severe fatigue, early pelvic pressure).
+* **Background:** Prior ART/IVF, +ve family hx of DZ twins, advanced maternal age.
+* **Movements:** Fetal movements felt over wider areas of abdomen.
 
-### Abdominal Examination Findings
-* **Fundal height greater than dates**
-* More than two fetal poles palpable
-* Multiple fetal heart sounds
-* Non-engaged presenting part
-* Malpresentation
-* Uterine tenderness if abruption or preterm labour
+### Abdominal Examination
+* **Inspection:** Markedly distended abdomen.
+* **Palpation:**
+  * Symphyseal-fundal height (SFH) > expected for GA.
+  * Palpation of >2 fetal poles.
+  * Multiplicity of small fetal parts.
+* **Auscultation:** Hearing 2 distinct fetal heart beats (FHBs) simultaneously at different rates.
 
-### Speculum and Bimanual Findings
-* Usually unremarkable
-* Assess for:
-  * Cervical dilation or effacement
-  * Vaginal bleeding
-  * Cervical length if preterm birth risk
+### Bimanual/Speculum Exam
+* **Findings:** Cervical effacement or premature dilatation may be present earlier than singletons due to mechanical pressure.
 
 ## 4. Critical Differential Diagnoses & Clinical Staging
 
-### Differential Diagnosis of a Large-for-Dates Uterus
-* Multiple pregnancy
-* Fibroids
-* Polyhydramnios
-* Macrosomia
-* Ovarian cyst
-* Gestational trophoblastic disease
-* Inaccurate dating
+### Differential Diagnoses for "Large for Dates" Uterus
+* **Polyhydramnios:** Excess amniotic fluid.
+* **Macrosomia:** Large fetus (e.g., poorly controlled GDM).
+* **Molar Pregnancy:** Trophoblastic disease.
+* **Pelvic Mass:** Coexisting uterine fibroids (子宮肌瘤) or large ovarian cysts.
 
-### Chorionicity-Related Complications
-| Type | Main Risks |
-| :--- | :--- |
-| **DCDA** | Preterm birth, FGR, PET |
-| **MCDA** | TTTS, TAPS, selective FGR |
-| **MCMA** | Cord entanglement, IUFD |
+### Chorionicity Staging based on MZ Cleavage Timing
+| Cleavage Time (Post-Fertilization) | Chorionicity / Amnionicity | Rate in MZ |
+| :--- | :--- | :--- |
+| **< 72 hours** (Morula) | Dichorionic Diamniotic (DCDA) | 30% |
+| **Day 4 - 8** (Blastocyst) | Monochorionic Diamniotic (MCDA) | 69% |
+| **Day 8 - 12** (Implanted) | Monochorionic Monoamniotic (MCMA) | <1% |
+| **> 13 days** (Embryonic Disk) | Conjoined Twins (連體嬰) | Rare |
 
 ## 5. Key Investigations (Labs, Specific Ultrasound Criteria & CTG Tracings)
 
-### Ultrasound Determination of Chorionicity
-* Best performed at **11-13+6 weeks**
-* **Lambda sign:** dichorionic
-* **T-sign:** monochorionic
-* Assess:
-  * Number of placentas
-  * Membrane insertion
-  * Fetal sex
-  * Amnionicity
+### First-Trimester Ultrasound (11-13+6 Weeks)
+* **Crucial Timing:** Optimal GA to determine chorionicity & amnionicity.
+* **Lambda (Twin Peak) Sign:** Thick inter-twin membrane base → **DCDA**.
+* **T-Sign:** Thin inter-twin membrane inserting at 90° → **MCDA**.
+* **No Membrane:** Single sac → **MCMA**.
+* **Nuchal Translucency (NT):** Screen for aneuploidy for each fetus.
 
-### Ultrasound Markers of Twin-Specific Complications
-* Discordant growth >20%
-* Polyhydramnios in one sac with oligohydramnios in the other → **TTTS**
-* Abnormal umbilical artery Doppler
-* Middle cerebral artery Doppler if fetal anaemia suspected
-* Short cervix
-* Increased NT or structural anomaly
+### Serial Ultrasound Surveillance Criteria
+* **DCDA Protocol:** 4-weekly scans from 28w to assess fetal growth restriction (FGR).
+* **MCDA Protocol:** 2-weekly scans from 16w for early detection of TTTS/TAPS.
+* **TTTS Diagnostic Criteria:** Polyhydramnios in recipient (Deepest Vertical Pocket [DVP] >8cm) + Oligohydramnios in donor (DVP <2cm).
+* **TAPS (Twin Anaemia Polycythaemia Sequence) Criteria:** Discordant Middle Cerebral Artery Peak Systolic Velocity (MCA-PSV).
 
-### Maternal Laboratory Surveillance
-* CBC for anaemia
-* Blood group and antibody screen
-* 75 g OGTT
-* Urine PCR if hypertension or proteinuria
-* Serial BP monitoring
+### Cardiotocography (CTG) Tracings
+* **Dual CFHM:** Simultaneous continuous electronic fetal heart monitoring (CFHM) for both twins. Requires careful differentiation of tracings to prevent recording the same fetus twice.
+
+### Laboratory Investigations
+* **Blood Profile:** Complete Blood Count (detect severe anaemia).
+* **OGTT:** Universal screening standard; multiple pregnancy inherently ↑ GDM risk.
+* **Aneuploidy Screening:** Non-Invasive Prenatal Testing (NIPT) available but algorithms adjusted for vanishing twin/multiples.
 
 ## 6. Medical Management & Acute Stabilization (Pharmacology, Steroids, Resuscitation)
 
-### Antenatal Monitoring Schedule
-* Specialised multiple pregnancy clinic
-* Serial growth scans every 2-4 weeks
-* More frequent surveillance for monochorionic twins
-* Iron and folate supplementation
-* BP and glucose monitoring
-* Cervical length assessment if preterm birth risk
+### Prophylaxis & Routine Supplements
+* **Anaemia Prevention:** Aggressive Iron + Folic Acid (5mg) supplementation.
+* **Pre-eclampsia (PET) Prevention:** Low-dose Aspirin (75-150mg/day) starting 12-16w until 36w.
 
-### Pharmacological Prophylaxis for Preterm Delivery
-* Antenatal corticosteroids if delivery expected before 34-37 weeks
-* Magnesium sulphate for neuroprotection if delivery before 30 weeks
-* Tocolysis if no contraindication
-* Continuous intrapartum fetal monitoring for both twins
+### Preterm Labour (PTL) Management
+* **Tocolytics:** Nifedipine or Atosiban x 48h (allow steroid effect). Contraindicated if TTTS/abruption.
+* **Corticosteroids:** Betamethasone/Dexamethasone IM if <34w (↑ lung maturity).
+* **Neuroprotection:** IV MgSO4 if delivery imminent at 24-29+6w.
+
+### Intervention for High-Order Multiples
+* **Multifetal Reduction:** Limit to twins/singleton to ↓ prematurity risks.
+* **Method (DCDA/Trichorionic):** Intracardiac KCl injection.
+* **Method (MCDA):** Endoscopic USG-guided cord occlusion (prevent acute hemodynamic shift to surviving twin).
 
 ## 7. Definitive Management Algorithm (Timing/Mode of Delivery OR Gynaecological Surgery)
 
-### Timing of Delivery
-* **DCDA twins:** 37-38 weeks
-* **MCDA twins:** 36-37 weeks
-* **MCMA twins:** 32-34 weeks
-* Deliver earlier if:
-  * Severe FGR
-  * TTTS
-  * Pre-eclampsia
-  * Abnormal Doppler
-  * Reduced fetal movements
+### Timing of Delivery Protocol (HA Standards)
+| Chorionicity | Target Delivery GA | Rationale |
+| :--- | :--- | :--- |
+| **DCDA** | 37 - 38 weeks | Balance prematurity vs late stillbirth risk. |
+| **MCDA** | 36 - 37 weeks | Prevent late sudden intrauterine death. |
+| **MCMA** | 32 - 34 weeks | Extreme risk of fatal cord entanglement. |
 
-### Mode of Delivery
-* Vaginal delivery if:
-  * First twin is cephalic
-  * No major fetal compromise
-  * No contraindication to labour
-* Caesarean section if:
-  * First twin non-vertex
-  * MCMA twins
-  * Severe TTTS or TAPS
-  * Severe FGR or abnormal Doppler
-  * Previous caesarean section
-  * Other standard obstetric indications
+### Mode of Delivery Decision Tree
+* **Vaginal Delivery:** Uncomplicated DCDA/MCDA + 1st Twin Vertex.
+* **Elective LSCS Indications:**
+  * 1st Twin non-vertex (Breech/Transverse).
+  * MCMA twins (absolute indication).
+  * Severe FGR, established TTTS.
+  * Other obstetric indications (Prev Classical CS, Placenta Praevia).
+
+### Intrapartum Management (Vaginal Delivery)
+* **Setup:** IV access, Type & Screen, NPO, Dual CFHM.
+* **Analgesia:** Epidural preferred (allows rapid conversion to LSCS or internal manipulations).
+* **1st Twin Delivery:** Standard. Clamp cord tightly immediately (prevent bleeding from 2nd twin via anastomoses).
+* **2nd Twin Delivery (Target <30 mins):**
+  * Palpate abdomen / use portable USG to confirm lie.
+  * If Vertex: ARM during contraction → deliver.
+  * If Non-Longitudinal: External Cephalic Version (ECV) → if fail → Internal Podalic Version + breech extraction.
+  * Uterine inertia: Commence IV Oxytocin infusion.
 
 ## 8. Post-partum/Post-operative Care, Contraception & Follow-up
 
-### Immediate Postpartum Risks
-* **Uterine atony**
-* **Postpartum haemorrhage**
-* Anaemia
-* Thromboembolism
-* Breastfeeding difficulties
-* Psychological stress and fatigue
+### Acute Post-Partum Care
+* **Active 3rd Stage Management:** Mandatory. IV/IM Oxytocin (催產素) or Syntometrine.
+* **PPH Prevention:** Prophylactic Oxytocin infusion due to severe uterine overdistension.
+* **Thromboprophylaxis:** VTE risk scoring; LMWH often indicated due to multiple risk factors (multiples + CS + ↑ BMI).
 
-### Postpartum Care and Follow-up
-* Active management of third stage
-* Oxytocin infusion
-* Monitor blood loss and haemoglobin
-* Correct anaemia
-* Support breastfeeding
-* Discuss contraception and family planning
-* Arrange postnatal review
+### Long-Term Care & Follow-Up
+* **Contraception:** Standard counseling; Progesterone-only or non-hormonal (IUD) preferred if breastfeeding.
+* **Psychosocial:** Assess for post-partum depression (EPDS); increased stress/financial burden with multiple neonates. Ensure adequate community nursing support.
 
 ## 9. Maternal, Fetal & Gynaecological Complications
 
 ### Maternal Complications
-* Pre-eclampsia
-* Gestational diabetes
-* Anaemia
-* Preterm labour
-* Postpartum haemorrhage
-* Thromboembolism
+| Category | Specific Complications |
+| :--- | :--- |
+| **Antenatal** | Hyperemesis Gravidarum, Pre-eclampsia (PET), Gestational Diabetes (GDM), Anaemia. |
+| **Intrapartum** | Malpresentation, Cord prolapse, Operative delivery, Abruption (after Twin 1 delivery). |
+| **Postpartum** | Primary PPH (Uterine Atony), Venous Thromboembolism (VTE). |
 
-### Fetal and Neonatal Complications
-* Preterm birth
-* Fetal growth restriction
-* Twin-twin transfusion syndrome
-* Twin anaemia-polycythaemia sequence
-* Cord entanglement
-* Intrauterine death
-* Congenital anomaly
+### Fetal Complications
+| Category | Specific Complications |
+| :--- | :--- |
+| **General** | Prematurity (major cause of M&M), FGR (~20%), Structural anomalies (2x higher). |
+| **MC Specific** | TTTS (10-15%), TAPS, Twin Reversed Arterial Perfusion (TRAP / Acardiac twin). |
+| **Single Demise** | 25% risk of death/neuro deficit (cerebral palsy) in survivor (acute blood shift). |
 
 ## 10. Examiner's Pearls
 
-* Viva Question: How does chorionicity alter antenatal surveillance? Answer: DCDA twins are usually scanned every 3-4 weeks from ~20 weeks; MCDA twins need fortnightly surveillance from ~16 weeks because of TTTS and TAPS risk.
-* Trap: Assuming vertex twin A always permits vaginal delivery. Pearl: Mode of delivery also depends on twin B presentation, growth discordance, fetal wellbeing, and maternal preference after counselling.
-* Pitfall: Missing TAPS. Consider middle cerebral artery peak systolic velocity if discordant fetal haemoglobin is suspected.
-* Viva Question: When would you deliver MCDA twins earlier than 36-37 weeks? Answer: If TTTS, selective FGR, abnormal Doppler, or reduced fetal movements develop.
-* Trap: Treating all preterm twins identically. Pearl: Monochorionic and complicated dichorionic twins often require different surveillance and delivery timings.
-
-
+* Viva Question: How do you determine chorionicity in the first trimester? Answer: Ultrasound at 11-13+6 weeks evaluating the membrane insertion; Lambda sign indicates DCDA and T-sign indicates MCDA.
+* Trap: Assuming bed rest and prophylactic cervical cerclage effectively prevent preterm birth in multiple pregnancies. Pearl: Routine cerclage, pessaries, and bed rest are ineffective in multiples; use is highly selective based on strict USG cervical length criteria.
+* Pitfall: Delaying cord clamping for the first twin during vaginal delivery without securing the maternal end. Always clamp and tie the cord tightly immediately after Twin 1 to prevent exsanguination of Twin 2 via unrecognized placental anastomoses.
+* Viva Question: What is the optimal timing of delivery for an uncomplicated MCMA twin pregnancy? Answer: Elective Caesarean section between 32 to 34 weeks due to the high risk of sudden fetal death from cord entanglement.
