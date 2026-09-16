@@ -26,9 +26,16 @@
 ## 3. Clinical Assessment
 
 ### High-Risk Maternal History 
-* Past Obstetric Hx: Previous **GDM (妊娠糖尿病)**, previous macrosomic baby, recurrent miscarriage, **Pre-eclampsia (先兆子癇)**, unexplained stillbirth/NND/congenital malformations.
-* Medical Hx: **Polycystic Ovary Syndrome (多囊卵巢綜合症) (PCOS)**, long-term corticosteroid use.
-* Family Hx: 1st-degree relative with DM.
+* Past Obstetric Hx:
+	* Previous **GDM (妊娠糖尿病)**.
+	* Previous macrosomic babyecurrent miscarriage.
+	* **Pre-eclampsia (先兆子癇)**.
+	* Unexplained stillbirth/NND/congenital malformations.
+* Medical Hx:
+	* **Polycystic Ovary Syndrome (多囊卵巢綜合症) (PCOS)**.
+	* Long-term corticosteroid use.
+* Family Hx:
+	* 1st-degree relative with DM.
 
 ### Current Pregnancy Assessment
 * Maternal age $\ge$ **35 yrs**.
