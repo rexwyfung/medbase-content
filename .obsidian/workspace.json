@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obstetrics-and-gynaecology/diabetes_in_pregnancy.md",
+                "file": "obstetrics-and-gynaecology/antepartum_haemorrhage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "diabetes_in_pregnancy"
+              "title": "antepartum_haemorrhage"
             }
           }
         ],
@@ -236,15 +236,15 @@
   },
   "active": "8cdd5381b3f0b301",
   "lastOpenFiles": [
-    "obstetrics-and-gynaecology/abnormal_labour.md",
-    "obstetrics-and-gynaecology/abnormal_uterine_bleeding.md",
     "obstetrics-and-gynaecology/amenorrhoea_oligomenorrhoea.md",
     "obstetrics-and-gynaecology/antepartum_haemorrhage.md",
+    "obstetrics-and-gynaecology/diabetes_in_pregnancy.md",
+    "obstetrics-and-gynaecology/abnormal_labour.md",
+    "obstetrics-and-gynaecology/abnormal_uterine_bleeding.md",
     "obstetrics-and-gynaecology/benign_ovarian_tumours_pelvic_mass.md",
     "obstetrics-and-gynaecology/benign_uterine_tumours.md",
     "obstetrics-and-gynaecology/cervical_cancer_and_screening.md",
     "obstetrics-and-gynaecology/climacteric.md",
-    "obstetrics-and-gynaecology/diabetes_in_pregnancy.md",
     "obstetrics-and-gynaecology/ectopic_pregnancy.md",
     "obstetrics-and-gynaecology/endometrial_cancer.md",
     "obstetrics-and-gynaecology/endometriosis.md",

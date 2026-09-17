@@ -18,6 +18,7 @@
 	* **Type II (Marginal)**: Reaching internal os.
 	* **Type III (Partial)**: Partially covering internal os.
 	* **Type IV (Complete)**: Completely covering internal os.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/eacf78ea52ff3c888c718869efb7b521.png)
 
 ### Pathophysiology of Placental Abruption (胎盤早剝)
 * Premature separation of normally sited placenta.
@@ -28,6 +29,7 @@
 ### Pathophysiology of Vasa Praevia & Uterine Rupture
 * **Vasa Praevia**: Aberrant feto-placental vessels traversing fetal membranes across internal os → prone to avulsion upon membrane rupture.
 * **Uterine Rupture (子宮破裂)**: Rare catastrophic tearing of uterine wall → usually at previous **LSCS** scar.
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/b48d0dae24b0180fd6301c1099ff8eac.png)
 
 ## 3. Clinical Assessment (History, Abdominal, Speculum & Bimanual Exam Findings ONLY)
 
@@ -51,7 +53,10 @@
 
 ### Pelvic Examination Rules
 * **STRICT CONTRAINDICATION**: NO digital vaginal or rectal exam unless **Placenta Praevia** explicitly excluded (risk of catastrophic bleeding).
-* **Speculum Exam**: Assess cervical os (closed/dilated), quantify active bleeding, identify lower genital tract lesions (polyp, cervicitis, cancer, trauma).
+* **Speculum Exam**:
+	* Assess cervical os (closed/dilated).
+	* Quantify active bleeding.
+	* Identify lower genital tract lesions (polyp, cervicitis, cancer, trauma).
 
 ## 4. Critical Differential Diagnoses & Clinical Staging
 
@@ -71,6 +76,7 @@
 * **Coagulation Screen**: PT, APTT, Fibrinogen (crucial for severe abruption/DIC).
 * **RFT / LFT**: Baseline for end-organ damage.
 * **Kleihauer Test**: Mandatory if maternal blood group **Rh -ve**.
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/19aa603166f637588fae19556a1e00ad.png)
 
 ### Specific Ultrasound (USG) Criteria
 * **Placental Localization**: Confirm/exclude **Placenta Praevia** (Type I-IV).
