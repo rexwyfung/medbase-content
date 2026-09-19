@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obstetrics-and-gynaecology/antepartum_haemorrhage.md",
+                "file": "obstetrics-and-gynaecology/abnormal_uterine_bleeding.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "antepartum_haemorrhage"
+              "title": "abnormal_uterine_bleeding"
             }
           }
         ],
@@ -236,8 +236,9 @@
   },
   "active": "8cdd5381b3f0b301",
   "lastOpenFiles": [
-    "obstetrics-and-gynaecology/amenorrhoea_oligomenorrhoea.md",
+    "obstetrics-and-gynaecology/bleeding_in_early_pregnancy.md",
     "obstetrics-and-gynaecology/antepartum_haemorrhage.md",
+    "obstetrics-and-gynaecology/amenorrhoea_oligomenorrhoea.md",
     "obstetrics-and-gynaecology/diabetes_in_pregnancy.md",
     "obstetrics-and-gynaecology/abnormal_labour.md",
     "obstetrics-and-gynaecology/abnormal_uterine_bleeding.md",
@@ -262,7 +263,6 @@
     "obstetrics-and-gynaecology/urogynaecology.md",
     "obstetrics-and-gynaecology/puerperal_fever.md",
     "obstetrics-and-gynaecology/prolonged_pregnancy.md",
-    "obstetrics-and-gynaecology/preterm_labour_and_pprom.md",
     "obstetrics-and-gynaecology",
     "family-medicine",
     "orthopaedics",

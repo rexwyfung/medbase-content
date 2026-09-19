@@ -78,9 +78,9 @@
 
 ### Transvaginal Ultrasound (TVS) Criteria for Miscarriage
 * **Missed Miscarriage Diagnostic Criteria (HK/RCOG):**
-* **CRL:** ≥7.0 mm with absent FH.
-* **MSD:** ≥25.0 mm with absent fetal pole.
-* **Timeline:** Absence of FH ≥14 days after scan showing GS without yolk sac, OR ≥11 days after scan showing GS with yolk sac.
+	* **CRL:** ≥7.0 mm with absent FH.
+	* **MSD:** ≥25.0 mm with absent fetal pole.
+	* **Timeline:** Absence of FH ≥14 days after scan showing GS without yolk sac, OR ≥11 days after scan showing GS with yolk sac.
 
 ### TVS Criteria for Ectopic & Molar Pregnancy
 * **Ectopic:** Empty uterine cavity + inhomogeneous adnexal mass ("bagel sign" / tubal ring) + free fluid in Pouch of Douglas.
