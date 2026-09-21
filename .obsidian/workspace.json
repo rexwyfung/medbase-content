@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obstetrics-and-gynaecology/hypertensive_disorders_of_pregnancy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "hypertensive_disorders_of_pregnancy"
-            }
-          },
-          {
-            "id": "8cdd5381b3f0b301",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "obstetrics-and-gynaecology/abnormal_uterine_bleeding.md",
                 "mode": "source",
                 "source": false,
@@ -53,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "abnormal_uterine_bleeding"
+            }
+          },
+          {
+            "id": "e699c28c24307150",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obstetrics-and-gynaecology/benign_uterine_tumours.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "benign_uterine_tumours"
             }
           }
         ],
@@ -234,25 +234,25 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "8cdd5381b3f0b301",
+  "active": "e699c28c24307150",
   "lastOpenFiles": [
+    "obstetrics-and-gynaecology/abnormal_uterine_bleeding.md",
+    "obstetrics-and-gynaecology/abnormal_labour.md",
+    "obstetrics-and-gynaecology/climacteric.md",
+    "obstetrics-and-gynaecology/malpresentation.md",
+    "obstetrics-and-gynaecology/hypertensive_disorders_of_pregnancy.md",
     "obstetrics-and-gynaecology/bleeding_in_early_pregnancy.md",
     "obstetrics-and-gynaecology/antepartum_haemorrhage.md",
     "obstetrics-and-gynaecology/amenorrhoea_oligomenorrhoea.md",
     "obstetrics-and-gynaecology/diabetes_in_pregnancy.md",
-    "obstetrics-and-gynaecology/abnormal_labour.md",
-    "obstetrics-and-gynaecology/abnormal_uterine_bleeding.md",
     "obstetrics-and-gynaecology/benign_ovarian_tumours_pelvic_mass.md",
     "obstetrics-and-gynaecology/benign_uterine_tumours.md",
     "obstetrics-and-gynaecology/cervical_cancer_and_screening.md",
-    "obstetrics-and-gynaecology/climacteric.md",
     "obstetrics-and-gynaecology/ectopic_pregnancy.md",
     "obstetrics-and-gynaecology/endometrial_cancer.md",
     "obstetrics-and-gynaecology/endometriosis.md",
     "obstetrics-and-gynaecology/fetal_growth_restriction.md",
     "obstetrics-and-gynaecology/gestational_trophoblastic_disease.md",
-    "obstetrics-and-gynaecology/hypertensive_disorders_of_pregnancy.md",
-    "obstetrics-and-gynaecology/malpresentation.md",
     "obstetrics-and-gynaecology/multiple_pregnancy.md",
     "obstetrics-and-gynaecology/ovarian_cancer.md",
     "obstetrics-and-gynaecology/postmenopausal_bleeding.md",

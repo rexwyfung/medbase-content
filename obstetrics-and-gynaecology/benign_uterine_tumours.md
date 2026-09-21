@@ -29,6 +29,7 @@
 * **Subserosal (漿膜下)**: Projects outward from the serosa into the pelvic cavity.
 * **Pedunculated (帶蒂)**: Attached via a stalk; prone to torsion.
 * **Cervical (子宮頸)**: Arises in the cervix; can obstruct the birth canal.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/1af07ff1c672383b54c50dea6755ce10.png)
 
 ### Pathological Degenerative Changes
 * **Hyaline Degeneration**: Most common; tissue becomes acellular, asymptomatic.
@@ -72,12 +73,12 @@
 ## 4. Critical Differential Diagnoses & Clinical Staging
 
 ### Differential Diagnoses of Pelvic Mass
-| Diagnosis | Distinguishing Clinical Features |
-| :--- | :--- |
-| **Leiomyoma (子宮肌瘤)** | Firm, irregular, non-tender, moves with cervix |
-| **Adenomyosis (子宮腺肌病)** | Globally enlarged, tender, "boggy" uterus, severe dysmenorrhoea |
-| **Ovarian Tumour (卵巢腫瘤)** | Distinct from uterus, does not move with cervix, adnexal origin |
-| **Pregnancy (妊娠)** | Soft, symmetrically enlarged uterus, +ve amenorrhoea |
+| Diagnosis                      | Distinguishing Clinical Features                                    |
+| :----------------------------- | :------------------------------------------------------------------ |
+| **Leiomyoma (子宮肌瘤)**           | Firm, irregular, non-tender, moves with cervix                      |
+| **Adenomyosis (子宮腺肌病)**        | Globally enlarged, tender, "boggy" uterus, severe dysmenorrhoea     |
+| **Ovarian Tumour (卵巢腫瘤)**      | Distinct from uterus, does not move with cervix, adnexal origin     |
+| **Pregnancy (妊娠)**             | Soft, symmetrically enlarged uterus, +ve amenorrhoea                |
 | **Endometrial Cancer (子宮內膜癌)** | Irregular bleeding, postmenopausal bleeding, prominent in older age |
 
 ### FIGO Classification System for Leiomyomas
@@ -92,6 +93,8 @@
 | Type 6 | Subserosal, <50% intramural |
 | Type 7 | Pedunculated subserosal |
 | Type 8 | Other (e.g., cervical, parasitic) |
+
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/paediatrics/b41cf9d96ed6a2540ed83d263a669e2e.png)
 
 ## 5. Key Investigations (Labs, Specific Ultrasound Criteria & CTG Tracings)
 
