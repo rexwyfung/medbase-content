@@ -9,7 +9,11 @@
 ### Local Epidemiology & Demographics
 * **Prevalence:** Affects ~1 in 6 couples in Hong Kong.
 * **Age Factor:** ↑ maternal age exponentially ↓ natural fecundity due to ↓ oocyte quantity and quality.
-* **Aetiology Breakdown:** Male factor (~30%), Ovulatory dysfunction (~25%), Tubal pathology (~20%), Unexplained subfertility (~25%).
+* **Aetiology Breakdown:**
+	* Male factor (~30%).
+	* Ovulatory dysfunction (~25%).
+	* Tubal pathology (~20%).
+	* Unexplained subfertility (~25%).
 
 ## 2. Pathophysiology, Endocrine Axis & Pelvic Anatomy (Maternal-Fetal Physiology)
 
@@ -96,8 +100,14 @@
 ## 6. Medical Management & Acute Stabilization (Pharmacology, Steroids, Resuscitation)
 
 ### Ovulation Induction (OI) - First Line
-* **Letrozole:** Aromatase inhibitor. 1st line for PCOS. 2.5mg PO daily D2-D6. ↓ peripheral oestrogen → ↑ endogenous FSH release.
-* **Clomiphene Citrate:** Selective Oestrogen Receptor Modulator. 50mg PO daily D2-D6. Blocks central -ve feedback → ↑ FSH.
+* **Letrozole:**
+	* Aromatase inhibitor.
+	* 1st line for PCOS. 2.5mg PO daily D2-D6.
+	* ↓ peripheral oestrogen → ↑ endogenous FSH release.
+* **Clomiphene Citrate:**
+	* Selective Oestrogen Receptor Modulator.
+	* 50mg PO daily D2-D6.
+	* Blocks central -ve feedback → ↑ FSH.
 
 ### Ovulation Induction (OI) - Second Line
 * **Gonadotropins:** Subcutaneous FSH injections. Requires strict USG monitoring to prevent **Ovarian Hyperstimulation Syndrome (OHSS)** (卵巢過度刺激綜合症).
@@ -110,15 +120,23 @@
 ## 7. Definitive Management Algorithm (Timing/Mode of Delivery OR Gynaecological Surgery)
 
 ### Artificial Insemination (IUI)
-* **Indications:** Mild male factor, unexplained subfertility, mild endometriosis.
+* **Indications:**
+	* Mild male factor.
+	* Unexplained subfertility.
+	* Mild endometriosis.
 * **Algorithm:** Ovarian stimulation → USG monitoring → trigger ovulation → washed/concentrated sperm injected directly into uterine cavity via catheter.
 
 ### In Vitro Fertilization (IVF) (體外受精)
-* **Indications:** Bilateral tubal blockage, severe endometriosis, prolonged unexplained subfertility.
+* **Indications:**
+	* Bilateral tubal blockage.
+	* Severe endometriosis.
+	* Prolonged unexplained subfertility.
 * **Algorithm:** Controlled ovarian hyperstimulation → USG-guided transvaginal oocyte retrieval → in vitro fertilization → embryo transfer (ET) 3-5 days later.
 
 ### Intracytoplasmic Sperm Injection (ICSI)
-* **Indications:** Severe male factor (oligoasthenoteratozoospermia), previous IVF fertilization failure.
+* **Indications:**
+	* Severe male factor (oligoasthenoteratozoospermia).
+	* Previous IVF fertilization failure.
 * **Algorithm:** Selection of a single morphologically normal, motile sperm → direct microinjection into the oocyte cytoplasm.
 
 ### Gynaecological Surgery
@@ -148,7 +166,10 @@
 * **Management:** Immediate fluid restriction, prophylactic LMWH, strict I/O monitoring, supportive paracentesis.
 
 ### Pregnancy Complications (ART)
-* **Multiple Pregnancy (多胎妊娠):** Highest risk with OI and multi-embryo transfer. Directly ↑ risk of preterm labour, gestational diabetes, and pre-eclampsia. Mitigation via Single Embryo Transfer (SET).
+* **Multiple Pregnancy (多胎妊娠):**
+	* Highest risk with OI and multi-embryo transfer.
+	* Directly ↑ risk of preterm labour, gestational diabetes, and pre-eclampsia.
+	* Mitigation via Single Embryo Transfer (SET).
 * **Ectopic/Heterotopic Pregnancy (宮外孕):** ↑ risk post-IVF or with underlying tubal disease.
 
 ### Surgical & Procedure Risks
