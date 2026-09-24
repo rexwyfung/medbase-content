@@ -48,8 +48,14 @@
 * **Palpation:** Surgical scars, lower abdominal tenderness, palpable pelvic masses (fibroids or large cysts).
 
 ### Speculum Examination
-* **Cervix:** Cervicitis, visible polyps, anatomical defects, severe ectropion.
-* **Vagina:** Abnormal discharge (+ve/-ve), structural anomalies (e.g., transverse vaginal septum).
+* **Cervix:**
+	* Cervicitis.
+	* Visible polyps.
+	* Anatomical defects.
+	* Severe ectropion.
+* **Vagina:**
+	* Abnormal discharge (+ve/-ve).
+	* Structural anomalies (e.g., transverse vaginal septum).
 
 ### Bimanual Examination
 * **Uterus:** Size, shape, mobility, version (a fixed retroverted uterus suggests severe endometriosis).

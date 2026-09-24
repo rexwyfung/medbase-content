@@ -39,8 +39,8 @@
 	* Painless, unprovoked bleeding → heavily suggests **Placenta Praevia (胎盤前置)**.
 	* Painful bleeding + uterine contractions → heavily suggests **Placental Abruption (胎盤早剝)**.
 	* Small blood + mucus → **Show** (mucus plug dislodgement).
-	* **Previous Obstetric Hx**: Prior APH, previous uterine scar/LSCS.
-	* **Maternal Symptoms**: Dizziness, syncope (hypovolaemia).
+- **Previous Obstetric Hx**: Prior APH, previous uterine scar/LSCS.
+- **Maternal Symptoms**: Dizziness, syncope (hypovolaemia).
 
 ### Abdominal Examination Findings
 * **Vital Signs**: ↑ HR, ↓ BP, pallor (correlate with shock severity).
