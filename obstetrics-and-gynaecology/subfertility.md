@@ -152,8 +152,13 @@
 * **Ectopic/Heterotopic Pregnancy (宮外孕):** ↑ risk post-IVF or with underlying tubal disease.
 
 ### Surgical & Procedure Risks
-* **Oocyte Retrieval:** Pelvic infection, massive intra-abdominal bleeding, bowel/bladder injury.
-* **Pelvic Surgery:** Post-operative adhesion formation, irreversible damage to ovarian reserve (specifically following endometrioma cystectomy).
+* **Oocyte Retrieval:**
+	* Pelvic infection.
+	* Massive intra-abdominal bleeding.
+	* Bowel/bladder injury.
+* **Pelvic Surgery:**
+	* Post-operative adhesion formation.
+	* Irreversible damage to ovarian reserve (specifically following endometrioma cystectomy).
 
 ## 10. Examiner's Pearls
 
