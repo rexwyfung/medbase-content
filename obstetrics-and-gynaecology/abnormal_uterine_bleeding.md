@@ -5,7 +5,7 @@
 ### 2018 FIGO Menstrual Definitions
 | Parameter      | Normal Menstruation                      | Abnormal Uterine Bleeding (AUB)                                              |
 | :------------- | :--------------------------------------- | :--------------------------------------------------------------------------- |
-| **Frequency**  | 24–38 days                               | **Frequent:** <24 days <br> **Infrequent:** >38 days                         |
+| **Frequency**  | 24–38 days                               | **Frequent:** <24 days <br>**Infrequent:** >38 days                          |
 | **Duration**   | $\le$ 8 days                             | **Prolonged:** >8 days                                                       |
 | **Regularity** | Variation $\le$ 7–9 days (age-dependent) | **Irregular:** Variation $\ge$ 8–10 days                                     |
 | **Volume**     | Patient-determined normal                | **Heavy Menstrual Bleeding (HMB):** Affects physical/emotional/social health |
@@ -26,16 +26,20 @@
 ## 2. Pathophysiology, Endocrine Axis & Pelvic Anatomy
 
 ### PALM-COEIN Classification System
-| PALM (Structural Causes) | COEIN (Non-Structural Causes) |
-| :--- | :--- |
-| **P**olyp (息肉) | **C**oagulopathy (凝血障礙) |
-| **A**denomyosis (子宮腺肌症) | **O**vulatory dysfunction (排卵障礙) |
-| **L**eiomyoma (子宮肌瘤) | **E**ndometrial (子宮內膜異常) |
-| **M**alignancy & hyperplasia (惡性腫瘤與增生) | **I**atrogenic (醫源性) <br> **N**ot yet classified (尚未分類) |
+| PALM (Structural Causes)               | COEIN (Non-Structural Causes)    |
+| :------------------------------------- | :------------------------------- |
+| **P**olyp (息肉)                         | **C**oagulopathy (凝血障礙)          |
+| **A**denomyosis (子宮腺肌症)                | **O**vulatory dysfunction (排卵障礙) |
+| **L**eiomyoma (子宮肌瘤)                   | **E**ndometrial (子宮內膜異常)         |
+| **M**alignancy & hyperplasia (惡性腫瘤與增生) | **I**atrogenic (醫源性) <br>        |
+|                                        | **N**ot yet classified (尚未分類)    |
 
 ### Dysfunctional Uterine Bleeding (DUB) Pathophysiology
-* **Anovulatory DUB:** Disruption of Hypothalamic-Pituitary-Ovarian (HPO) axis → chronic endometrial stimulation by unopposed estrogen. Most common at extremes of reproductive age.
-* **Ovulatory DUB:** Normal HPO axis → localized hemostatic & vasoconstrictive dysfunction within endometrial lining.
+* **Anovulatory DUB:**
+	* Disruption of Hypothalamic-Pituitary-Ovarian (HPO) axis → chronic endometrial stimulation by unopposed estrogen.
+	* Most common at extremes of reproductive age.
+* **Ovulatory DUB:**
+	* Normal HPO axis → localized hemostatic & vasoconstrictive dysfunction within endometrial lining.
 
 ## 3. Clinical Assessment
 
@@ -82,32 +86,64 @@
 ### Endometrial Biopsy Indications
 * **Age criteria:** $\ge$ 40 years old.
 * **Symptom criteria:** Persistent IMB, failed medical treatment.
-* **Risk factors present:** PCOS, obesity, HNPCC family hx, unopposed estrogen use, Tamoxifen therapy.
+* **Risk factors present:**
+	* PCOS.
+	* Obesity.
+	* HNPCC family hx.
+	* Unopposed estrogen use.
+	* Tamoxifen therapy.
 
 ### Diagnostic Imaging & Hysteroscopy
-* **Transvaginal Ultrasound (USG):** Ideally performed during follicular phase. Assesses endometrial thickness, myometrial consistency, and focal lesions (submucosal fibroids, polyps).
-* **Saline Infusion Sonohysterogram:** Instillation of saline into cavity to clearly outline intracavity lesions.
-* **Hysteroscopy (宮腔鏡):** Gold standard for direct visualization and targeted biopsy of endometrial pathology.
+* **Transvaginal Ultrasound (USG):**
+	* Ideally performed during follicular phase.
+	* Assesses endometrial thickness, myometrial consistency, and focal lesions (submucosal fibroids, polyps).
+* **Saline Infusion Sonohysterogram:**
+	* Instillation of saline into cavity to clearly outline intracavity lesions.
+* **Hysteroscopy (宮腔鏡):**
+	* Gold standard for direct visualization and targeted biopsy of endometrial pathology.
 
 ## 6. Medical Management & Acute Stabilization
 
 ### Acute Resuscitation & Non-Hormonal Agents
-* **Resuscitation:** Iron supplementation; blood transfusion if hemodynamically unstable/severe anemia.
-* **Antifibrinolytics (Tranexamic Acid):** Blocks plasminogen binding sites to prevent fibrin degradation. ↓ menstrual blood loss by 40–50%. SE: Nausea, dizziness.
-* **NSAIDs (Mefenamic Acid):** ↓ menstrual blood loss by up to 35%. First-line if coexisting dysmenorrhea. SE: Indigestion, diarrhea, peptic ulcers.
+* **Resuscitation:**
+	* Iron supplementation.
+	* Blood transfusion if hemodynamically unstable/severe anemia.
+* **Antifibrinolytics (Tranexamic Acid):**
+	* Blocks plasminogen binding sites to prevent fibrin degradation.
+	* ↓ menstrual blood loss by 40–50%.
+	* SE: Nausea, dizziness.
+* **NSAIDs (Mefenamic Acid):**
+	* ↓ menstrual blood loss by up to 35%.
+	* First-line if coexisting dysmenorrhea.
+	* SE: Indigestion, diarrhea, peptic ulcers.
 
 ### Hormonal Pharmacotherapy
-* **Combined Oral Contraceptives (COCP):** Estrogen + Progestin ↓ FSH/LH. Good for concurrent dysmenorrhea/contraception. SE: VTE, stroke, mood changes, fluid retention.
-* **Oral Progestin (Norethisterone):** 15 mg daily from Day 5 to 26. Prevents estrogen-induced excessive endometrial growth.
-* **Levonorgestrel-Releasing Intrauterine System (LNG-IUS / Mirena):** Delivers direct hormone → endometrial atrophy. ↓ blood loss by 86% (3 months) and 97% (12 months). SE: Irregular spotting for >6 months, acne.
-* **Depot Medroxyprogesterone Acetate (DMPA):** Induces endometrial atrophy. SE: Weight gain, irregular bleeding, delayed return to fertility, ↓ bone mineral density (BMD).
-* **GnRH Agonists (GnRHa):** Downregulates GnRH receptors → profound hypoestrogenic state. SE: Menopausal symptoms, osteoporosis (if used >6 months).
+* **Combined Oral Contraceptives (COCP):**
+	* Estrogen + Progestin ↓ FSH/LH.
+	* Good for concurrent dysmenorrhea/contraception.
+	* SE: VTE, stroke, mood changes, fluid retention.
+* **Oral Progestin (Norethisterone):**
+	* 15 mg daily from Day 5 to 26.
+	* Prevents estrogen-induced excessive endometrial growth.
+* **Levonorgestrel-Releasing Intrauterine System (LNG-IUS / Mirena):**
+	* Delivers direct hormone → endometrial atrophy.
+	* ↓ blood loss by 86% (3 months) and 97% (12 months).
+	* SE: Irregular spotting for >6 months, acne.
+* **Depot Medroxyprogesterone Acetate (DMPA):**
+	* Induces endometrial atrophy.
+	* SE: Weight gain, irregular bleeding, delayed return to fertility, ↓ bone mineral density (BMD).
+* **GnRH Agonists (GnRHa):**
+	* Downregulates GnRH receptors → profound hypoestrogenic state.
+	* SE: Menopausal symptoms, osteoporosis (if used >6 months).
 
 ## 7. Definitive Management Algorithm
 
 ### Uterus-Sparing Gynaecological Procedures
 * **Endometrial Ablation (子宮內膜去除術):** Destroys endometrial lining. 
-  * **Indications:** Uterus $\le$ 10 weeks size, small fibroids <3 cm, completed family. 
+  * **Indications:**
+	  * Uterus $\le$ 10 weeks size.
+	  * Small fibroids <3 cm.
+	  * Completed family. 
   * **Contraindications:** Desire for future fertility.
 * **Hysteroscopic Resection:** Targeted trans-cervical removal of endometrial polyps or submucosal fibroids.
 
@@ -129,7 +165,10 @@
 ## 9. Maternal, Fetal & Gynaecological Complications
 
 ### Disease-Related Complications
-* **Hematological:** Severe iron-deficiency anemia, hypovolemia, hemodynamic instability.
+* **Hematological:**
+	* Severe iron-deficiency anemia.
+	* Hypovolemia.
+	* Hemodynamic instability.
 * **Oncological:** Missed progression of endometrial hyperplasia to endometrial adenocarcinoma if biopsy criteria are ignored.
 
 ### Iatrogenic & Surgical Complications
@@ -139,8 +178,6 @@
 
 ## 10. Examiner's Pearls
 
-* Viva Question: What are the absolute indications for performing an endometrial biopsy in a patient with Abnormal Uterine Bleeding?
-* Answer: Age $\ge$ 40, persistent intermenstrual bleeding, failed medical treatment, or presence of high-risk factors (PCOS, obesity, HNPCC, unopposed estrogen, or tamoxifen use).
-* Trap: Continuing to use legacy terminology such as "Menorrhagia" or "Metrorrhagia" during case presentations.
-* Pearl: Strictly adopt the 2018 FIGO terminology (e.g., Heavy Menstrual Bleeding, Intermenstrual Bleeding) to ensure standardized, accurate clinical communication.
+* Viva Question: What are the absolute indications for performing an endometrial biopsy in a patient with Abnormal Uterine Bleeding? Answer: Age $\ge$ 40, persistent intermenstrual bleeding, failed medical treatment, or presence of high-risk factors (PCOS, obesity, HNPCC, unopposed estrogen, or tamoxifen use).
+* Trap: Continuing to use legacy terminology such as "Menorrhagia" or "Metrorrhagia" during case presentations. Pearl: Strictly adopt the 2018 FIGO terminology (e.g., Heavy Menstrual Bleeding, Intermenstrual Bleeding) to ensure standardized, accurate clinical communication.
 * Pitfall: Recommending endometrial ablation for a young, nulliparous woman with HMB. Ablation permanently destroys the basal endometrial lining, causing severe intracavity adhesions, and is strictly contraindicated in any woman desiring future fertility.
