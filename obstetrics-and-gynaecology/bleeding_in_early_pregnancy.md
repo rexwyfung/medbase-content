@@ -102,22 +102,39 @@
 
 ### Pharmacological Management of Ectopic Pregnancy
 * **Methotrexate (甲氨蝶呤):** Folic acid antagonist, inhibits DNA synthesis in trophoblasts.
-* **Dose:** 50 mg/m² IM single dose.
-* **Strict HA Criteria:** Haemodynamically stable, unruptured, adnexal mass <3.5cm, no FH, baseline β-hCG <1500-5000 IU/L, compliant for follow-up.
+	* **Dose:** 50 mg/m² IM single dose.
+	* **Strict HA Criteria:**
+		* Haemodynamically stable.
+		* Unruptured.
+		* Adnexal mass <3.5cm.
+		* No FH.
+		* Baseline β-hCG <1500-5000 IU/L.
+		* Compliant for follow-up.
 
 ## 7. Definitive Management Algorithm (Timing/Mode of Delivery OR Gynaecological Surgery)
 
 ### Surgical Management of Miscarriage
 * **Suction Evacuation of Uterus (吸宮手術):**
-* **Indications:** Haemodynamic instability, heavy bleeding, failed medical management, patient preference.
-* **Procedure:** Cervical priming (Misoprostol 400mcg) → mechanical dilation → vacuum aspiration of POC under GA or LA.
+	* **Indications:**
+		* Haemodynamic instability.
+		* Heavy bleeding.
+		* Failed medical management.
+		* Patient preference.
+	* **Procedure:** Cervical priming (Misoprostol 400mcg) → mechanical dilation → vacuum aspiration of POC under GA or LA.
 
 ### Surgical Management of Ectopic Pregnancy
-* **Laparoscopic Salpingectomy (腹腔鏡輸卵管切除術):** Definitive removal of affected tube. Standard for ruptured ectopic or if contralateral tube is healthy.
-* **Laparoscopic Salpingotomy:** Linear incision to remove ectopic tissue, preserving tube. Used if contralateral tube is absent/diseased. Requires serial β-hCG to rule out persistent trophoblastic disease.
+* **Laparoscopic Salpingectomy (腹腔鏡輸卵管切除術):**
+	* Definitive removal of affected tube. 
+	* Standard for ruptured ectopic or if contralateral tube is healthy.
+* **Laparoscopic Salpingotomy:**
+	* Linear incision to remove ectopic tissue, preserving tube.
+	* Used if contralateral tube is absent/diseased.
+	* Requires serial β-hCG to rule out persistent trophoblastic disease.
 
 ### Surgical Management of Molar Pregnancy
-* **Suction Evacuation:** Definitive treatment. Avoid medical management due to risk of uterine contractions causing trophoblastic embolization to lungs.
+* **Suction Evacuation:**
+	* Definitive treatment.
+	* Avoid medical management due to risk of uterine contractions causing trophoblastic embolization to lungs.
 * **Oxytocin:** Run IV infusion *during/after* evacuation (not before) to control bleeding.
 
 ## 8. Post-partum/Post-operative Care, Contraception & Follow-up
