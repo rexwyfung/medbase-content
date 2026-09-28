@@ -71,14 +71,6 @@
 | **WHO II** | Normogonadotropic normoestrogenic | Normal FSH/LH/Oestradiol | **PCOS** (多囊卵巢綜合症) |
 | **WHO III** | Hypergonadotropic hypoestrogenic | ↑ FSH, ↑ LH, ↓ Oestradiol | **POI** (早發性卵巢功能不全) |
 
-### ASRM Endometriosis Staging
-| Stage | Severity | Morphological Description |
-| :--- | :--- | :--- |
-| **Stage I** | Minimal | Isolated superficial implants, no significant adhesions |
-| **Stage II** | Mild | Superficial implants <5cm in aggregate, no dense adhesions |
-| **Stage III** | Moderate | Deep implants, small endometriomas, filmy adhesions |
-| **Stage IV** | Severe | Deep implants, large endometriomas, dense adhesions, cul-de-sac obliteration |
-
 ## 5. Key Investigations (Labs, Specific Ultrasound Criteria & CTG Tracings)
 
 ### Female Baseline Hormonal Labs
@@ -168,8 +160,17 @@
 
 ### Ovarian Hyperstimulation Syndrome (OHSS) (卵巢過度刺激綜合症)
 * **Pathophysiology:** Exaggerated response to exogenous gonadotropins → ↑↑ VEGF → ↑ capillary permeability → massive fluid shift into third spaces.
-* **Symptoms:** Severe ascites, pleural effusion, oliguria, hemoconcentration, thrombosis risk.
-* **Management:** Immediate fluid restriction, prophylactic LMWH, strict I/O monitoring, supportive paracentesis.
+* **Symptoms:**
+	* Severe ascites.
+	* Pleural effusion.
+	* Oliguria.
+	* Hemoconcentration.
+	* Thrombosis risk.
+* **Management:**
+	* Immediate fluid restriction.
+	* Prophylactic LMWH.
+	* Strict I/O monitoring.
+	* Supportive paracentesis.
 
 ### Pregnancy Complications (ART)
 * **Multiple Pregnancy (多胎妊娠):**
