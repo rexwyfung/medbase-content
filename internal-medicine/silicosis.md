@@ -1,1 +1,0 @@
-# Silicosis (矽肺)
