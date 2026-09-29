@@ -1,1 +1,0 @@
-# Pneumothorax (氣胸)

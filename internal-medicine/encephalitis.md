@@ -1,1 +1,0 @@
-# Encephalitis (腦炎)
