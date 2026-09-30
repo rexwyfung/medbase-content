@@ -17,8 +17,9 @@
 
 ### Ovarian Follicular Depletion
 * Exhaustion of finite primordial follicle pool in **Ovaries (卵巢)**.
-* Remaining follicles demonstrate ↓ responsiveness to gonadotropins.
+* Remaining follicles demonstrate ↓ re    sponsiveness to gonadotropins.
 * Granulosa cells undergo apoptosis → profound ↓ in **Inhibin B (抑制素B)** and **Anti-Müllerian Hormone (AMH)**.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/fe4ceae0b2696bd8a04f885290a9ffa1.png)
 
 ### Hypothalamic-Pituitary-Ovarian Axis Alterations
 * ↓ Inhibin B → loss of negative feedback on anterior pituitary.
@@ -46,9 +47,9 @@
 * Retracted, flush, or stenotic cervical os.
 
 ### Bimanual Pelvic Examination Findings
-* Uterus: Decreased in size, firm consistency, restricted mobility (due to ligamentous atrophy).
-* Ovaries: Non-palpable. 
-* Adnexa: Absence of fullness/tenderness.
+* **Uterus**: Decreased in size, firm consistency, restricted mobility (due to ligamentous atrophy).
+* **Ovaries**: Non-palpable. 
+* **Adnexa**: Absence of fullness/tenderness.
 
 ## 4. Critical Differential Diagnoses & Clinical Staging
 
@@ -60,6 +61,8 @@
 | **0** | **Menopause** | Final Menstrual Period (FMP) | N/A |
 | **+1a/b/c** | Early Postmenopause | First 6 years post-FMP | ↑↑ FSH, ↓↓ Estradiol |
 | **+2** | Late Postmenopause | >6 years post-FMP until death | Stabilized elevated FSH |
+
+![image|600](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/e621b892bf5fb892d289b5f27770895d.png)
 
 ### Differential Diagnoses for Secondary Amenorrhea/Oligomenorrhea
 * Pregnancy (always exclude first).
@@ -91,12 +94,18 @@
 ## 6. Medical Management & Acute Stabilization (Pharmacology, Steroids, Resuscitation)
 
 ### Systemic Hormone Replacement Therapy (HRT) (荷爾蒙補充療法) Pharmacology
-* **Estrogen**: Systemic symptom relief (vasomotor, bone protection). Oral (Estradiol valerate), Transdermal patches, or Gels.
-* **Progestogen**: Strictly required if uterus is present to prevent endometrial hyperplasia. Oral (Medroxyprogesterone acetate, Norethisterone, Dydrogesterone) or Intrauterine (Levonorgestrel IUS - Mirena).
+* **Estrogen**:
+	* Systemic symptom relief (vasomotor, bone protection).
+	* Oral (Estradiol valerate), Transdermal patches, or Gels.
+* **Progestogen**:
+	* Strictly required if uterus is present to prevent endometrial hyperplasia.
+	* Oral (Medroxyprogesterone acetate, Norethisterone, Dydrogesterone) or Intrauterine (Levonorgestrel IUS - Mirena).
 * **Tibolone**: Synthetic steroid with mixed estrogenic, progestogenic, and androgenic properties.
 
 ### Local Urogenital Pharmacotherapy
-* **Topical Estrogen**: Vaginal creams, pessaries, or rings (e.g., Promestriene, Estriol). Efficacious for GSM without causing systemic endometrial proliferation.
+* **Topical Estrogen**:
+	* Vaginal creams, pessaries, or rings (e.g., Promestriene, Estriol).
+	* Efficacious for GSM without causing systemic endometrial proliferation.
 * Vaginal moisturizers and lubricants (non-hormonal) for dyspareunia.
 
 ### Non-Hormonal Pharmacological Alternatives
@@ -108,11 +117,11 @@
 ## 7. Definitive Management Algorithm (Timing/Mode of Delivery OR Gynaecological Surgery)
 
 ### HRT Regimen Selection Algorithm
-| Patient Status | Recommended Regimen | Bleeding Pattern |
-| :--- | :--- | :--- |
-| **Uterus Absent** (Post-hysterectomy) | **Estrogen-only HRT** (Continuous) | Amenorrhea |
-| **Perimenopausal** (LMP <12 months ago) | **Sequential Combined HRT** (Daily Estrogen + Progestogen for 10-14 days/month) | Predictable withdrawal bleed |
-| **Postmenopausal** (LMP >12 months ago) | **Continuous Combined HRT** (Daily Estrogen + Daily Progestogen) OR Tibolone | Amenorrhea (spotting common in first 3-6 months) |
+| Patient Status                          | Recommended Regimen                                                                        | Bleeding Pattern                                 |
+| :-------------------------------------- | :----------------------------------------------------------------------------------------- | :----------------------------------------------- |
+| **Uterus Absent** (Post-hysterectomy)   | **Estrogen-only HRT** (Continuous)                                                         | Amenorrhea                                       |
+| **Perimenopausal** (LMP <12 months ago) | **Sequential (Cyclical) Combined HRT** (Daily Estrogen + Progestogen for 10-14 days/month) | Predictable withdrawal bleed                     |
+| **Postmenopausal** (LMP >12 months ago) | **Continuous Combined HRT** (Daily Estrogen + Daily Progestogen) OR Tibolone               | Amenorrhea (spotting common in first 3-6 months) |
 
 ### Absolute Contraindications to Systemic HRT
 * Undiagnosed vaginal bleeding.
@@ -128,7 +137,8 @@
 * Contraception must be continued until absolute confirmation of menopause.
 * If menopause occurs **<50 years**: Continue contraception for **2 years** post-FMP.
 * If menopause occurs **>50 years**: Continue contraception for **1 year** post-FMP.
-* Non-hormonal barrier methods or Levonorgestrel IUS (Mirena) preferred. Combined Oral Contraceptives (COCs) generally avoided >35 yrs if smoking/obese due to VTE risk.
+* Non-hormonal barrier methods or Levonorgestrel IUS (Mirena) preferred.
+* Combined Oral Contraceptives (COCs) generally avoided >35 yrs if smoking/obese due to VTE risk.
 
 ### Routine Follow-up and Health Screening (MCHC)
 * Annual clinical evaluation of HRT efficacy and side effects.
@@ -157,4 +167,4 @@
 * Viva Question: How do you diagnose menopause in a 52-year-old woman presenting with 14 months of amenorrhea? Answer: It is a clinical retrospective diagnosis; no laboratory tests (FSH) are required for women >45 years with typical symptoms and 12 months of amenorrhea.
 * Trap: Prescribing estrogen-only HRT to a woman who still has her uterus to treat hot flushes. Pearl: Unopposed estrogen therapy in a woman with an intact uterus significantly increases the risk of endometrial hyperplasia and adenocarcinoma. Always prescribe continuous or sequential combined HRT.
 * Pitfall: Reassuring a postmenopausal woman that her new-onset vaginal bleeding is "just atrophic vaginitis" without investigation. Always investigate postmenopausal bleeding (PMB) with transvaginal ultrasound (to assess endometrial thickness) and endometrial biopsy to exclude endometrial cancer, regardless of a high clinical suspicion of atrophy.
-* Viva Question: When should continuous combined HRT be initiated instead of sequential combined HRT? Answer: Continuous combined HRT should only be started at least 12 months after the last menstrual period (postmenopausal) to avoid erratic breakthrough bleeding.
+* Viva Question: When should continuous combined HRT be initiated instead of sequential (cyclical) combined HRT? Answer: Continuous combined HRT should only be started at least 12 months after the last menstrual period (postmenopausal) to avoid erratic breakthrough bleeding.
