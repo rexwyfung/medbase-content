@@ -5,7 +5,9 @@
 ### Definition & Scope of Endometriosis
 * **Definition**: Presence of functional endometrial-like tissue (glands & stroma) outside the uterine cavity.
 * **Characteristics**: Estrogen-dependent, chronic inflammatory condition.
-* **Epidemiology**: Affects ~10% of reproductive-aged women; up to 50% in women with subfertility or chronic pelvic pain.
+* **Epidemiology**:
+	* Affects ~10% of reproductive-aged women.
+	* Up to 50% in women with subfertility or chronic pelvic pain.
 
 ## 2. Pathophysiology, Endocrine Axis & Pelvic Anatomy (Maternal-Fetal Physiology)
 
@@ -14,22 +16,43 @@
 * **Coelomic Metaplasia**: Transformation of multipotent peritoneal cells into endometrial tissue.
 * **Endocrine Axis**: ↑ localized aromatase activity → ↑ local estrogen production → stimulates lesion growth.
 * **Inflammatory Axis**: ↑ COX-2 activity → ↑ PGE2 → chronic pelvic inflammation & pain.
+![image|600](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/ae32cf8fbe4b9af61151ba25c78b3235.png)
 
 ### Pelvic Anatomy & Common Implantation Sites
-* **Most Common Sites**: Ovaries (Endometrioma / 巧克力囊腫), Pouch of Douglas (德氏陷凹), Uterosacral ligaments (子宮骶韌帶), Broad ligament.
-* **Extra-pelvic Sites**: Bowel, bladder, umbilicus, surgical scars (e.g., LSCS scar), pleural cavity (rare).
+* **Most Common Sites**:
+	* Ovaries (Endometrioma / 巧克力囊腫).
+	* Pouch of Douglas (德氏陷凹).
+	* Uterosacral ligaments (子宮骶韌帶).
+	* Broad ligament.
+* **Extra-pelvic Sites**:
+	* Bowel.
+	* Bladder.
+	* Umbilicus.
+	* Surgical scars (e.g., LSCS scar).
+	* Pleural cavity (rare).
 * **Anatomical Sequelae**: Chronic inflammation → dense fibrous adhesions (骨盆腔沾黏) → distortion of pelvic anatomy & blocked fallopian tubes.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/418bb98248a170bbd4e387473219f3fb.png)
 
 ## 3. Clinical Assessment (History, Abdominal, Speculum & Bimanual Exam Findings ONLY)
 
 ### Characteristic Maternal History
-* **Classic 3Ds**: Dysmenorrhoea (痛經) (secondary, progressive), Dyspareunia (性交痛) (deep), Dyschezia (排便痛).
-* **Menstrual**: Heavy menstrual bleeding (Menorrhagia), cyclical pelvic pain.
-* **Other**: Subfertility, cyclical dysuria / haematuria (bladder involvement).
+* **Classic 3Ds**:
+	* Dysmenorrhoea (痛經) (secondary, progressive).
+	* Dyspareunia (性交痛) (deep).
+	* Dyschezia (排便痛).
+* **Menstrual**:
+	* Heavy menstrual bleeding (Menorrhagia).
+	* Cyclical pelvic pain.
+* **Other**:
+	* Subfertility.
+	* Cyclical dysuria / haematuria (bladder involvement).
 
 ### Abdominal & Speculum Examination Findings
-* **Abdominal**: Often normal; may reveal lower abdominal tenderness or palpable mass (if large endometrioma).
+* **Abdominal**:
+	* Often normal.
+	* May reveal lower abdominal tenderness or palpable mass (if large endometrioma).
 * **Speculum**: Rarely visible bluish / powder-burn nodules in the posterior vaginal fornix.
+![image|200](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/65dbf0ace550a28f32d20a5afa409841.png)
 
 ### Bimanual Examination Findings
 * **Uterus**: Fixed, retroverted uterus (子宮後傾) due to dense posterior adhesions.
@@ -40,30 +63,43 @@
 ## 4. Critical Differential Diagnoses & Clinical Staging 
 
 ### Key Differential Diagnoses
-* **Gynaecological**: Pelvic Inflammatory Disease (PID) (骨盆腔炎), Adenomyosis (子宮肌腺症), Ovarian cysts, Ectopic pregnancy.
-* **Non-Gynaecological**: Irritable Bowel Syndrome (IBS), Interstitial cystitis, Appendicitis.
+* **Gynaecological**:
+	* Pelvic Inflammatory Disease (PID) (骨盆腔炎).
+	* Adenomyosis (子宮肌腺症).
+	* Ovarian cysts.
+	* Ectopic pregnancy.
+* **Non-Gynaecological**:
+	* Irritable Bowel Syndrome (IBS).
+	* Interstitial cystitis.
+	* Appendicitis.
 
 ### ASRM Clinical Staging System for Endometriosis
-| Stage (FIGO/ASRM) | Severity | Anatomical Findings |
-|---|---|---|
-| I | Minimal | Isolated superficial lesions, no significant adhesions |
-| II | Mild | Superficial lesions <5cm scattered on peritoneum/ovaries, mild adhesions |
-| III | Moderate | Deep lesions + endometriomas on ovaries, dense adhesions |
-| IV | Severe | Large/multiple endometriomas, extensive dense adhesions, cul-de-sac obliteration |
+| Stage (FIGO/ASRM) | Severity | Anatomical Findings                                                              |
+| ----------------- | -------- | -------------------------------------------------------------------------------- |
+| I                 | Minimal  | Isolated superficial lesions, no significant adhesions                           |
+| II                | Mild     | Superficial lesions <5cm scattered on peritoneum/ovaries, mild adhesions         |
+| III               | Moderate | Deep lesions + endometriomas on ovaries, dense adhesions                         |
+| IV                | Severe   | Large/multiple endometriomas, extensive dense adhesions, cul-de-sac obliteration |
 
 ## 5. Key Investigations (Labs, Specific Ultrasound Criteria & CTG Tracings)
 
 ### Laboratory Investigations
-* **Serum CA-125**: May be mildly ↑; non-specific diagnostic tool but useful for baseline & post-op monitoring.
+* **Serum CA-125**:
+	* May be mildly ↑.
+	* Non-specific diagnostic tool but useful for baseline & post-op monitoring.
 
 ### Transvaginal Ultrasound (TVS) Criteria
 * **Ovarian Endometrioma**: Unilocular cyst with homogeneous low-level echogenicity ("ground-glass" appearance).
 * **Mobility**: "Kissing ovaries" sign (bilateral endometriomas meeting in midline → indicates dense adhesions).
-* **Vascularity**: Avascular internal fluid; normal peripheral ovarian parenchyma blood flow.
+* **Vascularity**:
+	* Avascular internal fluid.
+	* Normal peripheral ovarian parenchyma blood flow.
+![image|250](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/1aed08a3e7576155ecef77cabe6139d2.png)![image|250](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/a5dc0d47eb78485ea8df0edd66d02d29.png)
 
 ### Magnetic Resonance Imaging (MRI) Criteria
 * **Endometrioma**: T1 hyperintense + T2 hypointense ("shading sign").
 * **Deep Infiltrating Endometriosis (DIE)**: Hypointense fibrotic nodules infiltrating bowel/bladder/uterosacral ligaments.
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/397e9013fda45e0ebfa4984fc7e48183.png)
 
 ## 6. Medical Management & Acute Stabilization (Pharmacology, Steroids, Resuscitation)
 
@@ -82,14 +118,20 @@
 ### Surgical Diagnostic & Therapeutic Principles
 * **Gold Standard**: Laparoscopy (腹腔鏡) for definitive histological diagnosis & simultaneous treatment.
 * **Visual Appearance**: "Powder-burn" lesions, clear vesicles, or red flame-like lesions.
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/b1dc1b1ec2a475d176ae5f3ca1723465.png)
 
 ### Conservative Surgical Management (Fertility Sparing)
 * **Goal**: Restore normal pelvic anatomy, excise lesions, preserve ovarian reserve.
-* **Techniques**: Laparoscopic excision/ablation of endometriotic implants, adhesiolysis.
+* **Techniques**:
+	* Laparoscopic excision/ablation of endometriotic implants.
+	* Adhesiolysis.
 * **Endometrioma**: Laparoscopic cystectomy (stripping of cyst wall) is superior to ablation for ↓ recurrence and ↑ spontaneous pregnancy rates.
 
 ### Definitive Surgical Management
-* **Indication**: Severe refractory symptoms, family completed, extensive pelvic involvement.
+* **Indication**:
+	* Severe refractory symptoms.
+	* Family completed.
+	* Extensive pelvic involvement.
 * **Procedure**: Total Abdominal/Laparoscopic Hysterectomy + Bilateral Salpingo-Oophorectomy (TAHBSO) (全子宮及雙側卵巢輸卵管切除術).
 
 ## 8. Post-partum/Post-operative Care, Contraception & Follow-up
@@ -111,7 +153,9 @@
 
 ### Pregnancy-Related Complications
 * **Physiological Impact**: Symptoms typically improve during pregnancy due to high progesterone environment (decidualization of ectopic tissue).
-* **Rare Risks**: Spontaneous hemoperitoneum in pregnancy (SHiP), rupture of decidualized endometrioma.
+* **Rare Risks**:
+	* Spontaneous hemoperitoneum in pregnancy (SHiP).
+	* Rupture of decidualized endometrioma.
 
 ## 10. Examiner's Pearls
 
