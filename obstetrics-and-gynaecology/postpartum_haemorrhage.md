@@ -43,8 +43,14 @@
 
 ### Maternal History for Primary Postpartum Haemorrhage
 * G/P status, previous obstetrics history (prior PPH, macrosomia).
-* Details of current labour: length of 1st/2nd/3rd stages, use of oxytocics, operative delivery.
-* Symptoms of hypovolaemia: dizziness, palpitations, syncope.
+* **Details of current labour:**
+	* Length of 1st/2nd/3rd stages.
+	* Use of oxytocics.
+	* Operative delivery.
+* **Symptoms of hypovolaemia**:
+	* Dizziness.
+	* Palpitations.
+	* Syncope.
 
 ### Maternal History for Secondary Postpartum Haemorrhage
 * Onset, volume, and character of bleeding.
@@ -59,8 +65,16 @@
 * **Secondary PPH Uterus**: Uterine tenderness, subinvolution (子宮復舊不全).
 
 ### Speculum & Bimanual Examination Findings
-* **Speculum**: Active bleeding from cervical os, cervical/vaginal/perineal lacerations, vulvar/vaginal haematoma, foul discharge.
-* **Bimanual**: Uterine size/tenderness, open cervical os, palpable retained placental fragments, excitation tenderness (+ve in infection).
+* **Speculum**:
+	* Active bleeding from cervical os.
+	* Cervical/vaginal/perineal lacerations.
+	* Vulvar/vaginal haematoma.
+	* Foul discharge.
+* **Bimanual**:
+	* Uterine size/tenderness.
+	* Open cervical os.
+	* Palpable retained placental fragments.
+	* Excitation tenderness (+ve in infection).
 
 ## 4. Critical Differential Diagnoses & Clinical Staging
 
@@ -134,10 +148,14 @@
 	* Compression sutures (e.g., B-Lynch).
 	* Ligation of internal iliac arteries.
 	* **Hysterectomy (子宮切除術)** as life-saving last resort.
+![image|200](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/6144ab590274fd52a22d089d45623afc.png)
 
 ### Surgical Management for Tissue & Trauma
 * **Retained Placenta**: Intraumbilical venous injection of Syntocinon (if stable) → Manual removal under anaesthesia.
-* **Trauma/Haematoma**: Direct surgical repair, evacuation of haematoma, achieving haemostasis under good lighting/anaesthesia.
+* **Trauma/Haematoma**:
+	* Direct surgical repair.
+	* Evacuation of haematoma.
+	* Achieving haemostasis under good lighting/anaesthesia.
 
 ### Surgical Management for Secondary PPH
 * **Evacuation of Uterus (清宮手術)**: Indicated if retained products of gestation are suspected on USG and bleeding is heavy/ongoing despite medical therapy.
@@ -152,7 +170,9 @@
 
 ### Long-Term Follow-up & Contraception
 * **Iron Replacement**: Oral or IV iron for secondary anaemia.
-* **Contraception**: Progesterone-only pills or barrier methods. Avoid combined oral contraceptives initially due to thrombosis risk and interference with lactation.
+* **Contraception**:
+	* Progesterone-only pills or barrier methods.
+	* Avoid combined oral contraceptives initially due to thrombosis risk and interference with lactation.
 * Counsel regarding ↑ risk of PPH in future pregnancies.
 
 ## 9. Maternal, Fetal & Gynaecological Complications
