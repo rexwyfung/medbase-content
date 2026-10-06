@@ -83,35 +83,41 @@
 ## 4. Critical Differential Diagnoses & Clinical Staging 
 
 ### Differential Diagnoses for Cervical Lesions & Bleeding
-| Category | Specific Differentials |
-| :--- | :--- |
-| **Benign (良性)** | Cervical ectropion (宮頸外翻), cervical polyp, atrophic vaginitis. |
-| **Infective (感染)** | Chlamydia/Gonorrhoea cervicitis, pelvic inflammatory disease (PID). |
-| **Malignant (惡性)** | Endometrial carcinoma, vaginal carcinoma, metastatic disease. |
-| **Pregnancy (妊娠)** | Placenta praevia, placental abruption, threatened miscarriage. |
+| Category           | Specific Differentials                                                     |
+| :----------------- | :------------------------------------------------------------------------- |
+| **Benign (良性)**    | - Cervical ectropion (宮頸外翻).<br>- Cervical polyp.<br>- Atrophic vaginitis. |
+| **Infective (感染)** | - Chlamydia/Gonorrhoea cervicitis.<br>- Pelvic inflammatory disease (PID). |
+| **Malignant (惡性)** | - Endometrial carcinoma.<br>- Vaginal carcinoma.<br>- Metastatic disease.  |
+| **Pregnancy (妊娠)** | - Placenta praevia.<br>- Placental abruption.<br>- Threatened miscarriage. |
 
 ### FIGO 2018 Cervical Cancer Staging System
-| Stage | Description (Strictly Clinical/Radiological/Pathological) |
-| :--- | :--- |
-| **I** | Confined to cervix (extension to corpus ignored). |
-| **IA** | Invasive carcinoma diagnosed only by microscopy (IA1: stromal invasion $<3$ mm; IA2: $\ge3$ mm & $<5$ mm). |
-| **IB** | Macroscopic lesion or microscopic $>5$ mm deep (IB1: $\le2$ cm; IB2: $>2$ cm to $\le4$ cm; IB3: $>4$ cm). |
-| **II** | Invades beyond uterus, but NOT to pelvic wall or lower 1/3 of vagina. |
-| **IIA** | Involves upper 2/3 vagina, without parametrial invasion (IIA1: $\le4$ cm; IIA2: $>4$ cm). |
-| **IIB** | Parametrial invasion but not up to pelvic wall. |
-| **III** | Extends to pelvic wall, lower 1/3 vagina, or causes hydronephrosis/non-functioning kidney. |
-| **IIIA** | Involves lower 1/3 of vagina, no extension to pelvic wall. |
-| **IIIB** | Extension to pelvic wall or hydronephrosis. |
-| **IIIC** | Pelvic/para-aortic lymph node involvement (IIIC1: pelvic nodes; IIIC2: para-aortic nodes). |
-| **IV** | Extension beyond true pelvis or involves mucosa of bladder/rectum. |
-| **IVA / IVB** | IVA: Spread to adjacent pelvic organs; IVB: Distant metastasis. |
+| Stage         | Description (Strictly Clinical/Radiological/Pathological)                                                  |
+| :------------ | :--------------------------------------------------------------------------------------------------------- |
+| **I**         | Confined to cervix (extension to corpus ignored).                                                          |
+| **IA**        | Invasive carcinoma diagnosed only by microscopy (IA1: stromal invasion $<3$ mm; IA2: $\ge3$ mm & $<5$ mm). |
+| **IB**        | Macroscopic lesion or microscopic $>5$ mm deep (IB1: $\le2$ cm; IB2: $>2$ cm to $\le4$ cm; IB3: $>4$ cm).  |
+| **II**        | Invades beyond uterus, but NOT to pelvic wall or lower 1/3 of vagina.                                      |
+| **IIA**       | Involves upper 2/3 vagina, without parametrial invasion (IIA1: $\le4$ cm; IIA2: $>4$ cm).                  |
+| **IIB**       | Parametrial invasion but not up to pelvic wall.                                                            |
+| **III**       | Extends to pelvic wall, lower 1/3 vagina, or causes hydronephrosis/non-functioning kidney.                 |
+| **IIIA**      | Involves lower 1/3 of vagina, no extension to pelvic wall.                                                 |
+| **IIIB**      | Extension to pelvic wall or hydronephrosis.                                                                |
+| **IIIC**      | Pelvic/para-aortic lymph node involvement (IIIC1: pelvic nodes; IIIC2: para-aortic nodes).                 |
+| **IV**        | Extension beyond true pelvis or involves mucosa of bladder/rectum.                                         |
+| **IVA / IVB** | IVA: Spread to adjacent pelvic organs; IVB: Distant metastasis.                                            |
+
+![image|650](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/37e71c639954eb5d0c0aeabab08a69df.png)
 
 ## 5. Key Investigations (Labs, Specific Ultrasound Criteria & CTG Tracings)
 
 ### Cervical Screening & Triage Laboratory Findings
 * **Cervical Smear (Cytology):** Assessed via Bethesda System (ASC-US, LSIL, HSIL, SCC).
 * **HPV DNA Testing:** Positive for HR-HPV (16, 18, 31, 33, 45, etc.). 
-* **Colposcopy Biopsy (陰道鏡活檢):** Acetic acid application (3-5%) → acetowhite changes, mosaicism, punctation; Lugol's iodine → Schiller negative (yellow/non-staining). Histology confirms CIN or invasive carcinoma.
+* **Colposcopy Biopsy (陰道鏡活檢):**
+	* Acetic acid application (3-5%) → acetowhite changes, mosaicism, punctation.
+	* Lugol's iodine → Schiller negative (yellow/non-staining).
+	* Histology confirms CIN or invasive carcinoma.
+![image|350](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/602d3db27d6cc4068fb9c6cdaa4dca61.png)
 
 ### Tumour Markers & Pre-operative Bloods
 * **Tumour Marker:** Squamous Cell Carcinoma Antigen (SCC-Ag) (elevated in SCC; useful for monitoring).
@@ -121,7 +127,9 @@
 ### Radiological Staging Modalities
 * **Pelvic MRI:** Gold standard for assessing local tumour size, parametrial invasion (Stage IIB), and vaginal extension.
 * **PET-CT / CT Thorax/Abdomen/Pelvis:** Evaluates lymph node metastasis (Stage IIIC) and distant visceral spread (Stage IVB).
-* **Transvaginal Ultrasound (TVS):** Hypoechoic mass in cervix; assesses local vascularity via Doppler.
+* **Transvaginal Ultrasound (TVS):**
+	* Hypoechoic mass in cervix.
+	* Assesses local vascularity via Doppler.
 
 ## 6. Medical Management & Acute Stabilization (Pharmacology, Steroids, Resuscitation)
 
@@ -139,18 +147,26 @@
 ## 7. Definitive Management Algorithm (Timing/Mode of Delivery OR Gynaecological Surgery)
 
 ### Management of Pre-malignant Lesions (CIN)
-* **CIN I:** Conservative observation; spontaneous regression common.
-* **CIN II / III:** Large Loop Excision of Transformation Zone (LLETZ) (子宮頸環形電切術) or Cold Knife Cone Biopsy (錐形活檢). 
+* **CIN I:**
+	* Conservative observation.
+	* Spontaneous regression common.
+* **CIN II / III:**
+	* Large Loop Excision of Transformation Zone (LLETZ) (子宮頸環形電切術) or Cone / Cold Knife Cone Biopsy (錐形活檢). 
 
 ### Surgical Algorithm for Early-Stage Cervical Cancer
-* **Stage IA1 (No LVSI):** LLETZ or Cone biopsy (if fertility desired); Simple Hysterectomy (if fertility complete).
-* **Stage IA1 (with LVSI) to IB2 / IIA1:** Radical Hysterectomy (Type III/Wertheim's) + Pelvic Lymph Node Dissection (PLND).
-* **Fertility-Sparing (Stage IA1 w/ LVSI, IA2, IB1 <2cm):** Radical Trachelectomy (子宮頸切除術) + PLND (preserves uterine body).
+* **Stage IA1 (No LVSI):**
+	* LLETZ or Cone biopsy (if fertility desired).
+	* Simple Hysterectomy (if fertility complete).
+* **Stage IA1 (with LVSI) to IB2 / IIA1:**
+	* Radical Hysterectomy (Type III/Wertheim's) + Pelvic Lymph Node Dissection (PLND).
+* **Fertility-Sparing (Stage IA1 w/ LVSI, IA2, IB1 <2cm):**
+	* Radical Trachelectomy (子宮頸切除術) + PLND (preserves uterine body).
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/6af12e8a2397e187d51084f36495a508.png)
 
 ### Definitive Chemoradiation for Advanced Disease
 * **Stage IB3, IIA2, and IIB to IVA:** Primary Concurrent Chemoradiotherapy (CCRT) (同步放化療).
-* **Radiation:** External Beam Radiotherapy (EBRT) to pelvis + Intracavitary Brachytherapy (腔內放射治療).
-* **Chemotherapy:** Weekly Cisplatin acts as a radiosensitizer.
+	* **Radiation:** External Beam Radiotherapy (EBRT) to pelvis + Intracavitary Brachytherapy (腔內放射治療).
+	* **Chemotherapy:** Weekly Cisplatin acts as a radiosensitizer.
 
 ### Management in Pregnancy
 * **CIN / Early Stage IA (1st/2nd Trimester):** Observation, defer surgery until post-partum.
@@ -160,29 +176,61 @@
 ## 8. Post-partum/Post-operative Care, Contraception & Follow-up
 
 ### Post-operative Care (Radical Hysterectomy)
-* **Bladder Care:** Prolonged urethral catheterization (7-14 days) required due to autonomic nerve disruption during parametrial resection. Perform Trial of Void (TOV) measuring post-void residual.
-* **DVT Prophylaxis:** Early mobilization, graduated compression stockings, subcutaneous LMWH.
-* **HRT:** Hormone replacement therapy (Oestrogen only if uterus removed) is safe for young women post-oophorectomy; cervical SCC is non-hormone dependent.
+* **Bladder Care:**
+	* Prolonged urethral catheterization (7-14 days) required due to autonomic nerve disruption during parametrial resection.
+	* Perform Trial of Void (TOV) measuring post-void residual.
+* **DVT Prophylaxis:**
+	* Early mobilization.
+	* Graduated compression stockings.
+	* Subcutaneous LMWH.
+* **HRT:**
+	* Hormone replacement therapy (Oestrogen only if uterus removed) is safe for young women post-oophorectomy.
+	* Cervical SCC is non-hormone dependent.
 
 ### Follow-up Surveillance Protocol
-* **Schedule:** Every 3-4 months for first 2 years, then every 6 months for next 3 years, then annually.
-* **Clinical Assessment:** Speculum examination, vaginal vault cytology (smear), bimanual and rectovaginal palpation to detect vault or parametrial recurrence.
-* **Imaging:** Annual CT or MRI; PET-CT if recurrence suspected (e.g., rising SCC-Ag, new pelvic/sciatic pain).
+* **Schedule:**
+	* Every 3-4 months for first 2 years.
+	* Then every 6 months for next 3 years.
+	* Then annually.
+* **Clinical Assessment:**
+	* Speculum examination.
+	* Vaginal vault cytology (smear).
+	* Bimanual and rectovaginal palpation to detect vault or parametrial recurrence.
+* **Imaging:**
+	* Annual CT or MRI.
+	* PET-CT if recurrence suspected (e.g., rising SCC-Ag, new pelvic/sciatic pain).
 
 ### Primary Prevention & Contraception
-* **HPV Vaccination (HPV疫苗):** 9-valent vaccine (covers 6, 11, 16, 18, 31, 33, 45, 52, 58). Optimal efficacy if administered before sexual debut.
-* **Contraception Post-Trachelectomy:** Barrier methods; avoid IUDs due to absent cervix. Future pregnancies require elective Caesarean Section.
+* **HPV Vaccination (HPV疫苗):**
+	* 9-valent vaccine (covers 6, 11, 16, 18, 31, 33, 45, 52, 58).
+	* Optimal efficacy if administered before sexual debut.
+* **Contraception Post-Trachelectomy:**
+	* Barrier methods.
+	* Avoid IUDs due to absent cervix.
+	* Future pregnancies require elective Caesarean Section.
 
 ## 9. Maternal, Fetal & Gynaecological Complications
 
 ### Surgical Complications (Radical Hysterectomy & Trachelectomy)
-* **Intraoperative:** Ureteric injury (most vulnerable where ureter tunnels through cardinal ligament), bladder injury, massive haemorrhage, obturator nerve injury.
-* **Postoperative:** Bladder dysfunction (neurogenic retention), lymphocyst formation, lower limb lymphoedema, vesicovaginal fistula, sexual dysfunction (shortened vagina).
-* **Obstetric (Post-Trachelectomy):** 2nd-trimester miscarriage, preterm prelabour rupture of membranes (PPROM), cervical incompetence.
+* **Intraoperative:**
+	* Ureteric injury (most vulnerable where ureter tunnels through cardinal ligament), bladder injury, massive haemorrhage, obturator nerve injury.
+* **Postoperative:**
+	* Bladder dysfunction (neurogenic retention), lymphocyst formation, lower limb lymphoedema, vesicovaginal fistula, sexual dysfunction (shortened vagina).
+* **Obstetric (Post-Trachelectomy):**
+	* 2nd-trimester miscarriage.
+	* Preterm prelabour rupture of membranes (PPROM).
+	* Cervical incompetence.
 
 ### Radiation Toxicity Complications
-* **Acute Effects:** Radiation cystitis, radiation proctitis (diarrhoea, tenesmus), skin desquamation, bone marrow suppression.
-* **Late Effects:** Vaginal stenosis/fibrosis (requires vaginal dilator use), ovarian failure (premature menopause), vesicovaginal or rectovaginal fistulae, ureteric strictures.
+* **Acute Effects:**
+	* Radiation cystitis, radiation proctitis (diarrhoea, tenesmus).
+	* Skin desquamation.
+	* Bone marrow suppression.
+* **Late Effects:**
+	* Vaginal stenosis/fibrosis (requires vaginal dilator use).
+	* Ovarian failure (premature menopause).
+	* Vesicovaginal or rectovaginal fistulae.
+	* Ureteric strictures.
 
 ## 10. Examiner's Pearls
 
