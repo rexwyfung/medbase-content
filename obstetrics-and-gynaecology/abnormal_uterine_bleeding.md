@@ -58,7 +58,7 @@
   * Thyroid dysfunction: Goiter, peripheral thyroid signs.
 * **Abdominal Signs:** Palpable pelvic/abdominal mass, hepatomegaly, splenomegaly.
 
-### Pelvic Examination Findings
+### Pelvic Examination (Speculum & Bimanual) Findings
 * **Speculum Exam:** Vulval/vaginal lesions, cervical pathology (polyps, ectropion, cervical cancer).
 * **Bimanual Exam:** Uterine size/contour (enlarged/bulky in fibroids/adenomyosis), adnexal masses (e.g., estrogen-secreting granulosa cell tumour).
 
