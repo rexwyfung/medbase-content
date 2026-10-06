@@ -3,18 +3,27 @@
 ## 1. Clinical Definition, Gestational Context & Local Epidemiology
 
 ### Clinical Definition of Cervical Cancer
-* **Cervical Cancer (子宮頸癌):** Malignant neoplasm arising from cervix, primarily Squamous Cell Carcinoma (SCC) (80%) or Adenocarcinoma (20%), predominantly driven by persistent High-Risk Human Papillomavirus (HR-HPV) infection.
+* **Cervical Cancer (子宮頸癌):**
+	* Malignant neoplasm arising from cervix, primarily Squamous Cell Carcinoma (SCC) (80%) or Adenocarcinoma (20%).
+	* Predominantly driven by persistent High-Risk Human Papillomavirus (HR-HPV) infection.
 * **Cervical Intraepithelial Neoplasia (CIN) (子宮頸上皮內瘤樣病變):** Premalignant dysplastic changes graded I-III based on epithelial thickness involvement (CIN III = Carcinoma in situ).
+![image|650](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/57cbe956d6547900ff41278bceda137d.png)
 
 ### Local Epidemiology in Hong Kong
-* **Incidence:** 7th most common female cancer in HK; incidence ↓ over decades due to organized screening.
+* **Incidence:**
+	* 7th most common female cancer in HK.
+	* Incidence ↓ over decades due to organized screening.
 * **Peak Age:** Bimodal distribution (35-55 yrs & >65 yrs).
 * **MCHC/DH Screening Guidelines (香港衞生署指引):** Targets women 25-64 yrs with prior sexual experience.
 * **Screening Modality:** Transitioning from cytology every 3 yrs (after 2 consecutive normal annual smears) to HR-HPV testing every 5 yrs (if -ve).
 
 ### Gestational Context & Pregnancy
-* **Incidence in Pregnancy:** 1-1.2 per 10,000 pregnancies; most common gynaecological malignancy during gestation.
-* **Screening in Pregnancy:** Routine smear safe; colposcopy safe but biopsies avoided unless suspicion of invasive cancer.
+* **Incidence in Pregnancy:**
+	* 1-1.2 per 10,000 pregnancies.
+	* Most common gynaecological malignancy during gestation.
+* **Screening in Pregnancy:**
+	* Routine smear safe.
+	* Colposcopy safe but biopsies avoided unless suspicion of invasive cancer.
 * **Delivery Considerations:** Vaginal delivery generally contraindicated if invasive cancer present → theoretical risk of massive haemorrhage & tumour dissemination.
 
 ## 2. Pathophysiology, Endocrine Axis & Pelvic Anatomy (Maternal-Fetal Physiology)
@@ -22,26 +31,44 @@
 ### Pelvic Anatomy: The Transformation Zone
 * **Squamocolumnar Junction (SCJ) (鱗狀柱狀上皮交界):** Dynamic border between ectocervix (stratified squamous) & endocervix (columnar).
 * **Transformation Zone (TZ) (轉化區):** Area of squamous metaplasia between original SCJ & new SCJ; highly susceptible to HPV oncogenesis.
-* **Blood Supply:** Uterine artery (branch of internal iliac artery) forms cervical branches; crosses anterior to ureter ("water under the bridge").
+* **Blood Supply:**
+	* Uterine artery (branch of internal iliac artery) forms cervical branches.
+	* Crosses anterior to ureter ("water under the bridge").
 * **Lymphatic Drainage:** Parametrial → obturator → internal/external iliac → common iliac → para-aortic nodes.
+![image|650](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/cb483a90c05e4beb1077898405b474d3.png)
+![image|250](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/0a9bf9855a9bb6d2155006a2f766b6c2.png)
+
 
 ### HPV Pathophysiology & Oncogenesis
 * **High-Risk HPV:** Types 16 (most oncogenic, SCC) & 18 (adenocarcinoma).
 * **Viral Oncoproteins:** 
-* **E6 Protein:** Binds & degrades p53 tumor suppressor → prevents apoptosis.
-* **E7 Protein:** Binds & inactivates Retinoblastoma (Rb) protein → releases E2F transcription factor → uncontrolled cell cycle progression (G1 to S phase).
+	* **E6 Protein:** Binds & degrades p53 tumor suppressor → prevents apoptosis.
+	* **E7 Protein:** Binds & inactivates Retinoblastoma (Rb) protein → releases E2F transcription factor → uncontrolled cell cycle progression (G1 to S phase).
 * **Progression Timeline:** HPV infection → persistence → CIN (years to decades) → invasive carcinoma.
+![image|450](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/406671deed209617d34051c411011364.png)
 
 ## 3. Clinical Assessment (History, Abdominal, Speculum & Bimanual Exam Findings ONLY)
 
 ### Maternal History & Risk Factors
-* **Primary Symptoms:** Postcoital bleeding (PCB) (性交後出血), intermenstrual bleeding (IMB), postmenopausal bleeding (PMB).
+* **Primary Symptoms:**
+	* Postcoital bleeding (PCB) (性交後出血).
+	* Intermenstrual bleeding (IMB).
+	* Postmenopausal bleeding (PMB).
 * **Advanced Symptoms:** Foul-smelling vaginal discharge, pelvic pain, sciatica, haematuria, bowel symptoms, lower limb oedema.
-* **Risk Factors:** Early coitarche, multiple sexual partners, smoking, immunosuppression (e.g., HIV), high parity, non-attendance at screening.
+* **Risk Factors:**
+	* Early coitarche.
+	* Multiple sexual partners.
+	* Smoking.
+	* Immunosuppression (e.g., HIV).
+	* High parity.
+	* Non-attendance at screening.
 
 ### Abdominal Examination Findings
 * **Early Stage:** Usually unremarkable.
-* **Advanced Stage:** Hydronephrotic kidney palpation (if ureteric obstruction), hepatomegaly (metastasis), ascites.
+* **Advanced Stage:**
+	* Hydronephrotic kidney palpation (if ureteric obstruction).
+	* Hepatomegaly (metastasis).
+	* Ascites.
 
 ### Speculum Examination Findings
 * **Macroscopic Appearance:** May appear normal (microscopic), ulcerated, exophytic/fungating mass, or barrel-shaped cervix.
