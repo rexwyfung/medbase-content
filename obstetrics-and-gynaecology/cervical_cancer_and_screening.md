@@ -14,8 +14,13 @@
 	* 7th most common female cancer in HK.
 	* Incidence ↓ over decades due to organized screening.
 * **Peak Age:** Bimodal distribution (35-55 yrs & >65 yrs).
+
+### Screening in Hong Kong
 * **MCHC/DH Screening Guidelines (香港衞生署指引):** Targets women 25-64 yrs with prior sexual experience.
-* **Screening Modality:** Transitioning from cytology every 3 yrs (after 2 consecutive normal annual smears) to HR-HPV testing every 5 yrs (if -ve).
+* **Screening Schedule & Modality:**
+	* **Age 25-29:** Cytology every 3 years (after 2 consecutive normal annual smears).
+	* **Age 30-64:** High-risk HPV testing/co-testing every 5 years.
+	* **Age ≥65:** Discontinue testing (if consecutive tests over the past 10 years were normal).
 
 ### Gestational Context & Pregnancy
 * **Incidence in Pregnancy:**
