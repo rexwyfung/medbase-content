@@ -5,7 +5,9 @@
 ### Clinical Definition of Ovarian Cancer
 * **Malignant Neoplasm** originating from the ovary (卵巢), fallopian tube, or primary peritoneum.
 * **Epithelial Ovarian Cancer (EOC)**: Comprises ~90% of cases (e.g., serous, mucinous, endometrioid, clear cell).
-* **Non-Epithelial Tumours**: Germ cell tumours, sex cord-stromal tumours (typically affect younger demographic).
+* **Non-Epithelial Tumours**:
+	* Germ cell tumours.
+	* Sex cord-stromal tumours (typically affect younger demographic).
 
 ### Local Epidemiology in Hong Kong
 * **Incidence**: 6th most common cancer among women in Hong Kong (HK).
@@ -18,12 +20,17 @@
 ### Pathophysiology & Carcinogenesis
 * **Incessant Ovulation Theory**: Repeated surface epithelial trauma & repair cycles → ↑ genetic mutation risk.
 * **Fallopian Tube Origin Theory**: Majority of high-grade serous carcinomas originate from **Secretory Intraepithelial Carcinoma (STIC)** in the distal fimbriae (傘端).
-* **Metastatic Spread Pathway**: Exfoliation leading to transcoelomic spread (peritoneal seeding) → ↑ ascites production. Lymphatic spread → pelvic & para-aortic nodes.
+* **Metastatic Spread Pathway**:
+	* Exfoliation leading to transcoelomic spread (peritoneal seeding) → ↑ ascites production.
+	* Lymphatic spread → pelvic & para-aortic nodes.
 
 ### Relevant Pelvic Anatomy & Vascular Supply
 * **Ovarian Blood Supply**: Ovarian artery (direct branch from abdominal aorta) & ovarian branch of uterine artery.
-* **Venous Drainage**: Right ovarian vein → IVC; Left ovarian vein → Left renal vein.
+* **Venous Drainage**:
+	* Right ovarian vein → IVC.
+	* Left ovarian vein → Left renal vein.
 * **Lymphatic Drainage**: Follows ovarian vessels to **Para-aortic Nodes** (L1 level), traversing alongside the infundibulopelvic ligament (骨盆漏斗韌帶).
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/4a7fdd2d07d67ce47c578f9b106dcb78.png)
 
 ## 3. Clinical Assessment (History, Abdominal, Speculum & Bimanual Exam Findings ONLY)
 
@@ -52,18 +59,18 @@
 * **Gastrointestinal Pathology**: Colorectal carcinoma, Appendiceal tumour, Diverticular mass.
 
 ### FIGO Clinical Staging of Ovarian Cancer
-| Stage | Description |
-| :--- | :--- |
-| **Stage I** | Tumour confined strictly to ovaries (I) or fallopian tubes (FT). |
-| **Stage IA** | 1 ovary/FT involved; capsule intact; -ve washings. |
-| **Stage IB** | Both ovaries/FT involved; capsules intact; -ve washings. |
-| **Stage IC** | Tumour spill (IC1), capsule ruptured before surgery (IC2), or +ve washings/ascites (IC3). |
-| **Stage II** | Tumour involves 1 or both ovaries/FT with **pelvic extension** (below pelvic brim). |
-| **Stage III** | Micro/macroscopic **peritoneal metastasis** beyond pelvis OR +ve retroperitoneal nodes. |
-| **Stage IIIC** | Macroscopic peritoneal metastasis >2cm. |
-| **Stage IV** | **Distant metastasis** excluding peritoneal metastasis. |
-| **Stage IVA** | Pleural effusion with +ve cytology. |
-| **Stage IVB** | Hepatic/splenic parenchymal metastases or extra-abdominal organ involvement. |
+| Stage          | Description                                                                               |
+| :------------- | :---------------------------------------------------------------------------------------- |
+| **Stage I**    | Tumour confined strictly to ovaries (I) or fallopian tubes (FT).                          |
+| **Stage IA**   | 1 ovary/FT involved; capsule intact; -ve washings.                                        |
+| **Stage IB**   | Both ovaries/FT involved; capsules intact; -ve washings.                                  |
+| **Stage IC**   | Tumour spill (IC1), capsule ruptured before surgery (IC2), or +ve washings/ascites (IC3). |
+| **Stage II**   | Tumour involves 1 or both ovaries/FT with **pelvic extension** (below pelvic brim).       |
+| **Stage III**  | Micro/macroscopic **peritoneal metastasis** beyond pelvis OR +ve retroperitoneal nodes.   |
+| **Stage IIIC** | Macroscopic peritoneal metastasis >2cm.                                                   |
+| **Stage IV**   | **Distant metastasis** excluding peritoneal metastasis.                                   |
+| **Stage IVA**  | Pleural effusion with +ve cytology.                                                       |
+| **Stage IVB**  | Hepatic/splenic parenchymal metastases or extra-abdominal organ involvement.              |
 
 ## 5. Key Investigations (Labs, Specific Ultrasound Criteria & CTG Tracings)
 
@@ -88,7 +95,10 @@
 ## 6. Medical Management & Acute Stabilization (Pharmacology, Steroids, Resuscitation)
 
 ### Acute Stabilization for Complications
-* **Malignant Bowel Obstruction**: NPO, Nasogastric (NG) tube decompression, IV fluid resuscitation, IV anti-emetics (e.g., Metoclopramide), IV Octreotide (↓ GI secretions).
+* **Malignant Bowel Obstruction**:
+	* NPO, Nasogastric (NG) tube decompression, IV fluid resuscitation.
+	* IV anti-emetics (e.g., Metoclopramide).
+	* IV Octreotide (↓ GI secretions).
 * **Massive Ascites / Pleural Effusion**: Therapeutic paracentesis / thoracentesis for acute symptomatic relief (dyspnoea/abdominal compartment).
 * **Thromboembolism Prophylaxis**: LMWH (e.g., Enoxaparin) & compression stockings initiated immediately (high VTE risk in pelvic malignancy).
 

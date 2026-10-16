@@ -14,26 +14,26 @@
 
 ### Type 1 vs Type 2 Pathophysiology
 * **Type 1 (Endometrioid)**: 
- * ~80% of cases.
- * Estrogen-dependent ($\uparrow$ unopposed estrogen).
- * Precursor: **Endometrial Hyperplasia (子宮內膜增生)**.
- * Associated mutations: PTEN, KRAS, MSI.
- * Favorable prognosis.
+	 * ~80% of cases.
+	 * Estrogen-dependent ($\uparrow$ unopposed estrogen).
+	 * Precursor: **Endometrial Hyperplasia (子宮內膜增生)**.
+	 * Associated mutations: PTEN, KRAS, MSI.
+	 * Favorable prognosis.
 * **Type 2 (Non-endometrioid/Serous/Clear Cell)**:
- * ~10-20% of cases.
- * Estrogen-independent.
- * Arises in atrophic endometrium.
- * Associated mutation: p53.
- * Highly aggressive, poor prognosis.
+	 * ~10-20% of cases.
+	 * Estrogen-independent.
+	 * Arises in atrophic endometrium.
+	 * Associated mutation: p53.
+	 * Highly aggressive, poor prognosis.
 
 ### Endocrine Axis & Risk Factors
 * $\uparrow$ Unopposed estrogen drives endometrial proliferation $\to$ atypia $\to$ carcinoma.
 * Major Risk Factors: 
- * **Obesity (肥胖)** (peripheral aromatization of androgens $\to$ estrone).
- * Nulliparity, early menarche, late menopause.
- * **Polycystic Ovary Syndrome (PCOS) (多囊卵巢綜合症)** (chronic anovulation).
- * **Tamoxifen (他莫昔芬)** use (partial estrogen agonist in endometrium).
- * **Lynch Syndrome (HNPCC)** (genetic predisposition).
+	 * **Obesity (肥胖)** (peripheral aromatization of androgens $\to$ estrone).
+	 * Nulliparity, early menarche, late menopause.
+	 * **Polycystic Ovary Syndrome (PCOS) (多囊卵巢綜合症)** (chronic anovulation).
+	 * **Tamoxifen (他莫昔芬)** use (partial estrogen agonist in endometrium).
+	 * **Lynch Syndrome (HNPCC)** (genetic predisposition).
 
 ### Pelvic Anatomy & Spread Patterns
 * **Direct Extension**: Into myometrium, cervical stroma, vagina, parametrium.
@@ -70,29 +70,33 @@
 ## 4. Critical Differential Diagnoses & Clinical Staging
 
 ### Critical Differential Diagnoses
-| Condition | Differentiating Clinical Features |
-| :--- | :--- |
-| **Atrophic Vaginitis (萎縮性陰道炎)** | Pale, friable vaginal mucosa; lack of rugae; low estrogen state. |
-| **Endometrial Polyp (子宮內膜息肉)** | Focal structural lesion; bleeding pattern variable. |
-| **Endometrial Hyperplasia (子宮內膜增生)** | Precursor lesion; identical clinical presentation to carcinoma. |
-| **Cervical Cancer (子宮頸癌)** | Gross cervical lesion; postcoital bleeding prominent; abnormal smear. |
-| **Submucosal Leiomyoma (黏膜下肌瘤)** | Enlarged firm uterus; heavy regular menses rather than irregular. |
+| Condition                            | Differentiating Clinical Features                                                 |
+| :----------------------------------- | :-------------------------------------------------------------------------------- |
+| **Atrophic Vaginitis (萎縮性陰道炎)**      | - Pale, friable vaginal mucosa.<br>- Lack of rugae.<br>- Low estrogen state.      |
+| **Endometrial Polyp (子宮內膜息肉)**       | - Focal structural lesion.<br>- Bleeding pattern variable.                        |
+| **Endometrial Hyperplasia (子宮內膜增生)** | - Precursor lesion.<br>- Identical clinical presentation to carcinoma.            |
+| **Cervical Cancer (子宮頸癌)**           | - Gross cervical lesion.<br>- Postcoital bleeding prominent.<br>- Abnormal smear. |
+| **Submucosal Leiomyoma (黏膜下肌瘤)**     | - Enlarged firm uterus.<br>- Heavy regular menses rather than irregular.          |
 
 ### FIGO Clinical Staging (2023 Revision)
-| Stage | Extent of Tumour Spread |
-| :--- | :--- |
-| **Stage I** | Confined to corpus uteri or ovaries (synchronous). |
-| *IA* | Non-aggressive histology confined to endometrium/polyps or <50% myometrium. |
-| *IB* | Non-aggressive histology invading $\ge$50% myometrium. |
-| *IC* | Aggressive histology (e.g., serous) confined to polyp/endometrium. |
-| **Stage II** | Tumour extension to cervical stroma. |
-| **Stage III** | Local/regional spread (serosa, adnexa, vagina, parametrium, lymph nodes). |
-| **Stage IV** | Distant metastasis (bladder/bowel mucosa, extra-abdominal). |
+| Stage         | Extent of Tumour Spread                                                     |
+| :------------ | :-------------------------------------------------------------------------- |
+| **Stage I**   | Confined to corpus uteri or ovaries (synchronous).                          |
+| *IA*          | Non-aggressive histology confined to endometrium/polyps or <50% myometrium. |
+| *IB*          | Non-aggressive histology invading $\ge$50% myometrium.                      |
+| *IC*          | Aggressive histology (e.g., serous) confined to polyp/endometrium.          |
+| **Stage II**  | Tumour extension to cervical stroma.                                        |
+| **Stage III** | Local/regional spread (serosa, adnexa, vagina, parametrium, lymph nodes).   |
+| **Stage IV**  | Distant metastasis (bladder/bowel mucosa, extra-abdominal).                 |
+
+![image|650](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/782ea4ee8e4aadc7450810337dd0794e.png)
 
 ## 5. Key Investigations (Labs, Specific Ultrasound Criteria & CTG Tracings)
 
 ### Pelvic Ultrasound Criteria (Transvaginal - TVS)
-* **Endometrial Thickness (ET)**: ET $\le$ 4mm implies endometrial carcinoma is highly unlikely (Negative Predictive Value 99.4-100%). ET > 4mm warrants biopsy.
+* **Endometrial Thickness (ET)**:
+	* ET $\le$ 4mm implies endometrial carcinoma is highly unlikely (Negative Predictive Value 99.4-100%).
+	* ET > 4mm warrants biopsy.
 * Irregular endometrial-myometrial junction.
 * Heterogeneous echogenicity within the cavity.
 * Pathological intra-cavitary vascular flow on color Doppler.
@@ -104,7 +108,9 @@
 
 ### Pathological & Tissue Sampling
 * **Endometrial Aspiration (e.g., Pipelle)**: First-line outpatient sampling.
-* **Hysteroscopy + Directed Biopsy**: Gold standard. Indicated if TVS >4mm, focal lesion suspected, or Pipelle failed/inconclusive.
+* **Hysteroscopy + Directed Biopsy**:
+	* Gold standard.
+	* Indicated if TVS >4mm, focal lesion suspected, or Pipelle failed/inconclusive.
 
 ### Imaging for Staging
 * **MRI Pelvis (with contrast)**: Modality of choice for assessing myometrial invasion depth and cervical stromal involvement.
@@ -130,8 +136,10 @@
 * **Standard Procedure**: Total Hysterectomy + Bilateral Salpingo-oophorectomy (TH+BSO) (全子宮及雙側輸卵管卵巢切除術).
 * **Approach**: Minimally invasive (Laparoscopic or Robotic) is preferred over laparotomy due to $\downarrow$ morbidity and faster recovery.
 * **Lymph Node Assessment**:
- * **Sentinel Lymph Node (SLN) Mapping**: Using Indocyanine Green (ICG). Preferred for early-stage disease to reduce lymphedema risk while ensuring accurate staging.
- * **Pelvic & Para-aortic Lymphadenectomy**: Reserved for high-risk histology (Type 2), deep myometrial invasion, or clinically suspicious nodes.
+	 * **Sentinel Lymph Node (SLN) Mapping**:
+		 * Using Indocyanine Green (ICG).
+		 * Preferred for early-stage disease to reduce lymphedema risk while ensuring accurate staging.
+	 * **Pelvic & Para-aortic Lymphadenectomy**: Reserved for high-risk histology (Type 2), deep myometrial invasion, or clinically suspicious nodes.
 * Peritoneal washings obtained for cytology (prognostic, no longer dictates staging).
 
 ### Adjuvant Therapy Indications
@@ -139,6 +147,14 @@
 * **Vaginal Vault Brachytherapy (VBT)**: High-intermediate risk (e.g., Stage IB, Grade 1-2; Stage IA, Grade 3) to $\downarrow$ local vault recurrence.
 * **External Beam Radiotherapy (EBRT)**: Stage II or Stage III (pelvic control).
 * **Systemic Chemotherapy**: Carboplatin + Paclitaxel for advanced stages (Stage III/IV) or high-risk histologies (serous/clear cell).
+
+### Molecular Classification of Endometrial Carcinoma
+| Molecular Group | Diagnostic Test            | Main Features                     | Prognosis                                         |
+| --------------- | -------------------------- | --------------------------------- | ------------------------------------------------- |
+| **POLEmut**     | _POLE_ gene sequencing     | Ultra-high gene mutations; rare   | **Excellent** (rarely returns)                    |
+| **MMRd**        | MMR protein staining (IHC) | Mismatch repair system failure    | **Intermediate** (responds well to immunotherapy) |
+| **NSMP**        | Diagnosis by exclusion     | Normal p53 & MMR; very common     | **Intermediate** (standard risk profile)          |
+| **p53abn**      | p53 protein staining (IHC) | High genetic damage; abnormal p53 | **Poor** (aggressive; needs heavy treatment)      
 
 ## 8. Post-partum/Post-operative Care, Contraception & Follow-up
 
