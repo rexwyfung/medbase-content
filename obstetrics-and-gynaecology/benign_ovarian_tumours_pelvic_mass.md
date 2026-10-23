@@ -42,6 +42,7 @@
     * Bilateral
     * Multiloculated
     * Driven by ↑↑ hCG levels (e.g., Molar pregnancy, Multiple gestation, OHSS)
+![image|350](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/5d8d7b31d0eb8c3739f201c7f48a9bb8.png)
 
 ### Benign Epithelial Tumours (60-80%)
 * **Serous Cystadenoma (漿液性囊腺瘤):** 
@@ -212,7 +213,7 @@
     * Mass > 8-10cm (↑ risk of torsion)
     * Bilateral complex masses
 
-### Operative Principles
+### Operative Principles & Ovarian Torsion Management
 * **Surgical Approach:**
     * **Laparoscopy (腹腔鏡):** Gold standard for benign masses (↓ morbidity, ↓ adhesions)
     * **Laparotomy (開腹手術):** Reserved for massive cysts, hemodynamic instability, or high suspicion of malignancy
