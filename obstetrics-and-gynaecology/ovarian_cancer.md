@@ -23,6 +23,7 @@
 * **Metastatic Spread Pathway**:
 	* Exfoliation leading to transcoelomic spread (peritoneal seeding) → ↑ ascites production.
 	* Lymphatic spread → pelvic & para-aortic nodes.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/a23ebf377f8e9ecf597a71f59b80014a.png)
 
 ### Relevant Pelvic Anatomy & Vascular Supply
 * **Ovarian Blood Supply**: Ovarian artery (direct branch from abdominal aorta) & ovarian branch of uterine artery.
@@ -91,6 +92,7 @@
 * **Doppler Flow**: ↑ vascularity within solid areas demonstrating ↓ resistance index.
 * **Bilateral Involvement**: Suspicious complex masses in both adnexa.
 * **Extra-ovarian Disease**: Significant free fluid (ascites), visible peritoneal nodules.
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/805d56bf1a050a8e5de5b41e88d06a59.png)
 
 ## 6. Medical Management & Acute Stabilization (Pharmacology, Steroids, Resuscitation)
 
@@ -141,8 +143,15 @@
 * **Malignant Bowel Obstruction**: Terminal complication due to advanced peritoneal carcinomatosis.
 
 ### Treatment-Related Complications
-* **Chemotherapy Toxicity**: Alopecia, bone marrow suppression (neutropenia), peripheral neuropathy (Paclitaxel), hypersensitivity reactions (Carboplatin).
-* **Surgical Complications**: Bowel/ureteric injury, pelvic lymphocyst formation, wound dehiscence/infection.
+* **Chemotherapy Toxicity**
+	* Alopecia.
+	* Bone marrow suppression (neutropenia).
+	* Peripheral neuropathy (Paclitaxel).
+	* Hypersensitivity reactions (Carboplatin).
+* **Surgical Complications**:
+	* Bowel/ureteric injury.
+	* Pelvic lymphocyst formation.
+	* Wound dehiscence/infection.
 
 ## 10. Examiner's Pearls
 * Viva Question: What is the significance of the Risk of Malignancy Index (RMI)? Answer: It triages patients; RMI >200 warrants mandatory referral to a tertiary gynae-oncology centre for specialized staging surgery.
