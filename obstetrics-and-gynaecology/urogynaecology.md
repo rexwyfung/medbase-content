@@ -20,6 +20,7 @@
 * Level I: Cardinal/uterosacral ligaments (apical support)
 * Level II: Pubocervical & rectovaginal fascia (anterior/posterior support)
 * Level III: Perineal body & superficial/deep perineal muscles (distal support)
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/c55c7a6e1dbda77c5b058d19839a4769.png)
 
 ### Pathophysiology
 * Weakening of pelvic diaphragm (levator ani muscles)
@@ -72,13 +73,15 @@
 * Neurogenic bladder (神經性膀胱)
 
 ### Clinical Staging: POP-Q System
-| Stage | Description |
-| :--- | :--- |
-| **Stage 0** | No prolapse |
-| **Stage I** | Leading edge >1 cm above hymen (< -1 cm) |
-| **Stage II** | Leading edge $\le$ 1 cm above or below hymen (-1 to +1 cm) |
-| **Stage III** | Leading edge >1 cm below hymen |
-| **Stage IV** | Complete eversion (procidentia) |
+| Stage         | Description                                                |
+| :------------ | :--------------------------------------------------------- |
+| **Stage 0**   | No prolapse                                                |
+| **Stage I**   | Leading edge >1 cm above hymen (< -1 cm)                   |
+| **Stage II**  | Leading edge $\le$ 1 cm above or below hymen (-1 to +1 cm) |
+| **Stage III** | Leading edge >1 cm below hymen                             |
+| **Stage IV**  | Complete eversion (procidentia)                            |
+
+![image|200](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/a2a726b0d6c01226397fb75a7e49a840.png)
 
 ## 5. Key Investigations (Labs, Specific Ultrasound Criteria & CTG Tracings)
 
@@ -95,6 +98,7 @@
 * **Detrusor Overactivity Tracing**:
   * Spontaneous detrusor contractions during filling phase
   * Provoked detrusor contractions during filling phase
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/eef14458bbbc4ded6272766b9958a0af.png)
 
 ### Diagnostic Tools
 * **Urinary Diary**:
@@ -135,18 +139,31 @@
 * **Vaginal Pessary (陰道子宮托)**:
   * Ring pessary
   * Gellhorn pessary
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/0ba1928dd8ac2128d34aeb161e289a29.png)
 
-### Definitive Management Algorithm: Gynaecological Surgery (POP)
-* **Vaginal Hysterectomy (陰道子宮切除術)** + **Pelvic Floor Repair (PFR)**
-* **Anterior Colporrhaphy** (前陰道壁修補術)
-* **Posterior Colporrhaphy** (後陰道壁修補術)
-* **Sacrospinous Fixation** (薦棘韌帶固定術)
+
+### Surgical Management for POP
+* **Anterior Colporrhaphy (前陰道壁修補術):**
+	* For cystocele.
+	* Plication of pubocervical fascia.
+* **Posterior Colporrhaphy (後陰道壁修補術):**
+	* For rectocele.
+	* Plication of rectovaginal fascia.
+* **Vaginal Hysterectomy (陰道子宮切除術):**
+	* For uterine prolapse in post-reproductive women.
+* **Sacrospinous Ligament Fixation (SSLF) (骶棘韌帶固定術):**
+	* Suspension of vaginal vault to sacrospinous ligament to prevent vault prolapse.
+* **Sacrocolpopexy (骶骨陰道固定術):**
+	* Laparoscopic/abdominal attachment of vaginal vault to anterior longitudinal ligament of sacrum using synthetic mesh.
 
 ### Definitive Management Algorithm: Gynaecological Surgery (Incontinence)
-* **SUI**: Mid-urethral Sling (e.g., TVT, TOT) - Gold standard
-* **SUI**: Burch Colposuspension
-* **Refractory UUI**: Intra-vesical Botulinum toxin A (Botox) injections
-* **Refractory UUI**: Percutaneous Tibial Nerve Stimulation (PTNS)
+* **SUI**
+	* Mid-urethral Sling (e.g., TVT, TOT) - Gold standard
+	* Burch Colposuspension
+* **Refractory UUI**:
+	* Intra-vesical Botulinum toxin A (Botox) injections
+	* Percutaneous Tibial Nerve Stimulation (PTNS)
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/05cc5f8fbca5d8654486061207b1546b.png)
 
 ## 8. Post-partum/Post-operative Care, Contraception & Follow-up
 
