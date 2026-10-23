@@ -156,7 +156,7 @@
 * **Malignant Bowel Obstruction**: Terminal complication due to advanced peritoneal carcinomatosis.
 
 ### Treatment-Related Complications
-* **Chemotherapy Toxicity**
+* **Chemotherapy Toxicity**:
 	* Alopecia.
 	* Bone marrow suppression (neutropenia).
 	* Peripheral neuropathy (Paclitaxel).
