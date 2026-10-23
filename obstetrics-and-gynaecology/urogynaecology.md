@@ -27,6 +27,7 @@
 * Damage or avulsion to endopelvic fascia
 * Disruption of the perineal body during childbirth
 * ↑ Chronic intra-abdominal pressure (e.g., chronic cough, constipation)
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/fda924e194dfc93427036d8873a6bc14.png)
 
 ### Endocrine Axis
 * ↓ **Oestrogen** post-menopause → urogenital atrophy
@@ -155,6 +156,7 @@
 	* Suspension of vaginal vault to sacrospinous ligament to prevent vault prolapse.
 * **Sacrocolpopexy (骶骨陰道固定術):**
 	* Laparoscopic/abdominal attachment of vaginal vault to anterior longitudinal ligament of sacrum using synthetic mesh.
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/b4f4af852d5836c7a0db4501c065c35e.png)
 
 ### Definitive Management Algorithm: Gynaecological Surgery (Incontinence)
 * **SUI**
