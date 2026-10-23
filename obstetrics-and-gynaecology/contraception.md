@@ -44,26 +44,34 @@
 
 ### Spermicides (殺精劑)
 * **Nonoxynol-9 (N-9)**: Inactivates sperm. Max duration ~60 mins.
-* **Risks**: Does NOT protect against STIs. Frequent use disrupts vaginal epithelium → ↑ risk of HIV/STI transmission. Contraindicated for anal sex.
+* **Risks**:
+	* Does NOT protect against STIs.
+	* Frequent use disrupts vaginal epithelium → ↑ risk of HIV/STI transmission.
+	* Contraindicated for anal sex.
 
 
 ## 4. Combined Hormonal Contraceptives (混合荷爾蒙避孕法)
 
-### Formulations & Mechanism
+### Formulations & Mechanism of COCPs
 * **Types**: Combined Oral Contraceptives (COC), Patch, Vaginal Ring, Combined Injectable (CIC).
-* **Mechanism**: Suppresses FSH/LH → inhibits ovulation. Progestogen thickens cervical mucus and thins endometrium.
+* **Mechanism**:
+	* Suppresses FSH/LH → inhibits ovulation.
+	* Progestogen thickens cervical mucus and thins endometrium.
 
-### Non-Contraceptive Benefits
+### Non-Contraceptive Benefits of COCPs
 * ↓ Menstrual blood loss & primary dysmenorrhoea.
 * ↓ Risk of ovarian, endometrial, and colorectal cancers (protection persists >30 years).
 * Improves acne, hirsutism, and PCOS symptoms (especially drospirenone/Yaz).
 * Treats endometriosis-related pain.
 
-### Risks & Side Effects
-* **Vascular**: ↑ Risk of VTE (highest in first 4 months or restarting after >1 month break). Drospirenone/desogestrel have higher VTE risk than levonorgestrel. ↑ Risk of MI/stroke in smokers and hypertensive patients.
+### Risks & Side Effects of COCPs
+* **Vascular**:
+	* ↑ Risk of VTE (highest in first 4 months or restarting after >1 month break).
+	* Drospirenone/desogestrel have higher VTE risk than levonorgestrel.
+	* ↑ Risk of MI/stroke in smokers and hypertensive patients.
 * **Oncological**: Transient ↑ risk of breast and cervical cancer (returns to baseline ~10 years post-cessation).
 
-### Absolute Contraindications (WHO MEC 4)
+### Absolute Contraindications (WHO MEC 4) of COCPs
 * Postpartum < 6 weeks if breastfeeding, or < 21 days if not breastfeeding (+ VTE risk).
 * Smokers ≥ 35 years old (≥ 15 cigarettes/day).
 * BP ≥ 160/100 mmHg or hypertension with vascular disease.
@@ -100,16 +108,16 @@
 
 ## 6. Intrauterine Contraception (子宮環)
 
-### Types & Mechanisms
+### Types & Mechanisms of IUD
 * **Copper-bearing IUD (Cu-IUD)**: Foreign body sterile inflammation. Copper is toxic to sperm/ovum.
 * **Levonorgestrel-releasing IUD (LNG-IUD / Mirena)**: Local LNG release → thickens cervical mucus, causes endometrial atrophy.
 
-### Benefits & Risks
+### Benefits & Risks of IUD
 * **LNG-IUD Benefits**: First-line for heavy menstrual bleeding, adenomyosis, endometriosis. Protects endometrium during HRT or tamoxifen use.
 * **Complications**: Uterine perforation (2/1000), expulsion (~5%), insertion-related PID (first 20 days).
 * **Pregnancy with IUD**: High risk of miscarriage, preterm labour, septic abortion. *Must remove in 1st trimester if strings are visible*. High risk of ectopic pregnancy.
 
-### Absolute Contraindications
+### Absolute Contraindications of IUD
 * Known/suspected pregnancy, unexplained vaginal bleeding.
 * Current PID, purulent cervicitis, pelvic TB, active STI.
 * Distorted uterine cavity (e.g., submucosal fibroids).
@@ -118,9 +126,20 @@
 
 ## 7. Emergency Contraception (EC / 事後避孕)
 
-* **Copper IUD**: Most effective (Failure 0.09%). Insert up to 120 hours post-UPSI. Provides ongoing contraception.
-* **Ulipristal Acetate (UPA 30mg)**: SPRM. Delays ovulation. Take within 120 hours. *Interaction*: Wait 5 days before starting routine hormonal contraception (UPA competes with progestogens).
-* **Levonorgestrel (LNG 1.5mg)**: Inhibits ovulation. Take within 72 hours. Can start regular hormonal contraception immediately.
+### Types & Mechanisms of Emergency Contraception
+* **Copper IUD**:
+	* Most effective (Failure 0.09%).
+	* Insert up to 120 hours post-UPSI.
+	* Provides ongoing contraception.
+* **Ulipristal Acetate (UPA 30mg)**:
+	* SPRM.
+	* Delays ovulation.
+	* Take within 120 hours.
+	* *Interaction*: Wait 5 days before starting routine hormonal contraception (UPA competes with progestogens).
+* **Levonorgestrel (LNG 1.5mg)**:
+	* Inhibits ovulation.
+	* Take within 72 hours.
+	* Can start regular hormonal contraception immediately.
 
 
 ## 8. Sterilization (結紮手術)
@@ -132,11 +151,14 @@
 ### Male Sterilization (Vasectomy)
 * **Methods**: Incisional or No-scalpel vasectomy.
 * **Failure Rate**: 1 in 2000.
-* **Efficacy**: NOT immediate. Must use alternate contraception until 2 consecutive semen analyses confirm azoospermia (~3 months post-op).
+* **Efficacy**:
+	* NOT immediate.
+	* Must use alternate contraception until 2 consecutive semen analyses confirm azoospermia (~3 months post-op).
 
 
 ## 9. Contraception in Special Medical Conditions
 
+### Contraception in Special Medical Conditions
 * **Hypertension / VTE Hx / IHD**: Avoid COCs. POP, Implant, or IUDs are preferred.
 * **Epilepsy**: Enzyme-inducing anti-epileptic drugs (phenytoin, carbamazepine) reduce efficacy of COCs and POPs. DMPA or Cu-IUD/LNG-IUD are preferred.
 * **SLE / Antiphospholipid Syndrome**: COCs absolutely contraindicated if APL antibodies present. Cu-IUD or progestogen-only methods preferred.
