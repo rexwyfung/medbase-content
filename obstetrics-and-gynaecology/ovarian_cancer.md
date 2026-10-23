@@ -55,9 +55,17 @@
 ## 4. Critical Differential Diagnoses & Clinical Staging 
 
 ### Critical Differential Diagnoses
-* **Benign Ovarian Mass**: Endometrioma (子宮內膜異位瘤), Dermoid cyst, Functional cyst.
-* **Gynaecological Malignancy / Tumours**: Degenerating Uterine Fibroid (子宮肌瘤) / Leiomyosarcoma, Tubo-ovarian abscess (TOA).
-* **Gastrointestinal Pathology**: Colorectal carcinoma, Appendiceal tumour, Diverticular mass.
+* **Benign Ovarian Mass**:
+	* Endometrioma (子宮內膜異位瘤).
+	* Dermoid cyst.
+	* Functional cyst.
+* **Gynaecological Malignancy / Tumours**:
+	* Degenerating Uterine Fibroid (子宮肌瘤) / Leiomyosarcoma.
+	* Tubo-ovarian abscess (TOA).
+* **Gastrointestinal Pathology**:
+	* Colorectal carcinoma.
+	* Appendiceal tumour.
+	* Diverticular mass.
 
 ### FIGO Clinical Staging of Ovarian Cancer
 | Stage          | Description                                                                               |
@@ -83,7 +91,12 @@
 
 ### Risk of Malignancy Index (RMI) Criteria
 * **Formula**: RMI = U $\times$ M $\times$ CA-125
-* **Ultrasound Score (U)**: 0, 1, or 3. (Points given for: multilocular cyst, solid areas, bilateral lesions, ascites, intra-abdominal metastases).
+* **Ultrasound Score (U)**: 0, 1, or 3. Points given for:
+	* Multilocular cyst.
+	* Solid areas.
+	* Bilateral lesions.
+	* Ascites.
+	* Intra-abdominal metastases.
 * **Menopausal Status (M)**: Pre-menopausal = 1; Post-menopausal = 3.
 * **Clinical Threshold**: RMI >200 indicates high risk of malignancy → mandatory referral to Gynae-Oncology.
 
