@@ -48,8 +48,13 @@
 ### Diagnostic Microscopy & Bedside Testing
 * **Vaginal pH**: > 4.5 confirms an abnormal alkaline shift (suggestive of BV).
 * **Gram Stain Microscopy**: Reveals **Clue Cells** (vaginal epithelial cells with fuzzy borders due to adherent small bacteria) indicating BV.
+![image|250](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/131461345da8668277dfaa128cd3b26d.png)
+
 ### Maternal Antenatal Blood Screening
-* **Routine Serology**: **VDRL/RPR** (Syphilis), **Anti-HIV**, and **HBsAg** (Hepatitis B).
+* **Routine Serology**:
+	* **VDRL/RPR** (Syphilis).
+	* **Anti-HIV**.
+	* **HBsAg** (Hepatitis B).
 
 ## 6. Medical Management & Acute Stabilization (Pharmacology, Steroids, Resuscitation)
 ### Pharmacological Management of Vaginal Infections
@@ -57,10 +62,18 @@
 * **Bacterial Vaginosis**: **Metronidazole** or **Clindamycin** (oral or vaginal route).
 * **Trichomoniasis**: Oral **Metronidazole** (Requires caution: potential teratogenicity in the 1st trimester).
 ### Intrapartum Antibiotic Prophylaxis (IAP) for GBS
-* **Indication**: Positive GBS screening swab, previous GBS-infected neonate, or documented GBS bacteriuria during the current pregnancy.
-* **Unknown Status Indication**: Ruptured membranes >18 hours, preterm labour, or maternal fever >38°C.
+* **Indication**:
+	* Positive GBS screening swab.
+	* Previous GBS-infected neonate.
+	* Documented GBS bacteriuria during the current pregnancy.
+* **Unknown Status Indication**:
+	* Ruptured membranes >18 hours.
+	* Preterm labour.
+	* Maternal fever >38°C.
 * **First-line**: IV **Penicillin**.
-* **Allergy Protocol**: IV **Clindamycin** or **Erythromycin** (if susceptibilities confirmed), OR IV **Vancomycin** (if resistant or unconfirmed).
+* **Allergy Protocol**:
+	* IV **Clindamycin** or **Erythromycin** (if susceptibilities confirmed),
+	* OR IV **Vancomycin** (if resistant or unconfirmed).
 ### Systemic Medical Management for Viral/Spirochete
 * **Syphilis**: IM **Penicillin**.
 * **HIV**: Antiretroviral therapy (ART) continued strictly through antenatal, intrapartum, and early neonatal periods.
@@ -68,8 +81,12 @@
 
 ## 7. Definitive Management Algorithm (Timing/Mode of Delivery OR Gynaecological Surgery)
 ### Mode of Delivery Guidelines
-* **Uncomplicated Vaginal Infections**: Proceed with standard spontaneous vaginal delivery; no surgical intervention required.
-* **Viral Infections (HIV/HBV)**: Vaginal delivery is safe if the maternal viral load is adequately suppressed; otherwise, elective Lower Segment Caesarean Section (LSCS) may be indicated to prevent vertical transmission.
+* **Uncomplicated Vaginal Infections**:
+	* Proceed with standard spontaneous vaginal delivery.
+	* No surgical intervention required.
+* **Viral Infections (HIV/HBV)**:
+	* Vaginal delivery is safe if the maternal viral load is adequately suppressed.
+	* Otherwise, elective Lower Segment Caesarean Section (LSCS) may be indicated to prevent vertical transmission.
 ### Neonatal Preventive Management
 * **GBS/STI Exposure**: Immediate paediatric consultation and close monitoring post-delivery.
 * **HBV Positive Mother**: Administer **Hepatitis B Immunoglobulin (HBIG)** concurrently with the **HBV Vaccine** to the neonate immediately after birth.
@@ -86,8 +103,12 @@
 * **Bacterial Vaginosis**: Strongly associated with ↑ risk of 2nd-trimester miscarriage, preterm birth, and chorioamnionitis.
 * **Untreated STIs**: Ascending infection leading to chronic Pelvic Inflammatory Disease (PID) and secondary subfertility.
 ### Fetal & Neonatal Complications
-* **Group B Streptococcus**: Severe early-onset neonatal sepsis, neonatal meningitis, and high neonatal mortality.
-* **Syphilis / HIV / HBV**: Unchecked vertical transmission resulting in lifelong chronic infection or severe congenital anomalies.
+* **Group B Streptococcus**:
+	* Severe early-onset neonatal sepsis.
+	* Neonatal meningitis.
+	* High neonatal mortality.
+* **Syphilis / HIV / HBV**:
+	* Unchecked vertical transmission resulting in lifelong chronic infection or severe congenital anomalies.
 
 ## 10. Examiner's Pearls
 * Viva Question: What is the most common cause of curdy vaginal discharge with severe pruritus in pregnancy, and what is its pathophysiology? Answer: Vulvovaginal Candidiasis, secondary to an acidic vaginal pH shift caused by pregnancy-induced increases in estrogen and progesterone.
