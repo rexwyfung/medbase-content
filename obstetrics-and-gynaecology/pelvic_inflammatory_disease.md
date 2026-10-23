@@ -4,12 +4,24 @@
 
 ### Clinical Definition of Pelvic Inflammatory Disease
 * **Pelvic Inflammatory Disease (盆腔炎)**: Acute clinical syndrome of upper female genital tract inflammation.
-* Encompasses spectrum: **Endometritis (子宮內膜炎)**, **Salpingitis (輸卵管炎)**, **Parametritis (宮旁組織炎)**, **Oophoritis (卵巢炎)**, **Tubo-ovarian Abscess (輸卵管卵巢膿腫)**, **Pelvic Peritonitis (盆腔腹膜炎)**.
+* Encompasses spectrum:
+	* **Endometritis (子宮內膜炎)**.
+	* **Salpingitis (輸卵管炎)**.
+	* **Parametritis (宮旁組織炎)**.
+	* **Oophoritis (卵巢炎)**.
+	* **Tubo-ovarian Abscess (輸卵管卵巢膿腫)**.
+	* **Pelvic Peritonitis (盆腔腹膜炎)**.
 
 ### Local Epidemiology & Risk Factors
 * Primarily affects young, sexually active women (peak age 15-25).
-* Risk factors: Multiple sexual partners, previous **Sexually Transmitted Infection (性病)**, non-barrier contraception, recent uterine instrumentation (e.g., TOP, IUCD insertion within 3 weeks).
-* Protectives: **Combined Oral Contraceptive Pill (口服避孕藥)** (thickens cervical mucus), barrier methods.
+* Risk factors:
+	* Multiple sexual partners.
+	* Previous **Sexually Transmitted Infection (性病)**.
+	* Non-barrier contraception.
+	* Recent uterine instrumentation (e.g., TOP, IUCD insertion within 3 weeks).
+* Protectives:
+	* **Combined Oral Contraceptive Pill (口服避孕藥)** (thickens cervical mucus).
+	* Barrier methods.
 
 ### Gestational Context
 * Rare in pregnancy (mucus plug prevents ascending infection).
@@ -20,8 +32,15 @@
 
 ### Microbiological Pathophysiology
 * Polymicrobial infection driven by ascending migration of cervicovaginal flora.
-* Primary initiators: **Chlamydia trachomatis (沙眼衣原體)** & **Neisseria gonorrhoeae (淋球菌)**.
-* Secondary invaders (endogenous vaginal flora): **Anaerobes**, **Gardnerella vaginalis**, **Haemophilus influenzae**, **Streptococcus spp**, **Mycoplasma genitalium**.
+* Primary initiators:
+	* **Chlamydia trachomatis (沙眼衣原體)**.
+	* **Neisseria gonorrhoeae (淋球菌)**.
+* Secondary invaders (endogenous vaginal flora):
+	* **Anaerobes**.
+	* **Gardnerella vaginalis**.
+	* **Haemophilus influenzae**.
+	* **Streptococcus spp**.
+	* **Mycoplasma genitalium**.
 * Gonococcal/Chlamydial endotoxins → tubal ciliary destruction → tubal scarring & occlusion.
 
 ### Pelvic Anatomy Dissemination
@@ -68,12 +87,12 @@
 | **Urological** | **Acute Pyelonephritis (急性腎盂腎炎)** | Loin pain, renal angle tenderness, rigors. |
 
 ### Severity Staging (Modified Monif Classification)
-| Stage | Clinical Description |
-| :--- | :--- |
-| **Stage I** | Acute salpingitis without peritonitis. |
-| **Stage II** | Acute salpingitis with peritonitis. |
+| Stage         | Clinical Description                                       |
+| :------------ | :--------------------------------------------------------- |
+| **Stage I**   | Acute salpingitis without peritonitis.                     |
+| **Stage II**  | Acute salpingitis with peritonitis.                        |
 | **Stage III** | Salpingitis with **Tubo-ovarian Abscess (TOA)** formation. |
-| **Stage IV** | Ruptured TOA. |
+| **Stage IV**  | Ruptured TOA.                                              |
 
 ## 5. Key Investigations (Labs, Specific Ultrasound Criteria & CTG Tracings)
 
@@ -93,11 +112,18 @@
 * Free pelvic fluid in Pouch of Douglas.
 * **Tubo-ovarian Abscess**: Complex, thick-walled, multilocular cystic adnexal mass with internal echoes.
 * Hyperaemia on colour Doppler.
+![image|200](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/aa0679869c5e7a39591970a17a933a2f.png)
 
 ## 6. Medical Management & Acute Stabilization (Pharmacology, Steroids, Resuscitation)
 
 ### Acute Stabilization & Indications for Hospitalization
-* Indications for IV therapy: Surgical emergency cannot be ruled out (e.g., appendicitis), pregnancy, lack of response to PO antibiotics (48-72h), inability to tolerate PO (nausea/vomiting), severe illness (high fever, severe peritonism), suspected TOA.
+* Indications for IV therapy:
+	* Surgical emergency cannot be ruled out (e.g., appendicitis).
+	* Pregnancy.
+	* Lack of response to PO antibiotics (48-72h).
+	* Inability to tolerate PO (nausea/vomiting).
+	* Severe illness (high fever, severe peritonism).
+	* Suspected TOA.
 * **Resuscitation**: IV fluids (Normal Saline / Hartmann's), strict input/output monitoring.
 * Analgesia: Paracetamol, NSAIDs (e.g., Ibuprofen), Opioids for severe pain.
 
@@ -120,10 +146,16 @@
 * TOA > 8cm (often refractory to conservative medical management).
 
 ### Surgical Principles & Techniques
-* **Diagnostic Laparoscopy**: Gold standard for diagnosis; allows visualization of hyperaemic, purulent tubes and perihepatic adhesions.
-* **Laparoscopic Adhesiolysis & Drainage**: Drainage of pyosalpinx/TOA, copious peritoneal lavage.
-* **Salpingectomy / Salpingo-oophorectomy**: Excision of necrotic tube/ovary if tissue is completely destroyed or actively hemorrhaging.
-* **Ultrasound-guided percutaneous/transvaginal drainage**: Alternative for TOA unamenable to primary surgery (high risk of bowel injury).
+* **Diagnostic Laparoscopy**:
+	* Gold standard for diagnosis.
+	* Allows visualization of hyperaemic, purulent tubes and perihepatic adhesions.
+* **Laparoscopic Adhesiolysis & Drainage**:
+	* Drainage of pyosalpinx/TOA.
+	* Copious peritoneal lavage.
+* **Salpingectomy / Salpingo-oophorectomy**:
+	* Excision of necrotic tube/ovary if tissue is completely destroyed or actively hemorrhaging.
+* **Ultrasound-guided percutaneous/transvaginal drainage**:
+	* Alternative for TOA unamenable to primary surgery (high risk of bowel injury).
 
 ## 8. Post-partum/Post-operative Care, Contraception & Follow-up
 
@@ -138,7 +170,10 @@
 
 ### Contraception
 * Abstinence until patient and partner have completed the 14-day antibiotic course and symptoms have fully resolved.
-* **IUCD Management**: Do NOT routinely remove IUCD initially. Remove if no clinical improvement after 48-72 hours of antibiotics. Ensure alternative contraception is provided.
+* **IUCD Management**:
+	* Do NOT routinely remove IUCD initially.
+	* Remove if no clinical improvement after 48-72 hours of antibiotics.
+	* Ensure alternative contraception is provided.
 
 ## 9. Maternal, Fetal & Gynaecological Complications
 
@@ -146,6 +181,7 @@
 * Sepsis & Septic Shock.
 * Ruptured TOA → Generalized acute peritonitis.
 * **Fitz-Hugh-Curtis Syndrome**: Perihepatitis characterized by RUQ pain and "violin-string" adhesions between liver capsule and anterior abdominal wall.
+![image|200](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/f2294f320f84a759c1da7f5bbebac41a.png)
 
 ### Long-Term Gynaecological Sequelae
 * **Infertility (不育)**: 10-20% risk after 1 episode, ↑ risk with multiple episodes due to tubal scarring.
