@@ -21,27 +21,61 @@
 
 ### Placental Aneuploidy & Pre-eclampsia Biomarkers
 * **Cell-Free Fetal DNA (cffDNA)**: Apoptotic placental **Syncytiotrophoblasts (合胞體滋養層)** shed into maternal blood from $10\text{ wks}$ (**NIPT [無創產前DNA檢測]** basis; discovered by Prof. Dennis Lo).
-* **$1^{\text{st}}$ Trimester ($11–13^{+6}\text{ wks}$)**: **Free $\beta$-hCG** ($\uparrow$ in T21, $\downarrow$ in T18/T13); **PAPP-A** ($\downarrow$ in T21/T18/T13 & placental insufficiency).
-* **$2^{\text{nd}}$ Trimester ($14–19^{+6}\text{ wks}$)**: **AFP** ($\downarrow$ in T21, $\uparrow$ in **Open Neural Tube Defects [開放性神經管缺陷 / NTD]** / abdominal wall defects); **$uE_3$** ($\downarrow$ in T21/T18); **Inhibin A** ($\uparrow$ in T21).
+* **$1^{\text{st}}$ Trimester ($11–13^{+6}\text{ wks}$)**:
+	* **Free $\beta$-hCG** ($\uparrow$ in T21, $\downarrow$ in T18/T13).
+	* **PAPP-A** ($\downarrow$ in T21/T18/T13 & placental insufficiency).
+* **$2^{\text{nd}}$ Trimester ($14–19^{+6}\text{ wks}$)**:
+	* **AFP** ($\downarrow$ in T21, $\uparrow$ in **Open Neural Tube Defects [開放性神經管缺陷 / NTD]** / abdominal wall defects).
+	* **$uE_3$** ($\downarrow$ in T21/T18).
+	* **Inhibin A** ($\uparrow$ in T21).
 * **PET Pathophysiology**: Defective extravillous trophoblast invasion of **Spiral Arteries (螺旋動脈)** → high uteroplacental resistance ($\uparrow$ **UtA-PI**) & $\downarrow$ **PlGF** / **PAPP-A**.
 
 ### Thalassaemia & Gestational Metabolic Physiology
-* **Homozygous $\alpha^0$-Thalassaemia (`--/--`, Hb Bart's Hydrops Fetalis [巴氏水腫胎])**: Both parents carry `--/aa` (**SEA deletion**) → 25% risk. $\gamma_4$ tetramers cannot release $\text{O}_2$ → severe fetal hypoxia, high-output heart failure, hydrops, intrauterine death + maternal **Ballantyne Syndrome (鏡像綜合徵)** (severe early PET from placentomegaly).
-* **$\beta$-Thalassaemia Major**: Normal in utero (predominant **HbF**, $\alpha_2\gamma_2$); manifests $3–6\text{ months}$ postnatally.
-* **GDM Axis**: Placental **hPL**, **Oestrogen**, **Progesterone**, **Cortisol** → $\uparrow$ insulin resistance. Maternal glucose crosses placenta (insulin does not) → fetal hyperinsulinaemia from $11–12\text{ wks}$ → **Macrosomia (巨大兒)** & $\downarrow$ surfactant.
+* **Homozygous $\alpha^0$-Thalassaemia (`--/--`, Hb Bart's Hydrops Fetalis [巴氏水腫胎])**:
+	* Both parents carry `--/aa` (**SEA deletion**) → 25% risk.
+	* $\gamma_4$ tetramers cannot release $\text{O}_2$ → severe fetal hypoxia, high-output heart failure, hydrops, intrauterine death + maternal **Ballantyne Syndrome (鏡像綜合徵)** (severe early PET from placentomegaly).
+* **$\beta$-Thalassaemia Major**:
+	* Normal in utero (predominant **HbF**, $\alpha_2\gamma_2$).
+	* Manifests $3–6\text{ months}$ postnatally.
+* **GDM Axis**:
+	* Placental **hPL**, **Oestrogen**, **Progesterone**, **Cortisol** → $\uparrow$ insulin resistance.
+	* Maternal glucose crosses placenta (insulin does not) → fetal hyperinsulinaemia from $11–12\text{ wks}$ → **Macrosomia (巨大兒)** & $\downarrow$ surfactant.
 
 
 ## 3. Clinical Assessment (History, Abdominal, Speculum & Bimanual Exam Findings ONLY)
 
 ### Booking History & Antenatal Enquiries
-* **Booking ($8–13\text{ wks}$)**: Age ($\ge 35\text{ yrs}$ = AMA), LMP/cycle/contraception, G/P, prior preterm birth/LSCS/PET/GDM/macrosomia/stillbirth/GBS baby.
-* **Medical/Drug/Family**: DM, HTN, renal/autoimmune (**SLE/APS**), VTE, teratogens (**Warfarin, Sodium Valproate, MMF, Tetracycline, ACEI/ARB**), **Penicillin** allergy, partner **Thalassaemia** status, 3-generation pedigree.
-* **Subsequent Visits**: **Fetal Movement (胎動 / FM)** if $>20\text{ wks}$ (felt from $18–20\text{ wks}$), PV bleeding/leaking, contractions, PET symptoms (headache, visual disturbance, epigastric pain).
+* **Booking ($8–13\text{ wks}$)**:
+	* Age ($\ge 35\text{ yrs}$ = AMA).
+	* LMP/cycle/contraception.
+	* G/P.
+	* Prior preterm birth/LSCS/PET/GDM/macrosomia/stillbirth/GBS baby.
+* **Medical/Drug/Family**:
+	* DM, HTN.
+	* Renal/autoimmune (**SLE/APS**).
+	* VTE.
+	* Teratogens (**Warfarin, Sodium Valproate, MMF, Tetracycline, ACEI/ARB**).
+	* **Penicillin** allergy.
+	* Partner **Thalassaemia** status.
+	* 3-generation pedigree.
+* **Subsequent Visits**:
+	* **Fetal Movement (胎動 / FM)** if $>20\text{ wks}$ (felt from $18–20\text{ wks}$).
+	* PV bleeding/leaking.
+	* Contractions.
+	* PET symptoms (headache, visual disturbance, epigastric pain).
 
 ### Physical, Abdominal & Speculum Examination
-* **Vitals & Anthropometry**: Booking **BMI** ($\ge 25\text{ kg/m}^2$ = GDM risk; $\ge 35\text{ kg/m}^2$ = PET risk); **BP** every visit ($\ge 140/90\text{ mmHg}$ = HTN; $\ge 160/110\text{ mmHg}$ = severe HTN).
-* **Abdominal Palpation**: Scars/masses; **Symphyseal-Fundal Height (SFH / 宮底高度)** in $\text{cm}$ if $>24\text{ wks}$ ($\approx \text{GA} \pm 2\text{ cm}$); **Leopold Manoeuvres** ($>30\text{ wks}$) for lie/presentation (**Breech [臀先露]**: hard round ballotable head at fundus); **Doptone** FHR ($\ge 12\text{ wks}$).
-* **Speculum & Swabs**: Speculum at booking ONLY if **Cervical Smear (子宮頸抹片)** due or PV bleeding/discharge. At $35–37\text{ wks}$, take **Low Vaginal Swab (LVS)** + **Rectal Swab** without speculum for GBS.
+* **Vitals & Anthropometry**:
+	* Booking **BMI** ($\ge 25\text{ kg/m}^2$ = GDM risk; $\ge 35\text{ kg/m}^2$ = PET risk).
+	* **BP** every visit ($\ge 140/90\text{ mmHg}$ = HTN; $\ge 160/110\text{ mmHg}$ = severe HTN).
+* **Abdominal Palpation**:
+	* Scars/masses.
+	* **Symphyseal-Fundal Height (SFH / 宮底高度)** in $\text{cm}$ if $>24\text{ wks}$ ($\approx \text{GA} \pm 2\text{ cm}$).
+	* **Leopold Manoeuvres** ($>30\text{ wks}$) for lie/presentation (**Breech [臀先露]**: hard round ballotable head at fundus).
+	* **Doptone** FHR ($\ge 12\text{ wks}$).
+* **Speculum & Swabs**:
+	* Speculum at booking ONLY if **Cervical Smear (子宮頸抹片)** due or PV bleeding/discharge.
+	* At $35–37\text{ wks}$, take **Low Vaginal Swab (LVS)** + **Rectal Swab** without speculum for GBS.
 
 
 ## 4. Critical Differential Diagnoses & Clinical Staging (e.g., FIGO if applicable)
@@ -54,13 +88,13 @@
 | **1st Trimester Screen** | High-risk combined **MAP** + **UtA-PI** + **PlGF** / **PAPP-A** | Start **Aspirin** |
 
 ### Microcytic Hypochromic Anaemia ($\text{MCV} <80\text{ fL}$) & Hyperglycaemia (WHO Criteria)
-| Condition | Key Diagnostic Criteria |
-| :--- | :--- |
-| **Iron Deficiency Anaemia** | $\text{MCV} <80\text{ fL}$ + **$\downarrow$ Serum Ferritin ($<30\text{ }\mu\text{g/L}$)** |
+| Condition                       | Key Diagnostic Criteria                                                                                                     |
+| :------------------------------ | :-------------------------------------------------------------------------------------------------------------------------- |
+| **Iron Deficiency Anaemia**     | $\text{MCV} <80\text{ fL}$ + **$\downarrow$ Serum Ferritin ($<30\text{ }\mu\text{g/L}$)**                                   |
 | **$\alpha$-Thalassaemia Trait** | $\text{MCV} <80\text{ fL}$ + normal ferritin + normal $\text{HbA}_2$ ($<3.5\%$) + **HbH inclusions** / **SEA deletion PCR** |
-| **$\beta$-Thalassaemia Trait** | $\text{MCV} <80\text{ fL}$ + normal ferritin + **$\uparrow \text{HbA}_2$ ($\ge 3.5\%$)** |
-| **GDM (妊娠糖尿病)** | **75g OGTT**: Fasting **$5.1–6.9$**, 1-hr **$\ge 10.0$**, or 2-hr **$8.5–11.0\text{ mmol/L}$** |
-| **DM in Pregnancy** | Fasting **$\ge 7.0$**, 2-hr **$\ge 11.1$**, or Random **$\ge 11.1\text{ mmol/L}$** + symptoms |
+| **$\beta$-Thalassaemia Trait**  | $\text{MCV} <80\text{ fL}$ + normal ferritin + **$\uparrow \text{HbA}_2$ ($\ge 3.5\%$)**                                    |
+| **GDM (妊娠糖尿病)**                 | **75g OGTT**: Fasting **$5.1–6.9$**, 1-hr **$\ge 10.0$**, or 2-hr **$8.5–11.0\text{ mmol/L}$**                              |
+| **DM in Pregnancy**             | Fasting **$\ge 7.0$**, 2-hr **$\ge 11.1$**, or Random **$\ge 11.1\text{ mmol/L}$** + symptoms                               |
 
 ### Down Syndrome Screening Modalities
 | Modality | Window | Components | T21 DR / FPR |
@@ -73,17 +107,22 @@
 ## 5. Key Investigations (Labs, Specific Ultrasound Criteria & CTG Tracings)
 
 ### Antenatal Investigation Schedule in Hong Kong
-| Gestation                       | Investigations                                                                                                                                                                                                                                                                            |
-| :------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **$8–13\text{ wks}$ (Booking)** | **CBP** ($\text{Hb}$, $\text{MCV} <80\text{ fL}$), **ABO/Rh & Antibody screen**, **HBsAg** (if +ve $\rightarrow$ **HBeAg**, **HBV DNA**), **Syphilis (EIA/VDRL)**, **Anti-HIV**, **Rubella IgG**, Urine **albumin/glucose** (every visit), **75g OGTT** (if high risk) or fasting glucose |
-| **$11–13^{+6}\text{ wks}$**     | **CRL** dating + **NT** + **$\beta$-hCG / PAPP-A** (or **NIPT** $\ge 10\text{ wks}$); twin chorionicity (**$\lambda$-sign** = DCDA; **T-sign** = MCDA)                                                                                                                                    |
-| **$18–22\text{ wks}$**          | **Fetal Anomaly Scan (結構性超聲波)** ($70\%$ major anomaly detection) + placental localization (repeat at $30–32\text{ wks}$ if low-lying)                                                                                                                                                     |
-| **$24–28\text{ wks}$**          | Repeat **CBP** + **75g OGTT**                                                                                                                                                                                                                                                             |
-| **$35–37\text{ wks}$**          | **LVS + Rectal Swab** for **GBS** culture                                                                                                                                                                                                                                                 |
+| Gestation                       | Investigations                                                                                                                                                                                                                                                                                          |
+| :------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **$8–13\text{ wks}$ (Booking)** | - **CBP** ($\text{Hb}$, $\text{MCV} <80\text{ fL}$), **ABO/Rh & Antibody screen**<br>- **HBsAg** (if +ve $\rightarrow$ **HBeAg**, **HBV DNA**), **Syphilis (EIA/VDRL)**, **Anti-HIV**, **Rubella IgG**<br>- Urine **albumin/glucose** (every visit)<br>- **75g OGTT** (if high risk) or fasting glucose |
+| **$11–13^{+6}\text{ wks}$**     | - **CRL** dating + **NT** + **$\beta$-hCG / PAPP-A** (or **NIPT** $\ge 10\text{ wks}$)<br>- Twin chorionicity (**$\lambda$-sign** = DCDA; **T-sign** = MCDA)                                                                                                                                            |
+| **$18–22\text{ wks}$**          | **Fetal Anomaly Scan (結構性超聲波)** ($70\%$ major anomaly detection) + placental localization (repeat at $30–32\text{ wks}$ if low-lying)                                                                                                                                                                   |
+| **$24–28\text{ wks}$**          | Repeat **CBP** + **75g OGTT**                                                                                                                                                                                                                                                                           |
+| **$35–37\text{ wks}$**          | **LVS + Rectal Swab** for **GBS** culture                                                                                                                                                                                                                                                               |
 
 ### Thalassaemia, Rhesus & Invasive Genetic Cascade (HKSAR 2022)
-* **Thalassaemia Cascade**: Maternal $\text{MCV} <80\text{ fL}$ $\rightarrow$ check partner $\text{MCV}$ + maternal **Hb electrophoresis**, **HbH inclusion**, **Ferritin**. Normal ferritin + normal $\text{HbA}_2$ $\rightarrow$ presume $\alpha$-trait $\rightarrow$ DNA test for **SEA deletion**. If both parents carry same trait (25% major risk) $\rightarrow$ invasive prenatal diagnosis.
-* **Rh Negativity**: Non-invasive fetal **RHD genotyping** via maternal plasma cffDNA. If sensitized (+ve Anti-D) $\rightarrow$ serial titres + fetal **MCA-PSV Doppler** ($\text{MoM} >1.5$ = fetal anaemia).
+* **Thalassaemia Cascade**:
+	* Maternal $\text{MCV} <80\text{ fL}$ $\rightarrow$ check partner $\text{MCV}$ + maternal **Hb electrophoresis**, **HbH inclusion**, **Ferritin**.
+	* Normal ferritin + normal $\text{HbA}_2$ $\rightarrow$ presume $\alpha$-trait $\rightarrow$ DNA test for **SEA deletion**.
+	* If both parents carry same trait (25% major risk) $\rightarrow$ invasive prenatal diagnosis.
+* **Rh Negativity**:
+	* Non-invasive fetal **RHD genotyping** via maternal plasma cffDNA.
+	* If sensitized (+ve Anti-D) $\rightarrow$ serial titres + fetal **MCA-PSV Doppler** ($\text{MoM} >1.5$ = fetal anaemia).
 * **Invasive Testing**: **CVS (絨毛膜活檢)** at **$11–13^{+6}\text{ wks}$** (never $<10\text{ wks}$) or **Amniocentesis (抽羊水)** at **$\ge 15\text{ wks}$**.
 * **HKSAR Genetic Lab Cascade**:
   * **QF-PCR (RAT)**: Rapid screen for T13, T18, T21, X/Y & **Maternal Cell Contamination (MCC)**.
@@ -100,8 +139,13 @@
 ## 6. Medical Management & Acute Stabilization (Pharmacology, Steroids, Resuscitation)
 
 ### Supplements, Teratogen Switching & PET/VTE Prophylaxis
-* **Folic Acid (葉酸)**: **$400\text{ }\mu\text{g}$ PO daily** (pre-conception to $12\text{ wks}$); **$5\text{ mg}$ PO daily** if high NTD risk (DM, AEDs, prior NTD) or **Thalassaemia trait** (continue throughout pregnancy).
-* **Medication Switch**: Switch **ACEI/ARB/Thiazides** to **Labetalol / Nifedipine / Methyldopa**; switch **Warfarin** to **LMWH**; avoid **Sodium Valproate**.
+* **Folic Acid (葉酸)**:
+	* **$400\text{ }\mu\text{g}$ PO daily** (pre-conception to $12\text{ wks}$).
+	* **$5\text{ mg}$ PO daily** if high NTD risk (DM, AEDs, prior NTD) or **Thalassaemia trait** (continue throughout pregnancy).
+* **Medication Switch**:
+	* Switch **ACEI/ARB/Thiazides** to **Labetalol / Nifedipine / Methyldopa**.
+	* Switch **Warfarin** to **LMWH**.
+	* Avoid **Sodium Valproate**.
 * **PET Prophylaxis**: **Low-dose Aspirin $75–150\text{ mg}$ PO ON** from **$12–16\text{ wks}$ to $36\text{ wks}$**.
 * **VTE Prophylaxis**: **LMWH (Enoxaparin)** SC per risk score.
 
