@@ -26,6 +26,7 @@
 * **Pathological Activation**: Premature activation of fetal HPA axis → ↑ fetal cortisol → ↓ placental progesterone → ↑ oestradiol.
 * **Inflammatory Cascade**: Infection/inflammation → activation of decidual macrophages → ↑ IL-1, IL-6, TNF-α → ↑ prostaglandin (PGE2, PGF2α) synthesis.
 * **Uterotonics**: Prostaglandins & oxytocin → ↑ myometrial intracellular Ca2+ → contraction.
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/00615229490588798e2e0c7299c1250a.png)
 
 ### Pelvic Anatomy & Cervical Factors
 * **Cervical Remodelling**: Inflammatory cytokines → collagen degradation via matrix metalloproteinases (MMPs) → loss of structural integrity → cervical shortening/effacement.
