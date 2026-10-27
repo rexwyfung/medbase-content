@@ -3,9 +3,13 @@
 ## 1. Clinical Definition, Gestational Context & Local Epidemiology
 
 ### Clinical Definitions
-* **Preterm Labour (早產)**: Onset of regular painful uterine contractions with progressive cervical effacement/dilatation <37 weeks GA.
-* **PPROM (未足月胎膜早破)**: Preterm Premature Rupture of Membranes. Rupture of fetal membranes <37 weeks GA before onset of regular contractions.
-* **Iatrogenic Preterm Birth**: Medically indicated preterm delivery (e.g., for severe Pre-eclampsia, FGR).
+* **Preterm Labour (早產)**:
+	* Onset of regular painful uterine contractions with progressive cervical effacement/dilatation <37 weeks GA.
+* **PPROM (未足月胎膜早破)**:
+	* Preterm Premature Rupture of Membranes.
+	* Rupture of fetal membranes <37 weeks GA before onset of regular contractions.
+* **Iatrogenic Preterm Birth**:
+	* Medically indicated preterm delivery (e.g., for severe Pre-eclampsia, FGR).
 
 ### Gestational Context & Epidemiology
 * Incidence: ~5-10% of pregnancies in HK.
@@ -72,9 +76,14 @@
 ## 5. Key Investigations (Labs, Specific Ultrasound Criteria & CTG Tracings)
 
 ### Key Laboratory Investigations
-* **Microbiology**: High vaginal swab (HVS) & Low vaginal/rectal swab for GBS (B型鏈球菌). Endocervical swab (Chlamydia/Gonorrhoea). MSU (urinalysis/culture to rule out UTI).
+* **Microbiology**:
+	* High vaginal swab (HVS) & Low vaginal/rectal swab for GBS (B型鏈球菌).
+	* Endocervical swab (Chlamydia/Gonorrhoea).
+	* MSU (urinalysis/culture to rule out UTI).
 * **Blood Tests**: CBP (↑ WBC, ↓ Hb), CRP (baseline for infection), Type & Screen.
-* **Bedside Biochemical Markers**: AmniSure (detects PAMG-1) or Actim PROM (detects IGFBP-1) if pooling is equivocal. Fetal fibronectin (fFN) from posterior fornix to predict preterm birth risk.
+* **Bedside Biochemical Markers**:
+	* AmniSure (detects PAMG-1) or Actim PROM (detects IGFBP-1) if pooling is equivocal.
+	* Fetal fibronectin (fFN) from posterior fornix to predict preterm birth risk.
 
 ### Specific Ultrasound Criteria
 * **Transvaginal Ultrasound (TVUS)**: 
@@ -87,7 +96,9 @@
 
 ### CTG Tracings & Fetal Monitoring
 * **Tocodynamometry**: Quantify contraction frequency/regularity.
-* **Baseline HR**: Normal 110-160 bpm. Fetal tachycardia (>160 bpm) is an early sign of chorioamnionitis.
+* **Baseline HR**:
+	* Normal 110-160 bpm.
+	* Fetal tachycardia (>160 bpm) is an early sign of chorioamnionitis.
 * **Variability/Decelerations**: Look for reduced variability or variable decelerations (cord compression due to oligohydramnios in PPROM).
 
 ## 6. Medical Management & Acute Stabilization (Pharmacology, Steroids, Resuscitation)
