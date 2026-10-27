@@ -180,7 +180,10 @@
 ## 9. Maternal, Fetal & Gynaecological Complications
 
 ### Maternal & Gynaecological Complications
-* **Infectious**: Clinical chorioamnionitis, postpartum endometritis, maternal sepsis.
+* **Infectious**:
+	* Clinical chorioamnionitis.
+	* Postpartum endometritis.
+	* Maternal sepsis.
 * **Procedural**: Operative delivery complications (LSCS risks, PPH).
 * **Psychosocial**: Anxiety, depression, bonding difficulties due to NICU admission.
 
