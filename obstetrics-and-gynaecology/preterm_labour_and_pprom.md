@@ -115,25 +115,36 @@
 ### Fetal Neuroprotection & Lung Maturity
 * **Corticosteroids (皮質類固醇)**: 
   * Indication: GA < 34 weeks.
-  * Regimen: Dexamethasone or Betamethasone IM. Reduces RDS, NEC, IVH.
+  * Regimen: Dexamethasone or Betamethasone IM.
+  * Reduces RDS, NEC, IVH.
 * **Neuroprotection**: 
   * **Magnesium Sulphate (MgSO4, 硫酸鎂)**: IV infusion.
   * Indication: GA 24+0 to 29+6 weeks (established preterm labour).
-  * Timing: Start ideally 4 hrs before birth. Reduces risk of cerebral palsy.
+  * Timing: Start ideally 4 hrs before birth.
+  * Reduces risk of cerebral palsy.
 
 ### Antimicrobial Therapy
-* **PPROM Prophylaxis**: PO Erythromycin for 10 days (prolongs latency, reduces neonatal infection). Avoid Co-amoxiclav (↑ risk of neonatal NEC).
+* **PPROM Prophylaxis**:
+	* PO Erythromycin for 10 days (prolongs latency, reduces neonatal infection).
+	* Avoid Co-amoxiclav (↑ risk of neonatal NEC).
 * **GBS Prophylaxis**: IV Penicillin G in labour (or IV Clindamycin / Erythromycin if allergic; IV Vancomycin if resistant).
 
 ## 7. Definitive Management Algorithm (Timing/Mode of Delivery OR Gynaecological Surgery)
 
 ### Timing of Delivery Algorithm
-* **Uncomplicated PPROM**: Expectant management until 34-37 weeks (per HA protocol), monitor strictly for chorioamnionitis. Induce labour at 34-37 weeks.
-* **Preterm Labour with Intact Membranes**: Do not arrest labour if GA >34 weeks. Allow spontaneous progression.
+* **Uncomplicated PPROM**:
+	* Expectant management until 34-37 weeks (per HA protocol), monitor strictly for chorioamnionitis.
+	* Induce labour at 34-37 weeks.
+* **Preterm Labour with Intact Membranes**:
+	* Do not arrest labour if GA >34 weeks.
+	* Allow spontaneous progression.
 * **Complicated PPROM/Preterm Labour (e.g., clinical chorioamnionitis, abruption, fetal distress)**: Expedite delivery immediately regardless of GA.
 
 ### Mode of Delivery Principles
-* **Vertex Presentation**: Aim for vaginal delivery. Use continuous electronic fetal heart monitoring (CFHM). Avoid routine episiotomy unless indicated.
+* **Vertex Presentation**:
+	* Aim for vaginal delivery.
+	* Use continuous electronic fetal heart monitoring (CFHM).
+	* Avoid routine episiotomy unless indicated.
 * **Breech Presentation**: LSCS (剖腹產) preferred for preterm breech to prevent head entrapment and birth trauma.
 * **In-Utero Transfer**: Transfer mother to tertiary unit with NICU cot availability BEFORE delivery if GA <32 weeks or BW <1500g.
 
@@ -142,11 +153,17 @@
 ### Post-operative & Immediate Post-partum Care
 * **Third Stage**: Active management to prevent PPH (uterotonics).
 * **Delayed Cord Clamping**: Delay 1-3 minutes to improve neonatal haemodynamics and ↓ IVH, unless immediate neonatal resuscitation required.
-* **Maternal Monitoring**: Monitor Temp, HR, BP, Lochia, and uterine involution. Sepsis watch if PPROM.
+* **Maternal Monitoring**:
+	* Monitor Temp, HR, BP, Lochia, and uterine involution.
+	* Sepsis watch if PPROM.
 
 ### Contraception & Follow-up Plans
-* **Future Pregnancy Planning**: High risk of recurrence. Pre-pregnancy counseling advised.
-* **Prophylaxis in Next Pregnancy**: Consider serial TVUS cervical length monitoring. Options include prophylactic cervical cerclage (宮頸環扎) or vaginal Progesterone if history of spontaneous preterm birth or short cervix.
+* **Future Pregnancy Planning**:
+	* High risk of recurrence.
+	* Pre-pregnancy counseling advised.
+* **Prophylaxis in Next Pregnancy**:
+	* Consider serial TVUS cervical length monitoring.
+	* Options include prophylactic cervical cerclage (宮頸環扎) or vaginal Progesterone if history of spontaneous preterm birth or short cervix.
 * **Contraception**: Routine methods post-partum (POP, IUCD/IUS, Barrier).
 
 ## 9. Maternal, Fetal & Gynaecological Complications
