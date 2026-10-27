@@ -61,9 +61,19 @@
 ## 4. Critical Differential Diagnoses & Clinical Staging
 
 ### Critical Differential Diagnoses
-* **Obstetric**: Placental abruption (胎盤早剝), severe pre-eclampsia, Braxton-Hicks contractions, physiological round ligament pain.
-* **Gynaecological**: Ovarian cyst torsion/rupture, red degeneration of fibroid.
-* **Non-Obstetric**: UTI/Pyelonephritis, acute appendicitis, gastroenteritis, renal colic.
+* **Obstetric**:
+	* Placental abruption (胎盤早剝).
+	* Severe pre-eclampsia.
+	* Braxton-Hicks contractions.
+	* Physiological round ligament pain.
+* **Gynaecological**:
+	* Ovarian cyst torsion/rupture.
+	* Red degeneration of fibroid.
+* **Non-Obstetric**:
+	* UTI/Pyelonephritis.
+	* Acute appendicitis.
+	* Gastroenteritis.
+	* Renal colic.
 
 ### Bishop Score Staging
 | Parameter | 0 | 1 | 2 | 3 |
