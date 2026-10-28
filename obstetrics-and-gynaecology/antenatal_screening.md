@@ -150,15 +150,22 @@
 * **VTE Prophylaxis**: **LMWH (Enoxaparin)** SC per risk score.
 
 ### Rhesus Anti-D & Maternal Infection Prophylaxis
-* **Anti-D Ig (Unsensitized Rh-ve Mother)**: Routine at **$28\text{ wks}$** (full dose) or **$28$ & $34\text{ wks}$** (half dose each) + within **$72\text{ hrs}$ postpartum**, AND after sensitizing events (heavy $1^{\text{st}}$ trimester bleeding, APH, trauma, CVS/amniocentesis, **ECV**; use **Kleihauer test** $>20\text{ wks}$).
+* **Anti-D Ig (Unsensitized Rh-ve Mother)**:
+	* Routine at **$28\text{ wks}$** (full dose) or **$28$ & $34\text{ wks}$** (half dose each) + within **$72\text{ hrs}$ postpartum**,
+	* AND after sensitizing events (heavy $1^{\text{st}}$ trimester bleeding, APH, trauma, CVS/amniocentesis, **ECV**; use **Kleihauer test** $>20\text{ wks}$).
 * **Hepatitis B (乙型肝炎)**: High viral load (**HBV DNA $>200,000\text{ IU/mL}$**) $\rightarrow$ maternal **Tenofovir $300\text{ mg}$ PO daily** from **$28\text{ wks}$** + neonatal **HBIG + HBV Vaccine** at birth.
-* **Syphilis (梅毒) & HIV**: IM **Penicillin** for syphilis; **cART** for HIV.
+* **Syphilis (梅毒) & HIV**:
+	* IM **Penicillin** for syphilis.
+	* **cART** for HIV.
 * **GBS Intrapartum Antibiotic Prophylaxis (IAP)**:
   * **Give IAP Without Swab**: Prior baby with invasive GBS; **GBS bacteriuria** in current pregnancy.
   * **Give IAP if Swab +ve ($35–37\text{ wks}$)**: Except elective LSCS with intact membranes.
   * **Give IAP if GBS Unknown in Labour**: Preterm $<37\text{ wks}$, **ROM $>18\text{ hrs}$**, or intrapartum fever **$>38^\circ\text{C}$**.
   * **Regimen**: **IV Penicillin G**. If penicillin-allergic $\rightarrow$ check susceptibility for **Clindamycin / Erythromycin**; if resistant $\rightarrow$ **IV Vancomycin**.
-* **Vaccination**: **Pertussis (dTap)** at **$26–34\text{ wks}$** (passive fetal IgG); **Influenza** & **COVID-19** at any GA; **MMR** contraindicated (give postpartum if Rubella IgG -ve).
+* **Vaccination**:
+	* **Pertussis (dTap)** at **$26–34\text{ wks}$** (passive fetal IgG).
+	* **Influenza** & **COVID-19** at any GA.
+	* **MMR** contraindicated (give postpartum if Rubella IgG -ve).
 
 
 ## 7. Definitive Management Algorithm (Timing/Mode of Delivery OR Gynaecological Surgery)
@@ -168,27 +175,53 @@
 * **$\text{NT} \ge 3.5\text{ mm}$ or USG Structural Anomaly**: Bypass NIPT $\rightarrow$ direct **CVS / Amniocentesis** for **QF-PCR + CMA**.
 * **Short Cervix ($<25\text{ mm}$) / Cervical Incompetence**: Vaginal **Progesterone** or **Cervical Cerclage (宮頸環扎)**.
 
-### Delivery Timing & Malpresentation Algorithm ($37\text{ wks}$ Review)
-* **Persistent Breech ($\ge 37\text{ wks}$, 3% incidence)**: Exclude placenta praevia/anomaly via USG $\rightarrow$ offer **External Cephalic Version (外倒轉術 / ECV)** at $37\text{ wks}$ vs **Elective LSCS**.
-* **Persistent Transverse / Oblique Lie (Shoulder Presentation, 1 in 200)**: **Admit at $37\text{ wks}$** (risk of **Cord Prolapse [臍帶脫垂]** if ROM). At $39\text{ wks}$, offer **ECV $\pm$ Stabilizing IOL** (amniotomy + oxytocin); if failed $\rightarrow$ **Elective LSCS**.
-* **Previous 1 LSCS**: Counsel **VBAC** ($72–76\%$ success; $0.2–0.7\%$ scar rupture) vs **Elective Repeat LSCS**. Previous **Classical CS** (1% rupture) $\rightarrow$ **Elective LSCS**.
-* **Condition-Specific Timing**:
-  * **Post-term**: Optional **Membrane Sweeping** at $40\text{ wks}$ (primip) / $41\text{ wks}$ (multip); **IOL (催產)** at **$41\text{ wks}$**.
-  * **GDM**: Diet-controlled $\rightarrow$ **$40\text{ wks}$**; on Insulin $\rightarrow$ **$38–39\text{ wks}$**; **Macrosomia ($\ge 4.0–4.5\text{ kg}$)** $\rightarrow$ **Elective LSCS**.
-  * **Twins**: **DCDA** at **$37–38\text{ wks}$**; **MCDA** at **$36–37\text{ wks}$**; **MCMA** by **Elective LSCS at $32–34\text{ wks}$**.
+### Delivery Timing
+- **Post-term**:
+	* Optional **Membrane Sweeping** at $40\text{ wks}$ (primip) / $41\text{ wks}$ (multip).
+	* **IOL (催產)** at **$41\text{ wks}$**.
+- **GDM**:
+	* Diet-controlled $\rightarrow$ **$40\text{ wks}$**.
+	* On Insulin $\rightarrow$ **$38–39\text{ wks}$**.
+	* **Macrosomia ($\ge 4.0–4.5\text{ kg}$)** $\rightarrow$ **Elective LSCS**.
+* **Twins**:
+	* **DCDA** at **$37–38\text{ wks}$**.
+	* **MCDA** at **$36–37\text{ wks}$**.
+	* **MCMA** by **Elective LSCS at $32–34\text{ wks}$**.
+
+### Malpresentation Algorithm ($37\text{ wks}$ Review)
+* **Persistent Breech ($\ge 37\text{ wks}$, 3% incidence)**:
+	* Exclude placenta praevia/anomaly via USG $\rightarrow$ offer **External Cephalic Version (外倒轉術 / ECV)** at $37\text{ wks}$ vs **Elective LSCS**.
+* **Persistent Transverse / Oblique Lie (Shoulder Presentation, 1 in 200)**:
+	* **Admit at $37\text{ wks}$** (risk of **Cord Prolapse [臍帶脫垂]** if ROM).
+	* At $39\text{ wks}$, offer **ECV $\pm$ Stabilizing IOL** (amniotomy + oxytocin); if failed $\rightarrow$ **Elective LSCS**.
+* **Previous 1 LSCS**:
+	* Counsel **VBAC** ($72–76\%$ success; $0.2–0.7\%$ scar rupture) vs **Elective Repeat LSCS**.
+	* Previous **Classical CS** (1% rupture) $\rightarrow$ **Elective LSCS**.
 
 
 ## 8. Post-partum/Post-operative Care, Contraception & Follow-up
 
 ### Immediate Postpartum Care & 6–8 Weeks Review
-* **Immediate**: Neonatal **HBIG + HBV vaccine** (if HBsAg +ve); maternal **Anti-D Ig** $<72\text{ hrs}$ (if Rh-ve); **MMR vaccine** (if Rubella non-immune); **LMWH** per VTE score; stop **Methyldopa** (switch to **Enalapril / Nifedipine / Labetalol**).
+* **Immediate**:
+	* Neonatal **HBIG + HBV vaccine** (if HBsAg +ve).
+	* Maternal **Anti-D Ig** $<72\text{ hrs}$ (if Rh-ve).
+	* **MMR vaccine** (if Rubella non-immune).
+	* **LMWH** per VTE score.
+	* Stop **Methyldopa** (switch to **Enalapril / Nifedipine / Labetalol**).
 * **6–8 Weeks Visit**:
-  * **GDM**: Stop insulin at birth; **Fasting glucose or 75g OGTT at $6–8\text{ wks}$** + **yearly** screen for Type 2 DM.
+  * **GDM**:
+	  * Stop insulin at birth.
+	  * **Fasting glucose or 75g OGTT at $6–8\text{ wks}$** + **yearly** screen for Type 2 DM.
   * **PET / Gestational HTN**: Check BP & **Urine PCR at $6–8\text{ wks}$** (refer physician if persistent).
-  * **Routine**: **Cervical Smear** (if due); **EPDS** screen (HK Chinese cutoff **$\ge 11$**).
+  * **Routine**:
+	  * **Cervical Smear** (if due).
+	  * **Edinburgh Postnatal Depression Scale (EPDS)** screen (HK Chinese cutoff **$\ge 11$**).
 
 ### Postpartum Contraception & Genetic Counselling
-* **Contraception**: Start by **$3\text{ wks}$ postpartum** (earliest ovulation in non-breastfeeding). **LAM** requires exclusive breastfeeding + amenorrhoea + $<6\text{ months}$. Safe in breastfeeding: **POP, DMPA, Mirena, IUCD, barrier** (avoid **COCP**).
+* **Contraception**:
+	* Start by **$3\text{ wks}$ postpartum** (earliest ovulation in non-breastfeeding).
+	* **Lactation Amenorrhoea Method (LAM)** requires exclusive breastfeeding + amenorrhoea + $<6\text{ months}$.
+	* Safe in breastfeeding: **POP, DMPA, Mirena, IUCD, barrier** (avoid **COCP**).
 * **Future Pregnancy**: Offer **Pre-implantation Genetic Testing (植入前遺傳診斷 / PGT)** or early **CVS** for thalassaemia/genetic carrier couples.
 
 
