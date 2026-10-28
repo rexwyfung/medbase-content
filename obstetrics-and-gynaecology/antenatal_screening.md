@@ -115,20 +115,23 @@
 | **$24–28\text{ wks}$**          | Repeat **CBP** + **75g OGTT**                                                                                                                                                                                                                                                                           |
 | **$35–37\text{ wks}$**          | **LVS + Rectal Swab** for **GBS** culture                                                                                                                                                                                                                                                               |
 
-### Thalassaemia, Rhesus & Invasive Genetic Cascade (HKSAR 2022)
-* **Thalassaemia Cascade**:
-	* Maternal $\text{MCV} <80\text{ fL}$ $\rightarrow$ check partner $\text{MCV}$ + maternal **Hb electrophoresis**, **HbH inclusion**, **Ferritin**.
-	* Normal ferritin + normal $\text{HbA}_2$ $\rightarrow$ presume $\alpha$-trait $\rightarrow$ DNA test for **SEA deletion**.
-	* If both parents carry same trait (25% major risk) $\rightarrow$ invasive prenatal diagnosis.
-* **Rh Negativity**:
-	* Non-invasive fetal **RHD genotyping** via maternal plasma cffDNA.
-	* If sensitized (+ve Anti-D) $\rightarrow$ serial titres + fetal **MCA-PSV Doppler** ($\text{MoM} >1.5$ = fetal anaemia).
-* **Invasive Testing**: **CVS (絨毛膜活檢)** at **$11–13^{+6}\text{ wks}$** (never $<10\text{ wks}$) or **Amniocentesis (抽羊水)** at **$\ge 15\text{ wks}$**.
+### Thalassaemia Screening & Diagnostic Cascade
+- Maternal $\text{MCV} <80\text{ fL}$ $\rightarrow$ check partner $\text{MCV}$ + maternal **Hb electrophoresis**, **HbH inclusion**, **Ferritin**.
+- Normal ferritin + normal $\text{HbA}_2$ $\rightarrow$ presume $\alpha$-trait $\rightarrow$ DNA test for **SEA deletion**.
+- If both parents carry same trait (25% major risk) $\rightarrow$ invasive prenatal diagnosis.
+
+### Rhesus (RhD) Incompatibility & Alloimmunisation Cascade
+- Non-invasive fetal **RHD genotyping** via maternal plasma cffDNA.
+- If sensitized (+ve Anti-D) $\rightarrow$ serial titres + fetal **MCA-PSV Doppler** ($\text{MoM} >1.5$ = fetal anaemia).
+
+### Invasive Prenatal Genetic Cascade (HKSAR 2022)
+- **Invasive Testing**: **CVS (絨毛膜活檢)** at **$11–13^{+6}\text{ wks}$** (never $<10\text{ wks}$) or **Amniocentesis (抽羊水)** at **$\ge 15\text{ wks}$**.
 * **HKSAR Genetic Lab Cascade**:
   * **QF-PCR (RAT)**: Rapid screen for T13, T18, T21, X/Y & **Maternal Cell Contamination (MCC)**.
   * If QF-PCR abnormal $\rightarrow$ **Traditional Karyotyping** (exclude **Robertsonian/Reciprocal Translocations**).
   * If QF-PCR normal $\rightarrow$ **Chromosomal Microarray (CMA / 基因晶片)** for microdeletions/duplications.
   * If CMA normal + structural anomalies $\rightarrow$ **WES / WGS (全外顯子/全基因組測序)**.
+
 
 ### Third-Trimester Ultrasound & CTG Indications
 * **Transvaginal Cervical Length ($14–24\text{ wks}$)**: Screen if prior preterm birth/mid-trimester loss (**$<25\text{ mm}$** = short cervix).
