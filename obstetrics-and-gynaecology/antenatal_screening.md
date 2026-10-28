@@ -87,7 +87,7 @@
 | **Moderate Risk** ($\ge 2$) | **Primiparity (初產)**, Age $\ge 40\text{ yrs}$, interval $>10\text{ yrs}$, **BMI $\ge 35\text{ kg/m}^2$**, FHx PET, **Multiple Pregnancy (多胞胎)** | Start **Aspirin** |
 | **1st Trimester Screen** | High-risk combined **MAP** + **UtA-PI** + **PlGF** / **PAPP-A** | Start **Aspirin** |
 
-### Microcytic Hypochromic Anaemia (MCV <80 fL) & Hyperglycaemia (WHO Criteria)
+### Microcytic Hypochromic Anaemia (MCV <80 fL}$) & Hyperglycaemia (WHO Criteria)
 | Condition                       | Key Diagnostic Criteria                                                                                                     |
 | :------------------------------ | :-------------------------------------------------------------------------------------------------------------------------- |
 | **Iron Deficiency Anaemia**     | $\text{MCV} <80\text{ fL}$ + **$\downarrow$ Serum Ferritin ($<30\text{ }\mu\text{g/L}$)**                                   |
@@ -176,7 +176,7 @@
 ### Prenatal Diagnosis & Preterm Birth Prevention Algorithm
 * **Positive NIPT**: Screening test ONLY $\rightarrow$ must confirm via **CVS / Amniocentesis** before **Termination of Pregnancy (人工流產 / TOP)** ($<24\text{ wks}$ legal limit in HK).
 * **$\text{NT} \ge 3.5\text{ mm}$ or USG Structural Anomaly**: Bypass NIPT $\rightarrow$ direct **CVS / Amniocentesis** for **QF-PCR + CMA**.
-	* **Short Cervix ($<25\text{ mm}$) / Cervical Incompetence**: Vaginal **Progesterone** or **Cervical Cerclage (宮頸環扎)**.
+* **Short Cervix ($<25\text{ mm}$) / Cervical Incompetence**: Vaginal **Progesterone** or **Cervical Cerclage (宮頸環扎)**.
 ![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/d30a39905d02eeb18140246b4fc117cf.png)
 
 ### Delivery Timing
