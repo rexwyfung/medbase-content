@@ -192,7 +192,7 @@
 	* **MCDA** at **$36–37\text{ wks}$**.
 	* **MCMA** by **Elective LSCS at $32–34\text{ wks}$**.
 
-### Malpresentation Algorithm ($37\text{ wks}$ Review)
+### Malpresentation Algorithm (37 wks Review)
 * **Persistent Breech ($\ge 37\text{ wks}$, 3% incidence)**:
 	* Exclude placenta praevia/anomaly via USG $\rightarrow$ offer **External Cephalic Version (外倒轉術 / ECV)** at $37\text{ wks}$ vs **Elective LSCS**.
 * **Persistent Transverse / Oblique Lie (Shoulder Presentation, 1 in 200)**:
