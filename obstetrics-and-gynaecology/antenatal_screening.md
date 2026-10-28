@@ -177,6 +177,7 @@
 * **Positive NIPT**: Screening test ONLY $\rightarrow$ must confirm via **CVS / Amniocentesis** before **Termination of Pregnancy (人工流產 / TOP)** ($<24\text{ wks}$ legal limit in HK).
 * **$\text{NT} \ge 3.5\text{ mm}$ or USG Structural Anomaly**: Bypass NIPT $\rightarrow$ direct **CVS / Amniocentesis** for **QF-PCR + CMA**.
 * **Short Cervix ($<25\text{ mm}$) / Cervical Incompetence**: Vaginal **Progesterone** or **Cervical Cerclage (宮頸環扎)**.
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/d30a39905d02eeb18140246b4fc117cf.png)
 
 ### Delivery Timing
 - **Post-term**:
