@@ -129,6 +129,7 @@
 * **WBC Count**: Inflammatory range (**2,000 - 50,000/mm³**), predominantly PMNs (>50%).
 * **Microscopy**: -ve for crystals.
 * **Microbiology**: -ve Gram stain and culture (rules out septic arthritis).
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/6e85c87c34a4c4a9484a6441a805c951.png)
 
 ### Radiographic Imaging in Rheumatoid Arthritis
 * **Plain Radiographs (X-ray) of Hands/Feet**:
