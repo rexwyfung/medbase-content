@@ -7,12 +7,17 @@
 
 ### Etiologies & Triggers of SLE
 * **Genetic predisposition:** Strong heritability (HLA-DR2, HLA-DR3, complement C1q/C2/C4 deficiencies).
-* **Environmental triggers:** UV light (promotes keratinocyte apoptosis), viral infections (EBV), silica dust.
+* **Environmental triggers:**
+	* UV light (promotes keratinocyte apoptosis).
+	* Viral infections (EBV).
+	* Silica dust.
 * **Hormonal factors:** Estrogen-driven (explains strong female predominance).
 
 ### Local Hong Kong Epidemiology of SLE
 * **Prevalence:** Highly prevalent in Southern Chinese (~0.1% of population).
-* **Demographics:** F:M ratio 9:1 (during childbearing years). Peak onset 15–40 years.
+* **Demographics:**
+	* F:M ratio 9:1 (during childbearing years).
+	* Peak onset 15–40 years.
 * **Prognosis in Chinese:** Southern Chinese patients have significantly ↑ rates of **Lupus Nephritis (狼瘡性腎炎)** and earlier onset of end-organ damage compared to Caucasians.
 
 ## 2. Systemic Pathophysiology & Molecular Mechanisms
@@ -25,35 +30,64 @@
 ### Hypersensitivity Mechanisms in SLE
 * **Type III Hypersensitivity:** Circulating immune complexes (Antigen-Antibody) deposit in microvasculature → complement activation (C3/C4 consumption) → tissue destruction (Lupus Nephritis, vasculitis, arthritis).
 * **Type II Hypersensitivity:** Direct IgG autoantibody binding to cell surface antigens → opsonization & destruction (autoimmune hemolytic anemia, thrombocytopenia).
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/c71f60cb7151d1a4a5f2400b121a1710.png)
 
 ### Drug-Induced Lupus Erythematosus (DILE) Pathophysiology
 * **Mechanism:** Drugs act as haptens or alter DNA methylation → reversible lupus-like syndrome.
 * **Culprit Drugs:** Hydralazine, Isoniazid, Procainamide, Minocycline, Anti-TNF agents.
-* **Key feature:** Reverses upon drug cessation; renal/CNS involvement is rare.
+* **Key feature:**
+	* Reverses upon drug cessation;
+	* Renal/CNS involvement is rare.
 
 ## 3. Clinical Assessment (Detailed History & System-Specific Physical Signs ONLY)
 
 ### Constitutional Symptoms of SLE
-* **Systemic:** Profound fatigue, persistent low-grade fever, unintentional weight loss, lymphadenopathy.
+* **Systemic:**
+	* Profound fatigue.
+	* Persistent low-grade fever.
+	* Unintentional weight loss.
+	* Lymphadenopathy.
 
 ### Mucocutaneous Manifestations of SLE
-* **Malar Rash (蝴蝶斑):** Fixed, erythematous, raised/flat rash over cheeks & nasal bridge; strictly **spares nasolabial folds**.
-* **Discoid Rash:** Erythematous raised patches with adherent keratotic scaling & follicular plugging; causes scarring/pigmentary changes.
+* **Malar Rash (蝴蝶斑):**
+	* Fixed, erythematous, raised/flat rash over cheeks & nasal bridge;
+	* Strictly **spares nasolabial folds**.
+* **Discoid Rash:**
+	* Erythematous raised patches with adherent keratotic scaling & follicular plugging;
+	* Causes scarring/pigmentary changes.
 * **Photosensitivity:** Maculopapular rash heavily triggered by sun exposure.
 * **Oral/Nasal Ulcers:** Typically painless mucosal ulcerations.
 * **Alopecia:** Non-scarring hair loss, frontal hair fragility ("lupus hair").
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/3640c5e61df666f87251a3aa1ec4821a.png)
 
 ### Musculoskeletal & Articular Signs of SLE
 * **Arthritis:** Symmetrical, polyarticular, highly inflammatory but strictly **non-erosive**.
-* **Jaccoud's Arthropathy:** Reversible subluxation, ulnar deviation, and swan-neck deformities (due to tendon laxity, not joint destruction).
+* **Jaccoud's Arthropathy:**
+	* Reversible subluxation.
+	* Ulnar deviation.
+	* Swan-neck deformities (due to tendon laxity, not joint destruction).
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/3396a3511862aa92da3193a17f1a1216.png)
 
 ### Cardiopulmonary & Vascular Signs of SLE
-* **Serositis Signs:** Pleural/pericardial friction rubs, ↓ breath sounds (effusion).
-* **Vasculitic Signs:** Splinter hemorrhages, periungual erythema, digital infarcts, Raynaud's phenomenon (雷諾氏現象).
+* **Serositis Signs:**
+	* Pleural/pericardial friction rubs.
+	* ↓ breath sounds (effusion).
+* **Vasculitic Signs:**
+	* Splinter hemorrhages.
+	* Periungual erythema.
+	* Digital infarcts.
+	* Raynaud's phenomenon (雷諾氏現象).
 
 ### Neuropsychiatric Signs of SLE (NPSLE)
-* **Central Signs:** Seizures, acute psychosis, focal neurological deficits (stroke-like presentation), chorea, cognitive dysfunction.
-* **Peripheral Signs:** Mononeuritis multiplex (foot drop/wrist drop), cranial nerve palsies.
+* **Central Signs:**
+	* Seizures.
+	* Acute psychosis.
+	* Focal neurological deficits (stroke-like presentation).
+	* Chorea.
+	* Cognitive dysfunction.
+* **Peripheral Signs:**
+	* Mononeuritis multiplex (foot drop/wrist drop).
+	* Cranial nerve palsies.
 
 ## 4. Differential Diagnoses & Discriminatory Features
 
@@ -64,16 +98,31 @@
 * **Dermatomyositis:** Heliotrope rash, Gottron's papules (unlike malar rash, extends over knuckles), proximal myopathy.
 
 ### Infectious & Malignant Differentials for SLE
-* **Infections:** Parvovirus B19 (causes acute "slapped cheek" rash & arthritis), TB, EBV, HIV, Endocarditis.
+* **Infections:**
+	* Parvovirus B19 (causes acute "slapped cheek" rash & arthritis).
+	* TB.
+	* EBV.
+	* HIV.
+	* Endocarditis.
 * **Malignancy:** Lymphoma (can present with fever, lymphadenopathy, cytopenia, AIHA).
 
 ## 5. Tiered Investigations (Bedside, Bloods, Imaging, Biopsy & Diagnostic Criteria)
 
 ### Bedside & Routine Blood Investigations for SLE
-* **Urinalysis:** RBC casts (glomerulonephritis), heavy proteinuria. 
-* **CBC:** Leukopenia (<4.0 x 10^9/L), Lymphopenia (<1.0 x 10^9/L), Thrombocytopenia (<100 x 10^9/L), Autoimmune Hemolytic Anemia (AIHA - reticulocytosis).
-* **Renal Function:** ↑ Creatinine/Urea, ↓ eGFR.
-* **Inflammatory Markers:** ↑ ESR (correlates with activity), CRP often normal (unless serositis, arthritis, or concurrent infection).
+* **Urinalysis:**
+	* RBC casts (glomerulonephritis).
+	* Heavy proteinuria. 
+* **CBC:**
+	* Leukopenia (<4.0 x 10^9/L).
+	* Lymphopenia (<1.0 x 10^9/L).
+	* Thrombocytopenia (<100 x 10^9/L).
+	* Autoimmune Hemolytic Anemia (AIHA - reticulocytosis).
+* **Renal Function:**
+	* ↑ Creatinine/Urea.
+	* ↓ eGFR.
+* **Inflammatory Markers:**
+	* ↑ ESR (correlates with activity).
+	* CRP often normal (unless serositis, arthritis, or concurrent infection).
 
 ### Autoantibody Profile in SLE
 * **ANA (Antinuclear Antibody):** Screening test. Highly sensitive (~98%), poorly specific.
@@ -89,8 +138,12 @@
 * **Anti-β2-Glycoprotein I:** IgG/IgM.
 
 ### 2019 EULAR/ACR Classification Criteria for SLE
-* **Entry Criterion:** ANA at least 1:80 (Hep-2 cells). If absent, NOT SLE.
-* **Scoring:** If ANA +ve, sum weighted criteria from clinical/immunologic domains. Score ≥10 + at least one clinical criterion = SLE.
+* **Entry Criterion:**
+	* ANA at least 1:80 (Hep-2 cells).
+	* If absent, NOT SLE.
+* **Scoring:**
+	* If ANA +ve, sum weighted criteria from clinical/immunologic domains.
+	* Score ≥10 + at least one clinical criterion = SLE.
 
 | Domain | Criteria & Weight (Points) |
 | :--- | :--- |
@@ -103,8 +156,12 @@
 | **Renal** | Proteinuria >0.5g/24h (4), Renal biopsy Class II/V LN (8), Class III/IV LN (10) |
 | **Immunologic** | Antiphospholipid Abs +ve (2), Low C3 OR C4 (3), Low C3 AND C4 (4), Anti-dsDNA OR Anti-Sm +ve (6) |
 
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/0db55e8eab1cbdda62719b77016734c1.png)
+
 ### Tissue Biopsy Findings in SLE
-* **Renal Biopsy:** Mandatory if suspected Lupus Nephritis (proteinuria >0.5g/day, active urinary sediment, unexplained ↓ GFR). Shows "full house" immunofluorescence (IgG, IgA, IgM, C3, C1q).
+* **Renal Biopsy:**
+	* Mandatory if suspected Lupus Nephritis (proteinuria >0.5g/day, active urinary sediment, unexplained ↓ GFR).
+	* Shows "full house" immunofluorescence (IgG, IgA, IgM, C3, C1q).
 * **Skin Biopsy:** Lupus band test +ve (IgG/complement deposition at dermo-epidermal junction in lesional and non-lesional skin).
 
 ## 6. Acute Exacerbation Management & Resuscitation (Flares/Emergencies)
@@ -114,48 +171,77 @@
 * **Acute Immunosuppression:** IV Cyclophosphamide (CYC) frequently initiated concurrently for severe renal/CNS flares.
 
 ### Acute Neuropsychiatric Lupus (NPSLE) & Alveolar Hemorrhage Resuscitation
-* **Plasmapheresis (Plasma Exchange - 血漿置換):** Rapidly clears circulating autoantibodies and immune complexes. Indicated for refractory NPSLE, diffuse alveolar hemorrhage, and Catastrophic APS.
+* **Plasmapheresis (Plasma Exchange - 血漿置換):**
+	* Rapidly clears circulating autoantibodies and immune complexes.
+	* Indicated for refractory NPSLE, diffuse alveolar hemorrhage, and Catastrophic APS.
 * **IVIG (Intravenous Immunoglobulin):** Alternative immunomodulation for refractory severe flares with concurrent severe sepsis.
 
 ## 7. Chronic Management Algorithm & Disease-Modifying Therapies (Pharmacology & Lifestyle)
 
 ### General Measures & Lifestyle Modification in SLE
-* **Photoprotection:** Broad-spectrum sunscreen (SPF 50+), protective clothing, avoidance of mid-day sun.
-* **Cardiovascular Risk Reduction:** Strict BP control, statin therapy, smoking cessation (smoking heavily reduces hydroxychloroquine efficacy).
-* **Vaccinations:** Pneumococcal, Influenza, VZV (must give inactive vaccines only if on high-dose biologics/immunosuppressants).
+* **Photoprotection:**
+	* Broad-spectrum sunscreen (SPF 50+).
+	* Protective clothing.
+	* Avoidance of mid-day sun.
+* **Cardiovascular Risk Reduction:**
+	* Strict BP control.
+	* Statin therapy.
+	* Smoking cessation (smoking heavily reduces hydroxychloroquine efficacy).
+* **Vaccinations:**
+	* Pneumococcal.
+	* Influenza.
+	* VZV (must give inactive vaccines only if on high-dose biologics/immunosuppressants).
 
 ### Pharmacological Step-Up Algorithm for SLE
-| Disease Severity | Standard Pharmacological Interventions |
-| :--- | :--- |
-| **All Patients (Baseline)** | **Hydroxychloroquine (HCQ)** (decreases flares, improves survival, prevents damage). Maintain <5mg/kg/day real body weight. |
-| **Mild** (Skin, joints, serositis) | Low-dose Prednisolone (<7.5mg/day). Topicals for skin. NSAIDs for joints. Methotrexate (MTX) or Azathioprine (AZA) if steroid-sparing needed. |
-| **Moderate** (Significant organ involvement) | Moderate-dose Prednisolone (0.5mg/kg/day). AZA, Mycophenolate Mofetil (MMF), or Calcineurin Inhibitors (Tacrolimus/Cyclosporine). Belimumab (anti-BAFF). |
-| **Severe** (Renal, CNS, alveolar) | High-dose Prednisolone (1mg/kg/day). MMF or IV Cyclophosphamide (CYC). Rituximab (anti-CD20) for refractory cases. |
+| Disease Severity                             | Standard Pharmacological Interventions                                                                                                                               |
+| :------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **All Patients (Baseline)**                  | - **Hydroxychloroquine (HCQ)** (decreases flares, improves survival, prevents damage).<br>- Maintain <5mg/kg/day real body weight.                                   |
+| **Mild** (Skin, joints, serositis)           | - Low-dose Prednisolone (<7.5mg/day). Topicals for skin.<br>- NSAIDs for joints.<br>- Methotrexate (MTX) or Azathioprine (AZA) if steroid-sparing needed.            |
+| **Moderate** (Significant organ involvement) | - Moderate-dose Prednisolone (0.5mg/kg/day).<br>- AZA, Mycophenolate Mofetil (MMF), or Calcineurin Inhibitors (Tacrolimus/Cyclosporine).<br>- Belimumab (anti-BAFF). |
+| **Severe** (Renal, CNS, alveolar)            | - High-dose Prednisolone (1mg/kg/day).<br>- MMF or IV Cyclophosphamide (CYC).<br>- Rituximab (anti-CD20) for refractory cases.                                       |
 
 ### Lupus Nephritis (LN) Treatment Protocol
-* **Induction Phase (Aim: Rapid remission):** High-dose Corticosteroids + [Mycophenolate Mofetil (MMF) OR IV Cyclophosphamide]. MMF preferred in Asians due to better side-effect profile and efficacy.
-* **Maintenance Phase (Aim: Prevent relapse):** Low-dose oral Corticosteroids + [MMF OR Azathioprine]. Add ACEi/ARB for strict proteinuria control.
+* **Induction Phase (Aim: Rapid remission):**
+	* High-dose Corticosteroids + [Mycophenolate Mofetil (MMF) OR IV Cyclophosphamide].
+	* MMF preferred in Asians due to better side-effect profile and efficacy.
+* **Maintenance Phase (Aim: Prevent relapse):**
+	* Low-dose oral Corticosteroids + [MMF OR Azathioprine].
+	* Add ACEi/ARB for strict proteinuria control.
 
 ### Pregnancy Management in SLE
 * **Pre-conception:** Delay pregnancy until disease is inactive for ≥6 months. 
-* **Safe Medications:** Hydroxychloroquine (continue throughout), low-dose Prednisolone, Azathioprine, Calcineurin inhibitors. Low-dose Aspirin if +ve aPL.
-* **Teratogenic (MUST STOP):** Mycophenolate Mofetil (MMF), Cyclophosphamide, Methotrexate.
-* **Neonatal Lupus Risk:** Check maternal Anti-Ro/La. Serial fetal echocardiograms to monitor for congenital complete heart block.
+* **Safe Medications:**
+	* Hydroxychloroquine (continue throughout).
+	* Low-dose Prednisolone.
+	* Azathioprine.
+	* Calcineurin inhibitors.
+	* Low-dose Aspirin if +ve aPL.
+* **Teratogenic (MUST STOP):**
+	* Mycophenolate Mofetil (MMF).
+	* Cyclophosphamide.
+	* Methotrexate.
+* **Neonatal Lupus Risk:**
+	* Check maternal Anti-Ro/La.
+	* Serial fetal echocardiograms to monitor for congenital complete heart block.
 
 ## 8. Risk Stratification, Clinical Scoring Systems & Prognosis
 
 ### Disease Activity Scoring in SLE (SLEDAI)
-* **SLEDAI (SLE Disease Activity Index):** Used globally and in HK HA to quantify flare severity and monitor drug response over the previous 10-30 days. Scores parameters including seizures, psychosis, mucosal ulcers, alopecia, proteinuria, complement, and anti-dsDNA levels.
+* **SLEDAI (SLE Disease Activity Index):**
+	* Used globally and in HK HA to quantify flare severity and monitor drug response over the previous 10-30 days.
+	* Scores parameters including seizures, psychosis, mucosal ulcers, alopecia, proteinuria, complement, and anti-dsDNA levels.
 
 ### ISN/RPS Classification of Lupus Nephritis
-| Class | Description | Clinical Implication |
-| :--- | :--- | :--- |
-| **Class I** | Minimal mesangial LN | Normal renal function, minimal proteinuria. |
-| **Class II** | Mesangial proliferative LN | Microscopic hematuria/proteinuria. Good prognosis. |
-| **Class III** | Focal LN (<50% glomeruli) | Active nephritis. Requires aggressive immunosuppression. |
-| **Class IV** | Diffuse LN (≥50% glomeruli) | Most common/severe. High risk of ESRF. Requires aggressive induction. |
-| **Class V** | Membranous LN | Nephrotic syndrome (massive proteinuria). Often coexists with III/IV. |
-| **Class VI** | Advanced sclerosing LN | >90% sclerotic glomeruli. Irreversible. Prepare for dialysis/transplant. |
+| Class         | Description                 | Clinical Implication                                                     |
+| :------------ | :-------------------------- | :----------------------------------------------------------------------- |
+| **Class I**   | Minimal mesangial LN        | Normal renal function, minimal proteinuria.                              |
+| **Class II**  | Mesangial proliferative LN  | Microscopic hematuria/proteinuria. Good prognosis.                       |
+| **Class III** | Focal LN (<50% glomeruli)   | Active nephritis. Requires aggressive immunosuppression.                 |
+| **Class IV**  | Diffuse LN (≥50% glomeruli) | Most common/severe. High risk of ESRF. Requires aggressive induction.    |
+| **Class V**   | Membranous LN               | Nephrotic syndrome (massive proteinuria). Often coexists with III/IV.    |
+| **Class VI**  | Advanced sclerosing LN      | >90% sclerotic glomeruli. Irreversible. Prepare for dialysis/transplant. |
+
+![image|350](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/6d809bfadf10845ad7bd7c44f82d3c88.png)
 
 ### Prognosis of SLE in Hong Kong
 * **Bimodal Mortality Curve:** 
@@ -170,7 +256,9 @@
 * **Shrinking Lung Syndrome:** Unexplained restrictive lung defect with elevated hemidiaphragms and no parenchymal disease.
 
 ### Renal & Neurological Complications of SLE
-* **End-Stage Renal Failure (ESRF):** Complication of progressive Class IV LN. Requires renal replacement therapy.
+* **End-Stage Renal Failure (ESRF):**
+	* Complication of progressive Class IV LN.
+	* Requires renal replacement therapy.
 * **Seizure Disorders & Dementia:** Long-term sequelae of recurrent NPSLE and microvascular infarctions.
 
 ### Secondary Antiphospholipid Syndrome (APS)
@@ -178,9 +266,19 @@
 * **Obstetric:** Recurrent early miscarriages, late fetal death, severe early-onset pre-eclampsia.
 
 ### Drug-Induced Adverse Effects in SLE
-* **Hydroxychloroquine Toxicity:** Irreversible retinal maculopathy ("bull's eye" maculopathy). Requires baseline and annual OCT ophthalmology screening after 5 years.
-* **Corticosteroid Toxicity:** Iatrogenic Cushing's, avascular necrosis (AVN) of the femoral head, osteoporosis, diabetes, accelerated cataracts.
-* **Cyclophosphamide Toxicity:** Hemorrhagic cystitis (prevent with Mesna/hydration), bladder transitional cell carcinoma, premature ovarian failure (infertility).
+* **Hydroxychloroquine Toxicity:**
+	* Irreversible retinal maculopathy ("bull's eye" maculopathy).
+	* Requires baseline and annual OCT ophthalmology screening after 5 years.
+* **Corticosteroid Toxicity:**
+	* Iatrogenic Cushing's.
+	* Avascular necrosis (AVN) of the femoral head.
+	* Osteoporosis.
+	* Diabetes.
+	* Accelerated cataracts.
+* **Cyclophosphamide Toxicity:**
+	* Hemorrhagic cystitis (prevent with Mesna/hydration).
+	* Bladder transitional cell carcinoma.
+	* Premature ovarian failure (infertility).
 
 ## 10. Examiner's Pearls
 
