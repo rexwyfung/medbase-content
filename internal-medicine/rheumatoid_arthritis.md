@@ -9,7 +9,10 @@
 * **Genetic susceptibility**: Strongly associated with **HLA-DR4** and **HLA-DR1** alleles.
 * **Shared Epitope (共用表位)**: Specific amino acid sequence in HLA-DRβ chains conferring highest risk.
 * **Environmental triggers**: **Smoking** (strongest environmental risk factor, promotes citrullination).
-* **Infectious triggers**: *Porphyromonas gingivalis* (periodontitis pathogen capable of citrullinating host proteins), EBV, Parvovirus B19.
+* **Infectious triggers**:
+	* *Porphyromonas gingivalis* (periodontitis pathogen capable of citrullinating host proteins).
+	* EBV.
+	* Parvovirus B19.
 
 ### Local Epidemiology of Rheumatoid Arthritis in Hong Kong
 * **Prevalence**: ~0.35% in Hong Kong Chinese population.
@@ -21,43 +24,68 @@
 ### Synovial Pathophysiology in Rheumatoid Arthritis
 * **Synovitis**: Immune complexes and inflammatory cells infiltrate the synovium.
 * **Pannus formation**: Hypertrophied, inflamed, hyperplastic synovial tissue invades joint space.
-* **Cartilage/Bone destruction**: Pannus releases matrix metalloproteinases (MMPs) → cartilage breakdown. Inflammatory cytokines activate RANKL → osteoclast activation → periarticular osteopenia and **marginal bone erosions**.
+* **Cartilage/Bone destruction**:
+	* Pannus releases matrix metalloproteinases (MMPs) → cartilage breakdown.
+	* Inflammatory cytokines activate RANKL → osteoclast activation → periarticular osteopenia and **marginal bone erosions**.
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/b548fc1bf21a43cca69dcc0ac14aeb9c.png)
 
 ### Molecular and Cytokine Mechanisms in Rheumatoid Arthritis
 * **T-cell activation**: CD4+ Th1 and Th17 cells drive local inflammation.
 * **Macrophage activation**: Major source of pro-inflammatory cytokines: **TNF-α, IL-1, IL-6**.
-* **B-cell activation**: Produce autoantibodies (RF, anti-CCP), forming local immune complexes → complement activation.
+	* **B-cell activation**: Produce autoantibodies (RF, anti-CCP), forming local immune complexes → complement activation.
 * **Angiogenesis**: ↑ VEGF promotes neoangiogenesis feeding the growing pannus.
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/20c4bd0d5d5cf18c71fe3fdb88d1f2c1.png)
 
 ### Citrullination Pathway in Rheumatoid Arthritis
 * **Citrullination**: Enzyme Peptidylarginine Deiminase (PAD) converts arginine residues into citrulline during cellular stress/apoptosis (e.g., smoking-induced lung stress).
 * **Neoepitopes**: Citrullinated proteins (vimentin, fibronectin, fibrinogen) become immunogenic neoepitopes.
 * **Loss of tolerance**: Immune system mounts response → production of Anti-Citrullinated Protein Antibodies (**Anti-CCP**).
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/af2f1241a6c4c85fd8770df18b141743.png)
 
 ## 3. Clinical Assessment (Detailed History & System-Specific Physical Signs ONLY)
 
 ### Articular History in Rheumatoid Arthritis
 * **Joint pain & swelling**: Insidious onset, **symmetric**, polyarticular.
-* **Distribution**: Primarily small joints of hands/feet (MCP, PIP, wrists, MTP). **Spares DIP joints**.
-* **Morning stiffness (晨僵)**: Hallmark symptom; **>1 hour**, improves with physical activity/use.
+* **Distribution**:
+	* Primarily small joints of hands/feet (MCP, PIP, wrists, MTP).
+	* **Spares DIP joints**.
+* **Morning stiffness (晨僵)**:
+	* Hallmark symptom;
+	* **>1 hour**, improves with physical activity/use.
 * **Functional impact**: Difficulty with fine motor tasks (buttoning shirts, opening jars).
 
 ### Hand and Wrist Physical Signs in Rheumatoid Arthritis
-* **Early signs**: Symmetrical boggy swelling/tenderness of MCPs, PIPs, and wrists. Squeeze test +ve (tenderness across MCP/MTP row).
+* **Early signs**:
+	* Symmetrical boggy swelling/tenderness of MCPs, PIPs, and wrists.
+	* Squeeze test +ve (tenderness across MCP/MTP row).
 * **Late deformities**:
   * **Ulnar deviation**: At the MCP joints.
   * **Swan-neck deformity (天鵝頸畸形)**: PIP hyperextension + DIP flexion.
   * **Boutonnière deformity (鈕扣孔畸形)**: PIP flexion + DIP hyperextension.
   * **Z-thumb deformity**: IP hyperextension + MCP flexion.
   * **Wrist signs**: Volar subluxation, prominent ulnar styloid (**Piano key sign**).
+* ![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/fec0012b3fcd6579350f86041555502f.png)
 
 ### Extra-Articular Physical Signs in Rheumatoid Arthritis
-* **Dermatological**: **Rheumatoid nodules** (firm, non-tender subcutaneous nodules on extensor surfaces e.g., olecranon), nailfold infarcts (vasculitis).
-* **Ophthalmological**: Episcleritis (painless/mild discomfort, red), **scleritis** (deep, painful, boring pain, risk of scleromalacia perforans), keratoconjunctivitis sicca (dry eyes/Sjögren's overlap).
-* **Respiratory**: Fine bibasilar end-inspiratory crackles (Interstitial Lung Disease - ILD), dullness to percussion (pleural effusion).
-* **Cardiovascular**: Pericardial friction rub (pericarditis).
-* **Neurological**: Thenar wasting/Tinel's sign +ve (Carpal Tunnel Syndrome), hyperreflexia/Babinski +ve (Cervical myelopathy from atlantoaxial subluxation).
-* **Reticuloendothelial**: Splenomegaly, lymphadenopathy.
+* **Dermatological**:
+	* **Rheumatoid nodules** (firm, non-tender subcutaneous nodules on extensor surfaces e.g., olecranon).
+	* Nailfold infarcts (vasculitis).
+* **Ophthalmological**:
+	* Episcleritis (painless/mild discomfort, red).
+	* **Scleritis** (deep, painful, boring pain, risk of scleromalacia perforans).
+	* Keratoconjunctivitis sicca (dry eyes/Sjögren's overlap).
+* **Respiratory**:
+	* Fine bibasilar end-inspiratory crackles (Interstitial Lung Disease - ILD).
+	* Dullness to percussion (pleural effusion).
+* **Cardiovascular**:
+	* Pericardial friction rub (pericarditis).
+* **Neurological**:
+	* Thenar wasting/Tinel's sign +ve (Carpal Tunnel Syndrome).
+	* Hyperreflexia/Babinski +ve (Cervical myelopathy from atlantoaxial subluxation).
+* **Reticuloendothelial**:
+	* Splenomegaly.
+	* Lymphadenopathy.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/53462bac2e572011732c7688a86e2417.png)
 
 ## 4. Differential Diagnoses & Discriminatory Features
 
@@ -79,13 +107,22 @@
 * **ECG**: Assess for pericarditis or conduction blocks if indicated.
 
 ### Bloods & Serology for Rheumatoid Arthritis
-* **Complete Blood Count (CBC)**: Normochromic normocytic anemia of chronic disease, thrombocytosis (reactive), mild leukocytosis.
+* **Complete Blood Count (CBC)**:
+	* Normochromic normocytic anemia of chronic disease.
+	* Thrombocytosis (reactive).
+	* Mild leukocytosis.
 * **Inflammatory Markers**: ↑ **ESR** and ↑ **CRP** (correlates with disease activity).
 * **Autoantibodies**:
-  * **Rheumatoid Factor (RF)**: IgM antibody targeting the Fc portion of IgG. Sensitivity ~70-80%, low specificity (positive in endocarditis, HCV, Sjögren's).
-  * **Anti-CCP (抗環瓜氨酸肽抗體)**: Similar sensitivity to RF, but **Highly Specific (>95%)**. Detectable years before onset.
-  * **Anti-CarP (Anti-carbamylated protein)**: Predicts erosive disease, useful if RF/anti-CCP -ve.
-  * **ANA**: +ve in ~30% of RA patients (usually low titer).
+  * **Rheumatoid Factor (RF)**:
+	  * IgM antibody targeting the Fc portion of IgG.
+	  * Sensitivity ~70-80%, low specificity (positive in endocarditis, HCV, Sjögren's).
+  * **Anti-CCP (抗環瓜氨酸肽抗體)**:
+	  * Similar sensitivity to RF, but **Highly Specific (>95%)**.
+	  * Detectable years before onset.
+  * **Anti-CarP (Anti-carbamylated protein)**:
+	  * Predicts erosive disease, useful if RF/anti-CCP -ve.
+  * **ANA**:
+	  * +ve in ~30% of RA patients (usually low titer).
 
 ### Synovial Fluid Analysis in Rheumatoid Arthritis
 * **Macroscopic**: Yellow, cloudy, reduced viscosity.
@@ -97,8 +134,9 @@
 * **Plain Radiographs (X-ray) of Hands/Feet**:
   * Early: Soft tissue swelling, periarticular osteopenia.
   * Late: **Marginal erosions** (bare area where synovium inserts without cartilage cover), symmetric joint space narrowing, subluxation.
-* **Cervical Spine X-ray (Flexion/Extension)**: Assess for **atlantoaxial subluxation** (predental space >3mm in adults).
+* **Cervical Spine X-ray (Flexion/Extension)**: Assess for **atlantoaxial subluxation** (predental space/ADI >3mm in adults).
 * **Ultrasound (US) / MRI**: High sensitivity for early synovitis, joint effusion, tenosynovitis, and bone marrow edema (pre-erosive state).
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/7458681af1259a19c1536fb2ee617a68.png)![image|220](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/759b9525cf9f620bc2f5023348cf5739.png)
 
 ### 2010 ACR/EULAR Diagnostic Criteria for Rheumatoid Arthritis
 * **Score ≥ 6/10** classifies patient as having "Definite RA".
@@ -131,7 +169,9 @@
 ### Acute Atlantoaxial Subluxation Management in Rheumatoid Arthritis
 * **Immobilization**: Rigid cervical collar.
 * **Consultation**: Urgent Neurosurgery referral for stabilization/fusion.
-* **Airway management**: Fiberoptic intubation; **STRICTLY AVOID** neck extension.
+* **Airway management**:
+	* Fiberoptic intubation;
+	* **STRICTLY AVOID** neck extension.
 
 ### Acute Rheumatoid Vasculitis or Scleritis Flare Management
 * **Resuscitation**: High-dose IV Methylprednisolone pulse therapy (e.g., 500mg-1g daily for 3 days).
@@ -141,7 +181,9 @@
 
 ### Treat-to-Target (T2T) Strategy in Rheumatoid Arthritis
 * **Goal**: Clinical remission or low disease activity.
-* **Monitoring**: Assess disease activity (DAS28/CDAI) every 1-3 months; adjust therapy step-up algorithm until target is achieved.
+* **Monitoring**:
+	* Assess disease activity (DAS28/CDAI) every 1-3 months;
+	* Adjust therapy step-up algorithm until target is achieved.
 
 ### First-Line csDMARD Therapy in Rheumatoid Arthritis
 * **Conventional Synthetic DMARDs (csDMARDs)**: Initiate ASAP after diagnosis to prevent erosions.
@@ -165,35 +207,49 @@
   * **JAK inhibitors (JAKi)**: Tofacitinib, Baricitinib, Upadacitinib. PO administration.
 
 ### Pre-Biologic / Pre-DMARD Screening Protocol in Hong Kong
-* **Tuberculosis (TB) screen**: Mandatory in HK. CXR + IGRA (QuantiFERON) or Mantoux test. Latent TB must be treated (e.g., Isoniazid for 6-9 months) before starting biologics.
-* **Hepatitis screen**: HBsAg, Anti-HBs, Anti-HBc, Anti-HCV. Risk of HBV reactivation (requires prophylactic Entecavir).
-* **Baseline labs**: CBC (marrow baseline), LFT/RFT (MTX toxicity baseline).
+* **Tuberculosis (TB) screen**:
+	* Mandatory in HK.
+	* CXR + IGRA (QuantiFERON) or Mantoux test.
+	* Latent TB must be treated (e.g., Isoniazid for 6-9 months) before starting biologics.
+* **Hepatitis screen**:
+	* HBsAg, Anti-HBs, Anti-HBc, Anti-HCV.
+	* Risk of HBV reactivation (requires prophylactic Entecavir).
+* **Baseline labs**:
+	* CBC (marrow baseline).
+	* LFT/RFT (MTX toxicity baseline).
 
 ### Non-Pharmacological & Lifestyle Management in Rheumatoid Arthritis
-* **Smoking cessation**: Absolute priority. Smoking reduces DMARD efficacy and drives disease progression.
+* **Smoking cessation**:
+	* Absolute priority.
+	* Smoking reduces DMARD efficacy and drives disease progression.
 * **Allied Health**:
-  * **Physiotherapy (PT)**: Maintain ROM, muscle strengthening, hydrotherapy.
-  * **Occupational Therapy (OT)**: Joint protection techniques, assistive devices, customized splints.
-* **Vaccinations**: Influenza, Pneumococcal, VZV (recombinant), COVID-19. Give *before* starting biologics. **No live vaccines** whilst on biologics.
+	* **Physiotherapy (PT)**: Maintain ROM, muscle strengthening, hydrotherapy.
+	* **Occupational Therapy (OT)**: Joint protection techniques, assistive devices, customized splints.
+* **Vaccinations**:
+	* Influenza, Pneumococcal, VZV (recombinant), COVID-19.
+	* Give *before* starting biologics.
+	* **No live vaccines** whilst on biologics.
 
 ## 8. Risk Stratification, Clinical Scoring Systems & Prognosis
 
 ### Disease Activity Score 28 (DAS28) in Rheumatoid Arthritis
 * **Components**:
-  1. Tender Joint Count (TJC) out of 28 joints.
-  2. Swollen Joint Count (SJC) out of 28 joints.
-  3. Inflammatory marker (ESR or CRP).
-  4. Patient Global Assessment (Visual Analog Scale 0-100).
+	1. Tender Joint Count (TJC) out of 28 joints.
+	2. Swollen Joint Count (SJC) out of 28 joints.
+	3. Inflammatory marker (ESR or CRP).
+	4. Patient Global Assessment (Visual Analog Scale 0-100).
 * **Scoring Interpretation**:
-  * **> 5.1**: High disease activity.
-  * **3.2 - 5.1**: Moderate disease activity.
-  * **2.6 - 3.2**: Low disease activity.
-  * **< 2.6**: Remission.
+	* **> 5.1**: High disease activity.
+	* **3.2 - 5.1**: Moderate disease activity.
+	* **2.6 - 3.2**: Low disease activity.
+	* **< 2.6**: Remission.
 
 ### Clinical Disease Activity Index (CDAI)
 * **Utility**: Does not require blood tests (ESR/CRP), useful for immediate bedside clinical decision-making.
 * **Components**: TJC(28) + SJC(28) + Patient Global Assessment (0-10) + Provider Global Assessment (0-10).
-* **Scoring**: ≤ 2.8 = Remission; > 22 = High disease activity.
+* **Scoring**:
+	* ≤ 2.8 = Remission;
+	* 22 = High disease activity.
 
 ### Poor Prognostic Factors in Rheumatoid Arthritis
 * High titers of RF and/or Anti-CCP.
@@ -209,25 +265,47 @@
 * **Tendon rupture**: Commonly affects **Extensor Pollicis Longus (EPL)** due to friction over a roughened Lister's tubercle.
 * **Cervical spine myelopathy**: From C1/C2 (atlantoaxial) subluxation causing cord compression.
 * **Secondary Osteoarthritis**: Degeneration of structurally compromised joints.
+![image|250](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/074deed89f1dae7e8de8913868d8cc7b.png)
 
 ### Extra-Articular Complications of Rheumatoid Arthritis
-* **Cardiovascular**: Accelerated atherosclerosis. ↑ Risk of Ischemic Heart Disease, MI, and Stroke (leading cause of mortality).
+* **Cardiovascular**:
+	* Accelerated atherosclerosis.
+	* ↑ Risk of Ischemic Heart Disease, MI, and Stroke (leading cause of mortality).
 * **Respiratory**:
-  * **Rheumatoid Interstitial Lung Disease (ILD)**: Progressive pulmonary fibrosis (UIP or NSIP pattern).
-  * **Caplan Syndrome**: Rheumatoid arthritis + Pneumoconiosis (multiple distinct intrapulmonary nodules).
-* **Renal**: **Secondary (AA) Amyloidosis** due to chronic inflammation → Nephrotic syndrome/Renal failure.
-* **Hematological**: **Felty Syndrome** (Triad: RA + Splenomegaly + Neutropenia).
+	* **Rheumatoid Interstitial Lung Disease (ILD)**: Progressive pulmonary fibrosis (UIP or NSIP pattern).
+	* **Caplan Syndrome**: Rheumatoid arthritis + Pneumoconiosis (multiple distinct intrapulmonary nodules).
+* **Renal**:
+	* **Secondary (AA) Amyloidosis** due to chronic inflammation → Nephrotic syndrome/Renal failure.
+* **Hematological**:
+	* **Felty Syndrome** (Triad: RA + Splenomegaly + Neutropenia).
 
 ### Medication Adverse Effects in Rheumatoid Arthritis
-* **Methotrexate (MTX)**: Hepatotoxicity/fibrosis, stomatitis, bone marrow suppression, teratogenicity (Category X), MTX-induced pneumonitis.
-* **Hydroxychloroquine (HCQ)**: Irreversible macular toxicity (bull's-eye maculopathy) → requires annual OCT/visual field screening.
-* **Sulfasalazine**: Oligospermia (reversible), Stevens-Johnson Syndrome (SJS), hemolytic anemia in G6PD deficiency.
-* **Biologics (Anti-TNF)**: Reactivation of Latent TB / Hepatitis B, demyelinating disease, drug-induced lupus, increased risk of opportunistic infections.
-* **JAK Inhibitors**: Increased risk of VTE (DVT/PE), major adverse cardiovascular events (MACE), and Herpes Zoster reactivation.
+* **Methotrexate (MTX)**:
+	* Hepatotoxicity/fibrosis.
+	* Stomatitis.
+	* Bone marrow suppression.
+	* Teratogenicity (Category X).
+	* MTX-induced pneumonitis.
+* **Hydroxychloroquine (HCQ)**:
+	* Irreversible macular toxicity (bull's-eye maculopathy) → requires annual OCT/visual field screening.
+* **Sulfasalazine**:
+	* Oligospermia (reversible).
+	* Stevens-Johnson Syndrome (SJS).
+	* Hemolytic anemia in G6PD deficiency.
+* **Biologics (Anti-TNF)**:
+	* Reactivation of Latent TB / Hepatitis B.
+	* Demyelinating disease.
+	* Drug-induced lupus.
+	* Increased risk of opportunistic infections.
+* **JAK Inhibitors**:
+	* Increased risk of VTE (DVT/PE).
+	* Major adverse cardiovascular events (MACE).
+	* Herpes Zoster reactivation.
 
 ## 10. Examiner's Pearls
 
 * Viva Question: What is the primary molecular target of Rheumatoid Factor? Answer: An IgM autoantibody directed against the Fc portion of human IgG.
+	![image|450](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/a36965e9967d803d276d5abc8cc95e43.png)
 * Viva Question: What are the classic plain film X-ray findings of RA? Answer: L-E-S-S: Loss of joint space, Erosions (marginal), Soft tissue swelling, Subluxation/periarticular osteopenia.
 * Trap: Assuming a negative Rheumatoid Factor excludes the diagnosis of RA. Pearl: Approximately 20-30% of RA cases are "seronegative". Check Anti-CCP, which has a much higher specificity (>95%) and can be positive even when RF is negative.
 * Pitfall: Prescribing Methotrexate daily instead of weekly. Methotrexate for RA is strictly a ONCE WEEKLY dose. Prescribing it daily is a classic, potentially fatal medical error leading to severe bone marrow suppression and pancytopenia.
