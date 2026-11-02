@@ -32,7 +32,7 @@
 ### Molecular and Cytokine Mechanisms in Rheumatoid Arthritis
 * **T-cell activation**: CD4+ Th1 and Th17 cells drive local inflammation.
 * **Macrophage activation**: Major source of pro-inflammatory cytokines: **TNF-α, IL-1, IL-6**.
-	* **B-cell activation**: Produce autoantibodies (RF, anti-CCP), forming local immune complexes → complement activation.
+* **B-cell activation**: Produce autoantibodies (RF, anti-CCP), forming local immune complexes → complement activation.
 * **Angiogenesis**: ↑ VEGF promotes neoangiogenesis feeding the growing pannus.
 ![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/20c4bd0d5d5cf18c71fe3fdb88d1f2c1.png)
 
