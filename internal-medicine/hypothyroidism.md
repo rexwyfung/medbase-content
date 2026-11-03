@@ -263,7 +263,8 @@
 
 ## 10. Examiner's Pearls
 
-* Viva Question: What is the classic TFT pattern in Sick Euthyroid Syndrome and why does it occur? Answer: Low/normal TSH, low Free T3, and elevated Reverse T3 (rT3). It occurs because severe illness alters peripheral deiodinase activity, converting T4 to inactive rT3 instead of active T3 to conserve energy.
+* Viva Question: What is the classic TFT pattern in Sick Euthyroid Syndrome and why does it occur? Answer: Low/normal TSH, low Free T3, and elevated Reverse T3 (rT3). It occurs because severe illness alters peripheral deiodinase activity, converting T4 to inactive rT3 instead of active T3 to conserve energy. 
+	![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/1d107b0e44c55d7ba8067c6e4fa41b3d.png)
 * Trap: Prescribing standard Levothyroxine dose (100mcg) immediately for an 80-year-old newly diagnosed hypothyroid patient. Pearl: Always start low (12.5 - 25mcg) and titrate slowly in the elderly or those with IHD to avoid precipitating acute myocardial infarction or arrhythmias.
 * Trap: Administering IV Levothyroxine as the very first medication in a patient presenting with Myxoedema Coma. Pearl: Always administer IV Hydrocortisone BEFORE IV Levothyroxine. Thyroid replacement increases basal metabolic rate and steroid clearance, which will precipitate a fatal Addisonian crisis if co-existing adrenal insufficiency is present (e.g., Schmidt syndrome/Polyglandular Autoimmune Syndrome type 2).
 * Pitfall: Patient complains their Levothyroxine "isn't working" and TSH remains high despite good compliance. Check their concurrent medications—they are likely taking it simultaneously with morning iron, calcium, or PPIs, which severely impairs absorption.
