@@ -7,8 +7,12 @@
 * **Core Result:** ↓ Cortisol (皮質醇) → lack of negative feedback → ↑ ACTH (促腎上腺皮質激素) → adrenal cortical hyperplasia & overproduction of intermediate metabolites.
 
 ### Etiologies & Enzyme Deficiencies
-* **21-Hydroxylase Deficiency (21-OHD):** >95% of CAH cases. Mutation in CYP21A2 gene.
-* **11β-Hydroxylase Deficiency (11β-OHD):** ~5% of cases. Causes ↑ deoxycorticosterone (DOC) → hypertension + hypokalemia.
+* **21-Hydroxylase Deficiency (21-OHD):**
+	* 95% of CAH cases.
+	* Mutation in CYP21A2 gene.
+* **11β-Hydroxylase Deficiency (11β-OHD):**
+	* ~5% of cases.
+	* Causes ↑ deoxycorticosterone (DOC) → hypertension + hypokalemia.
 * **Rare Variants:** 17α-Hydroxylase deficiency, 3β-Hydroxysteroid dehydrogenase (3β-HSD) deficiency, StAR protein deficiency (Congenital lipoid adrenal hyperplasia).
 
 ### Epidemiology in Hong Kong
@@ -19,9 +23,14 @@
 ## 2. Systemic Pathophysiology & Molecular Mechanisms
 
 ### 21-Hydroxylase (21-OH) Blockade Consequences
-* **Glucocorticoid Pathway:** Blocks 17-OH Progesterone (17-OHP) → 11-deoxycortisol. Result: ↓ Cortisol.
-* **Mineralocorticoid Pathway:** Blocks Progesterone → 11-deoxycorticosterone (DOC). Result: ↓ Aldosterone (醛固酮).
+* **Glucocorticoid Pathway:**
+	* Blocks 17-OH Progesterone (17-OHP) → 11-deoxycortisol.
+	* Result: ↓ Cortisol.
+* **Mineralocorticoid Pathway:**
+	* Blocks Progesterone → 11-deoxycorticosterone (DOC).
+	* Result: ↓ Aldosterone (醛固酮).
 * **ACTH Drive:** ↓ Cortisol → ↑ Pituitary ACTH secretion → Adrenal hyperstimulation.
+![image|450](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/0c3a657ebc77c92c47b0647ff55f44ce.png)
 
 ### Androgen Shunting
 * **Mechanism:** Accumulated precursors (17-OHP & Progesterone) are diverted into the intact sex steroid pathway.

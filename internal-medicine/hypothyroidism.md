@@ -8,39 +8,53 @@
 ### Etiologies of Primary Hypothyroidism
 * **Autoimmune:** **Hashimoto's Thyroiditis (橋本氏甲狀腺炎)** (most common in iodine-sufficient regions like HK).
 * **Iatrogenic:** 
-  * Post-ablative [Radioactive Iodine (RAI) therapy for thyrotoxicosis].
-  * Post-surgical (Total/subtotal thyroidectomy).
-  * External beam radiation therapy to neck (e.g., for Head & Neck cancers, Lymphoma).
+	* Post-ablative [Radioactive Iodine (RAI) therapy for thyrotoxicosis].
+	* Post-surgical (Total/subtotal thyroidectomy).
+	* External beam radiation therapy to neck (e.g., for Head & Neck cancers, Lymphoma).
 * **Drug-Induced:**
-  * **Amiodarone (胺碘酮):** via Wolff-Chaikoff effect (high iodine load).
-  * **Lithium (鋰):** inhibits hormone release.
-  * **Tyrosine Kinase Inhibitors:** e.g., Sunitinib.
-  * **Immune Checkpoint Inhibitors:** e.g., Pembrolizumab.
+	* **Amiodarone (胺碘酮):** via Wolff-Chaikoff effect (high iodine load).
+	* **Lithium (鋰):** inhibits hormone release.
+	* **Tyrosine Kinase Inhibitors:** e.g., Sunitinib.
+	* **Immune Checkpoint Inhibitors:** e.g., Pembrolizumab.
 * **Nutritional:** Severe iodine deficiency (rare in HK, common in developing nations).
-* **Infiltrative:** Riedel's thyroiditis, Amyloidosis, Sarcoidosis.
+* **Infiltrative:**
+	* Riedel's thyroiditis.
+	* Amyloidosis.
+	* Sarcoidosis.
 
 ### Local Epidemiology in Hong Kong
-* **Prevalence:** Affects ~5-10% of women and ~1-2% of men globally; highly prevalent in HK HA primary care clinics.
-* **Demographics:** Strong female predominance (F:M = 5:1 to 10:1); incidence ↑ with age.
-* **Context:** HK is iodine-replete; therefore, Hashimoto's thyroiditis accounts for >90% of spontaneous cases.
+* **Prevalence:**
+	* Affects ~5-10% of women and ~1-2% of men globally;
+	* Highly prevalent in HK HA primary care clinics.
+* **Demographics:**
+	* Strong female predominance (F:M = 5:1 to 10:1);
+	* Incidence ↑ with age.
+* **Context:**
+	* HK is iodine-replete;
+	  Therefore, Hashimoto's thyroiditis accounts for >90% of spontaneous cases.
 
 ## 2. Systemic Pathophysiology & Molecular Mechanisms
 
 ### Pathophysiology of Hashimoto's Thyroiditis
 * **Mechanism:** Autoimmune destruction of thyroid follicles mediated by CD8+ cytotoxic T-cells and autoantibodies.
 * **Key Autoantibodies:** 
-  * **Anti-Thyroid Peroxidase (Anti-TPO)**: inhibits organification of iodine.
-  * **Anti-Thyroglobulin (Anti-Tg)**.
+	* **Anti-Thyroid Peroxidase (Anti-TPO)**: inhibits organification of iodine.
+	* **Anti-Thyroglobulin (Anti-Tg)**.
 * **Histology:** Extensive lymphocytic infiltration with germinal center formation and metaplastic **Hürthle cells**.
 * **Progression:** Initial transient thyrotoxicosis ("Hashitoxicosis") from follicle destruction → progressive fibrosis → permanent hypothyroidism.
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/d1f37cd0a4b2dd7d6317e547abcad7bc.png)
 
 ### Mechanisms of Drug-Induced Hypothyroidism
-* **Amiodarone:** Contains ~37% iodine by weight. Massive iodine load triggers the **Wolff-Chaikoff effect** (autoregulatory inhibition of iodine organification and thyroid hormone synthesis). Gland fails to "escape" this block in susceptible individuals.
+* **Amiodarone:**
+	* Contains ~37% iodine by weight.
+	* Massive iodine load triggers the **Wolff-Chaikoff effect** (autoregulatory inhibition of iodine organification and thyroid hormone synthesis).
+	* Gland fails to "escape" this block in susceptible individuals.
 * **Lithium:** Concentrates in thyroid, directly inhibiting colloid pinocytosis and release of T3/T4 into circulation.
 
 ### Pathophysiology of Myxoedema (黏液性水腫)
 * **Mechanism:** ↓ thyroid hormone leads to ↑ accumulation of hydrophilic glycosaminoglycans (GAGs) (e.g., hyaluronic acid) in interstitial spaces.
 * **Effect:** Traps water, leading to classic non-pitting edema, thickened skin, macroglossia, and effusions.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/d51b5e4168398d9ec3eafed08d21239b.png)
 
 ## 3. Clinical Assessment (Detailed History & System-Specific Physical Signs ONLY)
 
@@ -56,16 +70,31 @@
 * **Queen Anne's Sign:** Loss of the outer 1/3 of the eyebrows.
 * **Oropharynx:** **Macroglossia (巨舌)**, hoarse/croaky voice.
 * **Vitals:** Hypothermia, weight gain.
-
+![image|200](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/ce3746e96aeda31e9f8778ce3cf7b51b.png)
 ### System-Specific Physical Signs of Hypothyroidism
-* **Cardiovascular:** Bradycardia, faint heart sounds (if pericardial effusion), mild diastolic hypertension.
-* **Neurological:** **Delayed relaxation phase of deep tendon reflexes (Woltman's sign)**, proximal myopathy, bilateral Carpal Tunnel Syndrome (正中神經受壓), cerebellar ataxia (rare).
-* **Dermatological:** Dry/coarse/cold skin, brittle nails, coarse/thinning hair, generalized non-pitting edema.
+* **Cardiovascular:**
+	* Bradycardia.
+	* Faint heart sounds (if pericardial effusion).
+	* Mild diastolic hypertension.
+* **Neurological:**
+	* **Delayed relaxation phase of deep tendon reflexes (Woltman's sign)**.
+	* Proximal myopathy.
+	* Bilateral Carpal Tunnel Syndrome (正中神經受壓).
+	* Cerebellar ataxia (rare).
+* **Dermatological:**
+	* Dry/coarse/cold skin.
+	* Brittle nails.
+	* Coarse/thinning hair.
+	* Generalized non-pitting edema.
 * **Endocrine:** +/- Goitre (firm, rubbery in Hashimoto's; absent in post-ablative).
 
 ### Presentation of Myxoedema Coma (黏液性水腫昏迷)
 * **Neurological:** Profound altered mental status, stupor, coma, seizures.
-* **Vitals:** Severe hypothermia (< 35.5°C), severe bradycardia, hypoventilation (type 2 respiratory failure), hypotension.
+* **Vitals:**
+	* Severe hypothermia (< 35.5°C).
+	* Severe bradycardia.
+	* Hypoventilation (type 2 respiratory failure).
+	* Hypotension.
 
 ## 4. Differential Diagnoses & Discriminatory Features
 
@@ -81,19 +110,34 @@
 ## 5. Tiered Investigations (Bedside, Bloods, Imaging, Biopsy & Diagnostic Criteria)
 
 ### Bedside Investigations for Hypothyroidism
-* **ECG:** **Sinus bradycardia**, **low voltage QRS complexes**, flattened or inverted T waves (can indicate concurrent pericardial effusion or diffuse myocardial infiltration).
+* **ECG:**
+	* **Sinus bradycardia**.
+	* **Low voltage QRS complexes**.
+	* Flattened or inverted T waves (can indicate concurrent pericardial effusion or diffuse myocardial infiltration).
 * **Urinalysis:** R/o proteinuria (differentiating from nephrotic syndrome).
+![image|350](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/9142f61804646f4987bfa43fee7a864a.png)
 
 ### Biochemical Blood Investigations for Hypothyroidism
-* **Thyroid Function Tests (TFTs):** Primary test. ↑ TSH, ↓ Free T4.
-* **Autoantibody Screen:** **Anti-TPO** (+ve in 90% Hashimoto's), **Anti-Tg**.
-* **Lipid Profile:** Hypercholesterolemia (↓ LDL receptor clearance).
-* **Complete Blood Count (CBC):** Normocytic or macrocytic anemia (due to ↓ B12 absorption in associated pernicious anemia, or direct effect of ↓ T4).
-* **Renal/Electrolytes:** Hyponatremia (dilutional from ↓ free water clearance), ↑ Creatine Kinase (CK) (myopathy).
+* **Thyroid Function Tests (TFTs):**
+	* Primary test.
+	* ↑ TSH, ↓ Free T4.
+* **Autoantibody Screen:**
+	* **Anti-TPO** (+ve in 90% Hashimoto's).
+	* **Anti-Tg**.
+* **Lipid Profile:**
+	* Hypercholesterolemia (↓ LDL receptor clearance).
+* **Complete Blood Count (CBC):**
+	* Normocytic or macrocytic anemia (due to ↓ B12 absorption in associated pernicious anemia, or direct effect of ↓ T4).
+* **Renal/Electrolytes:**
+	* Hyponatremia (dilutional from ↓ free water clearance).
+	* ↑ Creatine Kinase (CK) (myopathy).
 
 ### Imaging Studies for Hypothyroidism
-* **Ultrasound Neck:** Indicated only if nodular goitre is palpated or rapid enlargement occurs (r/o thyroid lymphoma). Shows heterogeneous, hypoechoic parenchyma in Hashimoto's.
+* **Ultrasound Neck:**
+	* Indicated only if nodular goitre is palpated or rapid enlargement occurs (r/o thyroid lymphoma).
+	* Shows heterogeneous, hypoechoic parenchyma in Hashimoto's.
 * **Echocardiogram:** Indicated if cardiomegaly on CXR or low voltage ECG to detect **Pericardial Effusion**.
+![image|450](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/4992280f5f08a2e38a36afb6b5f5ae4f.png)
 
 ### Diagnostic Criteria for Thyroid States
 | Thyroid State | TSH Level | Free T4 Level | Free T3 Level |
@@ -109,20 +153,20 @@
 * **Airway/Breathing:** Intubation/mechanical ventilation often required for hypercapnic respiratory failure.
 * **Steroid Administration (CRITICAL FIRST STEP):** Give **IV Hydrocortisone 100mg Q8H** *BEFORE* starting thyroid hormone replacement to prevent precipitating an acute Addisonian crisis (coexisting autoimmune adrenal insufficiency is common).
 * **Thyroid Replacement:** 
-  * **IV Levothyroxine (T4):** Loading dose 200-400 mcg IV, followed by 50-100 mcg IV daily until oral route tolerated.
-  * +/- **IV Liothyronine (T3):** (Optional/adjunct) for rapid onset, but high risk of arrhythmias; use caution in elderly/IHD.
+	* **IV Levothyroxine (T4):** Loading dose 200-400 mcg IV, followed by 50-100 mcg IV daily until oral route tolerated.
+	* +/- **IV Liothyronine (T3):** (Optional/adjunct) for rapid onset, but high risk of arrhythmias; use caution in elderly/IHD.
 * **Supportive Care:** 
-  * **Passive rewarming** only (active rewarming causes vasodilation and severe hypotension).
-  * Cautious IV crystalloids for hypotension (avoid fluid overload).
-  * Broad-spectrum IV antibiotics (sepsis is a common precipitant).
+	* **Passive rewarming** only (active rewarming causes vasodilation and severe hypotension).
+	* Cautious IV crystalloids for hypotension (avoid fluid overload).
+	* Broad-spectrum IV antibiotics (sepsis is a common precipitant).
 
 ## 7. Chronic Management Algorithm & Disease-Modifying Therapies (Pharmacology & Lifestyle)
 
 ### Levothyroxine (左旋甲狀腺素) Initiation and Titration Algorithm
 * **Standard Adult Dosing:** Start at **1.6 mcg/kg/day** PO (usually 50-100 mcg daily).
 * **Elderly / Ischaemic Heart Disease (IHD):** 
-  * Start low at **12.5 - 25 mcg/day** to prevent precipitating angina, arrhythmias, or myocardial infarction.
-  * Titrate slowly by 25 mcg increments every 4-6 weeks.
+	* Start low at **12.5 - 25 mcg/day** to prevent precipitating angina, arrhythmias, or myocardial infarction.
+	* Titrate slowly by 25 mcg increments every 4-6 weeks.
 * **Monitoring:** Check TSH every 6-8 weeks after any dose adjustment. Once stable, check TFTs annually.
 * **Therapeutic Target:** TSH in lower half of reference range (typically 0.5 - 2.5 mIU/L).
 
