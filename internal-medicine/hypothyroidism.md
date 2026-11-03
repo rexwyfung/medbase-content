@@ -163,70 +163,103 @@
 ## 7. Chronic Management Algorithm & Disease-Modifying Therapies (Pharmacology & Lifestyle)
 
 ### Levothyroxine (左旋甲狀腺素) Initiation and Titration Algorithm
-* **Standard Adult Dosing:** Start at **1.6 mcg/kg/day** PO (usually 50-100 mcg daily).
+* **Standard Adult Dosing:**
+	* Start at **1.6 mcg/kg/day** PO (usually 50-100 mcg daily).
 * **Elderly / Ischaemic Heart Disease (IHD):** 
 	* Start low at **12.5 - 25 mcg/day** to prevent precipitating angina, arrhythmias, or myocardial infarction.
 	* Titrate slowly by 25 mcg increments every 4-6 weeks.
-* **Monitoring:** Check TSH every 6-8 weeks after any dose adjustment. Once stable, check TFTs annually.
-* **Therapeutic Target:** TSH in lower half of reference range (typically 0.5 - 2.5 mIU/L).
+* **Monitoring:**
+	* Check TSH every 6-8 weeks after any dose adjustment.
+	* Once stable, check TFTs annually.
+* **Therapeutic Target:**
+	* TSH in lower half of reference range (typically 0.5 - 2.5 mIU/L).
 
 ### Levothyroxine Absorption Issues and Counseling
 * **Timing:** Must be taken on an **empty stomach** (fasting), typically 30-60 mins before breakfast.
 * **Interactions (The "4-Hour Rule"):** Must separate Levothyroxine administration by at least 4 hours from:
-  * Iron supplements (Ferrous sulphate).
-  * Calcium supplements (Calcium carbonate).
-  * Antacids (Aluminium hydroxide).
-  * Proton Pump Inhibitors (PPIs).
+	* Iron supplements (Ferrous sulphate).
+	* Calcium supplements (Calcium carbonate).
+	* Antacids (Aluminium hydroxide).
+	* Proton Pump Inhibitors (PPIs).
 
 ### Management of Hypothyroidism in Pregnancy
-* **Pathophysiology:** ↑ estrogen ↑ Thyroid Binding Globulin (TBG) → ↓ Free T4. Also ↑ fetal demand.
+* **Pathophysiology:**
+	* ↑ estrogen ↑ Thyroid Binding Globulin (TBG) → ↓ Free T4.
+	* Also ↑ fetal demand.
 * **Action upon Pregnancy Confirmation:** Immediately **↑ Levothyroxine dose by 30-50%** (e.g., take 2 extra doses per week).
 * **Strict Trimester-Specific TSH Targets:** To prevent fetal neurodevelopmental defects and miscarriage.
-  * 1st Trimester: < 2.5 mIU/L
-  * 2nd/3rd Trimester: < 3.0 mIU/L
+	* 1st Trimester: < 2.5 mIU/L
+	* 2nd/3rd Trimester: < 3.0 mIU/L
 * **Monitoring:** Check TFTs every 4 weeks during the first half of pregnancy.
 
 ### Management Algorithm for Subclinical Hypothyroidism (亞臨床甲狀腺功能減退症)
 * **Definition:** ↑ TSH with normal Free T4.
 * **Treat with Levothyroxine IF:**
-  * TSH > 10 mIU/L (high risk of progression to overt hypothyroidism and heart failure).
-  * TSH is 4.5 - 10 mIU/L **AND** any of the following are present:
-    * Highly symptomatic.
-    * Positive Anti-TPO antibodies.
-    * Pregnancy or actively planning pregnancy.
-    * Goitre present.
-* **No Treatment:** If elderly (>70 yrs) with mild ↑ TSH (4.5-7.0), treatment may cause harm (AF, osteoporosis); observe and monitor TFTs every 6-12 months.
+	* TSH > 10 mIU/L (high risk of progression to overt hypothyroidism and heart failure).
+	* TSH is 4.5 - 10 mIU/L **AND** any of the following are present:
+	    * Highly symptomatic.
+	    * Positive Anti-TPO antibodies.
+	    * Pregnancy or actively planning pregnancy.
+	    * Goitre present.
+* **No Treatment:**
+	* If elderly (>70 yrs) with mild ↑ TSH (4.5-7.0), treatment may cause harm (AF, osteoporosis);
+	* Observe and monitor TFTs every 6-12 months.
 
 ## 8. Risk Stratification, Clinical Scoring Systems & Prognosis
 
 ### Diagnostic Scoring for Myxoedema Coma (Popoviciu's Scoring System)
 * **Purpose:** Quantifies probability of Myxoedema Coma in severe hypothyroid patients.
 * **Parameters Evaluated:**
-  * Hypothermia severity.
-  * CNS disturbance (lethargy vs coma).
-  * GI issues (decreased motility/ileus).
-  * Precipitating event present.
-  * Cardiovascular (bradycardia, ECG changes).
-* **Interpretation:** Score >60 = diagnostic; 25-59 = at risk; <25 = unlikely.
+	* Hypothermia severity.
+	* CNS disturbance (lethargy vs coma).
+	* GI issues (decreased motility/ileus).
+	* Precipitating event present.
+	* Cardiovascular (bradycardia, ECG changes).
+* **Interpretation:**
+	* Score >60 = diagnostic;
+	* 25-59 = at risk;
+	* <25 = unlikely.
 
 ### Prognosis of Hypothyroidism
-* **Autoimmune (Hashimoto's):** Irreversible; requires lifelong Levothyroxine replacement. Excellent prognosis with adherence.
-* **Drug-Induced (e.g., Amiodarone):** Often reversible upon discontinuation of offending agent, though Amiodarone's long half-life means recovery takes months.
-* **Myxoedema Coma:** Highly lethal; mortality rate 20-60% even with aggressive ICU management.
+* **Autoimmune (Hashimoto's):**
+	* Irreversible; requires lifelong Levothyroxine replacement.
+	* Excellent prognosis with adherence.
+* **Drug-Induced (e.g., Amiodarone):**
+	* Often reversible upon discontinuation of offending agent, though Amiodarone's long half-life means recovery takes months.
+* **Myxoedema Coma:**
+	* Highly lethal; mortality rate 20-60% even with aggressive ICU management.
 
 ## 9. Multi-System Complications (End-Organ Damage & Drug Adverse Effects)
 
 ### End-Organ Complications of Untreated Hypothyroidism
-* **Cardiovascular:** **Pericardial effusion**, accelerated atherosclerosis (due to hyperlipidemia), worsening of heart failure, bradyarrhythmias.
-* **Neurological:** Peripheral neuropathy, irreversible cognitive decline/dementia (if prolonged untreated).
-* **Reproductive:** Infertility, high risk of miscarriage, pre-eclampsia, congenital cognitive impairment in offspring (cretinism).
+* **Cardiovascular:**
+	* **Pericardial effusion**.
+	* Accelerated atherosclerosis (due to hyperlipidemia).
+	* Worsening of heart failure.
+	* Bradyarrhythmias.
+* **Neurological:**
+	* Peripheral neuropathy.
+	* Irreversible cognitive decline/dementia (if prolonged untreated).
+* **Reproductive:**
+	* Infertility.
+	* High risk of miscarriage.
+	* Pre-eclampsia.
+	* Congenital cognitive impairment in offspring (cretinism).
 * **Hematological:** Anemia.
 * **Metabolic:** Severe hyponatremia.
 
 ### Adverse Effects of Levothyroxine Over-Replacement (Iatrogenic Thyrotoxicosis)
-* **Cardiovascular:** **Atrial Fibrillation (心房顫動)**, exacerbation of angina, palpitations.
-* **Musculoskeletal:** Accelerated bone resorption leading to **Osteoporosis (骨質疏鬆症)**.
-* **Systemic:** Weight loss, heat intolerance, anxiety, tremors.
+* **Cardiovascular:**
+	* **Atrial Fibrillation (心房顫動)**.
+	* Exacerbation of angina.
+	* Palpitations.
+* **Musculoskeletal:**
+	* Accelerated bone resorption leading to **Osteoporosis (骨質疏鬆症)**.
+* **Systemic:**
+	* Weight loss.
+	* Heat intolerance.
+	* Anxiety.
+	* Tremors.
 
 ## 10. Examiner's Pearls
 
