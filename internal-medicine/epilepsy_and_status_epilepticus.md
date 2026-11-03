@@ -4,16 +4,16 @@
 
 ### Clinical Definition of Epilepsy (癲癇)
 * **Clinical diagnosis** requiring ANY of the following (ILAE 2014 criteria):
-* **Criterion 1**: ≥2 unprovoked (or reflex) seizures occurring >24 hours apart
-* **Criterion 2**: 1 unprovoked seizure AND a high probability of further seizures (≥60% risk over next 10 years, e.g., +ve structural MRI lesion or epileptiform EEG)
-* **Criterion 3**: Diagnosis of a specific **Epilepsy Syndrome** (e.g., Juvenile Myoclonic Epilepsy)
+	* **Criterion 1**: ≥2 unprovoked (or reflex) seizures occurring >24 hours apart
+	* **Criterion 2**: 1 unprovoked seizure AND a high probability of further seizures (≥60% risk over next 10 years, e.g., +ve structural MRI lesion or epileptiform EEG)
+	* **Criterion 3**: Diagnosis of a specific **Epilepsy Syndrome** (e.g., Juvenile Myoclonic Epilepsy)
 
 ### Classification of Seizures (ILAE 2017)
-| Onset | Awareness | Motor Symptoms | Non-Motor Symptoms |
-| :--- | :--- | :--- | :--- |
-| **Focal (局灶性)** | Intact vs Impaired | Automatism, Atonic, Clonic, Spasm | Autonomic, Behavior arrest, Cognitive, Sensory |
-| **Generalized (全面性)** | Always impaired | Tonic-clonic, Clonic, Tonic, Myoclonic | Absence (失神發作) |
-| **Unknown** | Unclassified | Tonic-clonic, Spasm | Behavior arrest |
+| Onset                 | Awareness          | Motor Symptoms                         | Non-Motor Symptoms                             |
+| :-------------------- | :----------------- | :------------------------------------- | :--------------------------------------------- |
+| **Focal (局灶性)**       | Intact vs Impaired | Automatism, Atonic, Clonic, Spasm      | Autonomic, Behavior arrest, Cognitive, Sensory |
+| **Generalized (全面性)** | Always impaired    | Tonic-clonic, Clonic, Tonic, Myoclonic | Absence (失神發作)                                 |
+| **Unknown**           | Unclassified       | Tonic-clonic, Spasm                    | Behavior arrest                                |
 
 ### Etiologies of Seizures (VINDICATE)
 * **V**ascular: Stroke (ischaemic/haemorrhagic), AVM, cerebral venous sinus thrombosis
@@ -42,19 +42,20 @@
 * **Receptor trafficking failure**: Prolonged seizures (minutes) → maladaptive synaptic changes
 * **Inhibitory loss**: Internalization of **GABA-A receptors** from synaptic membrane into cytoplasm → resistance to Benzodiazepines
 * **Excitatory surge**: Externalization of **NMDA receptors** to synaptic membrane → self-sustaining hypersynchronous firing
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/e09b1ac82b54247d147e49f384b16a5f.png)
 
 ## 3. Clinical Assessment (Detailed History & System-Specific Physical Signs ONLY)
 
 ### History: Pre-Ictal (Aura) & Ictal Phase
 * **Focal onset indicators (Aura)**:
-* **Temporal lobe**: Epigastric rising sensation, olfactory/gustatory hallucinations, déjà vu, fear
-* **Frontal lobe**: Motor posturing (Jacksonian march), vocalization, bicycling movements
-* **Parietal lobe**: Contralateral paresthesia/numbness
-* **Occipital lobe**: Visual flashes (teichopsia), fortification spectra
+	* **Temporal lobe**: Epigastric rising sensation, olfactory/gustatory hallucinations, déjà vu, fear
+	* **Frontal lobe**: Motor posturing (Jacksonian march), vocalization, bicycling movements
+	* **Parietal lobe**: Contralateral paresthesia/numbness
+	* **Occipital lobe**: Visual flashes (teichopsia), fortification spectra
 * **Ictal features (Collateral history crucial)**: 
-* **Vocalization**: Ictal cry (forced expiration against closed glottis)
-* **Motor**: Tonic stiffening → clonic jerking
-* **Lateralizing signs**: Version (forced eye/head deviation AWAY from seizure focus), Figure-of-4 posturing
+	* **Vocalization**: Ictal cry (forced expiration against closed glottis)
+	* **Motor**: Tonic stiffening → clonic jerking
+	* **Lateralizing signs**: Version (forced eye/head deviation AWAY from seizure focus), Figure-of-4 posturing
 
 ### History: Post-Ictal Phase
 * **Duration**: Usually 10-30 minutes of confusion/lethargy
@@ -65,50 +66,54 @@
 * **Vitals**: Fever (infection trigger)
 * **Oral cavity**: **Lateral tongue biting** (highly specific for generalized tonic-clonic seizure)
 * **Skin (Neurocutaneous stigmata)**:
-* **Tuberous Sclerosis**: Ash-leaf spots, adenoma sebaceum, Shagreen patch
-* **Neurofibromatosis**: Café-au-lait spots, neurofibromas, axillary freckling
+	* **Tuberous Sclerosis**: Ash-leaf spots, adenoma sebaceum, Shagreen patch
+	* **Neurofibromatosis**: Café-au-lait spots, neurofibromas, axillary freckling
 * **Neurological**: Look for asymmetrical drift, reflex asymmetry, papilledema (↑ ICP)
 * **Provocation testing**: Hyperventilation (triggers absence seizures in clinic)
 
 ## 4. Differential Diagnoses & Discriminatory Features
 
 ### Differential Diagnoses of Seizures (Syncope vs Seizure vs PNES)
-| Feature | Vasovagal/Cardiogenic Syncope | Epileptic Seizure | Psychogenic Non-Epileptic Seizure (PNES) |
-| :--- | :--- | :--- | :--- |
-| **Triggers** | Posture change, pain, stress, exertion | Sleep deprivation, missed AEDs, alcohol | Emotional stress, presence of audience |
-| **Onset** | Gradual (tunnel vision, pallor, sweating) | Sudden (or specific aura) | Fluctuating, stuttering onset |
-| **Motor** | Brief myoclonus rarely | Rhythmic, synchronous clonic jerks | Asynchronous, thrashing, pelvic thrusting |
-| **Eyes** | Eyes usually open, rolled up | Eyes usually open, deviated laterally | Eyes tightly closed, resistance to opening |
-| **Post-event** | Rapid recovery, no severe confusion | Prolonged post-ictal confusion | Rapid recovery, crying/hyperventilating |
+| Feature        | Vasovagal/Cardiogenic Syncope             | Epileptic Seizure                       | Psychogenic Non-Epileptic Seizure (PNES)   |
+| :------------- | :---------------------------------------- | :-------------------------------------- | :----------------------------------------- |
+| **Triggers**   | Posture change, pain, stress, exertion    | Sleep deprivation, missed AEDs, alcohol | Emotional stress, presence of audience     |
+| **Onset**      | Gradual (tunnel vision, pallor, sweating) | Sudden (or specific aura)               | Fluctuating, stuttering onset              |
+| **Motor**      | Brief myoclonus rarely                    | Rhythmic, synchronous clonic jerks      | Asynchronous, thrashing, pelvic thrusting  |
+| **Eyes**       | Eyes usually open, rolled up              | Eyes usually open, deviated laterally   | Eyes tightly closed, resistance to opening |
+| **Post-event** | Rapid recovery, no severe confusion       | Prolonged post-ictal confusion          | Rapid recovery, crying/hyperventilating    |
 
 ## 5. Tiered Investigations (Bedside, Bloods, Imaging, Biopsy & Diagnostic Criteria)
 
 ### Bedside & Blood Investigations for First Seizure
 * **Bedside**:
-* **Capillary Blood Glucose (CBG)**: Mandatory to rule out hypoglycemia
-* **ECG**: Rule out cardiogenic syncope (Long QT syndrome, Brugada, heart block)
+	* **Capillary Blood Glucose (CBG)**: Mandatory to rule out hypoglycemia
+	* **ECG**: Rule out cardiogenic syncope (Long QT syndrome, Brugada, heart block)
 * **Bloods**:
-* **Electrolytes**: Na+, Ca2+, Mg2+, PO4- (metabolic triggers)
-* **Renal & Liver Function**: Uremia, hepatic encephalopathy, baseline before AED Rx
-* **CK**: ↑ highly suggestive of genuine tonic-clonic seizure
-* **Toxicology**: Alcohol level, illicit drug screen (urine)
-* **Prolactin**: Transient ↑ (within 20 mins of generalized seizure, unreliable)
+	* **Electrolytes**: Na+, Ca2+, Mg2+, PO4- (metabolic triggers)
+	* **Renal & Liver Function**: Uremia, hepatic encephalopathy, baseline before AED Rx
+	* **CK**: ↑ highly suggestive of genuine tonic-clonic seizure
+	* **Toxicology**: Alcohol level, illicit drug screen (urine)
+	* **Prolactin**: Transient ↑ (within 20 mins of generalized seizure, unreliable)
 
 ### Indications & Role of Electroencephalogram (EEG) (腦電圖)
 * **Role**: Supports clinical diagnosis, classifies seizure type, prognosticates recurrence
 * **Timing**: Ideally within 24-48h of first unprovoked seizure
-* **Yield**: Standard resting EEG has ~50% sensitivity; ↑ to 80% with sleep deprivation or provocation (photic stimulation/hyperventilation)
-* **Significance**: Normal EEG does NOT exclude epilepsy; interictal epileptiform discharges (IEDs) strongly predict recurrence
+* **Yield**:
+	* Standard resting EEG has ~50% sensitivity;
+	* ↑ to 80% with sleep deprivation or provocation (photic stimulation/hyperventilation)
+* **Significance**:
+	* Normal EEG does NOT exclude epilepsy;
+	* Interictal epileptiform discharges (IEDs) strongly predict recurrence
 
 ### Indications for Neuroimaging (MRI/CT)
 * **Modality of choice**: **Epilepsy protocol MRI Brain** (coronal thin slices to view hippocampi)
-* **Role**: Identifies structural etiologies (Hippocampal sclerosis, tumors, cortical dysplasia)
+	* **Role**: Identifies structural etiologies (Hippocampal sclerosis, tumors, cortical dysplasia)
 * **Indications for Urgent CT Brain**:
-* **New focal neurological deficit**
-* **Prolonged altered mental status**
-* **Recent head trauma**
-* **History of malignancy or immunosuppression**
-* **First seizure in age >40 years**
+	* **New focal neurological deficit**
+	* **Prolonged altered mental status**
+	* **Recent head trauma**
+	* **History of malignancy or immunosuppression**
+	* **First seizure in age >40 years**
 
 ## 6. Acute Exacerbation Management & Resuscitation (Flares/Emergencies)
 
@@ -122,17 +127,17 @@
 ### Status Epilepticus (癲癇重積狀態) Management Algorithm
 * **Definition**: Continuous seizure >5 mins OR ≥2 discrete seizures without complete recovery of consciousness in between
 * **Stage 1: Early Status (5-10 mins) - Abortive Rx**:
-* **IV Lorazepam** 4mg (repeat once after 5 mins if ongoing)
-* **Alternative**: IV/IM Midazolam or PR Diazepam (if no IV access)
+	* **IV Lorazepam** 4mg (repeat once after 5 mins if ongoing)
+	* **Alternative**: IV/IM Midazolam or PR Diazepam (if no IV access)
 * **Stage 2: Established Status (10-30 mins) - AED Loading**:
-* *Cross-reference EM module for strict dosing*
-* **IV Phenytoin** (requires cardiac monitoring) OR
-* **IV Sodium Valproate** OR
-* **IV Levetiracetam** 
+	* *Cross-reference EM module for strict dosing*
+	* **IV Phenytoin** (requires cardiac monitoring) OR
+	* **IV Sodium Valproate** OR
+	* **IV Levetiracetam** 
 * **Stage 3: Refractory Status (>30 mins) - Anesthesia**:
-* **Intubation and mechanical ventilation**
-* **IV Propofol** OR **IV Midazolam** infusion
-* **Continuous EEG monitoring (cEEG)** to achieve burst suppression
+	* **Intubation and mechanical ventilation**
+	* **IV Propofol** OR **IV Midazolam** infusion
+	* **Continuous EEG monitoring (cEEG)** to achieve burst suppression
 
 ## 7. Chronic Management Algorithm & Disease-Modifying Therapies (Pharmacology & Lifestyle)
 
@@ -156,10 +161,10 @@
 
 ### Hong Kong Transport Department Driving Regulations
 * **Group 1 Vehicles (Private car, motorcycle)**: 
-* Must be **seizure-free for at least 1 year**
-* Requires a certificate of fitness from a registered medical practitioner (usually neurologist)
+	* Must be **seizure-free for at least 1 year**
+	* Requires a certificate of fitness from a registered medical practitioner (usually neurologist)
 * **Group 2 Vehicles (Commercial, Taxi, Bus)**:
-* Usually **permanently barred** or requires minimum 10 years seizure-free off AEDs (strict individual assessment)
+	* Usually **permanently barred** or requires minimum 10 years seizure-free off AEDs (strict individual assessment)
 
 ### Epilepsy in Pregnancy & Teratogenicity
 * **Pre-conception**: Achieve optimal seizure control on monotherapy at lowest effective dose
@@ -173,10 +178,10 @@
 ### Risk of Recurrence After First Seizure
 * **Baseline risk**: ~30-40% recurrence within 2 years
 * **High-risk features (Recurrence >60%)**:
-* **Abnormal EEG** showing epileptiform discharges
-* **Structural lesion** on neuroimaging
-* **Focal neurologic exam deficit**
-* **Seizure occurring during sleep**
+	* **Abnormal EEG** showing epileptiform discharges
+	* **Structural lesion** on neuroimaging
+	* **Focal neurologic exam deficit**
+	* **Seizure occurring during sleep**
 
 ### Prognostic Factors for Seizure Freedom
 * **Good prognosis**: Idiopathic generalized epilepsy, normal MRI/EEG, rapid response to first AED
@@ -193,22 +198,22 @@
 
 ### Common Anti-Epileptic Drug (AED) Adverse Effects
 * **Sodium Valproate (丙戊酸鈉)**:
-* Weight gain, alopecia, tremor
-* Teratogenicity (Neural tube defects)
-* Hepatotoxicity, Polycystic Ovarian Syndrome (PCOS)
+	* Weight gain, alopecia, tremor
+	* Teratogenicity (Neural tube defects)
+	* Hepatotoxicity, Polycystic Ovarian Syndrome (PCOS)
 * **Carbamazepine (卡馬西平)**:
-* Stevens-Johnson Syndrome / Toxic Epidermal Necrolysis (SJS/TEN)
-* SIADH (Hyponatremia), Agranulocytosis
+	* Stevens-Johnson Syndrome / Toxic Epidermal Necrolysis (SJS/TEN)
+	* SIADH (Hyponatremia), Agranulocytosis
 * **Phenytoin (苯妥英)**:
-* Gingival hypertrophy, hirsutism, coarse facies
-* Cerebellar ataxia, nystagmus (dose-dependent toxicity)
-* Osteomalacia (Cytochrome P450 inducer → ↑ Vitamin D clearance)
+	* Gingival hypertrophy, hirsutism, coarse facies
+	* Cerebellar ataxia, nystagmus (dose-dependent toxicity)
+	* Osteomalacia (Cytochrome P450 inducer → ↑ Vitamin D clearance)
 * **Lamotrigine (拉莫三嗪)**:
-* SJS/TEN (risk ↑ if titrated too fast or combined with Valproate)
+	* SJS/TEN (risk ↑ if titrated too fast or combined with Valproate)
 * **Levetiracetam (左乙拉西坦)**:
-* Psychiatric side effects (Irritability, aggression, depression)
+	* Psychiatric side effects (Irritability, aggression, depression)
 * **Topiramate (托吡酯)**:
-* Cognitive dulling ("Dopamax"), weight loss, renal stones
+	* Cognitive dulling ("Dopamax"), weight loss, renal stones
 
 ## 10. Examiner's Pearls
 
