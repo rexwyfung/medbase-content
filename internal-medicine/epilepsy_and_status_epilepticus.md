@@ -143,8 +143,13 @@
 
 ### Principles of Anti-Epileptic Drug (AED) Initiation
 * **Timing**: Usually start AED after 2nd unprovoked seizure OR 1st seizure with high-risk features (abnormal MRI/EEG)
-* **Strategy**: Start low, go slow. Monotherapy is the goal. Increase dose until seizure freedom or unacceptable toxicity
-* **Monitoring**: Monitor clinical response; routine therapeutic drug monitoring (TDM) only required for Phenytoin (non-linear kinetics)
+* **Strategy**:
+	* Start low, go slow.
+	* Monotherapy is the goal.
+	* Increase dose until seizure freedom or unacceptable toxicity
+* **Monitoring**:
+	* Monitor clinical response;
+	* Routine therapeutic drug monitoring (TDM) only required for Phenytoin (non-linear kinetics)
 
 ### AED Selection by Seizure Type
 | Seizure Type | 1st Line (Male / Post-Menopausal) | 1st Line (Women of Childbearing Age) | 2nd Line / Adjuncts |
