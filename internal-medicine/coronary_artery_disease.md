@@ -8,7 +8,9 @@
 
 ### Local Epidemiology in Hong Kong
 * **Prevalence/Mortality**: 3rd leading cause of death in HK (after Cancers & Pneumonia).
-* **Demographics**: ↑ incidence in South Asian populations in HK; males > females (pre-menopause), equalizes post-menopause.
+* **Demographics**:
+	* ↑ incidence in South Asian populations in HK;
+	* Males > females (pre-menopause), equalizes post-menopause.
 * **Burden**: High admission rates to HA hospitals for **Myocardial Infarction (心肌梗塞)**.
 
 ### Modifiable Risk Factors for CAD
@@ -105,20 +107,36 @@
   * **Prior MI**: Pathological Q waves.
 
 ### Blood Tests for CAD
-* **High-Sensitivity Troponin (hs-cTnI/T)**: Rises in 2-4 hrs, peaks at 24-48 hrs. Serial testing (0h/1h or 0h/2h algorithm) to detect Δ in NSTEMI. Normal in UA.
-* **Lipid Profile (Fasting)**: Target driven by risk level. Total Chol, LDL-C, HDL-C, Triglycerides.
+* **High-Sensitivity Troponin (hs-cTnI/T)**:
+	* Rises in 2-4 hrs, peaks at 24-48 hrs.
+	* Serial testing (0h/1h or 0h/2h algorithm) to detect Δ in NSTEMI.
+	* Normal in UA.
+* **Lipid Profile (Fasting)**:
+	* Target driven by risk level.
+	* Total Chol, LDL-C, HDL-C, Triglycerides.
 * **HbA1c & Fasting Glucose**: Screen for concomitant DM.
 * **Renal Function (Urea/Cr)**: Pre-angiogram check (risk of contrast-induced nephropathy).
 * **CBC**: Exclude severe anemia causing Type 2 MI (demand ischemia).
 
 ### Non-Invasive Functional Imaging (Stress Tests)
-* **Treadmill Exercise Tolerance Test (ETT)**: Look for horizontal/downsloping ST depression ≥1mm. Low cost, but lower sensitivity/specificity.
-* **Stress Echocardiography**: Dobutamine or exercise. Detects stress-induced regional wall motion abnormalities (RWMA).
-* **Myocardial Perfusion Scan (MPS)**: Thallium/Sestamibi with dipyridamole/adenosine. Detects reversible (ischemia) vs fixed (infarct) perfusion defects.
+* **Treadmill Exercise Tolerance Test (ETT)**:
+	* Look for horizontal/downsloping ST depression ≥1mm.
+	* Low cost, but lower sensitivity/specificity.
+* **Stress Echocardiography**:
+	* Dobutamine or exercise.
+	* Detects stress-induced regional wall motion abnormalities (RWMA).
+* **Myocardial Perfusion Scan (MPS)**:
+	* Thallium/Sestamibi with dipyridamole/adenosine.
+	* Detects reversible (ischemia) vs fixed (infarct) perfusion defects.
 
 ### Non-Invasive & Invasive Anatomical Imaging
-* **CT Coronary Angiography (CTCA)**: High negative predictive value. Excellent for ruling out CAD in low-intermediate risk patients.
-* **Coronary Angiography (Cardiac Catheterization)**: **Gold Standard**. Invasive. Defines exact anatomy, severity of stenosis, allows concurrent Percutaneous Coronary Intervention (PCI).
+* **CT Coronary Angiography (CTCA)**:
+	* High negative predictive value.
+	* Excellent for ruling out CAD in low-intermediate risk patients.
+* **Coronary Angiography (Cardiac Catheterization)**:
+	* **Gold Standard**.
+	* Invasive.
+	* Defines exact anatomy, severity of stenosis, allows concurrent Percutaneous Coronary Intervention (PCI).
 
 ### Diagnostic Criteria for Myocardial Infarction (4th Universal Definition)
 * Acute myocardial injury (↑ Troponin with ≥1 value > 99th percentile URL) + ≥1 of the following:
@@ -151,8 +169,16 @@
 * **Anticoagulation**: Fondaparinux (preferred in HA for non-invasive) or Enoxaparin.
 
 ### Acute Pulmonary Edema / Cardiogenic Shock Complicating ACS
-* **Pulmonary Edema**: Sit up, High-flow O2, IV Furosemide, IV Nitrates (if BP permits), CPAP/BiPAP.
-* **Cardiogenic Shock**: Vasopressors (Norepinephrine), Inotropes (Dobutamine). Urgent Echocardiography to rule out mechanical complications. Intra-aortic balloon pump (IABP) or ECMO consideration.
+* **Pulmonary Edema**:
+	* Sit up.
+	* High-flow O2.
+	* IV Furosemide.
+	* IV Nitrates (if BP permits).
+	* CPAP/BiPAP.
+* **Cardiogenic Shock**:
+	* Vasopressors (Norepinephrine), Inotropes (Dobutamine).
+	* Urgent Echocardiography to rule out mechanical complications.
+	* Intra-aortic balloon pump (IABP) or ECMO consideration.
 
 ## 7. Chronic Management Algorithm & Disease-Modifying Therapies (Pharmacology & Lifestyle)
 
