@@ -255,8 +255,12 @@
 * **Ventricular Free Wall Rupture**: Leads to sudden cardiac tamponade and Pulseless Electrical Activity (PEA) arrest.
 
 ### Inflammatory Complications
-* **Post-MI Pericarditis**: Occurs within days 1-3. Fibrinous pericarditis over necrotic myocardium.
-* **Dressler Syndrome**: Autoimmune pericarditis occurring 2-8 weeks post-MI. Rx: High-dose Aspirin + Colchicine (Avoid NSAIDs/Steroids as they impair scar healing).
+* **Post-MI Pericarditis**:
+	* Occurs within days 1-3.
+	* Fibrinous pericarditis over necrotic myocardium.
+* **Dressler Syndrome**:
+	* Autoimmune pericarditis occurring 2-8 weeks post-MI.
+	* Rx: High-dose Aspirin + Colchicine (Avoid NSAIDs/Steroids as they impair scar healing).
 
 ### Complications of CAD Medications
 * **Statins**: Myopathy, myalgia, ↑ ALT/AST (drug-induced liver injury).
