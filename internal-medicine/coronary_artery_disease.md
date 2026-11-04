@@ -257,9 +257,15 @@
 * **Bradyarrhythmias/Heart Blocks**: Common in Inferior MI (RCA supplies AV node in 90% of population).
 
 ### Mechanical Complications (Days 3-14 Post-MI)
-* **Papillary Muscle Rupture**: Causes acute severe Mitral Regurgitation (new holosystolic murmur at apex). Common in inferior MI (posteromedial papillary muscle has single blood supply).
-* **Ventricular Septal Defect (VSD)**: Rupture of septum. Pansystolic murmur at left lower sternal border + harsh thrill.
-* **Ventricular Free Wall Rupture**: Leads to sudden cardiac tamponade and Pulseless Electrical Activity (PEA) arrest.
+* **Papillary Muscle Rupture**:
+	* Causes acute severe Mitral Regurgitation (new holosystolic murmur at apex).
+	* Common in inferior MI (posteromedial papillary muscle has single blood supply).
+* **Ventricular Septal Defect (VSD)**:
+	* Rupture of septum.
+	* Pansystolic murmur at left lower sternal border + harsh thrill.
+* **Ventricular Free Wall Rupture**:
+	* Leads to sudden cardiac tamponade and Pulseless Electrical Activity (PEA) arrest.
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/dbad3c1d17f65d319713becb0d9a07c1.png)
 
 ### Inflammatory Complications
 * **Post-MI Pericarditis**:
