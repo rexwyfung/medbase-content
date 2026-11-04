@@ -33,6 +33,7 @@
 * **Lipid Infiltration**: LDL enters intima → oxidized by macrophages.
 * **Foam Cell Formation**: Macrophages ingest ox-LDL via scavenger receptors → become foam cells → form **Fatty Streak**.
 * **Fibrous Cap Formation**: Smooth muscle cells (SMCs) migrate from media to intima → deposit extracellular matrix (collagen) → form fibroatheroma.
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/893395e825afbef369239569d9c17e95.png)
 
 ### Plaque Rupture & Thrombosis (ACS Mechanism)
 * **Vulnerable Plaque**: Thin fibrous cap, large lipid core, ↑ inflammatory cells (macrophages secrete metalloproteinases degrading collagen).
