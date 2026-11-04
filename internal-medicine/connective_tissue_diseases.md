@@ -10,13 +10,22 @@
 
 ### Etiology & Pathogenesis Triggers
 * **Genetics:** HLA associations (e.g., HLA-DRB1*11 in SSc; HLA-DR3 in SS & PM).
-* **Environmental Triggers:** Silica dust, organic solvents (SSc); viral triggers (EBV, Coxsackievirus in PM/DM/SS).
+* **Environmental Triggers:**
+	* Silica dust, organic solvents (SSc);
+	* Viral triggers (EBV, Coxsackievirus in PM/DM/SS).
 * **Paraneoplastic:** DM strongly linked to underlying malignancy (paraneoplastic autoimmunity).
 
 ### Local Hong Kong Epidemiology
-* **SSc:** Rare (~1-2/100,000), peak onset 30-50 yrs, F:M = 4:1. High M&M locally due to ILD (間質性肺病) & PAH (肺動脈高壓).
-* **SS:** Highly prevalent, most common secondary CTD in HK (often complicating RA or SLE). Primary SS F:M = 9:1.
-* **PM/DM:** Incidence ~2-4/100,000. Classical bimodal age distribution (10-15 yrs & 45-60 yrs). High local association of DM with **Nasopharyngeal Carcinoma (NPC) (鼻咽癌)**.
+* **SSc:**
+	* Rare (~1-2/100,000), peak onset 30-50 yrs, F:M = 4:1.
+	* High M&M locally due to ILD (間質性肺病) & PAH (肺動脈高壓).
+* **SS:**
+	* Highly prevalent, most common secondary CTD in HK (often complicating RA or SLE).
+	* Primary SS F:M = 9:1.
+* **PM/DM:**
+	* Incidence ~2-4/100,000.
+	* Classical bimodal age distribution (10-15 yrs & 45-60 yrs).
+	* High local association of DM with **Nasopharyngeal Carcinoma (NPC) (鼻咽癌)**.
 
 ## 2. Systemic Pathophysiology & Molecular Mechanisms
 
@@ -25,18 +34,23 @@
   1. **Vasculopathy:** Endothelial injury → ↑ endothelin-1, ↓ NO/prostacyclin → intimal proliferation → capillary obliteration.
   2. **Autoimmunity:** B & T cell activation → production of pro-fibrotic cytokines (IL-4, IL-13, TGF-β).
   3. **Tissue Fibrosis:** Hyperactive fibroblasts → massive uncontrolled collagen types I & III deposition in skin & viscera.
+![image|600](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/97b7c9ffe379ab54c15f30f36f8efa21.png)
 
 ### Pathophysiology of Sjögren's Syndrome (SS)
 * **Lymphocytic Infiltration:** CD4+ T cells & B cells infiltrate exocrine epithelia → glandular destruction.
 * **B-Cell Hyperactivity:** Leads to hypergammaglobulinemia, +ve autoantibodies (Anti-Ro/La), & ↑ risk of B-cell lymphoma (MALToma).
 * **Epitheliitis:** Autoimmune damage to aquaporins & muscarinic receptors (M3) → defective secretory function.
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/e94efd864fe8c6d78c0e7d0ae48bfb86.png)
 
 ### Pathophysiology of Dermatomyositis (DM) vs Polymyositis (PM)
 * **DM (Humoral/Vascular):** Complement-mediated (MAC / C5b-9) microangiopathy targeting muscle capillaries → perivascular CD4+ T cell & B cell infiltrate → perifascicular atrophy.
 * **PM (Cellular):** CD8+ cytotoxic T cells directly invade non-necrotic MHC-I expressing muscle fibers → endomysial inflammation.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/2fbe2b507aca9e8623b86986a1dd9843.png)
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/d189f09d5c954d6f701c2590604780de.png)
 
 ### Pathophysiology of Mixed Connective Tissue Disease (MCTD)
 * **U1-snRNP Autoimmunity:** Antibodies target the U1-small nuclear ribonucleoprotein complex → triggers combined innate & adaptive immune cascade producing mixed phenotype (vascular + inflammatory).
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/511c94c6954cd8066d4db350dbaee9e7.png)
 
 ## 3. Clinical Assessment (Detailed History & System-Specific Physical Signs ONLY)
 
@@ -46,50 +60,90 @@
 * **Vascular Stigmata:** Nailfold capillary dropout/dilatation, telangiectasia (mat-like on face/palms), digital pitting scars / ulceration.
 * **Subcutaneous Features:** Calcinosis cutis (palpable hard nodules, may extrude white chalky material).
 * **Facies:** Microstomia (pursed lips, limited mouth opening), "beaked" nose.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/686eb6c546fe5cdfb25dd6db54a3bae2.png)
 
 ### Pulmonary, Cardiac & GI Signs of Systemic Sclerosis
-* **Pulmonary:** Fine bibasal end-inspiratory crackles (Velcro-like) indicating ILD. Loud P2, RV heave, JVP elevation indicating PAH.
-* **GI:** Reduced mouth opening, dysphagia, GERD (heartburn), bloating (small bowel bacterial overgrowth).
+* **Pulmonary:**
+	* Fine bibasal end-inspiratory crackles (Velcro-like) indicating ILD.
+	* Loud P2, RV heave, JVP elevation indicating PAH.
+* **GI:**
+	* Reduced mouth opening.
+	* Dysphagia.
+	* GERD (heartburn).
+	* Bloating (small bowel bacterial overgrowth).
 
 ### History & Signs of Sjögren's Syndrome
-* **Sicca Symptoms:** Xerophthalmia (gritty/sandy dry eyes), xerostomia (cracker sign: inability to eat dry food without water), dyspareunia.
-* **Exocrine Signs:** Bilateral parotid gland enlargement (firm, non-tender or mildly tender).
-* **Mucosal Signs:** Dry, lobulated, erythematous tongue; rampant dental caries (cervical margin).
+* **Sicca Symptoms:**
+	* Xerophthalmia (gritty/sandy dry eyes).
+	* Xerostomia (cracker sign: inability to eat dry food without water),
+	* Dyspareunia.
+* **Exocrine Signs:**
+	* Bilateral parotid gland enlargement (firm, non-tender or mildly tender).
+* **Mucosal Signs:**
+	* Dry, lobulated, erythematous tongue;
+	* Rampant dental caries (cervical margin).
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/90c2f7c980ab10e3b8b14d9f9a45cc29.png)
 
 ### Cutaneous Signs of Dermatomyositis
 * **Gottron's Papules:** Violaceous, scaly plaques over extensor surfaces of MCP/PIP joints (pathognomonic).
 * **Heliotrope Rash:** Violaceous/lilac periorbital edema & erythema.
 * **Shawl & V Sign:** Photosensitive macular erythema over posterior neck/shoulders & anterior chest.
 * **Mechanic's Hands:** Hyperkeratotic, fissured skin on lateral/palmar aspects of fingers (associated with Antisynthetase Syndrome).
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/50e42585e1a9d491a94c5a316acceb17.png)
 
 ### Neuromuscular Signs of Polymyositis & Dermatomyositis
-* **Motor:** Symmetrical, proximal muscle weakness (shoulder & pelvic girdles). Difficulty rising from chair, climbing stairs, or combing hair.
-* **Neck:** Weakness of neck flexors (head drop).
-* **Bulbar/Respiratory:** Dysphagia, nasal speech, weak cough (poor prognostic signs).
-* **Sensory/Reflexes:** Normal sensation & preserved deep tendon reflexes (distinguishes from neuropathies).
+* **Motor:**
+	* Symmetrical, proximal muscle weakness (shoulder & pelvic girdles).
+	* Difficulty rising from chair, climbing stairs, or combing hair.
+* **Neck:**
+	* Weakness of neck flexors (head drop).
+* **Bulbar/Respiratory:**
+	* Dysphagia.
+	* Nasal speech.
+	* Weak cough (poor prognostic signs).
+* **Sensory/Reflexes:**
+	* Normal sensation.
+	* Preserved deep tendon reflexes (distinguishes from neuropathies).
 
 ## 4. Differential Diagnoses & Discriminatory Features
 
 ### Differentiating Proximal Muscle Weakness
-| Condition | Discriminatory Clinical Features |
-| :--- | :--- |
-| **PM/DM** | Painless (or mild myalgia), elevated CK, specific skin signs (DM). |
-| **Corticosteroid Myopathy** | Normal CK, normal EMG, hx of prolonged steroid use, cushingoid features. |
+| Condition                   | Discriminatory Clinical Features                                                                  |
+| :-------------------------- | :------------------------------------------------------------------------------------------------ |
+| **PM/DM**                   | Painless (or mild myalgia), elevated CK, specific skin signs (DM).                                |
+| **Corticosteroid Myopathy** | Normal CK, normal EMG, hx of prolonged steroid use, cushingoid features.                          |
 | **Statin-Induced Myopathy** | Hx of statin use, weakness improves upon cessation (unless immune-mediated necrotizing myopathy). |
-| **Myasthenia Gravis** | Fatigability (worsens with use), ptosis, diplopia, normal CK. |
-| **Thyrotoxic Myopathy** | Tremor, tachycardia, weight loss, ↓ TSH. |
+| **Myasthenia Gravis**       | Fatigability (worsens with use), ptosis, diplopia, normal CK.                                     |
+| **Thyrotoxic Myopathy**     | Tremor, tachycardia, weight loss, ↓ TSH.                                                          |
 
 ### Differentiating Scleroderma-like Skin Changes
-* **Systemic Sclerosis:** Affects fingers/hands first, +ve Raynaud's, +ve autoantibodies, visceral involvement.
-* **Morphea (Localized Scleroderma):** Plaque-like localized skin induration, NO Raynaud's, NO visceral disease.
-* **Nephrogenic Systemic Fibrosis (NSF):** Hx of Gadolinium contrast exposure in ESRF, spares the face.
-* **Eosinophilic Fasciitis:** "Peau d'orange" skin, groove sign (venous depression), spares digits/hands, extreme eosinophilia.
+* **Systemic Sclerosis:**
+	* Affects fingers/hands first.
+	* +ve Raynaud's.
+	* +ve autoantibodies.
+	* Visceral involvement.
+* **Morphea (Localized Scleroderma):**
+	* Plaque-like localized skin induration.
+	* NO Raynaud's.
+	* NO visceral disease.
+* **Nephrogenic Systemic Fibrosis (NSF):**
+	* Hx of Gadolinium contrast exposure in ESRF.
+	* Spares the face.
+* **Eosinophilic Fasciitis:**
+	* "Peau d'orange" skin.
+	* Groove sign (venous depression).
+	* Spares digits/hands.
+	* Extreme eosinophilia.
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/6ac22d6f4d8d982cef4706e8bd112472.png)
 
 ### Differentiating Sicca Symptoms
 * **Sjögren's Syndrome:** +ve autoantibodies, systemic involvement, parotid enlargement.
 * **Age-related Atrophy:** Elderly, -ve autoantibodies, normal systemic exam.
 * **Medication-induced:** Anticholinergics, TCAs, antihistamines.
-* **IgG4-Related Disease:** Painless submandibular/parotid swelling, often with pancreatic/biliary involvement, ↑ serum IgG4.
+* **IgG4-Related Disease:**
+	* Painless submandibular/parotid swelling.
+	* Often with pancreatic/biliary involvement.
+	* ↑ serum IgG4.
 
 ## 5. Tiered Investigations (Bedside, Bloods, Imaging, Biopsy & Diagnostic Criteria)
 
@@ -110,83 +164,118 @@
 * **Bedside:** Nailfold capillaroscopy (dilated loops, hemorrhages, avascular areas).
 * **Bloods:** FBC (anemia of chronic disease/GIB), U&E, Cr (renal crisis screen).
 * **Imaging:** 
-  * **HRCT Thorax:** Essential for detecting ground-glass opacities / honeycombing in ILD.
-  * **Echocardiogram:** Annual screening for Pulmonary Arterial Hypertension (PAH) (estimation of PASP).
-* **Specialized:** Full pulmonary function tests (PFTs) → Restrictive pattern (↓ FVC, ↓ TLC) with ↓ DLCO. Manometry/Barium swallow for esophageal dysmotility.
+	* **HRCT Thorax:** Essential for detecting ground-glass opacities / honeycombing in ILD.
+	* **Echocardiogram:** Annual screening for Pulmonary Arterial Hypertension (PAH) (estimation of PASP).
+* **Specialized:**
+	* Full pulmonary function tests (PFTs) → Restrictive pattern (↓ FVC, ↓ TLC) with ↓ DLCO.
+	* Manometry/Barium swallow for esophageal dysmotility.
 
 ### Investigations for Sjögren's Syndrome
-* **Bedside (Ocular):** Schirmer's test (≤ 5mm moisture in 5 mins is +ve); Rose Bengal / Lissamine green staining (shows corneal damage).
+* **Bedside (Ocular):**
+	* Schirmer's test (≤ 5mm moisture in 5 mins is +ve);
+	* Rose Bengal / Lissamine green staining (shows corneal damage).
 * **Bedside (Oral):** Unstimulated whole salivary flow rate (≤ 0.1 mL/min).
 * **Biopsy:** Minor salivary gland biopsy (lip) → focal lymphocytic sialadenitis (focus score ≥ 1 focus/4mm²).
-* **ACR/EULAR 2016 Criteria for Primary SS:** Requires score ≥4 (Anti-Ro +ve = 3, Biopsy focus score ≥1 = 3, Ocular staining ≥5 = 1, Schirmer ≤5mm = 1, Salivary flow ≤0.1ml/min = 1).
+* **ACR/EULAR 2016 Criteria for Primary SS:** Requires score ≥4
+	* Anti-Ro +ve = 3
+	* Biopsy focus score ≥1 = 3
+	* Ocular staining ≥5 = 1
+	* Schirmer ≤5mm = 1
+	* Salivary flow ≤0.1ml/min = 1
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/36ffd613275a30edd1fd0078837f06d0.png)
 
 ### Investigations for Inflammatory Myopathies (PM/DM)
-* **Bloods:** ↑↑ CK (often >1000 U/L), ↑ LDH, ↑ AST/ALT (muscle origin), Myositis-specific antibodies (MSA).
+* **Bloods:**
+	* ↑↑ CK (often >1000 U/L).
+	* ↑ LDH.
+	* ↑ AST/ALT (muscle origin).
+	* Myositis-specific antibodies (MSA).
 * **Neurophysiology:** EMG → triad of polyphasic short motor unit potentials, fibrillations, complex repetitive discharges.
 * **Imaging:** MRI Thighs (STIR sequence) → identifies muscle edema/inflammation (guides biopsy site).
-* **Biopsy:** Muscle biopsy (definitive Dx). PM = endomysial CD8+ infiltrate; DM = perivascular/perifascicular atrophy.
-* **Malignancy Screen (CRITICAL in DM in HK):** EBV serology & Nasoendoscopy (NPC), CT Thorax/Abdo/Pelvis, Mammogram/Pap smear (females), OGD/Colonoscopy.
+* **Biopsy:** Muscle biopsy (definitive Dx).
+	* PM = endomysial CD8+ infiltrate;
+	* DM = perivascular/perifascicular atrophy.
+* **Malignancy Screen (CRITICAL in DM in HK):**
+	* EBV serology & Nasoendoscopy (NPC).
+	* CT Thorax/Abdo/Pelvis.
+	* Mammogram/Pap smear (females).
+	* OGD/Colonoscopy.
 
 ## 6. Acute Exacerbation Management & Resuscitation (Flares/Emergencies)
 
 ### Acute Scleroderma Renal Crisis (SRC) Management
-* **Presentation:** Malignant hypertension, acute kidney injury, microangiopathic hemolytic anemia (MAHA), encephalopathy.
+* **Presentation:**
+	* Malignant hypertension.
+	* Acute kidney injury.
+	* Microangiopathic hemolytic anemia (MAHA).
+	* Encephalopathy.
 * **Target:** Rapidly lower BP using specific vasodilators.
-* **Primary Pharmacotherapy:** **ACE Inhibitors (Captopril) are life-saving and mandatory**, even if creatinine is rising. (Note: Avoid beta-blockers as they worsen vasospasm).
-* **Refractory:** Add IV Iloprost, ARBs, or CCBs. Dialysis may be temporarily required.
+* **Primary Pharmacotherapy:**
+	* **ACE Inhibitors (Captopril) are life-saving and mandatory**, even if creatinine is rising.
+	* (Note: Avoid beta-blockers as they worsen vasospasm).
+* **Refractory:**
+	* Add IV Iloprost, ARBs, or CCBs.
+	* Dialysis may be temporarily required.
 
 ### Acute Severe Raynaud's / Digital Ischemia Management
 * **Presentation:** Prolonged vasospasm, impending gangrene/ulceration.
-* **Resuscitation:** Keep patient extremely warm, avoid cold ward drafts. Provide adequate analgesia.
+* **Resuscitation:**
+	* Keep patient extremely warm, avoid cold ward drafts.
+	* Provide adequate analgesia.
 * **Pharmacotherapy:** 
-  * **IV Iloprost** (Prostacyclin analogue) infusion for 3-5 days.
-  * Consider IV heparin if thrombosis is suspected.
-  * Local botulinum toxin A injections or surgical sympathectomy for refractory critical ischemia.
+	* **IV Iloprost** (Prostacyclin analogue) infusion for 3-5 days.
+	* Consider IV heparin if thrombosis is suspected.
+	* Local botulinum toxin A injections or surgical sympathectomy for refractory critical ischemia.
 
 ### Acute Myositis Flare with Respiratory/Bulbar Weakness
-* **Presentation:** Rapidly progressive weakness, dysphagia (aspiration risk), type 2 respiratory failure.
+* **Presentation:**
+	* Rapidly progressive weakness.
+	* Dysphagia (aspiration risk).
+	* Type 2 respiratory failure.
 * **Management:** 
-  * NPO (Nil per os), insert NGT for feeding/meds to prevent aspiration.
-  * Close monitoring of FVC (Forced Vital Capacity). ICU admission for elective intubation if FVC falling rapidly.
-  * **High-dose IV Methylprednisolone** (1g daily for 3 days) → followed by IVIG (Intravenous Immunoglobulin) or Plasmapheresis.
+	* NPO (Nil per os), insert NGT for feeding/meds to prevent aspiration.
+	* Close monitoring of FVC (Forced Vital Capacity). ICU admission for elective intubation if FVC falling rapidly.
+	* **High-dose IV Methylprednisolone** (1g daily for 3 days) → followed by IVIG (Intravenous Immunoglobulin) or Plasmapheresis.
 
 ## 7. Chronic Management Algorithm & Disease-Modifying Therapies (Pharmacology & Lifestyle)
 
 ### Chronic Management of Systemic Sclerosis
 * **Skin & Extent Disease:**
-  * Methotrexate (MTX) or Mycophenolate Mofetil (MMF) for rapidly progressive skin thickening.
+	* Methotrexate (MTX) or Mycophenolate Mofetil (MMF) for rapidly progressive skin thickening.
 * **Raynaud's Phenomenon:**
-  * Step 1: Lifestyle (warm clothing, strict smoking cessation, avoid caffeine/sympathomimetics).
-  * Step 2: Dihydropyridine CCB (e.g., Nifedipine SR / Amlodipine).
-  * Step 3: PDE-5 inhibitors (Sildenafil) or ERA (Bosentan).
+	* Step 1: Lifestyle (warm clothing, strict smoking cessation, avoid caffeine/sympathomimetics).
+	* Step 2: Dihydropyridine CCB (e.g., Nifedipine SR / Amlodipine).
+	* Step 3: PDE-5 inhibitors (Sildenafil) or ERA (Bosentan).
 * **SSc-Associated ILD (SSc-ILD):**
-  * Induction: IV Cyclophosphamide or PO MMF.
-  * Antifibrotic: **Nintedanib** (tyrosine kinase inhibitor) approved for progressive fibrosing ILD.
+	* Induction: IV Cyclophosphamide or PO MMF.
+	* Antifibrotic: **Nintedanib** (tyrosine kinase inhibitor) approved for progressive fibrosing ILD.
 * **Gastrointestinal:**
-  * High-dose PPIs for severe GERD. 
-  * Prokinetics (Domperidone). 
-  * Rotating cyclical antibiotics (Ciprofloxacin, Rifaximin) for small bowel bacterial overgrowth (SIBO).
+	* High-dose PPIs for severe GERD. 
+	* Prokinetics (Domperidone). 
+	* Rotating cyclical antibiotics (Ciprofloxacin, Rifaximin) for small bowel bacterial overgrowth (SIBO).
 
 ### Chronic Management of Sjögren's Syndrome
 * **Sicca Symptoms:**
-  * Ocular: Preservative-free artificial tears (hypromellose), topical cyclosporine drops, punctal plugs.
-  * Oral: Frequent sips of water, sugar-free lozenges, proper dental hygiene.
-  * Secretagogues: **Pilocarpine** (muscarinic agonist) for residual glandular function.
+	* Ocular: Preservative-free artificial tears (hypromellose), topical cyclosporine drops, punctal plugs.
+	* Oral: Frequent sips of water, sugar-free lozenges, proper dental hygiene.
+	* Secretagogues: **Pilocarpine** (muscarinic agonist) for residual glandular function.
 * **Systemic Disease (Arthralgia, Fatigue, Skin):**
-  * **Hydroxychloroquine (HCQ)** is 1st line.
+	* **Hydroxychloroquine (HCQ)** is 1st line.
 * **Severe Extraglandular (Vasculitis, Neuropathy):**
-  * Systemic corticosteroids + Immunosuppressants (Azathioprine, Rituximab).
+	* Systemic corticosteroids + Immunosuppressants (Azathioprine, Rituximab).
 
 ### Chronic Management of PM/DM
 * **Induction of Remission:**
-  * **Oral Prednisolone** (0.5 - 1 mg/kg/day).
+	* **Oral Prednisolone** (0.5 - 1 mg/kg/day).
 * **Steroid-Sparing Agents (Maintenance):**
-  * Initiate early. **Methotrexate (MTX)** or **Azathioprine (AZA)** are 1st line.
-  * MMF, Cyclosporine, or Tacrolimus for refractory cases or prominent ILD (e.g., Antisynthetase syndrome).
+	* Initiate early. **Methotrexate (MTX)** or **Azathioprine (AZA)** are 1st line.
+	* MMF, Cyclosporine, or Tacrolimus for refractory cases or prominent ILD (e.g., Antisynthetase syndrome).
 * **Cutaneous DM:**
-  * Strict sun protection. Topical corticosteroids. Hydroxychloroquine (HCQ).
+	* Strict sun protection.
+	* Topical corticosteroids.
+	* Hydroxychloroquine (HCQ).
 * **Physiotherapy:** 
-  * Mandatory graded resistance training once acute inflammation subsides.
+	* Mandatory graded resistance training once acute inflammation subsides.
 
 ### Chronic Management of MCTD
 * **Phenotype-driven:** Treat the dominant manifestation.
@@ -196,8 +285,12 @@
 ## 8. Risk Stratification, Clinical Scoring Systems & Prognosis
 
 ### Prognosis & Risk Stratification in Systemic Sclerosis
-* **modified Rodnan Skin Score (mRSS):** Assesses skin thickness by clinical palpation across 17 anatomical sites (0-3 scale, max 51). Higher scores correlate strongly with internal organ involvement and mortality.
-* **Prognosis:** SSc has the highest case-fatality rate of all rheumatic diseases. Leading causes of death are PAH and ILD (pulmonary complications).
+* **modified Rodnan Skin Score (mRSS):**
+	* Assesses skin thickness by clinical palpation across 17 anatomical sites (0-3 scale, max 51).
+	* Higher scores correlate strongly with internal organ involvement and mortality.
+* **Prognosis:**
+	* SSc has the highest case-fatality rate of all rheumatic diseases.
+	* Leading causes of death are PAH and ILD (pulmonary complications).
 
 ### EULAR Sjögren's Syndrome Disease Activity Index (ESSDAI)
 * Evaluates 12 distinct systemic domains (cutaneous, pulmonary, renal, CNS, PNS, hematological, etc.).
@@ -205,7 +298,13 @@
 * **Prognosis:** Generally normal lifespan unless complicated by MALT lymphoma (risk is ~40x higher than general population).
 
 ### Prognostic Factors in Inflammatory Myopathies
-* **Poor Prognosticators:** Advanced age, delay in initiating treatment, dysphagia (aspiration risk), concurrent malignancy (esp. in DM), presence of ILD (Anti-Jo-1), and cardiac involvement.
+* **Poor Prognosticators:**
+	* Advanced age.
+	* Delay in initiating treatment.
+	* Dysphagia (aspiration risk).
+	* Concurrent malignancy (esp. in DM).
+	* Presence of ILD (Anti-Jo-1).
+	* Cardiac involvement.
 
 ## 9. Multi-System Complications (End-Organ Damage & Drug Adverse Effects)
 
@@ -222,23 +321,21 @@
 * **Neonatal:** Neonatal lupus (congenital heart block) in mothers with Anti-Ro antibodies.
 
 ### Complications of PM/DM & Immunotherapy Side Effects
-* **Disease-related:** Severe aspiration pneumonia, ventilatory failure, permanent muscle contractures/atrophy, malignancy (DM).
+* **Disease-related:**
+	* Severe aspiration pneumonia.
+	* Ventilatory failure.
+	* Permanent muscle contractures/atrophy.
+	* Malignancy (DM).
 * **Drug-related:**
-  * Prolonged steroids: Osteoporosis, avascular necrosis, Cushing's, diabetes, opportunistic infections.
-  * Methotrexate: Hepatotoxicity, pneumonitis, bone marrow suppression.
-  * Hydroxychloroquine: Irreversible macular retinopathy (requires baseline and annual OCT scans).
+	* Prolonged steroids: Osteoporosis, avascular necrosis, Cushing's, diabetes, opportunistic infections.
+	* Methotrexate: Hepatotoxicity, pneumonitis, bone marrow suppression.
+	* Hydroxychloroquine: Irreversible macular retinopathy (requires baseline and annual OCT scans).
 
 ## 10. Examiner's Pearls
 
-* Trap: A patient with Systemic Sclerosis develops joint pain; you prescribe high-dose Prednisolone to control inflammation.
-* Pearl: Never prescribe high-dose systemic corticosteroids (>15mg/day) in Systemic Sclerosis unless absolutely necessary, as they strongly precipitate Scleroderma Renal Crisis (SRC). 
-* Trap: A patient presents with a severe acute hypertensive crisis and renal failure secondary to Scleroderma Renal Crisis. You avoid ACE inhibitors because of the acute kidney injury.
-* Pearl: ACE inhibitors (specifically Captopril) are the mandatory, life-saving treatment for SRC, even in the setting of an actively rising creatinine.
-* Pitfall: Diagnosing an elderly patient in Hong Kong with Dermatomyositis and just starting them on steroids without further workup.
-* Pearl: Dermatomyositis carries a massive paraneoplastic risk. In HK, you must immediately screen for Nasopharyngeal Carcinoma (NPC) via EBV serology and ENT nasoendoscopy, alongside age-appropriate systemic malignancy screening (CT thorax/abdo/pelvis).
-* Viva Question: What is the classic presentation and antibody profile of Mixed Connective Tissue Disease (MCTD)?
-* Answer: An overlap of features from SLE, Systemic Sclerosis, and Polymyositis, strictly accompanied by high-titer Anti-U1-RNP autoantibodies.
-* Viva Question: How do you clinically differentiate the muscle weakness of Polymyositis from Myasthenia Gravis?
-* Answer: PM causes constant proximal weakness with highly elevated CK, whereas Myasthenia Gravis causes fatiguable weakness (worsens with use), prominent ocular signs (ptosis/diplopia), and has a normal CK.
-* Pitfall: Assuming a patient with newly elevated transaminases (ALT/AST) on routine bloods must have primary liver pathology.
-* Pearl: AST and ALT are also found in skeletal muscle. If isolated transaminitis is present without an obvious hepatic cause, check a CK level to rule out occult myopathy (PM/DM).
+* Trap: A patient with Systemic Sclerosis develops joint pain; you prescribe high-dose Prednisolone to control inflammation. Pearl: Never prescribe high-dose systemic corticosteroids (>15mg/day) in Systemic Sclerosis unless absolutely necessary, as they strongly precipitate Scleroderma Renal Crisis (SRC). 
+* Trap: A patient presents with a severe acute hypertensive crisis and renal failure secondary to Scleroderma Renal Crisis. You avoid ACE inhibitors because of the acute kidney injury. Pearl: ACE inhibitors (specifically Captopril) are the mandatory, life-saving treatment for SRC, even in the setting of an actively rising creatinine.
+* Pitfall: Diagnosing an elderly patient in Hong Kong with Dermatomyositis and just starting them on steroids without further workup. Pearl: Dermatomyositis carries a massive paraneoplastic risk. In HK, you must immediately screen for Nasopharyngeal Carcinoma (NPC) via EBV serology and ENT nasoendoscopy, alongside age-appropriate systemic malignancy screening (CT thorax/abdo/pelvis).
+* Viva Question: What is the classic presentation and antibody profile of Mixed Connective Tissue Disease (MCTD)? Answer: An overlap of features from SLE, Systemic Sclerosis, and Polymyositis, strictly accompanied by high-titer Anti-U1-RNP autoantibodies.
+* Viva Question: How do you clinically differentiate the muscle weakness of Polymyositis from Myasthenia Gravis? Answer: PM causes constant proximal weakness with highly elevated CK, whereas Myasthenia Gravis causes fatiguable weakness (worsens with use), prominent ocular signs (ptosis/diplopia), and has a normal CK.
+* Pitfall: Assuming a patient with newly elevated transaminases (ALT/AST) on routine bloods must have primary liver pathology. Pearl: AST and ALT are also found in skeletal muscle. If isolated transaminitis is present without an obvious hepatic cause, check a CK level to rule out occult myopathy (PM/DM).
