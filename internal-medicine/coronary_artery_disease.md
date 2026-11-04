@@ -164,9 +164,15 @@
 * **Initial Rx**: Same MONA-B as STEMI.
 * **Risk Stratification**: Use GRACE score.
 * **Invasive Strategy (Angiography ± PCI)**:
-  * **Immediate (<2h)**: Hemodynamic instability, refractory pain, life-threatening arrhythmias, mechanical complications.
+  * **Immediate (<2h)**:
+	  * Hemodynamic instability.
+	  * Refractory pain.
+	  * Life-threatening arrhythmias.
+	  * Mechanical complications.
   * **Early (<24h)**: High risk (GRACE > 140, dynamic ST changes, ↑ Troponin).
-* **Conservative Strategy**: Low risk (GRACE < 109, normal ECG/Trop). Proceed to non-invasive stress testing.
+* **Conservative Strategy**:
+	* Low risk (GRACE < 109, normal ECG/Trop).
+	* Proceed to non-invasive stress testing.
 * **Anticoagulation**: Fondaparinux (preferred in HA for non-invasive) or Enoxaparin.
 
 ### Acute Pulmonary Edema / Cardiogenic Shock Complicating ACS
