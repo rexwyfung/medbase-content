@@ -153,12 +153,12 @@
 ## 8. Risk Stratification, Clinical Scoring Systems & Prognosis
 
 ### Epworth Sleepiness Scale (ESS) for Symptom Stratification
-| Score Range | Interpretation |
-| :--- | :--- |
-| **0 - 9** | Normal daytime sleepiness |
-| **10 - 14** | Mild excessive daytime sleepiness |
+| Score Range | Interpretation                        |
+| :---------- | :------------------------------------ |
+| **0 - 9**   | Normal daytime sleepiness             |
+| **10 - 14** | Mild excessive daytime sleepiness     |
 | **15 - 18** | Moderate excessive daytime sleepiness |
-| **19 - 24** | Severe excessive daytime sleepiness |
+| **19 - 24** | Severe excessive daytime sleepiness   |
 
 ### STOP-BANG Questionnaire for OSA Pre-test Probability
 | Acronym | Clinical Feature (1 point each, High Risk if ≥3) |
