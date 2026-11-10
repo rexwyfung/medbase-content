@@ -5,36 +5,65 @@
 ### Clinical Definition of Acute Kidney Injury (KDIGO Criteria)
 * **Definition**: Abrupt ↓ in kidney function leading to retention of urea/nitrogenous waste & dysregulation of extracellular volume/electrolytes.
 * **Diagnosis (requires ≥1)**:
-  * ↑ Serum Creatinine (**Cr**) by ≥26.5 µmol/L within 48 hrs.
-  * ↑ Serum **Cr** to ≥1.5x baseline within prior 7 days.
-  * Urine Output (**UO**) <0.5 mL/kg/hr for 6 hrs.
+	* ↑ Serum Creatinine (**Cr**) by ≥26.5 µmol/L within 48 hrs.
+	* ↑ Serum **Cr** to ≥1.5x baseline within prior 7 days.
+	* Urine Output (**UO**) <0.5 mL/kg/hr for 6 hrs.
 
 ### Etiologies of Pre-Renal AKI (腎前性)
 * **Hypovolemia**: Hemorrhage, GI loss (diarrhea/vomiting), renal loss (diuretics), skin loss (burns).
-* **↓ Effective Arterial Blood Volume (EABV)**: Heart failure (Cardiorenal syndrome), sepsis, anaphylaxis.
-* **Altered Renal Hemodynamics**: NSAIDs (afferent arteriole constriction), ACEi/ARB (efferent arteriole dilation), renal artery stenosis.
+* **↓ Effective Arterial Blood Volume (EABV)**:
+	* Heart failure (Cardiorenal syndrome).
+	* Sepsis.
+	* Anaphylaxis.
+* **Altered Renal Hemodynamics**:
+	* NSAIDs (afferent arteriole constriction).
+	* ACEi/ARB (efferent arteriole dilation).
+	* Renal artery stenosis.
 
 ### Etiologies of Intrinsic Renal AKI (腎實質性)
-* **Glomerular**: Glomerulonephritis (GN), Goodpasture's, lupus nephritis.
-* **Tubular**: Ischemic or Nephrotoxic [contrast, aminoglycosides, myoglobin (rhabdomyolysis)].
-* **Interstitial**: Drugs (penicillins, PPIs, NSAIDs), infections.
-* **Vascular**: Vasculitis, TTP/HUS, atheroembolic disease, malignant hypertension.
+* **Glomerular**:
+	* Glomerulonephritis (GN).
+	* Goodpasture's.
+	* Lupus nephritis.
+* **Tubular**:
+	* Ischemic or Nephrotoxic [contrast, aminoglycosides, myoglobin (rhabdomyolysis)].
+* **Interstitial**:
+	* Drugs (penicillins, PPIs, NSAIDs).
+	* Infections.
+* **Vascular**:
+	* Vasculitis.
+	* TTP/HUS.
+	* Atheroembolic disease.
+	* Malignant hypertension.
 
 ### Etiologies of Post-Renal AKI (腎後性)
-* **Luminal Obstruction**: Renal calculi, blood clots.
-* **Mural Obstruction**: Urothelial carcinoma, strictures.
-* **Extrinsic Compression**: Benign Prostatic Hyperplasia (**BPH** - 前列腺肥大), prostate/cervical cancer, retroperitoneal fibrosis.
+* **Luminal Obstruction**:
+	* Renal calculi.
+	* Blood clots.
+* **Mural Obstruction**:
+	* Urothelial carcinoma.
+	* Strictures.
+* **Extrinsic Compression**:
+	* Benign Prostatic Hyperplasia (**BPH** - 前列腺肥大).
+	* Prostate/cervical cancer.
+	* Retroperitoneal fibrosis.
 
 ### Local Epidemiology of AKI in Hong Kong
-* **Prevalence**: Complicates ~10-15% of all Hospital Authority (HA) admissions; mostly elderly (人口老化).
+* **Prevalence**:
+	* Complicates ~10-15% of all Hospital Authority (HA) admissions;
+	* Mostly elderly (人口老化).
 * **Common Subtypes**: Pre-renal & ischemic tubular injury account for >70% of ward AKI.
-* **High-Risk Groups**: Diabetics, underlying Chronic Kidney Disease (**CKD** - 慢性腎病), heart failure patients.
+* **High-Risk Groups**:
+	* Diabetics.
+	* Underlying Chronic Kidney Disease (**CKD** - 慢性腎病).
+	* Heart failure patients.
 
 ## 2. Systemic Pathophysiology & Molecular Mechanisms
 
 ### Pathophysiology of Pre-Renal AKI
 * **Hemodynamic Compensation**: ↓ Renal perfusion → activation of **RAAS** & SNS → Angiotensin II constricts efferent arteriole (maintains GFR) + Prostaglandins dilate afferent arteriole.
 * **Failure of Autoregulation**: Severe/prolonged ↓ perfusion limits compensatory mechanisms → sharp ↓ GFR without structural tubular damage (initially reversible).
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/037c17a5247a3b71bdc416f074246952.png)
 
 ### Pathophysiology of Intrinsic AKI (Tubuloglomerular Feedback)
 * **Cellular Hypoxia**: Proximal straight tubule & medullary thick ascending limb are highly metabolically active & susceptible to ischemia.
@@ -46,6 +75,7 @@
 * **Upstream Pressure**: Obstruction → ↑ retrograde hydrostatic pressure in ureter, renal pelvis & Bowman's space.
 * **Filtration Failure**: Bowman's space pressure exceeds net glomerular filtration pressure → abrupt ↓ GFR.
 * **Compensatory Vasodilation**: Initial transient afferent vasodilation (via prostaglandins) followed by sustained vasoconstriction (via Thromboxane A2/Angiotensin II).
+![image|450](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/9aba9cbc1145e5842b83fd8a6e21957b.png)
 
 ## 3. Clinical Assessment (Detailed History & System-Specific Physical Signs ONLY)
 
