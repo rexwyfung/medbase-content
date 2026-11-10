@@ -80,42 +80,99 @@
 ## 3. Clinical Assessment (Detailed History & System-Specific Physical Signs ONLY)
 
 ### History Taking for AKI Causes
-* **Volume Depletion Hx**: Vomiting, diarrhea, poor PO intake, recent major hemorrhage/surgery.
+* **Volume Depletion Hx**:
+	* Vomiting.
+	* Diarrhea.
+	* Poor PO intake.
+	* Recent major hemorrhage/surgery.
 * **Medication Hx**: Recent initiation of ACEi/ARB, NSAIDs (incl. OTC pain patches), diuretics, antibiotics, Chinese herbal medicine (aristolochic acid).
-* **Obstructive Hx**: Hesitancy, dribbling, poor stream, nocturia (BPH), visible hematuria, flank colicky pain (stones).
-* **Systemic/Vasculitis Hx**: Joint pain, novel rashes, hemoptysis, chronic fever, weight loss.
+* **Obstructive Hx**:
+	* Hesitancy.
+	* Dribbling.
+	* Poor stream.
+	* Nocturia (BPH).
+	* Visible hematuria.
+	* Flank colicky pain (stones).
+* **Systemic/Vasculitis Hx**:
+	* Joint pain.
+	* Novel rashes.
+	* Hemoptysis.
+	* Chronic fever.
+	* Weight loss.
 
 ### Volume Status Examination in AKI
-* **Hypovolemia (Pre-renal)**: Dry mucous membranes, ↓ skin turgor, sunken eyes, postural hypotension, resting tachycardia, flat **JVP**.
-* **Hypervolemia (AKI complication or Cardiorenal)**: ↑ **JVP**, bilateral basal crepitations, peripheral pitting edema, S3 gallop, ascites.
+* **Hypovolemia (Pre-renal)**:
+	* Dry mucous membranes.
+	* ↓ skin turgor.
+	* Sunken eyes.
+	* Postural hypotension.
+	* Resting tachycardia.
+	* Flat **JVP**.
+* **Hypervolemia (AKI complication or Cardiorenal)**:
+	* ↑ **JVP**.
+	* Bilateral basal crepitations.
+	* Peripheral pitting edema.
+	* S3 gallop.
+	* Ascites.
 
 ### System-Specific Physical Signs in AKI
-* **Abdominal/Pelvic**: Palpable distended urinary bladder (dull to percussion - post-renal), ballotable kidneys (polycystic), renal bruit (renal artery stenosis).
-* **Dermatological**: Maculopapular rash (allergic interstitial nephritis), livedo reticularis / blue toes (atheroembolic disease), palpable purpura (vasculitis).
-* **Uremic Signs**: Uremic fetor (ammonia breath), excoriations (pruritus), asterixis (flapping tremor), pericardial rub (uremic pericarditis).
+* **Abdominal/Pelvic**:
+	* Palpable distended urinary bladder (dull to percussion - post-renal).
+	* Ballotable kidneys (polycystic).
+	* Renal bruit (renal artery stenosis).
+* **Dermatological**:
+	* Maculopapular rash (allergic interstitial nephritis).
+	* Livedo reticularis / blue toes (atheroembolic disease).
+	* Palpable purpura (vasculitis).
+* **Uremic Signs**:
+	* Uremic fetor (ammonia breath).
+	* Excoriations (pruritus).
+	* Asterixis (flapping tremor).
+	* Pericardial rub (uremic pericarditis).
 
 ## 4. Differential Diagnoses & Discriminatory Features
 
 ### Differentiating Pre-Renal vs Intrinsic AKI (Clinical Features)
-* **Pre-Renal**: History of fluid loss, clinically dehydrated, rapid improvement of Cr within 24-48 hrs after IV fluid challenge.
-* **Intrinsic**: History of nephrotoxins/sepsis, euvolemic or fluid overloaded, no Cr improvement with fluid challenge, systemic signs of GN.
+* **Pre-Renal**:
+	* History of fluid loss.
+	* Clinically dehydrated.
+	* Rapid improvement of Cr within 24-48 hrs after IV fluid challenge.
+* **Intrinsic**:
+	* History of nephrotoxins/sepsis.
+	* Euvolemic or fluid overloaded.
+	* No Cr improvement with fluid challenge.
+	* Systemic signs of GN.
 
 ### Differentiating AKI vs Chronic Kidney Disease (CKD)
-* **AKI**: No prior renal history, normal baseline Cr, sudden oliguria, normal hemoglobin, normal-sized kidneys on USG (>10 cm).
-* **CKD (慢性腎病)**: Known elevated baseline Cr, chronic anemia (↓ EPO), renal osteodystrophy (secondary hyperparathyroidism), small/echogenic kidneys on USG (<9 cm).
+* **AKI**:
+	* No prior renal history.
+	* Normal baseline Cr.
+	* Sudden oliguria.
+	* Normal hemoglobin.
+	* Normal-sized kidneys on USG (>10 cm).
+* **CKD (慢性腎病)**:
+	* Known elevated baseline Cr.
+	* Chronic anemia (↓ EPO).
+	* Renal osteodystrophy (secondary hyperparathyroidism).
+	* Small/echogenic kidneys on USG (<9 cm).
 
 ### Identifying AKI on CKD (Acute-on-Chronic Renal Failure)
 * **Clinical Picture**: Patient with known CKD (e.g., baseline Cr 150 µmol/L) presents with sudden spike (e.g., Cr 350 µmol/L).
-* **Discriminator**: Extreme susceptibility; even minor insults (mild dehydration, low-dose NSAID) precipitate severe AKI in CKD patients.
+* **Discriminator**:
+	* Extreme susceptibility;
+	* Even minor insults (mild dehydration, low-dose NSAID) precipitate severe AKI in CKD patients.
 
 ## 5. Tiered Investigations (Bedside, Bloods, Imaging, Biopsy & Diagnostic Criteria)
 
 ### Bedside & Urine Investigations for AKI
-* **Urine Dipstick**: +ve Blood/Protein (GN), +ve Leucocytes/Nitrites (UTI), normal (Pre-renal or Post-renal).
+* **Urine Dipstick**:
+	* +ve Blood/Protein (GN).
+	* +ve Leucocytes/Nitrites (UTI).
+	* Normal (Pre-renal or Post-renal).
 * **Urine Microscopy**:
-  * Muddy brown granular casts (Tubular necrosis).
-  * Red blood cell (RBC) casts (Glomerulonephritis).
-  * White blood cell (WBC) casts (Interstitial nephritis / Pyelonephritis).
+	* Muddy brown granular casts (Tubular necrosis).
+	* Red blood cell (RBC) casts (Glomerulonephritis).
+	* White blood cell (WBC) casts (Interstitial nephritis / Pyelonephritis).
 * **Post-Void Residual (PVR) Volume**: via bladder scanner (>100-200 mL suggests urinary retention).
 
 ### Blood Investigations for AKI
@@ -125,17 +182,23 @@
 * **Special Autoimmune Panel (if GN suspected)**: ANA, Anti-dsDNA, ANCA, Anti-GBM, C3/C4, Serum free light chains (myeloma).
 
 ### Urinary Indices: Pre-Renal vs Intrinsic AKI
-| Index | Pre-Renal AKI | Intrinsic AKI |
-| :--- | :--- | :--- |
-| **Fractional Excretion of Na (FENa)** | < 1% (retaining Na to ↑ volume) | > 2% (tubules damaged, wasting Na) |
-| **Fractional Excretion of Urea (FEUrea)** | < 35% (useful if on diuretics) | > 50% |
-| **Urine Osmolality (mOsm/kg)** | > 500 (concentrated urine) | < 350 (isosthenuria - cannot concentrate) |
-| **Urine Sodium (mmol/L)** | < 20 | > 40 |
-| **Urea : Cr Ratio** | > 100:1 (disproportionate ↑ Urea) | < 40:1 (proportionate ↑) |
+| Index                                     | Pre-Renal AKI                     | Intrinsic AKI                             |
+| :---------------------------------------- | :-------------------------------- | :---------------------------------------- |
+| **Fractional Excretion of Na (FENa)**     | < 1% (retaining Na to ↑ volume)   | > 2% (tubules damaged, wasting Na)        |
+| **Fractional Excretion of Urea (FEUrea)** | < 35% (useful if on diuretics)    | > 50%                                     |
+| **Urine Osmolality (mOsm/kg)**            | > 500 (concentrated urine)        | < 350 (isosthenuria - cannot concentrate) |
+| **Urine Sodium (mmol/L)**                 | < 20                              | > 40                                      |
+| **Urea : Cr Ratio**                       | > 100:1 (disproportionate ↑ Urea) | < 40:1 (proportionate ↑)                  |
 
 ### Imaging & Biopsy in AKI
-* **USG Kidneys, Ureters, Bladder (KUB)**: 1st-line imaging to r/o obstructive uropathy (hydronephrosis/hydroureter); assesses renal size/echogenicity.
-* **Renal Biopsy Indications**: Unexplained intrinsic AKI, suspected rapid progressive glomerulonephritis (RPGN), delayed recovery (>4 weeks) of suspected tubular injury, systemic autoimmune disease.
+* **USG Kidneys, Ureters, Bladder (KUB)**:
+	* 1st-line imaging to r/o obstructive uropathy (hydronephrosis/hydroureter);
+	* Assesses renal size/echogenicity.
+* **Renal Biopsy Indications**:
+	* Unexplained intrinsic AKI.
+	* Suspected rapid progressive glomerulonephritis (RPGN).
+	* Delayed recovery (>4 weeks) of suspected tubular injury.
+	* Systemic autoimmune disease.
 
 ## 6. Acute Exacerbation Management & Resuscitation (Flares/Emergencies)
 
@@ -157,7 +220,11 @@
 * **U - Uremia**: Uremic pericarditis, uremic encephalopathy, severe uremic bleeding.
 
 ### Nephrotoxin Avoidance & Adjustments
-* **STOP "DAMN" Drugs**: **D**iuretics (if hypovolemic), **A**CEi/ARB, **M**etformin (risk of lactic acidosis), **N**SAIDs.
+* **STOP "DAMN" Drugs**:
+	* **D**iuretics (if hypovolemic).
+	* **A**CEi/ARB.
+	* **M**etformin (risk of lactic acidosis).
+	* **N**SAIDs.
 * **Contrast Minimization**: Withhold non-urgent contrast CT scans (Contrast-induced nephropathy risk).
 * **Dose Adjustments**: Renally adjust all required medications (e.g., antibiotics, NOACs) based on estimated GFR.
 
@@ -168,7 +235,9 @@
 * **BP Optimization**: Maintain tight BP control (< 130/80 mmHg) using alternative antihypertensives (CCBs, beta-blockers) until renal function stabilizes.
 
 ### Outpatient Medication Re-Introduction Post-AKI
-* **ACEi/ARB Re-initiation**: Carefully reintroduce only after Cr returns to baseline/stabilizes, to manage proteinuria/hypertension; requires RFT check 1-2 weeks post-restart.
+* **ACEi/ARB Re-initiation**:
+	* Carefully reintroduce only after Cr returns to baseline/stabilizes, to manage proteinuria/hypertension;
+	* Requires RFT check 1-2 weeks post-restart.
 * **Metformin**: Re-initiate only if eGFR recovers to > 30 mL/min/1.73m² (HK HA guideline threshold).
 
 ### Lifestyle Modifications Post-AKI
@@ -185,23 +254,40 @@
 | **Stage 3** | ↑ Cr ≥3.0x baseline OR Cr ≥353.6 µmol/L OR RRT needed | < 0.3 mL/kg/hr for ≥24 hrs OR Anuria for ≥12 hrs |
 
 ### Prognosis & Phases of Renal Recovery
-* **Oliguric Phase**: 1-2 weeks; high risk of volume overload and hyperkalemia.
-* **Polyuric (Diuretic) Phase**: GFR recovers before tubular reabsorptive capacity → massive dilute urine output → high risk of hypovolemia and hypokalemia.
-* **Recovery Phase**: Weeks to months; Cr normalizes, but up to 30% suffer permanent structural damage leading to long-term CKD.
+* **Oliguric Phase**:
+	* 1-2 weeks;
+	* High risk of volume overload and hyperkalemia.
+* **Polyuric (Diuretic) Phase**:
+	* GFR recovers before tubular reabsorptive capacity → massive dilute urine output → high risk of hypovolemia and hypokalemia.
+* **Recovery Phase**:
+	* Weeks to months;
+	* Cr normalizes, but up to 30% suffer permanent structural damage leading to long-term CKD.
 
 ## 9. Multi-System Complications (End-Organ Damage & Drug Adverse Effects)
 
 ### Cardiovascular & Pulmonary Complications of AKI
-* **Fluid Overload**: Acute pulmonary edema, peripheral edema, hypertension.
-* **Arrhythmias**: Ventricular fibrillation or asystole secondary to severe hyperkalemia.
+* **Fluid Overload**:
+	* Acute pulmonary edema.
+	* Peripheral edema.
+	* Hypertension.
+* **Arrhythmias**:
+	* Ventricular fibrillation or asystole secondary to severe hyperkalemia.
 
 ### Neurological & GI Complications of AKI (Uremic Syndrome)
-* **Neurological**: Uremic encephalopathy (confusion, seizures, coma).
-* **Gastrointestinal**: Uremic gastritis, nausea/vomiting, mucosal GI bleeding secondary to uremic platelet dysfunction (impaired aggregation).
+* **Neurological**:
+	* Uremic encephalopathy (confusion, seizures, coma).
+* **Gastrointestinal**:
+	* Uremic gastritis.
+	* Nausea/vomiting.
+	* Mucosal GI bleeding secondary to uremic platelet dysfunction (impaired aggregation).
 
 ### Iatrogenic & Treatment-Related Complications in AKI
-* **Central Venous Catheter (CVC) Complications**: Catheter-related bloodstream infections (CRBSI), central vein stenosis, pneumothorax during insertion for RRT.
-* **Dialysis Disequilibrium Syndrome**: Rapid removal of urea during RRT causes osmotic fluid shifts into the brain → cerebral edema & seizures.
+* **Central Venous Catheter (CVC) Complications**:
+	* Catheter-related bloodstream infections (CRBSI).
+	* Central vein stenosis.
+	* Pneumothorax during insertion for RRT.
+* **Dialysis Disequilibrium Syndrome**:
+	* Rapid removal of urea during RRT causes osmotic fluid shifts into the brain → cerebral edema & seizures.
 
 ## 10. Examiner's Pearls
 
