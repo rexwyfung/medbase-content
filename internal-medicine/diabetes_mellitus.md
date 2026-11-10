@@ -281,7 +281,7 @@
 * **Diabetic Nephropathy:** Leads to CKD.
 * **Diabetic Retinopathy:** Leads to visual loss.
 
-### Endocrine & Infectious Complications
+### Infectious Complications
 * **Infections:**
 	* Fungal (Candidiasis, Mucormycosis).
 	* Bacterial (Tuberculosis, severe UTIs/pyelonephritis, Emphysematous cholecystitis).
