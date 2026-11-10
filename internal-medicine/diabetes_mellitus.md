@@ -246,6 +246,7 @@
 ### Type 1 Diabetes Pharmacotherapy
 * **Basal-Bolus Regimen (MDI):** 1x Long-acting basal insulin (Glargine) + 3x Rapid-acting bolus insulin (Aspart) before meals.
 * **Continuous Subcutaneous Insulin Infusion (CSII):** Insulin pump therapy for selected brittle T1DM patients.
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/951794d0d4b691a51ebab29aeca70dfb.png)
 
 ## 8. Risk Stratification, Clinical Scoring Systems & Prognosis
 
@@ -317,6 +318,6 @@
 * Viva Question: How do you differentiate a CN III palsy caused by diabetes from one caused by a posterior communicating artery (PCoA) aneurysm? Answer: Diabetic CN III palsy is classically "pupil-sparing" due to microvascular ischemia of the central nerve core. PCoA aneurysms compress the outside of the nerve, hitting the parasympathetic pupilloconstrictor fibers first, causing a dilated, unreactive pupil.
 * Trap: Assuming a patient with DKA and a "normal" serum potassium level of 4.5 mmol/L does not need potassium replacement. Pearl: Total body potassium is profoundly depleted in DKA. Once insulin is given, potassium rapidly shifts intracellularly, risking fatal arrhythmias. Always add KCl to IV fluids once urine output is confirmed, unless serum K+ is >5.5 mmol/L. ![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/2d6d48b13aa47a00b6625d27d2bc0ef4.png)
 * Pitfall: Prescribing SGLT2 inhibitors and advising the patient to continue taking them during an acute illness or fasting. You must advise patients on "Sick Day Rules" to withhold SGLT2i during illness, fasting, or perioperatively to prevent the rare but severe risk of Euglycemic DKA.
-* Viva Question: Why do we use IV Normal Saline (0.9% NaCl) initially for HHS instead of hypotonic solutions, despite the hyperosmolar state? Answer: Rapid shifts in osmolality with hypotonic fluids can drive water into neurons, causing devastating cerebral edema. Saline allows gradual osmolality reduction while expanding the severely depleted intravascular volume.
+	* Viva Question: Why do we use IV Normal Saline (0.9% NaCl) initially for HHS instead of hypotonic solutions, despite the hyperosmolar state? Answer: Rapid shifts in osmolality with hypotonic fluids can drive water into neurons, causing devastating cerebral edema. Saline allows gradual osmolality reduction while expanding the severely depleted intravascular volume.
 * Trap: Using HbA1c to diagnose or monitor diabetes in a patient with Thalassemia or recent blood transfusions. Pearl: HbA1c relies on a normal 120-day RBC lifespan. Hemoglobinopathies (highly prevalent in HK), hemolysis, or transfusions alter RBC turnover, rendering HbA1c inaccurate. Use FPG, OGTT, or fructosamine instead.
 * Pitfall: Stopping the fixed-rate IV insulin infusion in DKA as soon as the capillary blood glucose drops below 14.0 mmol/L. The insulin is suppressing ketogenesis; stopping it will cause relapse. You must add IV Dextrose to maintain euglycemia while continuing the insulin infusion until blood ketones clear (<0.6 mmol/L).
