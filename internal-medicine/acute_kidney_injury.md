@@ -1,6 +1,6 @@
 # Acute Kidney Injury (急性腎損傷)
 
-## 1. Clinical Definition, Etiologies & Local Epidemiology
+## 1. Clinical Definition & Local Epidemiology
 
 ### Clinical Definition of Acute Kidney Injury (KDIGO Criteria)
 * **Definition**: Abrupt ↓ in kidney function leading to retention of urea/nitrogenous waste & dysregulation of extracellular volume/electrolytes.
@@ -9,6 +9,17 @@
 	* ↑ Serum **Cr** to ≥1.5x baseline within prior 7 days.
 	* Urine Output (**UO**) <0.5 mL/kg/hr for 6 hrs.
 
+### Local Epidemiology of AKI in Hong Kong
+* **Prevalence**:
+	* Complicates ~10-15% of all Hospital Authority (HA) admissions;
+	* Mostly elderly (人口老化).
+* **Common Subtypes**: Pre-renal & ischemic tubular injury account for >70% of ward AKI.
+* **High-Risk Groups**:
+	* Diabetics.
+	* Underlying Chronic Kidney Disease (**CKD** - 慢性腎病).
+	* Heart failure patients.
+
+## 2. Etiologies, Systemic Pathophysiology & Molecular Mechanisms
 ### Etiologies of Pre-Renal AKI (腎前性)
 * **Hypovolemia**: Hemorrhage, GI loss (diarrhea/vomiting), renal loss (diuretics), skin loss (burns).
 * **↓ Effective Arterial Blood Volume (EABV)**:
@@ -47,18 +58,6 @@
 	* Benign Prostatic Hyperplasia (**BPH** - 前列腺肥大).
 	* Prostate/cervical cancer.
 	* Retroperitoneal fibrosis.
-
-### Local Epidemiology of AKI in Hong Kong
-* **Prevalence**:
-	* Complicates ~10-15% of all Hospital Authority (HA) admissions;
-	* Mostly elderly (人口老化).
-* **Common Subtypes**: Pre-renal & ischemic tubular injury account for >70% of ward AKI.
-* **High-Risk Groups**:
-	* Diabetics.
-	* Underlying Chronic Kidney Disease (**CKD** - 慢性腎病).
-	* Heart failure patients.
-
-## 2. Systemic Pathophysiology & Molecular Mechanisms
 
 ### Pathophysiology of Pre-Renal AKI
 * **Hemodynamic Compensation**: ↓ Renal perfusion → activation of **RAAS** & SNS → Angiotensin II constricts efferent arteriole (maintains GFR) + Prostaglandins dilate afferent arteriole.
