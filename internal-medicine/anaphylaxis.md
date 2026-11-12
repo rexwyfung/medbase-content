@@ -125,17 +125,16 @@
 ## 5. Tiered Investigations (Bedside, Bloods, Imaging, Biopsy & Diagnostic Criteria)
 
 ### WAO Diagnostic Criteria for Anaphylaxis
+> Professor Philip Li (HKU) does not require students to memorise the WAO definition. Students are only required to know the definition of anaphylaxis to be:
+> 1. Immediate
+> 2. Systemic
+> 3. Life-threatening
 * **Diagnosis is strictly CLINICAL**. Do NOT delay treatment for any investigations.
 * Anaphylaxis is highly likely if **ANY ONE** of the following 2 criteria is met:
 	* **Criterion 1**: Acute onset (mins to hrs) of illness involving skin, mucosal tissue, or both (e.g., generalized hives, pruritus/flushing, swollen lips/tongue/uvula) **AND AT LEAST ONE** of the following:
 		* a) Respiratory compromise (e.g., dyspnea, wheeze-bronchospasm, stridor, hypoxemia).
 		* b) Reduced BP or associated symptoms of end-organ dysfunction (e.g., hypotonia, syncope, incontinence).
 	* **Criterion 2**: Acute onset of **hypotension OR bronchospasm OR laryngeal involvement** after exposure to a *known or highly probable allergen* for that patient (minutes to several hours), even in the absence of typical skin involvement.
-
-> Professor Philip Li (HKU) does not require students to memorise the WAO definition. Students are only required to know the definition of anaphylaxis to be:
-> 1. Immediate
-> 2. Systemic
-> 3. Life-threatening
 
 ### Bedside Monitoring
 * **ECG**: Continuous cardiac monitoring (ischemia, arrhythmias).
