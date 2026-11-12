@@ -184,13 +184,13 @@
 ## 7. Chronic Management Algorithm & Disease-Modifying Therapies (Pharmacology & Lifestyle)
 
 ### Chronic Pharmacological Management of Arrhythmias (Vaughan Williams)
-| Class | Mechanism | Drugs (HA Formulary) | Indication & Chronic Use |
-| :--- | :--- | :--- | :--- |
-| **I (Na+ block)** | ↓ Phase 0 upslope | Flecainide (Ic), Propafenone (Ic) | Pill-in-the-pocket for paroxysmal AF. Avoid in IHD/structural disease. |
-| **II (Beta block)** | ↓ SA/AV automaticity | Metoprolol, Bisoprolol, Atenolol | First-line rate control in AF, SVT prevention, VT prevention post-MI. |
-| **III (K+ block)** | Prolongs AP / repolarization | Amiodarone, Sotalol | Rhythm control in AF, prevention of VT/VF. |
-| **IV (Ca2+ block)**| ↓ AV conduction | Verapamil, Diltiazem | Rate control in AF, SVT prevention. |
-| **Others** | Na/K ATPase block | Digoxin | Rate control in AF with concomitant HF. |
+| Class               | Mechanism                    | Drugs (HA Formulary)              | Indication & Chronic Use                                                      |
+| :------------------ | :--------------------------- | :-------------------------------- | :---------------------------------------------------------------------------- |
+| **I (Na+ block)**   | ↓ Phase 0 upslope            | Flecainide (Ic), Propafenone (Ic) | - Pill-in-the-pocket for paroxysmal AF.<br>- Avoid in IHD/structural disease. |
+| **II (Beta block)** | ↓ SA/AV automaticity         | Metoprolol, Bisoprolol, Atenolol  | First-line rate control in AF, SVT prevention, VT prevention post-MI.         |
+| **III (K+ block)**  | Prolongs AP / repolarization | Amiodarone, Sotalol               | Rhythm control in AF, prevention of VT/VF.                                    |
+| **IV (Ca2+ block)** | ↓ AV conduction              | Verapamil, Diltiazem              | Rate control in AF, SVT prevention.                                           |
+| **Others**          | Na/K ATPase block            | Digoxin                           | Rate control in AF with concomitant HF.                                       |
 
 ### Chronic Device and Ablation Therapy
 * **Permanent Pacemaker (PPM):**
