@@ -96,7 +96,7 @@
 * **Perfusion**:
 	* Delayed capillary refill.
 	* Diaphoresis.
-	* Dyncope/collapse.
+	* Syncope/collapse.
 	* Bradycardia may occur late (imminent arrest).
 
 ### Gastrointestinal & Neurological Signs
