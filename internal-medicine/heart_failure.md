@@ -180,6 +180,7 @@
 	* LVEF ≤35%
 	* Sinus rhythm
 	* LBBB with QRS duration ≥130ms
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/c8ea345e0473516116731c29abfcac93.png)
 
 ### Lifestyle Modifications (Non-Pharmacological)
 * **Fluid Restriction**: 1.5 - 2.0 L/day (especially if hyponatremic)
