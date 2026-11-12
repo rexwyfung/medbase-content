@@ -109,7 +109,7 @@
 * **Troponin (hs-cTnI)**: Detect acute ischemia as precipitant
 
 ### Imaging & Special Investigations
-* **Chest X-Ray (CXR)**: `ABCDE` -
+* **Chest X-Ray (CXR)**: `ABCDE` 
 	* **A**lveolar edema (batwing)
 	* Kerley **B** lines (interstitial edema)
 	* **C**ardiomegaly (CTR >0.5)
