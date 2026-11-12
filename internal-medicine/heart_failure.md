@@ -122,10 +122,10 @@
 ![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/2aba9a3c952eb6d9a55a16c0da35e075.png)
 
 ### Diagnostic Criteria for Heart Failure (Framingham Criteria)
-| Category           | Criteria (Requires 2 Major OR 1 Major + 2 Minor)                                                                                                                                                 |
-| :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Major Criteria** | - PND<br>- Orthopnea<br>- Elevated JVP<br>- Pulmonary rales<br>- S3 gallop<br>- Cardiomegaly on CXR<br>- Acute pulmonary edema<br>- Hepatojugular reflux<br>- Weight loss >4.5kg in 5 days of Rx |
-| **Minor Criteria** | - Bilateral ankle edema<br>- Nocturnal cough<br>- Dyspnea on ordinary exertion<br>- Hepatomegaly<br>- Pleural effusion<br>- Tachycardia (>120 bpm)                                               |
+| Category                           | Criteria (Requires 2 Major OR 1 Major + 2 Minor)                                                                                                                                                                                                 |
+| :--------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Major Criteria**<br>`HEART COPS` | - **H**epatojugular reflux<br>- **E**levated JVP<br>- **A**cute pulmonary edema<br>- Pulmonary **r**ales<br>- Weight loss >4.5kg in 5 days of Rx (**T**reatment)<br>- **C**ardiomegaly on CXR<br>- **O**rthopnea<br>- **P**ND<br>- **S**3 gallop |
+| **Minor Criteria**<br>`CHEST P.`   | - Nocturnal **c**ough<br>- **H**epatomegaly<br>- Bilateral ankle **e**dema<br>- Dyspnea on ordinary exertion (**S**OB)<br>- **T**achycardia (>120 bpm)<br>- **P**leural effusion                                                                 |
 
 ## 6. Acute Exacerbation Management & Resuscitation (Flares/Emergencies)
 
@@ -156,12 +156,12 @@
 ## 7. Chronic Management Algorithm & Disease-Modifying Therapies (Pharmacology & Lifestyle)
 
 ### The "Fantastic Four" Foundational Therapies (HFrEF)
-| Drug Class | Examples (HK HA Formulary) | Target Dose | Mechanism & Clinical Notes |
-| :--- | :--- | :--- | :--- |
-| **ARNI or ACEi** | **Sacubitril/Valsartan** (Entresto) OR **Ramipril** | 97/103mg BD OR 10mg OM | Inhibits neprilysin & RAAS. ↑ survival. *Cease ACEi 36hrs before starting ARNI.* |
-| **Beta-Blockers** | **Bisoprolol**, **Carvedilol**, **Metoprolol Succinate** | 10mg OM (Bisoprolol) | ↓ sympathetic overdrive, reverse remodeling. *Start low, go slow. Do NOT initiate in acute decompensation.* |
-| **MRA** | **Spironolactone**, **Eplerenone** | 25-50mg OM | Aldosterone antagonism. Prevents myocardial fibrosis. *Monitor K+ closely.* |
-| **SGLT2i** | **Dapagliflozin**, **Empagliflozin** | 10mg OM | Osmotic diuresis, ↓ myocardial wall stress. ↑ survival in HFrEF & HFpEF. |
+| Drug Class        | Examples (HK HA Formulary)                               | Target Dose            | Mechanism & Clinical Notes                                                                                  |
+| :---------------- | :------------------------------------------------------- | :--------------------- | :---------------------------------------------------------------------------------------------------------- |
+| **ARNI or ACEi**  | **Sacubitril/Valsartan** (Entresto) OR **Ramipril**      | 97/103mg BD OR 10mg OM | Inhibits neprilysin & RAAS. ↑ survival. *Cease ACEi 36hrs before starting ARNI.*                            |
+| **Beta-Blockers** | **Bisoprolol**, **Carvedilol**, **Metoprolol Succinate** | 10mg OM (Bisoprolol)   | ↓ sympathetic overdrive, reverse remodeling. *Start low, go slow. Do NOT initiate in acute decompensation.* |
+| **MRA**           | **Spironolactone**, **Eplerenone**                       | 25-50mg OM             | Aldosterone antagonism. Prevents myocardial fibrosis. *Monitor K+ closely.*                                 |
+| **SGLT2i**        | **Dapagliflozin**, **Empagliflozin**                     | 10mg OM                | Osmotic diuresis, ↓ myocardial wall stress. ↑ survival in HFrEF & HFpEF.                                    |
 
 ### Symptom Relief & Adjunctive Therapies
 * **Loop Diuretics**:
