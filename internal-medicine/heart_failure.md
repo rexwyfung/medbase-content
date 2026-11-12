@@ -34,10 +34,12 @@
 * **Sympathetic Nervous System (SNS)**: ↑ Noradrenaline → ↑ HR, ↑ contractility, vasoconstriction → long-term cardiotoxicity & downregulation of β-receptors
 * **RAAS Activation**: ↑ Angiotensin II (vasoconstriction) & ↑ Aldosterone (Na+/H2O retention) → ↑ preload & afterload
 * **Natriuretic Peptides**: Atrial wall stretch → release of **ANP** & **BNP** → vasodilation, natriuresis (counter-regulatory, but ultimately overwhelmed)
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/a650cb50fd073bd723bd320883bd9e47.png)
 
 ### Myocardial Remodeling Pathways
 * **HFrEF (Eccentric Hypertrophy)**: Volume overload/infarct → sarcomeres added in series → ventricular dilation & wall thinning
 * **HFpEF (Concentric Hypertrophy)**: Pressure overload (HTN, AS) → sarcomeres added in parallel → thickened, stiff ventricle → impaired diastolic relaxation
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/7ab9e2308f087d0dcb1e76f583762a2a.png)
 
 ## 3. Clinical Assessment (Detailed History & System-Specific Physical Signs ONLY)
 
@@ -55,8 +57,12 @@
 ### Left-Sided Heart Failure Physical Signs
 * **Vital Signs**: Tachycardia, pulsus alternans (severe LV failure)
 * **Precordium**: Displaced, sustained apex beat
-* **Auscultation**: **S3 Gallop Rhythm (第三心音)**, functional **Mitral Regurgitation (二尖瓣逆流)** murmur (pansystolic)
-* **Pulmonary**: Bibasal fine crackles (crepitations), pleural effusion (dullness to percussion, ↓ breath sounds)
+* **Auscultation**:
+	* **S3 Gallop Rhythm (第三心音)**.
+	* Functional **Mitral Regurgitation (二尖瓣逆流)** murmur (pansystolic)
+* **Pulmonary**:
+	* Bibasal fine crackles (crepitations).
+	* Pleural effusion (dullness to percussion, ↓ breath sounds)
 
 ### Right-Sided Heart Failure Physical Signs
 * **Jugular Venous Pressure (JVP)**: Elevated, prominent v-wave (if tricuspid regurgitation)
@@ -64,16 +70,16 @@
 * **Precordium**: Left parasternal heave (RV enlargement)
 * **Abdomen**: Tender hepatomegaly, ascites (shifting dullness)
 * **Extremities**: Bilateral pitting edema
-
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/ed516aaa96535e12c736073a39223635.png)
 ## 4. Differential Diagnoses & Discriminatory Features
 
 ### Respiratory vs Cardiac Dyspnea
-| Condition | Key Discriminatory Features |
-| :--- | :--- |
-| **Heart Failure (心臟衰竭)** | Orthopnea, PND, S3 gallop, elevated JVP, bilateral crackles |
-| **COPD (慢性阻塞性肺病)** | Smoking history, productive cough, hyperinflated chest, wheezing, pursed-lip breathing |
+| Condition                    | Key Discriminatory Features                                                                |
+| :--------------------------- | :----------------------------------------------------------------------------------------- |
+| **Heart Failure (心臟衰竭)**     | Orthopnea, PND, S3 gallop, elevated JVP, bilateral crackles                                |
+| **COPD (慢性阻塞性肺病)**           | Smoking history, productive cough, hyperinflated chest, wheezing, pursed-lip breathing     |
 | **Pulmonary Embolism (肺栓塞)** | Sudden onset, pleuritic chest pain, hemoptysis, unilateral leg swelling (DVT), clear lungs |
-| **Pneumonia (肺炎)** | Fever, purulent sputum, localized bronchial breathing/crackles, egophony |
+| **Pneumonia (肺炎)**           | Fever, purulent sputum, localized bronchial breathing/crackles, egophony                   |
 
 ### Peripheral Edema Differentials
 | Condition | Key Discriminatory Features |
@@ -87,10 +93,15 @@
 ## 5. Tiered Investigations (Bedside, Bloods, Imaging, Biopsy & Diagnostic Criteria)
 
 ### Bedside Investigations
-* **ECG (心電圖)**: Identifies underlying causes; look for prior MI (Q waves), LVH, **Atrial Fibrillation (心房顫動)**, LBBB (QRS >120ms - criteria for CRT)
+* **ECG (心電圖)**:
+	* Identifies underlying causes;
+	* Look for prior MI (Q waves), LVH, **Atrial Fibrillation (心房顫動)**, LBBB (QRS >120ms - criteria for CRT)
 
 ### Blood Investigations
-* **NT-proBNP**: High sensitivity (rule-out test). Acute HF: >300 pg/mL. Chronic: >125 pg/mL.
+* **NT-proBNP**:
+	* High sensitivity (rule-out test).
+	* Acute HF: >300 pg/mL.
+	* Chronic: >125 pg/mL.
 * **CBP**: Rule out anemia (precipitant), infection
 * **Urea & Electrolytes (U&E)**: Baseline creatinine (prior to RAAS inhibition), hyponatremia (poor prognostic sign), hypokalemia (diuretic effect)
 * **Liver Function Tests (LFT)**: Congestive hepatopathy (↑ Bilirubin, ↑ ALP, ↑ ALT)
@@ -98,25 +109,44 @@
 * **Troponin (hs-cTnI)**: Detect acute ischemia as precipitant
 
 ### Imaging & Special Investigations
-* **Chest X-Ray (CXR)**: `ABCDE` - **A**lveolar edema (batwing), **B**erley B lines (interstitial edema), **C**ardiomegaly (CTR >0.5), **D**ilated upper lobe vessels (cephalization), **E**ffusion (blunted costophrenic angles)
-* **Transthoracic Echocardiogram (TTE)**: **Gold Standard**. Quantifies LVEF, assesses diastolic function (E/A ratio), chamber sizes, valvular pathology, regional wall motion abnormalities
+* **Chest X-Ray (CXR)**: `ABCDE` -
+	* **A**lveolar edema (batwing)
+	* Kerley **B** lines (interstitial edema)
+	* **C**ardiomegaly (CTR >0.5)
+	* **D**ilated upper lobe vessels (cephalization)
+	* **E**ffusion (blunted costophrenic angles)
+* **Transthoracic Echocardiogram (TTE)**:
+	* **Gold Standard**.
+	* Quantifies LVEF, assesses diastolic function (E/A ratio), chamber sizes, valvular pathology, regional wall motion abnormalities
 * **Coronary Angiogram**: If ischemic etiology suspected
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/2aba9a3c952eb6d9a55a16c0da35e075.png)
 
 ### Diagnostic Criteria for Heart Failure (Framingham Criteria)
-| Category | Criteria (Requires 2 Major OR 1 Major + 2 Minor) |
-| :--- | :--- |
-| **Major Criteria** | PND, Orthopnea, Elevated JVP, Pulmonary rales, S3 gallop, Cardiomegaly on CXR, Acute pulmonary edema, Hepatojugular reflux, Weight loss >4.5kg in 5 days of Rx |
-| **Minor Criteria** | Bilateral ankle edema, Nocturnal cough, Dyspnea on ordinary exertion, Hepatomegaly, Pleural effusion, Tachycardia (>120 bpm) |
+| Category           | Criteria (Requires 2 Major OR 1 Major + 2 Minor)                                                                                                                                                 |
+| :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Major Criteria** | - PND<br>- Orthopnea<br>- Elevated JVP<br>- Pulmonary rales<br>- S3 gallop<br>- Cardiomegaly on CXR<br>- Acute pulmonary edema<br>- Hepatojugular reflux<br>- Weight loss >4.5kg in 5 days of Rx |
+| **Minor Criteria** | - Bilateral ankle edema<br>- Nocturnal cough<br>- Dyspnea on ordinary exertion<br>- Hepatomegaly<br>- Pleural effusion<br>- Tachycardia (>120 bpm)                                               |
 
 ## 6. Acute Exacerbation Management & Resuscitation (Flares/Emergencies)
 
 ### Acute Pulmonary Edema Resuscitation Protocol
-* **Patient Positioning**: Sit patient straight up (legs dangling if possible) to ↓ venous return
-* **O (Oxygen)**: High-flow O2 via non-rebreather mask; target SpO2 >94%
-* **L (Loop Diuretics)**: IV **Furosemide (呋塞米)** (40-80mg stat, or double home dose). Onset ~15 mins (venodilation) then diuresis
-* **N (Nitrates)**: SL GTN or IV **Nitroglycerin**. Only if Systolic BP >110 mmHg. Potent venodilator to ↓ preload
-* **Ventilatory Support**: **CPAP/BiPAP** (Non-Invasive Ventilation) if respiratory distress persists, pH <7.35, or hypoxemic despite high-flow O2
-* **M (Morphine)**: Avoided in HA guidelines due to risk of respiratory depression; use only for severe refractory anxiety/chest pain
+**LMNOP**:
+* **P (Patient Positioning)**:
+	* Sit patient straight up (legs dangling if possible) to ↓ venous return
+* **O (Oxygen)**:
+	* High-flow O2 via non-rebreather mask;
+	* Target SpO2 >94%
+	* **Ventilatory Support**: **CPAP/BiPAP** (Non-Invasive Ventilation) if respiratory distress persists, pH <7.35, or hypoxemic despite high-flow O2
+* **L (Loop Diuretics)**:
+	* IV **Furosemide (呋塞米)** (40-80mg stat, or double home dose).
+	* Onset ~15 mins (venodilation) then diuresis
+* **N (Nitrates)**:
+	* SL GTN or IV **Nitroglycerin**.
+	* Only if Systolic BP >110 mmHg.
+	* Potent venodilator to ↓ preload
+* **M (Morphine)**:
+	* Avoided in HA guidelines due to risk of respiratory depression;
+	* Use only for severe refractory anxiety/chest pain
 
 ### Management of Cardiogenic Shock (Cold & Wet)
 * **Inotropes**: IV **Dobutamine** or **Milrinone** (↑ contractility)
@@ -134,13 +164,22 @@
 | **SGLT2i** | **Dapagliflozin**, **Empagliflozin** | 10mg OM | Osmotic diuresis, ↓ myocardial wall stress. ↑ survival in HFrEF & HFpEF. |
 
 ### Symptom Relief & Adjunctive Therapies
-* **Loop Diuretics**: Oral **Furosemide** (titrate to euvolemia). Symptomatic relief only, no survival benefit
-* **Ivabradine**: If HR >70 bpm despite max tolerated Beta-blocker in sinus rhythm (inhibits If channel in SA node)
-* **Digoxin**: Add-on for refractory symptoms or co-existing rapid **Atrial Fibrillation (心房顫動)**. Narrow therapeutic index
+* **Loop Diuretics**:
+	* Oral **Furosemide** (titrate to euvolemia).
+	* Symptomatic relief only, no survival benefit
+* **Ivabradine**:
+	* If HR >70 bpm despite max tolerated Beta-blocker in sinus rhythm (inhibits If channel in SA node)
+* **Digoxin**:
+	* Add-on for refractory symptoms or co-existing rapid **Atrial Fibrillation (心房顫動)**.
+	* Narrow therapeutic index
 
 ### Device Therapy Indications
-* **Implantable Cardioverter-Defibrillator (ICD)**: Primary prevention for LVEF ≤35% after 3 months of optimal medical therapy (prevents sudden cardiac death)
-* **Cardiac Resynchronization Therapy (CRT)**: LVEF ≤35%, sinus rhythm, and LBBB with QRS duration ≥130ms
+* **Implantable Cardioverter-Defibrillator (ICD)**:
+	* Primary prevention for LVEF ≤35% after 3 months of optimal medical therapy (prevents sudden cardiac death)
+* **Cardiac Resynchronization Therapy (CRT)**:
+	* LVEF ≤35%
+	* Sinus rhythm
+	* LBBB with QRS duration ≥130ms
 
 ### Lifestyle Modifications (Non-Pharmacological)
 * **Fluid Restriction**: 1.5 - 2.0 L/day (especially if hyponatremic)
@@ -169,14 +208,31 @@
 ### Target Organ Damage from Heart Failure
 * **Renal**: Cardiorenal Syndrome (↑ venous congestion & ↓ arterial perfusion → progressive CKD)
 * **Hepatic**: Cardiac Cirrhosis (centrilobular necrosis due to chronic venous congestion), "nutmeg liver"
-* **Respiratory**: Pulmonary hypertension (post-capillary), recurrent transudative pleural effusions
-* **Neurological**: Cognitive impairment (chronic hypoperfusion), cardiac cachexia (TNF-α mediated)
+* **Respiratory**:
+	* Pulmonary hypertension (post-capillary)
+	* Recurrent transudative pleural effusions
+* **Neurological**:
+	* Cognitive impairment (chronic hypoperfusion)
+	* Cardiac cachexia (TNF-α mediated)
 
 ### Drug-Induced Complications (Heart Failure Therapy)
-* **ACEi/ARNI**: Dry cough (bradykinin), hyperkalemia, acute kidney injury (AKI), angioedema
-* **Beta-Blockers**: Bradycardia, AV block, bronchospasm, fatigue
-* **Spironolactone**: Gynecomastia (use Eplerenone instead), hyperkalemia
-* **Diuretics**: Hypokalemia, hyponatremia, hyperuricemia (gout flare)
+* **ACEi/ARNI**:
+	* Dry cough (bradykinin)
+	* Hyperkalemia
+	* Acute kidney injury (AKI)
+	* Angioedema
+* **Beta-Blockers**:
+	* Bradycardia
+	* AV block
+	* Bronchospasm
+	* Fatigue
+* **Spironolactone**:
+	* Gynecomastia (use Eplerenone instead)
+	* Hyperkalemia
+* **Diuretics**:
+	* Hypokalemia
+	* Hyponatremia
+	* Hyperuricemia (gout flare)
 
 ## 10. Examiner's Pearls
 * Viva Question: What is the single best initial non-invasive test for suspected heart failure? Answer: Transthoracic Echocardiogram (TTE) to assess LVEF and structural anomalies.
