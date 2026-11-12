@@ -163,7 +163,7 @@
 * **Formulation**: 1:1,000 (1 mg/mL) adrenaline.
 * **Adult Dose**: **0.5 mg (0.5 mL) IM**.
 * **Pediatric Doses**:
-	* > 12 years: 0.5 mg IM
+	* \> 12 years: 0.5 mg IM
 	* 6 - 12 years: 0.3 mg IM
 	* < 6 years: 0.15 mg IM
 * **Repetition**: Repeat every **5 to 15 minutes** if no clinical improvement or if deterioration occurs.
