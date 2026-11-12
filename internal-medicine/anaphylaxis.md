@@ -132,6 +132,11 @@
 		* b) Reduced BP or associated symptoms of end-organ dysfunction (e.g., hypotonia, syncope, incontinence).
 	* **Criterion 2**: Acute onset of **hypotension OR bronchospasm OR laryngeal involvement** after exposure to a *known or highly probable allergen* for that patient (minutes to several hours), even in the absence of typical skin involvement.
 
+> Professor Philip Li (HKU) does not require students to memorise the WAO definition. Students are only required to know the definition of anaphylaxis to be:
+> 1. Immediate
+> 2. Systemic
+> 3. Life-threatening
+
 ### Bedside Monitoring
 * **ECG**: Continuous cardiac monitoring (ischemia, arrhythmias).
 * **Vitals**:
