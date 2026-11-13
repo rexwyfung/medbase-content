@@ -220,16 +220,16 @@
 ## 8. Risk Stratification, Clinical Scoring Systems & Prognosis
 
 ### CHA2DS2-VASc Stroke Risk Stratification (HK Guidelines)
-| Letter | Risk Factor | Points |
-| :--- | :--- | :--- |
-| **C** | Congestive Heart Failure (LVEF <40% or clinical HF) | 1 |
-| **H** | Hypertension | 1 |
-| **A2**| Age ≥ 75 years | 2 |
-| **D** | Diabetes Mellitus | 1 |
-| **S2**| Stroke / TIA / Thromboembolism history | 2 |
-| **V** | Vascular disease (prior MI, PAD, aortic plaque) | 1 |
-| **A** | Age 65 - 74 years | 1 |
-| **Sc**| Sex category (Female) | 1 |
+| Letter | Risk Factor                                         | Points |
+| :----- | :-------------------------------------------------- | :----- |
+| **C**  | Congestive Heart Failure (LVEF <40% or clinical HF) | 1      |
+| **H**  | Hypertension                                        | 1      |
+| **A2** | Age ≥ 75 years                                      | 2      |
+| **D**  | Diabetes Mellitus                                   | 1      |
+| **S2** | Stroke / TIA / Thromboembolism history              | 2      |
+| **V**  | Vascular disease (prior MI, PAD, aortic plaque)     | 1      |
+| **A**  | Age 65 - 74 years                                   | 1      |
+| **Sc** | Sex category (Female)                               | 1      |
 
 ### HAS-BLED Bleeding Risk Stratification
 | Letter | Risk Factor | Points |

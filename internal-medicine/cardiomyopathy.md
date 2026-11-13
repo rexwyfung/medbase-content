@@ -153,7 +153,9 @@
 ### Invasive Investigations & Endomyocardial Biopsy (EMB)
 * **Left/Right Heart Catheterization:** Rule out CAD; assess hemodynamics.
 * **EMB Indications:** Unexplained new-onset HF <2 weeks with hemodynamic compromise, suspected myocarditis, or specific infiltrative disease.
-* **EMB Findings:** Congo red stain +ve with apple-green birefringence (Amyloid), non-caseating granulomas (Sarcoidosis).
+* **EMB Findings:**
+	* Congo red stain +ve with apple-green birefringence (Amyloid).
+	* Non-caseating granulomas (Sarcoidosis).
 ![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/e3f9a845f3144ebf960ec17d3fd71022.png)
 
 ## 6. Acute Exacerbation Management & Resuscitation (Flares/Emergencies)

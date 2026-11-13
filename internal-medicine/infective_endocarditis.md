@@ -1,9 +1,19 @@
 # Infective Endocarditis (感染性心內膜炎)
 
-## 1. Clinical Definition, Etiologies & Local Epidemiology
+## 1. Clinical Definition & Local Epidemiology
 
 ### Clinical Definition of Infective Endocarditis
 * **Infective Endocarditis (感染性心內膜炎)**: Microbial infection of the endothelial surface of the heart, most commonly affecting the heart valves, leading to vegetation formation, tissue destruction, and systemic embolization.
+
+### Risk Factors & Hong Kong Epidemiology for Infective Endocarditis
+* **Patient Factors**: ↑ age, IVDU, hemodialysis (central lines), poor dental hygiene, immunosuppression.
+* **Cardiac Factors**: Prosthetic valves, prior endocarditis, unrepaired cyanotic congenital heart disease, rheumatic heart disease.
+* **Hong Kong Local Context**: 
+	* Decreasing incidence of rheumatic valvular disease as a primary cause.
+	* ↑ Incidence of degenerative valvular disease (calcific aortic stenosis, mitral annular calcification) in the aging HK population.
+	* Frequent healthcare-associated MRSA bacteremia causing acute IE.
+
+## 2. Etiologies, Systemic Pathophysiology & Molecular Mechanisms
 
 ### Microbiology & Causative Organisms of Infective Endocarditis
 * **Staphylococcus aureus (金黃色葡萄球菌)**: Most common overall. Acute presentation, highly destructive, common in IV drug users (IVDU) (tricuspid valve) & healthcare-associated infections.
@@ -13,16 +23,6 @@
 * **Streptococcus gallolyticus (S. bovis) (牛鏈球菌)**: Strongly associated with colorectal polyps/carcinoma.
 * **HACEK group**: *Haemophilus, Aggregatibacter, Cardiobacterium, Eikenella, Kingella*. Fastidious Gram -ve organisms. Frequent cause of culture-negative endocarditis.
 * **Fungi (真菌)**: *Candida, Aspergillus*. Associated with IVDU, prolonged IV antibiotics, and immunocompromised states. Require surgical management.
-
-### Risk Factors & Hong Kong Epidemiology for Infective Endocarditis
-* **Patient Factors**: ↑ age, IVDU, hemodialysis (central lines), poor dental hygiene, immunosuppression.
-* **Cardiac Factors**: Prosthetic valves, prior endocarditis, unrepaired cyanotic congenital heart disease, rheumatic heart disease.
-* **Hong Kong Local Context**: 
-  * Decreasing incidence of rheumatic valvular disease as a primary cause.
-  * ↑ Incidence of degenerative valvular disease (calcific aortic stenosis, mitral annular calcification) in the aging HK population.
-  * Frequent healthcare-associated MRSA bacteremia causing acute IE.
-
-## 2. Systemic Pathophysiology & Molecular Mechanisms
 
 ### Pathogenesis of Infective Endocarditis Vegetation Formation
 * **Endothelial Injury**: Turbulent blood flow (from structural heart defects) → focal endothelial damage.
