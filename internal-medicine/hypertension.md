@@ -8,6 +8,13 @@
 * **Home/Ambulatory Threshold:** Average SBP ≥135 mmHg and/or DBP ≥85 mmHg.
 * **Isolated Systolic Hypertension (單純收縮期高血壓):** SBP ≥140 mmHg + DBP <90 mmHg (common in elderly due to ↓ aortic compliance).
 
+### Local Epidemiology in Hong Kong
+* **Prevalence:** ~30% of HK adult population (Population Health Survey). 
+* **Control Rate:** Nearly 50% of hypertensive individuals in HK are undiagnosed; among diagnosed, ~40-50% achieve target control.
+* **Burden:** Leading modifiable risk factor for stroke (中風) and ischemic heart disease (冠心病) locally.
+
+## 2. Etiologies, Systemic Pathophysiology & Molecular Mechanisms
+
 ### Primary and Secondary Etiologies
 * **Primary (Essential) Hypertension (原發性高血壓):** 90-95% of cases. Idiopathic. Associated with genetic predisposition, obesity, ↑ Na+ intake, alcohol, aging.
 * **Secondary Hypertension (繼發性高血壓):** 5-10% of cases. Suspect if young (<30 yrs), resistant to ≥3 drugs, or sudden onset.
@@ -16,13 +23,6 @@
 * **Mechanical/Vascular Causes:** Coarctation of the aorta (主動脈縮窄).
 * **Sleep Disorders:** Obstructive Sleep Apnea (OSA) (睡眠窒息症).
 * **Drug-Induced Causes:** NSAIDs, oral contraceptives (OCP), systemic corticosteroids, sympathomimetics (e.g., pseudoephedrine), SNRIs, licorice, illicit drugs (cocaine, amphetamines).
-
-### Local Epidemiology in Hong Kong
-* **Prevalence:** ~30% of HK adult population (Population Health Survey). 
-* **Control Rate:** Nearly 50% of hypertensive individuals in HK are undiagnosed; among diagnosed, ~40-50% achieve target control.
-* **Burden:** Leading modifiable risk factor for stroke (中風) and ischemic heart disease (冠心病) locally.
-
-## 2. Systemic Pathophysiology & Molecular Mechanisms
 
 ### RAAS and Sympathetic Nervous System Pathophysiology
 * **Sympathetic Nervous System (SNS) Overactivity:** ↑ Catecholamines → α1-receptor stimulation (vasoconstriction → ↑ Systemic Vascular Resistance [SVR]) + β1-receptor stimulation (↑ Heart Rate, ↑ Inotropy → ↑ Cardiac Output [CO]).

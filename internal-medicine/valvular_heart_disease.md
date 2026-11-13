@@ -1,25 +1,30 @@
 # Valvular Heart Disease (瓣膜性心臟病)
 
-## 1. Clinical Definition, Etiologies & Local Epidemiology
+## 1. Clinical Definition & Local Epidemiology
 
 ### Definition of Valvular Heart Disease
 * **Valvular Stenosis (狹窄):** Failure of a valve to open completely → impedes forward flow → pressure overload.
 * **Valvular Regurgitation (倒流):** Failure of a valve to close completely → allows retrograde flow → volume overload.
 * **Mixed Disease:** Coexistence of stenosis and regurgitation in the same valve or multiple valves.
 
-### Etiologies of Left-Sided Valve Disease
-* **Aortic Stenosis (AS):** Degenerative calcification (most common in HK aging pop), bicuspid aortic valve (congenital), rheumatic heart disease (RHD).
-* **Aortic Regurgitation (AR):** Valvular (bicuspid valve, infective endocarditis, RHD) vs. Aortic root dilation (Marfan syndrome, aortic dissection, syphilis, ankylosing spondylitis).
-* **Mitral Stenosis (MS):** RHD (>99% of cases, often immigrants or older HK population), severe MAC (Mitral Annular Calcification).
-* **Mitral Regurgitation (MR):** 
-  * **Primary (Organic):** Mitral valve prolapse (MVP), RHD, infective endocarditis, connective tissue diseases.
-  * **Secondary (Functional):** Ischemic cardiomyopathy (papillary muscle dysfunction/rupture), dilated cardiomyopathy (annular dilation).
-
 ### Local Epidemiology (Hong Kong Context)
 * **Degenerative Calcific AS:** Leading cause of adult valvular surgery in HA hospitals due to aging demographics.
 * **Rheumatic Heart Disease (風濕性心臟病):** Incidence ↓ dramatically post-antibiotic era, but remains highly relevant in older adults (diagnosed decades ago) and regional migrant populations.
 
-## 2. Systemic Pathophysiology & Molecular Mechanisms
+## 2. Etiologies, Systemic Pathophysiology & Molecular Mechanisms
+### Etiologies of Left-Sided Valve Disease
+* **Aortic Stenosis (AS):**
+	* Degenerative calcification (most common in HK aging pop).
+	* Bicuspid aortic valve (congenital).
+	* Rheumatic heart disease (RHD).
+* **Aortic Regurgitation (AR):**
+	* Valvular (bicuspid valve, infective endocarditis, RHD) vs. Aortic root dilation (Marfan syndrome, aortic dissection, syphilis, ankylosing spondylitis).
+* **Mitral Stenosis (MS):**
+	* RHD (>99% of cases, often immigrants or older HK population).
+	* Severe MAC (Mitral Annular Calcification).
+* **Mitral Regurgitation (MR):** 
+	* **Primary (Organic):** Mitral valve prolapse (MVP), RHD, infective endocarditis, connective tissue diseases.
+	* **Secondary (Functional):** Ischemic cardiomyopathy (papillary muscle dysfunction/rupture), dilated cardiomyopathy (annular dilation).
 
 ### Aortic Stenosis (AS) Pathophysiology
 * LV outflow obstruction → ↑ LV systolic pressure (Pressure Overload) → Compensatory Concentric LV Hypertrophy (LVH).
