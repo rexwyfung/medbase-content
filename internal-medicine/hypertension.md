@@ -15,14 +15,34 @@
 
 ## 2. Etiologies, Systemic Pathophysiology & Molecular Mechanisms
 
-### Primary and Secondary Etiologies
-* **Primary (Essential) Hypertension (原發性高血壓):** 90-95% of cases. Idiopathic. Associated with genetic predisposition, obesity, ↑ Na+ intake, alcohol, aging.
+### Primary Hypertension Etiologies
+* **Primary (Essential) Hypertension (原發性高血壓):**
+	* 90-95% of cases.
+	* Idiopathic.
+	* Associated with genetic predisposition, obesity, ↑ Na+ intake, alcohol, aging.
+
+### Secondary Hypertension Etiologies
 * **Secondary Hypertension (繼發性高血壓):** 5-10% of cases. Suspect if young (<30 yrs), resistant to ≥3 drugs, or sudden onset.
-* **Renal Causes:** Chronic Kidney Disease (CKD) (most common), Renal Artery Stenosis (RAS) (atherosclerosis in elderly, fibromuscular dysplasia in young females), Adult Polycystic Kidney Disease (ADPKD).
-* **Endocrine Causes:** Primary hyperaldosteronism (**Conn's Syndrome**), Phaeochromocytoma, **Cushing's Syndrome**, Acromegaly, Hyper/Hypothyroidism, Hyperparathyroidism.
-* **Mechanical/Vascular Causes:** Coarctation of the aorta (主動脈縮窄).
-* **Sleep Disorders:** Obstructive Sleep Apnea (OSA) (睡眠窒息症).
-* **Drug-Induced Causes:** NSAIDs, oral contraceptives (OCP), systemic corticosteroids, sympathomimetics (e.g., pseudoephedrine), SNRIs, licorice, illicit drugs (cocaine, amphetamines).
+	* **Renal Causes:**
+		* Chronic Kidney Disease (CKD) (most common).
+		* Renal Artery Stenosis (RAS) (atherosclerosis in elderly, fibromuscular dysplasia in young females).
+		* Adult Polycystic Kidney Disease (ADPKD).
+	* **Endocrine Causes:**
+		* Primary hyperaldosteronism (**Conn's Syndrome**).
+		* Phaeochromocytoma.
+		* **Cushing's Syndrome**.
+		* Acromegaly.
+		* Hyper/Hypothyroidism.
+		* Hyperparathyroidism.
+	* **Mechanical/Vascular Causes:** Coarctation of the aorta (主動脈縮窄).
+	* **Sleep Disorders:** Obstructive Sleep Apnea (OSA) (睡眠窒息症).
+	* **Drug-Induced Causes:**
+		* NSAIDs.
+		* Oral contraceptives (OCP).
+		* Systemic corticosteroids.
+		* Sympathomimetics (e.g., pseudoephedrine).
+		* SNRIs.
+		* Licorice, illicit drugs (cocaine, amphetamines).
 
 ### RAAS and Sympathetic Nervous System Pathophysiology
 * **Sympathetic Nervous System (SNS) Overactivity:** ↑ Catecholamines → α1-receptor stimulation (vasoconstriction → ↑ Systemic Vascular Resistance [SVR]) + β1-receptor stimulation (↑ Heart Rate, ↑ Inotropy → ↑ Cardiac Output [CO]).
@@ -91,9 +111,9 @@
 * **Renal Profile (U&E, Cr, eGFR):** Assess baseline kidney function; check K+ (Hypokalemia suggests Conn's, Cushing's, or diuretic use; Hyperkalemia suggests CKD).
 * **Metabolic Profile:** Fasting plasma glucose & HbA1c (comorbid DM), Fasting Lipid Profile (risk stratification).
 * **Specialist Secondary Screens (if indicated):** 
-  * Plasma Aldosterone-to-Renin Ratio (ARR) → +ve if ↑ Aldosterone, ↓ Renin (**Conn's**).
-  * 24-hr urinary fractionated metanephrines (**Phaeochromocytoma**).
-  * Overnight 1mg Dexamethasone suppression test (**Cushing's**).
+	* Plasma Aldosterone-to-Renin Ratio (ARR) → +ve if ↑ Aldosterone, ↓ Renin (**Conn's**).
+	* 24-hr urinary fractionated metanephrines (**Phaeochromocytoma**).
+	* Overnight 1mg Dexamethasone suppression test (**Cushing's**).
 
 ### Imaging and Special Investigations
 * **Echocardiogram (TTE):** Indicated if ECG shows LVH, or heart failure suspected. Assesses LV mass, diastolic dysfunction, LA size.
@@ -110,10 +130,10 @@
 ### Acute Resuscitation Protocol for Hypertensive Emergency
 * **General BP Target:** Reduce Mean Arterial Pressure (MAP) by **maximum 20-25% within the first hour**, then to 160/100 mmHg over 2-6 hours. Too rapid ↓ BP → cerebral/coronary/renal watershed ischemia.
 * **IV Pharmacotherapy Options (HA Formulary):**
-* **IV Labetalol** (α1 and non-selective β blocker): First-line for most emergencies (e.g., encephalopathy). Contraindicated in asthma, heart block, bradycardia.
-* **IV Glyceryl Trinitrate (GTN)** (Nitric oxide donor → venodilation): First-line for acute pulmonary edema and ACS.
-* **IV Sodium Nitroprusside** (Arterial + Venous dilator): High potency. Risk of thiocyanate toxicity in renal/hepatic failure.
-* **IV Hydralazine** (Direct arterial vasodilator): Primarily used in eclampsia. 
+	* **IV Labetalol** (α1 and non-selective β blocker): First-line for most emergencies (e.g., encephalopathy). Contraindicated in asthma, heart block, bradycardia.
+	* **IV Glyceryl Trinitrate (GTN)** (Nitric oxide donor → venodilation): First-line for acute pulmonary edema and ACS.
+	* **IV Sodium Nitroprusside** (Arterial + Venous dilator): High potency. Risk of thiocyanate toxicity in renal/hepatic failure.
+	* **IV Hydralazine** (Direct arterial vasodilator): Primarily used in eclampsia. 
 
 ### Acute Management Exceptions (Specific BP Targets)
 * **Acute Aortic Dissection:** REQUIRES RAPID REDUCTION. Target SBP **<120 mmHg** + Heart Rate <60 bpm within 20 mins. Rx: IV Esmolol/Labetalol (MUST block β before α-vasodilators to prevent reflex tachycardia and ↑ aortic shearing stress).

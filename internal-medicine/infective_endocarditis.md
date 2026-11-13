@@ -84,11 +84,13 @@
 * **CT Chest/Abdomen**: To identify silent septic pulmonary emboli (right-sided IE) or splenic/renal infarcts (left-sided IE).
 
 ### Modified Duke Criteria for Diagnosis of Infective Endocarditis
-| Category | Criteria Details |
-| :--- | :--- |
-| **Major Criteria** | 1. **Blood Culture +ve**: Typical organisms from 2 separate cultures, OR persistently +ve cultures drawn >12h apart, OR single +ve culture for *Coxiella burnetii*.<br>2. **Evidence of Endocardial Involvement**: Echo +ve for vegetation, abscess, or new partial dehiscence of prosthetic valve, OR new valvular regurgitation. |
-| **Minor Criteria** | 1. **Predisposing Heart Condition** or IVDU.<br>2. **Fever** >38.0°C.<br>3. **Vascular Phenomena**: Major arterial emboli, septic pulmonary infarcts, mycotic aneurysm, intracranial hemorrhage, conjunctival hemorrhages, Janeway lesions.<br>4. **Immunologic Phenomena**: Glomerulonephritis, Osler nodes, Roth spots, +ve RF.<br>5. **Microbiological Evidence**: +ve blood culture not meeting major criteria. |
-| **Diagnosis Rules** | **Definite IE**: 2 Major OR 1 Major + 3 Minor OR 5 Minor.<br>**Possible IE**: 1 Major + 1 Minor OR 3 Minor.<br>**Rejected IE**: Firm alternate Dx, resolution with <4 days of Abx, no pathological evidence at surgery. |
+| Category            | Criteria Details                                                                                                                                                                                                                                                                                                                                                                                                    |
+| :------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Major Criteria**  | 1. **Blood Culture +ve**: Typical organisms from 2 separate cultures, OR persistently +ve cultures drawn >12h apart, OR single +ve culture for *Coxiella burnetii*.<br>2. **Evidence of Endocardial Involvement**: Echo +ve for vegetation, abscess, or new partial dehiscence of prosthetic valve, OR new valvular regurgitation.                                                                                  |
+| **Minor Criteria**  | 1. **Predisposing Heart Condition** or IVDU.<br>2. **Fever** >38.0°C.<br>3. **Vascular Phenomena**: Major arterial emboli, septic pulmonary infarcts, mycotic aneurysm, intracranial hemorrhage, conjunctival hemorrhages, Janeway lesions.<br>4. **Immunologic Phenomena**: Glomerulonephritis, Osler nodes, Roth spots, +ve RF.<br>5. **Microbiological Evidence**: +ve blood culture not meeting major criteria. |
+| **Diagnosis Rules** | **Definite IE**: 2 Major OR 1 Major + 3 Minor OR 5 Minor.<br>**Possible IE**: 1 Major + 1 Minor OR 3 Minor.<br>**Rejected IE**: Firm alternate Dx, resolution with <4 days of Abx, no pathological evidence at surgery.                                                                                                                                                                                             |
+
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/7c2481c1aaa440042d212838e30063f2.png)
 
 ## 6. Acute Exacerbation Management & Resuscitation (Flares/Emergencies)
 
