@@ -203,7 +203,7 @@
 
 ## 6. Acute Exacerbation Management & Resuscitation (Flares/Emergencies)
 
-### Acute Scleroderma Renal Crisis (SRC) Management
+### Acute Scleroderma Renal Crisis (SRC) Presentation & Management
 * **Presentation:**
 	* Malignant hypertension.
 	* Acute kidney injury.
