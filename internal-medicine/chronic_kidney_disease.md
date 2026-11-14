@@ -1,6 +1,6 @@
 # Chronic Kidney Disease (慢性腎病)
 
-## 1. Clinical Definition, Etiologies & Local Epidemiology
+## 1. Clinical Definition & Local Epidemiology
 
 ### Definition of Chronic Kidney Disease
 * **Structural or functional kidney abnormalities** present for **>3 months**
@@ -11,48 +11,102 @@
 * **IgA Nephropathy (IgA腎病)** is the most common primary glomerulonephritis in HK/Asia
 * Continuous Ambulatory Peritoneal Dialysis (CAPD) is the primary "Peritoneal Dialysis First" policy in HK HA hospitals
 
-### Major Aetiologies of CKD
-* **Vascular:** Hypertensive nephrosclerosis, Ischaemic nephropathy (bilateral renal artery stenosis)
-* **Glomerular:** Diabetic nephropathy, Primary Glomerulonephritis (IgA, FSGS, Membranous), Secondary Glomerulonephritis (SLE, Vasculitis)
-* **Tubulointerstitial:** Chronic pyelonephritis (reflux nephropathy), Analgesic nephropathy (NSAIDs), Aristolochic acid nephropathy (Traditional Chinese Medicine)
-* **Structural/Obstructive:** Chronic urinary retention (BPH), Bilateral renal calculi
+## 2. Etiologies, Systemic Pathophysiology & Molecular Mechanisms
 
-## 2. Systemic Pathophysiology & Molecular Mechanisms
+### Major Aetiologies of CKD
+* **Vascular:**
+	* Hypertensive nephrosclerosis
+	* Ischaemic nephropathy (bilateral renal artery stenosis)
+* **Glomerular:** 
+	* Diabetic nephropathy
+	* Primary Glomerulonephritis (IgA, FSGS, Membranous)
+	* Secondary Glomerulonephritis (SLE, Vasculitis)
+* **Tubulointerstitial:**
+	* Chronic pyelonephritis (reflux nephropathy)
+	* Analgesic nephropathy (NSAIDs)
+	* Aristolochic acid nephropathy (Traditional Chinese Medicine)
+* **Structural/Obstructive:**
+	* Chronic urinary retention (BPH)
+	* Bilateral renal calculi
 
 ### Pathogenesis of Progressive Nephron Loss
 * Initial insult → nephron destruction
-* **Adaptive Hyperfiltration (過度濾過):** Remaining viable nephrons undergo compensatory vasodilation (afferent arteriole) and vasoconstriction (efferent arteriole via Angiotensin II) → ↑ intraglomerular pressure
-* **Maladaptive Consequence:** Mechanical stress → podocyte detachment → proteinuria → proximal tubule toxicity → **Tubulointerstitial fibrosis (腎小管間質纖維化)** and **Glomerulosclerosis (腎小球硬化)**
+* **Adaptive Hyperfiltration (過度濾過):**
+	* Remaining viable nephrons undergo compensatory vasodilation (afferent arteriole) and vasoconstriction (efferent arteriole via Angiotensin II)
+	* → ↑ intraglomerular pressure
+* **Maladaptive Consequence:**
+	* Mechanical stress → podocyte detachment
+	* → proteinuria → proximal tubule toxicity
+	* → **Tubulointerstitial fibrosis (腎小管間質纖維化)** and **Glomerulosclerosis (腎小球硬化)**
 
 ### Pathophysiology of CKD Complications
-* **Anaemia:** ↓ Peritubular interstitial fibroblast mass → ↓ **Erythropoietin (EPO - 紅血球生成素)** production + Uremic reduction in RBC lifespan + Iron deficiency (hepcidin upregulation)
-* **CKD-MBD (Mineral Bone Disorder):** ↓ 1α-hydroxylase activity → ↓ active Vitamin D (Calcitriol) → ↓ gut Calcium absorption → Hypocalcaemia → ↑ Parathyroid Hormone (PTH) release (**Secondary Hyperparathyroidism**)
-* **Phosphate Retention:** ↓ GFR → ↓ PO4 excretion → Hyperphosphataemia → binds plasma Ca2+ (exacerbates hypocalcaemia) → directly stimulates PTH
+* **Anaemia:**
+	* ↓ Peritubular interstitial fibroblast mass →
+		* ↓ **Erythropoietin (EPO - 紅血球生成素)** production
+		* Uremic reduction in RBC lifespan
+		* Iron deficiency (hepcidin upregulation)
+* **CKD-MBD (Mineral Bone Disorder):**
+	* ↓ 1α-hydroxylase activity → ↓ active Vitamin D (Calcitriol)
+	* → ↓ gut Calcium absorption → Hypocalcaemia
+	* → ↑ Parathyroid Hormone (PTH) release (**Secondary Hyperparathyroidism**)
+* **Phosphate Retention:**
+	* ↓ GFR → ↓ PO4 excretion → Hyperphosphataemia
+	* → binds plasma Ca2+ (exacerbates hypocalcaemia) → directly stimulates PTH
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/773e1a91e1d6197a3683dfc87b6c7f4f.png)
 
 ## 3. Clinical Assessment (Detailed History & System-Specific Physical Signs ONLY)
 
 ### History of Presenting Uremic Syndrome
-* **Neurological:** Fatigue, lethargy, poor concentration, restless legs, sleep disturbances, hiccups
-* **Gastrointestinal:** Anorexia, morning nausea/vomiting, metallic taste in mouth
-* **Dermatological:** Generalized intense pruritus (refractory to antihistamines)
-* **Fluid Status:** Exertional dyspnoea, orthopnoea, paroxysmal nocturnal dyspnoea, bilateral leg swelling
-* **Urinary:** Nocturia (early sign of concentrating defect), frothy urine (proteinuria)
+* **Neurological:**
+	* Fatigue, lethargy, poor concentration, restless legs, sleep disturbances, hiccups
+* **Gastrointestinal:**
+	* Anorexia
+	* Morning nausea/vomiting
+	* Metallic taste in mouth
+* **Dermatological:**
+	* Generalized intense pruritus (refractory to antihistamines)
+* **Fluid Status:**
+	* Exertional dyspnoea
+	* Orthopnoea
+	* Paroxysmal nocturnal dyspnoea
+	* Bilateral leg swelling
+* **Urinary:**
+	* Nocturia (early sign of concentrating defect)
+	* Frothy urine (proteinuria)
 
 ### General & Fluid Status Physical Signs
-* **General:** Sallow complexion (urochrome pigment), severe pallor, **Uremic fetor (尿毒症口氣)** (ammonia-like breath), generalized excoriations (scratch marks)
-* **Fluid Overload:** ↑ JVP, bibasal pulmonary crackles, bilateral pitting pedal/sacral edema, pleural effusions
-* **Skin/Nails:** **Terry's nails** (half-and-half nails: proximal white, distal brown), **Uremic frost** (white urea crystals on skin in profound ESRD)
+* **General:**
+	* Sallow complexion (urochrome pigment)
+	* Severe pallor
+	* **Uremic fetor (尿毒症口氣)** (ammonia-like breath)
+	* Generalized excoriations (scratch marks)
+* **Fluid Overload:**
+	* ↑ JVP
+	* Bibasal pulmonary crackles
+	* Bilateral pitting pedal/sacral edema
+	* Pleural effusions
+* **Skin/Nails:**
+	* **Terry's nails** (half-and-half nails: proximal white, distal brown)
+	* **Uremic frost** (white urea crystals on skin in profound ESRD)
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/b58c7353dd041d05b043ba9d0f734126.png)
 
 ### Cardiovascular & Neurological Signs
-* **Cardio:** Severe hypertension, **Pericardial friction rub** (uremic pericarditis - superficial scratchy sound over precordium)
-* **Neuro:** **Asterixis (撲翼樣震顫)** (flapping tremor on wrist extension), myoclonus, glove-and-stocking sensory loss (uremic polyneuropathy)
+* **Cardio:**
+	* Severe hypertension
+	* **Pericardial friction rub** (uremic pericarditis - superficial scratchy sound over precordium)
+* **Neuro:**
+	* **Asterixis (撲翼樣震顫)** (flapping tremor on wrist extension)
+	* Myoclonus
+	* Glove-and-stocking sensory loss (uremic polyneuropathy)
 
 ## 4. Differential Diagnoses & Discriminatory Features
 
 ### Discriminatory Features: CKD vs Acute Kidney Injury (AKI)
-* **Prior Blood Tests:** Normal baseline Cr in AKI vs progressively ↑ Cr over months/years in CKD
-* **Haemoglobin:** Normal in early AKI vs normocytic anaemia in CKD
-* **Renal Ultrasound:** Normal or enlarged kidneys in AKI vs **bilaterally small, echogenic kidneys (<9cm) with loss of corticomedullary differentiation** in CKD
+| **Feature**           | **Acute Kidney Injury (AKI)**   | **Chronic Kidney Disease (CKD)**                                                               |
+| --------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Prior Blood Tests** | Normal baseline creatinine (Cr) | Progressively $\uparrow$ Cr over months/years                                                  |
+| **Haemoglobin**       | Normal in early AKI             | Normocytic anaemia                                                                             |
+| **Renal Ultrasound**  | Normal or enlarged kidneys      | **Bilaterally small, echogenic kidneys (<9 cm) with loss of corticomedullary differentiation** |
 
 ### Discriminatory Features: Diabetic Nephropathy vs Non-Diabetic Kidney Disease
 * **Retinopathy:** Diabetic retinopathy on fundoscopy is highly predictive of diabetic nephropathy (especially in Type 1 DM)
@@ -75,7 +129,12 @@
 * **Spot Urine Protein-to-Creatinine Ratio (UPCR) / Albumin-to-Creatinine Ratio (UACR):** Quantifies daily protein excretion
 * **Urine Microscopy:** Presence of **broad waxy casts** (indicates dilated hypertrophic tubules in advanced CKD)
 * **Ultrasound Kidneys & Urinary Tract (USG KUB):** Assesses chronicity (size <9cm, ↑ echogenicity), rules out obstructive uropathy or polycystic kidneys
-* **Exceptions to small kidneys in CKD:** DM, HIV nephropathy, Amyloidosis, Polycystic Kidney Disease (kidneys remain normal-sized or enlarged)
+* **Exceptions to small kidneys in CKD:**
+	* DM
+	* HIV nephropathy
+	* Amyloidosis
+	* Polycystic Kidney Disease (kidneys remain normal-sized or enlarged)
+![image|200](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/ab74e4c762f3a30bf2ef0228b071c9b0.png)
 
 ### Renal Biopsy Indications
 * **Rapid, unexplained decline** in GFR
@@ -86,10 +145,16 @@
 ## 6. Acute Exacerbation Management & Resuscitation (Flares/Emergencies)
 
 ### Acute Hyperkalaemia Emergency Protocol (K+ >6.5 or ECG changes)
-* **Myocardial Protection:** **IV Calcium Gluconate 10% (10mL)** over 5-10 mins (does not lower K+, prevents arrhythmias)
-* **Intracellular Shift:** **IV Actrapid (10 units) + 50mL D50** (monitor CBG), Nebulized Salbutamol (10-20mg)
-* **Excretion:** PO/PR Calcium Resonium, IV Furosemide (if patient makes urine)
-* **Definitive Rx:** Urgent Haemodialysis (血液透析) if refractory to medical Rx
+* **Myocardial Protection:**
+	* **IV Calcium Gluconate 10% (10mL)** over 5-10 mins (does not lower K+, prevents arrhythmias)
+* **Intracellular Shift:**
+	* **IV Actrapid (10 units) + 50mL D50** (monitor CBG)
+	* Nebulized Salbutamol (10-20mg)
+* **Excretion:**
+	* PO/PR Calcium Resonium
+	* IV Furosemide (if patient makes urine)
+* **Definitive Rx:**
+	* Urgent Haemodialysis (血液透析) if refractory to medical Rx
 
 ### Acute Pulmonary Edema (Volume Overload)
 * **Oxygen:** High-flow O2, sit patient upright
@@ -106,33 +171,63 @@
 
 ### General Lifestyle & Dietary Modifications
 * **Sodium Restriction:** <2g/day (equivalent to <5g NaCl) to aid BP control
-* **Protein Restriction:** 0.8g/kg/day (delays CKD progression). *Note: Increase to 1.2g/kg/day if on dialysis due to protein losses*
+* **Protein Restriction:**
+	* 0.8g/kg/day (delays CKD progression).
+	* *Note: Increase to 1.2g/kg/day if on dialysis due to protein losses*
 * **Fluid/Potassium/Phosphate Restriction:** Required in late stage CKD (G4-G5)
 
 ### Disease-Modifying Pharmacotherapy (Slowing Progression)
 * **BP Target:** **<120/80 mmHg** (KDIGO 2021 guidelines, if tolerated)
-* **RAAS Blockade (ACEi / ARB):** First-line for proteinuric CKD (UACR >300 mg/g). Titrate to maximum tolerated dose. Monitor K+ and Cr at 1-2 weeks. Accept up to 30% rise in Cr; stop if K+ >5.5 mmol/L or Cr ↑ >30%
-* **SGLT2 Inhibitors (e.g., Dapagliflozin, Empagliflozin):** Indicated for CKD with eGFR ≥20 mL/min/1.73m² (regardless of diabetic status) to slow GFR decline and ↓ cardiovascular events
-* **MRA (Finerenone):** Non-steroidal MRA indicated for Type 2 DM CKD with albuminuria despite max ACEi/ARB to ↓ CKD progression
-* **Lipid Lowering:** **Statins** recommended for all CKD patients >50 years old (due to exceedingly high CV risk), or <50 with known CAD/DM
+* **RAAS Blockade (ACEi / ARB):**
+	* First-line for proteinuric CKD (UACR >300 mg/g).
+	* Titrate to maximum tolerated dose.
+	* Monitor K+ and Cr at 1-2 weeks.
+	* Accept up to 30% rise in Cr; stop if K+ >5.5 mmol/L or Cr ↑ >30%.
+* **SGLT2 Inhibitors (e.g., Dapagliflozin, Empagliflozin):**
+	* Indicated for CKD with eGFR ≥20 mL/min/1.73m² (regardless of diabetic status) to slow GFR decline and ↓ cardiovascular events.
+* **MRA (Finerenone):**
+	* Non-steroidal MRA indicated for Type 2 DM CKD with albuminuria despite max ACEi/ARB to ↓ CKD progression.
+* **Lipid Lowering:**
+	* **Statins** recommended for all CKD patients >50 years old (due to exceedingly high CV risk), or <50 with known CAD/DM.
 
 ### Management of CKD-MBD (Bone & Mineral)
-* **Hyperphosphataemia Rx:** Dietary restriction. **Phosphate Binders** taken *with meals* (Calcium Carbonate). Use non-calcium binders (Sevelamer / Lanthanum) if hypercalcemia develops
-* **Secondary Hyperparathyroidism Rx:** Active Vitamin D analogues (**Alfacalcidol / Calcitriol**). Monitor for hypercalcemia
-* **Calcimimetics (Cinacalcet):** Increases sensitivity of calcium-sensing receptor on parathyroid gland → ↓ PTH (used if refractory to Vitamin D)
+* **Hyperphosphataemia Rx:**
+	* Dietary restriction.
+	* **Phosphate Binders** taken *with meals* (Calcium Carbonate).
+	* Use non-calcium binders (Sevelamer / Lanthanum) if hypercalcemia develops.
+* **Secondary Hyperparathyroidism Rx:**
+	* Active Vitamin D analogues (**Alfacalcidol / Calcitriol**).
+	* Monitor for hypercalcemia.
+* **Calcimimetics (Cinacalcet):**
+	* Increases sensitivity of calcium-sensing receptor on parathyroid gland → ↓ PTH (used if refractory to Vitamin D).
 
 ### Management of Renal Anaemia
-* **Target Hb:** **10 - 11.5 g/dL**. *Do NOT normalize Hb to >13 due to increased risk of stroke and thrombosis*
-* **Iron Repletion:** Exclude GI bleed. Give IV Iron (e.g., Iron Sucrose) if ferritin <500 ng/mL and TSAT <30%
-* **ESA Therapy:** **Erythropoiesis-Stimulating Agents (EPO / Darbepoetin)**. Must ensure iron stores are replete before starting. Monitor BP (ESA can worsen hypertension)
+* **Target Hb:**
+	* **10 - 11.5 g/dL**.
+	* *Do NOT normalize Hb to >13 due to increased risk of stroke and thrombosis*.
+* **Iron Repletion:**
+	* Exclude GI bleed.
+	* Give IV Iron (e.g., Iron Sucrose) if ferritin <500 ng/mL and TSAT <30%.
+* **ESA Therapy:**
+	* **Erythropoiesis-Stimulating Agents (EPO / Darbepoetin)**.
+	* Must ensure iron stores are replete before starting.
+	* Monitor BP (ESA can worsen hypertension).
 
 ### Management of Metabolic Acidosis
-* **Bicarbonate Replacement:** Oral **Sodium Bicarbonate (NaHCO3)** to maintain serum HCO3- >22 mmol/L (slows CKD progression and preserves bone mass). Beware volume overload from Na+ load
+* **Bicarbonate Replacement:**
+	* Oral **Sodium Bicarbonate (NaHCO3)** to maintain serum HCO3- >22 mmol/L (slows CKD progression and preserves bone mass).
+	* Beware volume overload from Na+ load.
 
 ### Advanced CKD (G4/G5) Planning & Referral
-* **Nephrology Referral Threshold:** Refer at eGFR <30 (Stage 4), UACR >300 mg/g, or rapid GFR decline (>5 mL/min/year)
+* **Nephrology Referral Threshold:**
+	* eGFR <30 (Stage 4)
+	* UACR >300 mg/g
+	* Rapid GFR decline (>5 mL/min/year)
 * **Renal Replacement Therapy (RRT - 腎臟替代治療) Preparation:**
-    * **Peritoneal Dialysis (PD):** CAPD or APD. PD-first policy in HK HA. Preserves residual renal function longer, requires intact peritoneal membrane
+    * **Peritoneal Dialysis (PD):**
+	    * CAPD or APD
+	    * PD-first policy in HK HA
+	    * Preserves residual renal function longer, requires intact peritoneal membrane
     * **Haemodialysis (HD):** AV fistula creation (takes weeks/months to mature), thrice-weekly sessions
     * **Renal Transplant (腎臟移植):** Workup for living or deceased donor (pre-emptive transplantation is ideal)
 
@@ -167,15 +262,23 @@
 
 ### Cardiovascular & Haematological Complications
 * **Accelerated Atherosclerosis:** Cardiovascular events (MI, stroke) are the absolute most common cause of death in CKD, outweighing ESRD progression
-* **Uremic Platelet Dysfunction:** Normal platelet count but impaired aggregation (↑ bleeding time). Increases risk of peri-operative/GI bleeding
+* **Uremic Platelet Dysfunction:**
+	* Normal platelet count but impaired aggregation (↑ bleeding time).
+	* Increases risk of peri-operative/GI bleeding
 * **Uremic Pericarditis:** Serofibrinous inflammation → risk of hemorrhagic cardiac tamponade
 
 ### Bone & Endocrine Complications
-* **Renal Osteodystrophy:** Includes Osteitis Fibrosa Cystica (high bone turnover due to severe hyperparathyroidism → "brown tumors") and Adynamic Bone Disease (low turnover due to over-suppression of PTH with Vitamin D)
-* **Insulin Metabolism:** ↓ renal clearance of insulin → prolonged half-life → frequent hypoglycaemia in diabetics (insulin requirements ↓ as CKD progresses)
+* **Renal Osteodystrophy:**
+	* Osteitis Fibrosa Cystica (high bone turnover due to severe hyperparathyroidism → "brown tumors")
+	* Adynamic Bone Disease (low turnover due to over-suppression of PTH with Vitamin D)
+* **Insulin Metabolism:**
+	* ↓ renal clearance of insulin → prolonged half-life → frequent hypoglycaemia in diabetics (insulin requirements ↓ as CKD progresses)
 
 ### Medication Pharmacokinetic Alterations
-* **Toxicity Risk:** Reduced renal clearance of drugs (e.g., Metformin → lactic acidosis, Opiates → CNS toxicity, Digoxin → arrhythmias)
+* **Toxicity Risk:** Reduced renal clearance of drugs, e.g.:
+	* Metformin → lactic acidosis
+	* Opiates → CNS toxicity
+	* Digoxin → arrhythmias
 * **LMWH Bioaccumulation:** Standard LMWH (Enoxaparin) accumulates in GFR <30, increasing bleeding risk (must switch to Unfractionated Heparin or dose-adjust)
 
 ## 10. Examiner's Pearls
