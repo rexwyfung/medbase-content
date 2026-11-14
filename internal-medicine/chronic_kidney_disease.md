@@ -117,6 +117,7 @@
 ### Bedside Investigations
 * **Urine Dipstick:** Quantify proteinuria, check for microscopic haematuria
 * **ECG:** Assess for hyperkalaemia (tall tented T waves, flattened P waves, widened QRS), Left Ventricular Hypertrophy (LVH - due to chronic HTN)
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/17ee58edd7c9e2a66d85c80d645d15e1.png)
 
 ### Blood Investigations (Renal, Bone & Haematology)
 * **Renal Function Test (RFT):** ↑ Urea, ↑ Creatinine, eGFR calculation (CKD-EPI equation)
@@ -156,7 +157,7 @@
 * **Definitive Rx:**
 	* Urgent Haemodialysis (血液透析) if refractory to medical Rx
 
-### Acute Pulmonary Edema (Volume Overload)
+### Acute Pulmonary Edema (Volume Overload) Protocol
 * **Oxygen:** High-flow O2, sit patient upright
 * **Diuresis:** High-dose **IV Furosemide** (e.g., 80-120mg stat)
 * **Vasodilation:** Sublingual GTN / IV GTN infusion (if BP allows)
@@ -285,6 +286,6 @@
 
 * Viva Question: What are the absolute indications for urgent dialysis in ESRD? Answer: AEIOU - Acidosis (refractory), Electrolytes (hyperkalaemia), Intoxication (lithium, aspirin), Overload (refractory pulmonary edema), Uremia (pericarditis, encephalopathy).
 * Trap: Normalizing haemoglobin to >13 g/dL using ESA therapy in CKD patients. Pearl: Target Hb strictly between 10-11.5 g/dL; higher targets increase mortality, stroke, and vascular access thrombosis.
-* Trap: Stopping ACEi/ARB immediately when serum creatinine rises after initiation. Pearl: A transient rise in Cr of up to 30% is an expected haemodynamic effect of efferent arteriole vasodilation. Continue the drug and re-check unless Cr rises >30% or hyperkalaemia develops.
+* Trap: Stopping ACEi/ARB immediately when serum creatinine rises after initiation. Pearl: A transient rise in Cr of up to 30% is an expected haemodynamic effect of efferent arteriole vasodilation. Continue the drug and re-check unless Cr rises >30% or hyperkalaemia develops. ![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/38a26291ca08cc7809aad5e1f722c804.png)
 * Pitfall: Recommending high dietary protein intake to replace albumin losses in proteinuric CKD. High dietary protein increases glomerular hyperfiltration and accelerates nephron destruction; restrict to 0.8g/kg/day unless the patient is already on dialysis (where protein is lost in dialysate).
-* Pitfall: Overlooking uremic platelet dysfunction in a pre-operative CKD patient. Uremic bleeding risk is managed urgently with IV DDAVP (Desmopressin), Cryoprecipitate, or Dialysis (to remove uremic toxins interfering with vWF-platelet binding).
+* Pitfall: Overlooking uremic platelet dysfunction in a pre-operative CKD patient. Uremic bleeding risk is managed urgently with IV DDAVP (Desmopressin), Cryoprecipitate, or Dialysis (to remove uremic toxins interfering with vWF-platelet binding). ![image|450](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/036743148180057776d2caccc18eaedc.png)
