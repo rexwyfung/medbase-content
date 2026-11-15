@@ -201,6 +201,7 @@
 	* Monitor for hypercalcemia.
 * **Calcimimetics (Cinacalcet):**
 	* Increases sensitivity of calcium-sensing receptor on parathyroid gland → ↓ PTH (used if refractory to Vitamin D).
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/108a5d7c3b0114d45d0ec9d1028057b9.png)
 
 ### Management of Renal Anaemia
 * **Target Hb:**
