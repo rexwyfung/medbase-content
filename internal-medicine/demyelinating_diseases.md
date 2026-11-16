@@ -66,6 +66,7 @@
 * **Location:** Outer surface of myelin sheaths and oligodendrocyte membranes.
 * **Mechanism:** True primary demyelination (oligodendropathic) without major astrocyte destruction.
 * **Reversibility:** Often highly responsive to steroids; myelin can regenerate.
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/55000c4b7b3f0cc0882c97a685e56d8e.png)
 
 ### Pathophysiology of ADEM
 * **Trigger:** Preceding viral infection (e.g., Measles, VZV) or vaccination (rare).
@@ -75,62 +76,76 @@
 ## 3. Clinical Assessment (Detailed History & System-Specific Physical Signs ONLY)
 
 ### General History in Suspected Demyelination
-* **Temporal Profile:** Acute/subacute onset (hours to days), plateau (weeks), partial/full recovery (months).
+* **Temporal Profile:**
+	* Acute/subacute onset (hours to days).
+	* Plateau (weeks).
+	* Partial/full recovery (months).
 * **Relapse Definitions:** 
-  * New neurological symptom lasting >24 hours.
-  * Absence of fever/infection (exclude pseudoexacerbation).
+	* New neurological symptom lasting >24 hours.
+	* Absence of fever/infection (exclude pseudoexacerbation).
 * **Triggers:**
-  * History of recent infections.
-  * Post-partum state (↑ MS relapse risk).
+	* History of recent infections.
+	* Post-partum state (↑ MS relapse risk).
 
 ### Optic Neuritis (視神經炎) Clinical Features
 * **Visual Symptoms:** Subacute unilateral vision loss.
 * **Pain:** Retro-orbital pain, worsened by eye movement (highly characteristic).
 * **Color Vision:** Dyschromatopsia (red desaturation).
 * **Physical Signs:**
-  * **Relative Afferent Pupillary Defect (RAPD / Marcus Gunn pupil):** +ve on swinging flashlight test.
-  * **Fundoscopy:** Papillitis (swollen disc in 1/3) or retrobulbar neuritis (normal disc in 2/3).
-  * *(Note: Exclude ophthalmological causes → cross-reference Acute Visual Loss)*
+	* **Relative Afferent Pupillary Defect (RAPD / Marcus Gunn pupil):** +ve on swinging flashlight test.
+	* **Fundoscopy:** Papillitis (swollen disc in 1/3) or retrobulbar neuritis (normal disc in 2/3).
+	* *(Note: Exclude ophthalmological causes → cross-reference Acute Visual Loss)*
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/4d650fd55bdbc02c9dba133301100ebb.png)
 
 ### Transverse Myelitis (橫貫性脊髓炎) Clinical Features
 * **Motor:** Paraparesis or quadriparesis (depending on lesion level).
 * **Sensory:** Clear dermatomal sensory level.
 * **Autonomic:** Bowel/bladder dysfunction (urinary retention, constipation).
-* **Spinal Shock (Acute phase):** Flaccid tone, areflexia.
-* **Chronic phase:** Spasticity, hyperreflexia, +ve Babinski sign, clonus.
+* **Spinal Shock (Acute phase):**
+	* Flaccid tone.
+	* Areflexia.
+* **Chronic phase:**
+	* Spasticity..
+	* Hyperreflexia.
+	* +ve Babinski sign.
+	* Clonus.
 
 ### Brainstem & Cerebellar Syndromes in MS
 * **Internuclear Ophthalmoplegia (INO):** 
-  * Lesion in **Medial Longitudinal Fasciculus (MLF)**.
-  * Sign: Failure of ipsilateral adduction + Contralateral abducting nystagmus.
-  * Bilateral INO is highly pathognomonic for MS.
+	* Lesion in **Medial Longitudinal Fasciculus (MLF)**.
+	* Sign: Failure of ipsilateral adduction + Contralateral abducting nystagmus.
+	* Bilateral INO is highly pathognomonic for MS.
 * **Cranial Neuropathies:**
-  * **Trigeminal Neuralgia:** Especially if bilateral or in young adults.
-  * Facial nerve palsy.
+	* **Trigeminal Neuralgia:** Especially if bilateral or in young adults.
+	* Facial nerve palsy.
 * **Cerebellar Signs (Charcot's Neurologic Triad):**
-  * Nystagmus.
-  * Intention tremor.
-  * Scanning speech (dysarthria).
+	* Nystagmus.
+	* Intention tremor.
+	* Scanning speech (dysarthria).
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/cbbee8f75a98faa4c9ebab3bef73c145.png)
 
 ### Eponymous Signs in Multiple Sclerosis
 * **Lhermitte's Sign:** 
-  * Electric shock-like sensation radiating down spine/limbs upon neck flexion.
-  * Indicates cervical cord demyelination.
+	* Electric shock-like sensation radiating down spine/limbs upon neck flexion.
+	* Indicates cervical cord demyelination.
 * **Uhthoff's Phenomenon:** 
-  * Transient worsening of neurological symptoms with ↑ core body temperature (e.g., hot bath, exercise, fever).
-  * Caused by temperature-dependent conduction block in demyelinated axons.
+	* Transient worsening of neurological symptoms with ↑ core body temperature (e.g., hot bath, exercise, fever).
+	* Caused by temperature-dependent conduction block in demyelinated axons.
 * **Pulfrich Effect:** Altered perception of motion trajectory due to optic nerve conduction delays.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/0d207616f778557df9278f3e42dd77d6.png)
 
 ## 4. Differential Diagnoses & Discriminatory Features
 
 ### Differentiating MS vs NMOSD vs MOGAD
 
-| Feature | MS | NMOSD | MOGAD |
-| :--- | :--- | :--- | :--- |
-| **Demographics** | F>M (3:1), Caucasians > Asians | F>>M (9:1), Asians/Africans | M=F, Children > Adults |
-| **Optic Neuritis** | Unilateral, mild/moderate | Bilateral, severe, chiasm involvement | Bilateral, severe disc swelling |
-| **Transverse Myelitis** | Short segment (<3 vertebral bodies) | **Longitudinally Extensive (LETM) (≥3 segments)** | LETM, affects conus medullaris |
-| **Brain Lesions** | Periventricular, Dawson's fingers | Area postrema (intractable vomiting) | Fluffy, large ADEM-like lesions |
+| Feature                 | MS                                  | NMOSD                                             | MOGAD                           |
+| :---------------------- | :---------------------------------- | :------------------------------------------------ | :------------------------------ |
+| **Demographics**        | F>M (3:1), Caucasians > Asians      | F>>M (9:1), Asians/Africans                       | M=F, Children > Adults          |
+| **Optic Neuritis**      | Unilateral, mild/moderate           | Bilateral, severe, chiasm involvement             | Bilateral, severe disc swelling |
+| **Transverse Myelitis** | Short segment (<3 vertebral bodies) | **Longitudinally Extensive (LETM) (≥3 segments)** | LETM, affects conus medullaris  |
+| **Brain Lesions**       | Periventricular, Dawson's fingers   | Area postrema (intractable vomiting)              | Fluffy, large ADEM-like lesions |
+
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/83ebecc914c04aad38dbe71e5973c3ca.png)
 
 ### Infectious Differential Diagnoses
 * **Neurosyphilis:** +ve VDRL/RPR.
@@ -142,6 +157,7 @@
 * **Sjögren's Syndrome:** +ve Anti-Ro/La, dry eyes/mouth.
 * **Neurosarcoidosis:** Basilar meningitis, cranial neuropathies, hilar lymphadenopathy.
 * **Behçet's Disease:** Oral/genital ulcers, uveitis.
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/2dcc70d20a75cd4378a7c82db409d1b0.png)
 
 ### Metabolic & Genetic Mimics
 * **Vitamin B12 Deficiency:** Subacute combined degeneration (dorsal columns + lateral corticospinal tracts).
@@ -156,33 +172,33 @@
 
 ### Blood Investigations for Demyelinating Diseases
 * **Autoantibodies:**
-  * **AQP4-IgG (NMO-IgG):** Highly specific for NMOSD.
-  * **MOG-IgG:** Specific for MOGAD.
+	* **AQP4-IgG (NMO-IgG):** Highly specific for NMOSD.
+	* **MOG-IgG:** Specific for MOGAD.
 * **Exclude Mimics:**
-  * ANA, Anti-dsDNA, ENA (Anti-Ro/La) → SLE, Sjögren's.
-  * Vitamin B12 level.
-  * Syphilis serology (VDRL/RPR).
-  * HIV serology.
-  * Thyroid function tests (TFT).
+	* ANA, Anti-dsDNA, ENA (Anti-Ro/La) → SLE, Sjögren's.
+	* Vitamin B12 level.
+	* Syphilis serology (VDRL/RPR).
+	* HIV serology.
+	* Thyroid function tests (TFT).
 
 ### Cerebrospinal Fluid (CSF) Analysis
 * **Oligoclonal Bands (OCBs):** 
-  * ≥2 unique IgG bands in CSF not present in serum.
-  * Present in >90% of MS patients (Supports Dissemination in Time).
-  * Often negative or transient in NMOSD/MOGAD.
+	* ≥2 unique IgG bands in CSF not present in serum.
+	* Present in >90% of MS patients (Supports Dissemination in Time).
+	* Often negative or transient in NMOSD/MOGAD.
 * **IgG Index:** Elevated (reflects intrathecal IgG synthesis).
 * **Basic Cell Count:** 
-  * MS: Mild lymphocytic pleocytosis (<50 cells/µL). Normal protein.
-  * NMOSD: Marked pleocytosis (>50 cells/µL), may have neutrophils/eosinophils.
+	* MS: Mild lymphocytic pleocytosis (<50 cells/µL). Normal protein.
+	* NMOSD: Marked pleocytosis (>50 cells/µL), may have neutrophils/eosinophils.
 
 ### MRI Brain and Spine Findings in MS
 * **Sequence:** T2/FLAIR (hyperintense lesions), T1 pre/post-Gadolinium (active inflammation shows enhancement).
 * **Characteristic MS Lesions:**
-  * **Dawson's Fingers:** Ovoid perivenular demyelinating plaques perpendicular to ventricles.
-  * **Juxtacortical:** Involving U-fibers.
-  * **Infratentorial:** Brainstem/cerebellum.
-  * **Spinal Cord:** Short lesions (<3 segments), peripherally located.
-* **"Black Holes":** Hypointense lesions on T1 representing chronic severe axonal loss.
+	* **Dawson's Fingers:** Ovoid perivenular demyelinating plaques perpendicular to ventricles.
+	* **Juxtacortical:** Involving U-fibers.
+	* **Infratentorial:** Brainstem/cerebellum.
+	* **Spinal Cord:** Short lesions (<3 segments), peripherally located.
+	* **"Black Holes":** Hypointense lesions on T1 representing chronic severe axonal loss.
 
 ### McDonald Criteria 2017 for Multiple Sclerosis Diagnosis
 * **Core Principle:** Prove Dissemination in Space (DIS) and Dissemination in Time (DIT).
@@ -209,11 +225,11 @@
 ### Acute Management of MS Relapse
 * **Indication:** Functionally disabling symptoms (e.g., visual loss, motor weakness). Mild sensory symptoms usually observed.
 * **First-line Pharmacotherapy:**
-  * **IV Methylprednisolone:** 1g daily for 3-5 days.
-  * Alternate HA outpatient option: High-dose oral Methylprednisolone (500mg - 1g daily) for 3-5 days.
-  * *Note: Does NOT alter long-term disease progression, only accelerates recovery.*
+	* **IV Methylprednisolone:** 1g daily for 3-5 days.
+	* Alternate HA outpatient option: High-dose oral Methylprednisolone (500mg - 1g daily) for 3-5 days.
+	* *Note: Does NOT alter long-term disease progression, only accelerates recovery.*
 * **Second-line (Steroid-refractory severe relapse):**
-  * **Plasmapheresis (Plasma Exchange, PLEX):** 5-7 exchanges over 10-14 days.
+	* **Plasmapheresis (Plasma Exchange, PLEX):** 5-7 exchanges over 10-14 days.
 
 ### Acute Management of Severe NMOSD / Refractory Relapses
 * **Aggressive early treatment required** (NMOSD relapses cause permanent severe damage).
