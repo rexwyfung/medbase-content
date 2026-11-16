@@ -5,34 +5,37 @@
 ### Definition of Demyelinating Diseases
 * **Definition:** Acquired immune-mediated disorders characterized by focal destruction of central nervous system (CNS) myelin, relative preservation of axons, and neuroglial scarring (gliosis).
 * **Core Syndromes:**
-  * **Multiple Sclerosis (多發性硬化症, MS):** Disseminated CNS demyelination in time and space.
-  * **Neuromyelitis Optica Spectrum Disorder (視神經脊髓炎光譜疾病, NMOSD):** Autoantibody-mediated astrocytopathy affecting optic nerves and spinal cord.
-  * **Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease (MOGAD):** Inflammatory demyelination targeting MOG.
-  * **Acute Disseminated Encephalomyelitis (急性播散性腦脊髓炎, ADEM):** Monophasic post-infectious demyelination.
+	* **Multiple Sclerosis (多發性硬化症, MS):** Disseminated CNS demyelination in time and space.
+	* **Neuromyelitis Optica Spectrum Disorder (視神經脊髓炎光譜疾病, NMOSD):** Autoantibody-mediated astrocytopathy affecting optic nerves and spinal cord.
+	 * **Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease (MOGAD):** Inflammatory demyelination targeting MOG.
+	* **Acute Disseminated Encephalomyelitis (急性播散性腦脊髓炎, ADEM):** Monophasic post-infectious demyelination.
 
 ### Subtypes of Multiple Sclerosis
 * **Relapsing-Remitting MS (RRMS):** 
-  * Accounts for ~85% of onset.
-  * Discrete attacks with full/partial recovery.
-  * No disease progression between relapses.
+	* Accounts for ~85% of onset.
+	* Discrete attacks with full/partial recovery.
+	* No disease progression between relapses.
 * **Secondary Progressive MS (SPMS):** 
-  * Initial RRMS course → gradual neurologic deterioration.
-  * Occurs in ~65% of RRMS if untreated (after 15-20 years).
+	* Initial RRMS course → gradual neurologic deterioration.
+	* Occurs in ~65% of RRMS if untreated (after 15-20 years).
 * **Primary Progressive MS (PPMS):** 
-  * ~15% of cases. 
-  * Steady progression from onset without distinct relapses.
+	* ~15% of cases. 
+	* Steady progression from onset without distinct relapses.
 * **Progressive-Relapsing MS (PRMS):** 
-  * Progressive from onset + acute relapses.
+	* Progressive from onset + acute relapses.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/86b9f179067e7101e67e3140020106ec.png)
 
 ### Local Epidemiology of MS and NMOSD in Hong Kong
 * **MS Incidence/Prevalence:** 
-  * Lower in HK compared to Caucasians.
-  * Prevalence: ~7-9 per 100,000.
-  * Demographics: Female > Male (3:1), peak onset 20-40 years.
+	* Lower in HK compared to Caucasians.
+	* Prevalence: ~7-9 per 100,000.
+	* Demographics:
+		* Female > Male (3:1).
+		* Peak onset 20-40 years.
 * **NMOSD Incidence/Prevalence:**
-  * Proportionally higher in Asian populations.
-  * Historically misdiagnosed as "Opticospinal MS".
-  * Extremely female-predominant (up to 9:1).
+	* Proportionally higher in Asian populations.
+	* Historically misdiagnosed as "Opticospinal MS".
+	* Extremely female-predominant (up to 9:1).
 
 ## 2. Systemic Pathophysiology & Molecular Mechanisms
 
@@ -40,19 +43,23 @@
 * **Immune Dysregulation:** Autoreactive T-cells (Th1/Th17) cross Blood-Brain Barrier (BBB).
 * **Target:** Myelin basic protein & structural components of CNS myelin sheaths.
 * **Cellular Response:** 
-  * T-cells recruit B-cells, macrophages, and microglia.
-  * → Secretion of pro-inflammatory cytokines (IFN-γ, TNF-α).
-  * → Oligodendrocyte apoptosis and focal myelin destruction.
-* **Chronicity:** Early disease = inflammation (relapses); Late disease = axonal degeneration/atrophy (progression).
+	* T-cells recruit B-cells, macrophages, and microglia.
+	* → Secretion of pro-inflammatory cytokines (IFN-γ, TNF-α).
+	* → Oligodendrocyte apoptosis and focal myelin destruction.
+* **Chronicity:**
+	* Early disease = inflammation (relapses);
+	* Late disease = axonal degeneration/atrophy (progression).
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/44eb1991a995efc1baaa6696dd00d6f6.png)
 
 ### Pathophysiology of NMOSD (視神經脊髓炎光譜疾病)
 * **Antibody Target:** **Aquaporin-4 (AQP4) water channels**.
 * **Location:** Concentrated on astrocyte foot processes at BBB and ependymal surfaces.
 * **Mechanism:** 
-  * AQP4-IgG binds target → Complement cascade activation.
-  * → Massive eosinophil/neutrophil infiltration.
-  * → Primary astrocyte necrosis (astrocytopathy) → Secondary demyelination/axonal loss.
+	* AQP4-IgG binds target → Complement cascade activation.
+	* → Massive eosinophil/neutrophil infiltration.
+	* → Primary astrocyte necrosis (astrocytopathy) → Secondary demyelination/axonal loss.
 * **Severity:** Tissue destruction is highly necrotic, forming cystic cavities in spinal cord.
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/10d1a3a9ff6d6439eee2786980e68927.png)
 
 ### Pathophysiology of MOGAD
 * **Antibody Target:** Myelin Oligodendrocyte Glycoprotein (MOG).
