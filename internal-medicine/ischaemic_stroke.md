@@ -134,6 +134,7 @@
 
 ### ABCD2 Score for TIA Risk Stratification
 * Predicts 2-day risk of stroke after TIA.
+
 | Variable | Criteria & Points |
 | :--- | :--- |
 | **A**ge | ≥60 years (1 pt) |
