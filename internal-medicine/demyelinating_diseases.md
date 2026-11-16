@@ -169,6 +169,7 @@
 * **Visual Evoked Potentials (VEP):** Prolonged P100 latency (indicates delayed conduction in optic nerve).
 * **Optical Coherence Tomography (OCT):** Shows retinal nerve fiber layer (RNFL) thinning post-optic neuritis.
 * **Post-Void Residual (PVR):** Bedside bladder ultrasound to assess neurogenic bladder.
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/3542830ae311fb556123685fbffbf2ff.png)
 
 ### Blood Investigations for Demyelinating Diseases
 * **Autoantibodies:**
@@ -192,38 +193,47 @@
 	* NMOSD: Marked pleocytosis (>50 cells/µL), may have neutrophils/eosinophils.
 
 ### MRI Brain and Spine Findings in MS
-* **Sequence:** T2/FLAIR (hyperintense lesions), T1 pre/post-Gadolinium (active inflammation shows enhancement).
+* **Sequence:**
+	* T2/FLAIR (hyperintense lesions).
+	* T1 pre/post-Gadolinium (active inflammation shows enhancement).
 * **Characteristic MS Lesions:**
 	* **Dawson's Fingers:** Ovoid perivenular demyelinating plaques perpendicular to ventricles.
 	* **Juxtacortical:** Involving U-fibers.
 	* **Infratentorial:** Brainstem/cerebellum.
 	* **Spinal Cord:** Short lesions (<3 segments), peripherally located.
 	* **"Black Holes":** Hypointense lesions on T1 representing chronic severe axonal loss.
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/d01faa56a314c3f4ce12d1ee7bf51b73.png)
 
 ### McDonald Criteria 2017 for Multiple Sclerosis Diagnosis
 * **Core Principle:** Prove Dissemination in Space (DIS) and Dissemination in Time (DIT).
 * **Clinical Presentation & Required Additional Criteria:**
 
-| Clinical Presentation | Additional Data Needed for MS Diagnosis |
-| :--- | :--- |
-| ≥2 clinical attacks AND ≥2 lesions | None (clinical diagnosis confirmed) |
-| ≥2 clinical attacks AND 1 lesion | **DIS:** MRI evidence of DIS |
-| 1 clinical attack AND ≥2 lesions | **DIT:** MRI evidence of DIT OR +ve CSF OCBs |
-| 1 clinical attack AND 1 lesion (CIS) | **DIS + DIT:** MRI DIS + (MRI DIT OR +ve CSF OCBs) |
-| Insidious neurological progression | 1 year progression + 2 of: (1) MRI brain DIS, (2) MRI cord DIS, (3) +ve CSF OCBs |
+| Clinical Presentation                | Additional Data Needed for MS Diagnosis                                          |
+| :----------------------------------- | :------------------------------------------------------------------------------- |
+| ≥2 clinical attacks AND ≥2 lesions   | None (clinical diagnosis confirmed)                                              |
+| ≥2 clinical attacks AND 1 lesion     | **DIS:** MRI evidence of DIS                                                     |
+| 1 clinical attack AND ≥2 lesions     | **DIT:** MRI evidence of DIT OR +ve CSF OCBs                                     |
+| 1 clinical attack AND 1 lesion (CIS) | **DIS + DIT:** MRI DIS + (MRI DIT OR +ve CSF OCBs)                               |
+| Insidious neurological progression   | 1 year progression + 2 of: (1) MRI brain DIS, (2) MRI cord DIS, (3) +ve CSF OCBs |
 
 * **Definitions of DIS/DIT:**
   * **DIS:** ≥1 T2 lesion in ≥2 of 4 areas (Periventricular, Cortical/Juxtacortical, Infratentorial, Spinal Cord).
   * **DIT:** Simultaneous presence of Gadolinium-enhancing and non-enhancing lesions at any time OR a new T2/enhancing lesion on follow-up MRI.
 
 ### Diagnostic Criteria for NMOSD
-* **With AQP4-IgG +ve:** ≥1 core clinical characteristic (Optic neuritis, Acute myelitis, Area postrema syndrome [unexplained hiccups/vomiting]) + positive AQP4 test.
-* **With AQP4-IgG -ve/Unknown:** Requires stricter criteria (≥2 core clinical characteristics, at least one being ON/LETM/Area postrema) + strict MRI requirements.
+* **With AQP4-IgG +ve:**
+	1.  ≥1 core clinical characteristic (Optic neuritis, Acute myelitis, Area postrema syndrome [unexplained hiccups/vomiting]).
+	2. Positive AQP4 test.
+* **With AQP4-IgG -ve/Unknown:**
+	1. Requires stricter criteria (≥2 core clinical characteristics, at least one being ON/LETM/Area postrema).
+	2. Strict MRI requirements.
 
 ## 6. Acute Exacerbation Management & Resuscitation (Flares/Emergencies)
 
 ### Acute Management of MS Relapse
-* **Indication:** Functionally disabling symptoms (e.g., visual loss, motor weakness). Mild sensory symptoms usually observed.
+* **Indication:**
+	* Functionally disabling symptoms (e.g., visual loss, motor weakness).
+	* Mild sensory symptoms usually observed.
 * **First-line Pharmacotherapy:**
 	* **IV Methylprednisolone:** 1g daily for 3-5 days.
 	* Alternate HA outpatient option: High-dose oral Methylprednisolone (500mg - 1g daily) for 3-5 days.
@@ -245,47 +255,55 @@
 
 ### General Approach to Disease-Modifying Therapies (DMTs) in MS
 * **Goal:** Reduce relapse rate, reduce MRI lesion burden, delay disability progression (EDSS).
-* **HA Prescribing Reality:** Tier 1 drugs are standard formulary. Tier 2 requires special application (Samaritan Fund/Community Care Fund) after failing Tier 1 or presenting with highly active disease.
-* **Pre-Treatment Screening:** LFTs, FBC, VZV serology, HBV/HCV screening, TB screening, baseline MRI.
+* **HA Prescribing Reality:**
+	* Tier 1 drugs are standard formulary.
+	* Tier 2 requires special application (Samaritan Fund/Community Care Fund) after failing Tier 1 or presenting with highly active disease.
+* **Pre-Treatment Screening:**
+	* LFTs.
+	* FBC.
+	* VZV serology, HBV/HCV screening, TB screening.
+	* Baseline MRI.
 
 ### Tier 1 Disease-Modifying Therapies (Moderate Efficacy)
 * **Interferon beta-1a / beta-1b (S/C or I/M):**
-  * MoA: Immunomodulatory cytokines.
-  * Side effects: Flu-like symptoms, injection site reactions, transaminitis, depression.
+	* MoA: Immunomodulatory cytokines.
+	* Side effects: Flu-like symptoms, injection site reactions, transaminitis, depression.
 * **Glatiramer Acetate (S/C):**
-  * MoA: Myelin basic protein decoy, shifts T-cell phenotype (Th1 → Th2).
-  * Side effects: Post-injection systemic reaction (flushing, chest tightness, palpitations - benign).
+	* MoA: Myelin basic protein decoy, shifts T-cell phenotype (Th1 → Th2).
+	* Side effects: Post-injection systemic reaction (flushing, chest tightness, palpitations - benign).
 * **Teriflunomide (Oral):**
-  * MoA: Pyrimidine synthesis inhibitor (targets rapidly dividing T/B cells).
-  * Side effects: Hepatotoxicity, teratogenic (strict contraception needed).
+	* MoA: Pyrimidine synthesis inhibitor (targets rapidly dividing T/B cells).
+	* Side effects: Hepatotoxicity, teratogenic (strict contraception needed).
+![image|450](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/9690660038095453cffe807599579537.png)
 
 ### Tier 2 Disease-Modifying Therapies (High Efficacy)
 * **Natalizumab (IV):**
-  * MoA: Anti-α4 integrin monoclonal antibody (blocks lymphocyte entry into BBB).
-  * Major Risk: Progressive Multifocal Leukoencephalopathy (PML) via JC virus reactivation.
+	* MoA: Anti-α4 integrin monoclonal antibody (blocks lymphocyte entry into BBB).
+	* Major Risk: Progressive Multifocal Leukoencephalopathy (PML) via JC virus reactivation.
 * **Ocrelizumab (IV) / Ofatumumab (S/C):**
-  * MoA: Anti-CD20 monoclonal antibody (depletes B-cells).
-  * Indication: Approved for RRMS and highly active PPMS.
-  * Side effects: Infusion reactions, ↑ risk of infections (HBV reactivation).
+	* MoA: Anti-CD20 monoclonal antibody (depletes B-cells).
+	* Indication: Approved for RRMS and highly active PPMS.
+	* Side effects: Infusion reactions, ↑ risk of infections (HBV reactivation).
 * **Fingolimod (Oral):**
-  * MoA: S1P receptor modulator (traps lymphocytes in lymph nodes).
-  * Major Risk: First-dose bradycardia/AV block (requires 6-hour ECG monitoring during initiation), macular edema.
+	* MoA: S1P receptor modulator (traps lymphocytes in lymph nodes).
+	* Major Risk: First-dose bradycardia/AV block (requires 6-hour ECG monitoring during initiation), macular edema.
+![image|450](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/dd34fdccf24f2ecf003a63a37ffea3c6.png)
 
 ### Chronic Management of NMOSD
 * **Rule of Thumb:** DO NOT use MS DMTs (Interferons, Natalizumab, Fingolimod) for NMOSD → Can cause catastrophic exacerbation.
 * **Maintenance Immunosuppression (Standard HA):**
-  * **Oral Prednisolone** combined with **Azathioprine** or **Mycophenolate Mofetil**.
+	* **Oral Prednisolone** combined with **Azathioprine** or **Mycophenolate Mofetil**.
 * **Biologics (Targeted Therapy):**
-  * **Rituximab (Anti-CD20):** Very effective for relapse prevention.
-  * Eculizumab (Anti-C5 complement), Inebilizumab (Anti-CD19), Satralizumab (Anti-IL6) – newer agents, heavily restricted funding.
+	* **Rituximab (Anti-CD20):** Very effective for relapse prevention.
+	* Eculizumab (Anti-C5 complement), Inebilizumab (Anti-CD19), Satralizumab (Anti-IL6) – newer agents, heavily restricted funding.
 
 ### Symptomatic Management in Demyelinating Diseases
 * **Spasticity:** Baclofen (GABA-B agonist), Tizanidine, Dantrolene, Botox injections.
 * **Fatigue:** Amantadine, Modafinil, aggressive cooling strategies.
 * **Neuropathic Pain:** Pregabalin, Gabapentin, Amitriptyline, Duloxetine.
 * **Neurogenic Bladder:** 
-  * Hyperreflexic (Urge): Oxybutynin, Tolterodine (Anticholinergics).
-  * Flaccid (Retention): Intermittent self-catheterization (ISC).
+	* Hyperreflexic (Urge): Oxybutynin, Tolterodine (Anticholinergics).
+	* Flaccid (Retention): Intermittent self-catheterization (ISC).
 * **Mobility:** Physiotherapy, occupational therapy.
 
 ## 8. Risk Stratification, Clinical Scoring Systems & Prognosis
@@ -294,34 +312,51 @@
 * **Purpose:** Quantifies MS disability, determines DMT eligibility and progression.
 * **Score Range:** 0 (Normal) to 10 (Death).
 * **Key Landmarks:**
-  * **EDSS 0:** Normal neurologic exam.
-  * **EDSS 4.0:** Significant disability but fully ambulatory without aid for ≥500m.
-  * **EDSS 6.0:** Requires unilateral walking aid (cane/crutch) to walk 100m.
-  * **EDSS 6.5:** Requires bilateral walking aid (walker).
-  * **EDSS 7.0:** Wheelchair bound.
+	* **EDSS 0:** Normal neurologic exam.
+	* **EDSS 4.0:** Significant disability but fully ambulatory without aid for ≥500m.
+	* **EDSS 6.0:** Requires unilateral walking aid (cane/crutch) to walk 100m.
+	* **EDSS 6.5:** Requires bilateral walking aid (walker).
+	* **EDSS 7.0:** Wheelchair bound.
 
 ### Prognostic Factors in Multiple Sclerosis
 
-| Favorable Prognosis | Poor Prognosis |
-| :--- | :--- |
-| Female gender | Male gender |
-| Young age at onset (<40) | Older age at onset (>40) |
-| Relapsing-remitting initial course | Primary progressive course |
-| Sensory or visual onset symptoms | Motor, cerebellar, or sphincter onset |
-| Complete recovery from first attack | Incomplete recovery from first attack |
-| Low early lesion burden on MRI | High lesion burden / early brain atrophy |
+| Favorable Prognosis                 | Poor Prognosis                           |
+| :---------------------------------- | :--------------------------------------- |
+| Female gender                       | Male gender                              |
+| Young age at onset (<40)            | Older age at onset (>40)                 |
+| Relapsing-remitting initial course  | Primary progressive course               |
+| Sensory or visual onset symptoms    | Motor, cerebellar, or sphincter onset    |
+| Complete recovery from first attack | Incomplete recovery from first attack    |
+| Low early lesion burden on MRI      | High lesion burden / early brain atrophy |
 
 ### Prognosis of NMOSD and MOGAD
-* **NMOSD:** Poor without treatment. Relapses are severe and cumulative. High risk of blindness and wheelchair dependency within 5 years if untreated. Mortality associated with cervical cord lesions causing respiratory failure.
-* **MOGAD:** Generally better prognosis. Often highly steroid-responsive. Less residual disability compared to NMOSD, though relapses can occur.
+* **NMOSD:**
+	* Poor without treatment.
+	* Relapses are severe and cumulative.
+	* High risk of blindness and wheelchair dependency within 5 years if untreated.
+	* Mortality associated with cervical cord lesions causing respiratory failure.
+* **MOGAD:**
+	* Generally better prognosis.
+	* Often highly steroid-responsive.
+	* Less residual disability compared to NMOSD, though relapses can occur.
 
 ## 9. Multi-System Complications (End-Organ Damage & Drug Adverse Effects)
 
 ### Neurological and Systemic Complications of MS
-* **Neuro-cognitive:** Early dementia, memory impairment, severe clinical depression (↑ suicide risk).
-* **Urological:** Recurrent Urinary Tract Infections (UTI), pyelonephritis, renal failure (due to chronic retention and reflux).
-* **Respiratory:** Aspiration pneumonia (due to bulbar palsy/dysphagia), hypoventilation in advanced disease.
-* **Musculoskeletal:** Severe flexion contractures, osteoporosis (from immobility and recurrent steroid use).
+* **Neuro-cognitive:**
+	* Early dementia.
+	* Memory impairment.
+	* Severe clinical depression (↑ suicide risk).
+* **Urological:**
+	* Recurrent Urinary Tract Infections (UTI).
+	* Pyelonephritis.
+	* Renal failure (due to chronic retention and reflux).
+* **Respiratory:**
+	* Aspiration pneumonia (due to bulbar palsy/dysphagia).
+	* Hypoventilation in advanced disease.
+* **Musculoskeletal:**
+	* Severe flexion contractures.
+	* Osteoporosis (from immobility and recurrent steroid use).
 * **Skin:** Decubitus ulcers (pressure sores) in bed-bound state (EDSS >8.0).
 
 ### Complications of NMOSD
