@@ -348,7 +348,7 @@
 
 ## 10. Examiner's Pearls
 
-* Viva Question: When is IV Albumin strictly indicated in decompensated cirrhosis? Answer: 1) Large volume paracentesis (>5L removed), 2) Acute SBP (Day 1 & Day 3), 3) Diagnosis and treatment of Hepatorenal Syndrome.
+* Viva Question: When is IV Albumin strictly indicated in decompensated cirrhosis? Answer: 1. Large volume paracentesis (>5L removed), 2. Acute SBP (Day 1 & Day 3), 3. Diagnosis and treatment of Hepatorenal Syndrome.
 * Trap: Restricting dietary protein to treat Hepatic Encephalopathy. Pearl: Sarcopenia worsens HE because skeletal muscle is the main secondary site for ammonia clearance. Always ensure high protein intake (1.2-1.5g/kg/day).
 * Pitfall: Interpreting a normal INR as 'normal bleeding risk' or assuming high INR protects against clots. Advanced cirrhosis causes a balanced deficiency of pro- and anti-coagulants; patients frequently develop deep vein thrombosis or portal vein thrombosis despite an elevated INR.
 * Trap: Treating asymptomatic hyponatremia with strict fluid restriction in a cirrhotic patient. Pearl: Cirrhotic hyponatremia is hypervolemic/dilutional due to severe splanchnic vasodilation triggering ADH. True management is addressing portal HTN; withhold diuretics if Na <120 mmol/L. ![image|450](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/b0fc1cabe89418532277da6da93573b9.png)
