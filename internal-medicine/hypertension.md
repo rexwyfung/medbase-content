@@ -180,7 +180,8 @@
 * **Acute Ischemic Stroke:**
 	* PERMISSIVE HYPERTENSION.
 	* Do NOT lower BP unless SBP >220 or DBP >120 mmHg, OR if planning thrombolysis (Alteplase) / mechanical thrombectomy → keep <185/110 mmHg.
-* **Intracerebral Hemorrhage:** Target SBP 140-180 mmHg to minimize hematoma expansion while maintaining cerebral perfusion pressure.
+* **Intracerebral Hemorrhage:**
+	* Aim **<140 mmHg** within 1 hr if presenting SBP is 150–220 mmHg) to minimize hematoma expansion.
 
 ## 7. Chronic Management Algorithm & Disease-Modifying Therapies (Pharmacology & Lifestyle)
 
