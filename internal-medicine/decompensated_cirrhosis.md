@@ -208,7 +208,8 @@
 	* Give BEFORE endoscopy.
 * **Antibiotic Prophylaxis**: **IV Ceftriaxone** 1g daily for 7 days (reduces mortality and re-bleeding).
 * **Endoscopy**: Urgent OGD within 12 hours for Endoscopic Variceal Ligation (EVL).
-* **Rescue Therapy**: Sengstaken-Blakemore tube (balloon tamponade) as temporary bridge (max 24h) to emergency TIPS.
+
+>**Rescue Therapy**: Sengstaken-Blakemore tube (balloon tamponade) as temporary bridge (max 24h) to emergency TIPS. Do NOT use regularly anymore due to the risk of aspiration.
 ![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/3403ee6bf652672688c62feee6b3805b.png)
 
 ### Acute Spontaneous Bacterial Peritonitis (SBP) Management
