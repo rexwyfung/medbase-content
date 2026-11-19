@@ -211,7 +211,7 @@
 	* 1-4: Minor stroke
 	* 5-15: Moderate stroke
 	* 16-20: Moderate-severe
-	* >20: Severe stroke
+	* \>20: Severe stroke
 
 ### Modified Rankin Scale (mRS) for Functional Prognosis
 * Measures degree of disability post-stroke.
