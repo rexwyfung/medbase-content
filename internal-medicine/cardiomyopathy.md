@@ -204,6 +204,7 @@
 * **Step 3 (Advanced/End-Stage):**
 	* LVAD (Left Ventricular Assist Device).
 	* Heart Transplant.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/51c7f48f301d84a78692991ad7d7b8e1.png)
 
 ### Chronic Management of Hypertrophic Cardiomyopathy
 * **Pharmacology (Symptomatic Relief):**

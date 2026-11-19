@@ -78,9 +78,13 @@
 
 ### Physical Signs of Secondary Hypertension
 * **General:** Central obesity, moon facies, buffalo hump, purple abdominal striae (**Cushing's**).
-* **Head & Neck:** Carotid bruits (atherosclerosis), enlarged thyroid (thyrotoxicosis).
+* **Head & Neck:**
+	* Carotid bruits (atherosclerosis).
+	* Enlarged thyroid (thyrotoxicosis).
 * **Cardiovascular:** Radio-femoral delay, weak/absent femoral pulses (**Coarctation**).
-* **Abdomen:** Renal artery bruits auscultated periumbilically/flanks (**RAS**), ballotable bilateral flank masses (**ADPKD**).
+* **Abdomen:**
+	* Renal artery bruits auscultated periumbilically/flanks (**RAS**).
+	* Ballotable bilateral flank masses (**ADPKD**).
 
 ### Hypertensive Retinopathy Physical Grading (Keith-Wagener-Barker)
 * **Grade 1:** Mild generalized retinal arterial narrowing (silver/copper wiring).

@@ -118,16 +118,17 @@
 ## 7. Chronic Management Algorithm & Disease-Modifying Therapies (Pharmacology & Lifestyle)
 
 ### H. pylori Eradication Regimens (Hong Kong HA Standard)
+> **Vonoprazan** (potassium-competitive acid blocker (PCAB)) will become the first-line therapy in 2027.
 * **Requirement**: Stop PPI for 2 weeks before testing/re-testing to avoid false negatives.
 * **First-Line Standard Triple Therapy (14 days)**:
-  * **PPI** (e.g., Esomeprazole 20mg BD or Omeprazole 20mg BD) +
-  * **Clarithromycin** 500mg BD +
-  * **Amoxicillin** 1g BD (Substitute with Metronidazole 400mg BD if Penicillin-allergic).
+	* **PPI** (e.g., Esomeprazole 20mg BD or Omeprazole 20mg BD) +
+	* **Clarithromycin** 500mg BD +
+	* **Amoxicillin** 1g BD (Substitute with Metronidazole 400mg BD if Penicillin-allergic).
 * **Second-Line / High Macrolide Resistance Rescue (Bismuth Quadruple - 14 days)**:
-  * **PPI** BD +
-  * **Bismuth Subcitrate** 120mg QDS +
-  * **Metronidazole** 400mg QDS +
-  * **Tetracycline** 500mg QDS.
+	* **PPI** BD +
+	* **Bismuth Subcitrate** 120mg QDS +
+	* **Metronidazole** 400mg QDS +
+	* **Tetracycline** 500mg QDS.
 * **Confirmation of Eradication**: Perform UBT 4-6 weeks after completing antibiotics.
 
 ### Management of NSAID-Induced PUD

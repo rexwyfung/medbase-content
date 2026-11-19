@@ -264,7 +264,7 @@
 	* If small varices, repeat q1-2 years.
 * **Primary Prophylaxis (for medium/large varices OR small varices with red wale marks/Child-Pugh C)**:
 	* **Non-Selective Beta-Blockers (NSBB)**:
-		* PO Propranolol or Carvedilol.
+		* PO Propranolol or **Carvedilol**.
 		* Titrate to resting HR 55-60 bpm.
 	* **Alternative**:
 		* Endoscopic Variceal Ligation (EVL) if intolerant to NSBB.
