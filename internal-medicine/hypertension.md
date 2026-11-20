@@ -245,7 +245,7 @@
 	* Peripheral Arterial Disease (PAD).
 * **Ocular:**
 	* Hypertensive retinopathy.
-	* Rentral retinal vein/artery occlusion.
+	* Central retinal vein/artery occlusion.
 
 ### Major Adverse Effects of Antihypertensive Drugs
 * **ACE Inhibitors:** Dry bradykinin cough (switch to ARB), Hyperkalemia, Angioedema, acute renal failure in bilateral RAS.
