@@ -50,16 +50,16 @@
 * **Language Deficits**: Word-finding difficulty (anomia), semantic errors.
 * **Visuospatial Deficits**: Getting lost in familiar neighborhoods, difficulty navigating home.
 * **Functional Status (IADLs → ADLs)**:
-  * **IADLs**: Managing finances, medications, transport, telephone, shopping.
-  * **ADLs**: Bathing, dressing, toileting, transferring, feeding.
+	* **IADLs**: Managing finances, medications, transport, telephone, shopping.
+	* **ADLs**: Bathing, dressing, toileting, transferring, feeding.
 
 ### Subtype-Specific Historical Features
 * **AD Profile**: Gradual, insidious onset; isolated short-term memory loss initially.
 * **VaD Profile**: Step-wise deterioration; history of TIA/stroke, hypertension, diabetes, smoking.
 * **DLB Profile**: 
-  * **Fluctuations**: Episodes of staring into space, daytime drowsiness.
-  * **Hallucinations**: Well-formed, detailed visual hallucinations (e.g., seeing small children/animals).
-  * **REM Sleep Behavior Disorder (RBD)**: Acting out dreams, thrashing in sleep (often precedes dementia by years).
+	* **Fluctuations**: Episodes of staring into space, daytime drowsiness.
+	* **Hallucinations**: Well-formed, detailed visual hallucinations (e.g., seeing small children/animals).
+	* **REM Sleep Behavior Disorder (RBD)**: Acting out dreams, thrashing in sleep (often precedes dementia by years).
 * **FTD Profile**: Apathy, disinhibition, socially inappropriate behavior, hyperorality (sweet craving), loss of empathy.
 
 ### Behavioral and Psychological Symptoms of Dementia (BPSD) History
@@ -72,8 +72,8 @@
 * **Extrapyramidal Signs in DLB**: Bradykinesia, resting tremor, rigidity, masked facies, shuffling gait (Parkinsonism).
 * **Frontal Release Signs (Late-stage or FTD)**: Grasp, snout, root, palmomental reflexes.
 * **Gait Assessment**:
-  * **Apraxic/Magnetic Gait**: Suggests Normal Pressure Hydrocephalus (NPH) or severe VaD.
-  * **Festinating Gait**: Suggests DLB.
+	 * **Apraxic/Magnetic Gait**: Suggests Normal Pressure Hydrocephalus (NPH) or severe VaD.
+	 * **Festinating Gait**: Suggests DLB.
 
 ## 4. Differential Diagnoses & Discriminatory Features
 
