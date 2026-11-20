@@ -143,13 +143,13 @@
 	* *Avoid* nitrates (e.g., GTN) as they cause cerebral vasodilation and ↑ICP.
 
 ### Reversal of Coagulopathy Algorithms
-| Anticoagulant                           | Targeted Reversal Agent & Protocol                                                                                                      |
-| :-------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
-| **Warfarin (華法林)**                      | **Prothrombin Complex Concentrate (PCC)** (e.g., Beriplex) + IV Vitamin K (5-10mg). Avoid FFP if PCC available (large volume, slower).  |
-| **Dabigatran**                          | **Idarucizumab** (Praxbind) 5g IV. If unavailable: aPCC or PCC.                                                                         |
-| **Anti-Xa (Apixaban, Rivaroxaban)**     | **Andexanet alfa** (if available) OR 4-factor PCC (50 units/kg).                                                                        |
-| **Heparin (UFH/LMWH)**                  | IV **Protamine Sulfate**.                                                                                                               |
-| **Antiplatelets (Aspirin/Clopidogrel)** | Platelet transfusion (Routine use NOT recommended for spontaneous ICH per PATCH trial, but considered if emergency craniotomy planned). |
+| Anticoagulant                           | Targeted Reversal Agent & Protocol                                                                                                            |
+| :-------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Warfarin (華法林)**                      | **Prothrombin Complex Concentrate (PCC)** (e.g., Beriplex) + **IV Vitamin K** (5-10mg).<br>Avoid FFP if PCC available (large volume, slower). |
+| **Dabigatran**                          | **Idarucizumab** (Praxbind) 5g IV. If unavailable: aPCC or PCC.                                                                               |
+| **Anti-Xa (Apixaban, Rivaroxaban)**     | **Andexanet alfa** (if available) OR 4-factor PCC (50 units/kg).                                                                              |
+| **Heparin (UFH/LMWH)**                  | IV **Protamine Sulfate**.                                                                                                                     |
+| **Antiplatelets (Aspirin/Clopidogrel)** | Platelet transfusion (Routine use NOT recommended for spontaneous ICH per PATCH trial, but considered if emergency craniotomy planned).       |
 
 ### Management of Raised Intracranial Pressure (ICP)
 * **Positioning:**
