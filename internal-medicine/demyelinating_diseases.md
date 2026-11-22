@@ -205,6 +205,10 @@
 ![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/d01faa56a314c3f4ce12d1ee7bf51b73.png)
 
 ### McDonald Criteria 2017 for Multiple Sclerosis Diagnosis
+>- **Rule:** Need **DIS + DIT** (+ exclude mimics).
+>- **DIS:** 2 of 4 zones (**P**eriventricular, **C**ortical/juxtacortical, **I**nfratentorial, **S**pinal cord).
+>- **DIT:** **Old + new** lesions on 1 MRI, **new** lesion on follow-up, OR **CSF oligoclonal bands**.
+
 * **Core Principle:** Prove Dissemination in Space (DIS) and Dissemination in Time (DIT).
 * **Clinical Presentation & Required Additional Criteria:**
 
