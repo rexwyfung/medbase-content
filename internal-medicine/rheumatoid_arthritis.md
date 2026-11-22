@@ -163,8 +163,8 @@
 ### Acute Polyarticular Flare Management in Rheumatoid Arthritis
 * **Analgesia/Anti-inflammatory**: **NSAIDs** (e.g., Naproxen, Ibuprofen) or COX-2 inhibitors (e.g., Celecoxib, Etoricoxib) + continuous PPI cover (e.g., Omeprazole).
 * **Bridging Corticosteroids (皮質類固醇)**: Rapid symptom control while waiting for DMARD efficacy.
-  * **Systemic**: PO Prednisolone (潑尼松龍) or IM Methylprednisolone. Must taper ASAP to avoid toxicity.
-  * **Local**: Intra-articular injection of Triamcinolone (曲安奈德) for severe mono/oligo-articular flares.
+	* **Systemic**: PO Prednisolone (潑尼松龍) or IM Methylprednisolone. Must taper ASAP to avoid toxicity.
+	* **Local**: Intra-articular injection of Triamcinolone (曲安奈德) for severe mono/oligo-articular flares.
 * **Mechanical**: Rest, splinting of inflamed joints in functional positions.
 
 ### Acute Atlantoaxial Subluxation Management in Rheumatoid Arthritis
@@ -189,23 +189,23 @@
 ### First-Line csDMARD Therapy in Rheumatoid Arthritis
 * **Conventional Synthetic DMARDs (csDMARDs)**: Initiate ASAP after diagnosis to prevent erosions.
 * **Methotrexate (甲氨蝶呤) [MTX]**: Anchor drug.
-  * Route/Dose: PO/SC, **10-25mg ONCE WEEKLY**.
-  * Co-prescription: Folic acid 5mg PO once weekly (given 24h after MTX) to reduce mucosal/GI/marrow toxicity.
+	* Route/Dose: PO/SC, **10-25mg ONCE WEEKLY**.
+	* Co-prescription: Folic acid 5mg PO once weekly (given 24h after MTX) to reduce mucosal/GI/marrow toxicity.
 * **Alternatives (if MTX contraindicated/intolerant)**:
-  * **Sulfasalazine (SSZ)**.
-  * **Leflunomide (LEF)**.
-  * **Hydroxychloroquine (HCQ)** (Mild disease, non-erosive).
+	* **Sulfasalazine (SSZ)**.
+	* **Leflunomide (LEF)**.
+	* **Hydroxychloroquine (HCQ)** (Mild disease, non-erosive).
 * **Triple Therapy**: MTX + SSZ + HCQ (used as step-up before biologics in resource-limited/HA settings).
 
 ### Second-Line bDMARDs and tsDMARDs in Rheumatoid Arthritis
 * **Indication**: Failure, intolerance, or contraindication to csDMARDs + high disease activity.
 * **Biologic DMARDs (bDMARDs)**:
-  * **TNF-α inhibitors**: Adalimumab, Etanercept, Infliximab, Golimumab.
-  * **IL-6 inhibitors**: Tocilizumab (effective as monotherapy).
-  * **Anti-CD20 (B-cell depletion)**: Rituximab.
-  * **T-cell co-stimulation modulator**: Abatacept (CTLA4-Ig).
+	* **TNF-α inhibitors**: Adalimumab, Etanercept, Infliximab, Golimumab.
+	* **IL-6 inhibitors**: Tocilizumab (effective as monotherapy).
+	* **Anti-CD20 (B-cell depletion)**: Rituximab.
+	* **T-cell co-stimulation modulator**: Abatacept (CTLA4-Ig).
 * **Targeted Synthetic DMARDs (tsDMARDs)**:
-  * **JAK inhibitors (JAKi)**: Tofacitinib, Baricitinib, Upadacitinib. PO administration.
+	* **JAK inhibitors (JAKi)**: Tofacitinib, Baricitinib, Upadacitinib. PO administration.
 
 ### Pre-Biologic / Pre-DMARD Screening Protocol in Hong Kong
 * **Tuberculosis (TB) screen**:

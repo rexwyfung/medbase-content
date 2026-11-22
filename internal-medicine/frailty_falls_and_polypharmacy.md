@@ -196,7 +196,7 @@
 * **Step 3**: Assess for prescribing cascades (e.g., Amlodipine → edema → Furosemide).
 * **Step 4**: Taper and stop offending agents.
 
-### High-Yield Deprescribing Targets (STOPP Criteria / Beers Criteria highlights):
+### High-Yield Deprescribing Targets (STOPP Criteria / Beers Criteria highlights)
 * **Tricyclic Antidepressants (TCAs)** (e.g., Amitriptyline):
 	* Highly anticholinergic, orthostasis, sedation.
 	* Replace with SSRI or Gabapentin/Pregabalin for neuropathy.

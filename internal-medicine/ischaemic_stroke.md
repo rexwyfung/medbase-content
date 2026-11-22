@@ -61,9 +61,9 @@
 * **Vascular**: Carotid bruits (atherosclerosis).
 * **Cortical Signs**:
 	* **Aphasia (失語症)** (Broca's/Wernicke's).
-	* Neglect.
-	* Apraxia.
-	* Agnosia.
+	* Neglect (忽略症).
+	* Apraxia (失用症).
+	* Agnosia (失認症).
 * **Visual**:
 	* Visual field defects (e.g., homonymous hemianopia).
 	* Gaze palsy (eyes deviate *towards* hemispheric lesion, *away* from brainstem lesion).
