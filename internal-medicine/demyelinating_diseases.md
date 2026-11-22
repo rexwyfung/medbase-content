@@ -205,10 +205,6 @@
 ![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/d01faa56a314c3f4ce12d1ee7bf51b73.png)
 
 ### McDonald Criteria 2017 for Multiple Sclerosis Diagnosis
->- **Rule:** Need **DIS + DIT** (+ exclude mimics).
->- **DIS:** 2 of 4 zones (**P**eriventricular, **C**ortical/juxtacortical, **I**nfratentorial, **S**pinal cord).
->- **DIT:** **Old + new** lesions on 1 MRI, **new** lesion on follow-up, OR **CSF oligoclonal bands**.
-
 * **Core Principle:** Prove Dissemination in Space (DIS) and Dissemination in Time (DIT).
 * **Clinical Presentation & Required Additional Criteria:**
 
@@ -223,6 +219,8 @@
 * **Definitions of DIS/DIT:**
   * **DIS:** ≥1 T2 lesion in ≥2 of 4 areas (Periventricular, Cortical/Juxtacortical, Infratentorial, Spinal Cord).
   * **DIT:** Simultaneous presence of Gadolinium-enhancing and non-enhancing lesions at any time OR a new T2/enhancing lesion on follow-up MRI.
+
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/6e635d0d78a6203f591ecfd6629bfd16.png)
 
 ### Diagnostic Criteria for NMOSD
 * **With AQP4-IgG +ve:**
