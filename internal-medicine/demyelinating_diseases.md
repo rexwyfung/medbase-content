@@ -169,7 +169,7 @@
 * **Visual Evoked Potentials (VEP):** Prolonged P100 latency (indicates delayed conduction in optic nerve).
 * **Optical Coherence Tomography (OCT):** Shows retinal nerve fiber layer (RNFL) thinning post-optic neuritis.
 * **Post-Void Residual (PVR):** Bedside bladder ultrasound to assess neurogenic bladder.
-![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/3542830ae311fb556123685fbffbf2ff.png)
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/80339e6397e75a53e7379913d8cc9456.png)
 
 ### Blood Investigations for Demyelinating Diseases
 * **Autoantibodies:**
