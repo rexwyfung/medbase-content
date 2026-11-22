@@ -105,7 +105,7 @@
 	* Flaccid tone.
 	* Areflexia.
 * **Chronic phase:**
-	* Spasticity..
+	* Spasticity.
 	* Hyperreflexia.
 	* +ve Babinski sign.
 	* Clonus.
@@ -270,6 +270,7 @@
 	* Side effects: Flu-like symptoms, injection site reactions, transaminitis, depression.
 * **Glatiramer Acetate (S/C):**
 	* MoA: Myelin basic protein decoy, shifts T-cell phenotype (Th1 → Th2).
+	* **Safest in Pregnancy.**
 	* Side effects: Post-injection systemic reaction (flushing, chest tightness, palpitations - benign).
 * **Teriflunomide (Oral):**
 	* MoA: Pyrimidine synthesis inhibitor (targets rapidly dividing T/B cells).
@@ -298,12 +299,21 @@
 	* Eculizumab (Anti-C5 complement), Inebilizumab (Anti-CD19), Satralizumab (Anti-IL6) – newer agents, heavily restricted funding.
 
 ### Symptomatic Management in Demyelinating Diseases
-* **Spasticity:** Baclofen (GABA-B agonist), Tizanidine, Dantrolene, Botox injections.
-* **Fatigue:** Amantadine, Modafinil, aggressive cooling strategies.
-* **Neuropathic Pain:** Pregabalin, Gabapentin, Amitriptyline, Duloxetine.
+* **Spasticity:**
+	* **Baclofen (GABA-B agonist), Botox injections.**
+	* Tizanidine, Dantrolene.
+* **Fatigue:**
+	* **Amantadine.**
+	* **Aggressive cooling strategies.**
+	* Modafinil.
+* **Neuropathic Pain:**
+	* **Pregabalin.**
+	* **Gabapentin.**
+	* **Amitriptyline.**
+	* **Duloxetine.**
 * **Neurogenic Bladder:** 
-	* Hyperreflexic (Urge): Oxybutynin, Tolterodine (Anticholinergics).
-	* Flaccid (Retention): Intermittent self-catheterization (ISC).
+	* Hyperreflexic (Urge): **Oxybutynin**, Tolterodine (Anticholinergics).
+	* Flaccid (Retention): **Intermittent self-catheterization (ISC)**.
 * **Mobility:** Physiotherapy, occupational therapy.
 
 ## 8. Risk Stratification, Clinical Scoring Systems & Prognosis
