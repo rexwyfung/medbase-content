@@ -100,9 +100,7 @@
 	* Active substance abuse
 
 ### Post-Transplant Immunosuppression (HK Protocol)
-* **Induction**:
-	* Basiliximab (IL-2 receptor antagonist) or Anti-Thymocyte Globulin (ATG)
-	+ + IV Methylprednisolone
+* **Induction**: Basiliximab (IL-2 receptor antagonist) or Anti-Thymocyte Globulin (ATG) + IV Methylprednisolone
 * **Maintenance (Triple Therapy)**:
 	* **Calcineurin Inhibitor (CNI)**:
 		* Tacrolimus (FK506) > Cyclosporine
