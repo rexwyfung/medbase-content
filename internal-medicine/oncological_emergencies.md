@@ -146,17 +146,22 @@
 
 ![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/ff6694da23d1b1df3e2df37acf702f8a.png)
 
-### Clinical Features of Raised ICP & Tamponade
-* **Raised ICP**:
+### Clinical Features of Raised ICP
+* **History**:
 	* Headache (worse in morning/with Valsalva).
 	* Projectile vomiting.
 	* Altered GCS.
-* **ICP Signs**:
+* **Signs**:
 	* Papilloedema.
 	* Cushing’s reflex (bradycardia, hypertension, irregular breathing - LATE).
 	* CN III/VI palsies.
-* **Tamponade Hx**: Dyspnea, chest fullness, orthopnea.
-* **Tamponade Signs**:
+
+### Clinical Features of Tamponade
+* **History**:
+	* Dyspnea.
+	* Chest fullness.
+	* Orthopnea.
+* **Signs**:
 	* Beck's Triad (hypotension, distended neck veins, muffled heart sounds).
 	* Pulsus paradoxus (insp. drop in systolic BP >10mmHg).
 	* Tachycardia.
