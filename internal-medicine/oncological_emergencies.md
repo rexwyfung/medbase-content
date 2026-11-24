@@ -140,6 +140,10 @@
 	* Lethargy.
 	* Altered sensorium.
 
+>Symptoms of Hypercalcaemia: "Stones, Bones, Groans, and Moans" (or "Overtones").
+
+![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/ff6694da23d1b1df3e2df37acf702f8a.png)
+
 ### Clinical Features of Raised ICP & Tamponade
 * **Raised ICP**:
 	* Headache (worse in morning/with Valsalva).
@@ -406,6 +410,6 @@
 * Pitfall: Sending a patient with suspected malignant spinal cord compression for a plain X-ray of the spine. Plain films miss 10-20% of bone mets and do not evaluate the cord. Urgent whole-spine MRI is the gold standard.
 * Viva Question: Why is Allopurinol given before chemotherapy in high-risk patients but Rasburicase is preferred in established Tumour Lysis Syndrome? Answer: Allopurinol only stops new uric acid synthesis but doesn't clear existing levels. Rasburicase directly degrades existing uric acid into highly soluble allantoin.
 * Trap: Giving Rasburicase without checking G6PD status in a Chinese patient. Pearl: Always check G6PD status as Rasburicase generates hydrogen peroxide during urate breakdown, causing massive haemolysis in G6PD deficiency.
-* Pitfall: Giving IV Furosemide to a patient with severe hypercalcaemia before they are adequately fluid resuscitated. Loop diuretics will worsen volume depletion, reducing GFR and actually decreasing renal calcium excretion. Always hydrate first.
+* Pitfall: Giving IV Furosemide to a patient with severe hypercalcaemia before they are adequately fluid resuscitated. Loop diuretics will worsen volume depletion, reducing GFR and actually decreasing renal calcium excretion. Always hydrate first. ![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/91a4d55fb55338b253d58fad498cd12e.png)
 * Viva Question: What is Pemberton's sign and what does it indicate? Answer: Raising both arms above the head for 60 seconds causes facial cyanosis and engorgement; it indicates Superior Vena Cava Obstruction (often a thoracic inlet mass).
 * Trap: Performing a lumbar puncture in a cancer patient with headache and vomiting without prior imaging. Pearl: Must perform a CT Brain first to rule out a space-occupying lesion (metastasis) to prevent fatal tonsillar herniation.
