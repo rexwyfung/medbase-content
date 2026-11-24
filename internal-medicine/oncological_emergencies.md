@@ -264,9 +264,9 @@
 	* IV Piperacillin-Tazobactam (Tazocin) OR
 	* IV Cefepime OR
 	* IV Meropenem (if high-risk/ESBL risk).
-* **Additions**:
-	* + IV Vancomycin (if MRSA risk, central line infection, severe mucositis, hemodynamic instability).
-	* + IV Aminoglycoside (e.g., Amikacin, Gentamicin) if severe sepsis/shock.
+* **Additions (+/-)**:
+	* IV Vancomycin (if MRSA risk, central line infection, severe mucositis, hemodynamic instability).
+	* IV Aminoglycoside (e.g., Amikacin, Gentamicin) if severe sepsis/shock.
 * **Fluid Resuscitation**: Aggressive IV crystalloids for hypotension.
 
 ### Acute Management of Tumour Lysis Syndrome
