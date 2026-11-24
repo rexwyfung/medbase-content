@@ -1,11 +1,22 @@
 # Lung Cancer & Pulmonary Metastases (肺癌及肺轉移)
 
-## 1. Clinical Definition, Etiologies & Local Epidemiology
+## 1. Clinical Definition & Local Epidemiology
 ### Clinical Definition of Lung Cancer & Pulmonary Metastases
 * **Primary Lung Cancer (原發性肺癌)**: Malignant neoplasm arising from respiratory epithelium.
-* **Non-Small Cell Lung Cancer (NSCLC) (非小細胞肺癌)**: ~85% of cases. Includes **Adenocarcinoma (腺癌)**, **Squamous Cell Carcinoma (鱗狀細胞癌)**, **Large Cell Carcinoma (大細胞癌)**.
-* **Small Cell Lung Cancer (SCLC) (小細胞肺癌)**: ~15% of cases. Rapidly doubling, early metastasis, neuroendocrine origin.
+* **Non-Small Cell Lung Cancer (NSCLC) (非小細胞肺癌)**:
+	* ~85% of cases.
+	* Includes **Adenocarcinoma (腺癌)**, **Squamous Cell Carcinoma (鱗狀細胞癌)**, **Large Cell Carcinoma (大細胞癌)**.
+* **Small Cell Lung Cancer (SCLC) (小細胞肺癌)**:
+	* ~15% of cases.
+	* Rapidly doubling, early metastasis, neuroendocrine origin.
 * **Pulmonary Metastases (肺轉移)**: Secondary deposits from extrapulmonary primary malignancies (e.g., breast, colon, renal, prostate, sarcomas).
+
+### Local Epidemiology in Hong Kong (香港流行病學)
+* **Incidence & Mortality**: Consistently the leading cause of cancer mortality in HK.
+* **Gender & Smoking Profile**: Very high incidence of **Adenocarcinoma** in non-smoking Asian females.
+* **Genomic Profile**: High prevalence of **EGFR mutations** (~50-60%) in HK NSCLC patients compared to Western populations.
+
+## 2. Etiologies, Systemic Pathophysiology & Molecular Mechanisms
 
 ### Etiologies & Risk Factors for Primary Lung Cancers
 * **Smoking**: Primary risk factor (accounts for >80% cases globally).
@@ -13,46 +24,70 @@
 * **Air Pollution**: Particulate matter (PM2.5).
 * **Genetic Susceptibility**: Family history, specific somatic driver mutations.
 
-### Local Epidemiology in Hong Kong (香港流行病學)
-* **Incidence & Mortality**: Consistently the leading cause of cancer mortality in HK.
-* **Gender & Smoking Profile**: Very high incidence of **Adenocarcinoma** in non-smoking Asian females.
-* **Genomic Profile**: High prevalence of **EGFR mutations** (~50-60%) in HK NSCLC patients compared to Western populations.
-
-## 2. Systemic Pathophysiology & Molecular Mechanisms
 ### Molecular Pathogenesis of NSCLC
 * **Driver Mutations**: Oncogenic mutations in **EGFR** (Epidermal Growth Factor Receptor), **ALK** translocations, **ROS1**, **KRAS**, **BRAF**.
 * **Immune Evasion**: Upregulation of **PD-L1** by tumor cells → binds PD-1 receptors on T-cells → inhibits cytotoxic T-cell response.
 * **Peripheral Origin**: Adenocarcinomas typically arise from alveolar type II pneumocytes in peripheral lung zones.
 * **Central Origin**: Squamous cell carcinomas arise from bronchial epithelium (metaplasia → dysplasia → carcinoma in situ → invasive).
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/6a7bc5a23282dc0a9b93d75ab297e44a.png)
 
 ### Pathophysiology of SCLC & Paraneoplastic Syndromes
 * **Neuroendocrine Origin**: Arise from Kulchitsky cells in major bronchi.
-* **Ectopic Hormone Production**: Secretion of ADH → **SIADH**, ACTH → **Cushing's syndrome**, antibodies against presynaptic Ca2+ channels → **Lambert-Eaton Myasthenic Syndrome (LEMS)**.
+* **Ectopic Hormone Production**:
+	* Secretion of ADH → **SIADH**, ACTH → **Cushing's syndrome**.
+	* Antibodies against presynaptic Ca2+ channels → **Lambert-Eaton Myasthenic Syndrome (LEMS)**.
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/f15d545c2062e2c5d958580749407861.png)
 
 ### Mechanisms of Pulmonary Metastasis Dissemination
 * **Hematogenous Spread**: Tumor emboli lodge in pulmonary capillary bed → typically produce multiple bilateral "cannonball" nodules in lower lobes (due to ↑ gravity-dependent blood flow).
 * **Lymphangitis Carcinomatosa**: Tumor cells infiltrate pulmonary lymphatics → interstitial edema, septal thickening, and fibrosis.
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/6d3543b2e57b4559ec654dd31b4a4920.png)
 
 ## 3. Clinical Assessment
 ### Detailed Patient History for Suspected Lung Malignancy
-* **Respiratory Symptoms**: Chronic cough (most common), hemoptysis, progressive dyspnea, localized wheezing.
+* **Respiratory Symptoms**:
+	* Chronic cough (most common).
+	* Hemoptysis.
+	* Progressive dyspnea.
+	* Localized wheezing.
 * **Constitutional Symptoms**: Unintentional weight loss, profound anorexia, severe fatigue, night sweats.
-* **Metastatic Symptoms**: Deep bone pain (bone mets), new-onset headaches/seizures/focal neurological deficits (brain mets), right upper quadrant pain (liver mets).
+* **Metastatic Symptoms**:
+	* Deep bone pain (bone mets).
+	* New-onset headaches/seizures/focal neurological deficits (brain mets).
+	* Right upper quadrant pain (liver mets).
 
 ### Extra-Thoracic Physical Signs & Stigmata
-* **General**: Cachexia, muscle wasting, nicotine tar staining on fingers.
-* **Hands/Nails**: Finger clubbing, hypertrophic pulmonary osteoarthropathy (HPOA) (tender wrists/ankles).
-* **Neck**: Fixed, hard cervical or supraclavicular lymphadenopathy [specifically **Virchow's Node (左鎖骨上淋巴結腫大)**].
-* **Face/Eyes**: Horner's syndrome (ptosis, miosis, anhidrosis) associated with **Pancoast tumor (肺尖腫瘤)**.
+* **General**:
+	* Cachexia, muscle wasting.
+	* Nicotine tar staining on fingers.
+* **Hands/Nails**:
+	* Finger clubbing.
+	* Hypertrophic pulmonary osteoarthropathy (HPOA) (tender wrists/ankles).
+* **Neck**:
+	* Fixed, hard cervical or supraclavicular lymphadenopathy [specifically **Virchow's Node (左鎖骨上淋巴結腫大)**].
+* **Face/Eyes**:
+	* Horner's syndrome (ptosis, miosis, anhidrosis) associated with **Pancoast tumor (肺尖腫瘤)**.
 
 ### Chest & Respiratory Physical Signs
-* **Inspection**: Asymmetrical chest expansion, radiation tattoos, chest wall scars.
-* **Palpation**: Tracheal deviation (towards lobar collapse or away from massive effusion), ↓ tactile vocal fremitus over effusion.
-* **Percussion**: Stony dullness (pleural effusion), localized dullness (consolidation/large mass).
-* **Auscultation**: ↓ or absent vesicular breath sounds (effusion), localized monophonic wheeze (partial airway obstruction).
+* **Inspection**:
+	* Asymmetrical chest expansion
+	* Radiation tattoos.
+	* Chest wall scars.
+* **Palpation**:
+	* Tracheal deviation (towards lobar collapse or away from massive effusion).
+	* ↓ tactile vocal fremitus over effusion.
+* **Percussion**:
+	* Stony dullness (pleural effusion).
+	* Localized dullness (consolidation/large mass).
+* **Auscultation**:
+	* ↓ or absent vesicular breath sounds (effusion).
+	* Localized monophonic wheeze (partial airway obstruction).
 
 ### Signs of Superior Vena Cava Obstruction (SVCO)
-* **Facial**: Plethora, peri-orbital edema, swollen conjunctivae.
+* **Facial**:
+	* Plethora.
+	* Peri-orbital edema.
+	* Swollen conjunctivae.
 * **Neck**: Non-pulsatile, grossly distended jugular veins.
 * **Chest**: Dilated superficial collateral veins on anterior chest wall.
 * **Provocation**: **Pemberton's sign +ve** (raising arms above head causes facial flushing, cyanosis, and respiratory distress within 1 minute).
@@ -93,11 +128,14 @@
 * **CT-Guided Percutaneous Transthoracic Biopsy**: For peripheral parenchymal lung lesions.
 * **Pleural Aspiration/Biopsy**: Cytology of pleural fluid (diagnostic if +ve for malignant cells).
 * **Surgical Excisional Biopsy**: VATS/mediastinoscopy if minimally invasive modalities fail to yield adequate tissue.
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/07be32c372e50473ba315bba98b88522.png)
 
 ### Molecular Diagnostics & Biomarker Profiling (HK HA Protocol)
 * **EGFR Mutation Testing**: Routine molecular panel for all non-squamous NSCLC.
 * **ALK/ROS1 Rearrangement**: Tested via FISH or Next-Generation Sequencing (NGS).
-* **PD-L1 Expression**: Immunohistochemistry (IHC) Tumour Proportion Score (TPS); >50% indicates high likelihood of response to frontline immunotherapy.
+* **PD-L1 Expression**:
+	* Immunohistochemistry (IHC) Tumour Proportion Score (TPS);
+	* 50% indicates high likelihood of response to frontline immunotherapy.
 
 ## 6. Acute Exacerbation Management & Resuscitation
 ### Acute Management of Superior Vena Cava Obstruction (SVCO)
@@ -111,6 +149,7 @@
 * **Airway**: Prompt intubation with large endotracheal tube if airway compromised.
 * **Intervention**: Urgent rigid bronchoscopy (allows suctioning, balloon tamponade, adrenaline injection).
 * **Radiology**: Urgent bronchial artery embolization (BAE) by interventional radiology.
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/8ef52cfa2b1a9da9fd614494a4acfda5.png)
 
 ### Management of Acute Malignant Pleural Effusion (MPE)
 * **Therapeutic Thoracentesis**: Aspirate max 1.5L slowly (prevents fatal re-expansion pulmonary edema).
@@ -123,6 +162,16 @@
 * **Definitive**: Emergency neurosurgical decompression vs Palliative Radiotherapy depending on spinal stability, general fitness, and prognosis.
 
 ## 7. Chronic Management Algorithm & Disease-Modifying Therapies
+
+### TNM Staging System for Lung Cancer
+| Staging Component  | Description                                                                                                                                                                |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **T (Tumor)**      | T1: ≤3cm.<br>T2: >3cm to ≤5cm or involves main bronchus.<br>T3: >5cm to ≤7cm or invades chest wall/phrenic nerve.<br>T4: >7cm or invades mediastinum/heart/trachea/carina. |
+| **N (Node)**       | N0: No regional nodes.<br>N1: Ipsilateral hilar/peribronchial.<br>N2: Ipsilateral mediastinal/subcarinal.<br>N3: Contralateral mediastinal or any supraclavicular.         |
+| **M (Metastasis)** | M0: None.<br>M1a: Malignant pleural effusion or contralateral lung nodule.<br>M1b: Single extrathoracic metastasis.<br>M1c: Multiple extrathoracic metastases.             |
+
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/587ea4aed3a95b5635ec1e9baf840041.png)
+
 ### NSCLC: Early Stage Surgical Algorithm (Stages I-II)
 * **Surgical Resection**: Gold standard for curative intent (VATS lobectomy + systematic mediastinal lymph node dissection).
 * **Surgical Fitness**: Requires rigorous preoperative pulmonary function tests (FEV1/DLCO) and cardiac risk assessment.
@@ -140,20 +189,17 @@
 * **PD-L1 Low/Negative**: Platinum-based doublet chemotherapy (Carboplatin + Pemetrexed) ± Immunotherapy.
 
 ### SCLC: Treatment Algorithm
-* **Limited Stage (Disease confined to one radiation field)**: Concurrent platinum-based chemotherapy + Thoracic Radiotherapy. Prophylactic Cranial Irradiation (PCI) offered if good response.
-* **Extensive Stage**: Platinum-based chemotherapy (Carboplatin + Etoposide) + Immunotherapy (Atezolizumab).
+* **Limited Stage (Disease confined to one radiation field)**:
+	* Concurrent platinum-based chemotherapy + Thoracic Radiotherapy.
+	* Prophylactic Cranial Irradiation (PCI) offered if good response.
+* **Extensive Stage**:
+	* Platinum-based chemotherapy (Carboplatin + Etoposide) + Immunotherapy (Atezolizumab).
 
 ### Chronic Management of Pulmonary Metastases
 * **Systemic Focus**: Treat the primary extrapulmonary malignancy aggressively (systemic chemotherapy, targeted agents, or hormonal therapy).
 * **Pulmonary Metastasectomy**: Surgical wedge resection considered only if primary is totally controlled, limited/oligo-metastatic disease in lungs, no other systemic mets, and adequate pulmonary reserve.
 
 ## 8. Risk Stratification, Clinical Scoring Systems & Prognosis
-### TNM Staging System for Lung Cancer
-| Staging Component | Description |
-|---|---|
-| **T (Tumor)** | T1: ≤3cm. T2: >3cm to ≤5cm or involves main bronchus. T3: >5cm to ≤7cm or invades chest wall/phrenic nerve. T4: >7cm or invades mediastinum/heart/trachea/carina. |
-| **N (Node)** | N0: No regional nodes. N1: Ipsilateral hilar/peribronchial. N2: Ipsilateral mediastinal/subcarinal. N3: Contralateral mediastinal or any supraclavicular. |
-| **M (Metastasis)** | M0: None. M1a: Malignant pleural effusion or contralateral lung nodule. M1b: Single extrathoracic metastasis. M1c: Multiple extrathoracic metastases. |
 
 ### ECOG Performance Status Score
 | ECOG Score | Description |
@@ -170,19 +216,37 @@
 * **Recurrent Laryngeal Nerve Palsy**: Left-sided tumors or massive subcarinal nodes invading aortopulmonary window → vocal cord paralysis (bovine cough/hoarseness).
 * **Phrenic Nerve Palsy**: Unilateral diaphragmatic paralysis (elevated hemidiaphragm on CXR).
 * **Cardiovascular**: Malignant pericardial effusion → cardiac tamponade.
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/3a019859b6767e274eac0d53507ede34.png)
 
 ### Paraneoplastic Syndromes & End-Organ Effects
-* **Endocrine**: SIADH (hyponatremia, seizures), Ectopic ACTH (hypokalemic metabolic alkalosis, rapid weight gain, hypertension), Hypercalcemia (PTHrP causing confusion, stones, abdominal pain).
-* **Neurological**: Lambert-Eaton Myasthenic Syndrome (proximal muscle weakness that characteristically improves with repeated exertion), Paraneoplastic cerebellar degeneration.
-* **Hematological**: Migratory superficial thrombophlebitis (Trousseau's syndrome), profound anemia.
+* **Endocrine**:
+	* SIADH (hyponatremia, seizures).
+	* Ectopic ACTH (hypokalemic metabolic alkalosis, rapid weight gain, hypertension).
+	* Hypercalcemia (PTHrP causing confusion, stones, abdominal pain).
+* **Neurological**:
+	* Lambert-Eaton Myasthenic Syndrome (proximal muscle weakness that characteristically improves with repeated exertion).
+	* Paraneoplastic cerebellar degeneration.
+* **Hematological**:
+	* Migratory superficial thrombophlebitis (Trousseau's syndrome).
+	* Profound anemia.
+![image|450](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/3710e79419acbd5f2acac0144bfc1bb7.png)
 
 ### Pharmacological Adverse Effects
-* **EGFR TKIs (Osimertinib, Gefitinib)**: Severe acneiform maculopapular rash, secretory diarrhea, interstitial lung disease, paronychia.
-* **Platinum Chemotherapy (Cisplatin)**: Irreversible nephrotoxicity, high-frequency sensorineural ototoxicity, severe peripheral neuropathy, highly emetogenic.
-* **Immunotherapy (PD-1/PD-L1 Inhibitors)**: Autoimmune-mediated immune-related adverse events (irAEs) → severe pneumonitis, colitis, endocrinopathies (hypothyroidism, adrenal insufficiency).
+* **EGFR TKIs (Osimertinib, Gefitinib)**:
+	* Severe acneiform maculopapular rash.
+	* Secretory diarrhea.
+	* Tnterstitial lung disease.
+	* Paronychia.
+* **Platinum Chemotherapy (Cisplatin)**:
+	* Irreversible nephrotoxicity.
+	* High-frequency sensorineural ototoxicity.
+	* Severe peripheral neuropathy.
+	* Highly emetogenic.
+* **Immunotherapy (PD-1/PD-L1 Inhibitors)**:
+	* Autoimmune-mediated immune-related adverse events (irAEs) → severe pneumonitis, colitis, endocrinopathies (hypothyroidism, adrenal insufficiency).
 
 ## 10. Examiner's Pearls
-* Viva Question: What is the classic presentation of a Pancoast tumor? Answer: Severe shoulder/arm pain (C8-T1 involvement), Horner's syndrome (ptosis, miosis, anhidrosis), and weakness/wasting of intrinsic hand muscles.
+* Viva Question: What is the classic presentation of a Pancoast tumor? Answer: Severe shoulder/arm pain (C8-T1 involvement), Horner's syndrome (ptosis, miosis, anhidrosis), and weakness/wasting of intrinsic hand muscles. ![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/64cbe5c424fbee1412b3d238cdf29bbb.png)
 * Viva Question: A 65-year-old non-smoking Chinese female presents with a solitary pulmonary nodule. What is the most likely histology and molecular driver in Hong Kong? Answer: Adenocarcinoma, commonly driven by an EGFR exon mutation.
 * Trap: Assuming finger clubbing is a classic sign of Small Cell Lung Cancer (SCLC). Pearl: Clubbing and HPOA are classically associated with Non-Small Cell Lung Cancer (NSCLC), particularly squamous cell carcinoma and adenocarcinoma. SCLC rarely causes clubbing.
 * Trap: Attempting primary surgical resection for Small Cell Lung Cancer. Pearl: SCLC is considered a systemic disseminated disease at diagnosis due to rapid micro-metastases; surgery is essentially never indicated unless it's a coincidental microscopic finding. Mainstay is chemo/radiotherapy.
