@@ -142,8 +142,7 @@
 	* Lethargy.
 	* Altered sensorium.
 
->Symptoms of Hypercalcaemia: "Stones, Bones, Groans, and Moans" (or "Overtones").
-
+>Symptoms of Hypercalcaemia: "Stones, Bones, Groans, and Moans" (or "Overtones"). Bones and Stones won't appear in Hypercalcaemia of Malignancy due to time limit. 
 ![image|300](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/ff6694da23d1b1df3e2df37acf702f8a.png)
 
 ### Clinical Features of Raised ICP
