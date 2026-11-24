@@ -62,6 +62,7 @@
 * **SVCO**:
 	* Extrinsic compression by tumor/lymph nodes vs intrinsic thrombosis.
 	* SVC is thin-walled and easily compressed → venous stasis → collateral vein formation over weeks.
+![image|400](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/a5464e3b598a8b1711e1648af774a95e.png)
 
 ### Pathophysiology of Hypercalcaemia of Malignancy
 * **Humoral**: Ectopic secretion of Parathyroid Hormone-related Protein (PTHrP) → binds PTH receptors → ↑ bone resorption, ↑ renal Ca reabsorption (80% of cases, e.g., Squamous Cell CA).
@@ -85,6 +86,7 @@
 	* Often ABSENT due to lack of neutrophils (e.g., no purulence/erythema at infection sites). 
 	* Tachycardia, hypotension, altered mental status.
 	* Look for subtle skin lesions (Ecthyma gangrenosum - Pseudomonas).
+![image|200](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/96cfbaf5a6cc47a929bd47f1a4719cb3.png)
 
 ### Clinical Features of Tumour Lysis Syndrome
 * **History**:
