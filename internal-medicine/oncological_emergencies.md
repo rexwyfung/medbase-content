@@ -248,6 +248,7 @@
 	* Intact PTH (will be completely suppressed <20 pg/mL).
 	* PTHrP (if available).
 	* SPEP/UPEP (myeloma screen).
+![image|200](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/91e81695ba95ff731fe28c4ee4cdc40f.png)
 
 ### Investigations for Raised ICP, Tamponade & DIC
 * **Raised ICP**:
