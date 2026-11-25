@@ -91,6 +91,7 @@
 * **General**:
 	* Finger clubbing.
 	* Aphthous stomatitis (oral ulcers).
+![image|600](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/ab3802de9645156394ad4603acf51f55.png)
 
 ## 4. Differential Diagnoses & Discriminatory Features
 
@@ -154,6 +155,7 @@
 * **CD Histology**:
 	* Transmural inflammation.
 	* **Non-caseating granulomas** (pathognomonic but only seen in ~30%).
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/74e4d7f0df0afe56e9cfdac489ed2ee6.png)
 
 ### Imaging Studies for IBD
 * **Plain Abdominal X-ray (AXR)**:
@@ -213,7 +215,7 @@
 * **Bone Health**: DEXA scans + Calcium/Vitamin D for patients on recurrent steroids.
 * **Pregnancy in IBD**:
 	* Active disease is worse for fetus than most drugs. Aim for remission before conception.
-	* Safe: 5-ASA, Steroids, Thiopurines, Anti-TNFs (stop Infliximab in 3rd trimester toprevent neonatal immunosuppression).
+	* Safe: 5-ASA, Steroids, Thiopurines, Anti-TNFs (stop Infliximab in 3rd trimester to prevent neonatal immunosuppression).
 	* **ABSOLUTE CONTRAINDICATION**: Methotrexate (teratogenic).
 
 ## 8. Risk Stratification, Clinical Scoring Systems & Prognosis
