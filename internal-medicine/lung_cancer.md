@@ -34,7 +34,8 @@
 ### Pathophysiology of SCLC & Paraneoplastic Syndromes
 * **Neuroendocrine Origin**: Arise from Kulchitsky cells in major bronchi.
 * **Ectopic Hormone Production**:
-	* Secretion of ADH → **SIADH**, ACTH → **Cushing's syndrome**.
+	* Secretion of ADH → **SIADH**.
+	* ACTH → **Cushing's syndrome**.
 	* Antibodies against presynaptic Ca2+ channels → **Lambert-Eaton Myasthenic Syndrome (LEMS)**.
 ![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/f15d545c2062e2c5d958580749407861.png)
 
