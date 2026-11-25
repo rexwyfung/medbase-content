@@ -43,26 +43,53 @@
 ### History in Ulcerative Colitis
 * **Bowel Habit**: Chronic diarrhea, often nocturnal.
 * **Stool Characteristics**: Frank hematochezia (bloody stool) + heavy mucus.
-* **Associated Symptoms**: Tenesmus (rectal urgency/incomplete evacuation), lower abdominal cramping (relieved by defecation).
+* **Associated Symptoms**:
+	* Tenesmus (rectal urgency/incomplete evacuation).
+	* Lower abdominal cramping (relieved by defecation).
 * **Severity Markers**: Fever, weight loss, profound fatigue in acute flares.
 
 ### History in Crohn's Disease
 * **Pain**: Chronic right lower quadrant (RLQ) abdominal pain (ileocecal involvement).
 * **Bowel Habit**: Chronic diarrhea (usually non-bloody unless colonic involvement).
-* **Systemic Symptoms**: Significant weight loss, low-grade fever, anorexia, failure to thrive (pediatrics).
-* **Perianal Symptoms**: Perianal pain, discharge (fistulae), recurrent abscesses.
+* **Systemic Symptoms**:
+	* Significant weight loss.
+	* Low-grade fever.
+	* Anorexia.
+	* Failure to thrive (pediatrics).
+* **Perianal Symptoms**:
+	* Perianal pain.
+	* Discharge (fistulae).
+	* Recurrent abscesses.
 
 ### Physical Examination of the Abdomen in IBD
-* **UC Abdominal Exam**: Often unremarkable; generalized tenderness in severe colitis; distension + tympany in toxic megacolon.
-* **CD Abdominal Exam**: RLQ mass (inflamed terminal ileum or abscess), localized tenderness.
-* **Perianal Exam (Crucial for CD)**: Skin tags, fissures (often multiple/off-midline), perianal fistulae, abscesses.
+* **UC Abdominal Exam**:
+	* Often unremarkable;
+	* Generalized tenderness in severe colitis; distension + tympany in toxic megacolon.
+* **CD Abdominal Exam**:
+	* RLQ mass (inflamed terminal ileum or abscess).
+	* Localized tenderness.
+* **Perianal Exam (Crucial for CD)**:
+	* Skin tags.
+	* Fissures (often multiple/off-midline).
+	* Perianal fistulae.
+	* Abscesses.
 
 ### Extraintestinal Manifestations (EIMs) Examination
-* **Dermatological**: **Erythema Nodosum (結節性紅斑)** (tender red nodules on shins, mirrors disease activity), **Pyoderma Gangrenosum (壞疽性膿皮症)** (necrotic ulcer with violaceous border, independent of disease activity).
-* **Ophthalmological**: Episcleritis (painless red eye), Anterior Uveitis (painful red eye, photophobia).
-* **Musculoskeletal**: Peripheral arthritis (asymmetrical, large joints), Ankylosing Spondylitis (HLA-B27 +ve, independent of bowel activity), Sacroiliitis.
-* **Hepatobiliary**: **Primary Sclerosing Cholangitis (原發性硬化性膽管炎) (PSC)** (strongly associated with UC; jaundice, excoriations from pruritus).
-* **General**: Finger clubbing, aphthous stomatitis (oral ulcers).
+* **Dermatological**:
+	* **Erythema Nodosum (結節性紅斑)** (tender red nodules on shins, mirrors disease activity).
+	* **Pyoderma Gangrenosum (壞疽性膿皮症)** (necrotic ulcer with violaceous border, independent of disease activity).
+* **Ophthalmological**:
+	* Episcleritis (painless red eye).
+	* Anterior Uveitis (painful red eye, photophobia).
+* **Musculoskeletal**:
+	* Peripheral arthritis (asymmetrical, large joints).
+	* Ankylosing Spondylitis (HLA-B27 +ve, independent of bowel activity).
+	* Sacroiliitis.
+* **Hepatobiliary**:
+	* **Primary Sclerosing Cholangitis (原發性硬化性膽管炎) (PSC)** (strongly associated with UC; jaundice, excoriations from pruritus).
+* **General**:
+	* Finger clubbing.
+	* Aphthous stomatitis (oral ulcers).
 
 ## 4. Differential Diagnoses & Discriminatory Features
 
@@ -78,36 +105,74 @@
 
 ### Other Differential Diagnoses for IBD
 * **Infective Colitis**: *Campylobacter*, *Salmonella*, *Shigella*, Amoebiasis, *C. difficile* (always check stool cultures/toxin in HK).
-* **Microscopic Colitis**: Chronic watery diarrhea, normal macroscopic endoscopy; diagnosed histologically (Collagenous or Lymphocytic).
-* **Drug-Induced Colitis**: NSAIDs, immune checkpoint inhibitors (e.g., ipilimumab).
+* **Microscopic Colitis**:
+	* Chronic watery diarrhea, normal macroscopic endoscopy;
+	* Diagnosed histologically (Collagenous or Lymphocytic).
+* **Drug-Induced Colitis**:
+	* NSAIDs.
+	* Immune checkpoint inhibitors (e.g., ipilimumab).
 * **Behçet's Disease**: Oral/genital ulcers + ileocecal ulcers (can mimic CD).
 
 ## 5. Tiered Investigations (Bedside, Bloods, Imaging, Biopsy & Diagnostic Criteria)
 
 ### Bedside & Blood Investigations for IBD
 * **Bedside**: Stool for routine culture + sensitivity, O&P, *C. difficile* toxin (exclude infection before initiating immunosuppression), **Fecal Calprotectin** (sensitive marker of intestinal inflammation; distinguishes IBD from IBS).
-* **Bloods (Markers of Flare)**: ↑ CRP, ↑ ESR, ↑ WBC, ↓ Hb (anemia of chronic disease/iron deficiency), ↓ Albumin, ↓ K+ / Mg2+ (from diarrhea).
-* **Pre-Biologic/Immunosuppression Screen**: HBV/HCV serology, QuantiFERON-TB Gold / CXR (endemic TB in HK), VZV IgG, HIV, TPMT/NUDT15 genotype (prior to thiopurines).
+* **Bloods (Markers of Flare)**:
+	* ↑ CRP, ↑ ESR, ↑ WBC, ↓ Hb (anemia of chronic disease/iron deficiency).
+	* ↓ Albumin.
+	* ↓ K+ / Mg2+ (from diarrhea).
+* **Pre-Biologic/Immunosuppression Screen**:
+	* HBV/HCV serology.
+	* QuantiFERON-TB Gold / CXR (endemic TB in HK).
+	* VZV IgG.
+	* HIV.
+	* TPMT/NUDT15 genotype (prior to thiopurines).
 
 ### Endoscopic Investigations for IBD
 * **Colonoscopy**: Gold standard for diagnosis & mucosal healing assessment.
-* **UC Endoscopy**: Erythema, loss of vascular pattern, friability, spontaneous bleeding, erosions, pseudopolyps. Continuous extension proximal from rectum.
-* **CD Endoscopy**: Aphthous ulcers, deep linear (serpiginous) ulcers, **cobblestone appearance**, strictures, skip lesions.
+* **UC Endoscopy**:
+	* Erythema.
+	* Loss of vascular pattern.
+	* Friability.
+	* Spontaneous bleeding.
+	* Erosions.
+	* Pseudopolyps.
+	* Continuous extension proximal from rectum.
+* **CD Endoscopy**:
+	* Aphthous ulcers.
+	* Deep linear (serpiginous) ulcers.
+	* **Cobblestone appearance**.
+	* Strictures.
+	* Skip lesions.
 
 ### Histological Diagnosis of IBD
-* **UC Histology**: Mucosal/submucosal inflammation only. Crypt abscesses, crypt architectural distortion, basal plasmacytosis.
-* **CD Histology**: Transmural inflammation. **Non-caseating granulomas** (pathognomonic but only seen in ~30%).
+* **UC Histology**:
+	* Mucosal/submucosal inflammation only.
+	* Crypt abscesses, crypt architectural distortion, basal plasmacytosis.
+* **CD Histology**:
+	* Transmural inflammation.
+	* **Non-caseating granulomas** (pathognomonic but only seen in ~30%).
 
 ### Imaging Studies for IBD
-* **Plain Abdominal X-ray (AXR)**: Crucial in acute flare to rule out Toxic Megacolon (>6cm transverse colon diameter) or perforation. Lead-pipe colon (loss of haustra) in chronic UC.
-* **MRI Enterography**: Modality of choice to evaluate small bowel CD (strictures, fistulae, wall thickening, creeping fat). No radiation (important for young patients).
+* **Plain Abdominal X-ray (AXR)**:
+	* Crucial in acute flare to rule out Toxic Megacolon (>6cm transverse colon diameter) or perforation.
+	* Lead-pipe colon (loss of haustra) in chronic UC.
+* **MRI Enterography**:
+	* Modality of choice to evaluate small bowel CD (strictures, fistulae, wall thickening, creeping fat).
+	* No radiation (important for young patients).
 * **Pelvic MRI**: Gold standard for assessing complex perianal fistulizing CD.
 
 ## 6. Acute Exacerbation Management & Resuscitation (Flares/Emergencies)
 
 ### Management of Acute Severe Ulcerative Colitis (ASUC)
-* **Definition (Truelove-Witts)**: ≥6 bloody stools/day + systemic toxicity. Medical emergency.
-* **Resuscitation**: NPO/clear fluids, IV rehydration, correct electrolytes (K+/Mg2+), prophylactic LMWH (highly prothrombotic state).
+* **Definition (Truelove-Witts)**:
+	* ≥6 bloody stools/day + systemic toxicity.
+	* Medical emergency.
+* **Resuscitation**:
+	* NPO/clear fluids.
+	* IV rehydration.
+	* Correct electrolytes (K+/Mg2+).
+	* Prophylactic LMWH (highly prothrombotic state).
 * **1st Line Medical Therapy**: IV Hydrocortisone 100mg QDS or IV Methylprednisolone 60mg OM.
 * **Monitoring**: Daily AXR (monitor for megacolon), stool chart, daily CRP.
 * **Day 3 Assessment (Oxford Criteria)**: If >8 stools/day OR 3-8 stools + CRP >45 mg/L → Steroid-refractory ASUC.
@@ -133,17 +198,21 @@
 * **Step 3 (Severe/Fistulizing)**: Early aggressive use of Biologics (Infliximab, Adalimumab) is favored ("top-down" approach) to prevent strictures/fistulae.
 
 ### Biologic Therapies for IBD
-* **Anti-TNFα**: Infliximab (IV), Adalimumab (SC). Risk of TB/HBV reactivation.
-* **Anti-Integrin (Gut-selective)**: Vedolizumab. Blocks WBC trafficking to gut. Very safe profile.
+* **Anti-TNFα**:
+	* Infliximab (IV), Adalimumab (SC).
+	* Risk of TB/HBV reactivation.
+* **Anti-Integrin (Gut-selective)**:
+	* Vedolizumab.
+	* Blocks WBC trafficking to gut. Very safe profile.
 * **Anti-IL-12/23**: Ustekinumab.
 
 ### Lifestyle Modifications & Special Considerations (Pregnancy)
 * **Smoking Cessation**: Absolute mandate for Crohn's Disease.
 * **Bone Health**: DEXA scans + Calcium/Vitamin D for patients on recurrent steroids.
 * **Pregnancy in IBD**:
-  * Active disease is worse for fetus than most drugs. Aim for remission before conception.
-  * Safe: 5-ASA, Steroids, Thiopurines, Anti-TNFs (stop Infliximab in 3rd trimester to prevent neonatal immunosuppression).
-  * **ABSOLUTE CONTRAINDICATION**: Methotrexate (teratogenic).
+	* Active disease is worse for fetus than most drugs. Aim for remission before conception.
+	* Safe: 5-ASA, Steroids, Thiopurines, Anti-TNFs (stop Infliximab in 3rd trimester toprevent neonatal immunosuppression).
+	  * **ABSOLUTE CONTRAINDICATION**: Methotrexate (teratogenic).
 
 ## 8. Risk Stratification, Clinical Scoring Systems & Prognosis
 
@@ -162,15 +231,23 @@
 * **Components**: Number of liquid stools, severity of abdominal pain, general well-being, EIMs, antidiarrheal use, abdominal mass, hematocrit, body weight deviation.
 
 ### Malignancy Surveillance in IBD
-* **Risk**: ↑ risk of Colorectal Carcinoma (CRC). Risk correlates with disease extent, duration, and co-existing PSC.
+* **Risk**:
+	* ↑ risk of Colorectal Carcinoma (CRC).
+	* Risk correlates with disease extent, duration, and co-existing PSC.
 * **Surveillance Protocol**: Screening colonoscopy begins **8 years** after symptom onset.
-* **Interval**: Every 1-5 years based on risk factors (e.g., extensive colitis, history of dysplasia, family Hx). PSC patients require ANNUAL screening from diagnosis.
+* **Interval**:
+	* Every 1-5 years based on risk factors (e.g., extensive colitis, history of dysplasia, family Hx).
+	* PSC patients require ANNUAL screening from diagnosis.
 
 ## 9. Multi-System Complications (End-Organ Damage & Drug Adverse Effects)
 
 ### Local Intestinal Complications of IBD
 * **UC Specific**: **Toxic Megacolon (中毒性巨結腸)** (risk of perforation, high mortality), massive hemorrhage, CRC.
-* **CD Specific**: Intestinal strictures (bowel obstruction), fistulae (enterovesical → pneumaturia; enterocutaneous; perianal), intra-abdominal abscesses, short bowel syndrome (from recurrent resections), malabsorption (B12 deficiency if terminal ileum resected/diseased).
+* **CD Specific**:
+	* Intestinal strictures (bowel obstruction).
+	* Fistulae (enterovesical → pneumaturia; enterocutaneous; perianal), intra-abdominal abscesses.
+	* Short bowel syndrome (from recurrent resections).
+	* Malabsorption (B12 deficiency if terminal ileum resected/diseased).
 
 ### Systemic Complications of IBD
 * Osteoporosis (steroid-induced + malabsorption).
@@ -179,13 +256,32 @@
 * Venous Thromboembolism (VTE): Active IBD is highly prothrombotic.
 
 ### IBD Drug-Induced Adverse Effects
-* **Azathioprine**: Bone marrow suppression (check NUDT15), hepatotoxicity, pancreatitis, non-melanoma skin cancers, lymphoma.
-* **Anti-TNFs**: Reactivation of latent TB/HBV, opportunistic infections, drug-induced lupus, demyelinating disease.
+* **Azathioprine**:
+	* Bone marrow suppression (check NUDT15).
+	* Hepatotoxicity.
+	* Pancreatitis.
+	* Non-melanoma skin cancers, lymphoma.
+* **Anti-TNFs**:
+	* Reactivation of latent TB/HBV.
+	* Opportunistic infections.
+	* Drug-induced lupus.
+	* Demyelinating disease.
 * **Mesalazine**: Interstitial nephritis (rare but monitor renal function).
 
 ### Surgical Indications for IBD
-* **Indications for UC**: Medically refractory ASUC, toxic megacolon, perforation, severe hemorrhage, dysplasia/carcinoma on surveillance. (Curative: Proctocolectomy).
-* **Indications for CD**: Medically refractory disease, bowel obstruction (fibrotic stricture), intra-abdominal abscess, complex fistulae. (Not curative; aim for bowel-sparing surgery to prevent short bowel syndrome).
+* **Indications for UC**:
+	* Medically refractory ASUC.
+	* Toxic megacolon.
+	* Perforation.
+	* Severe hemorrhage.
+	* Dysplasia/carcinoma on surveillance.
+	* (Curative: Proctocolectomy).
+* **Indications for CD**:
+	* \Medically refractory disease.
+	* Bowel obstruction (fibrotic stricture).
+	* Intra-abdominal abscess.
+	* Complex fistulae.
+	* (Not curative; aim for bowel-sparing surgery to prevent short bowel syndrome).
 
 ## 10. Examiner's Pearls
 
