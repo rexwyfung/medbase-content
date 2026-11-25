@@ -236,7 +236,7 @@
 * **EGFR TKIs (Osimertinib, Gefitinib)**:
 	* Severe acneiform maculopapular rash.
 	* Secretory diarrhea.
-	* Tnterstitial lung disease.
+	* Interstitial lung disease.
 	* Paronychia.
 * **Platinum Chemotherapy (Cisplatin)**:
 	* Irreversible nephrotoxicity.
