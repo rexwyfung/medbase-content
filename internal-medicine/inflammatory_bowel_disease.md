@@ -64,7 +64,8 @@
 ### Physical Examination of the Abdomen in IBD
 * **UC Abdominal Exam**:
 	* Often unremarkable;
-	* Generalized tenderness in severe colitis; distension + tympany in toxic megacolon.
+	* Generalized tenderness in severe colitis;
+	* Distension + tympany in toxic megacolon.
 * **CD Abdominal Exam**:
 	* RLQ mass (inflamed terminal ileum or abscess).
 	* Localized tenderness.
@@ -144,6 +145,7 @@
 	* **Cobblestone appearance**.
 	* Strictures.
 	* Skip lesions.
+![image|600](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/7188ab1f5cbaf3d56f8b963031028d9e.png)
 
 ### Histological Diagnosis of IBD
 * **UC Histology**:
@@ -242,7 +244,10 @@
 ## 9. Multi-System Complications (End-Organ Damage & Drug Adverse Effects)
 
 ### Local Intestinal Complications of IBD
-* **UC Specific**: **Toxic Megacolon (中毒性巨結腸)** (risk of perforation, high mortality), massive hemorrhage, CRC.
+* **UC Specific**:
+	* **Toxic Megacolon (中毒性巨結腸)** (risk of perforation, high mortality).
+	* Massive hemorrhage.
+	* CRC.
 * **CD Specific**:
 	* Intestinal strictures (bowel obstruction).
 	* Fistulae (enterovesical → pneumaturia; enterocutaneous; perianal), intra-abdominal abscesses.
