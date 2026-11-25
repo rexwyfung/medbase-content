@@ -65,14 +65,14 @@
 	* Metallic taste in mouth
 * **Dermatological:**
 	* Generalized intense pruritus (refractory to antihistamines)
-* **Fluid Status:**
+* **Urinary:**
+	* Nocturia (early sign of concentrating defect)
+	* Frothy urine (proteinuria)
+* **Fluid Status (not uremic syndrome):**
 	* Exertional dyspnoea
 	* Orthopnoea
 	* Paroxysmal nocturnal dyspnoea
 	* Bilateral leg swelling
-* **Urinary:**
-	* Nocturia (early sign of concentrating defect)
-	* Frothy urine (proteinuria)
 
 ### General & Fluid Status Physical Signs
 * **General:**

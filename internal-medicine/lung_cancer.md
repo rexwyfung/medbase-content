@@ -137,6 +137,7 @@
 * **PD-L1 Expression**:
 	* Immunohistochemistry (IHC) Tumour Proportion Score (TPS);
 	* 50% indicates high likelihood of response to frontline immunotherapy.
+> According to Prof. JCM Ho (HKU), **Next-Generation Sequencing (NGS)** is now provided as a Tier-1 genetic and genomic service for newly diagnosed non-small cell lung cancer (NSCLC) to guide first-line targeted therapy or immunotherapy in Hong Kong's Hospital Authority (HA).
 
 ## 6. Acute Exacerbation Management & Resuscitation
 ### Acute Management of Superior Vena Cava Obstruction (SVCO)
