@@ -214,7 +214,7 @@
 * **Pregnancy in IBD**:
 	* Active disease is worse for fetus than most drugs. Aim for remission before conception.
 	* Safe: 5-ASA, Steroids, Thiopurines, Anti-TNFs (stop Infliximab in 3rd trimester toprevent neonatal immunosuppression).
-	  * **ABSOLUTE CONTRAINDICATION**: Methotrexate (teratogenic).
+	* **ABSOLUTE CONTRAINDICATION**: Methotrexate (teratogenic).
 
 ## 8. Risk Stratification, Clinical Scoring Systems & Prognosis
 
