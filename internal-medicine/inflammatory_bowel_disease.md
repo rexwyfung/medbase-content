@@ -1,20 +1,11 @@
 # Inflammatory Bowel Disease (炎症性腸病)
 
-## 1. Clinical Definition, Etiologies & Local Epidemiology
+## 1. Clinical Definition & Local Epidemiology
 
 ### Definition of Inflammatory Bowel Disease
 * **Inflammatory Bowel Disease (炎症性腸病) (IBD)**: Idiopathic, chronic, relapsing-remitting immune-mediated inflammation of the GI tract.
 * **Ulcerative Colitis (潰瘍性結腸炎) (UC)**: Continuous mucosal inflammation restricted to the colon, invariably involving the rectum.
 * **Crohn's Disease (克隆氏症) (CD)**: Discontinuous (skip lesions), transmural inflammation affecting any part of the GI tract from mouth to anus.
-
-### Etiologies of Inflammatory Bowel Disease
-* **Genetics**: Polygenic; CD strongly associated with **NOD2/CARD15** mutations.
-* **Environmental Triggers**: 
-  * Smoking: ↑ risk & severity in CD; *protective* in UC.
-  * Diet: High-fat, refined sugars, low-fiber diet ↑ risk.
-  * Appendectomy: Protective against UC.
-* **Microbiome (Dysbiosis)**: ↓ commensal diversity (e.g., *Firmicutes*), ↑ pathogenic bacteria.
-* **Immune Dysregulation**: Aberrant mucosal immune response to normal gut flora.
 
 ### Epidemiology of IBD in Hong Kong
 * **Incidence**: Historically low but rapidly ↑ in HK & Asia (westernization of diet/lifestyle).
@@ -22,19 +13,30 @@
 * **Prevalence**: UC slightly more common than CD in HK.
 * **Genetic Specificity**: **NUDT15** gene mutation is prevalent in the Han Chinese/HK population (predisposes to severe thiopurine-induced leukopenia).
 
-## 2. Systemic Pathophysiology & Molecular Mechanisms
+## 2. Etiologies, Systemic Pathophysiology & Molecular Mechanisms
+
+### Etiologies of Inflammatory Bowel Disease
+* **Genetics**: Polygenic; CD strongly associated with **NOD2/CARD15** mutations.
+* **Environmental Triggers**: 
+	* Smoking: ↑ risk & severity in CD; *protective* in UC.
+	* Diet: High-fat, refined sugars, low-fiber diet ↑ risk.
+	* Appendectomy: Protective against UC.
+* **Microbiome (Dysbiosis)**: ↓ commensal diversity (e.g., *Firmicutes*), ↑ pathogenic bacteria.
+* **Immune Dysregulation**: Aberrant mucosal immune response to normal gut flora.
 
 ### Pathophysiology of Ulcerative Colitis (UC)
 * **Depth**: Superficial (mucosa & submucosa only).
 * **Immune Pathway**: Atypical **Th2-mediated** response.
 * **Cytokine Profile**: ↑ IL-5, IL-13.
 * **Lesion Architecture**: Crypt abscesses, crypt distortion, goblet cell depletion.
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/2d3214f7a061b9cea2d5345912ea1234.png)
 
 ### Pathophysiology of Crohn's Disease (CD)
 * **Depth**: Transmural (full-thickness inflammation).
 * **Immune Pathway**: **Th1** and **Th17-mediated** response.
 * **Cytokine Profile**: ↑ IFN-γ, TNF-α, IL-12, IL-23.
 * **Lesion Architecture**: Non-caseating granulomas, transmural lymphoid aggregates, fibrosis, fissuring ulcers → fistula/stricture formation.
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/25aff32da5aeb4bd94e4d8e6ec8611cc.png)
 
 ## 3. Clinical Assessment (Detailed History & System-Specific Physical Signs ONLY)
 
