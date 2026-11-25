@@ -282,7 +282,7 @@
 	* Dysplasia/carcinoma on surveillance.
 	* (Curative: Proctocolectomy).
 * **Indications for CD**:
-	* \Medically refractory disease.
+	* Medically refractory disease.
 	* Bowel obstruction (fibrotic stricture).
 	* Intra-abdominal abscess.
 	* Complex fistulae.
