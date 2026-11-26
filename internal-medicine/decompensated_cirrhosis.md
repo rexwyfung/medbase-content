@@ -228,6 +228,7 @@
 * **Contraindication**:
 	* Strictly AVOID benzodiazepines/sedatives.
 	* Do NOT restrict dietary protein.
+>Professor CL Lai (HKU) said **dextrose** is the third management for acute encephalopathy (HE).
 ![image|450](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/098509bbfd9c7623966bc0259782df28.png)
 
 ### Acute Hepatorenal Syndrome (HRS-AKI) Management
