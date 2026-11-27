@@ -1,6 +1,6 @@
 # Psoriasis (銀屑病)
 
-## 1. Clinical Definition, Etiologies & Local Epidemiology
+## 1. Clinical Definition & Local Epidemiology
 
 ### Clinical Definition of Psoriasis
 * **Psoriasis (銀屑病)**: Chronic, relapsing, immune-mediated systemic inflammatory disease primarily manifesting as hyperproliferative scaly skin plaques.
@@ -8,22 +8,35 @@
 ### Epidemiology in Hong Kong
 * **Prevalence**: ~0.3–0.6% in HK population.
 * **Onset**: Bimodal peak (15–25 years & 50–60 years).
-* **Genetics**: Strong familial clustering; **HLA-Cw6** strongly associated with early-onset (Type 1) and guttate psoriasis.
+* **Genetics**:
+	* Strong familial clustering;
+	* **HLA-Cw6** strongly associated with early-onset (Type 1) and guttate psoriasis.
+
+## 2. Etiologies, Systemic Pathophysiology & Molecular Mechanisms
 
 ### Etiological Triggers (Exacerbating Factors)
 * **Physical Trauma**: Provokes lesions via Koebner phenomenon.
-* **Infections**: Streptococcal pharyngitis (classic trigger for **Guttate Psoriasis**), HIV (causes sudden severe exacerbations).
-* **Medications**: Mnemonic **"BLAN"** (Beta-blockers, Lithium, Antimalarials, NSAIDs). Rapid steroid withdrawal triggers pustular flare.
+* **Infections**:
+	* Streptococcal pharyngitis (classic trigger for **Guttate Psoriasis**).
+	* HIV (causes sudden severe exacerbations).
+* **Medications**:
+	* Mnemonic **"BLAN"** (Beta-blockers, Lithium, Antimalarials, NSAIDs).
+	* Rapid steroid withdrawal triggers pustular flare.
 * **Psychosocial**: Stress strongly correlates with flares.
-* **Endocrine**: Hypocalcemia (triggers pustular variant), post-partum state.
-* **Lifestyle**: Smoking, heavy alcohol intake.
-
-## 2. Systemic Pathophysiology & Molecular Mechanisms
+* **Endocrine**:
+	* Hypocalcemia (triggers pustular variant).
+	* Post-partum state.
+* **Lifestyle**:
+	* Smoking.
+	* Heavy alcohol intake.
 
 ### Immunopathogenesis of Psoriasis
 * **T-Cell Mediated Process**: APCs (dendritic cells) in skin are activated → release **IL-23** → induces **Th17** and **Th1** cell differentiation.
-* **Cytokine Storm**: Th17 releases **IL-17, IL-22**; Th1 releases **IFN-γ, TNF-α**.
+* **Cytokine Storm**:
+	* Th17 releases **IL-17, IL-22**;
+	* Th1 releases **IFN-γ, TNF-α**.
 * **Keratinocyte Response**: Cytokines drive massive epidermal hyperproliferation, angiogenesis, and neutrophil chemoattraction.
+![image|500](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/5052102e2579caae48646bd970546672.png)
 
 ### Microscopic & Histopathological Mechanisms
 * **Acanthosis**: Marked epidermal thickening with elongated rete ridges.
@@ -32,17 +45,27 @@
 * **Angiogenesis**: Dilated, tortuous superficial dermal capillaries (basis of Auspitz sign).
 * **Munro Microabscesses**: Neutrophil collections in the stratum corneum.
 * **Kogoj Spongiform Pustules**: Neutrophil aggregates in the spinous layer.
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/6b84571f53f53c88faafabe12798ce09.png)
 
 ## 3. Clinical Assessment (Detailed History & System-Specific Physical Signs ONLY)
 
 ### General Dermatological History
-* **Symptomatology**: Pruritus, skin pain/burning, shedding of scales.
-* **Trigger Identification**: Recent sore throat, new medications, emotional stress.
+* **Symptomatology**:
+	* Pruritus.
+	* Skin pain/burning.
+	* Shedding of scales.
+* **Trigger Identification**:
+	* Recent sore throat.
+	* New medications.
+	* Emotional stress.
 * **Comorbidity Screen**: Screen for joint pain/stiffness (rule out arthropathy), metabolic symptoms.
 
 ### Chronic Plaque Psoriasis (尋常型銀屑病) Physical Signs
-* **Distribution**: Symmetrical; favors extensor surfaces (elbows, knees), scalp, retroauricular area, sacrum/gluteal cleft.
+* **Distribution**:
+	* Symmetrical;
+	* Favors extensor surfaces (elbows, knees), scalp, retroauricular area, sacrum/gluteal cleft.
 * **Morphology**: Well-demarcated, erythematous, indurated plaques with characteristic silvery-white micaceous scale.
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/6f553fbf532ef902c4f3df853a284ca9.png)
 
 ### Atypical Morphological Variants
 * **Guttate Psoriasis (滴狀銀屑病)**: "Raindrop-like", small (1-10mm) scattered papules on the trunk and proximal limbs.
@@ -50,26 +73,37 @@
 * **Generalized Pustular Psoriasis (von Zumbusch) (膿疱型銀屑病)**: Widespread fiery erythema peppered with sterile macroscopic pustules. Systemically unwell (fever, rigors).
 * **Palmoplantar Pustulosis**: Sterile yellow/brown pustules localized to palms and soles; deeply seated.
 * **Erythrodermic Psoriasis (紅皮病型銀屑病)**: Generalized erythema & scaling involving >90% Body Surface Area (BSA).
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/d5c0d25740b30fbc3ad734d804a2ab6f.png)
 
 ### Eponymous Clinical Phenomena
 * **Auspitz Sign**: Pinpoint bleeding upon removal of the psoriatic scale.
 * **Koebner Phenomenon (同形反應)**: Appearance of new psoriatic lesions at sites of cutaneous trauma (e.g., scratches, surgical scars).
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/d7160938a44aebee69b772844dd1cfaa.png)
 
 ### Nail and Extracutaneous Manifestations
-* **Nail Matrix Involvement**: Pitting (deep, irregular ice-pick pits), leukonychia, crumbling.
-* **Nail Bed Involvement**: Onycholysis (distal separation), **"Oil-drop" sign / Salmon patch** (yellow-red discoloration under plate), subungual hyperkeratosis.
+* **Nail Matrix Involvement**:
+	* Pitting (deep, irregular ice-pick pits).
+	* Leukonychia.
+	* Crumbling.
+* **Nail Bed Involvement**:
+	* Onycholysis (distal separation).
+	* **"Oil-drop" sign / Salmon patch** (yellow-red discoloration under plate).
+	* Subungual hyperkeratosis.
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/88b8bae823b4db41a00e5ad2b36f4a48.png)
 
 ## 4. Differential Diagnoses & Discriminatory Features
 
 ### Psoriasis Differential Diagnosis Matrix
 
-| Differential Diagnosis | Key Discriminatory Features vs Psoriasis |
-| :--- | :--- |
-| **Tinea Corporis** | Asymmetrical, annular lesion with active scaly advancing border and central clearing. +ve fungal scraping. |
-| **Seborrheic Dermatitis** | Favors sebum-rich areas (nasolabial folds, eyebrows). Scale is yellowish/greasy, borders less sharply defined. |
-| **Pityriasis Rosea** | Begins with "Herald patch", follows Langer lines ("Christmas tree" pattern on trunk). |
-| **Nummular Eczema** | Highly pruritic, exudative/crusting, poorly defined margins. Lacks Auspitz sign and thick silvery scale. |
-| **Mycosis Fungoides (CTCL)** | Suspicious if lesions are completely unresponsive to standard psoriasis therapy. Requires biopsy. |
+| Differential Diagnosis       | Key Discriminatory Features vs Psoriasis                                                                       |
+| :--------------------------- | :------------------------------------------------------------------------------------------------------------- |
+| **Tinea Corporis**           | Asymmetrical, annular lesion with active scaly advancing border and central clearing. +ve fungal scraping.     |
+| **Seborrheic Dermatitis**    | Favors sebum-rich areas (nasolabial folds, eyebrows). Scale is yellowish/greasy, borders less sharply defined. |
+| **Pityriasis Rosea**         | Begins with "Herald patch", follows Langer lines ("Christmas tree" pattern on trunk).                          |
+| **Nummular Eczema**          | Highly pruritic, exudative/crusting, poorly defined margins. Lacks Auspitz sign and thick silvery scale.       |
+| **Mycosis Fungoides (CTCL)** | Suspicious if lesions are completely unresponsive to standard psoriasis therapy. Requires biopsy.              |
+
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/145d5f3d1f53bf6280b20a7457d3bc7d.png)
 
 ## 5. Tiered Investigations (Bedside, Bloods, Imaging, Biopsy & Diagnostic Criteria)
 
@@ -82,9 +116,9 @@
 * **Metabolic Screen**: Fasting glucose, HbA1c, fasting lipid profile (to screen for Metabolic Syndrome).
 * **Autoimmune/Rheumatology**: RF, anti-CCP (only if joint symptoms present to differentiate from RA).
 * **Pre-Biologic/Systemic Screening**:
-  * CBC, LFTs, U&Es, Hep B/C serology.
-  * HIV serology (if sudden severe onset or atypical resistance).
-  * Interferon-Gamma Release Assay (IGRA) / T-SPOT for latent TB.
+	* CBC, LFTs, U&Es, Hep B/C serology.
+	* HIV serology (if sudden severe onset or atypical resistance).
+	* Interferon-Gamma Release Assay (IGRA) / T-SPOT for latent TB.
 
 ### Imaging (Pre-Biologic Screening)
 * **CXR**: Mandatory to rule out active/latent tuberculosis before initiating MTX or Biologics.
@@ -92,6 +126,7 @@
 ### Skin Biopsy & Histopathological Criteria
 * **Indication**: Only performed if diagnosis is in doubt (e.g., distinguishing from cutaneous T-cell lymphoma or lichen planus).
 * **Diagnostic Criteria**: Hyperkeratosis + parakeratosis + uniform acanthosis + Munro microabscesses + dilated papillary capillaries.
+![image|550](https://pub-f0606dedf6d94e4bb5b1999cbd065914.r2.dev/d2c9b2f60c05dcd33cbfc386a5233be0.png)
 
 ## 6. Acute Exacerbation Management & Resuscitation (Flares/Emergencies)
 
@@ -99,30 +134,53 @@
 * **Resuscitation Setting**: Ward admission (or ICU/HDU if hemodynamically unstable).
 * **Hemodynamic Stabilization**: Aggressive IV fluid replacement (severe trans-epidermal water and protein loss).
 * **Thermoregulation**: Blanket warmers, monitor core temp (risk of fatal hypothermia or high-output cardiac failure).
-* **Topical Therapy**: Bland emollients ONLY. Avoid potent topical steroids or tar (risk of systemic absorption/toxicity).
+* **Topical Therapy**:
+	* Bland emollients ONLY. 
+	* Avoid potent topical steroids or tar (risk of systemic absorption/toxicity).
 * **Systemic Therapy (Fast Onset)**:
-  * **Cyclosporine**: Agent of choice for rapid disease control.
-  * **Acitretin**: Efficacious for pustular variants.
-  * **Infliximab (IV)**: Rapid-acting biologic for severe recalcitrant cases.
+	* **Cyclosporine**: Agent of choice for rapid disease control.
+	* **Acitretin**: Efficacious for pustular variants.
+	* **Infliximab (IV)**: Rapid-acting biologic for severe recalcitrant cases.
 * **Contraindication**: **STRICTLY AVOID** systemic corticosteroids (precipitates catastrophic pustular rebound upon tapering).
 
 ## 7. Chronic Management Algorithm & Disease-Modifying Therapies (Pharmacology & Lifestyle)
 
 ### Step 1: Topical Therapies (Mild-Moderate Psoriasis, BSA <10%)
 * **Emollients**: First-line to maintain hydration, ↓ pruritus, soften scale.
-* **Topical Corticosteroids**: Moderate-to-potent (e.g., Betamethasone). Use intermittently to avoid skin atrophy.
-* **Vitamin D Analogues**: **Calcipotriol**. Inhibits keratinocyte proliferation. Often combined with betamethasone (e.g., Daivobet gel/ointment).
+* **Topical Corticosteroids**:
+	* Moderate-to-potent (e.g., Betamethasone).
+	* Use intermittently to avoid skin atrophy.
+* **Vitamin D Analogues**:
+	* **Calcipotriol**.
+	* Inhibits keratinocyte proliferation.
+	* Often combined with betamethasone (e.g., Daivobet gel/ointment).
 * **Keratolytics**: Salicylic acid (helps remove thick scale, ↑ penetration of other drugs).
 * **Coal Tar / Dithranol**: Messy, malodorous, but highly effective for thick chronic plaques.
 
 ### Step 2: Phototherapy (Moderate-Severe or Unresponsive to Topicals)
-* **Narrowband UVB (NBUVB)**: 311nm. Safest and most effective phototherapy. Usually 2-3 times weekly for 8-12 weeks.
-* **PUVA (Psoralen + UVA)**: Used for thicker plaques. Higher risk of squamous cell carcinoma and photoaging compared to NBUVB.
+* **Narrowband UVB (NBUVB)**:
+	* 311nm.
+	* Safest and most effective phototherapy.
+	* Usually 2-3 times weekly for 8-12 weeks.
+* **PUVA (Psoralen + UVA)**:
+	* Used for thicker plaques.
+	* Higher risk of squamous cell carcinoma and photoaging compared to NBUVB.
 
 ### Step 3: Conventional Systemic Therapies (Severe, BSA >10%, or High PASI)
-* **Methotrexate (MTX)**: Immunosuppressant. Dosed **WEEKLY**. Requires folic acid supplementation (given on a different day). Monitor LFTs and CBC (hepatotoxic, myelosuppressive).
-* **Cyclosporine**: Calcineurin inhibitor. Rapid acting. Used for short courses (<1-2 years). Monitor BP and U&Es (nephrotoxic, hypertensive).
-* **Acitretin**: Systemic retinoid. Highly teratogenic. Avoid in females of childbearing age (requires strict contraception during use and for 3 years post-discontinuation).
+* **Methotrexate (MTX)**:
+	* Immunosuppressant.
+	* Dosed **WEEKLY**.
+	* Requires folic acid supplementation (given on a different day).
+	* Monitor LFTs and CBC (hepatotoxic, myelosuppressive).
+* **Cyclosporine**:
+	* Calcineurin inhibitor.
+	* Rapid acting.
+	* Used for short courses (<1-2 years).
+	* Monitor BP and U&Es (nephrotoxic, hypertensive).
+* **Acitretin**:
+	* Systemic retinoid.
+	* Highly teratogenic.
+	* Avoid in females of childbearing age (requires strict contraception during use and for 3 years post-discontinuation).
 
 ### Step 4: Biological Therapies (HA Targeted Therapy Protocol)
 * **Indication in HK HA**: Severe psoriasis (PASI > 10, BSA > 10%) failing at least 2 standard systemic therapies or phototherapy.
@@ -141,16 +199,16 @@
 * **Parameters**: Evaluates 4 regions (Head, Trunk, Upper limbs, Lower limbs) for Erythema, Thickness (Induration), and Scaling (Desquamation).
 * **Range**: Score ranges from 0 to 72.
 * **Severity Grading**:
-  * **PASI < 5**: Mild.
-  * **PASI 5-10**: Moderate.
-  * **PASI > 10**: Severe.
+	* **PASI < 5**: Mild.
+	* **PASI 5-10**: Moderate.
+	* **PASI > 10**: Severe.
 * **Clinical Target**: PASI 75 (75% reduction from baseline score), modern biologics aim for PASI 90 or PASI 100 (complete clearance).
 
 ### Rule of Tens for Severe Psoriasis
 * A patient has **Severe Psoriasis** if they meet ANY of the following:
-  * **BSA > 10%** (1% = surface area of patient's hand including fingers).
-  * **PASI > 10**.
-  * **DLQI > 10** (Dermatology Life Quality Index - measures psychosocial and functional impact).
+	* **BSA > 10%** (1% = surface area of patient's hand including fingers).
+	* **PASI > 10**.
+	* **DLQI > 10** (Dermatology Life Quality Index - measures psychosocial and functional impact).
 
 ## 9. Multi-System Complications (End-Organ Damage & Drug Adverse Effects)
 
@@ -164,9 +222,17 @@
 * **High-Output Cardiac Failure**: Secondary to massive cutaneous vasodilation in erythrodermic psoriasis.
 
 ### Pharmacological Adverse Effects
-* **Methotrexate**: Hepatic fibrosis, bone marrow suppression, pulmonary toxicity (pneumonitis).
-* **Biologics**: Reactivation of latent Tuberculosis, Hep B/C reactivation, opportunistic infections, drug-induced lupus (TNF-α inhibitors).
-* **PUVA Therapy**: Increased lifetime risk of non-melanoma skin cancers (SCC > BCC) and melanoma.
+* **Methotrexate**:
+	* Hepatic fibrosis.
+	* Bone marrow suppression.
+	* Pulmonary toxicity (pneumonitis).
+* **Biologics**:
+	* Reactivation of latent Tuberculosis.
+	* Hep B/C reactivation.
+	* Opportunistic infections.
+	* Drug-induced lupus (TNF-α inhibitors).
+* **PUVA Therapy**:
+	* Increased lifetime risk of non-melanoma skin cancers (SCC > BCC) and melanoma.
 
 ## 10. Examiner's Pearls
 

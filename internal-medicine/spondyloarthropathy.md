@@ -87,7 +87,9 @@
 ## 5. Tiered Investigations (Bedside, Bloods, Imaging, Biopsy & Diagnostic Criteria)
 
 ### Bedside and Laboratory Investigations for SpA
-* **Bedside**: ECG (monitor for heart block / conduction delays). Urinalysis (hematuria/proteinuria rule out IgA nephropathy).
+* **Bedside**:
+	* ECG (monitor for heart block / conduction delays).
+	* Urinalysis (hematuria/proteinuria rule out IgA nephropathy).
 * **Bloods**: ESR & CRP (elevated in flares, though may be normal in pure axial disease).
 * **Genetics**: HLA-B27 typing (high sensitivity for AS, supportive in undifferentiated cases).
 * **Immunology**: RF and anti-CCP (strictly -ve in SpA).
@@ -95,15 +97,16 @@
 
 ### Imaging Modalities for Axial and Peripheral SpA
 * **Plain Radiography (X-ray)**: 
-  * SI Joints: Sclerosis, erosions, joint space widening → late fusion/ankylosis.
-  * Spine: "Squaring" of vertebral bodies, **syndesmophytes** (vertical bony bridges), "bamboo spine" (竹節樣脊柱), "dagger sign" (ossified supraspinous ligament).
+	* SI Joints: Sclerosis, erosions, joint space widening → late fusion/ankylosis.
+	* Spine: "Squaring" of vertebral bodies, **syndesmophytes** (vertical bony bridges), "bamboo spine" (竹節樣脊柱), "dagger sign" (ossified supraspinous ligament).
 * **MRI SIJ/Spine (Gold Standard for early Dx)**: 
-  * STIR/T2FS sequence: Shows **bone marrow edema** (active osteitis/sacroiliitis) *before* X-ray changes.
-  * T1 sequence: Shows fat metaplasia (chronic damage).
+	* STIR/T2FS sequence: Shows **bone marrow edema** (active osteitis/sacroiliitis) *before* X-ray changes.
+	* T1 sequence: Shows fat metaplasia (chronic damage).
 * **Ultrasound**: Highly sensitive for peripheral enthesitis (thickening, hypervascularity on power Doppler) & dactylitis.
 
 ### ASAS Diagnostic Criteria for Axial SpA
 * **Pre-requisite**: Patients with ≥3 months back pain & age of onset <45 years.
+
 | Imaging Arm (requires 1+2) | Clinical Arm (requires 1+2) |
 | :--- | :--- |
 | **1.** Sacroiliitis on imaging (MRI active inflammation OR definite X-ray sacroiliitis) | **1.** HLA-B27 positive |
@@ -113,11 +116,11 @@
 ### CASPAR Diagnostic Criteria for Psoriatic Arthritis
 * **Pre-requisite**: Inflammatory articular disease (joint, spine, or entheseal).
 * **Criteria**: ≥3 points from the following:
-  * Current psoriasis (2 pts) OR personal/family history of psoriasis (1 pt)
-  * Typical psoriatic nail dystrophy (1 pt)
-  * Negative test for RF (1 pt)
-  * Current dactylitis OR history of dactylitis (1 pt)
-  * Radiologic evidence of juxta-articular new bone formation (1 pt)
+	 * Current psoriasis (2 pts) OR personal/family history of psoriasis (1 pt)
+	 * Typical psoriatic nail dystrophy (1 pt)
+	 * Negative test for RF (1 pt)
+	 * Current dactylitis OR history of dactylitis (1 pt)
+	 * Radiologic evidence of juxta-articular new bone formation (1 pt)
 
 ## 6. Acute Exacerbation Management & Resuscitation (Flares/Emergencies)
 
@@ -136,28 +139,28 @@
 * **Smoking Cessation**: Smoking accelerates syndesmophyte formation and worsens functional outcomes in AS.
 
 ### Step-Up Pharmacotherapy Algorithm for Axial SpA
-| Step | Intervention | Clinical Notes & HA Context |
-| :--- | :--- | :--- |
-| **Step 1** | Continuous NSAIDs | First-line disease-modifying therapy for axial SpA. E.g., Celecoxib, Indomethacin. Must give minimum 2-4 weeks at max tolerated dose. |
+| Step       | Intervention                  | Clinical Notes & HA Context                                                                                                                                                              |
+| :--------- | :---------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Step 1** | Continuous NSAIDs             | First-line disease-modifying therapy for axial SpA. E.g., Celecoxib, Indomethacin. Must give minimum 2-4 weeks at max tolerated dose.                                                    |
 | **Step 2** | bDMARD: TNF Inhibitors (TNFi) | If refractory to ≥2 NSAIDs + high BASDAI/ASDAS. Agents: Adalimumab, Etanercept, Infliximab. Requires HA special funding (Samaritan/CCF) screening (Latent TB/Hep B screening mandatory). |
-| **Step 3** | bDMARD: IL-17 Inhibitors | Alternative if TNFi fails or contraindicated. Agent: Secukinumab, Ixekizumab. **Do not use in IBD** (may exacerbate bowel disease). |
-| **Note** | csDMARDs | **NOT EFFECTIVE** for isolated axial disease. |
+| **Step 3** | bDMARD: IL-17 Inhibitors      | Alternative if TNFi fails or contraindicated. Agent: Secukinumab, Ixekizumab. **Do not use in IBD** (may exacerbate bowel disease).                                                      |
+| **Note**   | csDMARDs                      | **NOT EFFECTIVE** for isolated axial disease.                                                                                                                                            |
 
 ### Step-Up Pharmacotherapy Algorithm for Peripheral SpA
-| Step | Intervention | Clinical Notes & HA Context |
-| :--- | :--- | :--- |
-| **Step 1** | NSAIDs +/- IA Steroids | First line for mild oligoarticular disease. |
-| **Step 2** | csDMARDs | **Effective for peripheral joints.** Sulfasalazine (SSZ) or Methotrexate (MTX). SSZ preferred if concurrent IBD. |
-| **Step 3** | bDMARD (TNFi or IL-17i) | For csDMARD-refractory peripheral SpA or severe enthesitis/dactylitis. |
-| **Step 4** | tsDMARD (JAK inhibitors) | E.g., Tofacitinib, Upadacitinib. Emerging role in refractory PsA/AS. |
+| Step       | Intervention             | Clinical Notes & HA Context                                                                                      |
+| :--------- | :----------------------- | :--------------------------------------------------------------------------------------------------------------- |
+| **Step 1** | NSAIDs +/- IA Steroids   | First line for mild oligoarticular disease.                                                                      |
+| **Step 2** | csDMARDs                 | **Effective for peripheral joints.** Sulfasalazine (SSZ) or Methotrexate (MTX). SSZ preferred if concurrent IBD. |
+| **Step 3** | bDMARD (TNFi or IL-17i)  | For csDMARD-refractory peripheral SpA or severe enthesitis/dactylitis.                                           |
+| **Step 4** | tsDMARD (JAK inhibitors) | E.g., Tofacitinib, Upadacitinib. Emerging role in refractory PsA/AS.                                             |
 
 ## 8. Risk Stratification, Clinical Scoring Systems & Prognosis
 
 ### Disease Activity Scoring (BASDAI and ASDAS)
 * **BASDAI (Bath AS Disease Activity Index)**: Patient-reported symptom score (0-10) assessing fatigue, spinal pain, joint pain, enthesitis, morning stiffness severity/duration.
-  * **Threshold**: BASDAI ≥ 4 indicates active disease requiring step-up therapy (e.g., qualifying for TNFi).
+	* **Threshold**: BASDAI ≥ 4 indicates active disease requiring step-up therapy (e.g., qualifying for TNFi).
 * **ASDAS (AS Disease Activity Score)**: Composite score combining patient-reported symptoms with objective inflammatory markers (CRP or ESR).
-  * **Threshold**: <1.3 = Inactive, >2.1 = High activity, >3.5 = Very high activity. Preferred over BASDAI by ASAS.
+	* **Threshold**: <1.3 = Inactive, >2.1 = High activity, >3.5 = Very high activity. Preferred over BASDAI by ASAS.
 
 ### Functional Impairment Scoring (BASFI)
 * **BASFI (Bath AS Functional Index)**: Patient questionnaire assessing ability to perform daily tasks (e.g., putting on socks, picking up a pen from the floor, reaching high shelves). Higher score = worse physical function and structural damage.
